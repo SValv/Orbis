@@ -16,3 +16,17 @@ pre code {
 a {
   font color: green;
 }
+
+h1.title {
+  font-family: "Times New Roman";
+  font-size: 34px;
+  text-align: center
+}
+
+h4.date {
+  text-align: center;
+}
+
+h4.author {
+  text-align: center;
+}
