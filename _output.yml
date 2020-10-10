@@ -1,0 +1,21 @@
+bookdown::gitbook:
+  css: style.css
+  split_by: "chapter"
+  toc_depth: 4
+  config:
+    toc:
+      collapse: section
+      scroll_highlight: yes
+      before: null
+      after: null
+    toolbar:
+      position: fixed
+    edit : null
+    download: [["Container/CCrand.xlsx", "Character-Creation Sheet"], ["Container/DmExcel.xlsx", "Game-File"],["Container/RulebookDnD.pdf", "DnD Rulebook"]]
+    fontsettings:
+      theme: sepia
+      family: serif
+      edit: yes
+      size: 2
+    sharing: no
+    info: yes

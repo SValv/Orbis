@@ -1,0 +1,27 @@
+# Allgemeines {#Allgemeines}
+
+## Das Erwachen
+
+> "Das Erwachen stellt eine der größten Konstanten in unserer Welt dar, egal ob Mensch, Elf oder Ork - die Leiche steht wieder auf und dürstet nach dem Blute der Unschuldigen!"
+>
+> --- Harnod Cowell III, Eldrischer Gelehrter
+
+Seit dem Anfang der Chroniken ist das Erwachen ein fester Teil von Aestea, ein Gestorbener - wenn nicht ordentlich bestattet - steht binnen 2-6 Tagen wieder auf, die meisten jedoch im Rahmen von 3-4 Tagen. Die Erwachten - wie die lebenden Toten weithin genannt werden - sind feindlich gegenüber fast jeder intelligenten Lebensform, die nicht auch erwacht ist. Sie zu töten ist nicht immer einfach, da man große Teile ihres Körpers zerstören muss bis sie endlich wieder erschlaffen. Sie einzudämmen ist allerdings möglich, da sie kein taktisches oder logisches Verständnis zu besitzen scheinen. Am besten umgeht man sie großflächig und meldet jede Infestion umgehend der Armee oder der Ekklesia.
+Die beste Möglichkeit sie langfristig loszuwerden ist sie gar nicht erst entstehen zu lassen, religiöse Rituale verhindern die Erweckung - so hat jedes Volk seine eigene Methode gefunden mit der Gefahr umzugehen, manche davon besser, andere wiederrum weniger geeignet.
+
+![Hüte dich vor den Erwachten](Pictures\\Flavor\\Allgemein\\Erwachter1.jpg)
+
+Die Art und Weise mit der Erweckung umzugehen ist allerdings in jedem Volk eine idenditätsstiftende Sache, die den Charakter und die Systeme aller Völker geprägt hat und die Zivilisation grundsätzlich beeinflusst. 
+
+## Die Rolle der Religion
+
+In Orbis Aestea ist es die Energie des Glaubens der Leute, die dem übernatürlichem Macht verleiht. Sollten nur genug Leute an eine übernatürliche Macht oder einen Gott glauben wird man sehr schnell seine Hand und seine Spuren in der Welt feststellen. Umso fester der Glaube an gewisse Begräbnissrituale, desto sicherer ist es, dass die Leichen, die auf diese Art und Weise bestattet wurden auch bestattet bleiben. Auch in anderen Bereichen kann der Glaube Berge versetzen: Tödlich verletzte Soldaten, deren Willen im Kampf trotzdem nicht bricht, Seuchenkranke, die ihre Krankheit abschütteln nur weil sie intensiv genug beten und Monster, die die Gläubigen verschonen während sie Ketzer erbarmungslos zur Strecke bringen. 
+
+Die besondere Rolle der Religion sorgt auch dafür, dass religiöse Institutionen bei den meisten Völkern eine tragende Rolle spielen - oder zumindest sehr mächtig sind. Im Kaiserreich beispielsweise steht die Inquisition - der militärische Arm der Ekklesia - de facto über dem Gesetz. Bei den Rah-Kari ist das ganze System als Theologie aufgebaut, in der die Hohepriester der Kulte über das Reich herrschen.
+
+![eine Priesterin der Rah Kari bei der Salbung eines Toten](Pictures\\Flavor\\Allgemein\\RahPriesterin1.jpg)
+
+## Die Geschichte Orbis Asteras
+
+![Ein Zeitstrahl über die Geschehnisse von Orbis Astera](Pictures\\Flavor\\Allgemein\\Timeline.png)
+

@@ -1,0 +1,49 @@
+# Besondere Items und Modifikationen {#BesondereItems}
+
+In diesem Kapitel geht um spezielle Items die sich von normal Handelsüblichen durch die eine oder andere Funktionalität unterscheiden oder direkt etwas neues nie dargewesenes darstellen.
+Diese Items können entweder von Spielercharakteren mit dem Handwerksskill entworfen und gebaut werden oder von Händlern erworben werden die diese von genialen Ingneuren erhalten haben.
+
+
+## Regeln
+
+Da diese Gegenstände tendenziell von Spielern entwickelt werden und somit das Regelwerk diese nicht abdeckt ist die funktionalität mit dem DM abzuklären und ob diese überhaupt mit dem vorhandenen Handwerkskill umzusetzten sind.
+Grundsätzliches ist bei der Umsetzung alles möglich jedoch liegt verständlicherweise das Balancing im Fokus.
+
+## Waffen Mods
+
+Diese Modifikationen können entweder bestimmte Faktoren herausheben und verstärken, Nachteile ausgleichen oder rein Utility.
+
+### Armbrust
+Reduction des Verlusts der Single Action beim Nachladen auf 25% anstelle 50%
+
+
+
+## Rüstungs Mods
+
+## Andere Items und Ausrüstung
+
+### Zoombrille
+
+Diese Brille schützt nicht nur die Augen sondern ermöglich
+Schutzbrille mit Zoom Funktion auf einem Auge
+
+FUNKTION: +5 RANGED auf Entfernung nach justierung
+
+KOSTEN: SINGLE ACTION zum justieren
+
+NACHTEILE: NUTZLOS BEI ZIELEN DIE SICH ENTFERNUNGSTECHNISCH STARK VERÄNDERN (BSP. SPRINT RICHTUNG SCHÜTZEN)
+ERFORDERT NACH JUSTIEREN
+
+
+### Enterhaken
+
+Ein Haken an einem Seil.
+Kann mit einem Wurf Check geworfen und befestigt werden, bei erfolgt steigt der Skill Acrobat beim benutzten des Seil um 10.
+
+### Strickleiter
+Preis 200
+Kann mithilfe eines Enterhakens in Position gebracht werden oder von oben heruntergeworfen, ermöglicht das erklimmen von Hindernissen.
+Wenn Aralis (Schwere Rüstungsträger) luck Safe ob die Leiter zerreißt
+
+
+

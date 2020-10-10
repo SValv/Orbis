@@ -1,0 +1,18 @@
+--- 
+title: "Orbis Aestea"
+date: "Version vom: `r format(Sys.Date(),'%d.%m.%Y')`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+---
+
+# (PART) Orbis Aestea {-} 
+
+# Einführung in Orbis Aestea
+
+Wir schreiben das Jahr 426 seit Gründung des Kaiserreichs.
+Der Große Krieg zwischen den Rah Kari und dem Kaiserreich liegt 5 Jahre zurück, seitdem befinden sich die beiden Großen Reiche im Krieg miteinander.
+
+Sämtliche Karten in Orbis Astera sind nach Westen ausgerichtet, das bedeutet das der Süden auf der Karte links, der Norden rechts und der Osten unten liegt.
+
+![Karte von Orbis Aestera](Pictures\\Maps\\Orbis Aestea.jpg)

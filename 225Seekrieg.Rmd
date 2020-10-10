@@ -1,0 +1,235 @@
+# Der Krieg auf See
+
+Die Meere in Orbis Astea sind ein ebenso gefährliches und umkämpftes Gebiet wie das Land und so ist es nützlich sich mit dem Kampf auf See auszukennen.
+
+Da das Meer, die Seen und Flüsse sowohl für den Handel als auch für militärische Operationen essentiell sind, ist eine gute Flotte aus der Machtpolitik der Fraktionen kaum herauszudenken.
+
+## Allgemeines
+
+Der Kampf auf See unterscheidet sich signifikant vom Kampf auf dem Festland, während schwere Rüstungen auf dem Festland zu den mächtigsten Waffengattungen gehören, sieht man in Metall bekleidete Soldaten nur selten auf See. Egal wie gut man schwimmen kann, das enorme Gewicht einer Rüstung zieht einen in den sicheren Tod sollte man über Bord gehen. 
+
+Stattdessen sieht man vor allem leichte Rüstung, da diese kaum beeinträchtigend ist, wenn man überleben will - wobei gute schwimmer sich auch in mittlerer Rüstung auf Schiffe begeben können ohne um ihr Leben fürchten zu müssen.
+
+Auch Fernkampfwaffen sind auf See deutlich häufiger vertreten - dabei allen vorran Armbrüste und Musketen, deren größter Nachteil, die Nachladezeit, von der Distanz von Schiff zu Schiff relativ gut negiert wird.
+
+### Kapern und Versenken
+
+Es gibt zwei Möglichkeiten eine Auseinandersetzung mit einem anderen Schiff zu gewinnen: das Kapern und das Versenken.
+
+Beim Versenken wird dem Schiff genügend Schaden zugefügt, dass es untergeht (Also die Haltbarkeit auf Null sinkt). Dies kann allerdings länger dauern als man anfangs glauben mag, da je nach Beschädigung, gerade größere Schiffe, eine Zeit brauchen bis sie ausreichend mit Wasser vollgelaufen sind. 
+
+Beim Kapern übernimmt man das Schiff des Gegners, indem man die Crew gefangen nimmt oder tötet und die Steuerung über das Schiff übernimmt.
+
+Für jede dieser Optionen gibt es verschiedene Werkzeuge, die entwickelt wurden, um das Ziel besser zu erreichen.
+
+### Schiffsarten
+
+Es gibt drei große Übertypen, in die sich Schiffe unterteilen lassen. Zwei dieser Schiffstypen sind relevant, da kaum wer ein Staatenschiff steuern oder bekämpfen wird. 
+Die relevanten Schiffstypen sind Ruder und Segelschiffe.
+
+#### Ruderschiffe
+
+Ruderschiffe existieren deutlich länger als Segelschiffe und stellen, vor allem im Flussverkehr, die häufigste Schiffsart dar. Ihr niedriges Profil und ihr niedriger Schwerpunkt,  in Verbindung mit der Manövrierbarkeit, macht sie zur perfekten Schiffsklasse für einen Kampfstil, der seinen Schwerpunkt aufs Rammen legt. Allerdings macht es das niedrige Profil auch schwerer Segelschiffe zu entern, sowie Personen auf Deck eines Schiffes mit niedrigen Profil  wenig Chancen haben sich vor den Schützen auf einer vöher liegenden Anhöhe (beispielsweise ein höheres Schiff) zu decken.
+
+Die Crews auf Ruderschiffen sind aufgrund der Rudercrew meist größer und brauchen daher mehr Vorräte, weswegen lange Reisen nur in Küstennähe möglich sind, außer es liegt Unterstützung von Segelschiffen vor. Auch Ruderschiffe können für Reisen Segel haben, sind damit aber kaum Manöverfähig. So muss das Segel bei jedem Richtungswechsel eingeholt werden.
+
+Vorteile:
+
+* Weniger bis keine Abhängigkeit von Wind
+* Einfach manövrierbar
+* Braucht wenig erfahrene Seemänner
+* Schnelle Beschleunigung
+* Niedriges Profil
+* Billiger
+
+Nachteile:
+
+* Brauchen mehr Versorgung
+* Deutlich mehr Personen zur Fortbewegung
+* Niedriges Profil
+* Nur in Küstennähe alleine nutzbar
+* Schlechter für große Distanzen
+* Anfälliger für Stürme
+
+#### Segelschiffe
+
+Vorteile:
+
+* Brauchen weniger Personen zur Fortbewegung
+* Können viel Ladung und Vorräte mitnehmen
+* Hohes Profil
+* Hochseetauglich
+* Schnell
+
+Nachteile:
+
+* Windabhängig
+* schwerer manövirierbar
+* Braucht kompetente Seemänner
+* Teuer
+* Hohes Profil
+
+#### Staatenschiffe
+
+Niemand weiß so genau woher die Staatenschiffe kommen, aber diese maritimen Kolosse gelten als unbezwingbar.
+Die größe alleine reicht aus, um Flotten in den Schatten zu stellen und in die Flucht zu jagen, da ein Staatenschiff kleinere Schiffe, bei ausreichender Beschleunigung, mühelos überfahren kann.
+Staatenschiffe scheinen sich selbst wie durch Wunderhand mit allen möglichen zur Verfügung stehenden Materialien zu reparieren, sei es Treibgut oder andere Schiffe. Daher gibt es bis heute keinen bekannten Fall in dem ein Staatenschiff gesunken ist.
+
+Die schiere Größe, das riesenhafte Profil und die Widerstandskraft eines Staatenschiffs macht es zum idealen Objekt um massig Artillerie darauf zu stellen oder es als eine Maritime Stadt zu verwenden.
+
+Staatenschiffe haben eine komplexe zentrale Steuereinheit und nur wenige sind in der Lage ein Staatenschiff damit zu steuern - sollte man allerdings eine derartige steuerung gemeistert bekommen sind die Möglichkeiten enorm. 
+Doch auch ohne geeignete Steuermänner haben die Bewohner dieser Kolosse Wege gefunden, um sie zu steuern. durch den Aufbau hunderter kleiner Segel sind die Staatenschiffe etwas steuerbar, obwohl es immernoch eine Herausforderung ist und um ein vielfaches weniger effektiv als die zentrale Steuerung. 
+Eine gezielte Steuerung eines Staatenschiffs ohne Steuereinheit gilt als unmöglich.
+
+## Schiffstypen
+
+Verschiedenste Schiffstypen mit eigenen Charakteristiken, Vor. und Nachteilen, Besonderheiten und Verwendungszwecken können in Orbis Astea gefunden werden. 
+
+### Ruderschiffe
+
+#### Barke
+
+Barken sind meist kleine Boote ohne Mast, die bis zu 8 Leuten Platz bieten. Sie sind nicht hochseetauglich und werden meist für kleinere Transporte oder von Hafennahen Fischern eingesetzt. Eine Barke ist sehr billig, allerdings nur bedingt von Bedeutung. Auf größeren schiffen werden sie als Beiboote eingesetzt.
+
+#### Bireme
+
+![Modell einer Bireme](Pictures/Flavor/Ships/Bireme.jpg)
+
+Eine Bireme ist ein Ruderboot mit zwei Ruderreihen. Es ist das kleinste Ruderboot dass wirklich eine Bedeutung hat. Mit einer Mindestbesatzung von 40 Mann und Kapazität für 40 weitere Soldaten ist die Bireme eine kostengünstige Option, die fast überall Anwendung findet. Voll hochseetauglich wird sie alleine durch die Kapazität an Nahrung ausgebremst.
+
+Biremen kommen sowohl mit offenem Deck, als auch mit einem geschlossenem Kampfdeck.
+
+#### Galeeren
+
+Galeeren haben ein breites, meist offenes Deck und sind eher auf Artillerie als auf Truppentransport ausgelegt. Da viele Galeeren umfunktionierte oder immer noch im Dienst seinende Handelsschiffe sind, haben sie auch häufiger Lagerräume und das typische - oft nachteillige offene Deck. 
+
+![Eine umfunktionierte Handelsgaleere](Pictures/Flavor/Ships/Galley1.png)
+
+Dennoch sind Galeeren weit verbreitet und sowohl im zivilen als auch im militärischen Gebrauch üblich. Und sind vor allem durch ihre Vielseitigkeit charakterisiert. Kaum ein Schiffstyp ist so vielseitig und anpassungsfähig.
+
+#### Trireme
+
+Die Trireme ist mit 130 Ruderern und Platz für 150 Soldaten ein gefürchteter Anblick in jeder Seeschlacht. Ihre immense Beschleunigung macht sie zum idealen Schiff zum rammen und zum kapern anderer Schiffe, und so sind sie eigentlich nur im militärischen Gebrauch anzutreffen.
+
+![Eine Trireme auf Patroullie](Pictures/Flavor/Ships/Triere.jpg)
+
+Obwohl Triremen eher teuer sind, sind sie aufgrung ihrer Kampfkraft und der Schnelligkeit, mit der neue Seefahrer eingearbeitet sind, weit verbreitet.
+Trieren haben außerdem Platz für Artillerie und sind standartmäßig mit einer Ramme ausgerüstet, sie werden immer mit einem geschlossenem Kampfdeck gebaut.
+
+
+### Segelschiffe
+
+#### Kutter
+
+Ein Kutter ist meist ein kleines Fischerboot, in das bis zu 8 Personen hineinpassen. Es ist weder hochseefähig, noch besonders geräumig und ist das Segelschiff-Gegenstück zur Barke mit dem Vorteil höherer Reichweite und Geschwindigkeit und das man nicht ständig rudern muss. 
+
+#### Brigg
+
+Die Brigg ist das kleinste hochseefähige Schiff und kommt mit einem bis zwei Masten und Segeln. Je nach größe können verschiedene Mengen an Personen und Artillerie aufgenommen werden. Wärend auf kleine Briggs nur 1-2 Skorpione passen können auf größere Briggs sogar Katapulte oder Ballisten installiert werden.
+
+![Eine Brigg von der Seite](Pictures/Flavor/Ships/Brigg.png)
+
+#### Langschiff
+
+Das Langschiff ist ein Design der Ska'en und ist mit kaum Artillerie oder einer Ramme ausgestattet, dennoch ist das Schiff aufgrund seiner Geschwindigkeit und Wendigkeit gefürchtet. Es kombiniert Vorteile aus beiden Welten der Schifffahrt damit dass es sowohl Segel als auch Ruder besitzt und schnell und zuverlässig eine große Menge Krieger transportieren kann, die sowohl fürs Kapern anderer Schiffe als auch für Landungen auf dem Festland eingesetzt werden können.
+
+![Das Langboot ist ein eher exotischer Schiffstyp](Pictures/Flavor/Ships/Longboat.jpg)
+
+Ohne die Krieger ist das Langboot im Kampf jedoch relativ aufgeschmissen, da das niedrige Profil und die Abwesenheit von Artillerie das Schiff alleine kaum Aktionsfähig macht.
+
+#### Fregatte
+
+Die Fregatte ist ein großes Segelschiff mit Platz für zwei bis drei Ballisten oder Katapulte. Sie braucht 25 Seemänner um gesteuert zu werden und kann in etwa 80 zusätzliche Personen Transportieren. Fregatten sind sowohl in ziviler als auch als militärischer Nutzung häufig - werden jedoch in beiden Fällen meist bewaffnet, da sie beliebte Ziele für Piraten sind. Sie können lange Zeit reisen und sind oft der Hauptteil maritimer Flotten.
+
+![Eine Fregatte kreuzt gegen den Wind](Pictures/Flavor/Ships/Fregatte.jpg)
+
+Fregatten gelten als das kleinste der großen Segelschiffe.
+
+#### Karavelle
+
+Die Karavelle ist das mittlere der großen Segelschiffe und ein nicht zu unterschätzendes Schiff. Sie ist (obwohl sie an Beschleunigung nicht mit Ruderschiffen mithalten kann) die wahrscheinlich schnellste Schiffsklasse auf dem Meer und wird in Puncto Feuerkraft nur von der Galeone übertroffen. Ihr hohes Deck sorgt dafür dass hoher Wellengang und leichte Stürme ihr kaum was anhaben können. 
+
+![Eine Karavelle auf Jungferfahrt](Pictures/Flavor/Ships/Caravel.jpg)
+
+Bereits 35 Mann reichen aus um eine Karavelle voll Fahr- und Funktionsfähig zu halten, jedoch haben bis zu 140 Passagiere auf der Karavelle Platz.
+
+#### Galeone
+
+![Eine Galeone](Pictures/Flavor/Ships/Galeone.jpg)
+
+Galeonen sind oft die Flaggschiffe von Flotten. Diese enormen Kreutzer kosten ganze Vermögen und sind mit einer Menge an Artillerie und Soldaten ausgestattet. Die 60 Seemänner die es braucht um das Boot zu bemannen lassen noch Platz für bis zu 320 andere Passagiere - die meist die Leibgarde einer sehr reichen und mächtigen Person sind.
+
+Die Galeone fährt für gewöhnlich mit einer Begleitflotte und ist trotz ihrer größe ein bisschen langsamer als eine Fregatte.
+
+### Werte und Übersicht
+
+|    Kampf   |  Art  | Haltbarkeit | Sinkzeit |  Manövrierbarkeit | Beschleunigung |
+|:----------:|:-----:|:-----------:|:--------:|:-----------------:|:--------------:|
+|    Barke   | Ruder |     1500    |   2 min  |         20        |       10       |
+|   Kutter   | Segel |     2000    |  15 min  |         18        |        6       |
+|   Bireme   | Ruder |    10000    |    1h    |         17        |       14       |
+|    Brigg   | Segel |     8000    |    1h    |         14        |       13       |
+| Langschiff | Segel |    15000    |    1h    |         16        |       17       |
+|   Galeere  | Ruder |    18000    |   1.5h   |         13        |       15       |
+|  Fregatte  | Segel |    15000    |   1.5h   |         9         |       12       |
+|   Trireme  | Ruder |    25000    |    2h    |         10        |       20       |
+|  Karavelle | Segel |    18000    |    2h    |         7         |       11       |
+|   Galeone  | Segel |    30000    |    3h    |         5         |        5       |
+
+<small>
+<small>
+
+|    Fahrt   |  Art  |  Mannschaftsgröße |   Vorrat  | Passagierzahl |  Tiefgang |  Geschwindigkeit |  Profilhöhe |
+|:----------:|:-----:|:-----------------:|:---------:|:-------------:|:---------:|:----------------:|:-----------:|
+|    Barke   | Ruder |         1         |   0 Tage  |       7       |   20 cm   |         7        |     40cm    |
+|   Kutter   | Segel |         1         |   1 Tag   |       9       |    40cm   |         9        |     70cm    |
+|   Bireme   | Ruder |         40        |   4 Tage  |       40      |    80cm   |        10        |      2m     |
+|    Brigg   | Segel |         10        |  2 Wochen |       80      |   1.2 m   |        15        |      5m     |
+| Langschiff | Segel |         40        |   8 Tage  |      110      |    80cm   |        17        |      3m     |
+|   Galeere  | Ruder |         80        |   5 Tage  |       90      |     1m    |        12        |      4m     |
+|  Fregatte  | Segel |         30        |  8 Wochen |       80      |     3m    |        18        |      7m     |
+|   Trireme  | Ruder |        130        |   6 Tage  |      160      |    1.5m   |        14        |      5m     |
+|  Karavelle | Segel |         45        | 10 Wochen |      140      |    4.5m   |        20        |      9m     |
+|   Galeone  | Segel |         60        |  8 Wochen |      320      |     6m    |        16        |     20m     |
+
+</small>
+</small>
+
+## Schiffsbewaffnung
+
+### Artillerie
+
+| Waffenslots | Klein | Mittel | Groß |
+|:-----------:|:-----:|:------:|:----:|
+|    Barke    |   0   |    0   |   0  |
+|    Kutter   |   1   |    0   |   0  |
+|    Bireme   |   2   |    0   |   0  |
+|    Brigg    |   2   |    1   |   0  |
+|  Langschiff |   2   |    0   |   0  |
+|   Galeere   |   4   |    1   |   0  |
+|   Fregatte  |   6   |    2   |   0  |
+|   Trireme   |   4   |    1   |   1  |
+|  Karavelle  |   6   |    2   |   2  |
+|   Galeone   |   10  |    6   |   4  |
+
+### Rammen
+
+Sämtliche Ruderboote können Rammen beesitzen. 
+Um erfolgreich zu Rammen wird ein Vehicle-Check geworfen.
+
+### Kaperequipment
+
+Um ein Schiff zu kapern gibt es folgende Hilfsmittel:
+
+* Seile
+* Wurfhaken
+* Brücken
+
+### Sonstige Waffen
+
+#### Saldisches Feuer
+
+Saldisches Feuer stammt von der Insel Saldis, auf der ein Erfinder einen Weg gefunden hat mithilfe eines entzündbaren Pulvers ein Flammenstrahl zu erzeugen, den man gerichtet aus einem Rohr feuern konnte. 
+Schnell übernahmen die Kapitäne diese, auf See enorm nützliche, Erfindung und benutzten sie als Waffe gegen mit Soldaten gefüllte Oberdecks.
+
+Saldisches Feuer ist in der Lage in kürzester Zeit enormen Schaden an der Crew anzurichten, so ist diese einfach zu versteckende Waffe enorm gefürchtet.

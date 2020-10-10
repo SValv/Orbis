@@ -1,0 +1,21 @@
+# Für DM's und die, die es werden Wollen
+
+## Wie intepretiere ich Values und Würfe {#Abstufungen}
+
+
+### Was machen kritische Würfe
+
+## Queststufen
+
+| Queststufe | Beschreibung                                                                                                                                                                                                 | Standartdpreis |
+|:----------:|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------:|
+|      1     | Keine großen Folgen und nur ein Pet-peeve für Auftragsgeber                                                                                                                                                  |       500      |
+|      2     | Kleine Aufträge, möglicherweise gefährlich, wenig bis keine Auswirkungen                                                                                                                                     |      1000      |
+|      3     | Mittlere Aufträge, etwas Gefährlich, keine Auswirkungen auf Standing mit großen Fraktionen, geringe lokale Auswirkungen                                                                                      |      2500      |
+|      4     | Mittlere Aufträge, etwas Gefährlich, meist keine Auswirkungen auf Standing mit großen Fraktionen, mittlere lokale Auswirkungen                                                                               |      6000      |
+|      5     | Mittlere Aufträge, kleine regionale/ große Lokale Auswirkungen, gefährlich, beeinflusst Standing mit Fraktionen (v.a. mit kleineren)                                                                         |      14000     |
+|      6     | Mittlere Aufträge, mittlere regionale Auswirkungen, gefährlich, beeinflusst Standing mit Fraktionen (v.a. mit kleineren)                                                                                     |      28000     |
+|      7     | Große Aufträge, große regionale Auswirkungen, beeinflusst Standing mit Fraktionen                                                                                                                            |      50000     |
+|      8     | Große Aufträge, Leichte Globale Auswirkungen, ändert Standing mit Fraktionen                                                                                                                                 |     100000     |
+|      9     | Große Aufträge, Globale Auswirkungen, ändert Standing mit Fraktionen stark.                                                                                                                                  |     600000     |
+|     10     | Quests mit enormen Gefahren, Politisch gravierenden Konsequenzen und extremen langfristigen Folgen für Charaktere und Welt. BSP: Kaiser töten, Land übernehmen etc, Kann Fraktionen zum Teil ganz vernichten |    3.000.000   |

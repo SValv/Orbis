@@ -1,0 +1,27 @@
+
+# Menschen
+
+Da Menschen an sich den meisten Lesern bereits vertraut sind ist dies eher ein kurzer Eintrag in diesem Buch.
+Menschen stellen die mit Abstand dominanteste Rasse in Orbis Astea da. Ihre größte Stärke ist die Fähigkeit, sich an jede Situation anzupassen. Ein Mensch kann fast alles lernen und ist körperlich nicht wirklich eingeschränkt - aber auch nicht begabt.
+
+Dies führt zu einer Situation in der Menschen zwar in jedem Bereich oben mitspielen, aber in kaum einem Bereich zu den besten gehören. Für die Spezies selbst scheint sich die Durchschnittlichkeit jedoch auszuzahlen. Sie besetzen am meisten Raum, sind am zahlreichsten und mit Abstand die mächtigste Rasse.
+
+## Die Geschichte der Rasse
+
+Die Geschichte der Menschen ist zu vielfältig, um wirklich von einer Rassengeschichte zu sprechen. Dies liegt vor allem an der enormen Heterogenität zwischen Gesellschaften. Das Kaiserreich, Rah Kari und Eldria bezeichnen beispielsweise ganz unterschiedliche Kulturen, obwohl zur gleichen Rasse gehörig.
+
+Was man allerdings weiß, ist das die Menschen wohl mit eine der älteren Rassen sein müssen. Die deutlich länger dokumentierende Geschichtsschreibung der Zwerge (bzw. ihre Geschäftsbücher) weisen von Anfang an auf Außenhandel mit Menschen hin. 
+
+## Bekannte Kulturen der Menschen
+
+Hier eine Auflistung von reinen Menschenkulturen, bzw. Kulturen in denen Menschen einen hohen Bevölkerungsanteil haben:
+
+* Das <font color="green">[Kaiserreich](#Kaiserreich)</font>
+* Die <font color="green">[Rah Kari](#RahKari)</font>
+* Das <font color="green">[Fürstentümer von Eldria](#EldriaFaction)</font>
+* Die <font color="green">[Skaen](#Skaen)</font>
+* Die <font color="green">[Kultisten des Berma-Tals](#BermaTal)</font>
+* Die <font color="green">[Seekulturen](#Seevolk)</font>
+* Die <font color="green">[Eisenrote Wüste](#EisenroteWueste)</font>
+
+

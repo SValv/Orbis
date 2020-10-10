@@ -1,0 +1,279 @@
+# Wer willst du sein?
+
+In Orbis Aestea bietet eine Vielzahl von möglichen Geschichten, Charakteren und Möglichkeiten an. Die wichtigste Frage für die Erstellung eines Charakters ist "Worauf hast du Lust?"
+
+## Die Charakter Creation
+
+Als erstes ist es wichtig ungefähr eine Ahnung zu haben was und wen man spielen will. Obwohl sich das vollständige Bild eines Charakters erst am Schluss der Erstellung ergibt ist es dennoch wichtig, dass man weiß wohin man will und was einem Spaß macht.
+
+Oben im Download-Menü liegt ein Vorlage-File, mit dem die Character-Creation in Excel gut und Schnell vorgenommen werden kann. Das "Status"-Blatt ist besonders wichtig, da es einen schnellen Überblick verleiht und man die größten Teile jeder Session nur über das Status-Blatt Spielen kann. Hier bitte die Attribute und Skills nicht direkt verändern, sie müssen im Arbeitsblatt "Character Sheet" angepasst werden und werden dann mit Referenzen automatisch in Status aktualisisert. Das ganze Sheet arbeitet allgemein viel mit Referenzen, daher gut darauf aufpassen was man überschreibt, aber die Logik dahinter wird man schnell verstehen. Das Sheet ist für einen Beispielcharakter aufgebaut, seine Werte und sein Inventar ist natürlich nach und nach mit den eigenen zu ersetzen.
+
+Auch wichtig ist zu wissen welchen Defensivskill man verwenden will, <font color="green">[Blocken oder Ausweichen](#BlockenAusweichen)</font>, da diese Skillgruppe für Abenteurer unabhängig von der Spielweise eine der wichtigsten ist.
+
+### Rasse und Startwerte
+
+Als erstes wählt man die Rasse aus, die man Spielen möchte, am wichtigsten hierbei ist, dass verschiedene Rassen verschiednene Werte und Attribute haben mit denen man arbeiten kann. Des weiteren haben manche Rassen gewisse Fähigkeiten - wie zum Beispiel die THermosicht der Goblins - die große Vorteile mit sich bringen können.
+
+mit diesen Base-Stats fängt man an:
+
+<small>
+<small>
+
+| Wert                 | Mensch     | Waldelf    | Zwerg                                         | Ork         | Animalus                     | Goblin       | Stadtelf     | Halbling                      |
+|----------------------|------------|------------|-----------------------------------------------|-------------|------------------------------|--------------|--------------|-------------------------------|
+| Strength             | 10         | 8          | 10                                            | 13          | 12                           | 7            | 8            | 7                             |
+| Agility              | 10         | 13         | 8                                             | 10          | 12                           | 12           | 13           | 10                            |
+| Charisma             | 10         | 11         | 8                                             | 6           | 8                            | 9            | 12           | 13                            |
+| Intelligence         | 10         | 10         | 14                                            | 8           | 9                            | 10           | 10           | 10                            |
+| Luck                 | 5          | 4          | 4                                             | 6           | 4                            | 7            | 4            | 6                             |
+| Experience           | 10         | 12         | 10                                            | 10          | 10                           | 10           | 11           | 10                            |
+| Physical             | 10         | 9          | 10                                            | 12          | 11                           | 8            | 9            | 9                             |
+| Health               | 200        | 150        | 200                                           | 250         | 250                          | 150          | 150          | 150                           |
+| Ausdauer             | 12         | 15         | 9                                             | 12          | 13                           | 14           | 15           | 10                            |
+| Glaube               | 5          | 5          | 5                                             | 5           | 5                            | 5            | 5            | 5                             |
+| Startgeld            | 30000      | 28500      | 66000                                         | 21000       | 24000                        | 30000        | 25500        | 36000                         |
+| Rassenfähigkeiten    |            | Nachtsicht | Geldgeil                                      | Kurzsichtig | Mutation                     | Thermo-sicht | Nachtsicht   | Unverdächtig                  |
+| Freie Skillpunkte    | 72         | 72         | 72                                            | 72          | 72                           | 72           | 72           | 90                            |
+| Freie Attributpunkte | 25         | 20         | 15                                            | 17          | 17                           | 20           | 20           | 20                            |
+| Sprachen             | Herkunft 8 | Elfisch 8  | Zwergisch 8 <br> Rah Kari 5 <br> Kaiserlich 4 | Orkisch 6   | Beastmen 8 <br> Kaiserlich 3 | Gob 8        | Kaiserlich 8 | Kaiserlich 8 <br>  Halbling 8 |
+
+</small>
+</small>
+
+#### Rassenfähigkeiten {-}
+
+* Nachtsicht: Elfen können im Dunklen sehen.
+* Geldgeil: Zwerge bekommen bei Intimidation-Proben +3 Expirience wenn es um Geld geht. 
+* Kurzsichtig: Die Kurzsichtigkeit von Orks macht es ihnen unmöglich Fernkampfwaffen zu verwenden
+* Thermo-sicht: Goblins sehen die Wärmestruktur von Körpern. Normalerweise ist dies ein riesenhafter Vorteil, da sie sowohl im Dunklen als auch durch Wände Bedrohungen ausmachen können. Manche gefährlichen Monster haben aber keine Wärmesignatur 
+* Unverdächtig: Halblinge werden aufgrund ihres unauffälligen Verhaltens und ihrer Erscheinung meistens nicht verdächtigt gesetzeswidrig gehandelt zu haben.
+* Mutation: Die Mutation ist verbunden mit dem <font color="green">[Übergangsritual der Animali](#Mutation)</font> sie übernehmen physiologische Marker des ersten Monsters, das sie erjagt haben. Davon abhängig ob der Charakter ein Jungtier oder bereits mutiert ist steht die mutation noch aus, oder er hat mehrere individuelle Perks und schwächen, die zur erjagten Beute passen. Im Falle eines Jungtiers wird die Mutation noch ausgespielt.
+
+### Level und Skillverbesserungen
+
+Folgende Punkte gibt es bei Level-ups oder Character-Creation zu vergeben:
+
+* Attributpunkte - hiermit verbessert man Attribute, die Health und die Ausdauer
+* Skillpunkte - hiermit verbessert man Skills
+
+Um die Skills und Attribute zu verbessern muss eine gewisse Menge an Attribut- und Skillpunkten vergeben werden. Höhere Werte kosten Verhältnissmäßig mehr. 
+Jeder Wert kann Zurückentwickelt werden, bringt aber nur einen Skill/Attributpunkt pro Stufe. 
+Wichtig ist allerdings, dass sowohl Luck als auch Glaube nicht aufgewertet werden können. 
+
+Bei einem Level up bekommt man:
+
+* zwei Attributpunkte
+* Skillpunkte abhängig von der Intelligenz des Charakters nach folgenden Schema:
+
+| Intelligenz | Skillpunkte |
+|:-----------:|:-----------:|
+|      5      |      7      |
+|      6      |      8      |
+|      7      |      9      |
+|      8      |      9      |
+|      9      |      10     |
+|      10     |      10     |
+|      11     |      10     |
+|      12     |      11     |
+|      13     |      11     |
+|      14     |      11     |
+|      15     |      12     |
+|      16     |      12     |
+|      17     |      13     |
+|      18     |      13     |
+|      19     |      14     |
+|      20     |      15     |
+
+Bei der Character-Creation sind Attribute schon mit den Kosten nach dem untenstehenden Schema zu bezahlen. Skillpunkte können - im Gegensatz dazu - bei der Creation einfach addiert werden und müssen erst bei Level-ups nach dem unten stehenden Schema bezahlt werden.
+
+Sowohl Attribut- als auch Skillpunkte verfallen nicht wenn man im Level aufsteigt, man kann also für spätere Stufen "sparen". Des weiteren kann man einen Attributpunkt einmal pro Level up zu zwei Skillpunkten umwandeln - dies gehr nicht in die andere Richtung.
+
+Achrung bei der Charakter Creation dürfen Attribute maximal 15 betragen, Skills maximal 45.
+
+#### Kosten Attributverbesserung {-}
+
+| Attributes | Kosten/einheit |
+|:----------:|:--------------:|
+|    0-10    |        1       |
+|    10-12   |        2       |
+|    12-14   |        4       |
+|    14-16   |        6       |
+|    16-18   |        8       |
+|    18-20   |       12       |
+
+#### Kosten Health-verbesserung {-}
+
+|  Health | Kosten/25 einheiten |
+|:-------:|:-------------------:|
+| 150-200 |         0,5         |
+| 200-300 |          1          |
+| 300-400 |          2          |
+| 400-500 |          4          |
+| 500-600 |          6          |
+| 600-700 |          8          |
+
+Achtung: Gesundheit wird immer in 25er Chunks erhöht.
+
+#### Kosten Ausdauerverbesserung {-}
+
+| Ausdauer | Kosten/einheit |
+|:--------:|:--------------:|
+|   0-10   |        1       |
+|   10-12  |        2       |
+|   12-14  |        3       |
+|   14-16  |        4       |
+|   16-18  |        5       |
+|   18-20  |        6       |
+
+#### Kosten Skillverbesserung {-}
+
+| Skills  | Kosten/einheit |
+|:-------:|:--------------:|
+|  0 -20  |        1       |
+|  20-40  |        2       |
+|  40-60  |        4       |
+|  60-80  |        6       |
+|  80-100 |       10       |
+
+### Wissen-Skills 
+
+Zusätzlich zu den "harten" Eigenschaften gibt es noch sogenannte Wissens-Skills. Diese sollten mit der Backstory verknüpft sein und können in diesem Rahmen frei gewählt werden. Sie fließen eher als Hintergrund-Eigenschaften mit ein, da sie nicht direkt über Proben irgendeiner Art geprüft werden. Wenn der DM irgendwelch Hintergrund-infos hat die jemand mit entsprechendem Wissens-Skill wissen müsste, sollte der Spieler diese Infos auch haben.
+Manchmal - nach Entscheidung des DM - haben Wissens-Skills auch gewisse Boni für feste Werte (bspw beim Pflanzen suchen).
+
+Wissens-Skills berechnen sich aus der Intelligenz der Person nach der Character-Creation. Bei Intelligenz 10 sind es drei Wissens-Skills, für abweichende Werte wird prozentuell auf oder abgerundet.
+
+### Sprachen
+
+In Orbis Astea gibt es viele Sprachen. Die Menschen haben in jeder Fraktion unterschiedliche Sprachen, wobei die Sprache Eldrias und die des Rechs sehr ähnlich ist. Orks sprechen eine sehr einfache Sprache namens Orkisch - das noch Informationsärmer ist als das Gob der Goblins. Elfisch ist eine sehr hohe Sprache, die aber nur noch die Waldelfen wirklich sprechen. Ahnlich wie die Halblinge - die aber auch ihren eigenen Dialekt haben, der schwer verständlich sein kann wenn sie es wollen - sprechen Stadtelfen meistens die Sprache der Menschen.
+
+Die Sprachfertigkeit kann von 1-10 gehen. 10 ist das Niveau eines gebildeten Muttersprachlers, mit 6-7 kann man flüssige Gespräche führen, mit 3 kann man stockende Alltagsgespräche führen und mit 1 kann man nur einzelne Worte austauschen.
+
+Sprachen öffnen viele Türen und Tore und sollten vom DM gerade beim social play beachtet werden.
+
+Jede Rasse hat ihre Startsprache und zusätzlich dazu Sprachpunkte in Höhe von (Intelligenz+Expirience)/4, die einfach auf Sprachen verteilt werden können. Dies sollte aber gerade bei guten Kenntnissen in die Backstory eingebaut werden.
+
+### Kontakte
+
+Kontakte sind ein weiteres Stück der Welt - sozusagen das soziale Kapital des Spielers. Sie helfen an Aufträge, Informationen und andere Dinge zu kommen für die Vitamin B nun mal nützlich ist. 
+Die Punkte, die man für Kontakte vergeben kann berechnen sich aus  der Summe: Charisma + Expirience + Luck + Glaube.
+
+Diese Punkte können dann auf Loyalität eines Kontaktes und Einfluss eines Kontaktes verteilt werden.
+
+Loyalität ist eine Skala, die von 1 bis 7 geht. Während eine Loyalität von 1-2 nützliche Geschäftskontakte darstellt würde man 5 als enge Freundschaft, 6 als Beziehung und 7 als liebende Familie/lebenslange Ehe Bezeichnen können. Gerade tiefere Kontakte müssen in der Backstory begründet sein.
+
+Bei Einfluss geht die Skala von 0 bis 12, wobei 0 den Penner auf der Straße darstellt und 12 der Kaiser höchstselbst ist. Werte über 7 müssen gut begründet werden, während Werte über 9 gänzlich unmöglich sind.
+
+## Der Bewegungsradius {#BewRadius}
+
+Der Bewegungsradius stellt die Strecke dar, die ein Charakter in einer Runde zurücklegen kann. Sie berechnet sich durch den Agility-Wert durch 2 abgerundet. So kann sich eine normal agile Person 5 Meter pro Runde bewegen. Mit Reittieren kann dieser Wert natürlich deutlich höher sein.
+
+## Das Inventar
+
+Das Inventar ist der kummulierte Besitz eines jeden Abenteurer, seine Habseligkeiten und seine wichtigen Gegenstände sind gut aufgeführt. Ein richtig geführtes Inventar ist Grundlage für ein schnelles und reibungslos ablaufendes Spiel. 
+
+### Rucksack
+
+Alle Gegenstände, die nicht sofort verfügbar sind, sind im Rucksack. Ein durchschnittlich starker Mensch (Stärke 10) kann dabei 40kg tragen. Prinzipiell nimmt man den Durchschnitt aus Stärke und Physical mal 4 um die Traglast zu determinieren. Diese wird als Rucksackgröße benutzt.
+
+Ein Objekt während einem Kampf aus dem Rucksack holen kostet die Main Action, sollte man sich allerdings nicht im Kampf/unter Zeitdruck befinden kann man problemlos Objekte aus dem Rucksack rauskramen.
+
+### Holster 
+
+Da man Waffen in gefährlichen Settings schnell zur Hand haben will - und diese nicht erstmal ewig aus dem Rucksack kramen will wurden Holster erfunden. Diese Kosten pro Holster bei der Erstellung eines Charakters 1250 Reiks und man kann maximal 5 davon haben. In verschiedene Holster passen nur bestimmte Waffentypen. Mehr dazu <font color="green">[hier](#Holster1)</font>.
+
+### Tranktasche
+
+Auch Tränke will man im Kampf schnellstmöglich verfügbar haben. Dafür wurde die Tranktasche entwickelt. Für viele SOldaten und Abenteurer ist die Tranktasche nicht wegzudenken - Bomben, Power ups und Heilungen einfach mit einer single Action zu verwenden ist auch ein gutes Argument, denn genau dies erlaubt die Tranktasche. 
+
+Es gibt Tranktaschen mit verschiedenen Mengen an Slots:
+
+| Tranktasche | Preis | Slots |
+|:-----------:|:-----:|:-----:|
+|    Klein    |  2500 |   2   |
+|    Normal   | 15000 |   4   |
+|     Groß    | 45000 |   6   |
+
+## Ausrüstung
+
+Nach der Charakter-Creation ist die richtige Startausrüstung von Bedeutung.
+Was ein Abenteurer unbedingt haben sollte ist eine Waffe, eine Tranktasche und möglicherweise Rüstung, da ohne eine solche die Überlebenschancen deutlich kleiner werden.
+
+Ausrüstung zum kaufen findet ihr hier: 
+
+* Hier findet ihr <font color="green">[Waffen](#Waffen)</font>
+* Hier findet ihr <font color="green">[Rüstung](#Rüstung)</font>
+* Hier findet ihr <font color="green">[Reittiere](#Mounts)</font>
+* Hier findet ihr <font color="green">[Übrige Gegenstände](#AndereGegenstände)</font>
+* Hier findet ihr <font color="green">[Tränke](#Tränke)</font>
+
+Denkt beim Einkaufen aber daran, dass es sinnvoll sein kann sich etwas Geld überzuhalten. Schließlich bringt das Leben in Orbis Aestea <font color="green">[Lebenshaltungskosten](#Lebenshaltungskosten)</font> mit sich, und auch für Quests ist es immer sinnvoll etwas Geld übrig zu haben.
+
+## Die Rolle des Gewichts
+
+Gewicht Spielt natürlich eine Große Rolle - kein Charakter kann mehr mit sich tragen als seine eigene Tragfähigkeit. Diese berechnet sich anhand der Stärke mal vier. 
+
+### Das Aktive Gewicht {#AktivesGewicht}
+
+Das Aktive Gewicht ist das Gewicht der Dinge, die am Körper getragen werden. Das besteht aus:
+
+* Waffen in Holstern
+* Rüstung
+* Schild
+* Wurfwaffen in Holstern
+
+Die Summe des Gewichts dieser Items ist das Aktive Gewicht. Es wird durch 5 geteilt und danach vom Physical-Wert abgezogen um die <font color="green">[Ausdauerwürfel für den Ausdauersave](#Ausdauersave)</font> zu erhalten.
+
+### Das passive Gewicht
+
+Das Passive Gewicht ist die Summe des Gewichts der Items die sich im Rucksack befinden. Zusammen mit dem Aktiven Gewicht darf es die Traglast nicht überschreiten. Ansonsten gibt es keine spezielle Relevanz
+
+#### Zusätzliches Gewicht {-}
+
+Manchmal trägt der Spieler zusätzliches Gewicht - bspw. eine ohnmächtige Person. Dies kann mit verchiedenen Nachteilen kommen, welche der DM festlegt. Ein Beispiel ist die Unfähigkeit auszuweichen oder zu rennen.
+
+## Wo nachschauen?
+
+## Im Spiel
+
+Einige Werte verändern sich dynamisch im Spiel. Die wichtigen sind hier aufgeführt und erklärt.
+
+### Modifikatoren 
+
+Bestimmte Effekte (Tränke, Musik, Kälte, etc.) geben positive oder negative modifikatoren, die nicht wie externe Effekte (Schlechte Sicht) die Thresholds beeinflussen, sondern die Werte eines Characters ändern. Sie sind mit + oder - in der Spalte "Modifyer" rechts vom jeweiligen Skill einzutragen.
+
+### Zustand und Wartung von Ausrüstung {#Wartung}
+
+Ausrüstng verliert durch Zeit und Benutzung an Zustand. Normalerweise beträgt der Zustandsverlust pro Session einen Punkt, wenn das Ausrüstungsstück intensiv verwendet wird zwei Punkte. Wenn der Handwerks-skill aber höher ist, als <font color="green">[Tier des Gegenstandes](#Tiers)</font> * 15, kann man die Aktion "Wartung" vornehmen. Durch diese Aktion verliert man einen Punkt Zustand weniger.
+
+### Glaube
+
+> "Wenn man die Götter erzürnt richten sie einen, wenn man ihnen huldigt belohnen sie einen"
+>
+> --- Altes Sprichwort
+
+Glaube ist an sich kein Allein fungierendes Attribut, da Proben so gut wie immer zusammen mit Glück geworfen werden. Das besondere am Glauben ist allerdings dass man ihn mit verschiedenen Aktionen beeinflussen kann. Wenn man sich im Einklang zu den eigenen Göttern verhält, Epische Taten vollbringt, oder eine aandere Aktion macht bei der der DM denkt man hätte es verdient, steigt der Glaube-Wert. Bei gegenteiligem Verhalten sinkt der Glaube wert. 
+Dieser Wert stellt für der DM eine Möglichkeit dar gutes Roleplay zu belohnen.
+
+Dieser Wert soll die Göttliche Gunst in entscheidenden Situationen darstellen.
+
+### Lagern und Ruhen
+
+Es gibt immer die Möglichkeit eine Pause einzulegen und ein Lager aufzuschlagen. Dabei Regenerieren sich Leben und Ausdauer zum Teil. Pro Nacht stellt man 5 Punkte Ausdauer wieder her, oder 100 Punkte leben. 
+Allerdings stellt ein Lager auch ein gutes Ziel für mögliche Gegner dar.
+
+### Ohnmacht und Tod {#Ohnmacht}
+
+Wenn man in Ohnmacht fällt hat man zwei Optionen - entweder man wartet drei Stunden, oder man bekommt ein <font color="green">[Epinephrinika](#Epinephrin)</font>. 
+
+Es gibt mehrere Methoden in Ohnmacht zu fallen, die Wichtigsten sind:
+
+* Missglückter Toxi-Save
+* Narkotika
+* Health auf Null und bestandener Luck - Save
+* Die Ausdauer erreicht den Wert Null und man hat einen missglückten Ausdauer-Save 
+
+Sterben kann man im Gegenzug dazu nur auf zwei weisen:
+
+* der Luck-Save wenn man keine Health mehr hat missglückt
+* Man verliert seine Health im Ohnmächtigen Zustand
+

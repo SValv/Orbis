@@ -1,0 +1,59 @@
+book_filename: "Orbis Aestea"
+language:
+  ui:
+    chapter_name: "Kapitel "
+rmd_files: ["index.Rmd",
+  "001Allgemeines.Rmd",
+
+  "002Rassen.Rmd",
+  "003Menschen.Rmd",
+  "004Elfen.Rmd",
+  "005Orks.Rmd",
+  "006Goblins.Rmd",
+  "007Animali.Rmd",
+  "008Zwerge.Rmd",
+  "009Halblinge.Rmd",
+
+  "012Fraktionen.Rmd",
+  "104Kaiserreich.Rmd",
+  "105Eldria.Rmd",
+  "106RahKari.Rmd",
+  "107Silva-Nacia.Rmd",
+  "108Grimgrod.Rmd",
+  "109Piraten.Rmd",
+  "109Vulkanzwerge.Rmd",
+
+  "109Z1Religion.Rmd",
+  "109Z2Blutkult.Rmd",
+
+  "110Anderes.Rmd",
+  "111Vorlaufer.Rmd",
+  "112Monster.Rmd",
+  "113Drogen.Rmd",
+
+  "114Regionen.Rmd",
+  "120Eisland.Rmd",
+  "120SkaenRegion.Rmd",
+  "121Herzland.Rmd",
+  "122Nors.Rmd",
+  "123YondallaRegion.Rmd",
+  "124Grenzland.Rmd",
+  "130EldriaRegion.Rmd",
+  "132Vandia.Rmd",
+  "135RegionSilvaNacia.Rmd",
+  "140Himmelsspitzen.Rmd",
+  "141Nebelhain.Rmd",
+  "142BermaTal.Rmd",
+  "150Appothis.Rmd",
+  "151EidRahKari.Rmd",
+  "152EisenroteWueste.Rmd",
+  "153GraueOednis.Rmd",
+  "154EndederWelt.Rmd",
+
+  "200Regeln.Rmd",
+  "220CharCreation.Rmd",
+  "222Items.Rmd",
+  "223BesondereItems.Rmd",
+  "225Seekrieg.Rmd",
+  "230DMStuff.Rmd"
+    ]
