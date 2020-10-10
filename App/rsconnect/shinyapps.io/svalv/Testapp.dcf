@@ -1,0 +1,12 @@
+name: Testapp
+title: Testapp
+username:
+account: svalv
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2378253
+bundleId: 3725023
+url: https://svalv.shinyapps.io/Testapp/
+when: 1602372996.85114
+asMultiple: FALSE
+asStatic: FALSE
