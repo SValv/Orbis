@@ -3,7 +3,6 @@ title: "Orbis Aestea"
 date: "Version vom: `r format(Sys.Date(),'%d.%m.%Y')`"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
-documentclass: book
 ---
 
 # (PART) Orbis Aestea {-} 
