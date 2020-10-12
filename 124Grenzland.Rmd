@@ -1,5 +1,10 @@
 # Das Grenzland
 
+Das Grenzland ist die Außengrenze des Kaiserreichs mit Eldria und damit eine der Regionen, die mit der blutigen Vergangenheit eines Kriegsgebietes mithalten können. Aufgrund der vergangenen Konflikte sind Erwachte dort häufiger als im Herzland und lokale Garnisionen müssen oft Kräfte mobilisieren um Friedhöfe, Gruften und ehemalige Schlachtfelder so weit abzuschirmen, dass die Transportwege sicher sind. 
+
+![Karte des Grenzlandes]
+
+Die eben genannten Transportwege sind eine der wichtigsten Eigenschaften des Grenzlandes. Das Grenzland stellt nämlich den sichersten Weg nach Eldria dar, da der kürzere Weg durch den <font color="green">[Silva Nacia](#RegionSilvaNacia)</font> geht, der bekannterweise aufgrund der elfischen Aktivitäten nicht der sicherste Weg ist - vor allem nicht für die Logistik des Kaiserreiches. 
 
 ## Ortschaften der Region 
 
@@ -13,6 +18,8 @@
 
 ## Soziopolitische Lage 
 
+Aufgrund der eher desolaten Lage des Grenzlandes migrieren viele junge Erwachsene in Richtung des Herzlandes, da die wirtschaftlichen Chancen in den Großstädten deutlich besser und aussichtsreicher sind als die, die die kleinen und mittleren Städte des Grenzlandes biesten können. Dieser Mangel an jungen Menschen macht sich sowohl wirtschaftlich als auch militärisch bemerkbar. 
+
 ### Herrschaftsystem/Organisation
 
 ## Klimatische Bedingungen
@@ -24,3 +31,9 @@
 ## Gerüchte der Region
 
 ## Sehenswürdigkeiten
+
+## Besonderheiten der Region
+
+### Die Hammerer von Alt-Greifenstadt
+
+Diese Einheiten der kaiserlichen Armee hat sich frühzeitig auf rüstungsbrechende Waffen spezialisiert, um die eldrischen Ritter effektiver zu bekämpfen. Die Hammerer von Alt-Greifenstadt 
