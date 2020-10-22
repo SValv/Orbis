@@ -318,7 +318,9 @@ Ein jeder weis Vorbereitung ist der Schlüssel zum Erfolg und nichts unterstüzt
 Fallen existieren in vielen Farben und Formen doch alle haben sie eines gemeinsam der Feind der in sie tappt ist leichte Beute.
 
 
-### Funktionsweise Fallen: 
+### Funktionsweise Fallen:
+Fallen bieten einen guten Vorteil jedoch nur wenn sie bis zur auslösung vom Opfer unentdeckt bleiben. In diesem Sinne können Fallen durch einen Perception check entdeckt werden.
+
 Perception check entdecken
 Wenn ausgelöst initiative check ob reaktion möglich danach passender abwehr check
 Verscheidene fallen haben verschiedene funktionsweisen allerdings unterbrechen alle fallen die action und beenden den zug, wenn eines von beiden versagt wirkt die falle.

@@ -27,7 +27,7 @@ Für jede dieser Optionen gibt es verschiedene Werkzeuge, die entwickelt wurden,
 Es gibt drei große Übertypen, in die sich Schiffe unterteilen lassen. Zwei dieser Schiffstypen sind relevant, da kaum wer ein Staatenschiff steuern oder bekämpfen wird. 
 Die relevanten Schiffstypen sind Ruder und Segelschiffe.
 
-#### Ruderschiffe
+#### Ruderschiffe {- #RuderGeneral}
 
 Ruderschiffe existieren deutlich länger als Segelschiffe und stellen, vor allem im Flussverkehr, die häufigste Schiffsart dar. Ihr niedriges Profil und ihr niedriger Schwerpunkt,  in Verbindung mit der Manövrierbarkeit, macht sie zur perfekten Schiffsklasse für einen Kampfstil, der seinen Schwerpunkt aufs Rammen legt. Allerdings macht es das niedrige Profil auch schwerer Segelschiffe zu entern, sowie Personen auf Deck eines Schiffes mit niedrigen Profil  wenig Chancen haben sich vor den Schützen auf einer vöher liegenden Anhöhe (beispielsweise ein höheres Schiff) zu decken.
 
@@ -51,7 +51,7 @@ Nachteile:
 * Schlechter für große Distanzen
 * Anfälliger für Stürme
 
-#### Segelschiffe
+#### Segelschiffe {- #SegelGeneral}
 
 Vorteile:
 
@@ -69,7 +69,7 @@ Nachteile:
 * Teuer
 * Hohes Profil
 
-#### Staatenschiffe
+#### Staatenschiffe {-}
 
 Niemand weiß so genau woher die Staatenschiffe kommen, aber diese maritimen Kolosse gelten als unbezwingbar.
 Die größe alleine reicht aus, um Flotten in den Schatten zu stellen und in die Flucht zu jagen, da ein Staatenschiff kleinere Schiffe, bei ausreichender Beschleunigung, mühelos überfahren kann.
@@ -87,11 +87,11 @@ Verschiedenste Schiffstypen mit eigenen Charakteristiken, Vor. und Nachteilen, B
 
 ### Ruderschiffe
 
-#### Barke
+#### Barke {-}
 
 Barken sind meist kleine Boote ohne Mast, die bis zu 8 Leuten Platz bieten. Sie sind nicht hochseetauglich und werden meist für kleinere Transporte oder von Hafennahen Fischern eingesetzt. Eine Barke ist sehr billig, allerdings nur bedingt von Bedeutung. Auf größeren schiffen werden sie als Beiboote eingesetzt.
 
-#### Bireme
+#### Bireme {-}
 
 ![Modell einer Bireme](Pictures/Flavor/Ships/Bireme.jpg)
 
@@ -99,7 +99,7 @@ Eine Bireme ist ein Ruderboot mit zwei Ruderreihen. Es ist das kleinste Ruderboo
 
 Biremen kommen sowohl mit offenem Deck, als auch mit einem geschlossenem Kampfdeck.
 
-#### Galeeren
+#### Galeeren {-}
 
 Galeeren haben ein breites, meist offenes Deck und sind eher auf Artillerie als auf Truppentransport ausgelegt. Da viele Galeeren umfunktionierte oder immer noch im Dienst seinende Handelsschiffe sind, haben sie auch häufiger Lagerräume und das typische - oft nachteillige offene Deck. 
 
@@ -107,7 +107,7 @@ Galeeren haben ein breites, meist offenes Deck und sind eher auf Artillerie als 
 
 Dennoch sind Galeeren weit verbreitet und sowohl im zivilen als auch im militärischen Gebrauch üblich. Und sind vor allem durch ihre Vielseitigkeit charakterisiert. Kaum ein Schiffstyp ist so vielseitig und anpassungsfähig.
 
-#### Trireme
+#### Trireme {-}
 
 Die Trireme ist mit 130 Ruderern und Platz für 150 Soldaten ein gefürchteter Anblick in jeder Seeschlacht. Ihre immense Beschleunigung macht sie zum idealen Schiff zum rammen und zum kapern anderer Schiffe, und so sind sie eigentlich nur im militärischen Gebrauch anzutreffen.
 
@@ -117,19 +117,19 @@ Obwohl Triremen eher teuer sind, sind sie aufgrung ihrer Kampfkraft und der Schn
 Trieren haben außerdem Platz für Artillerie und sind standartmäßig mit einer Ramme ausgerüstet, sie werden immer mit einem geschlossenem Kampfdeck gebaut.
 
 
-### Segelschiffe
+### Segelschiffe 
 
-#### Kutter
+#### Kutter {-}
 
 Ein Kutter ist meist ein kleines Fischerboot, in das bis zu 8 Personen hineinpassen. Es ist weder hochseefähig, noch besonders geräumig und ist das Segelschiff-Gegenstück zur Barke mit dem Vorteil höherer Reichweite und Geschwindigkeit und das man nicht ständig rudern muss. 
 
-#### Brigg
+#### Brigg {-}
 
 Die Brigg ist das kleinste hochseefähige Schiff und kommt mit einem bis zwei Masten und Segeln. Je nach größe können verschiedene Mengen an Personen und Artillerie aufgenommen werden. Wärend auf kleine Briggs nur 1-2 Skorpione passen können auf größere Briggs sogar Katapulte oder Ballisten installiert werden.
 
 ![Eine Brigg von der Seite](Pictures/Flavor/Ships/Brigg.png)
 
-#### Langschiff
+#### Langschiff {-}
 
 Das Langschiff ist ein Design der Ska'en und ist mit kaum Artillerie oder einer Ramme ausgestattet, dennoch ist das Schiff aufgrund seiner Geschwindigkeit und Wendigkeit gefürchtet. Es kombiniert Vorteile aus beiden Welten der Schifffahrt damit dass es sowohl Segel als auch Ruder besitzt und schnell und zuverlässig eine große Menge Krieger transportieren kann, die sowohl fürs Kapern anderer Schiffe als auch für Landungen auf dem Festland eingesetzt werden können.
 
@@ -137,7 +137,7 @@ Das Langschiff ist ein Design der Ska'en und ist mit kaum Artillerie oder einer 
 
 Ohne die Krieger ist das Langboot im Kampf jedoch relativ aufgeschmissen, da das niedrige Profil und die Abwesenheit von Artillerie das Schiff alleine kaum Aktionsfähig macht.
 
-#### Fregatte
+#### Fregatte {-}
 
 Die Fregatte ist ein großes Segelschiff mit Platz für zwei bis drei Ballisten oder Katapulte. Sie braucht 25 Seemänner um gesteuert zu werden und kann in etwa 80 zusätzliche Personen Transportieren. Fregatten sind sowohl in ziviler als auch als militärischer Nutzung häufig - werden jedoch in beiden Fällen meist bewaffnet, da sie beliebte Ziele für Piraten sind. Sie können lange Zeit reisen und sind oft der Hauptteil maritimer Flotten.
 
@@ -145,7 +145,7 @@ Die Fregatte ist ein großes Segelschiff mit Platz für zwei bis drei Ballisten 
 
 Fregatten gelten als das kleinste der großen Segelschiffe.
 
-#### Karavelle
+#### Karavelle {-}
 
 Die Karavelle ist das mittlere der großen Segelschiffe und ein nicht zu unterschätzendes Schiff. Sie ist (obwohl sie an Beschleunigung nicht mit Ruderschiffen mithalten kann) die wahrscheinlich schnellste Schiffsklasse auf dem Meer und wird in Puncto Feuerkraft nur von der Galeone übertroffen. Ihr hohes Deck sorgt dafür dass hoher Wellengang und leichte Stürme ihr kaum was anhaben können. 
 
@@ -153,7 +153,7 @@ Die Karavelle ist das mittlere der großen Segelschiffe und ein nicht zu untersc
 
 Bereits 35 Mann reichen aus um eine Karavelle voll Fahr- und Funktionsfähig zu halten, jedoch haben bis zu 140 Passagiere auf der Karavelle Platz.
 
-#### Galeone
+#### Galeone {-}
 
 ![Eine Galeone](Pictures/Flavor/Ships/Galeone.jpg)
 
@@ -197,7 +197,7 @@ Die Galeone fährt für gewöhnlich mit einer Begleitflotte und ist trotz ihrer 
 
 ## Schiffsbewaffnung
 
-### Artillerie
+### Artillerie {#SegelArtillerie}
 
 | Waffenslots | Klein | Mittel | Groß |
 |:-----------:|:-----:|:------:|:----:|
@@ -227,7 +227,7 @@ Um ein Schiff zu kapern gibt es folgende Hilfsmittel:
 
 ### Sonstige Waffen
 
-#### Saldisches Feuer
+#### Saldisches Feuer {-}
 
 Saldisches Feuer stammt von der Insel Saldis, auf der ein Erfinder einen Weg gefunden hat mithilfe eines entzündbaren Pulvers ein Flammenstrahl zu erzeugen, den man gerichtet aus einem Rohr feuern konnte. 
 Schnell übernahmen die Kapitäne diese, auf See enorm nützliche, Erfindung und benutzten sie als Waffe gegen mit Soldaten gefüllte Oberdecks.
