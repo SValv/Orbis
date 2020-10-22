@@ -136,6 +136,18 @@ Diese Tabelle zeigt Werte für die einzelnen Rüstungsteile:
 
 Achtung: das an- und ausziehen bezieht sich auf eine vollständige Leichte/Mittlere/Schwere Rüstung.
 
+### Negativmodifikatoren durch Rüstung
+
+Belastungsstufen (nach aktiv. Gewicht)
+
+Beim Schleichen:
+
+Beim Bewegen:
+
+Beim Reisen
+
+Beim Aufstehen:
+
 ### Schild
 
 Ein Schild ist die Vorraussetzung für die Aktion <font color="green">["Blocken"](#BlockenAusweichen)</font>, er ist die Lebensversicherung für die, die am meisten an der Front stehen. 
@@ -295,3 +307,57 @@ Folgende Buffs können in die Slots von Instrumenten gepackt werden:
 
 * Herausforderung: Ein Ziel bekommt die Aufmerksamkeit des Gegners und wird angegriffen, außer der Gegner besteht einen Expirience-Save gegen einen Threshold von 4
 * Entspannung: Ein Ziel verliert die Aufmerksamkeit des Gegners und wird nicht angegriffen, außer der Gegner besteht einen Expirience-Save gegen einen Threshold von 4
+
+
+
+
+
+## Fallen:
+
+Ein jeder weis Vorbereitung ist der Schlüssel zum Erfolg und nichts unterstüzt dieses Prinzip so sehr wie eine gut gestellte Falle.
+Fallen existieren in vielen Farben und Formen doch alle haben sie eines gemeinsam der Feind der in sie tappt ist leichte Beute.
+
+
+### Funktionsweise Fallen: 
+Perception check entdecken
+Wenn ausgelöst initiative check ob reaktion möglich danach passender abwehr check
+Verscheidene fallen haben verschiedene funktionsweisen allerdings unterbrechen alle fallen die action und beenden den zug, wenn eines von beiden versagt wirkt die falle.
+
+### Typische Falle:
+Bärenfallen: 
+Material: Metall geschmiedet
+Interrupt: Ja
+Schaden: Am Bein je nach Rüstung: mögliche keine(80%) oder leichte Rüstung (60%)=> Beinverstümmelung, Mittlere schlechte chance (30), schwere keine (5%)
+At Disadvantage: 3 (zwei bonus wurf)
+Öffnen nach aktivierung single und main action zum befreien, Immobilität, placement im Kampf möglich
+Entschärfen: main action
+
+Schlingenfalle: Threshold für survival
+Material: Seil + gegengewicht(?)
+Interrupt: ja
+Schaden: Nein (vllt fall schaden)
+At Disadvantage: 4
+Befreiung: Wurf zum Befreien Threshold abhängig von Gewicht
+Entschärfen: Main Action
+
+
+Stolperfalle: keine Vorraussetzung
+Interrupt: Ja
+Schaden: Nein
+At disadvantage: Person liegt am boden siehe andere Regeln
+Entschärfen: Main Action
+
+Krähenfüße:
+Material: Metall nötig (schmieden)
+Interrupt: Nur keiner und leichter Rüstung
+Schaden: Nein (außer man fällt rein)
+At Disadvantage:  2 (außer schwerer), auch wenn nur im Gebiet
+Entschärfen: Nein
+Besonderheit: Singleaction Placement, Schwere Rüstung ignoeriert die Falle, entfernen aus dem Fuß Single Action, Aufsammeln Ja (luck throw)
+
+Alternative fallen: DM überlassen
+Rollende Kugeln
+Stämme im Wald
+
+
+

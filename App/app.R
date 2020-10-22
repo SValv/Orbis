@@ -21,7 +21,7 @@ ui <- fluidPage(
     )
 )
 
-Colls<-c("Name", "Kosten", "HÃ¤ufigkeit", "Wirkung 1", "W1 Effekt", "Wirkung 2", "W2 Effekt", "Wirkung 3", "W3 Effekt", "Wirkung 4", "W4 Effekt")
+Colls<-c("Name", "Kosten", "Häufigkeit", "Wirkung 1", "W1 Effekt", "Wirkung 2", "W2 Effekt", "Wirkung 3", "W3 Effekt", "Wirkung 4", "W4 Effekt")
 
 # Define server logic required to draw a histogram
 server <- function(input, output) {

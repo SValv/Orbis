@@ -13,6 +13,7 @@ rmd_files: ["index.Rmd",
   "007Animali.Rmd",
   "008Zwerge.Rmd",
   "009Halblinge.Rmd",
+  "010Mischlinge.Rmd",
 
   "012Fraktionen.Rmd",
   "104Kaiserreich.Rmd",
