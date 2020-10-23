@@ -121,17 +121,19 @@ Als Single Action zählen Aktionen, die klein genug sind um keine Main Action zu
 
 Übersicht über Main und Single Actions:
 
-|       Main   Actions      |            Single Actions            |
-|:-------------------------:|:------------------------------------:|
-| Angriff                   | Trank in Tranktasche Benutzen        |
-| Verbündetem helfen        | Blocken/Ausweichen                   |
-| Sache ausm Rucksack holen | Aufstehen                            |
-| Instrument Spielen        | Laden einer Armbrust                 |
-| Trank Herstellen          | Sache Ausm Holster                   |
-| Mount/Dismount            | Trank herstellen (Stufe 1)           |
-| Improvisierte Handlung    | Objekt benutzen                      |
-| Laden Muskete             | Improvisierte kleine Handlung        |
-| Laden der Artillerie      | Angriff Unarmed/Dual Wield/Wurfwaffe |
+|        Main Actions       |         Single Actions        |
+|:-------------------------:|:-----------------------------:|
+|          Angriff          | Trank in Tranktasche Benutzen |
+|     Verbündetem helfen    |  Blocken/Ausweichen/Parieren  |
+| Sache ausm Rucksack holen |           Aufstehen           |
+|     Instrument Spielen    |      Laden einer Armbrust     |
+|      Trank Herstellen     |       Sache Ausm Holster      |
+|       Mount/Dismount      |   Trank herstellen (Stufe 1)  |
+|   Improvisierte Handlung  |        Objekt benutzen        |
+|       Laden Muskete       | Improvisierte kleine Handlung |
+|    Laden der Artillerie   |   Angriff Unarmed/Dual Wield  |
+| Entwaffnen mancher Fallen |       In Deckung Hechten      |
+|                           |        Kleine Wurfwaffe       |
 
 Die Single Action kann - genauso wie die Bonus Action - für die Runde des Gegners gespart und jederzeit eingesetzt werden. Meistens um zu blocken/auszuweichen oder für das Verwenden von Wurfwaffen.
 
@@ -145,20 +147,15 @@ Die Bonus Action ist eine weitere Single Action, diese ist jedoch normalerweise 
 
 Die Bonus Action kann - genauso wie die Single Action - für die Runde des Gegners gespart und jederzeit eingesetzt werden.
 
-#### Blocken und Ausweichen {- #BlockenAusweichen}
+#### Blocken, Parieren und Ausweichen {- #BlockenAusweichen}
 
 Auf jeden Angriff kann mit Blocken oder Ausweichen reagiert werden. Blocken ist dabei ohne zweifel die stärkere Wahl, allerdings verliert man dabei eine Hand an einen Schild und kann keine Großwaffen mehr benutzen oder Dual Wielden, denn ohne einen Schild ist das Blocken nicht möglich.
 
 Wenn man noch eine Single/Bonus Action übrig hat kann man einen Angriff mit einer Wahrscheinlichkeit von 100% blocken oder ausweichen. 
 
-Wenn man keine Action mehr hat, kann man mit einer Wahrscheinlichkeit von 60% blocken und von 20% ausweichen.
+Wenn man keine Action mehr hat, kann man mit einer Wahrscheinlichkeit von 60% blocken, mit 40% parieren und von 20% ausweichen.
 
 ![Schematische Übersicht über die Kampfrunde](Pictures/Rules/Attack.png)
-
-#### Parieren {-}
-
-Parieren bezeichnet das Abwehren von Nahkampfangriffen mit der Nahkampfwaffe. 
-Beim Parieren besteht eine erhöhte Wahrscheinlichkeit den Zustand der Waffe zu verringern. 
 
 
 #### Deckung {-}
@@ -167,14 +164,24 @@ Die Deckung stellt eine Alternative zum Blocken/Ausweichen dar. Deckung kann nur
 
 Es gibt zwei Arten von Deckung - die natürliche und die aufbaubare Deckung. Jede aufbaubare Deckung braucht eine Single und eine Main Action. 
 
-Die Deckung hat eine prozentuelle Chance den Angriff vollständig zu anulieren. Je umfangreicher die Deckung, desto höher diese Chance. Für jeden halben m² beträgt die Chance nicht getroffen zu werden 30% (Dies ist ein Richtwert, die Details unterliegen der Einschätzung des DMs). Je nachdem wie groß der betreffende Charatker ist, ist diese Chance zu erhöhen oder zu senken. **?** Anpassung Rassengröße: Kleine Charaktere haben somit mit keinen Debuffs zu rechnen, bei mittel-großen Charakteren betragen die Debuffs 5% und bei großen Charakteren betragen diese 10%.
-Sobald man in Deckung ist, hat man keinen direkten Überblick über das Schlachtfeld mehr. 
+Die Deckung hat eine prozentuelle Chance den Angriff vollständig zu anulieren. Je umfangreicher die Deckung, desto höher diese Chance. Denn die Wahrscheinlichkeit nicht getroffen zu werden ist ungefähr wieviel % vom Körper durch die Deckung verdeckt wird mal 0.75. Damit haben kleinere Charaktere einen Vorteil, um diesen nicht allzusehr zu erhöhen wird dabei immer von einem normalgroßen Körper ausgegangen (Mensch) und kleine Rassen bekommen eine 5% höhere Wahrscheinlichkeit, während große Rassen eine 5% niedrigere bekommen.
+
+Sobald man in Deckung ist, hat man keinen direkten Überblick über das Schlachtfeld mehr, was einem das strategische Handeln durchaus erschweren kann. Der DM entscheidet wie genau das zu implementieren ist, empfehlenswert ist, davon auszugehen, dass der Spieler gewisse Infos nicht hat.
 
 Bei genügend Schaden, der auf die Deckung trifft, wird die Wirkung der Deckung aufgehoben. Die Schadensmenge ist abhängig vom Material und der Breite der Deckung. Im Regelfall gilt diese Tabelle:
 
----
+|        | Leben |                 Beispiele                 |
+|--------|:-----:|:-----------------------------------------:|
+| Tier 1 |  300  | Schlechte Holzdeckung/Dreckshaufen/Pavese |
+| Tier 2 |  3500 |     Steinhaufen/Bessere Holzdeckungen     |
+| Tier 3 |  9000 |         Massive Steinmauern/Felsen        |
 
-Sollte der Schadenswert einer Deckung überschritten sein, gilt die Deckung als zerstört und ist damit nicht mehr wirkungsvoll. 
+Werte können im Spezialfall auch abweichen
+
+Sollte der Schadenswert einer Deckung überschritten sein, gilt die Deckung als zerstört und ist damit nicht mehr wirkungsvoll. Angriffe "schlagen" durch. 
+
+Deckung kann auch negiert werden. Dies findet entweder durch Artillerie statt, oder durch hinter die Deckung geworfene Explosivstoffe (Hierbei ist der Threshold an die Größe der Deckung und die Umstände anzupassen).
+Eine weitere Strategie gegen Deckung ist das "ansitzen". Hierbei deklariert ein Angreifer als Main Action eine Deckung und achtet genau auf sie. Dies führt dazu, dass er auf ein beliebiges Ziel, dass hinter der Deckung hervorkommt oder hervorschaut einen Angriff ad Advantage ausführen kann. Sollte ein Wesen während dem ansitzen allerdings einen anderen Check werfen müssen wirft es diesen ad Disatvantage und verliert den Fokus auf die Deckung (damit ist das ansitzen beendet).
 
 
 
@@ -290,19 +297,19 @@ Stats und Arten der Artillerie:
 
 | Artillerie | Minimale Besatzung | Maximale Besatzung | Negiert Deckung | Größe  | Zusatz                                                                         |
 |:----------:|:------------------:|:------------------:|:---------------:|--------|--------------------------------------------------------------------------------|
-|  Skorpion  |          1         |          2         |        –        | Klein  | Aufbau im Kampf: 3 Runden wenn nur 1 Mann besatzung: Nachladen als Main Action |
-|  Balliste  |          2         |          3         |       Holz      | Mittel | Nachladen 1 Runde minimum, <br>2 Runden wenn besatzung <2                      |
+|  Skorpion  |          1         |          2         |        –        | Klein  | Aufbau im Kampf: 3 Runden wenn nur 1 Mann Besatzung: Nachladen als Main Action |
+|  Balliste  |          2         |          3         |       Holz      | Mittel | Nachladen 1 Runde minimum, <br>2 Runden, wenn Besatzung <2                      |
 | Handkanone |          1         |          1         |       Holz      | Klein  | Nachladen 1 Runde                                                              |
-| Großkanone |          2         |          3         |      Stein      | Groß   | Nachladen 1 Runde minimum, <br>2 Runden wenn besatzung <3                      |
-|  Katapult  |          2         |          3         | Schwacher Stein | Mittel | Nachladen 1 Runde minimum, <br>2 Runden wenn besatzung <3,<br> Area Damage 2m  |
-| Trebouchet |          4         |          8         |      Stein      | Groß   | Nachladen 1 Runde minimum, <br>2 Runden wenn besatzung <6 ,<br> Area Damage 8m |
+| Großkanone |          2         |          3         |      Stein      | Groß   | Nachladen 1 Runde minimum, <br>2 Runden, wenn Besatzung <3                      |
+|  Katapult  |          2         |          3         | Schwacher Stein | Mittel | Nachladen 1 Runde minimum, <br>2 Runden, wenn Besatzung <3,<br> Area Damage 2m  |
+| Trebouchet |          4         |          8         |      Stein      | Groß   | Nachladen 1 Runde minimum, <br>2 Runden, wenn Besatzung <6 ,<br> Area Damage 8m |
 
 ### Die Schadensverrechnung
 
 Schaden wird relativ einfach verrechnet:
 
 1. Das Programm gibt den Schaden aus 
-2. Abzug von Block/Dodge - Wirkungen (Auch über das programm bei nrun=2)
+2. Abzug von Block/Dodge - Wirkungen (Auch über das Programm bei nrun=2)
 3. Abzug des Rüstungswertes
 4. Damage von Leben abziehen
 
@@ -313,7 +320,7 @@ Wenn man keinen Punkt Ausdauer mehr übrig hat und ein weiterer Ausdauersave mis
 
 ## Die Tiers (oder Stufen) {#Tiers}
 
-Sämtliche Ausrüstung, Tränke, Waffen, Instrumente, etc. kommen in Orbis Aestea in sogenannten "Tiers" oder Stufen. Umso höher die Tier, desto besser und wertvoller die Ausrüstung. 
+Sämtliche Ausrüstung, Tränke, Waffen, Instrumente, etc. kommen in Orbis Astea in sogenannten "Tiers" oder Stufen. Umso höher die Tier, desto besser und wertvoller die Ausrüstung. 
 In einer Tier können Ausrüstungsstücke verschiedenen Materials sein, d.h. die Tier entscheidet darüber, was die Werte der Waffe sind, während das Aussehen und das Material, solange es Tier-konform ist, meistens vom Spieler bestimmt werden darf. Genauer wird dieses Konzept in <font color="green">[Items](#Items)</font> behandelt.
 
 Welche Materialien gehören zu welchen Tiers?
@@ -327,7 +334,7 @@ Welche Materialien gehören zu welchen Tiers?
 
 ## Geld und Wechselkurse {#Währung}
 
-In Orbis Astera gibt es verschiedene Währungen, während im Kaiserreich Reiks die bezeichnende Währung ist, sind es bei den Rah Kari die Tempelmünzen. Zwergenkronen ist selbstverständlich die normierte Währung der Zwerge. Das Seevolk und die Bürger der Skaen verwenden die Währung der Thaler.
+In Orbis Astea gibt es verschiedene Währungen, während im Kaiserreich Reiks die bezeichnende Währung ist, sind es bei den Rah Kari die Tempelmünzen. Zwergenkronen ist selbstverständlich die normierte Währung der Zwerge. Das Seevolk und die Bürger der Skaen verwenden die Währung der Thaler.
 
 Umrechnungskurse:
 
