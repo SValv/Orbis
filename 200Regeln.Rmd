@@ -149,9 +149,13 @@ Die Bonus Action kann - genauso wie die Single Action - für die Runde des Gegne
 
 #### Blocken, Parieren und Ausweichen {- #BlockenAusweichen}
 
-Auf jeden Angriff kann mit Blocken oder Ausweichen reagiert werden. Blocken ist dabei ohne zweifel die stärkere Wahl, allerdings verliert man dabei eine Hand an einen Schild und kann keine Großwaffen mehr benutzen oder Dual Wielden, denn ohne einen Schild ist das Blocken nicht möglich.
+Alle diese "Abwehrhandlungen" verringern den Schaden, den ein Charakter von gegnerischen angriffen abbekommt, denn auf jeden Angriff kann mit Blocken, Parieren oder Ausweichen reagiert werden, es sei denn man sieht den Angriff nicht kommen.
+Blocken ist dabei ohne zweifel die stärkste Wahl, allerdings verliert man dabei eine Hand an einen Schild und kann keine Großwaffen mehr benutzen oder Dual Wielden, denn ohne einen Schild ist das Blocken nicht möglich.
 
-Wenn man noch eine Single/Bonus Action übrig hat kann man einen Angriff mit einer Wahrscheinlichkeit von 100% blocken oder ausweichen. 
+Das parieren ist die schwächste Abwehrform und hat den zusätzlichen Nachteil, dass ein kritischer Treffer des Gegners oder ein eigener Kritischer Fail die Waffe um Zustand 1 verringert. Bei gegnerischem Nat 20/eigenem Nat 1 geht der Zustand sogar um 2 nach unten.
+Der Vorteil des Parierens liegt allerdings daran, dass man keine zusätzlichen einbußen von Optionen hat (wie bspw beim Schild, wo man eine Hand auf den Schild verwendet). Das Parieren ist also eine "kostenfreie" Option, dort wo ein Block unmöglich wird. Allerdings kann nur ein Nahkampfangriff pariert werden. Parieren wird wie Blocken geworfen, als Shield Value gilt der Waffenschaden mal dem Parierwert der Jeweiligen Waffe.
+
+Wenn man noch eine Single/Bonus Action übrig hat kann man einen Angriff mit einer Wahrscheinlichkeit von 100% blocken, parieren oder ausweichen. 
 
 Wenn man keine Action mehr hat, kann man mit einer Wahrscheinlichkeit von 60% blocken, mit 40% parieren und von 20% ausweichen.
 
@@ -172,7 +176,7 @@ Bei genügend Schaden, der auf die Deckung trifft, wird die Wirkung der Deckung 
 
 |        | Leben |                 Beispiele                 |
 |--------|:-----:|:-----------------------------------------:|
-| Tier 1 |  300  | Schlechte Holzdeckung/Dreckshaufen/Pavese |
+| Tier 1 |  350  | Schlechte Holzdeckung/Dreckshaufen/Pavese |
 | Tier 2 |  3500 |     Steinhaufen/Bessere Holzdeckungen     |
 | Tier 3 |  9000 |         Massive Steinmauern/Felsen        |
 
@@ -181,10 +185,7 @@ Werte können im Spezialfall auch abweichen
 Sollte der Schadenswert einer Deckung überschritten sein, gilt die Deckung als zerstört und ist damit nicht mehr wirkungsvoll. Angriffe "schlagen" durch. 
 
 Deckung kann auch negiert werden. Dies findet entweder durch Artillerie statt, oder durch hinter die Deckung geworfene Explosivstoffe (Hierbei ist der Threshold an die Größe der Deckung und die Umstände anzupassen).
-Eine weitere Strategie gegen Deckung ist das "ansitzen". Hierbei deklariert ein Angreifer als Main Action eine Deckung und achtet genau auf sie. Dies führt dazu, dass er auf ein beliebiges Ziel, dass hinter der Deckung hervorkommt oder hervorschaut einen Angriff ad Advantage ausführen kann. Sollte ein Wesen während dem ansitzen allerdings einen anderen Check werfen müssen wirft es diesen ad Disatvantage und verliert den Fokus auf die Deckung (damit ist das ansitzen beendet).
-
-
-
+Eine weitere Strategie gegen Deckung ist das "ansitzen". Hierbei deklariert ein Angreifer als Main Action eine Deckung und achtet genau auf sie. Dies führt dazu, dass er auf ein beliebiges Ziel, dass hinter der Deckung hervorkommt oder hervorschaut einen Angriff ad Advantage 2 ausführen kann. Sollte ein Wesen während dem ansitzen allerdings einen anderen Check werfen müssen wirft es diesen ad Disatvantage und verliert den Fokus auf die Deckung (damit ist das ansitzen beendet). Während man ansitzt kann man nicht mithilfe einer single action eine Abwehraktion (Block,Dodge,Parieren) starten, sondern der Würfel entscheidet.
 
 ### Instrumente und ihre Wirkung im Kampf {#InstrumenteRules}
 
@@ -219,10 +220,7 @@ Dieser Modifyer bleibt bestehen solange der Schleichvorgang andauert, und bei je
 
 Beispiel: Ein Charakter (mit 12 Agility und 43 Sneak) legt einen Hinterhalt mit einem Bogen. Er besteht den ersten Sneak-Check (mit 12 Agility und 43 Sneak) und kann einen Schleichangriff landen. Danach muss er einen weiteren Sneak-Check machen (mit 10 Agility und 43 Sneak - Aufgrund der Fernkampfwaffe bekommt er einen -2 Modifyer). Er besteht und macht einen zweiten Schleichangriff. Nun kommt ein weiterer Sneak-Check (mit 8 Agility und 43 Sneak - Aufgrund der Fernkampfwaffe bekommt er einen weiteren -2 Modifyer). Er besteht und macht einen zweiten Schleichangriff - dieses mal mit seinem Dolch. Nun kommt ein weiterer Sneak-Check (mit 3 Agility und 43 Sneak - Aufgrund der Nahkampfwaffe bekommt er einen -5 Modifyer). Dieses mal wird er entdeckt und die Ziele greifen ihn an, jetzt hat er wieder 12 Agility und 43 Sneak.
 
-#### Negative Modifikatoren beim Schleichen {-}
-
-* Aktives Gewicht größer als 20 Kilo: Disadvantage Level 2
-* Aktives Gewicht größer als 30 Kilo: Disadvantage Level 3
+Beim Schleichen sind außerdem die <font color="green">[Modifikatoren durch Überladung](#Belastungsstufe)</font> zu beachten.
 
 #### Das Attentat {-}
 
@@ -295,14 +293,14 @@ Stats und Arten der Artillerie:
 |  Katapult  |   600   |    350m    |  300 kg |     6     | verboten |      200     |
 | Trebouchet |   2900  |    350m    |  600 kg |     8     | verboten |      600     |
 
-| Artillerie | Minimale Besatzung | Maximale Besatzung | Negiert Deckung | Größe  | Zusatz                                                                         |
-|:----------:|:------------------:|:------------------:|:---------------:|--------|--------------------------------------------------------------------------------|
-|  Skorpion  |          1         |          2         |        –        | Klein  | Aufbau im Kampf: 3 Runden wenn nur 1 Mann Besatzung: Nachladen als Main Action |
-|  Balliste  |          2         |          3         |       Holz      | Mittel | Nachladen 1 Runde minimum, <br>2 Runden, wenn Besatzung <2                      |
-| Handkanone |          1         |          1         |       Holz      | Klein  | Nachladen 1 Runde                                                              |
-| Großkanone |          2         |          3         |      Stein      | Groß   | Nachladen 1 Runde minimum, <br>2 Runden, wenn Besatzung <3                      |
-|  Katapult  |          2         |          3         | Schwacher Stein | Mittel | Nachladen 1 Runde minimum, <br>2 Runden, wenn Besatzung <3,<br> Area Damage 2m  |
-| Trebouchet |          4         |          8         |      Stein      | Groß   | Nachladen 1 Runde minimum, <br>2 Runden, wenn Besatzung <6 ,<br> Area Damage 8m |
+| Artillerie | Minimale Besatzung | Maximale Besatzung | Negiert Deckung |  Größe |                                     Zusatz                                     |
+|:----------:|:------------------:|:------------------:|:---------------:|:------:|:------------------------------------------------------------------------------:|
+|  Skorpion  |          1         |          2         |        –        |  Klein | Aufbau im Kampf: 3 Runden wenn nur 1 Mann Besatzung: Nachladen als Main Action |
+|  Balliste  |          2         |          3         |      Tier 1     | Mittel | Nachladen 1 Runde minimum, 2 Runden, wenn Besatzung <2                         |
+| Handkanone |          1         |          1         |      Tier 1     |  Klein | Nachladen 1 Runde                                                              |
+| Großkanone |          2         |          3         |      Tier 2     |  Groß  | Nachladen 1 Runde minimum, 2 Runden, wenn Besatzung <3                         |
+|  Katapult  |          2         |          3         |      Tier 1     | Mittel | Nachladen 1 Runde minimum, 2 Runden, wenn Besatzung <3, Area Damage 2m         |
+| Trebouchet |          4         |          8         |      Tier 2     |  Groß  | Nachladen 1 Runde minimum, 2 Runden, wenn Besatzung <6 , Area Damage 8m        |
 
 ### Die Schadensverrechnung
 
@@ -331,6 +329,9 @@ Welche Materialien gehören zu welchen Tiers?
 |  Buche | Lärche |       Esche      | Silva-Nacia-Spinnenseide |                    |
 |  Stoff |  Leder |  Kettenbeschlag  |                          |                    |
 
+Während Tier 1 recht verbreitet ist und Tier 2 dem erfahrenem oder reichem Abenteurer zur Verfügung steht ist Tier 3 bereits ausrüstung, die man sehr selten sieht und absoluten Eliteeinheiten vorbehalten ist. Tier 4 haben noch legendäre Krieger und prestigegeile Herrscher, die sich eine Garde leisten können die groß genug ist dass nicht jede Banditengruppe oder jeder Meuchelmörder und Dieb in einer Taverne versucht einem ein derart seltenes und mächtiges Objekt abzunehmen.
+
+Tier 5 ist eine Vollständig andere Liga, diese Items besitzen Gottgleiche Mächte und können entfesselt und kontrolliert ganze Armeen vernichten und wahre Drachen wie kleine Hunde aussehen lassen. Sie zu kontrollieren und zu bedienen ist allerdings noch schwieriger als sie zu finden oder zu erkennen. Sie haben vollständig eigenständige Effekte und jeder DM sollte sich genau überlegen was er tut bevor er sie einführt.
 
 ## Geld und Wechselkurse {#Währung}
 

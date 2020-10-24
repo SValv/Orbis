@@ -4,14 +4,15 @@ Bei der Kalkulation von Waffen und Ausrüstung ist es wichtig sich den richtigen
 
 Diese Tabelle ist eine Übersicht über die Werte zum rechnen über die verschiedenen Tiers hinweg:
 
-
 |   Tier  | Standartwert | Fernkampfwert | Großwaffenwert | Standartpreis | Zustand |
 |:-------:|:------------:|:-------------:|:--------------:|:-------------:|:-------:|
 | Stufe 1 |      30      |       23      |       48       |      5000     |    7    |
 | Stufe 2 |      42      |       32      |       67       |     22500     |    10   |
 | Stufe 3 |      52      |       39      |       83       |     90000     |    14   |
 | Stufe 4 |      63      |       48      |       100      |     300000    |    20   |
-| Stufe 5 |      75      |       56      |       120      |     unbez     |    30   |
+| Stufe 5 |      --      |       --      |       --       |     unbez     |    --   |
+
+Beim Auswählen der richtigen Rüstung und Waffen ist es sinnvoll, die die <font color="green">[Modifikatoren durch Überladung](#Belastungsstufe)</font> zu kennen, damit man nicht am Ende vollständig überladen in die Schlacht zieht.
 
 ## Waffen {#Waffen}
 
@@ -28,12 +29,12 @@ Fernkampfwaffen haben außerdem Vorteile bei der Initiative, was man <font color
 
 Dies sind die Fernkampfwaffen, die einem als Abenteurer zur Auswahl stehen:
 
-|   Waffe   |       Schaden       |        Preis        | Gewicht | Armor Penetration |                            Zusatz                           |
-|:---------:|:-------------------:|:-------------------:|:-------:|:-----------------:|:-----------------------------------------------------------:|
-|   Bogen   |    Fernkampfwert    |    Standartpreis    |   1 kg  |        nein       |                             nein                            |
-|  Armbrust | Fernkampfwert x 1.3 |    Standartpreis    |  1.5 kg |        nein       |    Sneak Advantage 4, Nachladen mit 50% wsl Single action   |
-|  Muskete  |  Fernkampfwert x 3  | Standartpreis x 2.5 |   3 kg  |        90%        |             Sneak Advantage 4, 1 Runde nachladen            |
-| Schleuder | Fernkampfwert x 0.8 | Standartpreis x 0.7 |  0.5 kg |        nein       | Braucht single Action zum wirbeln <br> 40% Betäubungschance |
+|   Waffe   |       Schaden       |        Preis        | Gewicht | Armor Penetration |                              Zusatz                             |
+|:---------:|:-------------------:|:-------------------:|:-------:|:-----------------:|:---------------------------------------------------------------:|
+|   Bogen   |    Fernkampfwert    |    Standartpreis    |   1 kg  |        nein       |                               nein                              |
+|  Armbrust | Fernkampfwert x 1.3 |    Standartpreis    |  1.5 kg |        nein       |      Sneak Advantage 4, Nachladen mit 50% wsl Single action     |
+|  Muskete  |  Fernkampfwert x 3  | Standartpreis x 2.5 |   3 kg  |        90%        | Sneak Advantage 4, 1 Runde nachladen <br> negiert Deckung Tier1 |
+| Schleuder | Fernkampfwert x 0.8 | Standartpreis x 0.7 |  0.5 kg |        nein       |    Braucht single Action zum wirbeln<br>40% Betäubungschance    |
 
 * Besonderheiten Muskete: Mit der Muskete verbraucht das Nachladen eine Single und eine Main Action. Ausweichen ist während diesem Prozess nicht möglich, außer man hat eine single/bonus Action übrig.
 
@@ -136,18 +137,6 @@ Diese Tabelle zeigt Werte für die einzelnen Rüstungsteile:
 
 Achtung: das an- und ausziehen bezieht sich auf eine vollständige Leichte/Mittlere/Schwere Rüstung.
 
-### Negativmodifikatoren durch Rüstung
-
-Belastungsstufen (nach aktiv. Gewicht)
-
-Beim Schleichen:
-
-Beim Bewegen:
-
-Beim Reisen
-
-Beim Aufstehen:
-
 ### Schild
 
 Ein Schild ist die Vorraussetzung für die Aktion <font color="green">["Blocken"](#BlockenAusweichen)</font>, er ist die Lebensversicherung für die, die am meisten an der Front stehen. 
@@ -242,7 +231,7 @@ Die Wirkungen im Kampf sind in der unten stehenden Tabelle ersichtlich.
 * Licht des Allgottes: Prinzipiell Blendgranate
 * Segen der Sienna: Äquivalent schwarzes Blut
 * Reinigung: entfernt alle stati bis zur stufe der Reinigung
-* Madnika: zusätzlich keine Ausdauerdebuffs/Widerstehen von 1x todohnmacht
+* Madnika: zusätzlich keine Ausdauerdebuffs/Widerstehen von 1x Ohnmacht durch Ausdauerverlust
 
 
 ## Reittiere {#Mounts}
@@ -309,66 +298,77 @@ Folgende Buffs können in die Slots von Instrumenten gepackt werden:
 * Entspannung: Ein Ziel verliert die Aufmerksamkeit des Gegners und wird nicht angegriffen, außer der Gegner besteht einen Expirience-Save gegen einen Threshold von 4
 
 
-
-
-
-## Fallen:
+## Fallen
 
 Ein jeder weis Vorbereitung ist der Schlüssel zum Erfolg und nichts unterstüzt dieses Prinzip so sehr wie eine gut gestellte Falle.
 Fallen existieren in vielen Farben und Formen doch alle haben sie eines gemeinsam der Feind der in sie tappt ist leichte Beute.
 
+Fallen bieten einen großen Vorteil, jedoch nur wenn sie bis zur Auslösung vom Opfer unentdeckt bleiben. In diesem Sinne können Fallen durch einen Perception-Check entdeckt werden. Doch selbst wenn die Fallen unentdeckt bleiben sollten - sei es durch Tarnung oder schlichtes übersehen im Eifer des Gefechtes - hat das Opfer noch eine Chance einen passenden Abwehrcheck auszüben voraussgesetzt ein Initiativewurf war erfolgreich.
 
-### Funktionsweise Fallen:
-Fallen bieten einen guten Vorteil jedoch nur wenn sie bis zur auslösung vom Opfer unentdeckt bleiben. In diesem Sinne können Fallen durch einen Perception check entdeckt werden. Doch selbst wenn die Fallen unentdeckt bleiben sollten sei es durch Tarnung oder schlichtes übersehen im Eifer des Gefechtes hat das Opfer noch eine Chance einen passenden Abwehr Check auszüben voraussgesetzt ein Initiativewurf war erfolgreich.
+![](Pictures/Rules/Fallenfunkt.png)
 
+### Typische Fallen
 
-Perception check entdecken (vorsorglich)
-Ausgelöst => Initiative => Abwehr Check
+#### Bärenfalle {-}
 
-
-### Typische Falle:
-
-*Bärenfalle:*
 Eine typische wiederverwendbare Falle meist für Wild genutzt, zwei gezahnte Metallbacken die bei dem auslösen der Druckplatte zusammenschnappen und ein Beine ihres Opfers einfangen. Dadurch entsteht nicht nur Schaden am Bein, sondern schränkt die Mobilität des Opfers stark ein und erschwert es Angriffe abzuwehren.
 
-Material: Metall geschmiedet
-Interrupt: Ja
-Schaden: Chance auf Verstümmelung des Beides nach Rüstungsklassen: keine(80%) oder leichte Rüstung (60%), Mittlere schlechte chance (30), schwere keine (5%)
-At Disadvantage: 3 (zwei bonus wurf)
-Öffnen nach aktivierung single und main action zum befreien, Immobilität, placement im Kampf möglich
-Entschärfen: main action
+|            Merkmal           |                                                                      Ausprägung                                                                     |
+|:----------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------:|
+|           zum Bauen          |                                                           Metall, muss geschmiedet werden                                                           |
+|           Interrupt          |                                                                          Ja                                                                         |
+|            Schaden           | Chance auf Verstümmelung des Beins nach Rüstungsklassen:<br>keine Rüstung(80%), leichte Rüstung(60%)<br>mittlere Rüstung(30%), schwere Rüstung(5%)  |
+|           Befreiung          |                                                                 single + main action                                                                |
+| Disatvantage<br>in der Falle |                                                                    Disatvantage 3                                                                   |
+|        Besonderheiten        |                                              Immobilität, Placement im Kampf (main action wenn zu Hand)                                             |
+|         Entschärfung         |                                                                     main Action                                                                     |
 
-*Schlingenfalle:*
+#### Schlingenfalle {-}
+
 Eine hinterhältige Falle die wenig Material jedoch viel Zeit zum Aufbau benötigt. Beim Auslösen wird das Opfer nach oben in die Höhe gezogen und baumelt so frei herum. Je schwerer die Rüstung desto schwerer ist es sich aufgrund der geringeren Mobilität zu befreien.
 
-Material: Seil + gegengewicht(?), Threshold für survival
-Interrupt: ja
-Schaden: Nein (vllt fall schaden)
-At Disadvantage: 4
-Befreiung: Wurf zum Befreien Threshold abhängig von Gewicht
-Entschärfen: Main Action
+|             Merkmal             |                        Ausprägung                       |
+|:-------------------------------:|:-------------------------------------------------------:|
+| Material benötigt<br> zum Bauen |                   Seil + Gegengewicht                   |
+|            Interrupt            |                            Ja                           |
+|             Schaden             |                           Nein                          |
+|            Befreiung            | Main Action <br>Wurf gegen gewichtsabhängigen Threshold |
+|   Disatvantage<br>in der Falle  |                      Disatvantage 4                     |
+|          Besonderheiten         |                       Immobilität                       |
+|           Entschärfung          |                       Main Action                       |
 
+Der Check für die Befreiung wird mit Survival geworfen. Zur Einordnung gelten hierbei die <font color="green">[Belastungsstufen](#Belastungsstufe)</font>
 
-*Stolperfalle:* 
+#### Stolperfalle {-}
+
 Die einfachste aller Fallen, ein simples gespanntes Seil in Knöchelhöhe, sei es festgebunden oder mit Nägeln oder anderen Mitteln an zwei Punkten befestigt.
 
-Material: Seil
-Interrupt: Ja
-Schaden: Nein
-At disadvantage: Person liegt am boden siehe andere Regeln
-Entschärfen: Main Action
+|             Merkmal             |                Ausprägung               |
+|:-------------------------------:|:---------------------------------------:|
+| Material benötigt<br> zum Bauen |                   Seil                  |
+|            Interrupt            |                    Ja                   |
+|             Schaden             |                   Nein                  |
+|            Befreiung            | Unnötig, Aufstehen kostet single Action |
+|   Disatvantage<br>in der Falle  |     Disatvantage 3 bis aufgestanden     |
+|          Besonderheiten         |             Person fällt hin            |
+|           Entschärfung          |               Main Action               |
 
-*Krähenfüße:*
+#### Krähenfüße {-}
+
 Die Falle welche am einfachsten im Kampf zu platzieren ist und die einzige die selbst nach ihrer Entdeckung noch Vorteile bietet. Dabei wird der Vorteil mit zunehmender Rüstung geringer.
 
-Material: Metall nötig (schmieden)
-Interrupt: Nur keiner und leichter Rüstung
-Schaden: Nein (außer man fällt rein)
-At Disadvantage:  2 (außer schwerer), auch wenn nur im Gebiet
-Entschärfen: Nein
-Besonderheit: Singleaction Placement, Schwere Rüstung ignoeriert die Falle, entfernen aus dem Fuß Single Action, Aufsammeln Ja (luck throw)
+|             Merkmal             |                                                     Ausprägung                                                    |
+|:-------------------------------:|:-----------------------------------------------------------------------------------------------------------------:|
+| Material benötigt<br> zum Bauen |                                          Metall, muss geschmiedet werden                                          |
+|            Interrupt            |                                              nur bis mittlere Rüstung                                             |
+|             Schaden             |                                               Nein, außer man fällt                                               |
+|            Befreiung            |                                    Entfernung aus dem Fuß kostet single Action                                    |
+|   Disatvantage<br>in der Falle  |                                                Disatvantage 2 - AoE                                               |
+|          Besonderheiten         | Platzieren mit single action jederzeit möglich<br>Schwere Rüstung ignoriert Falle<br> aufsammeln mit Luck möglich |
+|           Entschärfung          |                                                        Nein                                                       |
 
-*Alternative fallen:* 
+#### Alternative Fallen {-}
+
 Unter diese Kategorie fallen alle Fallen die nicht ihn "Typische Fallen" erwähnt wurden, diese sind meist Situationsabhängig und Geschichtsabhängig darum ist die Regelung auch dem DM überlassen. Beispiele dafür wären,  Rollende Kugeln oder schwingende Baumstämme.
 
 

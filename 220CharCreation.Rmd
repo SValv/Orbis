@@ -223,6 +223,14 @@ Das Aktive Gewicht ist das Gewicht der Dinge, die am Körper getragen werden. Da
 
 Die Summe des Gewichts dieser Items ist das Aktive Gewicht. Es wird durch 5 geteilt und danach vom Physical-Wert abgezogen um die <font color="green">[Ausdauerwürfel für den Ausdauersave](#Ausdauersave)</font> zu erhalten.
 
+#### Die Belastungsstufen und ihre Debuffs {#Belastungsstufe}
+
+| Belastung      | Aktives Gewicht |   Schleichen   | Acrobatics <br>und running |  Aufstehen  |     Reisen     |
+|----------------|:---------------:|:--------------:|:--------------------------:|:-----------:|:--------------:|
+| leicht Beladen |   Gewicht < 18  |       --       |             --             |      --     |       --       |
+| mittel Beladen |   Gewicht < 30  | Disatvantage 2 |           -1 Agi           |      --     | -1 Phy / Länge |
+| Schwer Beladen |   Gewicht > 30  | Disadvantage 3 |           -2 Agi           | main Action | -1 Phy / Länge |
+
 ### Das passive Gewicht
 
 Das Passive Gewicht ist die Summe des Gewichts der Items die sich im Rucksack befinden. Zusammen mit dem Aktiven Gewicht darf es die Traglast nicht überschreiten. Ansonsten gibt es keine spezielle Relevanz
