@@ -25,7 +25,7 @@ Fernwaffen sind ein notwendiges Asset für jede bewaffnete Gruppe. Sie erlauben 
 Das wichtigste bei der Berechnung der Werte von Fernwaffen ist, dass man mit dem speziellen Fernkampfwert statt dem Standartwert arbeitet. 
 Die Armbrust kann man mit einem kleinem Schild verwenden. 
 Fernkampfwaffen die man im liegen oder in der Hocke abfeuern kann bekommen zudem einen höheren Sneak-Modifikator, obwohl man wenn man einen Schleichangriff mit eine Muskete macht ohnehin direkt entdeckt wird.
-Fernkampfwaffen haben außerdem Vorteile bei der Initiative, was man <font color="green">[hier nachlesen kann](#Initiative)</font>.
+Fernkampfwaffen haben außerdem Vorteile bei der Initiative, was man <font color="green">[hier nachlesen kann](#Initiative)</font>. Sämtliche Fernwaffen haben einen Pariermodifikator von 0.2.
 
 Dies sind die Fernkampfwaffen, die einem als Abenteurer zur Auswahl stehen:
 
@@ -44,13 +44,13 @@ Kurzwaffen können einhändig verwendet werden und haben den Vorteil, das man ei
 
 Folgende Kurzwaffen gibt es zur Auswahl:
 
-|     Waffe    |       Schaden      |         Preis        | Gewicht | Armor Penetration |             Zusatz             |
-|:------------:|:------------------:|:--------------------:|:-------:|:-----------------:|:------------------------------:|
-|    Schwert   |    Standartwert    |     Standartpreis    |   1 kg  |        nein       |              nein              |
-|      Axt     | Standartwert x 0.8 |     Standartpreis    |  1.5 kg |        20%        |              nein              |
-| Streitkolben | Standartwert x 0.7 |     Standartpreis    |   2 kg  |        50%        |      30% Betäubungschance      |
-|     Dolch    | Standartwert x 0.4 | Standartpreis x 0.45 |  0.5 kg |        100%       | AP nur wenn Ziel Immobilisiert |
-|    Knüppel   | Standartwert x 0.6 |  Standartpreis x 0.5 |   1 kg  |        nein       |      50% Betäubungschance      |
+|     Waffe    |       Schaden      |         Preis        | Gewicht | Armor Penetration | Parierfaktor |             Zusatz             |
+|:------------:|:------------------:|:--------------------:|:-------:|:-----------------:|:------------:|:------------------------------:|
+|    Schwert   |    Standartwert    |     Standartpreis    |   1 kg  |        nein       |      0.4     |              nein              |
+|      Axt     | Standartwert x 0.8 |     Standartpreis    |  1.5 kg |        20%        |      0.3     |              nein              |
+| Streitkolben | Standartwert x 0.7 |     Standartpreis    |   2 kg  |        50%        |     0.15     |      30% Betäubungschance      |
+|     Dolch    | Standartwert x 0.4 | Standartpreis x 0.45 |  0.5 kg |        100%       |      0.2     | AP nur wenn Ziel Immobilisiert |
+|    Knüppel   | Standartwert x 0.6 |  Standartpreis x 0.5 |   1 kg  |        nein       |     0.15     |      50% Betäubungschance      |
 
 * Besonderheiten Dolch: Attentat, Versteckchance 50%
 
@@ -63,11 +63,11 @@ Das wichtigste bei der Berechnung der Werte von Großwaffen ist, dass man mit de
 
 Diese Großwaffen sind in Orbis Aestea gebräuchlich:
 
-|     Waffe    |        Schaden       |        Preis        | Gewicht | Armor Penetration |        Zusatz        |
-|:------------:|:--------------------:|:-------------------:|:-------:|:-----------------:|:--------------------:|
-|  Großschwert |    Großwaffenwert    | Standartpreis x 1.3 |   2 kg  |        nein       |         nein         |
-|    Großaxt   | Großwaffenwert x 0.8 | Standartpreis x 1.3 |   3 kg  |        30%        |         nein         |
-| Kriegshammer | Großwaffenwert x 0.7 | Standartpreis x 1.3 |   5 kg  |        60%        | 60% Betäubungschance |
+|     Waffe    |        Schaden       |        Preis        | Gewicht | Armor Penetration | Parierfaktor |        Zusatz        |
+|:------------:|:--------------------:|:-------------------:|:-------:|:-----------------:|:------------:|:--------------------:|
+|  Großschwert |    Großwaffenwert    | Standartpreis x 1.3 |   2 kg  |        nein       |      0.4     |         nein         |
+|    Großaxt   | Großwaffenwert x 0.8 | Standartpreis x 1.3 |   3 kg  |        30%        |      0.3     |         nein         |
+| Kriegshammer | Großwaffenwert x 0.7 | Standartpreis x 1.3 |   5 kg  |        60%        |      0.1     | 60% Betäubungschance |
 
 ### Stangenwaffen {#Stangenwaffen}
 
@@ -76,10 +76,10 @@ Außerhalb dieser Umstände ist ein Angriff gegen einen Gegner mit Stangenwaffe 
 
 Folgende Stangenwaffen sind verfügbar:
 
-|            |       Schaden      |        Preis        | Gewicht | Armor Penetration |
-|:----------:|:------------------:|:-------------------:|:-------:|:-----------------:|
-|   Speer    | Standartwert x 0.8 | Standartpreis x 0.8 |   2 kg  |        nein       |
-| Hellebarde |    Standartwert    | Standartpreis x 1.4 |  4.5 kg |        nein       |
+|    Waffe   |       Schaden      |        Preis        | Gewicht | Armor Penetration | Parierfaktor |
+|:----------:|:------------------:|:-------------------:|:-------:|:-----------------:|:------------:|
+|    Speer   | Standartwert x 0.8 | Standartpreis x 0.8 |   2 kg  |        nein       |      0.1     |
+| Hellebarde |    Standartwert    | Standartpreis x 1.4 |  4.5 kg |        nein       |      0.1     |
 
 ### Wurfwaffen {#WurfWaffen}
 
@@ -102,7 +102,7 @@ Folgende Wurfwaffen sind verfügbar:
 
 ### Faustwaffen {#Faustwaffen}
 
-Faustwaffen sind dahingehend besonders, dass sie über den Skill "unarmed" laufen. Sie lassen sich einfach verstecken oder in einen Kampfstil mit einer Kurzwaffe einbinden. 
+Faustwaffen sind dahingehend besonders, dass sie über den Skill "unarmed" laufen. Sie lassen sich einfach verstecken oder in einen Kampfstil mit einer Kurzwaffe einbinden. Mit Faustwaffen ist das Parieren allerdings nicht möglich.
 
 Hier seht man eine Übersicht über die Faustwaffen:
 
@@ -145,8 +145,8 @@ Hier sieht man die verfügbaren Schildtypen:
 
 |     Schild     | Entwaffnungschance |      Schildwert     | Gewicht |        Kosten       |
 |:--------------:|:------------------:|:-------------------:|:-------:|:-------------------:|
-| Kleines Schild |          8         | Standartwert x 0.25 |   1 kg  | 0.4 x Standartpreis |
-|     Schild     |          5         |  Standartwert x 0.5 |   2 kg  | 0.6 x Standartpreis |
+| Kleines Schild |          8         | Standartwert x 0.35 |   1 kg  | 0.4 x Standartpreis |
+|     Schild     |          5         | Standartwert x 0.55 |   2 kg  | 0.6 x Standartpreis |
 |   Turmschild   |          1         | Standartwert x 0.75 |   4 kg  | 0.8 x Standartpreis |
 
 ## Tränke {#Tränke}
@@ -325,7 +325,7 @@ Eine typische wiederverwendbare Falle meist für Wild genutzt, zwei gezahnte Met
 
 #### Schlingenfalle {-}
 
-Eine hinterhältige Falle die wenig Material jedoch viel Zeit zum Aufbau benötigt. Beim Auslösen wird das Opfer nach oben in die Höhe gezogen und baumelt so frei herum. Je schwerer die Rüstung desto schwerer ist es sich aufgrund der geringeren Mobilität zu befreien.
+Eine hinterhältige Falle die wenig Material jedoch viel Zeit zum Aufbau benötigt. Beim Auslösen wird das Opfer nach oben in die Höhe gezogen und baumelt so frei herum. Je schwerer die Rüstung desto schwerer ist es sich aufgrund der geringeren Mobilität zu befreien. Zum Aufbau der Schlingfalle muss man bei einer Handwerk oder Survivalprobe einen Threshold von drei erreichen.
 
 |             Merkmal             |                        Ausprägung                       |
 |:-------------------------------:|:-------------------------------------------------------:|
@@ -338,6 +338,16 @@ Eine hinterhältige Falle die wenig Material jedoch viel Zeit zum Aufbau benöti
 |           Entschärfung          |                       Main Action                       |
 
 Der Check für die Befreiung wird mit Survival geworfen. Zur Einordnung gelten hierbei die <font color="green">[Belastungsstufen](#Belastungsstufe)</font>
+
+Die Thresholds sind: 
+
+* Bei leichter Belastung: 2
+
+* Bei mittlerer Belastung: 4
+
+* Bei schwerer Belastung: 6
+
+* Bei Fremdbefreiung: Main Action der anderen Person (Seil durchschneiden)
 
 #### Stolperfalle {-}
 

@@ -269,6 +269,22 @@ Dieser Wert soll die Göttliche Gunst in entscheidenden Situationen darstellen.
 Es gibt immer die Möglichkeit eine Pause einzulegen und ein Lager aufzuschlagen. Dabei Regenerieren sich Leben und Ausdauer zum Teil. Pro Nacht stellt man 5 Punkte Ausdauer wieder her, oder 100 Punkte leben. 
 Allerdings stellt ein Lager auch ein gutes Ziel für mögliche Gegner dar.
 
+### Längerfristige Verletzungen
+
+Achtung, hier wird entgegen der Konventionen von Orbis Astera ab- statt aufgerundet.
+
+#### Verstümmelung {-}
+
+Eine Verstümmelung bedeutet, dass von einem Körperteil nur noch 20% der Gesundheit übrig ist. In diesem Falle ist es ratsam so schnell wie möglich Ärztliche Hilfe aufzusuchen, um eine Verkrüppelung zu vermeiden. Der Verstümmelte bekommt einen Attribut-Debuff von 50% auf alle Checks die den verstümmelten Körperteil beinhalten. Außerdem muss er einen Willpower-Save bestehen, ansonsten fällt er in <font color="green">[Ohnmacht](#Ohnmacht)</font>.
+
+Ein Charakter der einen Survival-Wert von 50 oder höher aufweist kann einen Verband machen, der vorübergehend den "verkrüppelt" Status-Debuff auf 20% verringert. Dies kann der Charakter auch selbst machen wenn sein Survival hoch genug ist und er den Check um nciht in Ohnmacht zu fallen überstanden hat. Der Threshold liegt bei 5.
+
+#### Verkrüppelung
+
+Eine Verkrüppelung bedeutet, dass die Gesundheit eines Körperteils auf Null gesunken ist. Damit verliert der Charakter den besagten Körperteil. Er ist nicht mehr in der Lage Checks auszuführen, die diesen Körperteil beinhalten und muss unbedingt zu einem Arzt. Die langzeitfolgen einer Verkrüppelung sind nicht zu unterschätzen und viele Abenteurer müssen sich zur Ruhe setzen, wenn ihnen eine Verkrüppelung widerfährt.
+
+Bei einer Verkrüppelung muss ein Charakter einen Willpower-Save bestehen, ansonsten fällt er in <font color="green">[Ohnmacht](#Ohnmacht)</font>. Der Threshold liegt bei 8.
+
 ### Ohnmacht und Tod {#Ohnmacht}
 
 Wenn man in Ohnmacht fällt hat man zwei Optionen - entweder man wartet drei Stunden, oder man bekommt ein <font color="green">[Epinephrinika](#Epinephrin)</font>. 
@@ -279,6 +295,7 @@ Es gibt mehrere Methoden in Ohnmacht zu fallen, die Wichtigsten sind:
 * Narkotika
 * Health auf Null und bestandener Luck - Save
 * Die Ausdauer erreicht den Wert Null und man hat einen missglückten Ausdauer-Save 
+* Willpower-Save bei Verstümmelung oder Verkrüppelung nicht geschafft.
 
 Sterben kann man im Gegenzug dazu nur auf zwei weisen:
 
