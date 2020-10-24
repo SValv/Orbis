@@ -279,7 +279,7 @@ Eine Verstümmelung bedeutet, dass von einem Körperteil nur noch 20% der Gesund
 
 Ein Charakter der einen Survival-Wert von 50 oder höher aufweist kann einen Verband machen, der vorübergehend den "verkrüppelt" Status-Debuff auf 20% verringert. Dies kann der Charakter auch selbst machen wenn sein Survival hoch genug ist und er den Check um nciht in Ohnmacht zu fallen überstanden hat. Der Threshold liegt bei 5.
 
-#### Verkrüppelung
+#### Verkrüppelung {-}
 
 Eine Verkrüppelung bedeutet, dass die Gesundheit eines Körperteils auf Null gesunken ist. Damit verliert der Charakter den besagten Körperteil. Er ist nicht mehr in der Lage Checks auszuführen, die diesen Körperteil beinhalten und muss unbedingt zu einem Arzt. Die langzeitfolgen einer Verkrüppelung sind nicht zu unterschätzen und viele Abenteurer müssen sich zur Ruhe setzen, wenn ihnen eine Verkrüppelung widerfährt.
 
