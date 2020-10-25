@@ -157,7 +157,7 @@ Der Vorteil des Parierens liegt allerdings daran, dass man keine zusätzlichen e
 
 Obwohl das Parieren grundsätzlich nur für Nahkampfangriffe möglich ist und eine Nahkampfwaffe erfordert, können im Notfall auch Fernkämpfer mit ihrer Waffe Parieren - allerdings zu einem höheren Preis. Die Fernkampfwaffe verliert immer 2 Zustand, bei kritischen Ereignissen 5 und bei einem Nat1 10. Diese hohen Kosten können allerdings mit der <font color="green">[Modifikation](#Modifizieren)</font> "Bayonett" verhindert werden, dann wird die Fernkampfwaffe bei der Parade wie eine Nahkampfwaffe behandelt.  
 
-Parieren wird wie Blocken geworfen, als Shield Value gilt der Waffenschaden mal dem Parierwert der Jeweiligen Waffe. Sollte der Schaden des Abwehrenden höher sein als der des Angreifers spricht man von einem "Konter". Ein Konter ermöglicht einen kostenfreien Gegenangriff - den sogenannten Konterschlag. Falls der Verteidiger (also derjenige der erfolgreich Pariert hat und den Konter bekommen hat) <font color="green">[Dual Wielding](#Dual Wielding)</font> betreibt, hat er die Wahl auf einen direkten Gegenangriff ad Atvantage. In sämtlichen anderen Fällen wirft der Verteidiger den Angreifer zu Boden und dieser muss in seiner nächsten Runde wieder aufstehen (Das kann auch beim Dual Wield passieren, dort hat man ein Wahlrecht).
+Parieren wird wie ein Angriff geworfen, als Shield Value gilt der Waffenschaden mal dem Parierwert der Jeweiligen Waffe. Sollte der Schaden des Abwehrenden höher sein als der des Angreifers spricht man von einem "Konter". Ein Konter ermöglicht einen kostenfreien Gegenangriff - den sogenannten Konterschlag. Falls der Verteidiger (also derjenige der erfolgreich Pariert hat und den Konter bekommen hat) <font color="green">[Dual Wielding](#Dual Wielding)</font> betreibt, hat er die Wahl auf einen direkten Gegenangriff ad Atvantage. In sämtlichen anderen Fällen wirft der Verteidiger den Angreifer zu Boden und dieser muss in seiner nächsten Runde wieder aufstehen (Das kann auch beim Dual Wield passieren, dort hat man ein Wahlrecht).
 
 Wenn man noch eine Single/Bonus Action übrig hat kann man einen Angriff mit einer Wahrscheinlichkeit von 100% blocken, parieren oder ausweichen. 
 
@@ -189,7 +189,7 @@ Werte können im Spezialfall auch abweichen
 Sollte der Schadenswert einer Deckung überschritten sein, gilt die Deckung als zerstört und ist damit nicht mehr wirkungsvoll. Angriffe "schlagen" durch. 
 
 Deckung kann auch negiert werden. Dies findet entweder durch Artillerie statt, oder durch hinter die Deckung geworfene Explosivstoffe (Hierbei ist der Threshold an die Größe der Deckung und die Umstände anzupassen).
-Eine weitere Strategie gegen Deckung ist das "ansitzen". Hierbei deklariert ein Angreifer als Main Action eine Deckung und achtet genau auf sie. Dies führt dazu, dass er auf ein beliebiges Ziel, dass hinter der Deckung hervorkommt oder hervorschaut einen Angriff ad Advantage 2 ausführen kann. Sollte ein Wesen während dem ansitzen allerdings einen anderen Check werfen müssen wirft es diesen ad Disatvantage und verliert den Fokus auf die Deckung (damit ist das ansitzen beendet). Während man ansitzt kann man nicht mithilfe einer single action eine Abwehraktion (Block,Dodge,Parieren) starten, sondern der Würfel entscheidet.
+Eine weitere Strategie gegen Deckung ist das "ansitzen". Hierbei deklariert ein Angreifer als Main Action eine Deckung und achtet genau auf sie. Dies führt dazu, dass er auf ein beliebiges Ziel, dass hinter der Deckung hervorkommt oder hervorschaut einen Angriff in der gegnerischen Runde ausführen kann, die Verteidigung wird at Disatvantage geworfen. Sollte ein Wesen während dem ansitzen allerdings einen anderen Check werfen müssen wirft es diesen ad Disatvantage und verliert den Fokus auf die Deckung (damit ist das ansitzen beendet). Während man ansitzt kann man nicht mithilfe einer single action eine Abwehraktion (Block,Dodge,Parieren) starten, sondern der Würfel entscheidet.
 
 ### Instrumente und ihre Wirkung im Kampf {#InstrumenteRules}
 
@@ -206,7 +206,7 @@ In bessere Instrumente passen mehrere Buffs, diese können also direkt nacheinan
 Ganz mutige Wesen versuchen mit zwei Waffen zu kämpfen. Dies kann vor und nachteile mit sich bringen. Ein Nachteil dabei ist, dass man nicht blocken kann. Ein Vorteil ist, dass man auch in der Single Action mit einer Waffe zuschlagen kann. 
 Allerdings wird der Schaden mit jeder Sekundärwaffe außer Dolch und unbewaffnetem Angriff nur zu 70% umgesetzt.
 Bei Dolchen kommt 90% des Schadens durch, bei unbewaffneten Angriffen sind es 100%.
-Des Weiteren sind beim Dual Wielding (mit nicht-Faustwaffen) gewisse Aktionen unmöglich - da beide Hände vollbesetzt sind. So gibt es, wenn man einen Trank verwenden will, eine 50% Chance, dass dieser zu Boden fällt und damit verbraucht ist und nicht eingenommen werden kann, oder bspw. auch Wurfwaffen nicht einsetzbar sind.
+Des Weiteren sind beim Dual Wielding (mit nicht-Faustwaffen) gewisse Aktionen unmöglich - da beide Hände vollbesetzt sind. So gibt es, wenn man einen Trank verwenden will, eine 20% Chance, dass dieser zu Boden fällt und damit verbraucht ist und nicht eingenommen werden kann, oder bspw. auch Wurfwaffen nicht einsetzbar sind.
 
 ### Andere Angriffe während Single Actions
 
@@ -352,7 +352,7 @@ Umrechnungskurse:
 | Thaler        |    0,25    |       kein Kurs       |     0,125     |      0,5     |    1   |
 
 
-## Die Alchemie
+## Die Alchemie {#Alchemie}
 
 Die Alchemie ist eine der Herstellungsdisziplinen. Mithilfe von zwei unterschiedlichen Pflanzen können Alchemisten hierbei verschiedenste Tränke brauen. 
 
