@@ -204,9 +204,11 @@ In bessere Instrumente passen mehrere Buffs, diese können also direkt nacheinan
 ### Dual Wielding
 
 Ganz mutige Wesen versuchen mit zwei Waffen zu kämpfen. Dies kann vor und nachteile mit sich bringen. Ein Nachteil dabei ist, dass man nicht blocken kann. Ein Vorteil ist, dass man auch in der Single Action mit einer Waffe zuschlagen kann. 
-Allerdings wird der Schaden mit jeder Sekundärwaffe außer Dolch und unbewaffnetem Angriff nur zu 70% umgesetzt.
+
+Des weiteren gibt es die Chance auf einen Optionsangriff von 20% nach einem Angriff auf einen Zweithandangriff. Für diesen gilt:
+Der Schaden mit der Sekundärwaffe (außer Dolch und unbewaffnetem Angriff) wird nur zu 80% umgesetzt.
 Bei Dolchen kommt 90% des Schadens durch, bei unbewaffneten Angriffen sind es 100%.
-Des Weiteren sind beim Dual Wielding (mit nicht-Faustwaffen) gewisse Aktionen unmöglich - da beide Hände vollbesetzt sind. So gibt es, wenn man einen Trank verwenden will, eine 20% Chance, dass dieser zu Boden fällt und damit verbraucht ist und nicht eingenommen werden kann, oder bspw. auch Wurfwaffen nicht einsetzbar sind.
+
 
 ### Andere Angriffe während Single Actions
 
