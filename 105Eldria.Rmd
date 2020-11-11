@@ -86,7 +86,9 @@ Meist sind es besonders Treue Ritter, die in den Adelsstand erhoben werden, und 
 ### Aerlham {#Aerlham}
 
 Aerlham ist das mächtigste und größte der Fürstentümer, es wird oft als die "Hauptstadt Eldrias" bezeichnet.
-Gleichsam ist Aerlham das nördlichste Fürstentum und grenzt direkt an das kaiserliche Grenzland. Aerlham hat die größte Bevölkerung aller Fürstentümer und ist die beste Stadt wenn man nach aufgefallenem Handwerk sucht. 
+Gleichsam ist Aerlham das nördlichste Fürstentum und grenzt direkt an das kaiserliche Grenzland. Aerlham hat die größte Bevölkerung aller Fürstentümer und ist die beste Stadt wenn man nach ausgefallenem Handwerk sucht. 
+
+Das Fürstentum verdankt seine Macht und seinen Rang der strategischen Position Nahe am Grenzland. Durch die neue Feindschaft mit den Elfen kam es zum Verlust der Route durch den Silva Nacia. Damit wurden die Straßen durch Aerlham die einzige sinnvoll nutzbare Route in den Norden - was Aerlham mit Zöllen und Handelsverträgen voll auszunutzen wusste. Durch den Felssturz von Istval gewann diese Route noch mehr an Bedeutung was die Vormachtstellung Aerlhams zementierte. Obwohl Aerlham häufig in seiner Geschichte inneren Machtkämpfen ausgesetzt war, schaffte sich von 200 Jahren die Familie Graham mit viel Hilfe aus Darcy zu etablieren. Daher ist Aerlham bis heute einer der treusten Mitglieder der Liga des Lichtes
 
 Aerlham wurde bis zur Übernahme durch das Kaiserreich durch die Familie Graham kontrolliert. Momentan hat allerdings der Imperiale Stadthalter - und Onkel des Kaisers - Arminius Prodius das Sagen in Aerlham. Er und seine Garnison regieren die unter Kriegsrecht stehende Stadt mit eiserner Hand, was zur Folge hat, dass auch unschuldige in Aerlham in einer Zelle handeln, und Prozesse eine eher untergeordnete Bedeutung haben.
 
@@ -96,7 +98,15 @@ Trotz diesen widrigen Umstände lebt die Elite Aerlhams ein mehr als extravagant
 
 Bis heute gibt es eine erstarkende Wiederstandsbewegung unter Argus Graham, dem jüngsten Spross des früheren Herrschaftshauses, der in Aerlham eine Wiederstandsbewegung gegen das Kaiserreich aufgebaut hat. Aerlham ist eine der einzigen Städte Eldrias, die eine funktionierende Kanalisation besitzen. 
 
-### Gent {#Gent}
+### Gent {#Gent}  
+
+Gent war neben Calvert eines der beiden Fürstentümer, welche zum Schutz Wandias gegründet wurden und schon früh einen militärischen Schwerpunkt hatten. Gents Armeen waren elementar beim Rückschlagen der Feinde der Donnerwächter im <font color="green">[Zwergenkrieg](#Zwergenkrieg)</font>, allerdings zeigte sich Gent schon bald eigenwilliger als andere Fürstentümer. 
+Nach dem Untergang Wandias erklärte Gent beihnahe unmittelbar seine Unabhängigkeit und begann seinen Einfluss im umliegende Fürstentümer auszuweiten.
+
+![Das Wappen von Gent ziert der Sogenannte Stern von Gent](Pictures/Flavor/Eldria/Wappen/WappenGent.jpg)
+
+Diese expansionistische Politik Gents führte schon bald zu einer bis heute andauernden Rivalität und Feindschaft mit Aerlham. Diese Feindschaft mündete in unzählbaren Scharmützeln und Kriegen. 
+Durch den Felssturz von Istval wurde Gent geschwächt und musste dadurch sämtliche Hoffnungen in näherer Zeit die Führungsrolle in Eldia zu übernehmen aufgeben.
 
 Gent war eines der Fürstentümer - das größte davon um genau zu sein - welches sich nach dem Krieg dem Kaiserreich angeschlossen hat. Das hatte vor allem den Vorteil, dass die Familie Strake weiterhin die Herrschaft über Gent behalten durfte. Natürlich ist Gent dem Kaiserreich gegenüber nicht *wirklich* Loyal - so haben sie im großen Krieg die Kaiserlichen mit allem bekämpft was sie hatten - viel mehr geht es ihnen darum ihre Macht unkompliziert zu behalten und weiter aufzubauen, während das Kaiserreich unter der Hand mit allen verfügbaren Mitteln bekämpft wird. 
 
@@ -108,6 +118,8 @@ Das bedeutet natürlich nicht, dass der Ritterstand Gents in irgendeiner Form de
 Kulturell ist Gent eher unterentwickelt. Während die meisten anderen Füstentümer immerhin einen gewissen Teil ihrer Ressourcen in die Wissenschaften, Künste und in die Erhaltung von Wissen stecken, wird man in Gent nichts dergleichen finden. 
 
 Aufgrund der zentralen Lage Gents ist es eines der einkommensreichsten Fürstentümer Eldrias. Die meisten Händler müssen auf dem Weg durch Eldria durch Gent oder durch Gebiete, die Gent kontrolliert. Durch die Tatsache, dass Gent jeden Händler Zölle zahlen lässt, bezahlen sie ihre teure Armee und ihre im allgemeinen eher unproduktive Wirtschaft.
+
+Gent ist zudem jenes Fürstentum, welches religiös am wenigsten von der Kirche Darcys berührt wurde. Obwohl es einige Anhänger des Lichts gibt sind die meisten Menschen in Gent Anhänger einer polytheistischen Urreligion, die an den Kampf der grauen Götter glaubt.
 
 ### Austen
 
@@ -138,8 +150,9 @@ Die meisten Adeligen schicken ihre zweitgeborenen als symbolischen Akt zur Ausbi
 
 ### Calvert 
 
-Das Fürstentum Calvert ist das älteste in ganz Eldria und wird nach wie vor von der Familie Calvert beherrscht, die seit über 1000 Jahren über Calvert herrscht.
-Diese lange Blutlinie und Tradition sorgt auch dafür, dass Calvert deutlich interessierter an der Rückeroberung Wandias ist als andere Fürstentümer Eldrias. Allzuoft senden die Calverts halbe Armeen in den Tod auf der Jagd nach Orks, Elfen und allen anderen, die Wandia für sich beanspruchen wollen. 
+Das Fürstentum Calvert ist das älteste Kleinfürstentum in ganz Eldria und wird nach wie vor von der Familie Calvert beherrscht, die seit über 1000 Jahren über Calvert herrscht.
+Die Calverts wurden damals von der Königsfamilie als Schutzfürstentum Wandias instituiert und sind bis heute an einen Eid zum Schutz der Königsfamilie gebunden, der bei der Erhebung zum Fürsten geschworen werden muss. 
+Diese lange Blutlinie und Tradition - ebenso wie der geschworene Eid - sorgen auch dafür, dass Calvert deutlich interessierter an der Rückeroberung Wandias ist als andere Fürstentümer Eldrias. Allzuoft senden die Calverts halbe Armeen in den Tod auf der Jagd nach Orks, Elfen und allen anderen, die Wandia für sich beanspruchen wollen. 
 
 ![Der Thronsaal von Calvert](Pictures/Flavor/Eldria/Calvert.jpg)
 
@@ -167,9 +180,7 @@ Das Eldrische Militär besteht aus Rittern und Eingezogenen. Während die Ritter
 
 ## Eldrische Legenden
 
-### Der Drache von Wandia - Nuninax
-
-### Der Kampf der Kolosse
+Eldria ist ein Land voller Mythen und Legenden. Von Heckenrittern und aufrechten Recken, die Raubritter und Monster erschlagen bis hin zu Legenden über den <font color="green">[Nebelhain](#Donnerwächter)</font> und <font color="green">[Wandia](#Donnerwächter)</font>, die in den jeweiligen Kapiteln nachzulesen sind.
 
 ### Die Ritter des grauen Ringes
 
