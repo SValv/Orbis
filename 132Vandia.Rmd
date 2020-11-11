@@ -1,32 +1,54 @@
-# Vandia {#Vandia}
+# Wandia {#Wandia}
 
-Vandia ist ein Heiligtum, welches sowohl den Orks, den Elfen von Silva Nacia, den Eldrianern, als auch den Zwergen wichtig ist. 
+> "Oh Kind vergiss mir Wandia nicht, vergiss nicht unsre Schmach. Vergiss niemals wohin es führt wenn falschen folgt man nach. Vergiss nicht zu misstrauen und hol es uns zurück. Denn vom Kinde dieses Baumes gibt es immer nur ein Stück. Und wenn ihr es erhalten, gebt es niemals wieder her, denn die Menschen und die kleinen, sie verrieten uns vorher. Und wenn ihr es erhalten, gebt es niemals wieder her, denn die Menschen und die kleinen, sie verrieten uns vorher."
+>
+> --- Ein Schlaflied für Kinder aus Silva Nacia
 
-Jede der Kämpfergruppen hat einen eigenen Namen für diesen Ort, so nennen beispielseise die Orks diesen Bereich Eldrias "Vandia", was so viel bedeutet wie "Die Stadt, die zu beschützen ist". Dieser Name ergibt sich aus dem Glauben der Orks, welcher sie dazu veranlasst den Wahren Drachen beschützen zu wollen und aus diesem Grund die Ruinen nicht zu betreten. 
+Wandia ist ein Heiligtum, welches sowohl den Orks, den Elfen von Silva Nacia, den Eldrianern, als auch den Zwergen wichtig ist. 
 
-## Ortschaften der Region 
+Wandia hatte viele Rollen. Als ehemalige Hauptstadt des <font color="green">[Eldrischen Königreiches](#Eldria)</font> und der <font color="green">[Donnerwächter](#Donnerwächter)</font> war Wandia eine riesenhafte Metropole, die jede heute bekannte Stadt problemlos in den Schatten stellen würde. 
+In der Glanzzeit Wandias schafften es die <font color="green">[Elfen von Silva Nacia](#SilvaNacia)</font> den bis heute einzigen Sätzling ihres heiligen Baumes dort zu pflanzen und gedeihen zu lassen. Dieses Wunder sorgt dafür dass Wandia und das wiederbeschaffen des Sätzlings eines der Hauptziele der Elfen ist - eine Mission, die bis heute unzählige Leben gekostet hat.
 
-### Infrastruktur
+Wandia besteht aus oberirdischen Stadtruinen, unterteilt in viertel, die von verschiedenen Rassen stark umkämpft sind. Die wenigen Einwohner der Ruinen leben dort zum Teil unter sehr schlechten Bedingungen.
+Zudem gibt es eine unterirdische Stadt, deren Gänge großteils nicht kartografiert sind, da diese zu weitreichend sind und sich die Strutkur immer wieder verändert - entweder durch das Eingreifen der kämpfenden Rassen oder durch das des <font color="green">[wahren Drachen](#WahrerDrache)</font> Nuninox.
 
-Vandia besteht aus oberirdischen Stadtruinen, unterteilt in viertel, die von verschiedenen Rassen stark umkämpft sind, leben die Einwohner dort zum Teil unter sehr schlechten Bedingungen.
+Sowohl die Oberstadt als auch die Unterstadt werden allerdings nur zum Teil von den Rassen Orbis Aesta's beherrscht. Den Hauptteil beherrscht wohl <font color="green">[Ga'ar](#Ga'ar)</font>, denn umso weiter man in die Ruinenwüste Wandias reinkommt desto größer wird die Gefahr ihren Monstern in allen Formen und Farben zu begegnen. Verschiedene Monster halten in der Oberstadt störrisch die zentralen Viertel und vor allem den königlichen Palast des alten Eldrischen Reiches. In der Tiefstadt sind sie sogar noch weiter verbreitet.
 
-Zudem gibt es eine unterirdische Stadt, deren Gänge teils nicht kartografiert sind, da diese zu weitreichend sind und sich die Strutkur immer wieder verändert, durch das Eingreifen der kämpfenden Rassen. 
+> "Auf der Suche nach Honoria kamen wir nach Wandia, wir schlugen uns alsbald in die inneren Bereiche vor - aber es ist wie verflucht. Links und rechts verlieren wir unsere Recken an Monster und es werden immer mehr. Es wirkt fast so als würden die Monster Wandias Zentrum bewachen. In der Tiefstadt ist die Plage sogar noch größer. Wir haben sogar wandelnde Rüstungen bekämpft."
+>
+> --- Arien Tyssen, Eldrischer Ritter und Abenteurer
+
+Für die Orks bekam Wandia erst eine Bedeutung als Nuninox auftauchte.
 
 ## Die Geschichte der Region
 
-Ursprünglich was Wandia eine Siedlung, in der Menschen und Zwerge zusammenlebten - die Zwerge überwiegend im unterirdischen Teil und die Menschen im oberirdischen. Nach mehreren hundert Jahren ertragreicher Zusammenarbeit kolonialisierten die Menschen die Umgebung und errichteten Hasting und Calvert, Städte die bis heute stehen. 
+### Der Fall von Wandia
 
-Die Idylle des frühen Wandia wurde Jäh unterbrochen, als der berüchtigte wahre Drache Areghis zuschlug. 
-Niemand weiß woher Areghis kam, aber die geeinten Kräfte von Menschen und Zwergen zeigten sich als machtlos gegen die Kräfte des wahren Drachen. Sein Feuer ließ ganze Armeen in wenigen Minuten zu Asche werden, und vernichtete Häüser Mauern und Wehrstätten. 
+Ursprünglich was Wandia eine Siedlung, in der Menschen und Zwerge zusammenlebten - die Zwerge überwiegend im unterirdischen Teil und die Menschen im oberirdischen. Nach mehreren hundert Jahren ertragreicher Zusammenarbeit kolonialisierten die Menschen die Umgebung und errichteten Hasting, Calvert und die anderen eldrischen Fürstentümer. 
+Wandia war das Herz des eldrischen Königreiches und ein Juwel der Zivilisation. Die Donnerwächter hatten dort einen sicheren Hafen und die Stadt wuchs und gedeihte und war die wohl beeindruckendste Stadt, die jemals existierte. 
 
+Die Starke Position Wandias lockte langfristig auch die Elfen. Sie legten in der riesigen Stadt ihre eigenen Viertel an und schlossen sich so der Allianz aus den Donnerwächtern und dem Königreich Eldria an.
 
-## Wirtschaftliche Lage
+Im Zentrum Wandias sind der Herrschaftssitz der Donnerwächter und der königliche Palast senkrecht übereinander angeordnet. Dort wo in der Tiefstadt der zwergische Herrschaftssitz liegt, liegt auch der königliche Palast - oder heute dessen Ruinen. An genau diesem Punkt pflanzten die Elfen den Sätzling ihres heiligen Baumes, der schnell Wuchs und beide Herrschaftsitze umspannte. Ein Symbol für die Koexistenz dreier Rassen. 
 
-### Die Ressourcen der Region
+> "Bis heute glauben die Elfen dass ihr Baum dort noch steht und selbst einen Sätzling trägt. Allerdings ist noch nie eine Expedition von dort zurückgekommen um die Geschichte zu bestätigen oder zu widerlegen. Dennoch sehen die Elfen fast jedes Opfer als angemessen an um an den Sätzling des Baumes zu kommen oder diesen Baum selbst zurückzuerobern.
+>
+> --- aus "die Chroniken von Wandia" von Wilhelmina Trayne
 
-## Soziopolitische Lage 
+Die Idylle des frühen Wandia wurde Jäh unterbrochen, als der berüchtigte wahre Drache Nuninox zuschlug. 
 
-### Herrschaftsystem/Organisation
+> "Niemand weiß woher er kam, aber die geeinten Kräfte von Menschen und Zwergen zeigten sich als machtlos gegen die Kräfte des wahren Drachen. Sein Feuer ließ ganze Armeen in wenigen Minuten zu Asche werden, und vernichtete Häüser Mauern und Wehrstätten."
+>
+> --- Rheymos Erden, ein geflohener Wachmann Wandias
+
+Mit Nuninox kamen auch jene Monster, die heute Wandia bevölkern. Nur wenige konnten überleben. Wen der Drache nicht einäscherte, der wurde von einem marodierendem Monster erwischt. 
+Die überstürzte Flucht aus Wandia sorgte dafür, dass gerade sehr viel Zwergenmaterial - Artefakte der Donnerwächter - bis heute in Wandia verbleibt. Diese mögliche Beute sorgt dafür, dass immer wieder Glücksritter versuchen, in Wandia große Beute zu finden. Die meisten davon erliegen den Gefahren Wandias, hin und wieder schafft es jedoch jemand etwas zu finden - mit dem Verkaufswert hat man dann für gewöhnlich lebenslang ausgesorgt.
+
+Die nächsten 400 Jahre konnte man sich Wandia durch die allgegenwärtige Gefahr des Drachen Nuninox nicht nicht nähern. Er vernichtete alles was der Stadt zu nahe kam. Diese Terrorherrschaft hielt so lange an bis es zu dem Ereigniss kam, welches als "Kampf der Kolosse" in die Geschichte einging.
+
+### Der Kampf der Kolosse
+
+Etwa 400 Jahre nach den Fall von Wandia kam es zum sogenannten Kampf der Kolosse. Die wenigen verbleibenden Donnerwächter hatten unermüdlich darauf hingearbeitet ihre finale Waffe - <font color="green">[einen Koloss der Titan Klasse](#Eldria)</font> - zu finalisieren.
 
 ## Klimatische Bedingungen
 
@@ -34,9 +56,10 @@ Niemand weiß woher Areghis kam, aber die geeinten Kräfte von Menschen und Zwer
 
 #### Monster in der Region
 
-Das wohl größte Monster, welches in Vandia gefunden werden kann, ist ein Drache. Ein wahrer Drache, der in der unterirdischen Stadt herumfliegt und sich von den Erwachten ernährt, die durch die Kämpfe in den unterirdischen Städten entstehen, da die Leichen nicht ordnungsgemäß bestattet werden können. 
+Das wohl größte Monster, welches in Wandia gefunden werden kann, ist ein Drache. Ein wahrer Drache, der in der unterirdischen Stadt herumfliegt und sich von den Erwachten ernährt, die durch die Kämpfe in den unterirdischen Städten entstehen, da die Leichen nicht ordnungsgemäß bestattet werden können. 
 Dieser feuerspeiende Drache ist einer der wenigen bekannten und vermuteten <font color="green">[wahren Drachen](#WahrerDrache)</font>
 
 ## Gerüchte der Region
 
 ## Sehenswürdigkeiten
+
