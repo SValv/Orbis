@@ -456,6 +456,53 @@ In der Downtime können Charaktere alles mögliche machen, die Klassiker sind:
 
 Bei Downtime-Aktivitäten können Extra-Proben stattfinden, diese entscheiden über Verlauf und mögliche Folden der Aktion. Manches davon wird auch ausgespielt werden.
 
+### Training
+
+Ein Character kann seine komplette Downtime auch opfern um einen dedizierten Skill zu verbessern dabei gibt es zwei formen: entweder das Training alleine oder das Training mit einer Lehrperson (Achtung auch die Lehrperson verliert ihre volle Downtime).
+
+Training funktioniert folgendermaßen: 
+
+1. Man wählt einen dezidierten Skill aus den man trainieren will (Natüürlich müssen die äußeren Vorraussetzungen gegeben sein, man kann persuation nicht in voller Isolation trainieren)
+
+2. Man entscheidet ob alleine oder mit Lehrperson
+
+3. Man würfelt den Trainingserfolg aus und interpretiert ihn
+
+Das Interpretieren ist stark abhängig davon wie man lernt beziehungsweise wie gut der Lehrer ist. Lehrer kommen in verschiedenen Stufen. Dabei ist die Stufe des Lehrers an der Differenz zwischen Schüler und Lehrer im relevanten Skill festzumachen:
+
+```{r,echo=F}
+Differenz<-seq(10,70,20)
+Stufe<-c(1,2,3,4)
+ll<-data.frame(Differenz,Stufe)
+knitr::kable(ll,align = "cc")
+```
+
+Den Wurf interpretiert man nun folgendermaßen:
+
+Ohne Lehrperson:
+
+* 75% Fail-Chance
+* sonst +1 Skill
+* +2 Skill bei Nat 20
+
+Mit Lehrperson:
+
+* 50% Fail-Chance
+* bis 16: + Halbe Lehrerstufe Skill
+* Ab 16: + Lehrerstufe Skill
+* Nat 20: + Lehrerstufe*1.5 Skill
+
+Da Lehren Zeitintensiv ist, wollen die meisten Charaktere eine Gegenleistung dafür. Dennoch haben auch Lehrer eine Chance beim Lehren selbst etwas zu lernen. 
+Diese ist umso höher, desto kleiner die Differenz ist. Die Wahrscheinlichkeiten dafür sind in folgender Tabelle aufgeführt:
+
+```{r,echo=F}
+Differenz<-c(10,20,30,40,50)
+Wahrscheinlichkeit<-c(20,15,10,5,0)
+ll<-data.frame(Differenz,Wahrscheinlichkeit)
+colnames(ll)[2]<-"Wahrscheinlichkeit in %"
+knitr::kable(ll,align = "cc")
+```
+
 ## Lebenshaltungskosten {#Lebenserhaltungskosten}
 
 Sowohl in der Downtime als auch per Session sind die Lebenshaltungskosten bei Minimum 150 Reiks/Tag. In individuellen Fällen können diese auch höher sein und laufende Kosten beinhalten. 
