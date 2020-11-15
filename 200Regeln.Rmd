@@ -456,6 +456,8 @@ In der Downtime können Charaktere alles mögliche machen, die Klassiker sind:
 
 Bei Downtime-Aktivitäten können Extra-Proben stattfinden, diese entscheiden über Verlauf und mögliche Folden der Aktion. Manches davon wird auch ausgespielt werden.
 
+Durch das verwenden von Skills in der Downtime gibt es (bei einem Skill) eine 5% Chance auf Verbesserung des relevanten Skills um 1. Bei mehreren Skills muss der Player einen auswählen.
+
 ### Training
 
 Ein Character kann seine komplette Downtime auch opfern um einen dedizierten Skill zu verbessern dabei gibt es zwei formen: entweder das Training alleine oder das Training mit einer Lehrperson (Achtung auch die Lehrperson verliert ihre volle Downtime).
@@ -481,7 +483,7 @@ Den Wurf interpretiert man nun folgendermaßen:
 
 Ohne Lehrperson:
 
-* 75% Fail-Chance
+* 75% Fail-Chance (50% wenn Skill der Person unter 30)
 * sonst +1 Skill
 * +2 Skill bei Nat 20
 
