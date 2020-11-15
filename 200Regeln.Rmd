@@ -462,7 +462,7 @@ Ein Character kann seine komplette Downtime auch opfern um einen dedizierten Ski
 
 Training funktioniert folgendermaßen: 
 
-1. Man wählt einen dezidierten Skill aus den man trainieren will (Natüürlich müssen die äußeren Vorraussetzungen gegeben sein, man kann persuation nicht in voller Isolation trainieren)
+1. Man wählt einen dezidierten Skill aus den man trainieren will (Natürlich müssen die äußeren Vorraussetzungen gegeben sein, man kann persuation nicht in voller Isolation trainieren)
 
 2. Man entscheidet ob alleine oder mit Lehrperson
 
