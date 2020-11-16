@@ -26,7 +26,7 @@ mit diesen Base-Stats fängt man an:
 | Charisma             | 10         | 11         | 8                                             | 6           | 8                            | 9            | 12           | 13                            |
 | Intelligence         | 10         | 10         | 14                                            | 8           | 9                            | 10           | 10           | 10                            |
 | Luck                 | 5          | 4          | 4                                             | 6           | 4                            | 7            | 4            | 6                             |
-| Experience           | 10         | 12         | 10                                            | 10          | 10                           | 10           | 11           | 10                            |
+| Instinct             | 10         | 12         | 10                                            | 10          | 10                           | 10           | 11           | 10                            |
 | Physical             | 10         | 9          | 10                                            | 12          | 11                           | 8            | 9            | 9                             |
 | Health               | 200        | 150        | 200                                           | 250         | 250                          | 150          | 150          | 150                           |
 | Ausdauer             | 12         | 15         | 9                                             | 12          | 13                           | 14           | 15           | 10                            |
@@ -43,7 +43,7 @@ mit diesen Base-Stats fängt man an:
 #### Rassenfähigkeiten {-}
 
 * Nachtsicht: Elfen können im Dunklen sehen.
-* Geldgeil: Zwerge bekommen bei Intimidation-Proben +3 Expirience wenn es um Geld geht. 
+* Geldgeil: Zwerge bekommen bei Intimidation-Proben +3 Instinct wenn es um Geld geht. 
 * Kurzsichtig: Die Kurzsichtigkeit von Orks macht es ihnen unmöglich Fernkampfwaffen zu verwenden
 * Thermo-sicht: Goblins sehen die Wärmestruktur von Körpern. Normalerweise ist dies ein riesenhafter Vorteil, da sie sowohl im Dunklen als auch durch Wände Bedrohungen ausmachen können. Manche gefährlichen Monster haben aber keine Wärmesignatur 
 * Unverdächtig: Halblinge werden aufgrund ihres unauffälligen Verhaltens und ihrer Erscheinung meistens nicht verdächtigt gesetzeswidrig gehandelt zu haben.
@@ -150,12 +150,12 @@ Die Sprachfertigkeit kann von 1-10 gehen. 10 ist das Niveau eines gebildeten Mut
 
 Sprachen öffnen viele Türen und Tore und sollten vom DM gerade beim social play beachtet werden.
 
-Jede Rasse hat ihre Startsprache und zusätzlich dazu Sprachpunkte in Höhe von (Intelligenz+Expirience)/4, die einfach auf Sprachen verteilt werden können. Dies sollte aber gerade bei guten Kenntnissen in die Backstory eingebaut werden.
+Jede Rasse hat ihre Startsprache und zusätzlich dazu Sprachpunkte in Höhe von (Intelligenz+Instinct)/4, die einfach auf Sprachen verteilt werden können. Dies sollte aber gerade bei guten Kenntnissen in die Backstory eingebaut werden.
 
 ### Kontakte
 
 Kontakte sind ein weiteres Stück der Welt - sozusagen das soziale Kapital des Spielers. Sie helfen an Aufträge, Informationen und andere Dinge zu kommen für die Vitamin B nun mal nützlich ist. 
-Die Punkte, die man für Kontakte vergeben kann berechnen sich aus  der Summe: Charisma + Expirience + Luck + Glaube.
+Die Punkte, die man für Kontakte vergeben kann berechnen sich aus  der Summe: Charisma + Instinct + Luck + Glaube.
 
 Diese Punkte können dann auf Loyalität eines Kontaktes und Einfluss eines Kontaktes verteilt werden.
 

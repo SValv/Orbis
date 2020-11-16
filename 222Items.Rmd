@@ -319,8 +319,8 @@ Folgende Buffs können in die Slots von Instrumenten gepackt werden:
 | Entspannung     |  30000 |     7    |          Self |
 | Entspannung     |  70000 |     7    |   Target ally |
 
-* Herausforderung: Ein Ziel bekommt die Aufmerksamkeit des Gegners und wird angegriffen, außer der Gegner besteht einen Expirience-Save gegen einen Threshold von 4
-* Entspannung: Ein Ziel verliert die Aufmerksamkeit des Gegners und wird nicht angegriffen, außer der Gegner besteht einen Expirience-Save gegen einen Threshold von 4
+* Herausforderung: Ein Ziel bekommt die Aufmerksamkeit des Gegners und wird angegriffen, außer der Gegner besteht einen Instinct-Save gegen einen Threshold von 4
+* Entspannung: Ein Ziel verliert die Aufmerksamkeit des Gegners und wird nicht angegriffen, außer der Gegner besteht einen Instinct-Save gegen einen Threshold von 4
 
 
 ## Fallen

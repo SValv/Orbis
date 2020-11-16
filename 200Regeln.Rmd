@@ -41,7 +41,7 @@ Dieses Prinzip zählt jedoch nicht für alle Proben. Folgende Proben werden ande
 * Schleichen: Sneak gegen Perception
 * Lügen/Persuation: Lying/Persuation gegen Insight
 * Angriff: Armed/Unarmed/Ranged/throwing gegen Dodge/Block
-* Einschüchtern: Intimidation gegen Insight mit Experience als Attribut
+* Einschüchtern: Intimidation gegen Insight mit Instinct als Attribut
 * Taschendiebstahl: Taschendiebstahl gegen Perception
 
 
@@ -69,7 +69,7 @@ Warum Ausdauer und dieser Save wichtig sind steht <font color="green">[hier](#Au
 
 ### Toxikologie-Save
 
-Der Toxikologie-Safe wird mit den Würfeln der Attribute Physical Experience Luck und Glaube gewürfelt - Achtung hierbei wird die Summe, nicht der Durchschnitt gebildet.
+Der Toxikologie-Safe wird mit den Würfeln der Attribute Physical, Instinct, Luck und Glaube gewürfelt - Achtung hierbei wird die Summe, nicht der Durchschnitt gebildet.
 
 Da jeder Trank toxisches Potential hat, wird immer, nachdem ein Trank konsumiert wird, ein Toxi-Save gegen den Threshold aus allen kummulierten Trankstufen der genommenen Tränke gewürfelt.
 Sollte man diesen nicht schaffen fällt man in <font color="green">[Ohnmacht](#Ohnmacht)</font>.
@@ -99,7 +99,7 @@ Der Kampf ist wie in jedem Pen- and Paper-System einer der komplizierteren Vorg�
 
 ### Die Initiative {#Initiative}
 
-Am Anfang des Kampfes findet die Initiative statt, d.h. jeder wirft Initiative (Experience + Physical)/2. Die Werte werden nach größe geordnet und der mit dem höchsten Wert darf angreifen, dann der mit dem zweithöchsten und so weiter. Manchmal legt der DM diese Reihenfolge sinngemäß fest (bspw. bei Schleichangriffen oder Distanz und Fernkämpfern).
+Am Anfang des Kampfes findet die Initiative statt, d.h. jeder wirft Initiative (Instinct + Physical)/2. Die Werte werden nach größe geordnet und der mit dem höchsten Wert darf angreifen, dann der mit dem zweithöchsten und so weiter. Manchmal legt der DM diese Reihenfolge sinngemäß fest (bspw. bei Schleichangriffen oder Distanz und Fernkämpfern).
 Im Allgemeinen bekommen Fernkämpfer +1 Würfel auf die Initiative-Probe. Bei Gleichstand in den Werten werden Armbrüste und Musketen vorgezogen, da sie einfach nur abdrücken müssen. Diese Vorteile fallen weg, falls die Distanz sehr gering ist.
 
 ### Die Kampfrunde und die Kampfaktionen
