@@ -57,7 +57,7 @@ Text Kasper
 
 <div style= "float:left;position: relative; right: 30px; top: -7px;">
 
-![](Pictures/Team/Kasper.jpg#Profil)
+![](Pictures/Team/Emil.jpg#Profil)
 
 </div>
 
@@ -93,6 +93,7 @@ Text Florian
 </div>
 
 * Hat Biologie in Salzburg Studiert
+* stinkt
 
 <div style="clear:both;"></div>
 

@@ -249,10 +249,31 @@ Insofern ist es nicht verwunderlich das wir keine Belege für natürliche Fressf
 Weltenwürmer sind mehr Legende als regelmäßig beobachtete Monster. Sie sind besonders riesige Aschwürmer, die deutlich tiefer graben und durch deren Tunnel ganze Kohorten nebeneinander hermarschieren können. Glücklicherweise kommen sie so gut wie nie an die Oberfläche.
  
 ## Znitins
-riesige, überraschend intelligente Jagdspinnen, beheimatet im großen Elfenwald)
+Die 5 meter Umspannenden Spinnen in Silva Nacia sind zwar Verhältnismäßig selten, jedoch haben diese in der Elfenkultur von Silva Nacia eine feste Bedeutung da man immer wieder in Spinnseide eingewickelten ausgesogenen Leichen findet.
+Obwohl Elfen geschickt sind werden auch geschickte Späher von diesen Spinnen überlistet.
+Prinzipiell sind die Znitins zwar äußerst geschickt und schnell, und erstaunlich kräftig wenn man sich denen im Nahkampf stellt, jedoch können Sie durch die Nutzungs von Fernkampfwaffen rasch unschädlich gemacht werden.
+Dies bedeutet für das Dickicht von Silva Nacia dass gut einsehbare Bereiche obligatorisch sind um diese Monster zu überwältigen.
+
+Im Nahkampf ist zum empfehlen schwere Schilder zu verwenden da die Schläge mit den langen Beinen sonst rasch zu Situationen führen wo das benötigte Schwert plötzlich zwischen den Beinen der Spinne liegt.
+Die Beine selbst sind in den äußeren Segmenten äußerst stabil und feuerfest. Der Hinterkörper ist hingegen leicht entzündlich und äußerst leicht verletzlich.
+
+Zum gezielten Ausmerzen dieser Acht-Beiner empfiehlt sich die oben beschriebene offene Fläche und ein Hinterhalt aus mehreren Fernschützen und 3 unterstützenden Nahkämpfern. Hierbei sollten die nicht als "Beute" ausgelegten Personen sich visuell tarnen und sich so gut es nicht bewegen.
+
+Sobald die Znitins herauskommen und in Sichtweite sind sollte auf diese geschossen werden da der Nahkämpfer unter Umständen sehr rasch überwältigt werden kann. Vor allem wenn keine Schilder verwendet werden.
+
+Das Gift der Znitins lähmt extrem lange und lediglich die Elfen haben Gegenmittel. Diese Mittel werden allerdings aus religiösen Gründen nur an andere Elfen weitergegeben.
+
+Die Spinnen sind primär Tagsüber aktiv, sehen jedoch nachts noch immer besser als die meisten Elfen, wodurch das erledigen der Znitins am Tag die sichere Variante ist.
+
+Die Spinnen sind überraschend intelligent und ziehen sich häufig einfach zurück sobald die Situation ihnen nicht geheuer erscheint.
+
+
+
+![Darstellung zweier Znitins Spinnen in Silva Nacia.](Pictures\\Flavor\Monster\znitins_spider2.jpg)
 
 ## Dunkleosteus
 
+Ungeheuer der Meere sind 
 9 meter langer Panzerfisch
 
 ## Riesenkalmar

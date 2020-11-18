@@ -139,6 +139,7 @@ Achtung: Gesundheit wird immer in 25er Chunks erhöht.
 
 Zusätzlich zu den "harten" Eigenschaften gibt es noch sogenannte Wissens-Skills. Diese sollten mit der Backstory verknüpft sein und können in diesem Rahmen frei gewählt werden. Sie fließen eher als Hintergrund-Eigenschaften mit ein, da sie nicht direkt über Proben irgendeiner Art geprüft werden. Wenn der DM irgendwelch Hintergrund-infos hat die jemand mit entsprechendem Wissens-Skill wissen müsste, sollte der Spieler diese Infos auch haben.
 Manchmal - nach Entscheidung des DM - haben Wissens-Skills auch gewisse Boni für feste Werte (bspw beim Pflanzen suchen).
+Gewisse Wissensskills können auch zusammen wirken.
 
 Wissens-Skills berechnen sich aus der Intelligenz der Person nach der Character-Creation. Bei Intelligenz 10 sind es drei Wissens-Skills, für abweichende Werte wird prozentuell auf oder abgerundet.
 
