@@ -6,11 +6,11 @@ Diese Tabelle ist eine Übersicht über die Werte zum rechnen über die verschie
 
 |   Tier  | Standartwert | Fernkampfwert | Großwaffenwert | Standartpreis | Zustand |
 |:-------:|:------------:|:-------------:|:--------------:|:-------------:|:-------:|
-| Stufe 1 |      30      |       23      |       48       |      5000     |    7    |
-| Stufe 2 |      42      |       32      |       67       |     22500     |    10   |
-| Stufe 3 |      52      |       39      |       83       |     90000     |    14   |
-| Stufe 4 |      63      |       48      |       100      |     300000    |    20   |
-| Stufe 5 |      --      |       --      |       --       |     unbez     |    --   |
+| Stufe 1 |      30      |       23      |       40       |      5000     |    7    |
+| Stufe 2 |      42      |       35      |       52       |     22500     |    10   |
+| Stufe 3 |      48      |       41      |       58       |     90000     |    14   |
+| Stufe 4 |      53      |       46      |       63       |     300000    |    20   |
+| Stufe 5 |       –      |       –       |        –       |     unbez     |    –    |
 
 Beim Auswählen der richtigen Rüstung und Waffen ist es sinnvoll, die die <font color="green">[Modifikatoren durch Überladung](#Belastungsstufe)</font> zu kennen, damit man nicht am Ende vollständig überladen in die Schlacht zieht.
 

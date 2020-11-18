@@ -6,7 +6,7 @@
 
 Eldria ist mehr ein Name für eine Region als eine Fraktion, eine Region, die östlich des Himmelsspitzen-Gebirges liegt.
 Allerdings sehen sich die verschiedenen Fürstentümer Eldrias als Verbündete - ja fast als Verwandte. Doch wie jede "Familie" kommen die Fürstentümer ohne Streitereien nicht aus. Ständig ändern sich die Bündnisse und die Feindseligkeiten. 
-Die größten und mächtigsten Fürstentümer sind <font color="green">[Aerlham](#Aerlham)</font> und <font color="green">[Gent](#Gent)</font>. Für gewöhnlich werden gemeinsame Eldrische Aktionen von dort gesteuert. Doch auch Austen und Hasting sind große und einflussreiche Fürstentümer.
+Die größten und mächtigsten Fürstentümer sind <font color="green">[Aerlham](#Aerlham)</font> und <font color="green">[Gent](#Gent)</font>. Für gewöhnlich werden gemeinsame eldrische Aktionen von dort gesteuert. Doch auch Austen und Hasting sind große und einflussreiche Fürstentümer.
 
 Einschätzungen zufolge besteht Eldria aus über 300 Fürstentümern, wobei nur die größten 6-10 relevant sind. Manche der Fürstentümer sind nur Unterfürstentümer wichtigerer Fürstentümer, denen sie Treue und Loyalität schulden, andere sind eigenständige Kleinfürstentümer die sich - um nicht von den anderen, größeren, Fürstentümern übernommen zu werden - in Allianzen zusammenschließen.
 
@@ -103,7 +103,7 @@ Bis heute gibt es eine erstarkende Wiederstandsbewegung unter Argus Graham, dem 
 Gent war neben Calvert eines der beiden Fürstentümer, welche zum Schutz Wandias gegründet wurden und schon früh einen militärischen Schwerpunkt hatten. Gents Armeen waren elementar beim Rückschlagen der Feinde der Donnerwächter im <font color="green">[Zwergenkrieg](#Zwergenkrieg)</font>, allerdings zeigte sich Gent schon bald eigenwilliger als andere Fürstentümer. 
 Nach dem Untergang Wandias erklärte Gent beihnahe unmittelbar seine Unabhängigkeit und begann seinen Einfluss im umliegende Fürstentümer auszuweiten.
 
-![Das Wappen von Gent ziert das sogenannte Kreuz von Gent](Pictures/Flavor/Eldria/Wappen/WappenGent.jpg)
+![Das Wappen von Gent ziert das sogenannte Kreuz von Gent](Pictures/Flavor/Eldria/Wappen/WappenGent.jpg#Wappen)
 
 Diese expansionistische Politik Gents führte schon bald zu einer bis heute andauernden Rivalität und Feindschaft mit Aerlham. Diese Feindschaft mündete in unzählbaren Scharmützeln und Kriegen. 
 Durch den Felssturz von Istval wurde Gent geschwächt und musste dadurch sämtliche Hoffnungen in näherer Zeit die Führungsrolle in Eldia zu übernehmen aufgeben.

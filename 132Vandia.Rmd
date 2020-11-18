@@ -54,7 +54,12 @@ Etwa 400 Jahre nach den Fall von Wandia kam es zum sogenannten Kampf der Kolosse
 >
 > --- Dhakri Meren, Führerin der Donnerwächter, ca vor Riga
 
-Die Zwerge starteten ihre kollosale Waffe im umkämpften Istval. Das Konstrukt marschierte umgehend nach Wandia und wurde dort erwartungsgemäß von Nuninox angegriffen. Die beiden 
+Die Zwerge starteten ihre kollosale Waffe im umkämpften Istval. Das Konstrukt marschierte umgehend nach Wandia und wurde dort erwartungsgemäß von Nuninox angegriffen. Die beiden Kollosse lieferten sich einen derart monumentalen Kampf, dass jene, die ihn beobachten konnten, noch jahrzehnte darüber Sprachen. Schlussendlich verschwanden beide in den Abgründen der Tiefstadt und es war unklar welcher der Kolosse schlussendlich obsiegte, Nuninox jedoch terrorisierte das Umland Wandias nicht mehr, weswegen fälschlicherweise von seinem Tod ausgegangen wurde. 
+
+Kurz nach dem Kampf der Kolosse sendeten die Donnerwächter die letzte große ihrer Missionen nach Wandia - eine große Gruppe der selten gewordenen Donnerwächter - von der keiner zurückkehrte.
+
+Heute weiß man, dass Nuninox den Kampf überlebt hat - allerdings dadurch so verletzt wurde, dass er die zentralen viertel Wandias nicht mehr verlassen kann. Er scheint nicht mehr in der Lage zu sein für lange Zeit zu fliegen, für diejenigen jedoch, die sich in seine Reichweite begeben, ist er immernoch eine der größten Gefahren die Wandia - und vielleicht ganz Orbis Astea - zu bieten hat.
+Was aus dem Titan-Konstrukt geworden ist weiß niemand so genau, weder wurde ein Wrack gesichtet, noch scheint es noch aktiv in Betrieb zu sein.
 
 ## Klimatische Bedingungen
 
@@ -64,7 +69,7 @@ Die Zwerge starteten ihre kollosale Waffe im umkämpften Istval. Das Konstrukt m
 
 Das wohl größte Monster, welches in Wandia gefunden werden kann, ist ein Drache. Ein wahrer Drache, der in der unterirdischen Stadt herumfliegt und sich von den Erwachten ernährt, die durch die Kämpfe in den unterirdischen Städten entstehen, da die Leichen nicht ordnungsgemäß bestattet werden können. 
 Dieser feuerspeiende Drache ist einer der wenigen bekannten und vermuteten <font color="green">[wahren Drachen](#WahrerDrache)</font>
-
+_
 ## Gerüchte der Region
 
 ## Sehenswürdigkeiten

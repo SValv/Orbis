@@ -532,6 +532,37 @@ Was bedeutet nun dieser Wert von 50? in der Regel ist es ein kummulativer Thresh
 Eine (kleine) Werterhöhung in einem gewissen Wissens/Sprachskill kann der DM auch während der Session für "Durchbruchhandlungen" mit einem Skill geben. 
 Des weiteren kann man auch mithilfe von "Mittelchen" lernen, die Einnahme von Intelligenztränken für einen Lernvorgang ist also vollkommen in Ordnung. Man braucht allerdings 2 Tränke statt einen, da eine Downtime zeitlich etwas länger ist. Der Wert der Intelligenztränke wird gemittelt.
 
+Mögliche Knowledge skills die erlernt werden können
+
+Common Knowledge: 
+für jeden von Anfang an Verfügbar, muss nicht erlernt werden
+Religion, Völker, Großreiche, Karte
+
+Vertiefte Knowledge:
+•	Territorial Knowledge: gepflogenheiten, besonderheiten, wichtige personen, Heraldik
+•	Völker vertieft: Gewohnheiten, Rituale, besondere Orte, 
+•	Geographie: Wissen um Städte, routen, 
+•	Taktik: Geteilt in Krieg und Schlacht. Schlacht: Vermutlich Taktik der Feinde, beste eigene Formation. Krieg: 
+•	Pflanzenkunde: Wissen um alternative effekte von Pflanzen (werwolf pille und co(quest relatet stuff))
+•	Handwerk: Materialkunde, Spezielle Waren? (Tranktasche)
+•	Handel: In 3 Stufen jeweils vertieft: Handelswaren, Handelsrouten, Preise, Händlerwissen
+•	Jagt: Spuren erkennen und lesen, vermutliche Beute sammelpunkte wie Wasserlöcher finden, bekannte beute Tiere der Region
+•	Monster: Monster erkennen und deren stärken schwächen, Fährten und hinweise deuten
+•	Tiere: Seltenere Tiere erkennen, den Zustand erkennen (erschöpft(relevant für reiten) , verängstigt) 
+•	Kriminalität: Gang members und kriminelle Strukturen schnell erkennen und analyisieren (botennetzwerke), mögliche Verstecke, übliche Verhaltensweisen
+•	Diebstahl Einbruch: Gute ziele, mögliche wege in häuser
+•	Survival: Wasser, Nahrung und Unterschlupf in => Untergruppen: Wüste, Wald, Steppe, Kälte, Berg
+•	Architektur: Aufbau von Häusern (reginonal), schwachpunkte in mauern und gebäuden erkennen(verstärken, schwächen)
+•	Seefahrt: Strömungen, Schiffs klassen+stärken+schwächen erkennen, Winde günstig erwischen, bedienung höher klassiger Schiffe
+
+
+
+Besondere Knowledge:
+Blutgötter: Stufe 1 bekanntere, Stufe 2 unbekanntere, special Eigener Blutgott
+
+
+
+
 ## Lebenshaltungskosten {#Lebenserhaltungskosten}
 
 Sowohl in der Downtime als auch per Session sind die Lebenshaltungskosten bei Minimum 150 Reiks/Tag. In individuellen Fällen können diese auch höher sein und laufende Kosten beinhalten. 

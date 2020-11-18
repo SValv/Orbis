@@ -6,11 +6,46 @@ Dieses weder große, noch sehr robuste Volk, überlebt nur Aufgrund seines über
 
 ## Die Geschichte der Rasse
 
+Die Zwerge beanspruchen den Titel der ältesten Rasse des Kontinents für sich, da es niemanden gibt der dies bestätigen kann wird heute allgemein angenommen das es sich dabei um eine große Marketing Aktion von Zwergenhändlern handelt.
+
+
+
+Clan Umgar der rote  Clan des Königs niemand außer der königsfamilie wird in diese geboren in den clan wird man berufen, nur die treusten und besten hören diesen Ruf und ihn auszuschlagen gilt als Beleidigung dem Königshauses gegenüber.
+
+![König Umgar](Pictures/Flavor/Zwerge/King umgar.jpg)
+
+Man sagt der erste des Geschlechts Umgar wurde mit einer Aufgabe betraut, man erinnert sich nicht mehr von wem diese ausging und man streitet um was für eine Aufgabe es sich handelte. Die einen meinen die Aufgabe sei es die Zwerge zum erfolgreichsten Konzern von Orbis zu machen, andere meinen es sei sicherlich gewesen alle Reichtümer anzuhäufen und wieder andere wenn auch deutlich leiser sprechen davon das Grauen in der Tiefe gefangen zu halten, dies sind die Donnerwächter.
+
+Eines ist jedoch gewiss das Zwergenvolk einst vereint unter den roten Banner des Clan Umgar, widmete sich der Aufgabe Resourcen anzuhäufen Orbis zu erkunden und alles wertvolle an sich zu bringen dessen sie nur habhaft werden konnten,dabei galt ihr interesse im besonderen robusten Erzen weshalb sie oft Tief in den Berg gruben. In dieser Zeit wurde Brüderlich zwischen allen Zwergen geteilt, man versuchte für jeden genug zu haben und sich dennoch der Aufgabe zu widmen.
+Doch mit den Jahren entwickelte sich Gier im Zwergenvolk jeder wollte mehr haben jedoch nicht für die Aufgabe sondern für sich allein! Was helfen die größten Schätze wenn man doch nur alles abgeben muss? Dem Clan Umgar wurde gar unterstellt all diese Schätze für sich zu behalten, dass gar keine Aufgabe existierte! Mit diesem Gedanken entzündete sich die Revolution. In jeder der Städte nun zahlreichen und gut vernetzten Städte der Zwerge entbrannte der Konflikt. "Progessive" gegen die Königstreuen die ihre stolzen Königsroten  roten Banner erhoben, wobei letztere deutlich in der minderheit waren, zu weit hatte sich die Gier in die Herzen der Zwerge eingebrannt. In dieser Zeit die unter Historikern nur als Ende des teilens bekannt ist füllten sich die Tunnel mit dem Blut der Zwerge. 
+
+![Fraktion der Königlichen](Pictures/Flavor/Zwerge/Fraktion der Königlichen.jpg)
+
+Viele Städte der Zwerge überstanden diesen Bürgerkrieg nicht und sind heute nur noch Ruinen die sich tief ins Reich der Erde bohren, andere sind unter der Last des Krieges gänzlich eingebrochen unverschütteten ganze Clans und wieder andere wurden so geschwächt dass sie sich den angriffen der anderen Völker die Reichtum witterten nicht mehr erwehren konnten. Der Clan Umgar selbst zerfiel in viele kleine Teile verstreut in allen Städten. Jedoch überlebte das Geschlecht des Königs wenn auch seiner Macht beraubt. 
+
+![Zwerg in der Asche des Zwergenreiches](Pictures/Flavor/Zwerge/after the dwarf war.jpg)
+
+
+![Abwehr von Invasionen](Pictures/Flavor/Zwerge/DWARF WAR-2.jpg)
+
+Die Städte die noch übrig waren beobachteten dies und begaben sich in die abgeschiedenheit der Erde, verschütteten alle Eingänge um Invasoren abzuwehren und verloren fast vollständig den Kontakt zu ihren Vettern.
+
+
+
+In ihrer isolation entwickelte sich ein ganz neues, ganz eigenes System dem Wunsch nach mehr Reichtum als Katalysator geschuldet. Doch konnte dieser Trieb wie bei anderen Völkern nicht durch expansion und eroberung gestillt werden. Die Zwerge mussten aus diesem begrenzten Raum das beste machen, so feilten sie an ihren Fähigkeiten, an ihrem Wissen, ihrem können und wurden zu wahren Meistern des Handelns und der Handwerkskunst.
+
+Doch irgendwann als sich die Welt abgekühlt hatte nach dem heißen Zeitalter des unablässigen Kräfte ringens und sich einige halbwegs stabile Systeme in der außenwelt entwickelt hatten, sahen die Zwerge ihre chance zur wirtschaftlichen expansion.
+
+
+
 > Die Geschichte der Zwerge ist wie jeder weiß eng verflochten mit der Geschichte von Balbobräu. Den für nichts gibt ein Zwerg lieber sein Geld aus als für Balbobräu. Hierbei einen umfassenden Gruß an den freundlichen und uneingennützen Sponsor Balbobräu ohne den diese Arbeit nicht möglich gewesen wäre.
 Gänzlich unbeteiligt war Balbobräu natürlich am großen Sturz von Istval. Dieses gravierende Ereignis stellt einen Wendepunkt im Umgang mit explosivstoffen unter den Zwergen dar. Böse Zungen behaupten das die Arbeiter damals vor knapp 700 Jahren alkoholisiert nach einer fröhlichen Runde Balbobräu gewesen wären, doch jeder weis nur verantwortungsvolle Zwerge genießen diesen wohlschmeckenden Genuss. 
 Eine Zwergenstadt wurde vor knapp 700 Jahren durch einen Fehler im Umgang mit explosiven Stoffen dem Erdboden gleichgemacht, aus dem Felssturz entstand das heutige <font color="green">[Nebelhain](#Nebelhain)</font>. Dies führte zum stammesübergreifenden Verbot von Schwarzpulver in den Städten der Zwerge, noch heute überläuft vielen Zwergen ein Schauer beim Anblick größerer Mengen an Schwarzpulver.
 >
 > --- Auszug aus einem Geschichtslehrbuch für Zwerge dessen Autor strikt behauptet nicht von Balbobräu beinflusst worden zu sein
+
+![Gestresster Zwerg](Pictures/Flavor/Zwerge/SchwarzpulverExplosion.jpg)
+
 
 
 ## Die Gesellschaft der Rasse
@@ -186,6 +221,41 @@ Die durch die Konstrukte erkaufte Zeit Wissen die geschickten Schützen stets gu
 Baruuk der selbst nur Teil eines kleinen Zwergenclans ist hält an diesen kleinen Konstrukten zusammen mit seinem Clan ein Patent.
 
 
+##Überbleibsel der Zwergenhochzeit in der Oberwelt
+
+
+
+In der Zeit des Untergangs versuchten beide Fraktionen so viele Schätze wie möglich vor der anderen zu Verstecken und zu sichern. So entstanden auf dem Gesamten Kontinent versteckte Schatzkammern, doch welcher Zwerg würde seine Schätze schon unbewacht lassen?
+
+Konstrukte
+Vault
+Viele bewohnt teils noch versteckte türen der Donnerwächter)
+In alten Zwergen städten
+Und auch außerhalb versteckt
+
+In der Zeit des Endes der Zwerge, in all den Kämpfen fand unser Volk doch noch Gelegenheit 
+
+Doch dies waren nicht einfache Schatzkammern zu gut gesichert waren sie
+
+Noch heute verlassen abenteuerlustige Zwerge die Reiche unter den Bergen um Reichtum nach diesen Legendären Tresoren zu suchen auch die anderen Völker hatten mit der Suche begonnen. Doch werden sie nie die Kammern der Donnerwächter betreten können den ihre größten Schätze offenbaren sie nur Donnerwächtern. Doch als sich dies herum Sprach begann auch die Jagt nach eben diesen Erben auch in der Oberwelt. Doch je weniger die Wächter und die Kammern wurden desto mehr geriet dieses Wissen in Vergessenheit heute wissen nur noch wenige über die Chancen der Donnerwächter.
+
+
+
+Fallen
+Monster (nisten in versteckten Höhlen)
+Bekannte Dungeons die von Adeligen beansprucht werden?
+
+Auf dem rückzug nach vandia versiegelt
+
+Vandia donnerwächter konstrukte
+Donnerwächter Türen erkennen Tor
+
+Eldria Donnerwächter Festung da von den Zwergen aufgebaut
+Letzter rückhalt nach fall Vandia der die letzte zusammenrottung zerstörte
+Bis zur Auslöschung durch den Drachen
+
+Geschichte Eldria
+Region Vandia
 
 
 

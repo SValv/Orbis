@@ -1,0 +1,101 @@
+# (PART) Das Team hinter Orbis Astea {-} 
+
+
+# Die Autoren {-}
+
+![Das Team hinter Orbis Astea in Form ihrer Charaktere](Pictures/Team/Team.jpg)
+
+Orbis Astea wurde vom folgendem Team geschrieben:
+ 
+## Simon Valverde {-}
+
+<div style= "float:left;position: relative; right: 30px; top: -7px;">
+
+![](Pictures/Team/Simon.jpg#Profil)
+
+</div>
+
+* studiert Psychologie, Wirtschaftswissenschaften und Data Science in Salzburg
+* ursprünglich aus Deutschland
+* 24 Jahre alt
+
+<div style="clear:both;"></div>
+
+Text Simon
+
+## Lena Pfeiffer {-}
+
+<div style= "float:left;position: relative; right: 30px; top: -7px;">
+
+![](Pictures/Team/Lena3.jpg#Profil)
+
+</div>
+
+* studiert Psychologie in Salzburg
+* 24 Jahre alt
+
+<div style="clear:both;"></div>
+
+Text Lena
+
+## Kasper Mortensen {-}
+
+<div style= "float:left;position: relative; right: 30px; top: -7px;">
+
+![](Pictures/Team/Kasper.jpg#Profil)
+
+</div>
+
+* studiert studiert Recht und Wirtschaft in Salzburg
+* ursprünglich aus Dänemark
+
+<div style="clear:both;"></div>
+
+Text Kasper
+
+## Emil Mortensen {-}
+
+<div style= "float:left;position: relative; right: 30px; top: -7px;">
+
+![](Pictures/Team/Kasper.jpg#Profil)
+
+</div>
+
+* studiert studiert Recht und Wirtschaft in Salzburg
+* ursprünglich aus Dänemark
+
+<div style="clear:both;"></div>
+
+Text Emil
+
+## Florian Berger {-}
+
+<div style= "float:left;position: relative; right: 30px; top: -7px;">
+
+![](Pictures/Team/Florian.jpeg#Profil)
+
+</div>
+
+* studiert Recht und Wirtschaft in Salzburg
+* ursprünglich aus Deutschland
+* 25 Jahre alt
+
+<div style="clear:both;"></div>
+
+Text Florian
+
+## Andreas Fellner {-}
+
+<div style= "float:left;position: relative; right: 30px; top: -7px;">
+
+![](Pictures/Team/Andi.jpg#Profil)
+
+</div>
+
+* Hat Biologie in Salzburg Studiert
+
+<div style="clear:both;"></div>
+
+Text Andi
+
+# Impressum und rechtliche Hinweise {-}

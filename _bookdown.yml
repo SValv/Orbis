@@ -56,6 +56,7 @@ rmd_files: ["index.Rmd",
   "222Items.Rmd",
   "223BesondereItems.Rmd",
   "225Seekrieg.Rmd",
-  "230DMStuff.Rmd"
+  "230DMStuff.Rmd",
+  "400Autoren.Rmd"
     ]
 output_dir: "docs"
