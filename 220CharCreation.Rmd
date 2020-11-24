@@ -62,27 +62,27 @@ Wichtig ist allerdings, dass sowohl Luck als auch Glaube nicht aufgewertet werde
 
 Bei einem Level up bekommt man:
 
-* zwei Attributpunkte
+* fünf Attributpunkte
 * Skillpunkte abhängig von der Intelligenz des Charakters nach folgenden Schema:
 
 | Intelligenz | Skillpunkte |
 |:-----------:|:-----------:|
-|      5      |      7      |
-|      6      |      8      |
-|      7      |      9      |
-|      8      |      9      |
-|      9      |      10     |
-|      10     |      10     |
-|      11     |      10     |
-|      12     |      11     |
-|      13     |      11     |
-|      14     |      11     |
-|      15     |      12     |
-|      16     |      12     |
-|      17     |      13     |
-|      18     |      13     |
-|      19     |      14     |
-|      20     |      15     |
+|      5      |      17     |
+|      6      |      18     |
+|      7      |      19     |
+|      8      |      19     |
+|      9      |      20     |
+|      10     |      20     |
+|      11     |      20     |
+|      12     |      21     |
+|      13     |      21     |
+|      14     |      21     |
+|      15     |      22     |
+|      16     |      22     |
+|      17     |      22     |
+|      18     |      23     |
+|      19     |      23     |
+|      20     |      24     |
 
 Bei der Character-Creation sind Attribute schon mit den Kosten nach dem untenstehenden Schema zu bezahlen. Skillpunkte können - im Gegensatz dazu - bei der Creation einfach addiert werden und müssen erst bei Level-ups nach dem unten stehenden Schema bezahlt werden.
 
@@ -99,7 +99,7 @@ Achrung bei der Charakter Creation dürfen Attribute maximal 15 betragen, Skills
 |    12-14   |        4       |
 |    14-16   |        6       |
 |    16-18   |        8       |
-|    18-20   |       12       |
+|    18-20   |       10       |
 
 #### Kosten Health-verbesserung {-}
 
