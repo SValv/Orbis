@@ -50,9 +50,9 @@ Dieses Prinzip zählt jedoch nicht für alle Proben. Folgende Proben werden ande
 Ein Save ist nochmal etwas anderes als eine Probe, auch er wird üblicherweise gegen einen Threshold geworfen und ist ein Weg sich vor etwas Schlimmen zu bewahren. Allerdings wird der Save nur mit den Attributen geworfen, Skills haben hierbei keinen Einfluss.
 Der Threshold ist üblicherweise 3, kann aber vom DM je nach Situation angepasst werden. 
 
-### Advantage/disatvantage
+### Advantage/disadvantage
 
-In manchen Situationen ist man at advantage oder at disatvantage, das bedeutet prinzipiell nur, dass derselbe Wurf mehrmals (üblicherweise 3 mal) geworfen wird. Ist der Spieler at atvantage wird das für den Spieler günstigste Ergebnis, at disatvantage wird das für den Spieler nachteiligste Ergebnis, ausgewählt.
+In manchen Situationen ist man at advantage oder at disadvantage, das bedeutet prinzipiell nur, dass derselbe Wurf mehrmals (üblicherweise 3 mal) geworfen wird. Ist der Spieler at advantage wird das für den Spieler günstigste Ergebnis, at disadvantage wird das für den Spieler nachteiligste Ergebnis, ausgewählt.
 
 ### Momentane Modifikatoren 
 
@@ -149,17 +149,17 @@ Die Bonus Action kann - genauso wie die Single Action - für die Runde des Gegne
 
 #### Blocken, Parieren und Ausweichen {- #BlockenAusweichen}
 
-Alle diese "Abwehrhandlungen" verringern den Schaden, den ein Charakter von gegnerischen angriffen abbekommt, denn auf jeden Angriff kann mit Blocken, Parieren oder Ausweichen reagiert werden, es sei denn man sieht den Angriff nicht kommen.
-Blocken ist dabei ohne zweifel die stärkste Wahl, allerdings verliert man dabei eine Hand an einen Schild und kann keine Großwaffen mehr benutzen oder Dual Wielden, denn ohne einen Schild ist das Blocken nicht möglich.
+Alle diese "Abwehrhandlungen" verringern den Schaden, den ein Charakter von gegnerischen Angriffen abbekommt, denn auf jeden Angriff kann mit Blocken, Parieren oder Ausweichen reagiert werden, es sei denn man sieht den Angriff nicht kommen.
+Blocken ist dabei ohne Zweifel die stärkste Wahl, allerdings verliert man dabei eine Hand an einen Schild und kann keine Großwaffen mehr benutzen oder Dual Wielden, denn ohne einen Schild ist das Blocken nicht möglich.
 
-Das parieren ist die schwächste Abwehrform und hat - neben der Tatsache dass nur Nahkampfwaffen richtig parieren können - den zusätzlichen Nachteil, dass ein kritischer Treffer des Gegners oder ein eigener Kritischer Fail die Waffe um Zustand 1 verringert. Bei gegnerischem Nat 20/eigenem Nat 1 geht der Zustand sogar um 2 nach unten.
-Der Vorteil des Parierens liegt allerdings daran, dass man keine zusätzlichen einbußen von Optionen hat (wie bspw beim Schild, wo man eine Hand auf den Schild verwendet). Das Parieren ist also eine "kostenfreie" Option, dort wo ein Block unmöglich wird. Allerdings kann nur ein Nahkampfangriff pariert werden. 
+Das Parieren ist die schwächste Abwehrform und hat - neben der Tatsache, dass nur Nahkampfwaffen richtig parieren können - den zusätzlichen Nachteil, dass ein kritischer Treffer des Gegners oder ein eigener Kritischer Fail die Waffe um Zustand 1 verringert. Bei gegnerischem Nat 20/eigenem Nat 1 geht der Zustand sogar um 2 nach unten.
+Der Vorteil des Parierens liegt allerdings darin, dass man keine zusätzlichen Einbußen von Optionen hat (wie bspw. beim Schild, wo man eine Hand auf den Schild verwendet). Das Parieren ist also eine "kostenfreie" Option, dort wo ein Block unmöglich wird. Allerdings kann nur ein Nahkampfangriff pariert werden. 
 
-Obwohl das Parieren grundsätzlich nur für Nahkampfangriffe möglich ist und eine Nahkampfwaffe erfordert, können im Notfall auch Fernkämpfer mit ihrer Waffe Parieren - allerdings zu einem höheren Preis. Die Fernkampfwaffe verliert immer 2 Zustand, bei kritischen Ereignissen 5 und bei einem Nat1 10. Diese hohen Kosten können allerdings mit der <font color="green">[Modifikation](#Modifizieren)</font> "Bayonett" verhindert werden, dann wird die Fernkampfwaffe bei der Parade wie eine Nahkampfwaffe behandelt.  
+Obwohl das Parieren grundsätzlich nur für Nahkampfangriffe möglich ist und eine Nahkampfwaffe erfordert, können im Notfall auch Fernkämpfer mit ihrer Waffe Parieren - allerdings zu einem höheren Preis. Die Fernkampfwaffe verliert immer 2 Zustand, bei kritischen Ereignissen 5 und bei einem Nat1 10. Diese hohen Kosten können allerdings mit der <font color="green">[Modifikation](#Modifizieren)</font> "Bayonett" verhindert werden. Dann wird die Fernkampfwaffe bei der Parade wie eine Nahkampfwaffe behandelt.  
 
-Parieren wird wie ein Angriff geworfen, als Shield Value gilt der Waffenschaden mal dem Parierwert der Jeweiligen Waffe. Sollte der Schaden des Abwehrenden höher sein als der des Angreifers spricht man von einem "Konter". Ein Konter ermöglicht einen kostenfreien Gegenangriff - den sogenannten Konterschlag. Falls der Verteidiger (also derjenige der erfolgreich Pariert hat und den Konter bekommen hat) <font color="green">[Dual Wielding](#Dual Wielding)</font> betreibt, hat er die Wahl auf einen direkten Gegenangriff ad Atvantage. In sämtlichen anderen Fällen wirft der Verteidiger den Angreifer zu Boden und dieser muss in seiner nächsten Runde wieder aufstehen (Das kann auch beim Dual Wield passieren, dort hat man ein Wahlrecht).
+Parieren wird wie ein Angriff geworfen, als Shield Value gilt der Waffenschaden mal dem Parierwert der jeweiligen Waffe. Sollte der Schaden des Abwehrenden höher sein als der des Angreifers, spricht man von einem "Konter". Ein Konter ermöglicht einen kostenfreien Gegenangriff - den sogenannten Konterschlag. Falls der Verteidiger (also derjenige der erfolgreich pariert und den Konter bekommen hat) <font color="green">[Dual Wielding](#Dual Wielding)</font> betreibt, hat er die Wahl auf einen direkten Gegenangriff at advantage. In sämtlichen anderen Fällen wirft der Verteidiger den Angreifer zu Boden und dieser muss in seiner nächsten Runde wieder aufstehen (Das kann auch beim Dual Wield passieren, dort hat man ein Wahlrecht).
 
-Wenn man noch eine Single/Bonus Action übrig hat kann man einen Angriff mit einer Wahrscheinlichkeit von 100% blocken, parieren oder ausweichen. 
+Wenn man noch eine Single/Bonus Action übrig hat, kann man einen Angriff mit einer Wahrscheinlichkeit von 100% blocken, parieren oder ausweichen. 
 
 Wenn man keine Action mehr hat, kann man mit einer Wahrscheinlichkeit von 60% blocken, mit 40% parieren und von 20% ausweichen.
 
@@ -168,13 +168,13 @@ Wenn man keine Action mehr hat, kann man mit einer Wahrscheinlichkeit von 60% bl
 
 #### Deckung {-}
 
-Die Deckung stellt eine Alternative zum Blocken/Ausweichen dar. Deckung kann nur Fernkampfangriffe abwehren, Nahkampfgegner werden von Deckung nicht berührt/berücksichtigt, da sie einfach außen herum gehen können. In Deckung gehen kostet eine Single Action. Sollte die Deckung vor dem feindlichen Angriff nicht deklariert sein, braucht man einen Acrobatics-Check, um in Deckung zu gelangen. Ansonsten tritt der normale Ablauf ein (Block/dodge, mit Chance bei keiner freien Action).
+Die Deckung stellt eine Alternative zum Blocken/Ausweichen dar. Deckung kann nur Fernkampfangriffe abwehren, Nahkampfgegner werden von Deckung nicht berührt/berücksichtigt, da sie einfach außen herum gehen können. In Deckung gehen kostet eine Single Action. Sollte die Deckung vor dem feindlichen Angriff nicht deklariert sein, braucht man einen Acrobatics-Check, um in Deckung zu gelangen. Ansonsten tritt der normale Ablauf ein (Block/Dodge, mit Chance bei keiner freien Action).
 
 Es gibt zwei Arten von Deckung - die natürliche und die aufbaubare Deckung. Jede aufbaubare Deckung braucht eine Single und eine Main Action. 
 
-Die Deckung hat eine prozentuelle Chance den Angriff vollständig zu anulieren. Je umfangreicher die Deckung, desto höher diese Chance. Denn die Wahrscheinlichkeit nicht getroffen zu werden ist ungefähr wieviel % vom Körper durch die Deckung verdeckt wird mal 0.75. Damit haben kleinere Charaktere einen Vorteil, um diesen nicht allzusehr zu erhöhen wird dabei immer von einem normalgroßen Körper ausgegangen (Mensch) und kleine Rassen bekommen eine 5% höhere Wahrscheinlichkeit, während große Rassen eine 5% niedrigere bekommen.
+Die Deckung hat eine prozentuelle Chance den Angriff vollständig zu anulieren. Je umfangreicher die Deckung, desto höher diese Chance. Denn die Wahrscheinlichkeit nicht getroffen zu werden entspricht ungefähr den % vom Körper, die durch die Deckung verdeckt wird mal 0.75. Damit haben kleinere Charaktere einen Vorteil, um diesen nicht allzusehr zu erhöhen wird dabei immer von einem normalgroßen Körper ausgegangen (Mensch) und kleine Rassen bekommen eine 5% höhere Wahrscheinlichkeit, während große Rassen eine 5% niedrigere bekommen.
 
-Sobald man in Deckung ist, hat man keinen direkten Überblick über das Schlachtfeld mehr, was einem das strategische Handeln durchaus erschweren kann. Der DM entscheidet wie genau das zu implementieren ist, empfehlenswert ist, davon auszugehen, dass der Spieler gewisse Infos nicht hat.
+Sobald man in Deckung ist, hat man keinen direkten Überblick über das Schlachtfeld mehr, was einem das strategische Handeln durchaus erschweren kann. Der DM entscheidet, wie genau dies zu implementieren ist. Empfehlenswert ist davon auszugehen, dass der Spieler über gewisse Infos nicht verfügt.
 
 Bei genügend Schaden, der auf die Deckung trifft, wird die Wirkung der Deckung aufgehoben. Die Schadensmenge ist abhängig vom Material und der Breite der Deckung. Im Regelfall gilt diese Tabelle:
 
@@ -184,12 +184,12 @@ Bei genügend Schaden, der auf die Deckung trifft, wird die Wirkung der Deckung 
 | Tier 2 |  3500 |     Steinhaufen/Bessere Holzdeckungen     |
 | Tier 3 |  9000 |         Massive Steinmauern/Felsen        |
 
-Werte können im Spezialfall auch abweichen
+Werte können im Spezialfall auch abweichen.
 
 Sollte der Schadenswert einer Deckung überschritten sein, gilt die Deckung als zerstört und ist damit nicht mehr wirkungsvoll. Angriffe "schlagen" durch. 
 
 Deckung kann auch negiert werden. Dies findet entweder durch Artillerie statt, oder durch hinter die Deckung geworfene Explosivstoffe (Hierbei ist der Threshold an die Größe der Deckung und die Umstände anzupassen).
-Eine weitere Strategie gegen Deckung ist das "ansitzen". Hierbei deklariert ein Angreifer als Main Action eine Deckung und achtet genau auf sie. Dies führt dazu, dass er auf ein beliebiges Ziel, dass hinter der Deckung hervorkommt oder hervorschaut einen Angriff in der gegnerischen Runde ausführen kann, die Verteidigung wird at Disatvantage geworfen. Sollte ein Wesen während dem ansitzen allerdings einen anderen Check werfen müssen wirft es diesen ad Disatvantage und verliert den Fokus auf die Deckung (damit ist das ansitzen beendet). Während man ansitzt kann man nicht mithilfe einer single action eine Abwehraktion (Block,Dodge,Parieren) starten, sondern der Würfel entscheidet.
+Eine weitere Strategie gegen Deckung ist das "Ansitzen". Hierbei deklariert ein Angreifer als Main Action eine Deckung und achtet genau auf sie. Dies führt dazu, dass er auf ein beliebiges Ziel, das hinter der Deckung hervorkommt oder hervorschaut, einen Angriff in der gegnerischen Runde ausführen kann, die Verteidigung wird at disadvantage geworfen. Sollte ein Wesen während des Ansitzens allerdings einen anderen Check werfen müssen, wirft es diesen at disadvantage und verliert den Fokus auf die Deckung (damit ist das Ansitzen beendet). Während man ansitzt kann man nicht mithilfe einer Single Action eine Abwehraktion (Block,Dodge,Parieren) starten, sondern der Würfel entscheidet.
 
 ### Instrumente und ihre Wirkung im Kampf {#InstrumenteRules}
 
@@ -197,15 +197,15 @@ Mit einem guten Rhythmus kämpft man besser. Bestimmte Instrumente bringen Power
 
 Instrumente haben Slots für Buffs und Debuffs. In jeden Slot passt ein Effekt. Ein Effekt hält zwei Runden an und muss dann erneuert werden. Zum Erneuern muss zuerst als Main Action eine Probe auf Performance gespielt werden, je nach Effekt ist der Threshold ein anderer.
 
-Das Instrument zu spielen ist auch wieder eine Main Action. Die möglichen Buffs der Instrumente <font color="green">[ist hier gelistet](#WirkungBuffs)</font>.
+Das Instrument zu spielen ist auch wieder eine Main Action. Die möglichen Buffs der Instrumente <font color="green">[sind hier gelistet](#WirkungBuffs)</font>.
 
 In bessere Instrumente passen mehrere Buffs, diese können also direkt nacheinander eingesetzt werden, da der Buff - nicht das Instrument - einen Cooldown hat.
 
 ### Dual Wielding
 
-Ganz mutige Wesen versuchen mit zwei Waffen zu kämpfen. Dies kann vor und nachteile mit sich bringen. Ein Nachteil dabei ist, dass man nicht blocken kann. Ein Vorteil ist, dass man auch in der Single Action mit einer Waffe zuschlagen kann. 
+Ganz mutige Wesen versuchen mit zwei Waffen zu kämpfen. Dies kann Vor- und Nachteile mit sich bringen. Ein Nachteil dabei ist, dass man nicht blocken kann. Ein Vorteil ist, dass man auch in der Single Action mit einer Waffe zuschlagen kann. 
 
-Des weiteren gibt es die Chance auf einen Optionsangriff von 20% nach einem Angriff auf einen Zweithandangriff. Für diesen gilt:
+Des Weiteren gibt es die Chance auf einen Optionsangriff von 20% nach einem Angriff auf einen Zweithandangriff. Für diesen gilt:
 Der Schaden mit der Sekundärwaffe (außer Dolch und unbewaffnetem Angriff) wird nur zu 80% umgesetzt.
 Bei Dolchen kommt 90% des Schadens durch, bei unbewaffneten Angriffen sind es 100%.
 
@@ -218,7 +218,7 @@ Auch andere Angriffe können als Single Action durchgeführt werden. Dazu zähle
 
 Unerwartete Angriffe können unheimlich effektiv sein und laufen nach einem gewissen Schema ab. Zuerst wirft man eine <font color="green">[Sneak-Probe](#UntypischeProben)</font> gegen das Ziel oder andere Personen, die einen sehen könnten. Wenn diese fehlschlägt wird normal <font color="green">[Initiative](#Initiative)</font> geworfen. Wenn nicht kommt es zum Schleichangriff. Dieser kann mit allem durchgeführt werden, was nicht als Großwaffe gilt. 
 
-Beim Schleichangriff wird immer at advantage geworfen, wobei 3 mal geworfen wird. Außnahme davon ist der Dolch und die Armbrust - bei der Armbrust wird 4 mal gewürfelt, beim Dolch kommt es zum Attentat.
+Beim Schleichangriff wird immer at advantage geworfen, wobei drei mal geworfen wird. Außnahme davon sind der Dolch und die Armbrust - bei der Armbrust wird vier mal gewürfelt, beim Dolch kommt es zum Attentat.
 
 Nach einem Schleichangriff wird eine weitere Sneak-Probe geworfen, um zu entscheiden, ob der Charakter entdeckt wurde oder nicht. Bei einem Schleichangriff mit einer Nahkampfwaffe bekommt man für die Probe einen -5 Modifyer auf das Attribut Agility, mit dem Schleichen geworfen wird.
 Bei einem Schleichangriff mit einer Fernkampfwaffe liegt dieser Modifyer nur bei -2.
@@ -368,14 +368,14 @@ Um Übersicht über die Pflanzen zu erlangen schau <font color="green">[hier](#A
 
 Hier sind die jeweiligen Thresholds und Informationen was die Stufen der Pflanzen angeht, die Abklingzeit beschreibt wie lange die Toxische Wirkung im Körper aktiv ist:
 
-|  Stufe  | Threshold |  Herstellung  | Abklingzeit | Toxikologie |
-|:-------:|:---------:|:-------------:|:-----------:|:-----------:|
-| Stufe 1 |    1,7    |   On the run  |    30 min   |      1      |
-| Stufe 2 |    2,4    |   On the run  |    90 min   |      2      |
-| Stufe 3 |    2,6    |     Lager     |      4h     |      3      |
-| Stufe 4 |    3,5    |     Lager     |     10h     |      4      |
-| Stufe 5 |    4,5    | Alchemietisch |     24 h    |      5      |
-| Stufe 6 |    4,75   | Alchemielabor |    3 Tage   |      6      |
+|         | Threshold |  Herstellung  | Abklingzeit | Toxikologie |
+|---------|:---------:|:-------------:|:-----------:|:-----------:|
+| Stufe 1 |     1     |   On the run  |    30 min   |      1      |
+| Stufe 2 |     3     |   On the run  |    90 min   |      2      |
+| Stufe 3 |     5     |     Lager     |      4h     |      3      |
+| Stufe 4 |    6,50   |     Lager     |     10h     |      4      |
+| Stufe 5 |     8     | Alchemietisch |     24 h    |      5      |
+| Stufe 6 |     10    | Alchemielabor |    3 Tage   |      6      |
 
 Sollte man zum Beispiel einen Ausdauertrank brauen, der von den Zutaten her Stufe 5 erreichen könnte, hat aber nur einen Threshold von 7 wird es ein Stufe 4 Trank.
 Des weiteren ist wichtig welche Tränke wo hergestellt werden können. Während Stufe 1 & Stufe 2 überall und spontan hergestellt werden können, braucht man für Tränke der Stufen 3 und 4 schon mehr Zeit und muss diese im Lager herstellen. Tränke der Stufe 5 brauchen einen Alchemietisch (einen solchen findet man bei den meisten Alchemisten) und Stufe 6 braucht eine Alchemielabor, welches nur in Großstädten verfügbar ist.
@@ -409,11 +409,11 @@ Thresholds und Kosten der Aktion Reparieren:
 
 | Reparieren | Threshold | Materialkosten | Kosten Schmied |
 |:----------:|:---------:|:--------------:|:--------------:|
-|   Stufe 1  |    1,75   |      1500      |      4000      |
-|   Stufe 2  |    2,5    |      6750      |      14850     |
-|   Stufe 3  |    3,5    |      27000     |      60000     |
-|   Stufe 4  |    4,4    |      90000     |     200000     |
-|   Stufe 5  |     5     |     180000     |     400000     |
+| Stufe 1    |     1     |      1500      |      4000      |
+| Stufe 2    |     2     |      6750      |      14850     |
+| Stufe 3    |     3     |      27000     |      60000     |
+| Stufe 4    |     5     |      90000     |     200000     |
+| Stufe 5    |     10    |     180000     |     400000     |
 
 ### Verbessern
 
@@ -423,11 +423,11 @@ Thresholds und Kosten der Aktion Verbessern:
 
 | Verbessern | Standartwert | Threshold | Kosten Material | Höchster Wert | Kosten Schmied |
 |:----------:|:------------:|:---------:|:---------------:|:-------------:|:--------------:|
-|   Stufe 1  |      30      |    2,4    |       1500      |      +14      |      6000      |
-|   Stufe 2  |      42      |    3,3    |       6750      |       +8      |      27000     |
-|   Stufe 3  |      48      |     4     |      27000      |       +6      |     108000     |
-|   Stufe 4  |      53      |     5     |      90000      |       +4      |     360000     |
-|   Stufe 5  |      --      |     6     |        --       |       --      |       --       |
+|   Stufe 1  |      30      |     2     |       1500      |       41      |      6000      |
+|   Stufe 2  |      42      |     4     |       6750      |       51      |      27000     |
+|   Stufe 3  |      52      |     6     |      27000      |       62      |     108000     |
+|   Stufe 4  |      63      |     9     |      90000      |       74      |     360000     |
+|   Stufe 5  |      75      |     20    |      180000     |       85      |     720000     |
 
 ### Modifizieren
 

@@ -36,9 +36,38 @@ Explizit sei erwähnt, dass das Himmelsgebirge und die Graue Ödnis sehr schlech
 Grob einteilen lassen sich Monster schwer. Zu unterschiedlichst sind die Bestrafungen des Allgotts in ihren Fähigkeiten, Stärken und Schwächen.
 Die wichtigste Unterteilung erfolgt zwischen "Bewussten" und "Unbewussten" Monstern.
 
-Erstere sind, der Einstufung der Fachgelehrten entsprechend teils intelligent wie Menschen bzw. jedenfalls so intelligent wie durchschnittliche Orks. Insofern werden "bewusste" Ungeheuer schlichtweg "Sentients" genannt um dies darzustellen. Alternativ, hier ist die Fachwelt geteilter Meinung ist der Begriff Abscheulichkeit als legitimer Ausdruck anwendbar, da "bewusste" Monster vor psychologischer Kriegsführung, Terror und schlichtweg vor absichtlicher Grausamkeit nicht zurück schrecken.
+ OBSOLETE: Erstere sind, der Einstufung der Fachgelehrten entsprechend teils intelligent wie Menschen bzw. jedenfalls so intelligent wie durchschnittliche Orks. Insofern werden "bewusste" Ungeheuer schlichtweg "Sentients" genannt um dies darzustellen. Alternativ, hier ist die Fachwelt geteilter Meinung ist der Begriff Abscheulichkeit als legitimer Ausdruck anwendbar, da "bewusste" Monster vor psychologischer Kriegsführung, Terror und schlichtweg vor absichtlicher Grausamkeit nicht zurück schrecken.
 
 "Unbewusste" Monster agieren viel mehr nach Instinkten und können mit Fallen leicht  überwältigt werden, so man die benötigte Mannstärke und Waffen besitzt. "Unbewusste" Monster werden schlichtweg als Monster oder Ungeheuer bezeichnet.
+OBSOLETE END:
+
+Die Welt der Monster und Abscheulichkeiten lässt sich in grobe Kategorien einteilen, wobei diese nicht immer Trennscharf sind.
+
+Grob umfassend gibt es:
+- Höllenbrut/ Allgott verlassene - meist grob menschlicher Gestalt, zeichnen sich dadurch aus dass diese nur Menschenartige Wesen angreifen und gegenüber ihrer eigenen Art keinerlei Aggressionen zeigen.
+
+- Würmer  - wie der name sagt, lang, rund, schlechtes Temperament, häufig blind.
+
+- Piscari - die Ungeheuer in den Flüssen, Seen und Meeren welche fischähnlich wirken
+
+- Abgrundbewohner - was die Tiefen der Meere an Abscheulichkeiten gebärt. Über diese Gruppe ist äußerst wenig bekannt.
+
+- Echsenartige - Drachen Lindwürmer, Panzerechsen. Zeichnen sich dadurch aus dass diese Jagd explizit auf andere Monster machen. Sind meist von höherer Intelligenz und haben beinahe alle Feuerfeste Haut welche mit Knochenschuppen übersäht ist.
+
+-Foedukulus - die als Hässliche Menschen übersetzte Gruppe umfasst Humanoide meist in größerer Statur als Mensch. Sind immer zweibeinig, meist neutral gegenüber Menschen wenn man deren Grenzen respektiert. Nutzen Waffen, schmeißen Felsbrocken und sind unter Umständen in sozialen Gruppen unterwegs.
+
+- Bestien - Werwölfe, Bleirücken und sonstiges welche man als Teile der gegebenen natürlichen Ordnung sehen kann. Die Fleischfressenden Varianten Jagen alles, die vegetarischen Arten stellen meist ein landwirtschaftliches Problem dar.
+
+- Vielbeiner - Monster welche mehr als 4 Beine haben zählen, überraschender weise, zu den Vielbeinern. Dazu zählen die unterschiedlichen Varianten der Skorpione, Spinnen und Rieseninsekten.  Sie zeichnen sich im allgemeinen dadurch aus, dass  die Gefährlichkeit für bewaffmete Menschen gegeben ist und meist harte Äußere Panzer als Haut tragen welche Sie gegenüber einfachen Schwertern und Bögen meist unverletzbar.
+
+- Knochenschädler - trotz ihrer relativen Seltenheit zählen Knochenschädler als eigene Monsterkategorie. Ihre Körperform, Anzahl und Form der Extremittäten, größe, Widerständigkeit sind hochvariabel. lediglich einheitlich ist das der Kopf eine knochartigen Platte ist- ähnlich einer Schädelform. Dort befinden sich weder Münder noch sichtbare Augen.  Um den an anderen Positionen gelegenen Mündern entspringen meist mehrere Tentakel.
+Knochenschädler besitzen vermutlich eine Intelligenz welche im Hintergrund koordiniert.
+
+- Schleimer - Gebunden an Feuchtgebiete, wie Sümpfe, Flussauen und den dauerfeuchten Wäldern von Silva Nacia ist diese Gruppe durch eine häufig schleimige, teils mit Säure gefüllten Blasen ausgestattet. Die Körperform ist für gewöhnlich stark variabel.
+
+-Nebelhainii  - Die sonderbaren Monster des Nebelhains werden in der Kategorie Nebelhainii zusammengefasst. Prinzipiell sind diese Abscheulichkeiten nur in den inneren Bereichen des Nebelhains anzutreffen und stellen neben den Knochenschädlern und den Abgrundbewohnern der Meere die unbekannste Gruppe dar.  Wie die Knochenschädler ist davon auszugehen, dass die Nebelhainii von einer kollektiven Intelligenz gesteuert sind oder über ein kollektives Bewusstsein verfügen.  Erschwert wird die Bestimmung und Kategorisierung durch die Tatsache, dass die Berichte aus dem Nebelhain vielfach durch die Maladria, der Ursache für ide geistige Verwirrung im Nebelhain, verzerrt sind.
+
+- Vampiridae - abgesehen von dem Hass gegenüber Schöllkraut eint alle Vampirdae das Trinken von Blutes. Blut wird hierbei von einer Vielzahl warmblütiger höherer Tiere getrunken. Weiters ist bei allen Vampiridae, dass  die Krallen, Klauen und Zähne fähig sind Blut aufzunehmen, durch Muskeln welche die innen hohlen Klauen als Pumpen verwenden können. Dadurch können sich Vampiridae auch im Kampf schnell wieder regenieren. Zu den bekanntesten Vampiridae zählen Katakane und bilden das mittlere Spektrum in Gefährlichkeit der Vampiridae ab. 
 
 
 Speziell erwähnt werden sollten Legenden. Diese Monster sind lediglich aus alten Überlieferungen von Orks, Zwerge oder Elfen belegt. Seit der Erstauflage dieses Werkes vor über dreizehn Jahrzehnten konnte von diesen Legenden kein Nachweis erbracht werden.
@@ -273,13 +302,27 @@ Die Spinnen sind überraschend intelligent und ziehen sich häufig einfach zurü
 
 ## Dunkleosteus
 
-Ungeheuer der Meere sind 
-9 meter langer Panzerfisch
+Ungeheuer der Meere sind weitaus weniger erforscht und so kann ein jeder davon ausgehen dass die Tiefen der Meere mehr Abscheulichkeiten  bewohnen als Bürger Eldrias treu dem Kaiserreich sind.
+
+Dnkleosteus ist eines dieser Monster, benannt nach dem Fischer und Forscher Nixan Dunkleosteus, sind diese Ungetümer mehrere Meter lang und am Kopf mit einem Knochenpanzer direkt unter der Haut ausgestattet was es quasi unmöglich macht diese Monster schnell zu erlegen oder gar gegen diese anzukämpfen.
+Ist man nicht mit ertrinken im Wasser alleine beschäftigt reißen Dunkleosteus in den Salzigen Wassern und den Brackwässern häufiger schwimmende Kühe und größere Fische und auch unvorsichtige Fischer.
+Dunkleosteus können durch grelles Licht oder Lärm von z.b explodierenden Moltovikas  abgeschreckt werden, jedoch empfiehlt sich zweiteres nicht da die Verletzungsgefahr hoch ist.
+
+Dunkleosteus können , wenn diese an der Oberfläche schwimmen mittels Kanonen erlegt werden, jedoch hat man meist nur exakt einen einzigen Schuss bevor diese durch den Lärm abgeschreckt werden.
+
+Alten Überlieferungen der ersten Seefahrer zufolge war dies ein entscheidender Mitgrund warum Seefahrer lauthals ihre Lieder brüllen um so zu verhindern das kleine Holzboote  angegriffen werden.
+
+Über die Fortpflanzung dieser Knochenfische ist leider noch nichts bekannt, allerdings können kleine Dunkleosteus in Brackwasser beobachtet werden, wo diese gelgentlich von Fischern gefangen werden. Ihr Fleisch soll angeblich stark aphrodisierend wirken.
+
+![Ein Dunkleosteus vor der Küste Sturmkapps - Illustration von Nixan Dunkleosteus](Pictures\\Flavor\Monster\Dunkleosteus.png)
 
 ## Riesenkalmar
 
 ## Riesenvaran
 
+## Bleirücken
+
+Elchgroßer Vierbeiniger Jäger mit extrem dichten & schweren fell  -  Gebirgsmonster mit Varianten in den Tundren
 
 ## Usukats
 
