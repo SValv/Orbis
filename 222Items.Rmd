@@ -253,11 +253,13 @@ Die Wirkungen im Kampf sind in der unten stehenden Tabelle ersichtlich.
 |      Reinigung      | Stufe 6 |      2800      |                          Entfernt alle trankbedingten Stati bis Stufe 6                          |
 |   Segen der Sienna  | Stufe 3 |      3000      | Einsetzbar gegen Blutsauger <br> stoppt die positiven Effekte <br> vergleichbar mit Säurewirkung |
 |  Licht des Allgotts | Stufe 4 |      4200      |                Ca 2 min sehr helles Licht <br> blendet nicht daran gewöhnte Feinde               |
+
 ### Wirkungen von Tränken: 
 
 * Gift hält 3 Runden an
 * Antipyretika haben eine Besondere Rolle für Animali, in wärmeren Gebieten brauchen sie sie - Je nach Mutation, um Negativmodifyer wegen Hitze zu vermeiden. Außerdem brauchen sie stärkere Antipyretika (Stufe 4) um die Wärmesicht der Goblins zu kontern.
 * Madnika: zusätzlich keine Ausdauerdebuffs/Widerstehen von 1x Ohnmacht durch Ausdauerverlust
+* Licht des Allgotts: Besonders effektiv gegen Erwachte. 
 
 ## Reittiere {#Mounts}
 
