@@ -34,14 +34,9 @@ Auch für Holzfäller ist dieses Wissens unentbehrlich, da Sie häufig in Gebiet
 Explizit sei erwähnt, dass das Himmelsgebirge und die Graue Ödnis sehr schlecht erforscht sind. Das Wisssen über die dort lebenden Abscheulichkeiten beläuft sich primär auf Aussagen von einzelnen überlebenden Zwergen so wie auf Orkstämme welche regelmäßig in Gebirgen aus religiösen Gründen jagen.
 
 Grob einteilen lassen sich Monster schwer. Zu unterschiedlichst sind die Bestrafungen des Allgotts in ihren Fähigkeiten, Stärken und Schwächen.
-Die wichtigste Unterteilung erfolgt zwischen "Bewussten" und "Unbewussten" Monstern.
 
- OBSOLETE: Erstere sind, der Einstufung der Fachgelehrten entsprechend teils intelligent wie Menschen bzw. jedenfalls so intelligent wie durchschnittliche Orks. Insofern werden "bewusste" Ungeheuer schlichtweg "Sentients" genannt um dies darzustellen. Alternativ, hier ist die Fachwelt geteilter Meinung ist der Begriff Abscheulichkeit als legitimer Ausdruck anwendbar, da "bewusste" Monster vor psychologischer Kriegsführung, Terror und schlichtweg vor absichtlicher Grausamkeit nicht zurück schrecken.
 
-"Unbewusste" Monster agieren viel mehr nach Instinkten und können mit Fallen leicht  überwältigt werden, so man die benötigte Mannstärke und Waffen besitzt. "Unbewusste" Monster werden schlichtweg als Monster oder Ungeheuer bezeichnet.
-OBSOLETE END:
-
-Die Welt der Monster und Abscheulichkeiten lässt sich in grobe Kategorien einteilen, wobei diese nicht immer Trennscharf sind.
+Die Welt der Monster und Abscheulichkeiten lässt sich dennoch in grobe Kategorien einteilen, wobei diese nicht immer Trennscharf sind.
 
 Grob umfassend gibt es:
 - Höllenbrut/ Allgott verlassene - meist grob menschlicher Gestalt, zeichnen sich dadurch aus dass diese nur Menschenartige Wesen angreifen und gegenüber ihrer eigenen Art keinerlei Aggressionen zeigen.
@@ -54,7 +49,7 @@ Grob umfassend gibt es:
 
 - Echsenartige - Drachen Lindwürmer, Panzerechsen. Zeichnen sich dadurch aus dass diese Jagd explizit auf andere Monster machen. Sind meist von höherer Intelligenz und haben beinahe alle Feuerfeste Haut welche mit Knochenschuppen übersäht ist.
 
--Foedukulus - die als Hässliche Menschen übersetzte Gruppe umfasst Humanoide meist in größerer Statur als Mensch. Sind immer zweibeinig, meist neutral gegenüber Menschen wenn man deren Grenzen respektiert. Nutzen Waffen, schmeißen Felsbrocken und sind unter Umständen in sozialen Gruppen unterwegs.
+- Foedukulus - die als Hässliche Menschen übersetzte Gruppe umfasst Humanoide meist in größerer Statur als Mensch. Sind immer zweibeinig, meist neutral gegenüber Menschen wenn man deren Grenzen respektiert. Nutzen Waffen, schmeißen Felsbrocken und sind unter Umständen in sozialen Gruppen unterwegs.
 
 - Bestien - Werwölfe, Bleirücken und sonstiges welche man als Teile der gegebenen natürlichen Ordnung sehen kann. Die Fleischfressenden Varianten Jagen alles, die vegetarischen Arten stellen meist ein landwirtschaftliches Problem dar.
 
@@ -72,259 +67,10 @@ Knochenschädler besitzen vermutlich eine Intelligenz welche im Hintergrund koor
 
 Speziell erwähnt werden sollten Legenden. Diese Monster sind lediglich aus alten Überlieferungen von Orks, Zwerge oder Elfen belegt. Seit der Erstauflage dieses Werkes vor über dreizehn Jahrzehnten konnte von diesen Legenden kein Nachweis erbracht werden.
 
-## Kraves
 
-Kraves sind eine Plage, welche einem übergroßen Raben ähnelt und sowohl Städte als auch Höhlensysteme bewohnt. Obwohl der durchschnittliche Krave nicht fliegen kann, sorgen die vielen Variationen der Kraven - ebenso wie ihre Bosartigkeit - dafür 
+## Höllenbrut
 
-> "Die Zerstörung von Wandia war in vielerlei Hinsicht grauenhaft, aber ebenso grauenhaft waren die Geschichten, welche sich im Nachhinein dort abspielten. Ich selbst sah die Verwandlung, welche einfache Aasvögel in Kraven verwandeln sollte: Krähen, die das verderbte Fleisch von Erwachten verspeißten und immer größer und aggressiver wurden. Alsbald waren sie zu schwer zum fliegen und entwickelten beinahe menschliche Gleidmaßen. Sie ergriffen Waffen und Werkzeuge und fielen über alles her, was sie an noch lebendigem Fleisch finden konnten."
->
-> --- Hermetus Korak in "der Fall von Wandia"
-
-## Katakhan
-
-## Brutmutter
-
-Brutmütter sind eine wahre Bestrafung der Augen. Man stelle sich einen bis zur Unkenntlichkeit überfressenen Kahlköpfigen bleichen Menschen vor. Dieser hat rund ein Dutzend Brüste. Gerüchtenzufolge besitzen Brutmütter mehrere Tentakel und nicht benutzbare Hände. die Fortbewegung folgt furchtbar langsam von rund 2 Meter mit einem Satz. Also jeder Mensch kann einfach diesem Monster aus dem weg gehen.
-
-Die Hauptentakeln sind dick, worauf sich schließen lässt, dass man Brutmütter nicht im Nahkampf begegnen sollte. Bis zu 6 weitere Tentakel befinden sich, aus dem Boden ragend in der Nähe der Brutmutter und beschaffen entweder Futter oder verteidigen diese.
-
-Brutmütter gebähren Ghule und können dadurch nach gewisser Zeit eine regelrechte Plage werden.
-
-Über die Schwächen gegenüber Giften oder Feuer ist wenig bekannt.
-Es wird empfohlen eine Brutmutter mit der Hilfe von Skorpionen zu erledigen und einer guten Hand voll schwer ausgerüsteter Soldaten.
-Man Ziele einfach auf den Kopf der Brutmutter. 
-Eventuell zur Verteidigung herbeistürmende Kinder, also die Ghule, sind mit Schwerter und Schilder kein Problem.
-
-Alchemistisch ist keine Verwendung über Brutmutter Ingridientien bekannt.
-
-![Illustration einer schlafenden Brutmutter](Pictures\\Flavor\Monster\Brutmutter.jpg)
-
-![Illustration eines Ghules](Pictures\\Flavor\Monster\ghule.png)
-
-## Werwolf
-
-Der Werwölf gehören zu den mittelmäßig intelligenten Monstern welche sich, in leicht verschiedenen Varianten in der Welt verteilten und lediglich nicht in Wüstengebieten und der Grauen Ödnis anzutreffen sind.
-Das Aussehen der Werwölfe ist meist eine menschenähnliche Statur. Die Körpergröße beträgt im Schnitt 2,2 Meter. Ihre Körpoerbehaarung welche am Rücken und Oberkörper am stärksten ist, ist für gewöhnlich grau bis graublau. Braune Varianten finden sich in Wäldern und Sumpfgebieten des Süden häufiger.
-
-Ihre Körperliche Kraft und Schnelligkeit übersteigt die eines jeden trainierten Orks. Ausgestattet mit rund 5 cm langen Klauen, welche bei älteren Exemplaren häufig zum Teil gebrochen sind, reißen mühelos Menschen auf.
-
-Die Vermehrung der Terretorialen Werwölfe erfolgt zufällig über das gesamte Jahr. Hierbei streifen meist Männchen auf der Suche nach Weibchen umher. Hierbei passiert es häufig, dass Werwölfe auch ihre angestammten Gebiete verlassen und teils in Dörfern gesichtet werden. Bis jetzt sind nur Sichtungen in der Nacht bekannt, wo die Werwölfe durch Dörfer zogen.
-Weibchen werfen nach unbekannter Zeitlänge rund 3-6 Jungtiere, welche an ihren Zitzen aufgezogen werden. Die Aufzuchtsdauer beträgt meist mehrere Monate wo das Weibchen häufig von einem Männchen mit zusätzlicher Beute versorgt wird.
-
-Sobald die Jungtiere  rund 11 Monate alt sind, was rund 1,3 Meter Körpergröße entspricht suchen Sie sich im Schutze der Dunkelheit neue Jagdgebiete.
-
-Werwölfe sind anfällig gegenüber Feuer und Giften.
-
-![Darstellung eines lebenden Werwolfes](Pictures\\Flavor\Monster\werwolf.png)
-
-## Lindwurm
-
-
-Irreführendesweise sind Lindwürmer, nicht mit den Würmern verwandt sondern sind vermutlich Abkömmlinge von Drachen.
-Lindwürmer, teils bekannt als Panzerechsen oder Höhlendrachen können in vielen Fällen Feuer speien. Die meisten rezenteren Exemplare welche von Orks erlegt wurden speiten allerdings kein Feuer mehr.
-
-Ihre Haut besteht auf der Oberseite und seitlichen Körperregionen aus dicken Knochenplatten.  Lindwürmer können Körperlängen von bis zu 8 Metern erreichen, alten Überlieferungen zufolge sind bis zu 15 Meter möglich, dies konnte allerdings siet nunmehr 136 Jahren nicht bestätigt werden.
-
-Lindwürmer, sind, im Gegensatze zu den wahrhaftigen Drachen, weniger Intelligent und reagieren tendenziell mehr auf Instinkte. Dies mag geschichtlich auf ihre häufig unterirdische Lebensweise zurückuführen sein, wo wenig Sinn darin besteht vernünftig zu agieren.
-Lindwürmer sind in der Lage, so wie viele Höhlenbewoner im dunkelen zu sehen.  Grelles Tageslicht hingegen blendet sie, wenn man den Berichten von Orks glauben schenkt.
-
-Über die Reproduktion von Lindwürmern ist wenig bekannt. Jungtiere konnten bis jetzt nich gefunden werden, was an den vielfach unerforschten Steinwurmgängen liegt welche teils mehrere Meter senkrecht in die Tiefe führen. In der 136 jährigen Zeit seit der Erstaufalge dieses wunderbaren Werkes konnten lediglich 7 Fälle nachgewiesen werden wo Lindwürmer  mit Artgenossen kooperierten.
-
-
-> "Die Bestrafung der gierigen Zwerge sollet der Lindwurm sein! Schmelzen soll er die, welche der Gier einherfallen und nicht im Antlitz der Sonne weilen."
->
-> ---  Auszug aus dem Werk von Pater Sistan Erindan - Das Leben der Zwerge - eine nicht heretische Abhandlung
-
-![Darstellung eines lebenden Werwolfes](Pictures\\Flavor\Monster\Lindwurm.jpg)
-
-Orks, welche den Großteil der Lindwurmkenntnisse besitzen nutzen, falls es sich um Feuerspeiende Lindwürmer handelt, meist Lindwurm Haut zum Schutz und schnelle und gezielte Angriffe auf die Unterseite des Lindwurms. Vorzugsweise Nutzen Orks hierbei zweihändige Kriegshämmer und lange Knochenspeere aus den Knochen von Lindwürmern.
-Zuerst provoziert man den Lindwurm zum Feuerspeien und versteckt sich hinter der Lindwurmhaut. Hat der Lindwurm seine Feuerreserven aufgebraucht, welche runde 30 Sekunden durchspeiendes Feuer  erlauben, versetzt man dem Lindwurm Speerstöße. Diese dienen den Lindwurm weiter zu provozieren. Anschließend können mehrere Orks mit Kriegshämmern auf den Lindwurm aufspringen und mit Hammerschlägen seinen Schädel bearbeitet. Dies tötet den Lindwurm nicht, jedoch desorientiert es den Lindwurm woraufhin mit Speeren dann tatsächlich die Unterseite des Kopfes und des Halses angegriffen werden können.
-
-Speziell erwähnt werden sollte die beobachtete Tat eines Orkstammesführer Names Gra-Ash-Tark. Dieser war in der Lage mit einem einzigen Hieb seines 60 Kilo (!) schweren Kriegshammers einen Lindwurmschädel einzuschlagen- was den Lindwurm sofort tötete.
-
-![Darstellung von Gra-Ash-Tark mit seinem 60 Kilo Hammer](Pictures\\Flavor\Monster\Gra-Ash-Tark.png)
-
-
-
-## Drache
-
-Drachen sind seit jeher aus Sagen des gemeinen Volkes bekannt.
-Es gibt, wenig über Drachen zu erzählen, da die meisten über die letzten Jahrhunderte fast vollständig verschwanden, 
-was manche Gelehrten mit der Territorialität der Drachen in Verbindung bringen.
-
-Drachen sind intelligente, mit teils 25 Meter Flügelspannweite fliegende Panzerechsen. Die Färbung von Drachen ist im allgemeinen extrem variabel. Lebende Exempalre waren in Farben von Obsidianschwarz hin zu beinahe weißen Varianten zu beobachten, wie man der Darstellung unten entnehmen kann.
-Sie sind extremst territorial und Paarungen sind nicht beobachtet, jedoch konnten bisher insgesamt 14 Dracheier gefunden bzw entnommen werden. Das Ausbrüten dieser war in jedem Fall unerfolgreich.
-
-Drachenjungtiere werden, laut dem uns spärlich bekannten Wissen, meist Jahrelang von ihrer Mutter beschützt - teils in extra aus Gestein geschmolzenen Nestern.
-
-Drachen ernähren sich von beinahe allem was naiv genug ist sich ihm entgegen zu stellen. Hierzu zählen Lindwürmer, Steinwürmer wie auch  ein Kampf zwischen einem Aschwurm und einem Drachen bekannt war welche in einem unentschieden endete, da der Aschwurm sich zurück unter die Oberfläche zog.
-
-![Freie Interpretation des sogenannten "Drachenfürsten". Der größte jemals gesehene Drache mit einer Flügelspannweite von geschätzt 30 Metern](Pictures\\Flavor\Monster\dragonmyth.jpg)
-
-### Wahre Drachen {#WahrerDrache}
-
-Wahre Drachen sind mit bloßem Auge nicht von normalen Drachen zu unterscheiden, wobei ein wahrer Drache ungemein gefährlicher ist, da er in der Lage ist Feuer zu speien. 
-Zum Glück sind wahre Drachen noch seltener als herkömmliche, so gibt es nur noch 4 bestätigte wahre Drachen in ganz Orbis Astea, wobei der bekannteste in <font color="green">[Wandia](#Wandia)</font> wohnt, einer im Himmelsspitzen-Gebirge und man es bei den anderen nicht genau weiß.
-
-Das Feuer eines wahren Drachen ist seine gefährlichste Waffe. So konnte ein einzlner Drache geschätzt 60 Sekunden durchgehend Feuerspeien, ehe dieser abzog. Die Flammen des Drachen sind unter Umständen in der Lage Eisen zu schmelzen. Insofern wird bei einer Begegnung mit einem wahren Drachen abgeraten mehr als umbedingt nötig mit sich zu tragen und am Besten die Beine in die Hand nehmen und das weite suchen statt zu kämpfen.
-
-## Skrogan Skorpion {#Skrogan}
-
-Ein Skrogan Skorpion ist eine große Bestie, ein große Skorpion, der in Eid' Rah Kari heimisch ist. Fast alle Fernkampfangriffe - ebenso wie viele Nahkampfangriffe - sind gegen seinen Panzer wirkungslos. Ebenjener Panzer wird von den Rah Kari oft benutzt, um Rüstungen für besondere Einheiten wie Helden oder Generäle zu fertigen.
-
-Wilde Skrogan-Skorpione sind mittlerweile selten geworden, da die Rah Kari sie wegen ihrer Rüstungen jagen oder sie für den Dienst in ihren Einheiten domnestizieren. Skrogan Skorpione sieht man häufiger in den Armeen der Rah Kari. 
-
-![Die Jagd auf einen Skrogan Skorpion wird meist mit berittenen Bogenschützen durchgeführt](Pictures/Flavor/Monster/SkroganSkorpion.jpg)
-
-Skrogan Skorpione sind im Gegensatz zu ihren Verwandten, den Silurian-Skorpionen, aüßerst schwerfällig. So ist es für den durchschnittlichem Menschen möglich, einem Skrogan-Skorpion zu Fuß zu entfliehen. Deswegen schlagen diese Skorpione meistens in für sie vorteilhaftem Terrain zu. Sie bevorzugen es in Kuhlen oder sehr großen Löchern zu leben, in denen die Steigung oder die Wände ihre Opfer an der Flucht hindern. Sie verfolgen ihre Opfer über mittlere Distanzen, was sie anfällig für Köder-Strategien macht.
-
-## Silurian Skorpion
-
-Silurianskorpione, sind im eigentlichen Sinn keine Skorpione sondern eine scheinbar sehr alte Variante davon.
-
-Die Siluriansskorione kommen beinahe ausschließlich in Wüstengebieten vor, sind jedoch teils in der Grauen Ödnis anzutreffen. Sie werden, je nach Alter bis zu 3,5 Meter lang.
-
-Silurianskorpione sind Einzelgänger und treffen sich nur zur Paarung.  Die Eier werden nicht bewacht und sind gekocht genießbar.
-Die Monster sind nicht intelligenter als allgemeines Insektoides Getier und können für gewöhnlich mit Fernkampfwaffen verletzt werden, so dass sich diese wieder in den Sand zurückziehen.
-Ihre Färbung entspricht meist dem örtlichen Sand wo sich diese teils langsam grabend fortbewegen. Ihre Sicht ist schlecht, allerdings sind Sie extrem feinfühlig gegenüber Vibrationen.
-Ihr Gift ist nicht besonders toxisch, allerdings sind die Mengen unheimlich hoch - bis zu einem halben Humpen Bier!
-
-Die Skropinoe sind gegenüber Feuer quasi nicht verletzbar und können so NICHT mit Moltovika oder brenndem Öl bekämpft werden. Moltovika desorientieren allerdings die Skorpione wodurch es möglcih ist mit Speeren die Skorpione zu erlegen.
-Ihr Fleisch ist, trotz Verhältnismäßig Rarität in den Städten der Rahkari extrem begehrt und kann pro Kilogramm umgerechnet 4000 Reiks kosten.
-Ihr Körperpanzer kann hervorragend als mittlere Rüstung verwendet werden und ist fabelhaft leicht. Allerdings kann man ohne Ersatzpanzer diese Rüstung nicht warten.
-
-Silurian Skorpione fallen primär einsam herumwandernde Wesen an und so empfiehlt sich mindestens zu viert oder zu fünft durch Siluriangebiet zu streifen.
-
-![Darstellung eines Silurian Skorpion der gerade einen Wüstengleiter erlegt welcher durch die starken Regenfälle an die Oberfläche gezwungen wurde ](Pictures\\Flavor\Monster\\silurianscorpion.jpg) 
-
-## Gravis 
-
-Ein Gravis ist eine nicht wirklich als Monster einordenbare Kreatur, da allerdings keine bessere Einordnung für sie gefunden werden kann stehen sie in diesem Buche.
-
-Ein Gravis ist ein monströses Getier, das intelligent genug ist um in einer Sozialstruktur zu leben und einfache Kommentare und Anweisungen von Menschen zu verstehen. Dies geht so weit, dass teilweise wirkliche Konversationen mit Gravi geführt werden können. Allerdings trifft es Konversation nur so halbwegs, da die Stimmbänder eines Gravis nur unverständliche Brüllgeräusche erzeugen können und die Konversationen daher eher einseitig sind. Dennoch verstehen Gravis Menschen zum Teil, was man an ihren Reaktionen sieht. 
-
-Ein Gravis zeichnet sich zurch zweierlei Dinge aus: Horrende Kraft und eine beinahe übernatürliche Reaktionsfähigkeit. Ihre ohnehin dicke und ledrige Haut erholt sich in kürzester Zeit sogar von tiefen schnitten und wunden, was sie zu unglaublich gefährlichen Feinden macht, die mit Keulen in übergröße ausgestattet ganze Battalione einfacher Soldaten zerschmettern können. 
-
-![Darstellung eines Gravis im Dienste einer freien Kompanie](Pictures/Flavor/Monster/gravisT.png)
-
-Ein Gravis hat, wie bereits angemerkt, eine sehr dicke, fast rüstungsgleiche Haut. Aufgrund ihrer "Kommunikationsfähigkeit" und ihrer offensichtlichen Vorteile im Feld werden sie gerne von Söldnerkompanien eingesetzt, die die als Frontbrecher verwenden. Einen Gravis in der Kompanie zu haben ist ein seltener, aber mehr als entscheidender, taktischer Vorteil. Daher rüsten viele Kompanien einen Gravis mit zusätzlicher Ausrüstung aus, um noch mehr Nutzen aus ihm zu kitzeln.
-Hierbei ist zu erwähnen, dass die Kaiserliche Armee keine Gravis in ihren Rängen erlaubt, da sie laut der Ekklesia "unheilige Kreaturen" sind.
-
-Doch warum sollte ein Gravis in einer menschlichen Armee dienen? Laut der Forschung von Primus Lauthaus ist eine große Menge an funkelnden Objekten ein Paarungsgebot der Gravi. Ein potentieller Partner wird das Angebot eines anderen Gravis nur akzeptieren, wenn er genug funkelnde Objekte hat um ein guter potentieller Partner zu sein - und menschliche Münzen oder Schätze sind großartige funkelnde Objekte. Daher ging Leithaus davon aus, dass für viele Gravis sich eine Anstellung mehr ausgezahlt hat als andere Methoden um an "Funkelzeug" zu kommen. Interessant ist auch dass das Funkelzeug nach dem Paarungsgebot für Gravi jede Bedeutung verliert und daher einfach mitgenommen werden kann.
-Die Theorie von Lauthaus fußt auf der Untersuchung gestohlener Objekte bei Gravis-Überfällen von Dörfern, die nahe ihrer Habitate liegen, ebenso wie von Beobachtungen von Gravi auss der Ferne. Allerdings ist diese Theorie eher umstritten und ihr steht die Theorie der Ekklesia gegenüber die besagt, dass Gravi ein zeichen des Allgott seien, dass der Mensch sich sogar große Monster zu Untertan machen kann (Aufgrund dieser theoretischen Differenzen wurde Leithaus schlussendlich auch der Häresie überführt und von der Inquisition hingerichtet).
-Laut Lauthaus leben die Gravi als Einzelgänger, bis sie ihr Paarungsgebot an einen anderen Gravis richten. Sollte es angenommen werden leben Gravi den Rest ihres Lebens friedlich und Monogam zusammen. Aggresivität ist nur beobachtbar während sie in der Jugend - also auf Partnersuche - sind.
-Geschlechtlicher Dimorphismus konnte bei Gravi nicht beobachtet werden und es ist fraglich ob es überhaupt Geschlechter gibt, da über ihre Fortpflanzung so gut wie nichts bekannt ist. 
-
-Gravis-Habitate wurden vor allem in Wäldern mit nahen Flüssen und hoher Feuchtigkeit gefunden.
-
-## Steinwurm
-
-> "Brich Stock und Stein, 
-wenn du fällst in ein Steinwurmloch hinein. 
->
-Freu dich nicht,
-denn bald hast du Steinwurmsäure im Gesicht."
->
-> ---  Gedicht über den Steinwurm
-
-Steinwürmer gehören zu den größeren Ende der Wurmartigen Monster.
-Steinwürmer werden biszu 14 Meter lang und leben obligatorisch unter Tage.
-Sie fressen keine Tiere sondern ernähren sich von speziellem Gestein welches sich als grün floureszierende Masse teils die Gänge von den Steinwürmern beleuchtet.
-Steinwürmer sind selten anzutreffen und ihre Gänge meist älter als die Gründung des Kaiserreichs.
-
-Sie besitzen keine Augen und graben sich mit ihren unheimlich Harten Vorderzähnen und der Zuhilfenahme ausgestoßener Säure erstaunlich rasch durch das Erdreich und Gestein.
-
-Steinwürmer sind für einen guten Teil der Höhlen im Himmelspitzengebirge und in den Gebirgen um das Bermatal verantwortlich.
-Es wird nicht empfohlen den Gängen dieser Würmer zu folgen, da man ab einer gewissen Tiefe auf schlafende Exemplare treffen kann, welche gereizt auf neugierge Forscher reagieren. 
-Zumeist sind ihre Schlafkammern durch rund 12 Meter, beinahe senkrechte Tunnel gekennzeichnet. Dies dient, laut Lehrmeinung, dazu dass Lindwürmer hier keinen Zugang finden und so nicht deren Beute werden können.
-
-Steinwürmer besitzen im allgemeinen weiche Körperoberflächen was ihnen das navigieren durch natürliche Höhlen oder engere Felsspalten erleichtert.
-
-Über die Reproduktion ist nur bekannt dass sie lediglich 3 Eier großen gelege meist von 2 Muttertieren bewacht werden.
-
-Ihre Intelligenz ist mangels wissen schwer zu beurteilen.
-
-![Darstellung eines Steinwurmes. ](Pictures\\Flavor\Monster\steinwurm.png) 
-
-## Aschwurm
-
-Aschwürmer sind endemisch in den Vulkanisch aktiven Gebieten von Wurmfall - welcher den Namen durch die Aschwürmer gefunden hat.
-Aschwürmer sind die größten Monstrositäten in der gesamten bekannten Welt. Körperlängen von 40-50m wurden berichtet. exakte Vermessungen gibt es natürlich nicht. Knochenartige Überreste deuten jedoch auf teils weitaus längere Exemplare hin.
-Aschwürmer haben ihren Namen durch ihre dunkle und überaus Dicke haut, welche ihnen erlaubt selbst durch flüssiges Gestein, Lava, zu kriechen. Obwohl sich die Wurmaktivität primär auf die Phasen vulkanischer Inaktivität beschränkt konnten mehrere unabhängige Berichte von geringer Wurmaktivität während der vulkanischen Phase Wurmaktivität an der Oberfläche beobachten.
-Hierbei sind auch die 7 Beobachtungen von Angriffen durch Drachen auf Aschwürmer entstanden. Hierbei sollte angemerkt werden, dass die Drachen in lediglich einem Fall erfolgreich waren da es sich um ein Augenscheinlich bereits verletztes Tier handelte, welches durch eine nahegelegne Vulkanexplosion - untypisch für die Schildvulkane der Region - einen riesigen Gesteinbrocken von 15 Metern auf den "Kopf" des Wurmes schleuderte.
-
-Aschwürmer sind jedoch, wie erwähnt, primär aktiv während der vulkanischen Ruhephasen. Hierbei durchfressen und durchwandern diese die ausgekühlten Lavagänge und Oberflächen. 
-Die Nahrung der Würmer besteht, wie auch bei den Steinwürmer primär aus speziellen floureszierendem Gestein welche diese auf unbekannte Art und Weise verarbeiten.
-Die rund alle 12 Jahre auftretenden stark Regenfälle von Wurmfall, vermutlich bedingt durch vulkanische Gase, veranlassen die Wurmaktivität zu steigern.
-Hierbei können die Würmer häufig bei aufsaugen riesiger Wassermengen beobachtet werden. Hierbei wird auch meist die nach den Regenfällen blühende und sprießende Vegetation verzehrt.
-Während dieser Zeit ist das durchwandern der Wüste ein Unterfangen, dass nur von Allgott verlassenen unternommen werden sollte.
-
-Aschwürmer vermehren sich vermutlich über das ablegen von Eiern, jedoch sind bis jetzt keine Eier gefunden worden, geschweige denn Jungtiere. 
-Aschwürmer besitzen am Kopf, in gewisserweiße ähnlich wie Steinwürmern "Zähne" mit welchem diese vermutlich Erdreich aufbrechen und Verspeisen. 
-Aschwürmer sollte man, wenn man es überhaupt schafft, auf keinen Fall provozieren. Provokationen der Aschwürmer werden primär durch umhertramplende Massen an Lebewesen ausgelöst. So werden sich verirrende  Bermatalbüffelherden - welche beim Ergrünen der Vulaknischen Wüste hineinnwandern, meist von den Würmern erdrückt, erschalgen oder gefressen.
-
-Dementsprechend wird abgraten mit Armeen größer als 20 Mann während der vulkanischen Ruhephase, also der Aktivitätsphase der Würmer zu durchwandern.
-
-Es wird angenommen, dass Menschen keine Waffen besitzen welche den Aschwürmern Schaden zufügen könnte, da nichteinmal Drachen diese verletzen können.
-Insofern ist es nicht verwunderlich das wir keine Belege für natürliche Fressfeinde von Aschwürmern vorliegen haben.
-
-![Künstlerisch interpretierte Darstellung eines Aschwurms. Aschwürmer besitzen entgegen der Darstellung des Künstlers keine Augen.](Pictures\\Flavor\Monster\Ashworm.jpg) 
-
-
-
-
-### Weltenwurm {#WeltenWurm}
-
-Weltenwürmer sind mehr Legende als regelmäßig beobachtete Monster. Sie sind besonders riesige Aschwürmer, die deutlich tiefer graben und durch deren Tunnel ganze Kohorten nebeneinander hermarschieren können. Glücklicherweise kommen sie so gut wie nie an die Oberfläche.
- 
-## Znitins
-Die 5 meter Umspannenden Spinnen in Silva Nacia sind zwar Verhältnismäßig selten, jedoch haben diese in der Elfenkultur von Silva Nacia eine feste Bedeutung da man immer wieder in Spinnseide eingewickelten ausgesogenen Leichen findet.
-Obwohl Elfen geschickt sind werden auch geschickte Späher von diesen Spinnen überlistet.
-Prinzipiell sind die Znitins zwar äußerst geschickt und schnell, und erstaunlich kräftig wenn man sich denen im Nahkampf stellt, jedoch können Sie durch die Nutzungs von Fernkampfwaffen rasch unschädlich gemacht werden.
-Dies bedeutet für das Dickicht von Silva Nacia dass gut einsehbare Bereiche obligatorisch sind um diese Monster zu überwältigen.
-
-Im Nahkampf ist zum empfehlen schwere Schilder zu verwenden da die Schläge mit den langen Beinen sonst rasch zu Situationen führen wo das benötigte Schwert plötzlich zwischen den Beinen der Spinne liegt.
-Die Beine selbst sind in den äußeren Segmenten äußerst stabil und feuerfest. Der Hinterkörper ist hingegen leicht entzündlich und äußerst leicht verletzlich.
-
-Zum gezielten Ausmerzen dieser Acht-Beiner empfiehlt sich die oben beschriebene offene Fläche und ein Hinterhalt aus mehreren Fernschützen und 3 unterstützenden Nahkämpfern. Hierbei sollten die nicht als "Beute" ausgelegten Personen sich visuell tarnen und sich so gut es nicht bewegen.
-
-Sobald die Znitins herauskommen und in Sichtweite sind sollte auf diese geschossen werden da der Nahkämpfer unter Umständen sehr rasch überwältigt werden kann. Vor allem wenn keine Schilder verwendet werden.
-
-Das Gift der Znitins lähmt extrem lange und lediglich die Elfen haben Gegenmittel. Diese Mittel werden allerdings aus religiösen Gründen nur an andere Elfen weitergegeben.
-
-Die Spinnen sind primär Tagsüber aktiv, sehen jedoch nachts noch immer besser als die meisten Elfen, wodurch das erledigen der Znitins am Tag die sichere Variante ist.
-
-Die Spinnen sind überraschend intelligent und ziehen sich häufig einfach zurück sobald die Situation ihnen nicht geheuer erscheint.
-
-
-
-![Darstellung zweier Znitins Spinnen in Silva Nacia.](Pictures\\Flavor\Monster\znitins_spider2.jpg)
-
-## Dunkleosteus
-
-Ungeheuer der Meere sind weitaus weniger erforscht und so kann ein jeder davon ausgehen dass die Tiefen der Meere mehr Abscheulichkeiten  bewohnen als Bürger Eldrias treu dem Kaiserreich sind.
-
-Dnkleosteus ist eines dieser Monster, benannt nach dem Fischer und Forscher Nixan Dunkleosteus, sind diese Ungetümer mehrere Meter lang und am Kopf mit einem Knochenpanzer direkt unter der Haut ausgestattet was es quasi unmöglich macht diese Monster schnell zu erlegen oder gar gegen diese anzukämpfen.
-Ist man nicht mit ertrinken im Wasser alleine beschäftigt reißen Dunkleosteus in den Salzigen Wassern und den Brackwässern häufiger schwimmende Kühe und größere Fische und auch unvorsichtige Fischer.
-Dunkleosteus können durch grelles Licht oder Lärm von z.b explodierenden Moltovikas  abgeschreckt werden, jedoch empfiehlt sich zweiteres nicht da die Verletzungsgefahr hoch ist.
-
-Dunkleosteus können , wenn diese an der Oberfläche schwimmen mittels Kanonen erlegt werden, jedoch hat man meist nur exakt einen einzigen Schuss bevor diese durch den Lärm abgeschreckt werden.
-
-Alten Überlieferungen der ersten Seefahrer zufolge war dies ein entscheidender Mitgrund warum Seefahrer lauthals ihre Lieder brüllen um so zu verhindern das kleine Holzboote  angegriffen werden.
-
-Über die Fortpflanzung dieser Knochenfische ist leider noch nichts bekannt, allerdings können kleine Dunkleosteus in Brackwasser beobachtet werden, wo diese gelgentlich von Fischern gefangen werden. Ihr Fleisch soll angeblich stark aphrodisierend wirken.
-
-![Ein Dunkleosteus vor der Küste Sturmkapps - Illustration von Nixan Dunkleosteus](Pictures\\Flavor\Monster\Dunkleosteus.png)
-
-## Riesenkalmar
-
-## Riesenvaran
-
-## Bleirücken
-
-Elchgroßer Vierbeiniger Jäger mit extrem dichten & schweren fell  -  Gebirgsmonster mit Varianten in den Tundren
-
-## Usukats
+### Usukats
 
 Usukats sind vermutlich die schlimmste Plage an Abescheulichkeiten welche Eldria seit den letzten 300 Jahren quälen.
 Der Ursprung der Usukats ist nicht bekannt, jedoch ist es verwunderlich, dass es dass diese Abscheulichkeiten mit welcher der Allgott unseren Glauben prüft, scheinbar noch nicht so lange gibt.
@@ -389,6 +135,366 @@ Ich hörte draußen das scheppern der Rüstung des Kommandanten und das Biegen v
 Zunder für das Feuer der Hölle welche sich in Austen in jener Nacht auftat.
 >
 > ---  Bericht eines Überlebenden des Massakers von Austen
+
+
+### Brutmutter
+
+Brutmütter sind eine wahre Bestrafung der Augen. Man stelle sich einen bis zur Unkenntlichkeit überfressenen Kahlköpfigen bleichen Menschen vor. Dieser hat rund ein Dutzend Brüste. Gerüchtenzufolge besitzen Brutmütter mehrere Tentakel und nicht benutzbare Hände. die Fortbewegung folgt furchtbar langsam von rund 2 Meter mit einem Satz. Also jeder Mensch kann einfach diesem Monster aus dem weg gehen.
+
+Die Hauptentakeln sind dick, worauf sich schließen lässt, dass man Brutmütter nicht im Nahkampf begegnen sollte. Bis zu 6 weitere Tentakel befinden sich, aus dem Boden ragend in der Nähe der Brutmutter und beschaffen entweder Futter oder verteidigen diese.
+
+Brutmütter gebähren Ghule und können dadurch nach gewisser Zeit eine regelrechte Plage werden.
+
+Über die Schwächen gegenüber Giften oder Feuer ist wenig bekannt.
+Es wird empfohlen eine Brutmutter mit der Hilfe von Skorpionen zu erledigen und einer guten Hand voll schwer ausgerüsteter Soldaten.
+Man Ziele einfach auf den Kopf der Brutmutter. 
+Eventuell zur Verteidigung herbeistürmende Kinder, also die Ghule, sind mit Schwerter und Schilder kein Problem.
+
+Alchemistisch ist keine Verwendung über Brutmutter Ingridientien bekannt.
+
+![Illustration einer schlafenden Brutmutter](Pictures\\Flavor\Monster\Brutmutter.jpg)
+
+![Illustration eines Ghules](Pictures\\Flavor\Monster\ghule.png)
+
+
+
+## Würmer 
+
+
+### Steinwurm
+
+> "Brich Stock und Stein, 
+wenn du fällst in ein Steinwurmloch hinein. 
+>
+Freu dich nicht,
+denn bald hast du Steinwurmsäure im Gesicht."
+>
+> ---  Gedicht über den Steinwurm
+
+Steinwürmer gehören zu den größeren Ende der Wurmartigen Monster.
+Steinwürmer werden biszu 14 Meter lang und leben obligatorisch unter Tage.
+Sie fressen keine Tiere sondern ernähren sich von speziellem Gestein welches sich als grün floureszierende Masse teils die Gänge von den Steinwürmern beleuchtet.
+Steinwürmer sind selten anzutreffen und ihre Gänge meist älter als die Gründung des Kaiserreichs.
+
+Sie besitzen keine Augen und graben sich mit ihren unheimlich Harten Vorderzähnen und der Zuhilfenahme ausgestoßener Säure erstaunlich rasch durch das Erdreich und Gestein.
+
+Steinwürmer sind für einen guten Teil der Höhlen im Himmelspitzengebirge und in den Gebirgen um das Bermatal verantwortlich.
+Es wird nicht empfohlen den Gängen dieser Würmer zu folgen, da man ab einer gewissen Tiefe auf schlafende Exemplare treffen kann, welche gereizt auf neugierge Forscher reagieren. 
+Zumeist sind ihre Schlafkammern durch rund 12 Meter, beinahe senkrechte Tunnel gekennzeichnet. Dies dient, laut Lehrmeinung, dazu dass Lindwürmer hier keinen Zugang finden und so nicht deren Beute werden können.
+
+Steinwürmer besitzen im allgemeinen weiche Körperoberflächen was ihnen das navigieren durch natürliche Höhlen oder engere Felsspalten erleichtert.
+
+Über die Reproduktion ist nur bekannt dass sie lediglich 3 Eier großen gelege meist von 2 Muttertieren bewacht werden.
+
+Ihre Intelligenz ist mangels wissen schwer zu beurteilen.
+
+![Darstellung eines Steinwurmes. ](Pictures\\Flavor\Monster\steinwurm.png) 
+
+### Aschwurm
+
+Aschwürmer sind endemisch in den Vulkanisch aktiven Gebieten von Wurmfall - welcher den Namen durch die Aschwürmer gefunden hat.
+Aschwürmer sind die größten Monstrositäten in der gesamten bekannten Welt. Körperlängen von 40-50m wurden berichtet. exakte Vermessungen gibt es natürlich nicht. Knochenartige Überreste deuten jedoch auf teils weitaus längere Exemplare hin.
+Aschwürmer haben ihren Namen durch ihre dunkle und überaus Dicke haut, welche ihnen erlaubt selbst durch flüssiges Gestein, Lava, zu kriechen. Obwohl sich die Wurmaktivität primär auf die Phasen vulkanischer Inaktivität beschränkt konnten mehrere unabhängige Berichte von geringer Wurmaktivität während der vulkanischen Phase Wurmaktivität an der Oberfläche beobachten.
+Hierbei sind auch die 7 Beobachtungen von Angriffen durch Drachen auf Aschwürmer entstanden. Hierbei sollte angemerkt werden, dass die Drachen in lediglich einem Fall erfolgreich waren da es sich um ein Augenscheinlich bereits verletztes Tier handelte, welches durch eine nahegelegne Vulkanexplosion - untypisch für die Schildvulkane der Region - einen riesigen Gesteinbrocken von 15 Metern auf den "Kopf" des Wurmes schleuderte.
+
+Aschwürmer sind jedoch, wie erwähnt, primär aktiv während der vulkanischen Ruhephasen. Hierbei durchfressen und durchwandern diese die ausgekühlten Lavagänge und Oberflächen. 
+Die Nahrung der Würmer besteht, wie auch bei den Steinwürmer primär aus speziellen floureszierendem Gestein welche diese auf unbekannte Art und Weise verarbeiten.
+Die rund alle 12 Jahre auftretenden stark Regenfälle von Wurmfall, vermutlich bedingt durch vulkanische Gase, veranlassen die Wurmaktivität zu steigern.
+Hierbei können die Würmer häufig bei aufsaugen riesiger Wassermengen beobachtet werden. Hierbei wird auch meist die nach den Regenfällen blühende und sprießende Vegetation verzehrt.
+Während dieser Zeit ist das durchwandern der Wüste ein Unterfangen, dass nur von Allgott verlassenen unternommen werden sollte.
+
+Aschwürmer vermehren sich vermutlich über das ablegen von Eiern, jedoch sind bis jetzt keine Eier gefunden worden, geschweige denn Jungtiere. 
+Aschwürmer besitzen am Kopf, in gewisserweiße ähnlich wie Steinwürmern "Zähne" mit welchem diese vermutlich Erdreich aufbrechen und Verspeisen. 
+Aschwürmer sollte man, wenn man es überhaupt schafft, auf keinen Fall provozieren. Provokationen der Aschwürmer werden primär durch umhertramplende Massen an Lebewesen ausgelöst. So werden sich verirrende  Bermatalbüffelherden - welche beim Ergrünen der Vulaknischen Wüste hineinnwandern, meist von den Würmern erdrückt, erschalgen oder gefressen.
+
+Dementsprechend wird abgraten mit Armeen größer als 20 Mann während der vulkanischen Ruhephase, also der Aktivitätsphase der Würmer zu durchwandern.
+
+Es wird angenommen, dass Menschen keine Waffen besitzen welche den Aschwürmern Schaden zufügen könnte, da nichteinmal Drachen diese verletzen können.
+Insofern ist es nicht verwunderlich das wir keine Belege für natürliche Fressfeinde von Aschwürmern vorliegen haben.
+
+![Künstlerisch interpretierte Darstellung eines Aschwurms. Aschwürmer besitzen entgegen der Darstellung des Künstlers keine Augen.](Pictures\\Flavor\Monster\Ashworm.jpg) 
+
+
+
+
+### Weltenwurm {#WeltenWurm}
+
+Weltenwürmer sind mehr Legende als regelmäßig beobachtete Monster. Sie sind besonders riesige Aschwürmer, die deutlich tiefer graben und durch deren Tunnel ganze Kohorten nebeneinander hermarschieren können. Glücklicherweise kommen sie so gut wie nie an die Oberfläche.
+
+## Piscari
+
+### Dunkleosteus
+
+Ungeheuer der Meere sind weitaus weniger erforscht und so kann ein jeder davon ausgehen dass die Tiefen der Meere mehr Abscheulichkeiten  bewohnen als Bürger Eldrias treu dem Kaiserreich sind.
+
+Dnkleosteus ist eines dieser Monster, benannt nach dem Fischer und Forscher Nixan Dunkleosteus, sind diese Ungetümer mehrere Meter lang und am Kopf mit einem Knochenpanzer direkt unter der Haut ausgestattet was es quasi unmöglich macht diese Monster schnell zu erlegen oder gar gegen diese anzukämpfen.
+Ist man nicht mit ertrinken im Wasser alleine beschäftigt reißen Dunkleosteus in den Salzigen Wassern und den Brackwässern häufiger schwimmende Kühe und größere Fische und auch unvorsichtige Fischer.
+Dunkleosteus können durch grelles Licht oder Lärm von z.b explodierenden Moltovikas  abgeschreckt werden, jedoch empfiehlt sich zweiteres nicht da die Verletzungsgefahr hoch ist.
+
+Dunkleosteus können , wenn diese an der Oberfläche schwimmen mittels Kanonen erlegt werden, jedoch hat man meist nur exakt einen einzigen Schuss bevor diese durch den Lärm abgeschreckt werden.
+
+Alten Überlieferungen der ersten Seefahrer zufolge war dies ein entscheidender Mitgrund warum Seefahrer lauthals ihre Lieder brüllen um so zu verhindern das kleine Holzboote  angegriffen werden.
+
+Über die Fortpflanzung dieser Knochenfische ist leider noch nichts bekannt, allerdings können kleine Dunkleosteus in Brackwasser beobachtet werden, wo diese gelgentlich von Fischern gefangen werden. Ihr Fleisch soll angeblich stark aphrodisierend wirken.
+
+![Ein Dunkleosteus vor der Küste Sturmkapps - Illustration von Nixan Dunkleosteus](Pictures\\Flavor\Monster\Dunkleosteus.png)
+
+## Abgrundbewohner 
+
+## Echsenartige
+
+### Lindwurm
+
+
+Irreführendesweise sind Lindwürmer, nicht mit den Würmern verwandt sondern sind vermutlich Abkömmlinge von Drachen.
+Lindwürmer, teils bekannt als Panzerechsen oder Höhlendrachen können in vielen Fällen Feuer speien. Die meisten rezenteren Exemplare welche von Orks erlegt wurden speiten allerdings kein Feuer mehr.
+
+Ihre Haut besteht auf der Oberseite und seitlichen Körperregionen aus dicken Knochenplatten.  Lindwürmer können Körperlängen von bis zu 8 Metern erreichen, alten Überlieferungen zufolge sind bis zu 15 Meter möglich, dies konnte allerdings siet nunmehr 136 Jahren nicht bestätigt werden.
+
+Lindwürmer, sind, im Gegensatze zu den wahrhaftigen Drachen, weniger Intelligent und reagieren tendenziell mehr auf Instinkte. Dies mag geschichtlich auf ihre häufig unterirdische Lebensweise zurückuführen sein, wo wenig Sinn darin besteht vernünftig zu agieren.
+Lindwürmer sind in der Lage, so wie viele Höhlenbewoner im dunkelen zu sehen.  Grelles Tageslicht hingegen blendet sie, wenn man den Berichten von Orks glauben schenkt.
+
+Über die Reproduktion von Lindwürmern ist wenig bekannt. Jungtiere konnten bis jetzt nich gefunden werden, was an den vielfach unerforschten Steinwurmgängen liegt welche teils mehrere Meter senkrecht in die Tiefe führen. In der 136 jährigen Zeit seit der Erstaufalge dieses wunderbaren Werkes konnten lediglich 7 Fälle nachgewiesen werden wo Lindwürmer  mit Artgenossen kooperierten.
+
+
+> "Die Bestrafung der gierigen Zwerge sollet der Lindwurm sein! Schmelzen soll er die, welche der Gier einherfallen und nicht im Antlitz der Sonne weilen."
+>
+> ---  Auszug aus dem Werk von Pater Sistan Erindan - Das Leben der Zwerge - eine nicht heretische Abhandlung
+
+![Darstellung eines lebenden Werwolfes](Pictures\\Flavor\Monster\Lindwurm.jpg)
+
+Orks, welche den Großteil der Lindwurmkenntnisse besitzen nutzen, falls es sich um Feuerspeiende Lindwürmer handelt, meist Lindwurm Haut zum Schutz und schnelle und gezielte Angriffe auf die Unterseite des Lindwurms. Vorzugsweise Nutzen Orks hierbei zweihändige Kriegshämmer und lange Knochenspeere aus den Knochen von Lindwürmern.
+Zuerst provoziert man den Lindwurm zum Feuerspeien und versteckt sich hinter der Lindwurmhaut. Hat der Lindwurm seine Feuerreserven aufgebraucht, welche runde 30 Sekunden durchspeiendes Feuer  erlauben, versetzt man dem Lindwurm Speerstöße. Diese dienen den Lindwurm weiter zu provozieren. Anschließend können mehrere Orks mit Kriegshämmern auf den Lindwurm aufspringen und mit Hammerschlägen seinen Schädel bearbeitet. Dies tötet den Lindwurm nicht, jedoch desorientiert es den Lindwurm woraufhin mit Speeren dann tatsächlich die Unterseite des Kopfes und des Halses angegriffen werden können.
+
+Speziell erwähnt werden sollte die beobachtete Tat eines Orkstammesführer Names Gra-Ash-Tark. Dieser war in der Lage mit einem einzigen Hieb seines 60 Kilo (!) schweren Kriegshammers einen Lindwurmschädel einzuschlagen- was den Lindwurm sofort tötete.
+
+![Darstellung von Gra-Ash-Tark mit seinem 60 Kilo Hammer](Pictures\\Flavor\Monster\Gra-Ash-Tark.png)
+
+
+### Drachen
+
+Drachen sind seit jeher aus Sagen des gemeinen Volkes bekannt.
+Es gibt, wenig über Drachen zu erzählen, da die meisten über die letzten Jahrhunderte fast vollständig verschwanden, 
+was manche Gelehrten mit der Territorialität der Drachen in Verbindung bringen.
+
+Drachen sind intelligente, mit teils 25 Meter Flügelspannweite fliegende Panzerechsen. Die Färbung von Drachen ist im allgemeinen extrem variabel. Lebende Exempalre waren in Farben von Obsidianschwarz hin zu beinahe weißen Varianten zu beobachten, wie man der Darstellung unten entnehmen kann.
+Sie sind extremst territorial und Paarungen sind nicht beobachtet, jedoch konnten bisher insgesamt 14 Dracheier gefunden bzw entnommen werden. Das Ausbrüten dieser war in jedem Fall unerfolgreich.
+
+Drachenjungtiere werden, laut dem uns spärlich bekannten Wissen, meist Jahrelang von ihrer Mutter beschützt - teils in extra aus Gestein geschmolzenen Nestern.
+
+Drachen ernähren sich von beinahe allem was naiv genug ist sich ihm entgegen zu stellen. Hierzu zählen Lindwürmer, Steinwürmer wie auch  ein Kampf zwischen einem Aschwurm und einem Drachen bekannt war welche in einem unentschieden endete, da der Aschwurm sich zurück unter die Oberfläche zog.
+
+![Freie Interpretation des sogenannten "Drachenfürsten". Der größte jemals gesehene Drache mit einer Flügelspannweite von geschätzt 30 Metern](Pictures\\Flavor\Monster\dragonmyth.jpg)
+
+### Wahre Drachen {#WahrerDrache}
+
+Wahre Drachen sind mit bloßem Auge nicht von normalen Drachen zu unterscheiden, wobei ein wahrer Drache ungemein gefährlicher ist, da er in der Lage ist Feuer zu speien. 
+Zum Glück sind wahre Drachen noch seltener als herkömmliche, so gibt es nur noch 4 bestätigte wahre Drachen in ganz Orbis Astea, wobei der bekannteste in <font color="green">[Wandia](#Wandia)</font> wohnt, einer im Himmelsspitzen-Gebirge und man es bei den anderen nicht genau weiß.
+
+Das Feuer eines wahren Drachen ist seine gefährlichste Waffe. So konnte ein einzlner Drache geschätzt 60 Sekunden durchgehend Feuerspeien, ehe dieser abzog. Die Flammen des Drachen sind unter Umständen in der Lage Eisen zu schmelzen. Insofern wird bei einer Begegnung mit einem wahren Drachen abgeraten mehr als umbedingt nötig mit sich zu tragen und am Besten die Beine in die Hand nehmen und das weite suchen statt zu kämpfen.
+
+## Foedukulus {#Foedukulus}
+
+### Gravis 
+
+Ein Gravis ist eine nicht wirklich als Monster einordenbare Kreatur, da allerdings keine bessere Einordnung für sie gefunden werden kann stehen sie in diesem Buche.
+
+Ein Gravis ist ein monströses Getier, das intelligent genug ist um in einer Sozialstruktur zu leben und einfache Kommentare und Anweisungen von Menschen zu verstehen. Dies geht so weit, dass teilweise wirkliche Konversationen mit Gravi geführt werden können. Allerdings trifft es Konversation nur so halbwegs, da die Stimmbänder eines Gravis nur unverständliche Brüllgeräusche erzeugen können und die Konversationen daher eher einseitig sind. Dennoch verstehen Gravis Menschen zum Teil, was man an ihren Reaktionen sieht. 
+
+Ein Gravis zeichnet sich zurch zweierlei Dinge aus: Horrende Kraft und eine beinahe übernatürliche Reaktionsfähigkeit. Ihre ohnehin dicke und ledrige Haut erholt sich in kürzester Zeit sogar von tiefen schnitten und wunden, was sie zu unglaublich gefährlichen Feinden macht, die mit Keulen in übergröße ausgestattet ganze Battalione einfacher Soldaten zerschmettern können. 
+
+![Darstellung eines Gravis im Dienste einer freien Kompanie](Pictures/Flavor/Monster/gravisT.png)
+
+Ein Gravis hat, wie bereits angemerkt, eine sehr dicke, fast rüstungsgleiche Haut. Aufgrund ihrer "Kommunikationsfähigkeit" und ihrer offensichtlichen Vorteile im Feld werden sie gerne von Söldnerkompanien eingesetzt, die die als Frontbrecher verwenden. Einen Gravis in der Kompanie zu haben ist ein seltener, aber mehr als entscheidender, taktischer Vorteil. Daher rüsten viele Kompanien einen Gravis mit zusätzlicher Ausrüstung aus, um noch mehr Nutzen aus ihm zu kitzeln.
+Hierbei ist zu erwähnen, dass die Kaiserliche Armee keine Gravis in ihren Rängen erlaubt, da sie laut der Ekklesia "unheilige Kreaturen" sind.
+
+Doch warum sollte ein Gravis in einer menschlichen Armee dienen? Laut der Forschung von Primus Lauthaus ist eine große Menge an funkelnden Objekten ein Paarungsgebot der Gravi. Ein potentieller Partner wird das Angebot eines anderen Gravis nur akzeptieren, wenn er genug funkelnde Objekte hat um ein guter potentieller Partner zu sein - und menschliche Münzen oder Schätze sind großartige funkelnde Objekte. Daher ging Leithaus davon aus, dass für viele Gravis sich eine Anstellung mehr ausgezahlt hat als andere Methoden um an "Funkelzeug" zu kommen. Interessant ist auch dass das Funkelzeug nach dem Paarungsgebot für Gravi jede Bedeutung verliert und daher einfach mitgenommen werden kann.
+Die Theorie von Lauthaus fußt auf der Untersuchung gestohlener Objekte bei Gravis-Überfällen von Dörfern, die nahe ihrer Habitate liegen, ebenso wie von Beobachtungen von Gravi auss der Ferne. Allerdings ist diese Theorie eher umstritten und ihr steht die Theorie der Ekklesia gegenüber die besagt, dass Gravi ein zeichen des Allgott seien, dass der Mensch sich sogar große Monster zu Untertan machen kann (Aufgrund dieser theoretischen Differenzen wurde Leithaus schlussendlich auch der Häresie überführt und von der Inquisition hingerichtet).
+Laut Lauthaus leben die Gravi als Einzelgänger, bis sie ihr Paarungsgebot an einen anderen Gravis richten. Sollte es angenommen werden leben Gravi den Rest ihres Lebens friedlich und Monogam zusammen. Aggresivität ist nur beobachtbar während sie in der Jugend - also auf Partnersuche - sind.
+Geschlechtlicher Dimorphismus konnte bei Gravi nicht beobachtet werden und es ist fraglich ob es überhaupt Geschlechter gibt, da über ihre Fortpflanzung so gut wie nichts bekannt ist. 
+
+Gravis-Habitate wurden vor allem in Wäldern mit nahen Flüssen und hoher Feuchtigkeit gefunden.
+
+## Bestien
+
+### Kraves
+Kraves sind eine Plage, welche einem übergroßen Raben ähnelt und sowohl Städte als auch Höhlensysteme bewohnt. Obwohl der durchschnittliche Krave nicht fliegen kann, sorgen die vielen Variationen der Kraven - ebenso wie ihre Bosartigkeit - dafür 
+
+> "Die Zerstörung von Wandia war in vielerlei Hinsicht grauenhaft, aber ebenso grauenhaft waren die Geschichten, welche sich im Nachhinein dort abspielten. Ich selbst sah die Verwandlung, welche einfache Aasvögel in Kraven verwandeln sollte: Krähen, die das verderbte Fleisch von Erwachten verspeißten und immer größer und aggressiver wurden. Alsbald waren sie zu schwer zum fliegen und entwickelten beinahe menschliche Gleidmaßen. Sie ergriffen Waffen und Werkzeuge und fielen über alles her, was sie an noch lebendigem Fleisch finden konnten."
+>
+> --- Hermetus Korak in "der Fall von Wandia"
+
+### Werwolf
+
+Der Werwölf gehören zu den mittelmäßig intelligenten Monstern welche sich, in leicht verschiedenen Varianten in der Welt verteilten und lediglich nicht in Wüstengebieten und der Grauen Ödnis anzutreffen sind.
+Das Aussehen der Werwölfe ist meist eine menschenähnliche Statur. Die Körpergröße beträgt im Schnitt 2,2 Meter. Ihre Körpoerbehaarung welche am Rücken und Oberkörper am stärksten ist, ist für gewöhnlich grau bis graublau. Braune Varianten finden sich in Wäldern und Sumpfgebieten des Süden häufiger.
+
+Ihre Körperliche Kraft und Schnelligkeit übersteigt die eines jeden trainierten Orks. Ausgestattet mit rund 5 cm langen Klauen, welche bei älteren Exemplaren häufig zum Teil gebrochen sind, reißen mühelos Menschen auf.
+
+Die Vermehrung der Terretorialen Werwölfe erfolgt zufällig über das gesamte Jahr. Hierbei streifen meist Männchen auf der Suche nach Weibchen umher. Hierbei passiert es häufig, dass Werwölfe auch ihre angestammten Gebiete verlassen und teils in Dörfern gesichtet werden. Bis jetzt sind nur Sichtungen in der Nacht bekannt, wo die Werwölfe durch Dörfer zogen.
+Weibchen werfen nach unbekannter Zeitlänge rund 3-6 Jungtiere, welche an ihren Zitzen aufgezogen werden. Die Aufzuchtsdauer beträgt meist mehrere Monate wo das Weibchen häufig von einem Männchen mit zusätzlicher Beute versorgt wird.
+
+Sobald die Jungtiere  rund 11 Monate alt sind, was rund 1,3 Meter Körpergröße entspricht suchen Sie sich im Schutze der Dunkelheit neue Jagdgebiete.
+
+Werwölfe sind anfällig gegenüber Feuer und Giften.
+
+![Darstellung eines lebenden Werwolfes](Pictures\\Flavor\Monster\werwolf.png)
+
+
+## Vielbeiner
+
+### Skrogan Skorpion {#Skrogan}
+
+Ein Skrogan Skorpion ist eine große Bestie, ein große Skorpion, der in Eid' Rah Kari heimisch ist. Fast alle Fernkampfangriffe - ebenso wie viele Nahkampfangriffe - sind gegen seinen Panzer wirkungslos. Ebenjener Panzer wird von den Rah Kari oft benutzt, um Rüstungen für besondere Einheiten wie Helden oder Generäle zu fertigen.
+
+Wilde Skrogan-Skorpione sind mittlerweile selten geworden, da die Rah Kari sie wegen ihrer Rüstungen jagen oder sie für den Dienst in ihren Einheiten domnestizieren. Skrogan Skorpione sieht man häufiger in den Armeen der Rah Kari. 
+
+![Die Jagd auf einen Skrogan Skorpion wird meist mit berittenen Bogenschützen durchgeführt](Pictures/Flavor/Monster/SkroganSkorpion.jpg)
+
+Skrogan Skorpione sind im Gegensatz zu ihren Verwandten, den Silurian-Skorpionen, aüßerst schwerfällig. So ist es für den durchschnittlichem Menschen möglich, einem Skrogan-Skorpion zu Fuß zu entfliehen. Deswegen schlagen diese Skorpione meistens in für sie vorteilhaftem Terrain zu. Sie bevorzugen es in Kuhlen oder sehr großen Löchern zu leben, in denen die Steigung oder die Wände ihre Opfer an der Flucht hindern. Sie verfolgen ihre Opfer über mittlere Distanzen, was sie anfällig für Köder-Strategien macht.
+
+### Silurian Skorpion
+
+Silurianskorpione, sind im eigentlichen Sinn keine Skorpione sondern eine scheinbar sehr alte Variante davon.
+
+Die Siluriansskorione kommen beinahe ausschließlich in Wüstengebieten vor, sind jedoch teils in der Grauen Ödnis anzutreffen. Sie werden, je nach Alter bis zu 3,5 Meter lang.
+
+Silurianskorpione sind Einzelgänger und treffen sich nur zur Paarung.  Die Eier werden nicht bewacht und sind gekocht genießbar.
+Die Monster sind nicht intelligenter als allgemeines Insektoides Getier und können für gewöhnlich mit Fernkampfwaffen verletzt werden, so dass sich diese wieder in den Sand zurückziehen.
+Ihre Färbung entspricht meist dem örtlichen Sand wo sich diese teils langsam grabend fortbewegen. Ihre Sicht ist schlecht, allerdings sind Sie extrem feinfühlig gegenüber Vibrationen.
+Ihr Gift ist nicht besonders toxisch, allerdings sind die Mengen unheimlich hoch - bis zu einem halben Humpen Bier!
+
+Die Skropinoe sind gegenüber Feuer quasi nicht verletzbar und können so NICHT mit Moltovika oder brenndem Öl bekämpft werden. Moltovika desorientieren allerdings die Skorpione wodurch es möglcih ist mit Speeren die Skorpione zu erlegen.
+Ihr Fleisch ist, trotz Verhältnismäßig Rarität in den Städten der Rahkari extrem begehrt und kann pro Kilogramm umgerechnet 4000 Reiks kosten.
+Ihr Körperpanzer kann hervorragend als mittlere Rüstung verwendet werden und ist fabelhaft leicht. Allerdings kann man ohne Ersatzpanzer diese Rüstung nicht warten.
+
+Silurian Skorpione fallen primär einsam herumwandernde Wesen an und so empfiehlt sich mindestens zu viert oder zu fünft durch Siluriangebiet zu streifen.
+
+![Darstellung eines Silurian Skorpion der gerade einen Wüstengleiter erlegt welcher durch die starken Regenfälle an die Oberfläche gezwungen wurde ](Pictures\\Flavor\Monster\\silurianscorpion.jpg) 
+
+### Znitins
+Die 5 meter Umspannenden Spinnen in Silva Nacia sind zwar Verhältnismäßig selten, jedoch haben diese in der Elfenkultur von Silva Nacia eine feste Bedeutung da man immer wieder in Spinnseide eingewickelten ausgesogenen Leichen findet.
+Obwohl Elfen geschickt sind werden auch geschickte Späher von diesen Spinnen überlistet.
+Prinzipiell sind die Znitins zwar äußerst geschickt und schnell, und erstaunlich kräftig wenn man sich denen im Nahkampf stellt, jedoch können Sie durch die Nutzungs von Fernkampfwaffen rasch unschädlich gemacht werden.
+Dies bedeutet für das Dickicht von Silva Nacia dass gut einsehbare Bereiche obligatorisch sind um diese Monster zu überwältigen.
+
+Im Nahkampf ist zum empfehlen schwere Schilder zu verwenden da die Schläge mit den langen Beinen sonst rasch zu Situationen führen wo das benötigte Schwert plötzlich zwischen den Beinen der Spinne liegt.
+Die Beine selbst sind in den äußeren Segmenten äußerst stabil und feuerfest. Der Hinterkörper ist hingegen leicht entzündlich und äußerst leicht verletzlich.
+
+Zum gezielten Ausmerzen dieser Acht-Beiner empfiehlt sich die oben beschriebene offene Fläche und ein Hinterhalt aus mehreren Fernschützen und 3 unterstützenden Nahkämpfern. Hierbei sollten die nicht als "Beute" ausgelegten Personen sich visuell tarnen und sich so gut es nicht bewegen.
+
+Sobald die Znitins herauskommen und in Sichtweite sind sollte auf diese geschossen werden da der Nahkämpfer unter Umständen sehr rasch überwältigt werden kann. Vor allem wenn keine Schilder verwendet werden.
+
+Das Gift der Znitins lähmt extrem lange und lediglich die Elfen haben Gegenmittel. Diese Mittel werden allerdings aus religiösen Gründen nur an andere Elfen weitergegeben.
+
+Die Spinnen sind primär Tagsüber aktiv, sehen jedoch nachts noch immer besser als die meisten Elfen, wodurch das erledigen der Znitins am Tag die sichere Variante ist.
+
+Die Spinnen sind überraschend intelligent und ziehen sich häufig einfach zurück sobald die Situation ihnen nicht geheuer erscheint.
+
+
+
+![Darstellung zweier Znitins Spinnen in Silva Nacia.](Pictures\\Flavor\Monster\znitins_spider2.jpg)
+
+## Schleimer 
+
+### Fungalit
+
+Fungalit sind bekannt aus den Überresten Wandias und durchstreifen in Gruppen alle bekannten Bereiche von Wandia und sind nach Ansicht Gelehrter eine schreckliche Pilzerkrankung, welche die Opfer zuerst ins Koma stürzt und anschließend über Wochen in einen Art Pilz-Zombie verwandelt.
+Der Biergeruch der Hierbei ständig stärker wird bleibt auch bei erneuten Erwachen bestehen. Nachdem für die Pilzerkrankung keine Heilung gefunden und alle dokumentierten Fälle zu Pilz-Zombies werden sollte den Fungaliten mit Vorsicht begegnet werden.
+
+Die Betroffenen verschmelzen äußerst rasch mit den Rüstungen und Waffen. Unbewaffnete Opfer entwickeln meist eine rund 2 Meter lange Ranke welche toxische Effekte bei Treffern verursacht.
+
+Fungaliten sind in ihrer Intelligenz deutlich über regulären Erwachten und kooperieren meist untereinander und sind zu Fuß durchaus schneller als so mancher gepanzerter Mensch.  Die eigentliche Gefahr geht allerdings von den Pestwirten aus, welche als quasi lebende Bombe  sich häufig im Getümmel anschleichen und sich dann selbst sprengen.  Die dabei entstehenden Spore und Gase infizieren in einem beachtlichen Umkreis alle nahestehenden Humanoiden und vermutlich auch Foedukuluse.
+
+Von daher sollte äußerste Obacht gelten wenn Gruppen von Fungaliten bekämpft werden. Es empfiehlt sich die Fungaliten mit Bogen ausgeschaltet werden.   Fungaliten sind am Kopf äußerst leicht entzündlich. Die dabei entstehenden Gase sind äußerst unangenehm stechend und verursachen in derr Nähe Vergiftungssymptome, welche mit Reingungsstufe 1 Tränken beseitigt werden können.
+
+![Darstellung eines Rüstungslosen Fungalit.](Pictures\\Flavor\Monster\Fungalit.jpg)
+
+
+## Knochenschädler
+
+### Zwillinge des Abgrundes
+
+Die zu den Knochenschädlern zählenden Zwillingen des Abgrundes sind zwei, scheinbar idente und immer zu zweit auftrendte riesige, rund 15 Meter große, schlanke Kreaturen welche in Wandia durchstreifen.
+
+Ihr Kopf ist von der bekannten Knochenplatte bedeckt und ihr Brusstbereich ist ebenfalls wie die Schultern von Knochenplatten bedeckt. Die Arme teilen sich ab dem Ellenbogen in 2 Unterarme, welche unabhängig von einander bewegt werden können. Die Beine bestehen aus wulstartigen Tentakeln und teilen sich am ende in mehrere kleinere Tentakel auf.
+Dem Hinterkopf entspringen mehrere kleine Tentakel. Die Funktion dieser ist unbekannt.
+
+Ebenso unbekannt ist die Tatsache was die Zwillinge des Abgrundes als Nahrung zu sich nehmen, ob diese sich paaren oder verletzt werden können.
+
+
+![Darstellung der Zwillinge als diese 872 n. Riga plötzlich an der Oberfläche erschienen.](Pictures\\Flavor\Monster\Zwillinge des Abgrundes.jpg) 
+
+Berichtet wurde bis jetzt von 3 Expeditionstrupps welche die Zwillinge bekämpften oder beim kämpfen mit anderen Monstern beobachteten. Die übersetzten Berichte des dritten Zwerg-Orkischen Expeditionsberichte aus ca. 1120  v. Riga sollten einen besseren Einblick gewähren.
+
+> "Im unteren Ostbezirk von Wandia, nachdem wir die dritte Welle der Fungaliten ohne Verluste beseitigten kamen am Platz der Hohen Künste plötzlich diese riesiegen Tentakelkämpfer. Es wurde sofort ein 3 Meter großer Felsbrocken auf uns geschleudert und Hurak-Gro, einer 2 Meter großer Ork in schwerer Rüstung in eine Blutlache verwandelt, während 2 Zwergenschützen ihre fahrende Balliste verloren. Wir teilten uns wie üblich in 4 Trupps auf und versuchten hinter Häusern Schutz zu suchen. Das klappte genau so lange, bis die beiden plötzlich an den Häusern standen und einfach unsere teuer Rekrutierten Söldner wie Früchte herauspickten und zerdrückten wie Reife Pflaumen.
+
+Wir waren alle Hartgesotten vom Kampf aber bei allem was ich kannte, es drehte sich mir der Magen um.
+
+Die zweite Gruppe begann ihre Moltovika auf das Monstrum zu werfen während die Dritte Gruppe versuchte den zweiten abzulenken.
+
+Die Moltovika brachten das Monstrum dazu sich umzudrehen und ginge mit 3 Schritten zum Platz- nahm die vergoldete Statue und nutzte diese als Knüppel. Die Moltovika bewirkten dass es Fleisch regnete dass seinerseits wieder begann uns Anzugreifen. Diese kleinen Knochenschädler zeigten auch die typische Knochenplatte und konnten von unseren Nahkämpfern erledigt werden. Die Moltoivika schienen das Ungetüm aber nicht zu kümmern.
+
+![Darstellung der angreifende Sprösse der Zwillinge.](Pictures\\Flavor\Monster\Spross der Zwillinge des Abgrundes.jpg) 
+
+Der zweite Gigant zerdrückte ebenfalls einfach die Orks in der schweren Rüstung und hielt dann weitere einfach in seinen "zweiten" Händen und ging danach einfach wieder. 
+Der erste Zwilling , wlecher mit den Moltovikas beworfen wurde drehte sich darauf hin um, warf die Statue in das Dach der Schule der Sprengmeister und dann war der Ganze Spuck vorbei. Pfeile und Bolzen welche wir nachschossen steckten dann zwar in den Körpern drinnen aber sie gingen einfach weiter zurück w Sie herkamen während wir versuchten die noch 3 lebenden Orks in deren Händen irgendwie zu befreien. 
+Doch deren Schreie wurden mit jedem gewaltigen Schritt der Zwillinge immer leiser da wir Sie nicht mehr einholen konnten.
+
+Daraufhin versuchten wir noch die Statue im Dach der Sprengmeisterschule zu bergen um unsere fianziellen verluste auszugleichen und seit dem ging kein einziger aus unserem Expeditionstrupp je zurück nach Wandia.
+Nie mehr wieder wollten wir diese Zwillinge sehen
+>
+> ---  Auszug aus dem Bericht des dritten Zwerg-orkischen Expeditionstrupp nach Wandia. ca 1120 v. Riga
+
+
+Wie der Bericht eindrucksvoll beschreibt konnten Moltovika nichts gegen die Ungetüme anrichten und seither gilt der untere  Ostbezirk von Wandia nur noch für Verrückte als Ort für Schatzssuchende.
+
+
+Als die Zwillinge dann rund 2000 Jahre später plötzlich an der Oberfläche Wandias auftauchten errichteten diese mit mitgebrachten Steinpyramiden einen Altar oder ein Symbol. Die Zwillinge waren mehrere Wochen an der Oberfläche Wandias und zerstörten dabei weitere Teile der Ruinen und schalteten einen Trupp der Elfen aus indem diese mit Brocken, Fleischschergen ihrerseits und einem Baumstamm  angriffen.
+Die eldrischen Fürsten versuchten daraufhin eine Armee zu sammeln, weigerten sich aber Schlussendlich die Zwillinge anzugreifen und ließen diese walten. 
+Nach den paar Wochen war der Spuk vorbei, jedoch blieb für alle Abenteurigen selbst Jahre später noch ein bitterer Nachgeschmack.
+
+Prinzipiell wird geraten in den bekannten Gängen welche von den Ostbezirken von Ober- und Unterwandia ausgehen Abstand zu nehmen.
+
+
+## Vampiridae
+
+## Katakhan
+
+Katakhane gehören zu den schwächeren Vampiridae und treten meist als Einzelgänger auf. Sie erinnern in der Gestalt an hässliche Hybriden aus Fledermäusen und haarigen Goblins und sind in der Bevölkerung dementsprechend beliebt.
+Wie alle Vampiridae saugen Kathakane Blut. Das besondere hierbei ist, dass hierbei das Blut der Opfer über die Klauen aufgenommen werden und äußerst rasch verstoffwechselt werden. Dies bedeutet, dass sich der Kathakan im Kampf an Opfern schnell hochheilen kann was ihnen unter Söldnern den Ruf von "Unsterblichen" Einbrachte. 
+
+Prinzipiell sind Katakhane nachtaktiv und hören und riechen dementsprechend gut. Ihre Anfälligkeit ist gegenüber Feuer und Narkotika. 
+Falls es sich gerade nicht ziemt einen Forst nieder zu brennen wird empofhlen Schafe mit Honig eingeschmiert als Falle zu verwenden. Dies sollte diesen beschränkt Intelligenten bärtigen Vampiridae meist aus verstecken hervorlocken.
+
+
+## Fleischsauger
+
+Obwohl alle Vampiridae im eigentlich Sinne Blut "saugen", sind die Fleischsauger hier eine Sonderform.
+Ihr Habitus erinnert an einen breit gebauten Menschen, wobei der linke Arm in mehreren Tentakeln mündet. Die Körperfarbe ist blau-grau und der untere Bauch meist mit kleinen Öffnungen versehen, wo Fleischstücke ausgepresst werden.
+
+Fleischsauger sind nicht besonders zähe Kämpfer, aber erstaunlich agil und äußerst anfällig gegenüber Licht.
+Zu finden sind Sie meist in der nähe von ehemaligen Schlachtfeldern wo Sie die Leichen und sterbende Aussaugen. Da diese Monster zwar von geübten Nahkämpfern oder Schützen rasch erledigt werden können, ist die Tatsache, dass diese nur in der Nacht angreifen eine Erschwernis um diese Monster tatsächlich zu töten.
+
+Durch das Dekret von 75 n. Riga  müssen von nun an auf Schlachtfeldern Verwundete versorgt werden um diese vom Schlachtfeld zu entfernen.  Tote sollten so rasch es möglich ist begraben werden, da Fleischsauger meist zahlreich aus mehreren dutzend Kilometern Umkreis angezogen werden, wodurch diese eine Bedrohung für die lokale Sicherheit darstellen können. In Friedenszeiten nimmt die Anzahl der Sichtungen von Fleischsaugern häufig ab. Vermutlich fallen diese in eine Art zwischenzeitlichen Winterschlaf, was durch mehrmalige Beobachtungen zumindest naheliegt.
+
+Das Kaiserreich, alle Eldrischen Fürstentümer, außer Austen, bieten für einen geöteteten Fleischsauger ungefähr 5000-10.000 Reiks an Kopfgeld an.
+
+
+![Darstellung eines männlichen Fleischsauger](Pictures\\Flavor\Monster\Fleischsauger.jpg)  
+
+
+
+## Riesenkalmar
+
+## Riesenvaran
+
+## Bleirücken
+
+Elchgroßer Vierbeiniger Jäger mit extrem dichten & schweren fell  -  Gebirgsmonster mit Varianten in den Tundren
+
+-------------
+old monsters
 
 
 
