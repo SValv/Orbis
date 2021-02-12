@@ -207,7 +207,7 @@ Ganz mutige Wesen versuchen mit zwei Waffen zu kämpfen. Dies kann Vor- und Nach
 
 Des weiteren gibt es die Chance auf einen Optionsangriff von 20% nach einem Angriff auf einen Zweithandangriff. Für diesen gilt:
 Der Schaden mit der Sekundärwaffe (außer Dolch und unbewaffnetem Angriff) wird nur zu 80% umgesetzt.
-Bei Dolchen kommt 90% des Schadens durch, bei unbewaffneten Angriffen sind es 100%.
+Bei Dolchen kommt 90% des Schadens durch, bei unbewaffneten Angriffen sind es 100%. Sollte es zu einem Optionsangriff kommen, fällt die Option auf einen normalen Doppelangriff weg. Egal wie, man kann auch mit dual Wield nur maximal zwei Angriffe pro Runde werfen. 
 
 
 ### Andere Angriffe während Single Actions
@@ -282,6 +282,14 @@ Sollte man von einem Reittier kämpfen gibt es mehrere Besonderheiten:
 2. Man zählt als großes Ziel, d.h. man sollte sich von <font color="green">[Stangenwaffen](#Stangenwaffen)</font> in Acht nehmen.
 3. Vor dem Angriffswurf wird eine Probe auf Reiten geworfen, die entscheidet wieviel vom Mount-Multiplikator des Reittieres durchkommt.
 4. Ansonsten Zählen die <font color="green">[Regeln des Reitens](#Reiten)</font>.
+
+### Der Unbewaffnete Kampf
+
+Der unbewaffnete Kampf hat zwei Anwendungen - den Pugilismus und das Grappling.
+Pugilismus beschreibt den "herkömmlichen" Kampf mit Fäusten oder Faustwaffen. Man bleibt in Verteidigungsposition, schlägt bedacht zu und macht Schaden. Der Pugilismus läuft wie der normale Kampf - nur eben mit dem Schaden der Faust oder Faustwaffe und mit dem Skill "Unarmed".
+
+Grapple läuft ebenso wie Pugilismus mit Unarmed - macht allerdings keinen Schaden sondern ist dazu da den Gegner umzuwerfen oder festzuhalten. Beim Grapple wird eine Differenzprobe im Skill unarmed geworfen und der Gewinner bringt den Gegner zu Boden oder hält ihn fest. Will man einen Gegner weiter Festhalten muss jede Runde ein weiterer Unarmed Check geworfen werden, mit Value - 1*Runde die man den Gegner aktiv am Boden hält. Achtung: Grappling ist risikoreich, da man auch selbst niedergerungen werden kann. Auch andere Gegenmaßnahmen wie Dolche können sehr effektiv sein gegen einen Festhalteversuch.
+
 
 ### Artillerie
 
