@@ -250,10 +250,6 @@ Einige Werte verändern sich dynamisch im Spiel. Die wichtigen sind hier aufgef�
 
 Bestimmte Effekte (Tränke, Musik, Kälte, etc.) geben positive oder negative modifikatoren, die nicht wie externe Effekte (Schlechte Sicht) die Thresholds beeinflussen, sondern die Werte eines Characters ändern. Sie sind mit + oder - in der Spalte "Modifyer" rechts vom jeweiligen Skill einzutragen.
 
-### Zustand und Wartung von Ausrüstung {#Wartung}
-
-Ausrüstng verliert durch Zeit und Benutzung an Zustand. Normalerweise beträgt der Zustandsverlust pro Session einen Punkt, wenn das Ausrüstungsstück intensiv verwendet wird zwei Punkte. Wenn der Handwerks-skill aber höher ist, als <font color="green">[Tier des Gegenstandes](#Tiers)</font> * 15, kann man die Aktion "Wartung" vornehmen. Durch diese Aktion verliert man einen Punkt Zustand weniger.
-
 ### Glaube
 
 > "Wenn man die Götter erzürnt richten sie einen, wenn man ihnen huldigt belohnen sie einen"

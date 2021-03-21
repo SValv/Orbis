@@ -25,7 +25,11 @@ rmd_files: ["index.Rmd",
   "109Vulkanzwerge.Rmd",
 
   "109Z1Religion.Rmd",
-  "109Z2Blutkult.Rmd",
+  "109Z2Allgott.Rmd",
+  "109Z3RahKas.Rmd",
+  "109Z4Darcy.Rmd",
+  "109Z5Blutkult.Rmd",
+  "109Z6ReligionAnimali.Rmd",
 
   "110Anderes.Rmd",
   "111Vorlaufer.Rmd",

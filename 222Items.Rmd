@@ -4,64 +4,99 @@ Bei der Kalkulation von Waffen und Ausrüstung ist es wichtig sich den richtigen
 
 Diese Tabelle ist eine Übersicht über die Werte zum rechnen über die verschiedenen Tiers hinweg:
 
-|   Tier  | Standartwert | Fernkampfwert | Großwaffenwert | Standartpreis | Zustand |
+|  Tier   | Standartwert | Fernkampfwert | Großwaffenwert | Standartpreis | Zustand |
 |:-------:|:------------:|:-------------:|:--------------:|:-------------:|:-------:|
-| Stufe 1 |      30      |       23      |       40       |      5000     |    7    |
-| Stufe 2 |      42      |       35      |       52       |     22500     |    10   |
-| Stufe 3 |      48      |       41      |       58       |     90000     |    14   |
-| Stufe 4 |      53      |       46      |       63       |     300000    |    20   |
-| Stufe 5 |       –      |       –       |        –       |     unbez     |    –    |
+| Stufe 1 |      30      |      23       |       40       |     5000      |    7    |
+| Stufe 2 |      42      |      35       |       52       |     22500     |   10    |
+| Stufe 3 |      48      |      41       |       58       |     90000     |   14    |
+| Stufe 4 |      53      |      46       |       63       |    300000     |   20    |
+| Stufe 5 |      --      |      --       |       --       |     unbez     |   --    |
 
 Beim Auswählen der richtigen Rüstung und Waffen ist es sinnvoll, die die <font color="green">[Modifikatoren durch Überladung](#Belastungsstufe)</font> zu kennen, damit man nicht am Ende vollständig überladen in die Schlacht zieht.
 
+## Zustand
+
+Der Zustand ist ein Wert der Waffen und Rüstung zu eigen ist er bestimmt sowohl wie Hilfreich diese im Kampf sind wie auch deren Verkaufswert.
+
+Die reduzierung des Schadenswert bzw. Rüstungswert
+
++-----------------------------------+------------------------------------+
+| Zustand in Prozent                | Schadens / Rüstungswert Abnahme um |
++:=================================:+:==================================:+
+| 50%                               | 30%                                |
++-----------------------------------+------------------------------------+
+| 20%                               | 50%                                |
++-----------------------------------+------------------------------------+
+| 0%                                | Item zerstört                      |
++-----------------------------------+------------------------------------+
+
+: Zustand
+
+| Ausrüstungs Zustand in Prozent | Preis in Prozent des Kaufpreises |
+|:------------------------------:|:--------------------------------:|
+|              100%              |               50%                |
+|             \<100%             |               35%                |
+|             \<50%              |               15%                |
+
+: Verkaufspreis von Ausrüstung
+
+Der Zustand kann durch entscheidungen des DM abnehmen und kann nur durch die Verwendung von Material der entsprechenden Stufe wieder angehoben werden.
+
 ## Waffen {#Waffen}
 
-Waffen kommen in allen Größen und Formen, solange es nicht unpassend ist kann der Spieler sich selbst aussuchen. 
+Waffen kommen in allen Größen und Formen, solange es nicht unpassend ist kann der Spieler sich selbst aussuchen.
 
 ### Fernwaffen
 
-Fernwaffen sind ein notwendiges Asset für jede bewaffnete Gruppe. Sie erlauben schnelle und gute Hinterhalte und geben einem die Möglichkeit Feinde aus sicherer Entfernung anzugreifen. 
+z Fernwaffen sind ein notwendiges Asset für jede bewaffnete Gruppe. Sie erlauben schnelle und gute Hinterhalte und geben einem die Möglichkeit Feinde aus sicherer Entfernung anzugreifen.
 
-Das wichtigste bei der Berechnung der Werte von Fernwaffen ist, dass man mit dem speziellen Fernkampfwert statt dem Standartwert arbeitet. 
-Die Armbrust kann man mit einem kleinem Schild verwenden. 
-Fernkampfwaffen die man im liegen oder in der Hocke abfeuern kann bekommen zudem einen höheren Sneak-Modifikator, obwohl man wenn man einen Schleichangriff mit eine Muskete macht ohnehin direkt entdeckt wird.
-Fernkampfwaffen haben außerdem Vorteile bei der Initiative, was man <font color="green">[hier nachlesen kann](#Initiative)</font>. Sämtliche Fernwaffen haben einen Pariermodifikator von 0.2.
+Das wichtigste bei der Berechnung der Werte von Fernwaffen ist, dass man mit dem speziellen Fernkampfwert statt dem Standartwert arbeitet. Die Armbrust kann man mit einem kleinem Schild verwenden. Fernkampfwaffen die man im liegen oder in der Hocke abfeuern kann bekommen zudem einen höheren Sneak-Modifikator, obwohl man wenn man einen Schleichangriff mit eine Muskete macht ohnehin direkt entdeckt wird. Fernkampfwaffen haben außerdem Vorteile bei der Initiative, was man <font color="green">[hier nachlesen kann](#Initiative)</font>. Sämtliche Fernwaffen haben einen Pariermodifikator von 0.2.
 
 Dies sind die Fernkampfwaffen, die einem als Abenteurer zur Auswahl stehen:
 
-|   Waffe   |       Schaden       |        Preis        | Gewicht | Armor Penetration |                              Zusatz                             |
-|:---------:|:-------------------:|:-------------------:|:-------:|:-----------------:|:---------------------------------------------------------------:|
-|   Bogen   |    Fernkampfwert    |    Standartpreis    |   1 kg  |        nein       |                               nein                              |
-|  Armbrust | Fernkampfwert x 1.3 |    Standartpreis    |  1.5 kg |        nein       |      Sneak Advantage 4, Nachladen mit 50% wsl Single action     |
-|  Muskete  |  Fernkampfwert x 3  | Standartpreis x 2.5 |   3 kg  |        90%        | Sneak Advantage 4, 1 Runde nachladen <br> negiert Deckung Tier1 |
-| Schleuder | Fernkampfwert x 0.8 | Standartpreis x 0.7 |  0.5 kg |        nein       |    Braucht single Action zum wirbeln<br>40% Betäubungschance    |
++-----------+---------------------+---------------------+---------+-------------------+-----------------------------------------------------------------+
+| Waffe     | Schaden             | Preis               | Gewicht | Armor Penetration | Zusatz                                                          |
++:=========:+:===================:+:===================:+:=======:+:=================:+:===============================================================:+
+| Bogen     | Fernkampfwert       | Standartpreis       | 1 kg    | nein              | nein                                                            |
++-----------+---------------------+---------------------+---------+-------------------+-----------------------------------------------------------------+
+| Armbrust  | Fernkampfwert x 1.3 | Standartpreis       | 1.5 kg  | nein              | Sneak Advantage 4, Nachladen mit 50% wsl Single action          |
++-----------+---------------------+---------------------+---------+-------------------+-----------------------------------------------------------------+
+| Muskete   | Fernkampfwert x 3   | Standartpreis x 2.5 | 3 kg    | 90%               | Sneak Advantage 4, 1 Runde nachladen <br> negiert Deckung Tier1 |
++-----------+---------------------+---------------------+---------+-------------------+-----------------------------------------------------------------+
+| Schleuder | Fernkampfwert x 0.8 | Standartpreis x 0.7 | 0.5 kg  | nein              | Braucht single Action zum wirbeln<br>40% Betäubungschance       |
++-----------+---------------------+---------------------+---------+-------------------+-----------------------------------------------------------------+
 
-* Besonderheiten Muskete: Mit der Muskete verbraucht das Nachladen eine Single und eine Main Action. Ausweichen ist während diesem Prozess nicht möglich, außer man hat eine single/bonus Action übrig.
+-   Besonderheiten Muskete: Mit der Muskete verbraucht das Nachladen eine Single und eine Main Action. Ausweichen ist während diesem Prozess nicht möglich, außer man hat eine single/bonus Action übrig.
 
 ### Kurzwaffen
 
-Kurzwaffen können einhändig verwendet werden und haben den Vorteil, das man einen Schild zusätzlich zur Waffe verwenden kann. Dies macht sie zum optimalen Allrounder. Die meisten Abenteurer, Militärs und Söldner benutzen Kurzwaffen, daher sind Kurzwaffen die meistverbreitesten Waffen in Orbis Aestea. 
+Kurzwaffen können einhändig verwendet werden und haben den Vorteil, das man einen Schild zusätzlich zur Waffe verwenden kann. Dies macht sie zum optimalen Allrounder. Die meisten Abenteurer, Militärs und Söldner benutzen Kurzwaffen, daher sind Kurzwaffen die meistverbreitesten Waffen in Orbis Aestea.
 
 Folgende Kurzwaffen gibt es zur Auswahl:
 
 <small>
 
-|     Waffe    |       Schaden      |         Preis        | Gewicht | Armor Penetration | Parierfaktor |             Zusatz             |
-|:------------:|:------------------:|:--------------------:|:-------:|:-----------------:|:------------:|:------------------------------:|
-|    Schwert   |    Standartwert    |     Standartpreis    |   1 kg  |        nein       |      0.4     |              nein              |
-|      Axt     | Standartwert x 0.8 |     Standartpreis    |  1.5 kg |        20%        |      0.3     |              nein              |
-| Streitkolben | Standartwert x 0.7 |     Standartpreis    |   2 kg  |        50%        |     0.15     |      30% Betäubungschance      |
-|     Dolch    | Standartwert x 0.4 | Standartpreis x 0.45 |  0.5 kg |        100%       |      0.2     | AP nur wenn Ziel Immobilisiert |
-|    Knüppel   | Standartwert x 0.6 |  Standartpreis x 0.5 |   1 kg  |        nein       |     0.15     |      50% Betäubungschance      |
++--------------+--------------------+----------------------+---------+-------------------+--------------+--------------------------------+
+| Waffe        | Schaden            | Preis                | Gewicht | Armor Penetration | Parierfaktor | Zusatz                         |
++:============:+:==================:+:====================:+:=======:+:=================:+:============:+:==============================:+
+| Schwert      | Standartwert       | Standartpreis        | 1 kg    | nein              | 0.4          | nein                           |
++--------------+--------------------+----------------------+---------+-------------------+--------------+--------------------------------+
+| Axt          | Standartwert x 0.8 | Standartpreis        | 1.5 kg  | 20%               | 0.3          | nein                           |
++--------------+--------------------+----------------------+---------+-------------------+--------------+--------------------------------+
+| Streitkolben | Standartwert x 0.7 | Standartpreis        | 2 kg    | 50%               | 0.15         | 30% Betäubungschance           |
++--------------+--------------------+----------------------+---------+-------------------+--------------+--------------------------------+
+| Dolch        | Standartwert x 0.4 | Standartpreis x 0.45 | 0.5 kg  | 100%              | 0.2          | AP nur wenn Ziel Immobilisiert |
++--------------+--------------------+----------------------+---------+-------------------+--------------+--------------------------------+
+| Knüppel      | Standartwert x 0.6 | Standartpreis x 0.5  | 1 kg    | nein              | 0.15         | 50% Betäubungschance           |
++--------------+--------------------+----------------------+---------+-------------------+--------------+--------------------------------+
 
 </small>
 
-* Besonderheiten Dolch: Attentat, Versteckchance 50%
+-   Besonderheiten Dolch: Attentat, Versteckchance 50%
 
 ### Großwaffen
 
-Eine Großwaffe muss immer Zweihändig geführt werden. Sie machen zwar mehr Schaden als Kurzwaffen, allerdings erlauben sie keinen Schild. Dementsprechend muss die Verteidigung mit Ausweichen durchgeführt werden. Außnahme dabei bilden die Stangenwaffen. 
-Trotz diesem Nachteil sind Großwaffen unglaublich mächtig und erlauben es, Gegner manchmal mit einem einzigen Schlag zu zerteilen.
+Eine Großwaffe muss immer Zweihändig geführt werden. Sie machen zwar mehr Schaden als Kurzwaffen, allerdings erlauben sie keinen Schild. Dementsprechend muss die Verteidigung mit Ausweichen durchgeführt werden. Außnahme dabei bilden die Stangenwaffen. Trotz diesem Nachteil sind Großwaffen unglaublich mächtig und erlauben es, Gegner manchmal mit einem einzigen Schlag zu zerteilen.
 
 Das wichtigste bei der Berechnung der Werte von Großwaffen ist, dass man mit dem speziellen Großwaffenwert statt dem Standartwert arbeitet.
 
@@ -69,44 +104,47 @@ Diese Großwaffen sind in Orbis Aestea gebräuchlich:
 
 <small>
 
-|     Waffe    |        Schaden       |        Preis        | Gewicht | Armor Penetration | Parierfaktor |        Zusatz        |
-|:------------:|:--------------------:|:-------------------:|:-------:|:-----------------:|:------------:|:--------------------:|
-|  Großschwert |    Großwaffenwert    | Standartpreis x 1.3 |   2 kg  |        nein       |      0.4     |         nein         |
-|    Großaxt   | Großwaffenwert x 0.8 | Standartpreis x 1.3 |   3 kg  |        30%        |      0.3     |         nein         |
-| Kriegshammer | Großwaffenwert x 0.7 | Standartpreis x 1.3 |   5 kg  |        60%        |      0.1     | 60% Betäubungschance |
++--------------+----------------------+---------------------+---------+-------------------+--------------+----------------------+
+| Waffe        | Schaden              | Preis               | Gewicht | Armor Penetration | Parierfaktor | Zusatz               |
++:============:+:====================:+:===================:+:=======:+:=================:+:============:+:====================:+
+| Großschwert  | Großwaffenwert       | Standartpreis x 1.3 | 2 kg    | nein              | 0.4          | nein                 |
++--------------+----------------------+---------------------+---------+-------------------+--------------+----------------------+
+| Großaxt      | Großwaffenwert x 0.8 | Standartpreis x 1.3 | 3 kg    | 30%               | 0.3          | nein                 |
++--------------+----------------------+---------------------+---------+-------------------+--------------+----------------------+
+| Kriegshammer | Großwaffenwert x 0.7 | Standartpreis x 1.3 | 5 kg    | 60%               | 0.1          | 60% Betäubungschance |
++--------------+----------------------+---------------------+---------+-------------------+--------------+----------------------+
 
 </small>
 
 ### Stangenwaffen {#Stangenwaffen}
 
-Stangenwaffen können mit einem Kleinem Schild verwendet werden. Sie sind für das kämpfen in <font color="green">[Formation](#Formation)</font> gedacht und gebaut. Während sie im eigentlichen Kampf gegen Menschen eher unnütz sind, sind sie in <font color="green">[Formation](#Formation)</font>, gegen Große Gegner oder vom Reittier aus absolut tödlich. In einer solchen Situation machen sie doppelt so viel Schaden wie normalerweise. 
-Außerhalb dieser Umstände ist ein Angriff gegen einen Gegner mit Stangenwaffe immer ad Atvantage, während die Verteidigung mit einer Stangenwaffe - egal ob blocken oder ausweichen - at Disatvantage ist.
+Stangenwaffen können mit einem Kleinem Schild verwendet werden. Sie sind für das kämpfen in <font color="green">[Formation](#Formation)</font> gedacht und gebaut. Während sie im eigentlichen Kampf gegen Menschen eher unnütz sind, sind sie in <font color="green">[Formation](#Formation)</font>, gegen Große Gegner oder vom Reittier aus absolut tödlich. In einer solchen Situation machen sie doppelt so viel Schaden wie normalerweise. Außerhalb dieser Umstände ist ein Angriff gegen einen Gegner mit Stangenwaffe immer ad Atvantage, während die Verteidigung mit einer Stangenwaffe - egal ob blocken oder ausweichen - at Disatvantage ist.
 
 Folgende Stangenwaffen sind verfügbar:
 
-|    Waffe   |       Schaden      |        Preis        | Gewicht | Armor Penetration | Parierfaktor |
+|   Waffe    |      Schaden       |        Preis        | Gewicht | Armor Penetration | Parierfaktor |
 |:----------:|:------------------:|:-------------------:|:-------:|:-----------------:|:------------:|
-|    Speer   | Standartwert x 0.8 | Standartpreis x 0.8 |   2 kg  |        nein       |      0.1     |
-| Hellebarde |    Standartwert    | Standartpreis x 1.4 |  4.5 kg |        nein       |      0.1     |
+|   Speer    | Standartwert x 0.8 | Standartpreis x 0.8 |  2 kg   |       nein        |     0.1      |
+| Hellebarde |    Standartwert    | Standartpreis x 1.4 | 4.5 kg  |       nein        |     0.1      |
 
 ### Wurfwaffen {#WurfWaffen}
 
-Viele professionelle Soldaten benutzen Wurfwaffen als Ergänzung und Unterstützung für ihre Gruppe. Oftmals hat dies strategische Gründe. Besonders wichtig ist die interrupt-option, die jede Aktion außer Blocken/Ausweichen sofort unterbricht. 
+Viele professionelle Soldaten benutzen Wurfwaffen als Ergänzung und Unterstützung für ihre Gruppe. Oftmals hat dies strategische Gründe. Besonders wichtig ist die interrupt-option, die jede Aktion außer Blocken/Ausweichen sofort unterbricht.
 
-Pila sind besonders mächtig gegen Schilde, weil wenige davon ausreichen um die Beweglichkeit des Schildes zu zerstören. Jedes Pilum das in einem Schild steckt fügt einen -2 Modifyer auf Physical und Strength des Trägers hinzu. Diese Modifyer sind so lange Aktiv, bis das Schild abgelegt wird. 
+Pila sind besonders mächtig gegen Schilde, weil wenige davon ausreichen um die Beweglichkeit des Schildes zu zerstören. Jedes Pilum das in einem Schild steckt fügt einen -2 Modifyer auf Physical und Strength des Trägers hinzu. Diese Modifyer sind so lange Aktiv, bis das Schild abgelegt wird.
 
 Folgende Wurfwaffen sind verfügbar:
 
 | Wurfwaffen | Preis | Größe | Zerstörungschance | Anzahl in Holster | Schaden | Interrupt % |
 |:----------:|:-----:|:-----:|:-----------------:|:-----------------:|:-------:|:-----------:|
-|    Bola    |  2000 |  Groß |        30%        |         1         |    0    |     100     |
-|    Bola    |  300  | Klein |        100%       |         1         |    0    |     100     |
-| Wurfmesser |  500  | Klein |        15%        |         5         |    10   |      15     |
-|   Wurfaxt  |  1000 |  Groß |        40%        |         2         |    25   |      35     |
-|    Pilum   |  1500 |  Groß |        60%        |         1         |    35   |      45     |
-|    Stein   |   0   | klein |        100%       |         20        |    2    |      5      |
+|    Bola    | 2000  | Groß  |        30%        |         1         |    0    |     100     |
+|    Bola    |  300  | Klein |       100%        |         1         |    0    |     100     |
+| Wurfmesser |  500  | Klein |        15%        |         5         |   10    |     15      |
+|  Wurfaxt   | 1000  | Groß  |        40%        |         2         |   25    |     35      |
+|   Pilum    | 1500  | Groß  |        60%        |         1         |   35    |     45      |
+|   Stein    |   0   | klein |       100%        |        20         |    2    |      5      |
 
-* Besonderheiten Pilum: Pila sind spezifisch gegen Schilde gebaut worden, so machen zwei geblockte Pila einen Schild schwer nutzbar und halbieren damit die Würfel, mit der der Verteidiger ab dann blocken würde.
+-   Besonderheiten Pilum: Pila sind spezifisch gegen Schilde gebaut worden, so machen zwei geblockte Pila einen Schild schwer nutzbar und halbieren damit die Würfel, mit der der Verteidiger ab dann blocken würde.
 
 ### Faustwaffen {#Faustwaffen}
 
@@ -114,221 +152,298 @@ Faustwaffen sind dahingehend besonders, dass sie über den Skill "unarmed" laufe
 
 Hier seht man eine Übersicht über die Faustwaffen:
 
++---------------+--------------------+---------------------+---------+-------------------------------------------+
 | Waffe         | Schaden            | Preis               | Gewicht | Zusatz                                    |
-|---------------|--------------------|---------------------|---------|-------------------------------------------|
++===============+====================+=====================+=========+===========================================+
 | Faust         | 5                  |                     |         | 50% Betäubungschance                      |
++---------------+--------------------+---------------------+---------+-------------------------------------------+
 | Schlagring    | Standartwert x 0.3 | Standartpreis x 0.4 | 0.2 kg  | 90% versteckbar <br> 75% Betäubungschance |
++---------------+--------------------+---------------------+---------+-------------------------------------------+
 | Faustmesser   | Standartwert x 0.4 | Standartpreis x 0.8 | 0.5 kg  | 50% versteckbar                           |
++---------------+--------------------+---------------------+---------+-------------------------------------------+
 | Metallkrallen | Standartwert x 0.6 | Standartpreis x 1.3 | 1 kg    | nicht versteckbar                         |
++---------------+--------------------+---------------------+---------+-------------------------------------------+
 
-* Besonderheiten Faustmesser: Attentat 
+-   Besonderheiten Faustmesser: Attentat
 
 ## Rüstung {#Rüstung}
 
 Eine Rüstung besteht aus fünf Teilen:
 
-* Einem Helm
-* Einer Brustplatte
-* Einem Waffenrock
-* Armschienen
-* Beinschienen
+-   Einem Helm
+-   Einer Brustplatte
+-   Einem Waffenrock
+-   Armschienen
+-   Beinschienen
 
 Die Rüstung darf beliebig aus Teilen leichter, mittlerer und schwerer Rüstung zusammengestellt werden. Umso schwerer die Rüstung wird, desto mehr Nachteile hat sie.
 
 Diese Tabelle zeigt Werte für die einzelnen Rüstungsteile:
 
-| Rüstung | Anziehen | Ausziehen | Gewicht |     Armor Rating    | Kosten/Rüstungsteil |
+| Rüstung | Anziehen | Ausziehen | Gewicht |    Armor Rating     | Kosten/Rüstungsteil |
 |:-------:|:--------:|:---------:|:-------:|:-------------------:|:-------------------:|
-|  Leicht |   1 min  |   1 min   |  1.2 kg |  Standartwert x 0.2 | 0.4 x Standartpreis |
-|  Mittel |   5 min  |    1min   |   3 kg  | Standartwert x 0.35 | 0.6 x Standartpreis |
-|  Schwer |  10 min  |   5 min   |   6 kg  |  Standartwert x 0.5 | 0.8 x Standartpreis |
+| Leicht  |  1 min   |   1 min   | 1.2 kg  | Standartwert x 0.2  | 0.4 x Standartpreis |
+| Mittel  |  5 min   |   1min    |  3 kg   | Standartwert x 0.35 | 0.6 x Standartpreis |
+| Schwer  |  10 min  |   5 min   |  6 kg   | Standartwert x 0.5  | 0.8 x Standartpreis |
 
 Achtung: das an- und ausziehen bezieht sich auf eine vollständige Leichte/Mittlere/Schwere Rüstung.
 
 ### Schild
 
-Ein Schild ist die Vorraussetzung für die Aktion <font color="green">["Blocken"](#BlockenAusweichen)</font>, er ist die Lebensversicherung für die, die am meisten an der Front stehen. 
+Ein Schild ist die Vorraussetzung für die Aktion <font color="green">["Blocken"](#BlockenAusweichen)</font>, er ist die Lebensversicherung für die, die am meisten an der Front stehen.
 
 Hier sieht man die verfügbaren Schildtypen:
 
-|     Schild     | Entwaffnungschance |      Schildwert     | Gewicht |        Kosten       |
+|     Schild     | Entwaffnungschance |     Schildwert      | Gewicht |       Kosten        |
 |:--------------:|:------------------:|:-------------------:|:-------:|:-------------------:|
-| Kleines Schild |          8         | Standartwert x 0.35 |   1 kg  | 0.4 x Standartpreis |
-|     Schild     |          5         | Standartwert x 0.55 |   2 kg  | 0.6 x Standartpreis |
-|   Turmschild   |          1         | Standartwert x 0.75 |   4 kg  | 0.8 x Standartpreis |
+| Kleines Schild |         8          | Standartwert x 0.35 |  1 kg   | 0.4 x Standartpreis |
+|     Schild     |         5          | Standartwert x 0.55 |  2 kg   | 0.6 x Standartpreis |
+|   Turmschild   |         1          | Standartwert x 0.75 |  4 kg   | 0.8 x Standartpreis |
 
 ## Tranktaschen {#TranktascheItems}
 
-Tränke will man im Kampf schnellstmöglich verfügbar haben. Dafür wurde die Tranktasche entwickelt. Für viele Soldaten und Abenteurer ist die Tranktasche nicht wegzudenken: Bomben, Power ups und Heilungen einfach mit einer single Action zu verwenden ist auch ein gutes Argument, denn genau dies erlaubt die Tranktasche. 
+Tränke will man im Kampf schnellstmöglich verfügbar haben. Dafür wurde die Tranktasche entwickelt. Für viele Soldaten und Abenteurer ist die Tranktasche nicht wegzudenken: Bomben, Power ups und Heilungen einfach mit einer single Action zu verwenden ist auch ein gutes Argument, denn genau dies erlaubt die Tranktasche.
 
 Es gibt Tranktaschen mit verschiedenen Mengen an Slots:
 
 | Tranktasche | Preis | Slots |
 |:-----------:|:-----:|:-----:|
-|    Klein    |  2500 |   2   |
-|    Normal   | 15000 |   4   |
-|     Groß    | 45000 |   6   |
+|    Klein    | 2500  |   2   |
+|   Normal    | 15000 |   4   |
+|    Groß     | 45000 |   6   |
 
 Pro Slot kann man einen Trank ausrüsten.
 
 ## Tränke {#Tränke}
 
-Tränke haben eine Wirkung im Kampf und außerhalb vom Kampf. Die Wirkung außerhalb vom Kampf wird speziell vom DM anhand der Stufe und der betroffenen Person bestimmt, hat sich aber an die beschreibene Wirkung in <font color="green">[Drogen und Pflanzen](#DrogenPflanzen)</font> zu halten. Wie Tränke gebraut werden ist in <font color="green">[Alchemie ](#Alchemie)</font> nachlesbar.
+Tränke haben eine Wirkung im Kampf und außerhalb vom Kampf. Die Wirkung außerhalb vom Kampf wird speziell vom DM anhand der Stufe und der betroffenen Person bestimmt, hat sich aber an die beschreibene Wirkung in <font color="green">[Drogen und Pflanzen](#DrogenPflanzen)</font> zu halten. Wie Tränke gebraut werden ist in <font color="green">[Alchemie](#Alchemie)</font> nachlesbar.
 
 Die Wirkungen im Kampf sind in der unten stehenden Tabelle ersichtlich.
 
-|        Tränke       |  Stufe  | Preis in Reiks |                                              Wirkung                                             |
-|:-------------------:|:-------:|:--------------:|:------------------------------------------------------------------------------------------------:|
-|      Heiltrank      | Stufe 1 |       200      |                                            Health +50                                            |
-|      Heiltrank      | Stufe 2 |       420      |                                            Health +100                                           |
-|      Heiltrank      | Stufe 3 |       900      |                                            Health +200                                           |
-|      Heiltrank      | Stufe 4 |      1300      |                                            Health +300                                           |
-|      Gifttrank      | Stufe 1 |       200      |                                         Health -25/Runde                                         |
-|      Gifttrank      | Stufe 2 |       420      |                                         Health -60/Runde                                         |
-|      Gifttrank      | Stufe 3 |       900      |                                         Health -100/Runde                                        |
-|      Gifttrank      | Stufe 4 |      1300      |                                         Health -150/Runde                                        |
-|  Attributbufftrank  | Stufe 3 |      1000      |                                            Attribut +1                                           |
-|  Attributbufftrank  | Stufe 4 |      2000      |                                            Attribut +2                                           |
-|  Attributbufftrank  | Stufe 5 |      3000      |                                            Attribut +3                                           |
-|  Attributbufftrank  | Stufe 6 |      4000      |                                            Attribut +4                                           |
-| Attributdebufftrank | Stufe 3 |      1000      |                                            Attribut -1                                           |
-| Attributdebufftrank | Stufe 4 |      2000      |                                            Attribut -2                                           |
-| Attributdebufftrank | Stufe 5 |      3000      |                                            Attribut -3                                           |
-| Attributdebufftrank | Stufe 6 |      4000      |                                            Attribut -4                                           |
-|       Paralyse      | Stufe 3 |      4000      |                                         1 turn aussetzen                                         |
-|       Paralyse      | Stufe 4 |      5000      |                                         2 turn aussetzen                                         |
-|       Paralyse      | Stufe 5 |      6000      |                                         3 turn aussetzen                                         |
-|       Paralyse      | Stufe 6 |      8000      |                                         4 turn aussetzen                                         |
-|       Ausdauer      | Stufe 1 |       200      |                                            Ausdauer +2                                           |
-|       Ausdauer      | Stufe 2 |       420      |                                            Ausdauer +4                                           |
-|       Ausdauer      | Stufe 3 |       900      |                                            Ausdauer +6                                           |
-|       Ausdauer      | Stufe 4 |      1300      |                                            Ausdauer +8                                           |
-|     Adrenalinika    | Stufe 3 |       700      |                                           Critmargin +1                                          |
-|     Adrenalinika    | Stufe 4 |      1400      |                                           Critmargin +2                                          |
-|     Adrenalinika    | Stufe 5 |      2100      |                                           Critmargin +3                                          |
-|     Adrenalinika    | Stufe 6 |      2800      |                                           Critmargin +4                                          |
-|    Epinephrinika    | Stufe 2 |      2500      |                                        Wakeup mit debuffs                                        |
-|      Molotovika     | Stufe 2 |      4000      |                                    3m Durchmesser/ 150 Schaden                                   |
-|      Molotovika     | Stufe 3 |      5000      |                                    3m Durchmesser/ 250 Schaden                                   |
-|      Molotovika     | Stufe 4 |      6000      |                                    5m Durchmesser/ 400 Schaden                                   |
-|      Molotovika     | Stufe 5 |      8000      |                                    8m Durchmesser/ 500 Schaden                                   |
-|        Sicht        | Stufe 2 |      2000      |                                            Nachtsicht                                            |
-|        Sicht        | Stufe 4 |      5000      |                                            Thermosicht                                           |
-|    Nebelgrantika    | Stufe 2 |      3000      |                                   5m Durchmesser / keine Sicht                                   |
-|    Nebelgrantika    | Stufe 3 |      4000      |                                   10m Durchmesser / keine Sicht                                  |
-|    Nebelgrantika    | Stufe 4 |      5000      |                                   15m Durchmesser / keine Sicht                                  |
-|    Nebelgrantika    | Stufe 5 |      6500      |                                   25m Durchmesser / keine Sicht                                  |
-|      Euphorika      | Stufe 1 |       50       |                                               Bier                                               |
-|      Euphorika      | Stufe 2 |       350      |                                               Weed                                               |
-|      Euphorika      | Stufe 3 |       700      |                                              Schnaps                                             |
-|      Euphorika      | Stufe 4 |      1400      |                                               Koks                                               |
-|      Euphorika      | Stufe 5 |      2100      |                                               Keta                                               |
-|      Euphorika      | Stufe 6 |      2800      |                                           Komplett weg                                           |
-|       Madnika       | Stufe 3 |      1500      |                                            +10% Damage                                           |
-|       Madnika       | Stufe 4 |      2000      |                                            +20% Damage                                           |
-|       Madnika       | Stufe 5 |      2800      |                                            +30% Damage                                           |
-|       Madnika       | Stufe 6 |      3800      |                                            +40% Damage                                           |
-|      Sedativika     | Stufe 1 |       700      |                                           Critmargin -1                                          |
-|      Sedativika     | Stufe 2 |      1400      |                                           Critmargin -2                                          |
-|      Sedativika     | Stufe 3 |      2100      |                                           Critmargin -3                                          |
-|      Sedativika     | Stufe 4 |      2800      |                                           Critmargin -4                                          |
-|      Sedativika     | Stufe 5 |      3500      |                                           Critmargin -5                                          |
-|      Sedativika     | Stufe 6 |      4200      |                                           Critmargin -6                                          |
-|     Aphrodisika     | Stufe 3 |      1400      |                                                                                                  |
-|     Aphrodisika     | Stufe 4 |      2100      |                                                                                                  |
-|      Narkotika      | Stufe 1 |      1000      |                                           bewegung -1m                                           |
-|      Narkotika      | Stufe 2 |      2500      |                                   bewegung -2m/erwachsener mann                                  |
-|      Narkotika      | Stufe 3 |      4000      |                                           bewegung -4m                                           |
-|      Narkotika      | Stufe 4 |      5000      |                                           bewegung -6m                                           |
-|      Narkotika      | Stufe 5 |      6000      |                                           bewegung -8m                                           |
-|      Narkotika      | Stufe 6 |      8000      |                                  Keine bewegung/nur main action                                  |
-|     Antipyretika    | Stufe 2 |       500      |                                         gegen Thermosicht                                        |
-|     Antipyretika    | Stufe 3 |      1100      |                                         gegen Thermosicht                                        |
-|     Antipyretika    | Stufe 4 |      2300      |                                         gegen Thermosicht                                        |
-|      Reinigung      | Stufe 1 |       200      |                          Entfernt alle trankbedingten Stati bis Stufe 1                          |
-|      Reinigung      | Stufe 2 |       400      |                          Entfernt alle trankbedingten Stati bis Stufe 2                          |
-|      Reinigung      | Stufe 3 |       700      |                          Entfernt alle trankbedingten Stati bis Stufe 3                          |
-|      Reinigung      | Stufe 4 |      1400      |                          Entfernt alle trankbedingten Stati bis Stufe 4                          |
-|      Reinigung      | Stufe 5 |      2100      |                          Entfernt alle trankbedingten Stati bis Stufe 5                          |
-|      Reinigung      | Stufe 6 |      2800      |                          Entfernt alle trankbedingten Stati bis Stufe 6                          |
-|   Segen der Sienna  | Stufe 3 |      3000      | Einsetzbar gegen Blutsauger <br> stoppt die positiven Effekte <br> vergleichbar mit Säurewirkung |
-|  Licht des Allgotts | Stufe 4 |      4200      |                Ca 2 min sehr helles Licht <br> blendet nicht daran gewöhnte Feinde               |
++---------------------+---------+----------------+--------------------------------------------------------------------------------------------------+
+| Tränke              | Stufe   | Preis in Reiks | Wirkung                                                                                          |
++:===================:+:=======:+:==============:+:================================================================================================:+
+| Heiltrank           | Stufe 1 | 200            | Health +50                                                                                       |
++---------------------+---------+----------------+--------------------------------------------------------------------------------------------------+
+| Heiltrank           | Stufe 2 | 420            | Health +100                                                                                      |
++---------------------+---------+----------------+--------------------------------------------------------------------------------------------------+
+| Heiltrank           | Stufe 3 | 900            | Health +200                                                                                      |
++---------------------+---------+----------------+--------------------------------------------------------------------------------------------------+
+| Heiltrank           | Stufe 4 | 1300           | Health +300                                                                                      |
++---------------------+---------+----------------+--------------------------------------------------------------------------------------------------+
+| Gifttrank           | Stufe 1 | 200            | Health -25/Runde                                                                                 |
++---------------------+---------+----------------+--------------------------------------------------------------------------------------------------+
+| Gifttrank           | Stufe 2 | 420            | Health -60/Runde                                                                                 |
++---------------------+---------+----------------+--------------------------------------------------------------------------------------------------+
+| Gifttrank           | Stufe 3 | 900            | Health -100/Runde                                                                                |
++---------------------+---------+----------------+--------------------------------------------------------------------------------------------------+
+| Gifttrank           | Stufe 4 | 1300           | Health -150/Runde                                                                                |
++---------------------+---------+----------------+--------------------------------------------------------------------------------------------------+
+| Attributbufftrank   | Stufe 3 | 1000           | Attribut +1                                                                                      |
++---------------------+---------+----------------+--------------------------------------------------------------------------------------------------+
+| Attributbufftrank   | Stufe 4 | 2000           | Attribut +2                                                                                      |
++---------------------+---------+----------------+--------------------------------------------------------------------------------------------------+
+| Attributbufftrank   | Stufe 5 | 3000           | Attribut +3                                                                                      |
++---------------------+---------+----------------+--------------------------------------------------------------------------------------------------+
+| Attributbufftrank   | Stufe 6 | 4000           | Attribut +4                                                                                      |
++---------------------+---------+----------------+--------------------------------------------------------------------------------------------------+
+| Attributdebufftrank | Stufe 3 | 1000           | Attribut -1                                                                                      |
++---------------------+---------+----------------+--------------------------------------------------------------------------------------------------+
+| Attributdebufftrank | Stufe 4 | 2000           | Attribut -2                                                                                      |
++---------------------+---------+----------------+--------------------------------------------------------------------------------------------------+
+| Attributdebufftrank | Stufe 5 | 3000           | Attribut -3                                                                                      |
++---------------------+---------+----------------+--------------------------------------------------------------------------------------------------+
+| Attributdebufftrank | Stufe 6 | 4000           | Attribut -4                                                                                      |
++---------------------+---------+----------------+--------------------------------------------------------------------------------------------------+
+| Paralyse            | Stufe 3 | 4000           | 1 turn aussetzen                                                                                 |
++---------------------+---------+----------------+--------------------------------------------------------------------------------------------------+
+| Paralyse            | Stufe 4 | 5000           | 2 turn aussetzen                                                                                 |
++---------------------+---------+----------------+--------------------------------------------------------------------------------------------------+
+| Paralyse            | Stufe 5 | 6000           | 3 turn aussetzen                                                                                 |
++---------------------+---------+----------------+--------------------------------------------------------------------------------------------------+
+| Paralyse            | Stufe 6 | 8000           | 4 turn aussetzen                                                                                 |
++---------------------+---------+----------------+--------------------------------------------------------------------------------------------------+
+| Ausdauer            | Stufe 1 | 200            | Ausdauer +2                                                                                      |
++---------------------+---------+----------------+--------------------------------------------------------------------------------------------------+
+| Ausdauer            | Stufe 2 | 420            | Ausdauer +4                                                                                      |
++---------------------+---------+----------------+--------------------------------------------------------------------------------------------------+
+| Ausdauer            | Stufe 3 | 900            | Ausdauer +6                                                                                      |
++---------------------+---------+----------------+--------------------------------------------------------------------------------------------------+
+| Ausdauer            | Stufe 4 | 1300           | Ausdauer +8                                                                                      |
++---------------------+---------+----------------+--------------------------------------------------------------------------------------------------+
+| Adrenalinika        | Stufe 3 | 700            | Critmargin +1                                                                                    |
++---------------------+---------+----------------+--------------------------------------------------------------------------------------------------+
+| Adrenalinika        | Stufe 4 | 1400           | Critmargin +2                                                                                    |
++---------------------+---------+----------------+--------------------------------------------------------------------------------------------------+
+| Adrenalinika        | Stufe 5 | 2100           | Critmargin +3                                                                                    |
++---------------------+---------+----------------+--------------------------------------------------------------------------------------------------+
+| Adrenalinika        | Stufe 6 | 2800           | Critmargin +4                                                                                    |
++---------------------+---------+----------------+--------------------------------------------------------------------------------------------------+
+| Epinephrinika       | Stufe 2 | 2500           | Wakeup mit debuffs                                                                               |
++---------------------+---------+----------------+--------------------------------------------------------------------------------------------------+
+| Molotovika          | Stufe 2 | 4000           | 3m Durchmesser/ 150 Schaden                                                                      |
++---------------------+---------+----------------+--------------------------------------------------------------------------------------------------+
+| Molotovika          | Stufe 3 | 5000           | 3m Durchmesser/ 250 Schaden                                                                      |
++---------------------+---------+----------------+--------------------------------------------------------------------------------------------------+
+| Molotovika          | Stufe 4 | 6000           | 5m Durchmesser/ 400 Schaden                                                                      |
++---------------------+---------+----------------+--------------------------------------------------------------------------------------------------+
+| Molotovika          | Stufe 5 | 8000           | 8m Durchmesser/ 500 Schaden                                                                      |
++---------------------+---------+----------------+--------------------------------------------------------------------------------------------------+
+| Sicht               | Stufe 2 | 2000           | Nachtsicht                                                                                       |
++---------------------+---------+----------------+--------------------------------------------------------------------------------------------------+
+| Sicht               | Stufe 4 | 5000           | Thermosicht                                                                                      |
++---------------------+---------+----------------+--------------------------------------------------------------------------------------------------+
+| Nebelgrantika       | Stufe 2 | 3000           | 5m Durchmesser / keine Sicht                                                                     |
++---------------------+---------+----------------+--------------------------------------------------------------------------------------------------+
+| Nebelgrantika       | Stufe 3 | 4000           | 10m Durchmesser / keine Sicht                                                                    |
++---------------------+---------+----------------+--------------------------------------------------------------------------------------------------+
+| Nebelgrantika       | Stufe 4 | 5000           | 15m Durchmesser / keine Sicht                                                                    |
++---------------------+---------+----------------+--------------------------------------------------------------------------------------------------+
+| Nebelgrantika       | Stufe 5 | 6500           | 25m Durchmesser / keine Sicht                                                                    |
++---------------------+---------+----------------+--------------------------------------------------------------------------------------------------+
+| Euphorika           | Stufe 1 | 50             | Bier                                                                                             |
++---------------------+---------+----------------+--------------------------------------------------------------------------------------------------+
+| Euphorika           | Stufe 2 | 350            | Weed                                                                                             |
++---------------------+---------+----------------+--------------------------------------------------------------------------------------------------+
+| Euphorika           | Stufe 3 | 700            | Schnaps                                                                                          |
++---------------------+---------+----------------+--------------------------------------------------------------------------------------------------+
+| Euphorika           | Stufe 4 | 1400           | Koks                                                                                             |
++---------------------+---------+----------------+--------------------------------------------------------------------------------------------------+
+| Euphorika           | Stufe 5 | 2100           | Keta                                                                                             |
++---------------------+---------+----------------+--------------------------------------------------------------------------------------------------+
+| Euphorika           | Stufe 6 | 2800           | Komplett weg                                                                                     |
++---------------------+---------+----------------+--------------------------------------------------------------------------------------------------+
+| Madnika             | Stufe 3 | 1500           | +10% Damage                                                                                      |
++---------------------+---------+----------------+--------------------------------------------------------------------------------------------------+
+| Madnika             | Stufe 4 | 2000           | +20% Damage                                                                                      |
++---------------------+---------+----------------+--------------------------------------------------------------------------------------------------+
+| Madnika             | Stufe 5 | 2800           | +30% Damage                                                                                      |
++---------------------+---------+----------------+--------------------------------------------------------------------------------------------------+
+| Madnika             | Stufe 6 | 3800           | +40% Damage                                                                                      |
++---------------------+---------+----------------+--------------------------------------------------------------------------------------------------+
+| Sedativika          | Stufe 1 | 700            | Critmargin -1                                                                                    |
++---------------------+---------+----------------+--------------------------------------------------------------------------------------------------+
+| Sedativika          | Stufe 2 | 1400           | Critmargin -2                                                                                    |
++---------------------+---------+----------------+--------------------------------------------------------------------------------------------------+
+| Sedativika          | Stufe 3 | 2100           | Critmargin -3                                                                                    |
++---------------------+---------+----------------+--------------------------------------------------------------------------------------------------+
+| Sedativika          | Stufe 4 | 2800           | Critmargin -4                                                                                    |
++---------------------+---------+----------------+--------------------------------------------------------------------------------------------------+
+| Sedativika          | Stufe 5 | 3500           | Critmargin -5                                                                                    |
++---------------------+---------+----------------+--------------------------------------------------------------------------------------------------+
+| Sedativika          | Stufe 6 | 4200           | Critmargin -6                                                                                    |
++---------------------+---------+----------------+--------------------------------------------------------------------------------------------------+
+| Aphrodisika         | Stufe 3 | 1400           |                                                                                                  |
++---------------------+---------+----------------+--------------------------------------------------------------------------------------------------+
+| Aphrodisika         | Stufe 4 | 2100           |                                                                                                  |
++---------------------+---------+----------------+--------------------------------------------------------------------------------------------------+
+| Narkotika           | Stufe 1 | 1000           | bewegung -1m                                                                                     |
++---------------------+---------+----------------+--------------------------------------------------------------------------------------------------+
+| Narkotika           | Stufe 2 | 2500           | bewegung -2m/erwachsener mann                                                                    |
++---------------------+---------+----------------+--------------------------------------------------------------------------------------------------+
+| Narkotika           | Stufe 3 | 4000           | bewegung -4m                                                                                     |
++---------------------+---------+----------------+--------------------------------------------------------------------------------------------------+
+| Narkotika           | Stufe 4 | 5000           | bewegung -6m                                                                                     |
++---------------------+---------+----------------+--------------------------------------------------------------------------------------------------+
+| Narkotika           | Stufe 5 | 6000           | bewegung -8m                                                                                     |
++---------------------+---------+----------------+--------------------------------------------------------------------------------------------------+
+| Narkotika           | Stufe 6 | 8000           | Keine bewegung/nur main action                                                                   |
++---------------------+---------+----------------+--------------------------------------------------------------------------------------------------+
+| Antipyretika        | Stufe 2 | 500            | gegen Thermosicht                                                                                |
++---------------------+---------+----------------+--------------------------------------------------------------------------------------------------+
+| Antipyretika        | Stufe 3 | 1100           | gegen Thermosicht                                                                                |
++---------------------+---------+----------------+--------------------------------------------------------------------------------------------------+
+| Antipyretika        | Stufe 4 | 2300           | gegen Thermosicht                                                                                |
++---------------------+---------+----------------+--------------------------------------------------------------------------------------------------+
+| Reinigung           | Stufe 1 | 200            | Entfernt alle trankbedingten Stati bis Stufe 1                                                   |
++---------------------+---------+----------------+--------------------------------------------------------------------------------------------------+
+| Reinigung           | Stufe 2 | 400            | Entfernt alle trankbedingten Stati bis Stufe 2                                                   |
++---------------------+---------+----------------+--------------------------------------------------------------------------------------------------+
+| Reinigung           | Stufe 3 | 700            | Entfernt alle trankbedingten Stati bis Stufe 3                                                   |
++---------------------+---------+----------------+--------------------------------------------------------------------------------------------------+
+| Reinigung           | Stufe 4 | 1400           | Entfernt alle trankbedingten Stati bis Stufe 4                                                   |
++---------------------+---------+----------------+--------------------------------------------------------------------------------------------------+
+| Reinigung           | Stufe 5 | 2100           | Entfernt alle trankbedingten Stati bis Stufe 5                                                   |
++---------------------+---------+----------------+--------------------------------------------------------------------------------------------------+
+| Reinigung           | Stufe 6 | 2800           | Entfernt alle trankbedingten Stati bis Stufe 6                                                   |
++---------------------+---------+----------------+--------------------------------------------------------------------------------------------------+
+| Segen der Sienna    | Stufe 3 | 3000           | Einsetzbar gegen Blutsauger <br> stoppt die positiven Effekte <br> vergleichbar mit Säurewirkung |
++---------------------+---------+----------------+--------------------------------------------------------------------------------------------------+
+| Licht des Allgotts  | Stufe 4 | 4200           | Ca 2 min sehr helles Licht <br> blendet nicht daran gewöhnte Feinde                              |
++---------------------+---------+----------------+--------------------------------------------------------------------------------------------------+
 
-### Wirkungen von Tränken: 
+### Wirkungen von Tränken:
 
-* Gift hält 3 Runden an
-* Antipyretika haben eine Besondere Rolle für Animali, in wärmeren Gebieten brauchen sie sie - Je nach Mutation, um Negativmodifyer wegen Hitze zu vermeiden. Außerdem brauchen sie stärkere Antipyretika (Stufe 4) um die Wärmesicht der Goblins zu kontern.
-* Madnika: zusätzlich keine Ausdauerdebuffs/Widerstehen von 1x Ohnmacht durch Ausdauerverlust
-* Licht des Allgotts: Besonders effektiv gegen Erwachte. 
+-   Gift hält 3 Runden an
+-   Antipyretika haben eine Besondere Rolle für Animali, in wärmeren Gebieten brauchen sie sie - Je nach Mutation, um Negativmodifyer wegen Hitze zu vermeiden. Außerdem brauchen sie stärkere Antipyretika (Stufe 4) um die Wärmesicht der Goblins zu kontern.
+-   Madnika: zusätzlich keine Ausdauerdebuffs/Widerstehen von 1x Ohnmacht durch Ausdauerverlust
+-   Licht des Allgotts: Besonders effektiv gegen Erwachte.
 
 ## Reittiere {#Mounts}
 
 ## Andere Gegenstände {#AndereGegenstände}
 
-Andere Gegenstände sind sämtliche Gegenstände die nicht nativ in Orbis Aestea vorliegen. Meistens sind das Alltagsgegenstände wie Seile, Fässer etc. diese sind Glücklicherweise im Rulebook von DnD 5e (welches direkt über den Download-link runtergeladen werden kann). Hierbei sind die Preise in DnD silber umzurechnen (1gp=10sp, 1sp=10cp) und anschließend über die <font color="green">[Umrechnungskurse in Reiks](#Währung)</font>. Dann kann man sie bezahlen und sich ins Inventar eintragen. 
+Andere Gegenstände sind sämtliche Gegenstände die nicht nativ in Orbis Aestea vorliegen. Meistens sind das Alltagsgegenstände wie Seile, Fässer etc. diese sind Glücklicherweise im Rulebook von DnD 5e (welches direkt über den Download-link runtergeladen werden kann). Hierbei sind die Preise in DnD silber umzurechnen (1gp=10sp, 1sp=10cp) und anschließend über die <font color="green">[Umrechnungskurse in Reiks](#Währung)</font>. Dann kann man sie bezahlen und sich ins Inventar eintragen.
 
 Hier findet ihr das meiste:
 
 | PDF Seite | Seitenzahl |         Zeug         |
 |:---------:|:----------:|:--------------------:|
-|    141    |     150    |   Adventurer stuff   |
-|    145    |     154    | Handwerk/Instrumente |
-|    147    |     157    |      trade goods     |
-|    148    |     158    |       Lifestyle      |
-|    149    |     159    |       Services       |
+|    141    |    150     |   Adventurer stuff   |
+|    145    |    154     | Handwerk/Instrumente |
+|    147    |    157     |     trade goods      |
+|    148    |    158     |      Lifestyle       |
+|    149    |    159     |       Services       |
 
 Bei Unsicherheiten und besonderen Ideen sollte man sich mit dem DM absprechen. Dies gilt auch für Objekte, die nicht im DnD-Rulebook stehen. Versuch de DM's sollte sein alles möglich zu machen.
 
 ## Instrumente
 
-Instrumente kommen in drei Tiers, wie auch bei Waffen und Rüstungen darf sich der Charakter aussehen und Klang seines Instruments weitestgehend frei aussuchen, solange es nicht unpassend ist.
-Wie Instrumente in Orbis Aestea funktionieren <font color="green">[findet sich hier](#InstrumenteRules)</font>
+Instrumente kommen in drei Tiers, wie auch bei Waffen und Rüstungen darf sich der Charakter aussehen und Klang seines Instruments weitestgehend frei aussuchen, solange es nicht unpassend ist. Wie Instrumente in Orbis Aestea funktionieren <font color="green">[findet sich hier](#InstrumenteRules)</font>
 
 Übersicht über die Stufen:
 
 | Instrumente | Slots | Price | Zustand |
 |:-----------:|:-----:|:-----:|:-------:|
-|    Tier1    |   1   |  2000 |    7    |
-|    Tier2    |   2   | 30000 |    13   |
-|    Tier3    |   3   | 50000 |    18   |
+|    Tier1    |   1   | 2000  |    7    |
+|    Tier2    |   2   | 30000 |   13    |
+|    Tier3    |   3   | 50000 |   18    |
 
 ### Buffs durch Instrumente {#WirkungBuffs}
 
 Folgende Buffs können in die Slots von Instrumenten gepackt werden:
 
-|      Buffs      |  Preis | Treshold |   Wirkung   |
+|      Buffs      | Preis  | Treshold |   Wirkung   |
 |:---------------:|:------:|:--------:|:-----------:|
-|  Critmargin +1  |  2000  |   1,65   |    Target   |
-|  Critmargin +2  |  4000  |    2,4   |    Target   |
-|  Critmargin +3  |  9000  |    3,4   |    Target   |
-|  Critmargin +4  |  20000 |    3,8   |    Target   |
-|  Critmargin +1  |  2000  |    2,3   |     AoE     |
-|  Critmargin +2  |  4000  |    3,2   |     AoE     |
-|  Critmargin +3  |  9000  |    3,6   |     AoE     |
-|  Critmargin +4  |  20000 |    4,5   |     AoE     |
-|   Bonus Round   | 100000 |     5    |    Target   |
-|   Bonus Round   | 140000 |     6    |     AoE     |
-|   Attribute +1  |  6000  |    2,3   |    Target   |
-|   Attribute +2  |  12000 |    3,4   |    Target   |
-|   Attribute +3  |  24000 |     4    |    Target   |
-|   Attribute +4  |  42000 |    4,8   |    Target   |
-|   Attribute -1  |  6000  |    2,3   |    Target   |
-|   Attribute -2  |  12000 |    3,4   |    Target   |
-|   Attribute -3  |  24000 |     4    |    Target   |
-|   Attribute -4  |  42000 |    4,8   |    Target   |
-| Herausforderung |  20000 |    3,5   |     Self    |
-| Herausforderung |  40000 |    3,5   | Target ally |
-|   Entspannung   |  30000 |    3,5   |     Self    |
-|   Entspannung   |  70000 |    3,5   | Target ally |
+|  Critmargin +1  |  2000  |   1,65   |   Target    |
+|  Critmargin +2  |  4000  |   2,4    |   Target    |
+|  Critmargin +3  |  9000  |   3,4    |   Target    |
+|  Critmargin +4  | 20000  |   3,8    |   Target    |
+|  Critmargin +1  |  2000  |   2,3    |     AoE     |
+|  Critmargin +2  |  4000  |   3,2    |     AoE     |
+|  Critmargin +3  |  9000  |   3,6    |     AoE     |
+|  Critmargin +4  | 20000  |   4,5    |     AoE     |
+|   Bonus Round   | 100000 |    5     |   Target    |
+|   Bonus Round   | 140000 |    6     |     AoE     |
+|  Attribute +1   |  6000  |   2,3    |   Target    |
+|  Attribute +2   | 12000  |   3,4    |   Target    |
+|  Attribute +3   | 24000  |    4     |   Target    |
+|  Attribute +4   | 42000  |   4,8    |   Target    |
+|  Attribute -1   |  6000  |   2,3    |   Target    |
+|  Attribute -2   | 12000  |   3,4    |   Target    |
+|  Attribute -3   | 24000  |    4     |   Target    |
+|  Attribute -4   | 42000  |   4,8    |   Target    |
+| Herausforderung | 20000  |   3,5    |    Self     |
+| Herausforderung | 40000  |   3,5    | Target ally |
+|   Entspannung   | 30000  |   3,5    |    Self     |
+|   Entspannung   | 70000  |   3,5    | Target ally |
 
-* Herausforderung: Ein Ziel bekommt die Aufmerksamkeit des Gegners und wird angegriffen, außer der Gegner besteht einen Instinct-Save gegen einen Threshold von 4
-* Entspannung: Ein Ziel verliert die Aufmerksamkeit des Gegners und wird nicht angegriffen, außer der Gegner besteht einen Instinct-Save gegen einen Threshold von 4
-
+-   Herausforderung: Ein Ziel bekommt die Aufmerksamkeit des Gegners und wird angegriffen, außer der Gegner besteht einen Instinct-Save gegen einen Threshold von 4
+-   Entspannung: Ein Ziel verliert die Aufmerksamkeit des Gegners und wird nicht angegriffen, außer der Gegner besteht einen Instinct-Save gegen einen Threshold von 4
 
 ## Fallen
 
-Ein jeder weis Vorbereitung ist der Schlüssel zum Erfolg und nichts unterstüzt dieses Prinzip so sehr wie eine gut gestellte Falle.
-Fallen existieren in vielen Farben und Formen doch alle haben sie eines gemeinsam der Feind der in sie tappt ist leichte Beute.
+Ein jeder weis Vorbereitung ist der Schlüssel zum Erfolg und nichts unterstüzt dieses Prinzip so sehr wie eine gut gestellte Falle. Fallen existieren in vielen Farben und Formen doch alle haben sie eines gemeinsam der Feind der in sie tappt ist leichte Beute.
 
 Fallen bieten einen großen Vorteil, jedoch nur wenn sie bis zur Auslösung vom Opfer unentdeckt bleiben. In diesem Sinne können Fallen durch einen Perception-Check entdeckt werden. Doch selbst wenn die Fallen unentdeckt bleiben sollten - sei es durch Tarnung oder schlichtes übersehen im Eifer des Gefechtes - hat das Opfer noch eine Chance einen passenden Abwehrcheck auszüben voraussgesetzt ein Initiativewurf war erfolgreich.
 
@@ -336,77 +451,90 @@ Fallen bieten einen großen Vorteil, jedoch nur wenn sie bis zur Auslösung vom 
 
 ### Typische Fallen
 
-#### Bärenfalle {-}
+#### Bärenfalle {.unnumbered}
 
 Eine typische wiederverwendbare Falle meist für Wild genutzt, zwei gezahnte Metallbacken die bei dem auslösen der Druckplatte zusammenschnappen und ein Beine ihres Opfers einfangen. Dadurch entsteht nicht nur Schaden am Bein, sondern schränkt die Mobilität des Opfers stark ein und erschwert es Angriffe abzuwehren.
 
-|            Merkmal           |                                                                      Ausprägung                                                                     |
-|:----------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------:|
-|           zum Bauen          |                                                           Metall, muss geschmiedet werden                                                           |
-|           Interrupt          |                                                                          Ja                                                                         |
-|            Schaden           | Chance auf Verstümmelung des Beins nach Rüstungsklassen:<br>keine Rüstung(80%), leichte Rüstung(60%)<br>mittlere Rüstung(30%), schwere Rüstung(5%)  |
-|           Befreiung          |                                                                 single + main action                                                                |
-| Disatvantage<br>in der Falle |                                                                    Disatvantage 3                                                                   |
-|        Besonderheiten        |                                              Immobilität, Placement im Kampf (main action wenn zu Hand)                                             |
-|         Entschärfung         |                                                                     main Action                                                                     |
++------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------+
+| Merkmal                      | Ausprägung                                                                                                                                         |
++:============================:+:==================================================================================================================================================:+
+| zum Bauen                    | Metall, muss geschmiedet werden                                                                                                                    |
++------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------+
+| Interrupt                    | Ja                                                                                                                                                 |
++------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------+
+| Schaden                      | Chance auf Verstümmelung des Beins nach Rüstungsklassen:<br>keine Rüstung(80%), leichte Rüstung(60%)<br>mittlere Rüstung(30%), schwere Rüstung(5%) |
++------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------+
+| Befreiung                    | single + main action                                                                                                                               |
++------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------+
+| Disatvantage<br>in der Falle | Disatvantage 3                                                                                                                                     |
++------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------+
+| Besonderheiten               | Immobilität, Placement im Kampf (main action wenn zu Hand)                                                                                         |
++------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------+
+| Entschärfung                 | main Action                                                                                                                                        |
++------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------+
 
-#### Schlingenfalle {-}
+#### Schlingenfalle {.unnumbered}
 
 Eine hinterhältige Falle die wenig Material jedoch viel Zeit zum Aufbau benötigt. Beim Auslösen wird das Opfer nach oben in die Höhe gezogen und baumelt so frei herum. Je schwerer die Rüstung desto schwerer ist es sich aufgrund der geringeren Mobilität zu befreien. Zum Aufbau der Schlingfalle muss man bei einer Handwerk oder Survivalprobe einen Threshold von drei erreichen.
 
-|             Merkmal             |                        Ausprägung                       |
+|             Merkmal             |                       Ausprägung                        |
 |:-------------------------------:|:-------------------------------------------------------:|
 | Material benötigt<br> zum Bauen |                   Seil + Gegengewicht                   |
-|            Interrupt            |                            Ja                           |
-|             Schaden             |                           Nein                          |
+|            Interrupt            |                           Ja                            |
+|             Schaden             |                          Nein                           |
 |            Befreiung            | Main Action <br>Wurf gegen gewichtsabhängigen Threshold |
-|   Disatvantage<br>in der Falle  |                      Disatvantage 4                     |
-|          Besonderheiten         |                       Immobilität                       |
-|           Entschärfung          |                       Main Action                       |
+|  Disatvantage<br>in der Falle   |                     Disatvantage 4                      |
+|         Besonderheiten          |                       Immobilität                       |
+|          Entschärfung           |                       Main Action                       |
 
 Der Check für die Befreiung wird mit Acrobatics geworfen. Zur Einordnung gelten hierbei die <font color="green">[Belastungsstufen](#Belastungsstufe)</font>
 
-Die Thresholds sind: 
+Die Thresholds sind:
 
-* Bei leichter Belastung: 2
+-   Bei leichter Belastung: 2
 
-* Bei mittlerer Belastung: 3
+-   Bei mittlerer Belastung: 3
 
-* Bei schwerer Belastung: 5
+-   Bei schwerer Belastung: 5
 
-* Bei Fremdbefreiung: Main Action der anderen Person (Seil durchschneiden)
+-   Bei Fremdbefreiung: Main Action der anderen Person (Seil durchschneiden)
 
-#### Stolperfalle {-}
+#### Stolperfalle {.unnumbered}
 
 Die einfachste aller Fallen, ein simples gespanntes Seil in Knöchelhöhe, sei es festgebunden oder mit Nägeln oder anderen Mitteln an zwei Punkten befestigt.
 
-|             Merkmal             |                Ausprägung               |
+|             Merkmal             |               Ausprägung                |
 |:-------------------------------:|:---------------------------------------:|
-| Material benötigt<br> zum Bauen |                   Seil                  |
-|            Interrupt            |                    Ja                   |
-|             Schaden             |                   Nein                  |
+| Material benötigt<br> zum Bauen |                  Seil                   |
+|            Interrupt            |                   Ja                    |
+|             Schaden             |                  Nein                   |
 |            Befreiung            | Unnötig, Aufstehen kostet single Action |
-|   Disatvantage<br>in der Falle  |     Disatvantage 3 bis aufgestanden     |
-|          Besonderheiten         |             Person fällt hin            |
-|           Entschärfung          |               Main Action               |
+|  Disatvantage<br>in der Falle   |     Disatvantage 3 bis aufgestanden     |
+|         Besonderheiten          |            Person fällt hin             |
+|          Entschärfung           |               Main Action               |
 
-#### Krähenfüße {-}
+#### Krähenfüße {.unnumbered}
 
 Die Falle welche am einfachsten im Kampf zu platzieren ist und die einzige die selbst nach ihrer Entdeckung noch Vorteile bietet. Dabei wird der Vorteil mit zunehmender Rüstung geringer.
 
-|             Merkmal             |                                                     Ausprägung                                                    |
-|:-------------------------------:|:-----------------------------------------------------------------------------------------------------------------:|
-| Material benötigt<br> zum Bauen |                                          Metall, muss geschmiedet werden                                          |
-|            Interrupt            |                                              nur bis mittlere Rüstung                                             |
-|             Schaden             |                                               Nein, außer man fällt                                               |
-|            Befreiung            |                                    Entfernung aus dem Fuß kostet single Action                                    |
-|   Disatvantage<br>in der Falle  |                                                Disatvantage 2 - AoE                                               |
-|          Besonderheiten         | Platzieren mit single action jederzeit möglich<br>Schwere Rüstung ignoriert Falle<br> aufsammeln mit Luck möglich |
-|           Entschärfung          |                                                        Nein                                                       |
++---------------------------------+-------------------------------------------------------------------------------------------------------------------+
+| Merkmal                         | Ausprägung                                                                                                        |
++:===============================:+:=================================================================================================================:+
+| Material benötigt<br> zum Bauen | Metall, muss geschmiedet werden                                                                                   |
++---------------------------------+-------------------------------------------------------------------------------------------------------------------+
+| Interrupt                       | nur bis mittlere Rüstung                                                                                          |
++---------------------------------+-------------------------------------------------------------------------------------------------------------------+
+| Schaden                         | Nein, außer man fällt                                                                                             |
++---------------------------------+-------------------------------------------------------------------------------------------------------------------+
+| Befreiung                       | Entfernung aus dem Fuß kostet single Action                                                                       |
++---------------------------------+-------------------------------------------------------------------------------------------------------------------+
+| Disatvantage<br>in der Falle    | Disatvantage 2 - AoE                                                                                              |
++---------------------------------+-------------------------------------------------------------------------------------------------------------------+
+| Besonderheiten                  | Platzieren mit single action jederzeit möglich<br>Schwere Rüstung ignoriert Falle<br> aufsammeln mit Luck möglich |
++---------------------------------+-------------------------------------------------------------------------------------------------------------------+
+| Entschärfung                    | Nein                                                                                                              |
++---------------------------------+-------------------------------------------------------------------------------------------------------------------+
 
-#### Alternative Fallen {-}
+#### Alternative Fallen {.unnumbered}
 
-Unter diese Kategorie fallen alle Fallen die nicht ihn "Typische Fallen" erwähnt wurden, diese sind meist Situationsabhängig und Geschichtsabhängig darum ist die Regelung auch dem DM überlassen. Beispiele dafür wären,  Rollende Kugeln oder schwingende Baumstämme.
-
-
-
+Unter diese Kategorie fallen alle Fallen die nicht ihn "Typische Fallen" erwähnt wurden, diese sind meist Situationsabhängig und Geschichtsabhängig darum ist die Regelung auch dem DM überlassen. Beispiele dafür wären, Rollende Kugeln oder schwingende Baumstämme.

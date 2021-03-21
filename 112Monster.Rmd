@@ -70,6 +70,35 @@ Speziell erwähnt werden sollten Legenden. Diese Monster sind lediglich aus alte
 
 ## Höllenbrut
 
+### Kaisot
+
+Kaisots sind rund 10  Meter hohe und mit riesigen, menschenähnlichen Armen ausgestattete Monster welche der Höllenbrut zugeordnet werden.
+Ihr Aussehen entspricht nichts was natürlich entstehen könnte. Sie besitzen drei Köpfe, 6 Arme und 2 - 4 Beine was ihnen ein gewisses Spinnenähnliches aussehen verleiht.
+Ihre Bewegungsgeschwindigkeit kann, wenn sich die drei Köpfe koordnieren mit Leichtigkeit  auch die schnellsten Pferde einholen, wodurch es im klassischen Sinne unmöglich ist vor diesen Abscheulichkeiten zu fliehen.
+Kaisote besitzen keinerlei bekannte Panzerung und sind am ganzen Körper von Fleisch umgeben, wodurch es möglich ist Kaisots mit unterschiedlichsten Taktiken zu bekämpfen, dazu mehr später.
+Die drei Köpfe der Kaistos können untereinander über eine nicht entschlüsselte Sprache kommunizieren und so auch mit anderen Kaisots sprechen. Dadurch kommt es gelegentlich vor, dass mehrere Kaistos einen koordinierten Angriff gegen Dörfer starten, sofern man 2 Berichten von Zwergen und 4 von Orks glauben schenken mag.
+
+Die Verbreitung von Kaisots beschränkt sich in den meisten Fällen auf Gebirge, mit einer besonderen Häufung dort, wo sich viele Höhlensysteme erstrecken, welche sie zu zufälligen Zeiten zum schlafen oder ausruhen aufsuchen. Es ist unbekannt was Kaisots im speziellen verzehren und Zwergengelehrte und Orkstammesoberhäupter behaupten, dass Sie alles wahllos fressen. Dazu gehören Steine, Kühe, Orks, Menschen, Zwerge, Bäume oder auch mit Eisen verstärkte Pallisadenwälle.
+Dadurch hat sich in den von Kaiserlichern besetzten Gebieten die Meinung breit gemacht, dass diese Höllenbrut Monster  nur das sind um die humanoiden Zivilisationen zu zerstören.
+
+![Darstellung des Menscherfressers von Dulukhai](Pictures\\Flavor\Monster\Kaisot.jpg) 
+
+Berichten zufolge sind westlich der Knochenfeldschlucht in den letzten Jahrhunderten mehrere dutzend Orksiedlungen durch Kaisots zerstört worden, wodurch einige Orkstämme eine tiefe Abneigung haben sich dort niederzulassen, obwohl die tieferen Täler und Flüsse eine beachtliche Nahrungsquelle darstellen würden.
+
+Kaisots können allerdings erfolgreich mit mehreren Taktiken bekäpmft werden.  Kaisots, welche vermutlich alle beinahe blind sind, sind aufgrund fehlender schützender Hautschichten empfindlich gegenüber Feuer, wodurch eine Kombination aus Moltovika und größeren Mengen Öl sich rasch als hilfreich erweist.
+Eine weitere Taktik, welche kostengünstiger aber waghalsiger ist, besteht darin Kadaver von Kühen oder Nutztieren mit Öl zu übergießen und  anzuzünden und mit äußerst agilen und leichtfüßigen Kämpfern, in der nähe der brennenden Kadaver Lärm zu machen, wodurch diese meist dort rasch mit ihren Armen hingreifen und sich so stark verbrennen.
+Diese Taktik ermöglicht es meist einen der drei Köpfe für die dauer des Kampfes davon abzuhalten Menschen zu zerquetschen.
+
+Die allgemeine Taktik, sofern man über keine Großkanonen verfügt, besteht darin mit mindestens 4 kleinen Stoßtrupps die 3 Köpfe des Kaisots zu vewirren, wodurch diese nicht mehr koordiniert handeln können, was deren Agilität stark einschränkt.
+Die 3 Köpfe können sich im Eifer des Gefechtes meist nicht hinreichend absprechen, wodurch es leichter wird diese zu Überwältigen.
+
+Eine Spezialtaktik besteht darin, äußerst äußerst gute Steinschleuderer mit Moltovika auf die Köpfe der Kaistos zielen zu lassen und so schlichtweg ihre Schädel wegzusprengen. Zwei Moltovika reichen meist, dass der letzte Kopf sich nur mehr schleifend oder gar nicht mehr fortbewegen kann, wodurch er von Fernkampfschützen bedenklos langsam getötet werden kann. Hierbei empfiehlt es sich durch die Nasenöffnung am Kopf oder den meist geöffnten Mund zu schießen um so das Gehirn der Abscheulichkeiten auszuschalten.
+
+
+Kaisots sind für adelige Kriegsveteranen ein besonders gefragtes gut, wo häufig nach Kriegen Jagd auf Kaistos ausgerufen wird. Das Kaisotherz ist eine Zutat welche für einen Trank zum Nachwachsen von Gliedmaßen benötigt wird. Der "Trank des Kaistots" ist ein extrem begehrtes Gut und eine Hand Voll Alchemisten Werben während und kurz nach Kriegszeiten explizit mit der Fähigkeit zur Herstellung von Kaisottränken, sofern das Herz mittels Staffellauf-Pferdekurier geliefert wird.
+
+
+
 ### Usukats
 
 Usukats sind vermutlich die schlimmste Plage an Abescheulichkeiten welche Eldria seit den letzten 300 Jahren quälen.
@@ -314,6 +343,11 @@ Laut Lauthaus leben die Gravi als Einzelgänger, bis sie ihr Paarungsgebot an ei
 Geschlechtlicher Dimorphismus konnte bei Gravi nicht beobachtet werden und es ist fraglich ob es überhaupt Geschlechter gibt, da über ihre Fortpflanzung so gut wie nichts bekannt ist. 
 
 Gravis-Habitate wurden vor allem in Wäldern mit nahen Flüssen und hoher Feuchtigkeit gefunden.
+
+### Schratgärtner
+
+Bewacht und Plflanzt schrat, ist wichtig für Trank.
+
 
 ## Bestien
 

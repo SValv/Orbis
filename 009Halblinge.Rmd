@@ -12,22 +12,22 @@ Die Halbinge von Orbis Astea sind ein eigentümliches Volk, das südlich des Her
 
 ## Die Geschichte der Rasse
 
-Aufgrund der Tatsache, dass Halblinge dazu neigen, im Moment zu leben und insgesamt nicht allzu lang auf der Welt verweilen, ist nur sehr wenig über ihre Geschichte bekannt. Erst nachdem die Menschen, um 130 nach der Schlacht von Riga, zum ersten Mal in Kontakt kamen, wurden systematische Aufzeichnungen angefertigt. 
+Aufgrund der Tatsache, dass Halblinge dazu neigen im Moment zu leben und insgesamt nicht allzu lang auf der Welt verweilen, ist nur sehr wenig über ihre Geschichte bekannt. Erst nachdem die Menschen, um 130 nach der Schlacht von Riga, zum ersten Mal mit ihnen in Kontakt kamen, wurden systematische Aufzeichnungen über sie und ihre Kultur angefertigt. 
 Die einzigen Informationen vor dieser Zeit sind Gerüchte oder Geschichten, die mündlich von Halbling zu Halbling weitergegeben wurden. Wie immer bei Märchen ist es auch hier schwierig, verlässliche Informationen von erfundenen zu trennen. Eine Geschichte, die zumindest von vielen Ältesten Yondallas erzählt wird, ist die Geschichte, wie einige kleine Gruppen von Halblingen versuchten, die Gebiete nördlich von ihnen zu erkunden. Diese wurden jedoch nie wieder gesehen und diejenigen, die es zurückgeschafft haben, erzählten, wie ihre Brüder von den Orks als leckere Zwischenmahlzeit verspeist wurden. Diese Geschichten werden noch heute von Eltern als Schauermärchen an ihre Kinder weitergegeben, besonders, wenn sie sich nicht angemessen verhalten. 
 
-Die Landwirtschaft war schon immer ein großer Teil der Kultur der Halblinge, was sich - als der Kontakt mit dem Kaiserreich begann - für alle Seiten als sehr vorteilhaft herausgestellte. Da sich das Volk der Halblinge primär auf die Landwirtschaft konzentriert und anderen Bereichen, wie Schmiedekunst und Handwerk, weniger Bedeutung beimisst, kam es in der Vergangenheit weniger zu großartigen Innovationen, da ihnen schlichtweg die Mittel dazu fehlten. Hinzukommt, dass die Halblinge stets auf schnellen Erfolg abzielen, weshalb es nicht in ihrer Natur liegt langfristige Projekte zu beginnen, die einen technologischen Fortschritt hätten begünstigen können. 
+Die Landwirtschaft war schon immer ein großer Teil der Kultur der Halblinge, was sich - als der Kontakt mit dem Kaiserreich begann - für alle Beteiligten als sehr vorteilhaft herausgestellte. Da sich das Volk der Halblinge primär auf die Landwirtschaft konzentriert und anderen Bereichen, wie Schmiedekunst und Handwerk, weniger Bedeutung beimisst, kam es in der Vergangenheit weniger zu großartigen Innovationen, da ihnen schlichtweg die Mittel dazu fehlten. Hinzukommt, dass die Halblinge stets auf schnellen Erfolg abzielen, weshalb es nicht in ihrer Natur liegt langfristige Projekte zu beginnen, die einen technologischen Fortschritt hätten begünstigen können. 
 Mit Hilfe der Zusammenarbeit mit dem Kaiserreich wurden die Halblinge mit vielen neuen Technologien bekannt gemacht, die zu einer deutlich effizienteren Ernte führten. Daraus resultierend wurde eine neue Ära für Yondalla eingeleitet, welche auch als die Ära der Landwirtschaft beschrieben wird. 
 In dieser Zeit vereinte <font color="green">[Endeldra](#Endeldra)</font> die Dörfer Yondallas und setzte sich dafür ein, dass viele Ideen und Strukturen des Kaiserreichs eingeführt werden. Somit kam es zu einer Ausweitung der Felder und Dörfer. Darüber hinaus wurde auch die Hauptstadt Endeldor gegründet. 
 
 ![Ein Gemälder der Region Yondallas, wie es in den Häusern der kaiserlichen Adligen zu finden ist](Pictures/Flavor/Halblinge/FruchtvolleFelder.jpg)
 
-Alles schien für sich die Halblinge optimal zu entwickeln und es breitete sich eine große Erleichterung innerhalb Yondallas aus. Aufgrund der neu gewonnenen wirtschaftlichen Stärke wurden manche Halblinge dazu motiviert ihr Dorf zu verlassen und ihre Fähigkeiten als Landwirt weiter im inneren des Herzlandes anzubieten. 
+Für die Halblinge schien sich alles optimal zu entwickeln, weshalb sich eine große Erleichterung innerhalb Yondallas ausbreitete. Aufgrund der neu gewonnenen wirtschaftlichen Stärke wurden manche Halblinge dazu motiviert ihr Dorf zu verlassen und ihre Fähigkeiten als Landwirt weiter im inneren des Herzlandes anzubieten. 
 
 ![Ein Halbling macht sich auf die Reise ins Herzland](Pictures/Flavor/Halblinge/HalblingReisender.jpg)
 
-Diese Idylle sollte den Halblingen jedoch nicht allzu lange vergönnt sein, da sich die Armeen Eldrias dazu entschlossen in Yondalla einzufallen. Ziel dieser Angriffe war es, die Nahrungsmittelexporte an das Kaiserreich zu unterbinden. 
+Diese Idylle sollte den Halblingen jedoch nicht allzu lange vergönnt sein, da sich die Armeen Eldrias dazu entschlossen in Yondalla einzufallen. Ziel dieser Angriffe war es die Nahrungsmittelexporte an das Kaiserreich zu unterbinden. 
 Dieser Krieg, welcher zwischen dem Kaiserreich und Eldria ausgetragen wurde, hielt für lange Zeit an und sorgte dafür, dass der Ertrag Yondallas zunehmend vermindert wurde. 
-Auch, wenn den Halbligen selbst kaum Einbußen durch die Angriffe entstanden, schmerzte sie der Gedanke sehr ihrem neuen Verbündeten nicht zur Seite stehen zu können, da ihre militärischen Fähigkeiten lediglich zum Jagen wirklich ausreichten. 
+Auch, wenn den Halbligen selbst kaum Einbußen durch die Angriffe entstanden, schmerzte sie der Gedanke sehr, ihrem neuen Verbündeten nicht zur Seite stehen zu können, da ihre militärischen Fähigkeiten lediglich zum Jagen wirklich ausreichten. 
 
 ![Ein Versuch der Halblinge sich gegen die eldrischen Eindringlinge zu schützen](Pictures/Flavor/Halblinge/HalblingKriegEldria.jpg)
 
@@ -37,14 +37,14 @@ Dennoch wurden einige Dörfer Yondallas von den Folgen des Krieges getroffen, da
 
 Die Halblinge waren für die Zusammenarbeit mit dem Kaiserreich äußerst dankbar, da ihnen viele Neuerungen gebracht wurden. Diese Dankbarkeit drückte das Volk nicht nur durch Tauschgüter aus. Auch die Integration der kaiserlichen Gepflogenheiten in den eigenen Alltag war ein Zeichen der Anerkennung. 
 Aus diesem Grund fingen die Halblinge an den kaiserlichen Allgott anzubeten und vernachlässigten somit ihren Gott der Fruchtbarkeit. Diese Anpassung missfiel vielen Halblingen, da sie weiterhin für ihre Fruchtbarkeit danken und beten wollten. 
-Dieser Wunsch rührt daher, da Halblinge aufgrund ihrer vergleichsweise kurzen Lebenserwartung viele Kinder bekamen, sodass die Felder anständig bestellt werden konnten und die Familien über ausreichend Güter verfügten, um große Feste feiern zu können. 
+Dieser Wunsch rührt daher, dass Halblinge aufgrund ihrer, vergleichsweise, kurzen Lebenserwartung viele Kinder bekamen, sodass die Felder anständig bestellt werden konnten und die Familien über ausreichend Güter verfügten, um große Feste feiern zu können. 
 Im Verlauf der Zeit blieben jedoch zunehmend die Erträge aus und viele Felder begannen brach zu liegen.
 
 ![Gemälde: Die große Dürre von Berengar Roper](Pictures/Flavor/Halblinge/BrachliegendesFeld.jpg)
 
 Dieser Umstand überraschte die Halblinge sehr, da es bisher nie dazu kam, dass so viele Felder auf einmal nicht mehr bewirtschaftet werden konnten. 
 In einer kurzen Zusammenkunft beschlossen der Vertreter des Kaiserreichs, sowie die Ältesten der Dörfer Yondallas vorübergehend auf die Technologien der Halblinge zurückzugreifen, da angenommen wurde, dass es sich hierbei lediglich um eine Folge der neuen Technologien handele. Es schien naheliegend zu sein, dass sich im Umgang mit den neuen Technologien allgemein verschiedene Anpassungen in der Landwirtschaft ergeben müssten, dass der Prozess optimal verlaufen könnte. 
-Die erhofften Anpassungen blieben jedoch aus, sodass mehr und mehr skeptische Stimmen der Halblinge laut wurden, welche anmerkten, dass dies mit dem Verbot zusammenhängt ihren Gott der Fruchtbarkeit, Celedor, nicht anzubeten. 
+Die erhofften Anpassungen blieben jedoch aus, sodass mehr und mehr skeptische Stimmen der Halblinge laut wurden, welche anmerkten, dass dies mit dem Verbot zusammenhängt ihren Gott der Fruchtbarkeit, Celedor, anzubeten. 
 
 ## Die Gesellschaft der Rasse
 
@@ -52,10 +52,10 @@ Halblinge sind bekannt für ihre Liebe zu Konsumgütern, wie ausgefallenen Getr�
 
 Die Bewohner Yondallas neigen dazu, sich in kleinen Dörfern niederzulassen, da ihre entspannte Art dazu führt, dass große Industriebetriebe eine sehr ungewöhnliche Sache sind. Es wurde jedoch eine Großstadt gegründet. Endeldor - auch "Herz von Yondalla" genannt - verführt mit seinen großen Gewürzplantagen und Festen an jeder Ecke. Endeldor ist auch der einzige Ort in Yondalla, in dem Handel mit anderen Rassen im großen Stil durchgeführt wird.
 
-In den kleineren Dörfern von Yondalla ist es üblich, dass das Volk einen Vertreter wählt. Dieser wird "Ältester" genannt und ist für die Kommunikation und den Handel zwischen seinem Dorf und anderen Dörfern bzw. der Hauptstadt Endeldor zuständig. Außerdem koordiniert er eine kleine Bürgerwehr zur Verteidigung und deren kooperation mit den Kaiserlichen Truppen.
+In den kleineren Dörfern von Yondalla ist es üblich, dass das Volk einen Vertreter wählt. Dieser wird "Ältester" genannt und ist für die Kommunikation und den Handel zwischen seinem Dorf und anderen Dörfern, bzw. der Hauptstadt Endeldor, zuständig. Außerdem koordiniert er eine kleine Bürgerwehr zur Verteidigung und deren Kooperation mit den kaiserlichen Truppen.
 
 
-Obwohl es in der Natur der Hablinge liegt, charismatische Züge und im Allgemeinen ein fröhliches Wesen zu zeigen, ist dies nicht bei allen in Yondalla der Fall. Manche Halblinge es auf sich genommen haben, das Land von Orbis Astea zu erkunden oder ihr Land vor Monstern und anderen bösen Kreaturen zu schützen. Diese Halblinge sind unter ihren Brüdern als "Griesgrämige" bekannt, da sich ihre Prioritäten von der sorglosen Standard-Kultur deutlich unterscheiden.
+Obwohl es in der Natur der Hablinge liegt, charismatische Züge und im Allgemeinen ein fröhliches Wesen zu zeigen, ist dies nicht bei allen in Yondalla der Fall. Manche Halblinge haben es auf sich genommen, das Land von Orbis Astea zu erkunden oder ihr Land vor Monstern und anderen bösen Kreaturen zu schützen. Diese Halblinge sind unter ihren Brüdern als "Griesgrämige" bekannt, da sich ihre Prioritäten von der sorglosen Standard-Kultur deutlich unterscheiden.
 
 ![Darstellung griesgrämiger Halblinge](Pictures/Flavor/Halblinge/Hafling3.png)
 
