@@ -275,6 +275,7 @@ Gaar
 tunis-der-verderber-der-innovation
 die-ausbreitung-großer-kulte
 der-heilige-des-kriegs
+die-lehre-von-zamrak
 die-vorreiter
 das-ende-der-vorreiterkriege
 monster-und-andere-abscheulichkeiten

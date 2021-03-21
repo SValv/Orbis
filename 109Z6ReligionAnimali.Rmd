@@ -1,8 +1,4 @@
----
-editor_options: 
-  markdown: 
-    wrap: sentence
----
+# Die Lehre von Zamrak
 
 In der Frühzeit der Menschen verursachten Monster und Abscheulichkeiten allerortens Chaos und verwüsteten die Länder der menschlichen Rassen.
 Dies hatte zur Folge, dass die Menschen Orbis Asteas zunehmend verzweifelten und auf Erlösung durch ihre Gebete hofften.
