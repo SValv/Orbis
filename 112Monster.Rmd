@@ -39,6 +39,7 @@ Grob einteilen lassen sich Monster schwer. Zu unterschiedlichst sind die Bestraf
 Die Welt der Monster und Abscheulichkeiten lässt sich dennoch in grobe Kategorien einteilen, wobei diese nicht immer Trennscharf sind.
 
 Grob umfassend gibt es:
+
 - Höllenbrut/ Allgott verlassene - meist grob menschlicher Gestalt, zeichnen sich dadurch aus dass diese nur Menschenartige Wesen angreifen und gegenüber ihrer eigenen Art keinerlei Aggressionen zeigen.
 
 - Würmer  - wie der name sagt, lang, rund, schlechtes Temperament, häufig blind.
@@ -60,7 +61,7 @@ Knochenschädler besitzen vermutlich eine Intelligenz welche im Hintergrund koor
 
 - Schleimer - Gebunden an Feuchtgebiete, wie Sümpfe, Flussauen und den dauerfeuchten Wäldern von Silva Nacia ist diese Gruppe durch eine häufig schleimige, teils mit Säure gefüllten Blasen ausgestattet. Die Körperform ist für gewöhnlich stark variabel.
 
--Nebelhainii  - Die sonderbaren Monster des Nebelhains werden in der Kategorie Nebelhainii zusammengefasst. Prinzipiell sind diese Abscheulichkeiten nur in den inneren Bereichen des Nebelhains anzutreffen und stellen neben den Knochenschädlern und den Abgrundbewohnern der Meere die unbekannste Gruppe dar.  Wie die Knochenschädler ist davon auszugehen, dass die Nebelhainii von einer kollektiven Intelligenz gesteuert sind oder über ein kollektives Bewusstsein verfügen.  Erschwert wird die Bestimmung und Kategorisierung durch die Tatsache, dass die Berichte aus dem Nebelhain vielfach durch die Maladria, der Ursache für ide geistige Verwirrung im Nebelhain, verzerrt sind.
+- Nebelhainii  - Die sonderbaren Monster des Nebelhains werden in der Kategorie Nebelhainii zusammengefasst. Prinzipiell sind diese Abscheulichkeiten nur in den inneren Bereichen des Nebelhains anzutreffen und stellen neben den Knochenschädlern und den Abgrundbewohnern der Meere die unbekannste Gruppe dar.  Wie die Knochenschädler ist davon auszugehen, dass die Nebelhainii von einer kollektiven Intelligenz gesteuert sind oder über ein kollektives Bewusstsein verfügen.  Erschwert wird die Bestimmung und Kategorisierung durch die Tatsache, dass die Berichte aus dem Nebelhain vielfach durch die Maladria, der Ursache für ide geistige Verwirrung im Nebelhain, verzerrt sind.
 
 - Vampiridae - abgesehen von dem Hass gegenüber Schöllkraut eint alle Vampirdae das Trinken von Blutes. Blut wird hierbei von einer Vielzahl warmblütiger höherer Tiere getrunken. Weiters ist bei allen Vampiridae, dass  die Krallen, Klauen und Zähne fähig sind Blut aufzunehmen, durch Muskeln welche die innen hohlen Klauen als Pumpen verwenden können. Dadurch können sich Vampiridae auch im Kampf schnell wieder regenieren. Zu den bekanntesten Vampiridae zählen Katakane und bilden das mittlere Spektrum in Gefährlichkeit der Vampiridae ab. 
 
