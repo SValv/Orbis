@@ -252,7 +252,8 @@ glaubenssätze-2
 gebote-und-verbote-2
 wichtige-orte-2
 riten-2
-totenkult-12
+salbung
+ZeremonieDerBefreiung
 symbolik-2
 der-blutkult
 der-ruf-des-blutes

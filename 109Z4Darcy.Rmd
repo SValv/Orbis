@@ -1,27 +1,51 @@
 # Die Lehre des Lichts von Darcy
 
+Die Kirche von Darcy - auch oft die Kirche des Lichts genannt - ist gerade im nördlichen und mittleren Eldria die einflussreichste Religion. Dabei hängt die Kirche von Darcy und das Fürstentum Darcy untrennbar zusammen und beide entitäten werden auch vom "Advokaten des Lichts" geführt. 
+
+Die Kirche von Darcy ist allerdings mehr als nur eine Kirche, Darcy ist ein Machtapparat und sowohl wegen der Herstellung von Riddinöl und dessen Distribution, als auch von der diplomatischen Macht die der Einfluss über gläubige und ausubildende Adelige gibt ein nicht zu unterschätzender Faktor im eldrischen Flickenteppich
+
 ## Organisation {#KircheDarcy}
 
+Die Kirche von Darcy ist hierarchisch organisiert. Im gegensatz zur klassischen eldrischen Gesellschaft muss man allerdings nicht zum Adel gehören um in Darcy aufsteigen zu können. Jede Eldrische Region hat diverse Kirchen und deren Vorsteher - die Priester und einen Hohepriester, die höchste Position die man in der Kirche in Darcy erreichen kann.
+
+Jede in Darcy ausgebildete Person kann - wenn eine Empfehlung seiner Lehrer vorliegt - ein Assistariat bei einer Kirche beginnen - also dem Priester bei Zeremonien, Salbungen und anderen religiösen Festen helfen. Nach mehreren Jahren des Assistariats kann er - wenn der Priester und der örtliche Hohepriester dies zulassen - selbst zum Priester werden. 
+Nach mindestens 10 Jahren im Priesterdienst kann ein Priester zum Hohepriester aufsteigen. Dazu muss der momentan amtierende Hohepriester allerdings sterben oder abtreten. Der neue Hohepriester wird dann von allen Priestern in der Region gewählt und dem Rat der Hohepriester vorgeschlagen, von denen jeder ein Vetorecht hat.  
+Die Hohepriester beraten sich in einem Gremium Namens "Rat der Hohepriester", dem der sogenannte Advokat des Lichts vorsitzt.
+
+Da es für adelige Familien aller größeren Fürstentümer relativ normal ist zumindest ein Kind in Darcy ausbilden zu lassen - meist den Zweitgeborenen - finden sich auch einige Adelige unter den Priestern wieder. Und obwohl eigentlich jeder - auch bürgerliche - Hohepriester werden kann, sind Adelige in diesen Positionen überrepräsentiert. Dies liegt zum einen daran dass auch hier Bestechung, weltliche Macht und Bekanntschaften eine hohe Rolle spielen zum anderen daran dass viele Menschen in Eldria den Adel einfach für "von Natur aus erhabener" halten. 
+
 ### Oberhaupt
+
+Wenn man mindestens 10 weitere Jahre als Hohepriester der Kirche dient kann man vom Rat der Hohepriester zum "Advokaten des Lichts" gewählt werden. Die Amtszeit des Advokaten sind 10 Jahre, wobei der Hohepriester zusätzlich den Titel des Advokaten bekommt und die Führung über das Fürstentum und die Kirche Darcys übernimmt - meistens wird allerdings der Hohepriester von Darcy selbst zum Advokaten gewählt. Ein Hohepriester darf beliebig oft zum Advokaten gewählt werden. 
+
 
 ## Geschichte
 
 ## Glaubenssätze
 
-Die Lehre Darcys spricht von einem individuellen Ordal, der jeden Menschen sein ganzes Leben lang begleitet. Dieser Ordal entscheidet über das Glück oder unglück das einem Menschen im Leben widerfährt. Ein Priester weist bei einer Taufe dem Menschen einen Ordal zu - wer ohne Ordal stirbt wird wiedergeboren. 
-
-* Salbung 
+Laut der Lehre der Kirche von Darcy besteht der Mensch aus einer fleischlichen Hülle und der Seele - dem eigentlichen Sitz der Existenz. Die ewige Seele ist die Persönlichkeit des Menschen, während der vergängliche Körper Träger von Erinnerungen und Lernerfahrungen ist.
+Im Glauben von Darcy ist die irdische Existenz mit der Hölle gleichzusetzen. Durch gute Taten, die im Einklang mit der Religion und den moralischen Werten stehen gibt es die Möglichkeit das immaterielle Nachleben - das Paradies - zu erreichen. Die Alternative dazu stellt die Wiedergeburt auf der irdischen Welt dar - also das wiedererleben der Hölle.
+In der Theorie kann jeder Mensch so oft wiedergeboren werden bis er dem Paradies würdig ist, allerdings hat nach dem Ableben die <font color="green">[Zeremonie der Befreiung](#ZeremonieDerBefreiung)</font> - also das Pendant zum Begräbnis - zu erfolgen. Erfolgt diese nicht und der Mensch wird zum Erwachten, ist die Seele des Menschen für immer in der Hölle gefangen und kann niemals das Paradies erreichen. Sie kann nur noch zerstört werden indem der Erwachte getötet wird - ein Akt der als traurige Gnade gesehen wird. Durch die Befreiung kann die Seele dem Körper nach dem Tod entweichen und dies Verhindert die Erweckung der Leiche - da die Seele nicht mehr im Körper ist. Stattdessen kann die Seele mit einem neuen Körper geboren werden oder ins Paradies entweichen - sollte ihr Ordal sie für würdig erachten.
+Die Lehre Darcys spricht von einem individuellen Ordal, der jeden Menschen sein ganzes Leben lang begleitet. Dieser Ordal entscheidet über das Glück oder Unglück, welches einem Menschen im Leben widerfährt. Ein Priester Darcys weist diesen Ordal bei einer Zeremonie, die "Salbung" genannt wird, dem gesalbten Menschen zu - wer ohne einen zugewiesenen Ordal stirbt wird wiedergeboren. 
 
 ## Gebote und Verbote
+
+> "Wenn ihr brav und ehrenhaft seid, nicht lügt und selbstlos für andere Gläubige da seid, den Glauben verbreitet, die Messe besucht und keine bösen Wörter sagt, wird euer Ordal euch immer gewogen sein und Glück wird euch Folgen
+>
+> --- Auszug aus einer Predigt für Kinder
 
 ## Wichtige Orte
 
 ## Riten
 
-### Totenkult 
+In der Kirche von Darcy gibt es ordentliche und außerordentliche Riten. Zu den ordentlichen gehören vor allem die Messen und Predigten der Priester, die außerordentlichen Riten sind die Salbung und die Befreiung.
 
-Der Totenkult 
+### Salbung
 
-* Salbung erlöst einen voin der Hölle = unsere Welt. Allerdings nur wenn man gesalbt werden kann - kopf am Körper. Dafür verwendet man das heilige Öl - Riddinöl welches von der Kirche in Darcy hergestellt wird
+
+
+### Befreiung {#ZeremonieDerBefreiung}
+
+Die Befreiung bezeichnet das Pendant zum Begräbnis im Kaiserreich oder der letzten Reise im Rah' Kas. Mithilfe dieses Rituals wird die Erweckung verhindert 
 
 ## Symbolik
