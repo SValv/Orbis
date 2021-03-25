@@ -2,7 +2,7 @@
 
 Die Kirche von Darcy - auch oft die Kirche des Lichts genannt - ist gerade im nördlichen und mittleren Eldria die einflussreichste Religion. Dabei hängt die Kirche von Darcy und das Fürstentum Darcy untrennbar zusammen und beide entitäten werden auch vom "Advokaten des Lichts" geführt. 
 
-Die Kirche von Darcy ist allerdings mehr als nur eine Kirche, Darcy ist ein Machtapparat und sowohl wegen der Herstellung von Riddinöl und dessen Distribution, als auch von der diplomatischen Macht die der Einfluss über gläubige und ausubildende Adelige gibt ein nicht zu unterschätzender Faktor im eldrischen Flickenteppich
+Die Kirche von Darcy ist allerdings mehr als nur eine Kirche, Darcy ist ein Machtapparat und sowohl wegen der Herstellung von Riddinöl und dessen Distribution, als auch von der diplomatischen Macht die der Einfluss über gläubige und auszubildende Adelige gibt ein nicht zu unterschätzender Faktor im eldrischen Flickenteppich
 
 ## Organisation {#KircheDarcy}
 
@@ -21,10 +21,16 @@ Wenn man mindestens 10 weitere Jahre als Hohepriester der Kirche dient kann man 
 
 ## Geschichte
 
+Die Kirche von Darcy ist eine relativ junge Religion, die durch den erleuchteten Lord James Wilton von Darcy, der die Kirche in der Form wie sie heute existiert im Jahre 12 vor Riga gegründet und eingeführt hatte. Der Legende nach erschien Lord Wilton sein Ordal und erklärte ihm den Weg des Lichts - woraufhin Lord Wilton sein ganzes Leben und die Ressourcen seines Fürstentums einsetzte, um die Kirche von Darcy zu gründen und vorranzubringen. Damals war das Fürstentum und die Kirche allerdings noch zwei getrennte Entitäten und der Advokat des Lichts nicht die gleiche Person wie der Fürst von Darcy.
+
+Die Lehre der Kirche verbreiteten sich schnell in Eldria und alsbald wurde die Kirche von Darcy durch den Handel mit Riddinöl und der Gründung der Schule von Darcy zu einer diplomatisch mächtigen Fraktion. Allerdings gab es schnell streit zwischen dem Apparat der Kirche, die weiterhin Ressourcen vom Fürstentum forderten und dem Enkel von Lord Wilton - Henry Wilton, dem damals amtierenden Fürsten von Darcy, der die Frömmigkeit seines Großvaters nicht teilte. 
+Nach mehreren Jahren des Streits zwischen der Kirche von Darcy und dem Fürstentum von Darcy kam es zur sogenannten Lichtstrafe. Nachdem ein weiteres mal ein Streit zwischen dem Advokaten des Lichts und dem Fürst von Darcy ob der Hinrichtung eines Gefangenen eskalierte lies der junge Lord Wilton die Würdenträger der Kirche Festnehmen und dem Fürstentum Darcy verweisen. 
+Allerdings hatte der junge Lord Wilton nicht mit der mittlerweile vorhandenen Macht der Kirche gerechnet. Der Advokat des Lichts schaffte es schnell, die Fürstentümer Austen, Calvert, Hasting und Aerlham hinter sich zu vereinen und gen Darcy zu ziehen. Obwohl Gent Truppen zur Unterstützung sendete, wurde Darcy schnell von der Allianz der Fürstentümer überrannt. Der junge Lord Wilton wurde zum Tode verurteilt und das Fürstentum Darcy wurde der Kirche übergeben, welche von da an den Status des Fürsten mit dem des Advokaten des Lichts verschmelzte.
+
 ## Glaubenssätze
 
 Laut der Lehre der Kirche von Darcy besteht der Mensch aus einer fleischlichen Hülle und der Seele - dem eigentlichen Sitz der Existenz. Die ewige Seele ist die Persönlichkeit des Menschen, während der vergängliche Körper Träger von Erinnerungen und Lernerfahrungen ist.
-Im Glauben von Darcy ist die irdische Existenz mit der Hölle gleichzusetzen. Durch gute Taten, die im Einklang mit der Religion und den moralischen Werten stehen gibt es die Möglichkeit das immaterielle Nachleben - das Paradies - zu erreichen. Die Alternative dazu stellt die Wiedergeburt auf der irdischen Welt dar - also das wiedererleben der Hölle.
+Im Glauben von Darcy ist die irdische Existenz mit der Hölle gleichzusetzen. Durch gute Taten, die im Einklang mit der Religion und den moralischen Werten stehen gibt es die Möglichkeit das immaterielle Nachleben - das Paradies, welches die Lichtwelt genannt wird - zu erreichen. Die Alternative dazu stellt die Wiedergeburt auf der irdischen Welt dar - also das wiedererleben der Hölle.
 In der Theorie kann jeder Mensch so oft wiedergeboren werden bis er dem Paradies würdig ist, allerdings hat nach dem Ableben die <font color="green">[Zeremonie der Befreiung](#ZeremonieDerBefreiung)</font> - also das Pendant zum Begräbnis - zu erfolgen. Erfolgt diese nicht und der Mensch wird zum Erwachten, ist die Seele des Menschen für immer in der Hölle gefangen und kann niemals das Paradies erreichen. Sie kann nur noch zerstört werden indem der Erwachte getötet wird - ein Akt der als traurige Gnade gesehen wird. Durch die Befreiung kann die Seele dem Körper nach dem Tod entweichen und dies Verhindert die Erweckung der Leiche - da die Seele nicht mehr im Körper ist. Stattdessen kann die Seele mit einem neuen Körper geboren werden oder ins Paradies entweichen - sollte ihr Ordal sie für würdig erachten.
 Die Lehre Darcys spricht von einem individuellen Ordal, der jeden Menschen sein ganzes Leben lang begleitet. Dieser Ordal entscheidet über das Glück oder Unglück, welches einem Menschen im Leben widerfährt. Ein Priester Darcys weist diesen Ordal bei einer Zeremonie, die "Salbung" genannt wird, dem gesalbten Menschen zu - wer ohne einen zugewiesenen Ordal stirbt wird wiedergeboren. 
 
@@ -42,10 +48,25 @@ In der Kirche von Darcy gibt es ordentliche und außerordentliche Riten. Zu den 
 
 ### Salbung
 
+Der Ritus der Salbung ist der zweitwichtigste in der Religion von Darcy, da hier einem Gläubigen sein Ordal  wird, der ab diesem Zeitpunkt über einen wacht und richtet. 
 
+Sie muss von einem Priester von Darcy durchgeführt werden. Er wird üblicherweise kurz nach der Geburt einer Person durchgeführt, kann allerdings bei jedem Durchgeführt werden und stellt den Beitritt zur Kirche von Darcy dar. 
+
+Bei der Salbung wird mit Kohle das Lichtsymbol auf die Stirn des Gesalbten gezeichnet, welches dann mit Riddinöl weggespült wurde. Dadurch ist die Salbung durchgeführt und die Person gehört somit zur Kirche von Darcy und hat einen Ordal zugewiesen bekommen. Damit hat die Person die Chance, die Lichtwelt zu erreichen.
 
 ### Befreiung {#ZeremonieDerBefreiung}
 
-Die Befreiung bezeichnet das Pendant zum Begräbnis im Kaiserreich oder der letzten Reise im Rah' Kas. Mithilfe dieses Rituals wird die Erweckung verhindert 
+Die Befreiung bezeichnet das Pendant zum Begräbnis im Kaiserreich oder der letzten Reise im Rah' Kas. Mithilfe dieses Rituals wird die Erweckung verhindert, indem die Seele freigesetzt wird und wiedergeboren werden kann. Die Befreiung ist das mit Abstand wichtigste Ritual in der Lehre von Darcy - da sie dafür sorgt, dass die Seele nicht auf der irdischen Welt festhängt. 
+Bei der Befreiung wird geweihtes Riddinöl in Form des Lichtsymbols auf die Stirn des Toten aufgetragen, dabei wird sein Ordal gebeten gerecht über ihn zu richten. 
+
+Im Gegenzug zur Salbung kann jeder mit Riddinöl und der Zitation des richtigen Gebetes die Befreiung durchführen, dazu braucht es keinen Priester des Lichts von Darcy. 
+
+> "Ich rufe dich, unbekannter Ordal, richte gerecht und leite diese Seele in die Lichtwelt oder zurück zum irdischen Sein"
+>
+> --- das Gebet der Befreiung
+
+Der Ritus der Befreiung ist die einzige Möglichkeit in die Lichtwelt zu kommen, wenn jemand nach den Riten anderer Götter bestattet wurde - und somit nicht als Erwachter ersteht - wird er laut der Lehre Darcys normal wiedergeboren und hat keine Chance in die Lichtwelt zu kommen.
 
 ## Symbolik
+
+Das Hauptsymbol - und auch das einzig relevante Symbol - der Kirche von Darcy ist das Sogenannte Lichtsymbol, das auch das Wappen des Fürstentums Darcy ziert. Das Symbol zeichnet Kirchen, Gläubige und Pilger aus und viele tragen es als Kette um den Hals.

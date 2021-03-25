@@ -8,18 +8,15 @@ Diese kleinen und irgendwie hässlichen Wesen, sind weder robust noch stark, noc
 >
 > --- Die letzten Gedanken von Brago Tachus, Abenteuerer
 
-
 ## Die Geschichte der Rasse
 
-Die Geschichtsschreibung der Goblins ist leider - bis auf ein paar Sagen und Legenden - nonexistent. Allerdings gäbe es auch nicht allzu viel zu erzählen. Da Goblins meistens in Stammesverbänden von höchstens einigen tausend Individuen leben, sind weder große Städte, noch große Bauwerke oder andere geschichtswürdige Werke von ihnen erschaffen wurden. 
+Die Geschichtsschreibung der Goblins ist leider - bis auf ein paar Sagen und Legenden - nonexistent. Allerdings gäbe es auch nicht allzu viel zu erzählen. Da Goblins meistens in Stammesverbänden von höchstens einigen tausend Individuen leben, sind weder große Städte, noch große Bauwerke oder andere geschichtswürdige Werke von ihnen erschaffen worden.
 
-Die größte Tat der Goblins - und eine, die von Goblins nur allzu gerne erzählt wird - ist die Geschichte von MaHuk Korvax, dem wahrscheinlich erfolgreichsten MaHuk in der Geschichte von Orbis Astea. 
-Durch seinen überlegenen Intellekt schaffte er es viele Goblinstämme unter sich zu einen und führte sie auf der Suche nach der bestmöglichen Interpretation 
+Die größte Tat der Goblins - und eine, die von Goblins nur allzu gerne erzählt wird - ist die Geschichte von MaHuk Korvax, dem wahrscheinlich erfolgreichsten MaHuk in der Geschichte von Orbis Astea. Durch seinen überlegenen Intellekt schaffte er es viele Goblinstämme unter sich zu einen und führte sie auf der Suche nach der bestmöglichen Interpretation
 
+Kreuzzug Rauchbomben
 
 ## Die Gesellschaft der Rasse
-
-
 
 ### Die Völkerbeziehungen der Rasse
 
@@ -27,11 +24,56 @@ Goblins sind in allen Landen zu finden, es gibt nirgends ein Loch, dass sie nich
 
 ![Völkeraustausch](Pictures/Flavor/Goblins/goblinueberfall.jpg)
 
+Brutmutter, grobschlächtig beharrte, dickliche,
+
+Festung in Yondalla
+
+Körperteile / glieder (finger, zehen, ohren) opfer für den brutkessel um die gene weiterzugeben, ehrenzeichen(nur die schlausten, talentieresten, usw...) (teilweise gefaked von reisenden)
+
+2 Mal im Jahr Brutzeit, in der die Brutmutter den Brutkessel produziert und abgibt, sehr verwundbar, besonders gegenüber dem unsichtbaren feind. So sind einige Stämme nicht abgeneigt Hilfe von anderen Völkern in anspruch zu nehmen um die Brut zuschützen.
+
+nach 4-5 jahren ausgewachsen und Reif, gesamtlebensdauer zwischen 35 und 50 Jahren.
+
+5 Stämme nach Farben, diese färben flammen durch die zugabe von material ein, sowohl direkt in die flamme als auch durch verarreichung der substanzen an sterbende. diese Flammenbrennen auch auf verschiedenen Temperaturen was den Goblins ermöglicht makierungen und identifizierungen von anderen Stämmen zu erkennen.
+
+-   [Selen](https://de.wikipedia.org/wiki/Selen "Selen"), blau
+
+-   [Indium](https://de.wikipedia.org/wiki/Indium "Indium"), tiefblauviolett
+
+-   [Kalium](https://de.wikipedia.org/wiki/Kalium "Kalium") und seine Salze färben die Flamme violett (768 und 404 nm).
+
+```{=html}
+<!-- -->
+```
+-   [Lithium](https://de.wikipedia.org/wiki/Lithium) und seine Salze färben die Flamme rot (671 nm).
+
+-   [Natrium](https://de.wikipedia.org/wiki/Natrium "Natrium") und seine Salze färben die Flamme gelb (589 nm).
+
+-   
+
+-   [Rubidium](https://de.wikipedia.org/wiki/Rubidium "Rubidium") und seine Salze färben die Flamme rot (780 und 421 nm).
+
+-   [Caesium](https://de.wikipedia.org/wiki/Caesium "Caesium") und seine Salze färben die Flamme blauviolett (458 nm).
+
+-   [Calcium](https://de.wikipedia.org/wiki/Calcium "Calcium") und seine Salze färben die Flamme orange-rot (622 und 553 nm).
+
+-   [Strontium](https://de.wikipedia.org/wiki/Strontium "Strontium") und seine Salze färben die Flamme rot (675 und 606 nm).
+
+-   [Europium](https://de.wikipedia.org/wiki/Europium "Europium"), rot
+
+-   [Radium](https://de.wikipedia.org/wiki/Radium "Radium"), karminrot
+
+-   [Thallium](https://de.wikipedia.org/wiki/Thallium "Thallium"), grün
+
+-   [Barium](https://de.wikipedia.org/wiki/Barium "Barium") und seine Salze färben die Flamme grün (524 und 514 nm).
+
+Schamanen: Fähigkeiten, der Tote arm (ein halb abgestorbener arm der durch nur sehr spärliche versorgung die körperflüssigkeit bereits brennbar macht jedoch die funktionsfähigkeit eines armes komplett aufgibt. Zeichen ihres Glaubens und verbundenheit zum Feuer schon zu lebzeiten anders als ihre Artgenossen bereits flammenproduzieren zu können.
+
+zusätzlich flammenreserven von toten.
+
 ## Die Religion der Rasse
 
 Am Anfang war Gob und Gob war die Finsternis, die einen jeden Umgab, kalter toter Stein und warme lebende Beute doch eines hielt sich nicht an diese Regel, eines war kalt wie Stein und doch am Leben. Dieses eine oder dieses viele folgte wohin man auch ging, es folgte immer dem Tod, Tod durch Jagd oder Tod eines Freundes. Und so folgte auf Tod mehr Tod. So lernte man der Tod mochte es nicht einsam zu sein. Die Zeit verstrich und stets folgte auf Tod der Tod, bis zu jenem Tag an dem Freund Jegovha Stein auf Stein schlug und auf Tod nicht Tod folgte nur Licht und tanzende Schatten. Jegovha jedoch sah eines und erkannte die Wahrheit diese Gesandten des Schöpfers kamen, um sie zu strafen, unterhielt man Gob mit den tanzenden Schatten so forderte er kein weiteres Leben.
-
-
 
 ### Totenkult
 
@@ -41,15 +83,12 @@ Am Anfang war Gob und Gob war die Finsternis, die einen jeden Umgab, kalter tote
 
 ![Ein Abendessen des Stammes](Pictures/Flavor/Goblins/Goblinlagerfeuer.jpg)
 
-
 ## Die Legenden der Rasse
 
 ## Die Eigenbegriffe der Rasse
 
 ## Stammesstruktur
 
-Über jeden Stamm verfügt ein Stammesführer und jeder Stammführer verfügt über einen Stammesschamanen, dieses Zweiergespann leitet den Stamm.
-Als Stammesführer wird jener Goblin auserwählt, der dem Stamm durch eine Idee weiter bringt, daher ist es nahezu amüsant von außen mitanzusehen, wie eine dumme Idee die andere zu übertrumpfen versucht.
-Bei den Schamanen verhält es sich anders. Diese Rolle wird weitervererbt und bildet somit das solideste bestehende Glied in der Hierachie. Der Einfluss eines Schamanen ist nicht zu gering zu schätzen, so ist er nicht nur das Sprachrohr ihres Gottes Gob, sondern ist an Kampfkraft auch nicht zu unterschätzen, denn die brennbaren Flüssigkeiten, die bei den Totenritualen eingesetzt werden, weiß er auch im Kampf zu nutzen.
+Über jeden Stamm verfügt ein Stammesführer und jeder Stammführer verfügt über einen Stammesschamanen, dieses Zweiergespann leitet den Stamm. Als Stammesführer wird jener Goblin auserwählt, der dem Stamm durch eine Idee weiter bringt, daher ist es nahezu amüsant von außen mitanzusehen, wie eine dumme Idee die andere zu übertrumpfen versucht. Bei den Schamanen verhält es sich anders. Diese Rolle wird weitervererbt und bildet somit das solideste bestehende Glied in der Hierachie. Der Einfluss eines Schamanen ist nicht zu gering zu schätzen, so ist er nicht nur das Sprachrohr ihres Gottes Gob, sondern ist an Kampfkraft auch nicht zu unterschätzen, denn die brennbaren Flüssigkeiten, die bei den Totenritualen eingesetzt werden, weiß er auch im Kampf zu nutzen.
 
 ![Ein Schamane des Gob](Pictures/Flavor/Goblins/Gobschamane.jpg)
