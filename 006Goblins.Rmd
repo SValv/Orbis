@@ -24,15 +24,23 @@ Goblins sind in allen Landen zu finden, es gibt nirgends ein Loch, dass sie nich
 
 ![Völkeraustausch](Pictures/Flavor/Goblins/goblinueberfall.jpg)
 
+## Fortpflanzung
+
 Brutmutter, grobschlächtig beharrte, dickliche,
 
-Festung in Yondalla
+wenige in anzahl, ein stamm ohne kann nicht wachsen, werden besser geschützt als der Häuptling, denn ein Hauptling kann ersetzt werden eine Brutmutter kaum.
 
 Körperteile / glieder (finger, zehen, ohren) opfer für den brutkessel um die gene weiterzugeben, ehrenzeichen(nur die schlausten, talentieresten, usw...) (teilweise gefaked von reisenden)
 
 2 Mal im Jahr Brutzeit, in der die Brutmutter den Brutkessel produziert und abgibt, sehr verwundbar, besonders gegenüber dem unsichtbaren feind. So sind einige Stämme nicht abgeneigt Hilfe von anderen Völkern in anspruch zu nehmen um die Brut zuschützen.
 
 nach 4-5 jahren ausgewachsen und Reif, gesamtlebensdauer zwischen 35 und 50 Jahren.
+
+## Misc.
+
+Rauchbomben Schlachten
+
+Festung in Yondalla
 
 5 Stämme nach Farben, diese färben flammen durch die zugabe von material ein, sowohl direkt in die flamme als auch durch verarreichung der substanzen an sterbende. diese Flammenbrennen auch auf verschiedenen Temperaturen was den Goblins ermöglicht makierungen und identifizierungen von anderen Stämmen zu erkennen.
 
@@ -42,14 +50,9 @@ nach 4-5 jahren ausgewachsen und Reif, gesamtlebensdauer zwischen 35 und 50 Jahr
 
 -   [Kalium](https://de.wikipedia.org/wiki/Kalium "Kalium") und seine Salze färben die Flamme violett (768 und 404 nm).
 
-```{=html}
-<!-- -->
-```
 -   [Lithium](https://de.wikipedia.org/wiki/Lithium) und seine Salze färben die Flamme rot (671 nm).
 
 -   [Natrium](https://de.wikipedia.org/wiki/Natrium "Natrium") und seine Salze färben die Flamme gelb (589 nm).
-
--   
 
 -   [Rubidium](https://de.wikipedia.org/wiki/Rubidium "Rubidium") und seine Salze färben die Flamme rot (780 und 421 nm).
 

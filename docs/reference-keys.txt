@@ -41,6 +41,8 @@ goblins
 die-geschichte-der-rasse-1
 die-gesellschaft-der-rasse-1
 die-völkerbeziehungen-der-rasse-1
+fortpflanzung
+misc.
 die-religion-der-rasse-1
 totenkult-1
 die-legenden-der-rasse-1
