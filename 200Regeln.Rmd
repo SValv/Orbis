@@ -35,12 +35,12 @@ In diesem Fall nimmt man den Durchschnitt der Attribute und rundet auf die näch
 ### Die einfache Probe
 
 Die einfache Probe ist zu Würfeln, wenn es keinen direkten Gegenspieler gibt.
-Sie ist meistens mit einem Threshold in Value[^1] oder Damage verknüpft, den der DM beliebig festlegt.
+Sie ist meistens mit einem Threshold in Value[^regeln-1] oder Damage verknüpft, den der DM beliebig festlegt.
 Sollte man bspw.
 versuchen ein Schloss zu knacken, wird der DM festlegen, dass der Value über 3 sein soll, um das zu erreichen.
 Bei härteren/leichteren schlössern ist der Value natürlich anzupassen.
 
-[^1]: Value ist eine Form von Gütekriterium eines Wurfes - je höher der Value, desto besser der Wurf.
+[^regeln-1]: Value ist eine Form von Gütekriterium eines Wurfes - je höher der Value, desto besser der Wurf.
 
 Welche Werte hierbei welcher Größenordnung entsprechen findet sich <font color="green">[hier](#Abstufungen)</font>.
 
@@ -65,6 +65,7 @@ Folgende Proben werden anders geworfen:
 -   Angriff: Armed/Unarmed/Ranged/throwing gegen Dodge/Block
 -   Einschüchtern: Intimidation gegen Insight mit Instinct als Attribut
 -   Taschendiebstahl: Taschendiebstahl gegen Perception
+-   Performance: Performance gegen Perception
 
 ### Der Save
 
@@ -423,14 +424,21 @@ Stats und Arten der Artillerie:
 |  Katapult  |   600   |    350m    | 300 kg  |     4     | verboten |     200      |
 | Trebouchet |  2900   |    350m    | 600 kg  |    4,7    | verboten |     600      |
 
-| Artillerie | Minimale Besatzung | Maximale Besatzung | Negiert Deckung | Größe  |                                     Zusatz                                     |
-|:----------:|:------------------:|:------------------:|:---------------:|:------:|:------------------------------------------------------------------------------:|
-|  Skorpion  |         1          |         2          |       --        | Klein  | Aufbau im Kampf: 3 Runden wenn nur 1 Mann Besatzung: Nachladen als Main Action |
-|  Balliste  |         2          |         3          |     Tier 1      | Mittel |            Nachladen 1 Runde minimum, 2 Runden, wenn Besatzung \<2             |
-| Handkanone |         1          |         1          |     Tier 1      | Klein  |                               Nachladen 1 Runde                                |
-| Großkanone |         2          |         3          |     Tier 2      |  Groß  |            Nachladen 1 Runde minimum, 2 Runden, wenn Besatzung \<3             |
-|  Katapult  |         2          |         3          |     Tier 1      | Mittel |    Nachladen 1 Runde minimum, 2 Runden, wenn Besatzung \<3, Area Damage 2m     |
-| Trebouchet |         4          |         8          |     Tier 2      |  Groß  |    Nachladen 1 Runde minimum, 2 Runden, wenn Besatzung \<6 , Area Damage 8m    |
++------------+--------------------+--------------------+-----------------+--------+--------------------------------------------------------------------------------+
+| Artillerie | Minimale Besatzung | Maximale Besatzung | Negiert Deckung | Größe  | Zusatz                                                                         |
++:==========:+:==================:+:==================:+:===============:+:======:+:==============================================================================:+
+| Skorpion   | 1                  | 2                  | --              | Klein  | Aufbau im Kampf: 3 Runden wenn nur 1 Mann Besatzung: Nachladen als Main Action |
++------------+--------------------+--------------------+-----------------+--------+--------------------------------------------------------------------------------+
+| Balliste   | 2                  | 3                  | Tier 1          | Mittel | Nachladen 1 Runde minimum, 2 Runden, wenn Besatzung \<2                        |
++------------+--------------------+--------------------+-----------------+--------+--------------------------------------------------------------------------------+
+| Handkanone | 1                  | 1                  | Tier 1          | Klein  | Nachladen 1 Runde                                                              |
++------------+--------------------+--------------------+-----------------+--------+--------------------------------------------------------------------------------+
+| Großkanone | 2                  | 3                  | Tier 2          | Groß   | Nachladen 1 Runde minimum, 2 Runden, wenn Besatzung \<3                        |
++------------+--------------------+--------------------+-----------------+--------+--------------------------------------------------------------------------------+
+| Katapult   | 2                  | 3                  | Tier 1          | Mittel | Nachladen 1 Runde minimum, 2 Runden, wenn Besatzung \<3, Area Damage 2m        |
++------------+--------------------+--------------------+-----------------+--------+--------------------------------------------------------------------------------+
+| Trebouchet | 4                  | 8                  | Tier 2          | Groß   | Nachladen 1 Runde minimum, 2 Runden, wenn Besatzung \<6 , Area Damage 8m       |
++------------+--------------------+--------------------+-----------------+--------+--------------------------------------------------------------------------------+
 
 ### Die Schadensverrechnung
 
@@ -586,13 +594,19 @@ kann man eine Eisenwaffe die einen Damage ohne Verbesserung von 30 hat bis zum W
 
 Thresholds und Kosten der Aktion Verbessern:
 
++------------+--------------+-----------+-----------------+---------------+----------------+
 | Verbessern | Standartwert | Threshold | Kosten Material | Höchster Wert | Kosten Schmied |
-|:----------:|:------------:|:---------:|:---------------:|:-------------:|:--------------:|
-|  Stufe 1   |      30      |    2,4    |      1500       |      +14      |      6000      |
-|  Stufe 2   |      42      |    3,3    |      6750       |      +8       |     27000      |
-|  Stufe 3   |      48      |     4     |      27000      |      +6       |     108000     |
-|  Stufe 4   |      53      |     5     |      90000      |      +4       |     360000     |
-|  Stufe 5   |      --      |     6     |       --        |      --       |       --       |
++:==========:+:============:+:=========:+:===============:+:=============:+:==============:+
+| Stufe 1    | 30           | 2,4       | 1500            | +14           | 6000           |
++------------+--------------+-----------+-----------------+---------------+----------------+
+| Stufe 2    | 42           | 3,3       | 6750            | +8            | 27000          |
++------------+--------------+-----------+-----------------+---------------+----------------+
+| Stufe 3    | 48           | 4         | 27000           | +6            | 108000         |
++------------+--------------+-----------+-----------------+---------------+----------------+
+| Stufe 4    | 53           | 5         | 90000           | +4            | 360000         |
++------------+--------------+-----------+-----------------+---------------+----------------+
+| Stufe 5    | --           | 6         | --              | --            | --             |
++------------+--------------+-----------+-----------------+---------------+----------------+
 
 ### Modifizieren {#modifizieren}
 
@@ -620,7 +634,7 @@ Diese Aktivitäten werden in zwei Kategorien unterteilt, Hauptaktvitäten die ef
 
 Jeder Charakter kann je eine Haupt und eine Nebenaktivität pro Downtime ausüben, ausgeschlossen sind dabei Gespräche mit anderen Charakteren und Organisatorische Aktionen diese sind unbegrenzt möglich.
 
-\#\#\#Hauptaktivitäten umfassen:
+### Hauptaktivitäten umfassen:
 
 *Das sammeln von Pflanzen (Dies wird am Anfang der Session über das Tool gewürfelt)*
 
@@ -642,14 +656,14 @@ Wettkämpfe =\> Faustkämpfe, Armdrücken
 
 Würfelspiel =\> Einsatzabhängig Maximal Verlust Einsatz, Maximal Gewinn 2-fach
 
-\#\#\#Nebenaktiväten umfassen:
+### Nebenaktiväten umfassen:
 
 -   Einkaufen gehen und besorgungen erledigen
 -   Brauen von Tränken
 -   Handwerks aktionen =\> Schmieden, Basteln
 -   Besuch von Tavernen und anderen Etablissments
 
-\#\#\#Andere Aktvitäten: \* Sich mit Kontakten und Npcs austauschen
+### Andere Aktvitäten: \* Sich mit Kontakten und Npcs austauschen
 
 Durch das verwenden von Skills in der Downtime gibt es (bei einem Skill) eine 5% Chance auf Verbesserung des relevanten Skills um 1.
 Bei mehreren Skills muss der Player einen auswählen.

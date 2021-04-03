@@ -1,10 +1,17 @@
+---
+editor_options: 
+  markdown: 
+    wrap: sentence
+---
+
 # Monster und andere Abscheulichkeiten
 
 Monstrositäten und Ungeheuer sind für manche Städter bloß Seemannsgarn oder gar den geistigen Absonderlichkeiten so mancher Trinker entsprungen.
 Nichts desto trotz gehören Monstrositäten und Ungeheuer - zum Leidwesen aller damit in Kontakt getretenen - zu der Realität in welche uns auch der Allgott gesetzt hat.
 
 Insofern soll diese Abhandlung eine möglichst vollständige Liste der Monster sein welche sich in der bekannten Welt aufhalten.
-Bestätigen können wir über etliche Abscheulichkeiten dieser Welt nicht alles. Die kleineren Übel wie Katakane, weibsgroßes Spinnengetier oder Werwölfe sind vielen bekannt, da so manche Monster Jäger schon Häute, Köpfe odr gar ganze Tiere ausgestellt haben.
+Bestätigen können wir über etliche Abscheulichkeiten dieser Welt nicht alles.
+Die kleineren Übel wie Katakane, weibsgroßes Spinnengetier oder Werwölfe sind vielen bekannt, da so manche Monster Jäger schon Häute, Köpfe odr gar ganze Tiere ausgestellt haben.
 
 Das mit der 21 Auflage versehe Buch inkludiert nun den definitiven Nachweis eines Usukats, wie auch den Nachweis eines Katakans und eines Werwolfs im Nordwesten von Nors.
 
@@ -16,7 +23,7 @@ Insofern eröffne ich mit den Worten von dem Sammler und Forscher welcher den mi
 
 > "Monstrositäten sind die Strafe des Allgotts. Nur wer Sie studiert, versteht die Strafe des Allgotts dahinter. Inosfern studieret das Getier dieser Welt, auf dass ihr dem Allgott dadurch näher seien könnt!"
 >
-> ---  Fisitius Lotharin
+> --- Fisitius Lotharin
 
 ## Einleitung
 
@@ -31,175 +38,226 @@ So wurden rund 430 Soldaten durch Znitins (riesige, überraschend intelligente J
 
 Auch für Holzfäller ist dieses Wissens unentbehrlich, da Sie häufig in Gebiete vordringen welche für diese Monster Rückzugsorte bieten.
 
-Explizit sei erwähnt, dass das Himmelsgebirge und die Graue Ödnis sehr schlecht erforscht sind. Das Wisssen über die dort lebenden Abscheulichkeiten beläuft sich primär auf Aussagen von einzelnen überlebenden Zwergen so wie auf Orkstämme welche regelmäßig in Gebirgen aus religiösen Gründen jagen.
+Explizit sei erwähnt, dass das Himmelsgebirge und die Graue Ödnis sehr schlecht erforscht sind.
+Das Wisssen über die dort lebenden Abscheulichkeiten beläuft sich primär auf Aussagen von einzelnen überlebenden Zwergen so wie auf Orkstämme welche regelmäßig in Gebirgen aus religiösen Gründen jagen.
 
-Grob einteilen lassen sich Monster schwer. Zu unterschiedlichst sind die Bestrafungen des Allgotts in ihren Fähigkeiten, Stärken und Schwächen.
-
+Grob einteilen lassen sich Monster schwer.
+Zu unterschiedlichst sind die Bestrafungen des Allgotts in ihren Fähigkeiten, Stärken und Schwächen.
 
 Die Welt der Monster und Abscheulichkeiten lässt sich dennoch in grobe Kategorien einteilen, wobei diese nicht immer Trennscharf sind.
 
 Grob umfassend gibt es:
 
-- Höllenbrut/ Allgott verlassene - meist grob menschlicher Gestalt, zeichnen sich dadurch aus dass diese nur Menschenartige Wesen angreifen und gegenüber ihrer eigenen Art keinerlei Aggressionen zeigen.
+-   Höllenbrut/ Allgott verlassene - meist grob menschlicher Gestalt, zeichnen sich dadurch aus dass diese nur Menschenartige Wesen angreifen und gegenüber ihrer eigenen Art keinerlei Aggressionen zeigen.
 
-- Würmer  - wie der name sagt, lang, rund, schlechtes Temperament, häufig blind.
+-   Würmer - wie der name sagt, lang, rund, schlechtes Temperament, häufig blind.
 
-- Piscari - die Ungeheuer in den Flüssen, Seen und Meeren welche fischähnlich wirken
+-   Piscari - die Ungeheuer in den Flüssen, Seen und Meeren welche fischähnlich wirken
 
-- Abgrundbewohner - was die Tiefen der Meere an Abscheulichkeiten gebärt. Über diese Gruppe ist äußerst wenig bekannt.
+-   Abgrundbewohner - was die Tiefen der Meere an Abscheulichkeiten gebärt.
+    Über diese Gruppe ist äußerst wenig bekannt.
 
-- Echsenartige - Drachen Lindwürmer, Panzerechsen. Zeichnen sich dadurch aus dass diese Jagd explizit auf andere Monster machen. Sind meist von höherer Intelligenz und haben beinahe alle Feuerfeste Haut welche mit Knochenschuppen übersäht ist.
+-   Echsenartige - Drachen Lindwürmer, Panzerechsen.
+    Zeichnen sich dadurch aus dass diese Jagd explizit auf andere Monster machen.
+    Sind meist von höherer Intelligenz und haben beinahe alle Feuerfeste Haut welche mit Knochenschuppen übersäht ist.
 
-- Foedukulus - die als Hässliche Menschen übersetzte Gruppe umfasst Humanoide meist in größerer Statur als Mensch. Sind immer zweibeinig, meist neutral gegenüber Menschen wenn man deren Grenzen respektiert. Nutzen Waffen, schmeißen Felsbrocken und sind unter Umständen in sozialen Gruppen unterwegs.
+-   Foedukulus - die als Hässliche Menschen übersetzte Gruppe umfasst Humanoide meist in größerer Statur als Mensch.
+    Sind immer zweibeinig, meist neutral gegenüber Menschen wenn man deren Grenzen respektiert.
+    Nutzen Waffen, schmeißen Felsbrocken und sind unter Umständen in sozialen Gruppen unterwegs.
 
-- Bestien - Werwölfe, Bleirücken und sonstiges welche man als Teile der gegebenen natürlichen Ordnung sehen kann. Die Fleischfressenden Varianten Jagen alles, die vegetarischen Arten stellen meist ein landwirtschaftliches Problem dar.
+-   Bestien - Werwölfe, Bleirücken und sonstiges welche man als Teile der gegebenen natürlichen Ordnung sehen kann.
+    Die Fleischfressenden Varianten Jagen alles, die vegetarischen Arten stellen meist ein landwirtschaftliches Problem dar.
 
-- Vielbeiner - Monster welche mehr als 4 Beine haben zählen, überraschender weise, zu den Vielbeinern. Dazu zählen die unterschiedlichen Varianten der Skorpione, Spinnen und Rieseninsekten.  Sie zeichnen sich im allgemeinen dadurch aus, dass  die Gefährlichkeit für bewaffmete Menschen gegeben ist und meist harte Äußere Panzer als Haut tragen welche Sie gegenüber einfachen Schwertern und Bögen meist unverletzbar.
+-   Vielbeiner - Monster welche mehr als 4 Beine haben zählen, überraschender weise, zu den Vielbeinern.
+    Dazu zählen die unterschiedlichen Varianten der Skorpione, Spinnen und Rieseninsekten.
+    Sie zeichnen sich im allgemeinen dadurch aus, dass die Gefährlichkeit für bewaffmete Menschen gegeben ist und meist harte Äußere Panzer als Haut tragen welche Sie gegenüber einfachen Schwertern und Bögen meist unverletzbar.
 
-- Knochenschädler - trotz ihrer relativen Seltenheit zählen Knochenschädler als eigene Monsterkategorie. Ihre Körperform, Anzahl und Form der Extremittäten, größe, Widerständigkeit sind hochvariabel. lediglich einheitlich ist das der Kopf eine knochartigen Platte ist- ähnlich einer Schädelform. Dort befinden sich weder Münder noch sichtbare Augen.  Um den an anderen Positionen gelegenen Mündern entspringen meist mehrere Tentakel.
-Knochenschädler besitzen vermutlich eine Intelligenz welche im Hintergrund koordiniert.
+-   Knochenschädler - trotz ihrer relativen Seltenheit zählen Knochenschädler als eigene Monsterkategorie.
+    Ihre Körperform, Anzahl und Form der Extremittäten, größe, Widerständigkeit sind hochvariabel.
+    lediglich einheitlich ist das der Kopf eine knochartigen Platte ist- ähnlich einer Schädelform.
+    Dort befinden sich weder Münder noch sichtbare Augen.
+    Um den an anderen Positionen gelegenen Mündern entspringen meist mehrere Tentakel.
+    Knochenschädler besitzen vermutlich eine Intelligenz welche im Hintergrund koordiniert.
 
-- Schleimer - Gebunden an Feuchtgebiete, wie Sümpfe, Flussauen und den dauerfeuchten Wäldern von Silva Nacia ist diese Gruppe durch eine häufig schleimige, teils mit Säure gefüllten Blasen ausgestattet. Die Körperform ist für gewöhnlich stark variabel.
+-   Schleimer - Gebunden an Feuchtgebiete, wie Sümpfe, Flussauen und den dauerfeuchten Wäldern von Silva Nacia ist diese Gruppe durch eine häufig schleimige, teils mit Säure gefüllten Blasen ausgestattet.
+    Die Körperform ist für gewöhnlich stark variabel.
 
-- Nebelhainii  - Die sonderbaren Monster des Nebelhains werden in der Kategorie Nebelhainii zusammengefasst. Prinzipiell sind diese Abscheulichkeiten nur in den inneren Bereichen des Nebelhains anzutreffen und stellen neben den Knochenschädlern und den Abgrundbewohnern der Meere die unbekannste Gruppe dar.  Wie die Knochenschädler ist davon auszugehen, dass die Nebelhainii von einer kollektiven Intelligenz gesteuert sind oder über ein kollektives Bewusstsein verfügen.  Erschwert wird die Bestimmung und Kategorisierung durch die Tatsache, dass die Berichte aus dem Nebelhain vielfach durch die Maladria, der Ursache für ide geistige Verwirrung im Nebelhain, verzerrt sind.
+-   Nebelhainii - Die sonderbaren Monster des Nebelhains werden in der Kategorie Nebelhainii zusammengefasst.
+    Prinzipiell sind diese Abscheulichkeiten nur in den inneren Bereichen des Nebelhains anzutreffen und stellen neben den Knochenschädlern und den Abgrundbewohnern der Meere die unbekannste Gruppe dar.
+    Wie die Knochenschädler ist davon auszugehen, dass die Nebelhainii von einer kollektiven Intelligenz gesteuert sind oder über ein kollektives Bewusstsein verfügen.
+    Erschwert wird die Bestimmung und Kategorisierung durch die Tatsache, dass die Berichte aus dem Nebelhain vielfach durch die Maladria, der Ursache für ide geistige Verwirrung im Nebelhain, verzerrt sind.
 
-- Vampiridae - abgesehen von dem Hass gegenüber Schöllkraut eint alle Vampirdae das Trinken von Blutes. Blut wird hierbei von einer Vielzahl warmblütiger höherer Tiere getrunken. Weiters ist bei allen Vampiridae, dass  die Krallen, Klauen und Zähne fähig sind Blut aufzunehmen, durch Muskeln welche die innen hohlen Klauen als Pumpen verwenden können. Dadurch können sich Vampiridae auch im Kampf schnell wieder regenieren. Zu den bekanntesten Vampiridae zählen Katakane und bilden das mittlere Spektrum in Gefährlichkeit der Vampiridae ab. 
+-   Vampiridae - abgesehen von dem Hass gegenüber Schöllkraut eint alle Vampirdae das Trinken von Blutes.
+    Blut wird hierbei von einer Vielzahl warmblütiger höherer Tiere getrunken.
+    Weiters ist bei allen Vampiridae, dass die Krallen, Klauen und Zähne fähig sind Blut aufzunehmen, durch Muskeln welche die innen hohlen Klauen als Pumpen verwenden können.
+    Dadurch können sich Vampiridae auch im Kampf schnell wieder regenieren.
+    Zu den bekanntesten Vampiridae zählen Katakane und bilden das mittlere Spektrum in Gefährlichkeit der Vampiridae ab.
 
-
-Speziell erwähnt werden sollten Legenden. Diese Monster sind lediglich aus alten Überlieferungen von Orks, Zwerge oder Elfen belegt. Seit der Erstauflage dieses Werkes vor über dreizehn Jahrzehnten konnte von diesen Legenden kein Nachweis erbracht werden.
-
+Speziell erwähnt werden sollten Legenden.
+Diese Monster sind lediglich aus alten Überlieferungen von Orks, Zwerge oder Elfen belegt.
+Seit der Erstauflage dieses Werkes vor über dreizehn Jahrzehnten konnte von diesen Legenden kein Nachweis erbracht werden.
 
 ## Höllenbrut
 
 ### Kaisot
 
-Kaisots sind rund 10  Meter hohe und mit riesigen, menschenähnlichen Armen ausgestattete Monster welche der Höllenbrut zugeordnet werden.
-Ihr Aussehen entspricht nichts was natürlich entstehen könnte. Sie besitzen drei Köpfe, 6 Arme und 2 - 4 Beine was ihnen ein gewisses Spinnenähnliches aussehen verleiht.
-Ihre Bewegungsgeschwindigkeit kann, wenn sich die drei Köpfe koordnieren mit Leichtigkeit  auch die schnellsten Pferde einholen, wodurch es im klassischen Sinne unmöglich ist vor diesen Abscheulichkeiten zu fliehen.
+Kaisots sind rund 10 Meter hohe und mit riesigen, menschenähnlichen Armen ausgestattete Monster welche der Höllenbrut zugeordnet werden.
+Ihr Aussehen entspricht nichts was natürlich entstehen könnte.
+Sie besitzen drei Köpfe, 6 Arme und 2 - 4 Beine was ihnen ein gewisses Spinnenähnliches aussehen verleiht.
+Ihre Bewegungsgeschwindigkeit kann, wenn sich die drei Köpfe koordnieren mit Leichtigkeit auch die schnellsten Pferde einholen, wodurch es im klassischen Sinne unmöglich ist vor diesen Abscheulichkeiten zu fliehen.
 Kaisote besitzen keinerlei bekannte Panzerung und sind am ganzen Körper von Fleisch umgeben, wodurch es möglich ist Kaisots mit unterschiedlichsten Taktiken zu bekämpfen, dazu mehr später.
-Die drei Köpfe der Kaistos können untereinander über eine nicht entschlüsselte Sprache kommunizieren und so auch mit anderen Kaisots sprechen. Dadurch kommt es gelegentlich vor, dass mehrere Kaistos einen koordinierten Angriff gegen Dörfer starten, sofern man 2 Berichten von Zwergen und 4 von Orks glauben schenken mag.
+Die drei Köpfe der Kaistos können untereinander über eine nicht entschlüsselte Sprache kommunizieren und so auch mit anderen Kaisots sprechen.
+Dadurch kommt es gelegentlich vor, dass mehrere Kaistos einen koordinierten Angriff gegen Dörfer starten, sofern man 2 Berichten von Zwergen und 4 von Orks glauben schenken mag.
 
-Die Verbreitung von Kaisots beschränkt sich in den meisten Fällen auf Gebirge, mit einer besonderen Häufung dort, wo sich viele Höhlensysteme erstrecken, welche sie zu zufälligen Zeiten zum schlafen oder ausruhen aufsuchen. Es ist unbekannt was Kaisots im speziellen verzehren und Zwergengelehrte und Orkstammesoberhäupter behaupten, dass Sie alles wahllos fressen. Dazu gehören Steine, Kühe, Orks, Menschen, Zwerge, Bäume oder auch mit Eisen verstärkte Pallisadenwälle.
-Dadurch hat sich in den von Kaiserlichern besetzten Gebieten die Meinung breit gemacht, dass diese Höllenbrut Monster  nur das sind um die humanoiden Zivilisationen zu zerstören.
+Die Verbreitung von Kaisots beschränkt sich in den meisten Fällen auf Gebirge, mit einer besonderen Häufung dort, wo sich viele Höhlensysteme erstrecken, welche sie zu zufälligen Zeiten zum schlafen oder ausruhen aufsuchen.
+Es ist unbekannt was Kaisots im speziellen verzehren und Zwergengelehrte und Orkstammesoberhäupter behaupten, dass Sie alles wahllos fressen.
+Dazu gehören Steine, Kühe, Orks, Menschen, Zwerge, Bäume oder auch mit Eisen verstärkte Pallisadenwälle.
+Dadurch hat sich in den von Kaiserlichern besetzten Gebieten die Meinung breit gemacht, dass diese Höllenbrut Monster nur das sind um die humanoiden Zivilisationen zu zerstören.
 
-![Darstellung des Menscherfressers von Dulukhai](Pictures\\Flavor\Monster\Kaisot.jpg) 
+![Darstellung des Menscherfressers von Dulukhai](Pictures%5CFlavor%5CMonster%5CKaisot.jpg)
 
 Berichten zufolge sind westlich der Knochenfeldschlucht in den letzten Jahrhunderten mehrere dutzend Orksiedlungen durch Kaisots zerstört worden, wodurch einige Orkstämme eine tiefe Abneigung haben sich dort niederzulassen, obwohl die tieferen Täler und Flüsse eine beachtliche Nahrungsquelle darstellen würden.
 
-Kaisots können allerdings erfolgreich mit mehreren Taktiken bekäpmft werden.  Kaisots, welche vermutlich alle beinahe blind sind, sind aufgrund fehlender schützender Hautschichten empfindlich gegenüber Feuer, wodurch eine Kombination aus Moltovika und größeren Mengen Öl sich rasch als hilfreich erweist.
-Eine weitere Taktik, welche kostengünstiger aber waghalsiger ist, besteht darin Kadaver von Kühen oder Nutztieren mit Öl zu übergießen und  anzuzünden und mit äußerst agilen und leichtfüßigen Kämpfern, in der nähe der brennenden Kadaver Lärm zu machen, wodurch diese meist dort rasch mit ihren Armen hingreifen und sich so stark verbrennen.
+Kaisots können allerdings erfolgreich mit mehreren Taktiken bekäpmft werden.
+Kaisots, welche vermutlich alle beinahe blind sind, sind aufgrund fehlender schützender Hautschichten empfindlich gegenüber Feuer, wodurch eine Kombination aus Moltovika und größeren Mengen Öl sich rasch als hilfreich erweist.
+Eine weitere Taktik, welche kostengünstiger aber waghalsiger ist, besteht darin Kadaver von Kühen oder Nutztieren mit Öl zu übergießen und anzuzünden und mit äußerst agilen und leichtfüßigen Kämpfern, in der nähe der brennenden Kadaver Lärm zu machen, wodurch diese meist dort rasch mit ihren Armen hingreifen und sich so stark verbrennen.
 Diese Taktik ermöglicht es meist einen der drei Köpfe für die dauer des Kampfes davon abzuhalten Menschen zu zerquetschen.
 
 Die allgemeine Taktik, sofern man über keine Großkanonen verfügt, besteht darin mit mindestens 4 kleinen Stoßtrupps die 3 Köpfe des Kaisots zu vewirren, wodurch diese nicht mehr koordiniert handeln können, was deren Agilität stark einschränkt.
 Die 3 Köpfe können sich im Eifer des Gefechtes meist nicht hinreichend absprechen, wodurch es leichter wird diese zu Überwältigen.
 
-Eine Spezialtaktik besteht darin, äußerst äußerst gute Steinschleuderer mit Moltovika auf die Köpfe der Kaistos zielen zu lassen und so schlichtweg ihre Schädel wegzusprengen. Zwei Moltovika reichen meist, dass der letzte Kopf sich nur mehr schleifend oder gar nicht mehr fortbewegen kann, wodurch er von Fernkampfschützen bedenklos langsam getötet werden kann. Hierbei empfiehlt es sich durch die Nasenöffnung am Kopf oder den meist geöffnten Mund zu schießen um so das Gehirn der Abscheulichkeiten auszuschalten.
+Eine Spezialtaktik besteht darin, äußerst äußerst gute Steinschleuderer mit Moltovika auf die Köpfe der Kaistos zielen zu lassen und so schlichtweg ihre Schädel wegzusprengen.
+Zwei Moltovika reichen meist, dass der letzte Kopf sich nur mehr schleifend oder gar nicht mehr fortbewegen kann, wodurch er von Fernkampfschützen bedenklos langsam getötet werden kann.
+Hierbei empfiehlt es sich durch die Nasenöffnung am Kopf oder den meist geöffnten Mund zu schießen um so das Gehirn der Abscheulichkeiten auszuschalten.
 
-
-Kaisots sind für adelige Kriegsveteranen ein besonders gefragtes gut, wo häufig nach Kriegen Jagd auf Kaistos ausgerufen wird. Das Kaisotherz ist eine Zutat welche für einen Trank zum Nachwachsen von Gliedmaßen benötigt wird. Der "Trank des Kaistots" ist ein extrem begehrtes Gut und eine Hand Voll Alchemisten Werben während und kurz nach Kriegszeiten explizit mit der Fähigkeit zur Herstellung von Kaisottränken, sofern das Herz mittels Staffellauf-Pferdekurier geliefert wird.
-
-
+Kaisots sind für adelige Kriegsveteranen ein besonders gefragtes gut, wo häufig nach Kriegen Jagd auf Kaistos ausgerufen wird.
+Das Kaisotherz ist eine Zutat welche für einen Trank zum Nachwachsen von Gliedmaßen benötigt wird.
+Der "Trank des Kaistots" ist ein extrem begehrtes Gut und eine Hand Voll Alchemisten Werben während und kurz nach Kriegszeiten explizit mit der Fähigkeit zur Herstellung von Kaisottränken, sofern das Herz mittels Staffellauf-Pferdekurier geliefert wird.
 
 ### Usukats
 
 Usukats sind vermutlich die schlimmste Plage an Abescheulichkeiten welche Eldria seit den letzten 300 Jahren quälen.
 Der Ursprung der Usukats ist nicht bekannt, jedoch ist es verwunderlich, dass es dass diese Abscheulichkeiten mit welcher der Allgott unseren Glauben prüft, scheinbar noch nicht so lange gibt.
 
-Usukats zeichnen sich aus durch eine humanoide Gestalt, welchem am Kopf und Rücken weiß behaart ist. Sie besitzen keine Erkennbaren Augen und sind komplett Geruchslos, wenn man die Erde von ihren Körpern entfernt. Dies mag unbedeutend scheinen, führt jedoch dazu das Stämme der Animali keine wirkliche Jagd auf Usukats machen und dadurch es den Garden Eldrias unterliegt diese Abscheulichkeiten zurück in die brennende Verdammnis zu schicken aus denen sie scheinbar ausgestoßen wurden.
+Usukats zeichnen sich aus durch eine humanoide Gestalt, welchem am Kopf und Rücken weiß behaart ist.
+Sie besitzen keine Erkennbaren Augen und sind komplett Geruchslos, wenn man die Erde von ihren Körpern entfernt.
+Dies mag unbedeutend scheinen, führt jedoch dazu das Stämme der Animali keine wirkliche Jagd auf Usukats machen und dadurch es den Garden Eldrias unterliegt diese Abscheulichkeiten zurück in die brennende Verdammnis zu schicken aus denen sie scheinbar ausgestoßen wurden.
 
-Usukats besitzen, unüberraschenderweiße, keine Sicht und orentierien sich vermutlich am Geruch-, Gehör- und Tastsinn. Sie sind Nachtaktiv und verschwinden untertags scheinbar komplett vom Angesicht der Erde.
-Usukats sind schneller als Menschen, was diese vor allem des Nachts zu Alpträumen von Überlebenden führt - medizinsch bekannt unter "Nachhall des Usukats".  Die Überlebenden verlieren schlaf und nach einigen Wochen entweder den Verstand oder die Alpträume lassen mit der Zeit nach, wodurch die Rückkehr in ein normales Leben möglich ist.
+Usukats besitzen, unüberraschenderweiße, keine Sicht und orentierien sich vermutlich am Geruch-, Gehör- und Tastsinn.
+Sie sind Nachtaktiv und verschwinden untertags scheinbar komplett vom Angesicht der Erde.
+Usukats sind schneller als Menschen, was diese vor allem des Nachts zu Alpträumen von Überlebenden führt - medizinsch bekannt unter "Nachhall des Usukats".
+Die Überlebenden verlieren schlaf und nach einigen Wochen entweder den Verstand oder die Alpträume lassen mit der Zeit nach, wodurch die Rückkehr in ein normales Leben möglich ist.
 Schwächen der Usukats sind keine bekannt, jedoch berichten Überlebende des Massakers von Austen davon dass kreischende Kinder Usukats verschrecken können- was nach Meinung von Humboldt von Gent, ein Gelehrter in Sachen Abscheulichkeiten dieser Welt, Schwachsinn ist und lediglich Kinder dazu motivieren soll den Angriff eines Usukats anderen mitzuteilen bevor "die arme junge Seele aus dem Kind gerissen wird und seine Innerein gefressen werden".
 
 Die Intelligenz des Usukats lässt sich vermutlich mit denen von gewiefteren Werwölfen vergleichen, jedoch hegen Usukats keinerlei Territorialansprüche.
-Diese ungünstige Tatsache führte  156 n. R. zum Massaker von Austen wo eines Nachts mehrere Usukats vor und in Austen erschienen.
+Diese ungünstige Tatsache führte 156 n.
+R.
+zum Massaker von Austen wo eines Nachts mehrere Usukats vor und in Austen erschienen.
 
 Hierbei wurde beinahe die gesamte Stadtwache getötet oder schwer verwundet und mindestens 17 Usukats getötet.
 
-![Darstellung einer Usukatjagd in Eldira ](Pictures\\Flavor\Monster\Usukats.jpg) 
+![Darstellung einer Usukatjagd in Eldira](Pictures%5CFlavor%5CMonster%5CUsukats.jpg)
 
-> "Es war eine Nacht wie alle anderen. Wie hatten die Ernte vor 2 Wochen eingefahren, sie war gut dieses Jahr. ein lauer Herbstabend, mondlos und man konnte das rascheln der Blätter hören wenn man etwas Abseits der gut besuchten Tavernen seine Notdurft verrichtete. Die Kinder waren im Bett und Priester spendeten jenen Trost welche durch die Fleischmadenplage ihre Angehörigen verloren hatten. Die Stadtwache war am patroullieren und der Graf von Austen erbrachte jene Leistung welche gefordert wurde, die bekämpfung der Korruption unter der Stadtwache und die Vertreibung und Erhängung derer welche von Narkotikan und Adrenalinikan sich nicht lossagen konnten.
-Am nächsten Sonnabend sollte die Ekklesia zum beten rufen und den Graf für seine Taten für die Kinder des Allgottes ehren.
+> "Es war eine Nacht wie alle anderen. Wie hatten die Ernte vor 2 Wochen eingefahren, sie war gut dieses Jahr. ein lauer Herbstabend, mondlos und man konnte das rascheln der Blätter hören wenn man etwas Abseits der gut besuchten Tavernen seine Notdurft verrichtete. Die Kinder waren im Bett und Priester spendeten jenen Trost welche durch die Fleischmadenplage ihre Angehörigen verloren hatten. Die Stadtwache war am patroullieren und der Graf von Austen erbrachte jene Leistung welche gefordert wurde, die bekämpfung der Korruption unter der Stadtwache und die Vertreibung und Erhängung derer welche von Narkotikan und Adrenalinikan sich nicht lossagen konnten. Am nächsten Sonnabend sollte die Ekklesia zum beten rufen und den Graf für seine Taten für die Kinder des Allgottes ehren.
 >
-Die Männer tranken, manchen gaben sich den Dirnen hin und die Kinder wurden von ihren Müttern in den Schlaf gewogen.
-Irgendwann rund 1 - 2 Biere später kam ein kreidbleicher Jungermann in die Taverne gerannt und keuchte etwas von einer Stadtwache die von einem Riesen in der Mitte auseinandergerissen wurde.
-Viele Tavernenbesucher glaubten ihm nicht, jedoch folgten ihm 2 Soldaten welche gerade ihren Tagesdienst erfüllt gehabt hätten und der Hühne von Austen sowie zwei Jäger.
-Der Jüngling mit seiner durchnässten Hose führte die Wachen, den Hünen, und die Jäger zu der Stelle, während mir gesagt wurde ich solle den Hauptmann der Stadtwache kontaktieren- was ich auch tat.
-Nach rund 20 Minuten war ich an der Kaserne angelangt wo mir die Türwachen glauben schenkten, und darüber bin ich heute noch froh, und mir Entritt gewährten, woraufhin ich mit dem Hauptmann redete. 
+> Die Männer tranken, manchen gaben sich den Dirnen hin und die Kinder wurden von ihren Müttern in den Schlaf gewogen.
+> Irgendwann rund 1 - 2 Biere später kam ein kreidbleicher Jungermann in die Taverne gerannt und keuchte etwas von einer Stadtwache die von einem Riesen in der Mitte auseinandergerissen wurde.
+> Viele Tavernenbesucher glaubten ihm nicht, jedoch folgten ihm 2 Soldaten welche gerade ihren Tagesdienst erfüllt gehabt hätten und der Hühne von Austen sowie zwei Jäger.
+> Der Jüngling mit seiner durchnässten Hose führte die Wachen, den Hünen, und die Jäger zu der Stelle, während mir gesagt wurde ich solle den Hauptmann der Stadtwache kontaktieren- was ich auch tat.
+> Nach rund 20 Minuten war ich an der Kaserne angelangt wo mir die Türwachen glauben schenkten, und darüber bin ich heute noch froh, und mir Entritt gewährten, woraufhin ich mit dem Hauptmann redete.
 >
-Dieser entsandte mit mir 5 Wachen, die meisten in schwerer Rüstung und er selbst folgte auf einem Pferd- ebenfalls in schwerer Rüstung.
+> Dieser entsandte mit mir 5 Wachen, die meisten in schwerer Rüstung und er selbst folgte auf einem Pferd- ebenfalls in schwerer Rüstung.
 >
-Als wir näher kamen hörten wir von wo anders Schreie von Kindern, kreischend hell, wie man es sonst nicht hört. Der Hauptmann sandte daraufhin einen Armbrustschützen  zurück zur Barracke wo er isch Männer holen sollte und dorthin gehen sollte wo das Kind Schrie.
+> Als wir näher kamen hörten wir von wo anders Schreie von Kindern, kreischend hell, wie man es sonst nicht hört.
+> Der Hauptmann sandte daraufhin einen Armbrustschützen zurück zur Barracke wo er isch Männer holen sollte und dorthin gehen sollte wo das Kind Schrie.
 >
-Als wir 6 Mann schließlich beim Ursprungsort in Hörreichweite waren herrschte Panik und Aufruhr als mehrere Stadtbewohner uns entgegen kamen und meinten der Teufel sei gekommen und der Allgott wird uns Sünder bestrafen.
+> Als wir 6 Mann schließlich beim Ursprungsort in Hörreichweite waren herrschte Panik und Aufruhr als mehrere Stadtbewohner uns entgegen kamen und meinten der Teufel sei gekommen und der Allgott wird uns Sünder bestrafen.
 >
-Immer mehr Dorfbewohner flohen, Mütter mit Kindern auf dem Arm, während die Kinder weinten.
-Als wir schließlich am Ort des Geschehen eintrafen sahen wir bereits Blut die Gasse hinterströmen, was ein merkwürdiger Anblick war, da hier sonst nur bei Regen klares Wasser hinunter strömte.
-Wir sahen Fackeln welche am Boden lagen und noch brannten und hörte das bersten von Knochen, was Abscheulich genug war, aber immer wieder ertönte als würde jemand die Knochen wie Kleinholz brechen um Sie in den Karmin zu werfen um so eine hungrige Flamme zu füttern welche die Leute wärmte.
+> Immer mehr Dorfbewohner flohen, Mütter mit Kindern auf dem Arm, während die Kinder weinten.
+> Als wir schließlich am Ort des Geschehen eintrafen sahen wir bereits Blut die Gasse hinterströmen, was ein merkwürdiger Anblick war, da hier sonst nur bei Regen klares Wasser hinunter strömte.
+> Wir sahen Fackeln welche am Boden lagen und noch brannten und hörte das bersten von Knochen, was Abscheulich genug war, aber immer wieder ertönte als würde jemand die Knochen wie Kleinholz brechen um Sie in den Karmin zu werfen um so eine hungrige Flamme zu füttern welche die Leute wärmte.
 >
-Doch anstatt eines Warmen Karmin sahen wir etwas groteskes. Eine 3 Meter hohe Kreatur, in Menschlicher Gestalt, welche die Knochen aus einem Haufen etwas herauszog.
+> Doch anstatt eines Warmen Karmin sahen wir etwas groteskes.
+> Eine 3 Meter hohe Kreatur, in Menschlicher Gestalt, welche die Knochen aus einem Haufen etwas herauszog.
 >
-Die Worte des Hauptmanns werden mir noch heute in den Ohren schallen "Leg die Waffe nieder! Wir sind in der Überzahl, ergebt euch!"
-Daraufhin richtete sich das Monster komplett auf und warf etwas in Richtung des Kommandaten was er mit seinem Schild blockte. entsetzt merkten wir das unser aller Gesicht plötzlich nass und Blutüberströmt war. 
-Dieses "Etwas" hat uns gerade die oberhälfte eines Menschens auf uns geworfen welcher einfach auseinandergerissen wurde.
-Nach einer gefühlten Ewigkeit Begriff der Kommandant dass dies nicht die Zeit für Verhaftungen war und befahl seinen Männer das Biest aunzugreifen.
-"Schicken wir es zurück in die Hölle!"
-Er gab seinem Pferd die Spornen woraufhin er als erstes Reinrannte und die Wachen ihm nach.  Als er in der Nähe des Monstrums, nein dieses Dämons, war warf es erneut einen halben Leichnahm auf ihn, wodurch diesmal er kurz sein Gleichgewicht verlor und das Monster schlicht weg Pferd niederrammte mit dem Hauptmann darauf. Man hörte Knochen knacken und das Pferd wieherte Armseelig während der Hauptmann versuchte sich unter dem sterbenden Pferd hervorzukämpfen. Die anderen Wachen versuchten den Dämon anzugreifen. Der erste Wachmann wurde mit einem Hieb des Armrücken durch eine offene Tür in der Gasse geworfen und der Zweite hackte auf den Arm des Dämons ein, worauf dieser Lautschreiend seinen Arm herausgerissen bekam.  Die 3 weiteren Wachen Hackten auf die Beine ein  wodurch der Dämon kurz einknickte und er einem Soldaten vor ihm einem den Kopf, samt des Helms Abbiss und als ganzes schluckte. 
-Ein Schwerthieb von hinten in den unteren Rücken, der Kopf war schlicht außer Reichweite, brachte den Dämon erneut zum einknicken. Der Dämon drehte sich um und erschlug mit dem Kopflosen Leichnahm der Wache den anderen Wachsoldaten zu Brei während der Soldat aus dem Haus hervorkam und sichtlich benommen auf das Biest zustürmte. Es trat den Soldaten einfach weg woraufhin dieser auf einem Hausdach landete und dort durch das Dach brach. Der Hauptmann konnte sich noch immer nicht unter dem sterbenden Pferd befreien und stönte und ächzte, als sich das Monster umdrehte und das Pferd von ihm hob und es in Stücke riss. Der Kommandant rührte sich keinen Zentimeter, selbst als er es konnte.
-Der Dämon, ich kann es nich andrs beschreiben, fächerte sich Luft zu. Da merkte ich es fehlte ihm an Augen.
-Ich hielt meinem Atem sah zum Kommandanten und der Befahl mir mit einer Kopfbewegung abzuhauen. Ich versuchte leisen Schrittes  das weite zu Suchen und bewegte mich rückwarts so langsam, das ich das knistern der Fackeln hörte während der Dämon das Pferd weiter auseinander riss.
+> Die Worte des Hauptmanns werden mir noch heute in den Ohren schallen "Leg die Waffe nieder! Wir sind in der Überzahl, ergebt euch!" Daraufhin richtete sich das Monster komplett auf und warf etwas in Richtung des Kommandaten was er mit seinem Schild blockte.
+> entsetzt merkten wir das unser aller Gesicht plötzlich nass und Blutüberströmt war.
+> Dieses "Etwas" hat uns gerade die oberhälfte eines Menschens auf uns geworfen welcher einfach auseinandergerissen wurde.
+> Nach einer gefühlten Ewigkeit Begriff der Kommandant dass dies nicht die Zeit für Verhaftungen war und befahl seinen Männer das Biest aunzugreifen.
+> "Schicken wir es zurück in die Hölle!" Er gab seinem Pferd die Spornen woraufhin er als erstes Reinrannte und die Wachen ihm nach.
+> Als er in der Nähe des Monstrums, nein dieses Dämons, war warf es erneut einen halben Leichnahm auf ihn, wodurch diesmal er kurz sein Gleichgewicht verlor und das Monster schlicht weg Pferd niederrammte mit dem Hauptmann darauf.
+> Man hörte Knochen knacken und das Pferd wieherte Armseelig während der Hauptmann versuchte sich unter dem sterbenden Pferd hervorzukämpfen.
+> Die anderen Wachen versuchten den Dämon anzugreifen.
+> Der erste Wachmann wurde mit einem Hieb des Armrücken durch eine offene Tür in der Gasse geworfen und der Zweite hackte auf den Arm des Dämons ein, worauf dieser Lautschreiend seinen Arm herausgerissen bekam.
+> Die 3 weiteren Wachen Hackten auf die Beine ein wodurch der Dämon kurz einknickte und er einem Soldaten vor ihm einem den Kopf, samt des Helms Abbiss und als ganzes schluckte.
+> Ein Schwerthieb von hinten in den unteren Rücken, der Kopf war schlicht außer Reichweite, brachte den Dämon erneut zum einknicken.
+> Der Dämon drehte sich um und erschlug mit dem Kopflosen Leichnahm der Wache den anderen Wachsoldaten zu Brei während der Soldat aus dem Haus hervorkam und sichtlich benommen auf das Biest zustürmte.
+> Es trat den Soldaten einfach weg woraufhin dieser auf einem Hausdach landete und dort durch das Dach brach.
+> Der Hauptmann konnte sich noch immer nicht unter dem sterbenden Pferd befreien und stönte und ächzte, als sich das Monster umdrehte und das Pferd von ihm hob und es in Stücke riss.
+> Der Kommandant rührte sich keinen Zentimeter, selbst als er es konnte.
+> Der Dämon, ich kann es nich andrs beschreiben, fächerte sich Luft zu.
+> Da merkte ich es fehlte ihm an Augen.
+> Ich hielt meinem Atem sah zum Kommandanten und der Befahl mir mit einer Kopfbewegung abzuhauen.
+> Ich versuchte leisen Schrittes das weite zu Suchen und bewegte mich rückwarts so langsam, das ich das knistern der Fackeln hörte während der Dämon das Pferd weiter auseinander riss.
 >
-Plötzlich hörte ich wieder das schreien der Menschen im Hintergrund und die Gasse hinab sah ich das huschen einer großen weißen Gestalt und Wachen welche von ihm Davon oder ihm Nachliefen.
-Ich versuchte die Tür zu öffenen vom dem Haus hinter mir was mir gelang, jedoch quietschte die Tür beträchtlich, woraufhin ich merkte wie der Dämon in sich in meine Richtung wandte. Ich blieb starr vor Schreck stehen. Es fühlte sich an als würde die Zeit stehen als man von dem Soldaten welcher durchs Haus brach pltzölich wieder ein Lebenszeichen hörte - woraufhin es sich in das Haus begab. 
-Als der Dämon sich durch die enge Tür quetschte, dabei den Türrahmen mitriss sah ich den Hünen erneut während er seinen Zweihänder zum Stoß bereit ansetzte und langsam dem Monster näher kam. Er schaffte es und rammte den Zweihänder von unten, wo bei Menschen die Weichteile sind, in das Biest, woraufhin dies, erschrak, aufschrie und mit einem Tritt den Hünen an die Gassenmauer trat, woraufhin dieser zu Boden sank ohne sich zu bewegen. 
-Der Hauptmann raffte sich zwischenzeitlich auf, mitten unter zerteilten Leichen von Kindern, Frauen und seiner Männer und hackte auf das Biest ein welches am Boden lag, bis es sich nicht mehr bewegte.
-Ich traute meinen Augen nicht und so blieb ich noch in dem Haus, blickte auf das Gemetzel des Teufels währen der Kommandant versuchte dem Hünen zu helfen.
+> Plötzlich hörte ich wieder das schreien der Menschen im Hintergrund und die Gasse hinab sah ich das huschen einer großen weißen Gestalt und Wachen welche von ihm Davon oder ihm Nachliefen.
+> Ich versuchte die Tür zu öffenen vom dem Haus hinter mir was mir gelang, jedoch quietschte die Tür beträchtlich, woraufhin ich merkte wie der Dämon in sich in meine Richtung wandte.
+> Ich blieb starr vor Schreck stehen.
+> Es fühlte sich an als würde die Zeit stehen als man von dem Soldaten welcher durchs Haus brach pltzölich wieder ein Lebenszeichen hörte - woraufhin es sich in das Haus begab.
+> Als der Dämon sich durch die enge Tür quetschte, dabei den Türrahmen mitriss sah ich den Hünen erneut während er seinen Zweihänder zum Stoß bereit ansetzte und langsam dem Monster näher kam.
+> Er schaffte es und rammte den Zweihänder von unten, wo bei Menschen die Weichteile sind, in das Biest, woraufhin dies, erschrak, aufschrie und mit einem Tritt den Hünen an die Gassenmauer trat, woraufhin dieser zu Boden sank ohne sich zu bewegen.
+> Der Hauptmann raffte sich zwischenzeitlich auf, mitten unter zerteilten Leichen von Kindern, Frauen und seiner Männer und hackte auf das Biest ein welches am Boden lag, bis es sich nicht mehr bewegte.
+> Ich traute meinen Augen nicht und so blieb ich noch in dem Haus, blickte auf das Gemetzel des Teufels währen der Kommandant versuchte dem Hünen zu helfen.
 >
-Ich blickte die Gasse hinunter und sah eine Mutter mit ihrem Baby auf den Arm die Gassen hinauflaufen. Plötzlich sah und hörte man einen weiteren Dämon ihr nachlaufen.
-Allgott bitte vergib mir, aber ich konnte die Tür nicht öffnen, ich konnte einfach nicht. Ich konnte das Baby und die Mutter nicht retten.
-Sie lief und schrie um Hilfe und das Baby schrie und als Sie das Gemetzel der Gasse sah, den Kommandanten sah, schrie sie in schriller Stimme "Tötet es. Tötet es! Los tötet es endlich!"
-Der Kommandant nah sein Schwert und rannte der Mutter entgegen und dem Kind. Plötzlich sah ich den Dämon, Blutverschmiert riss die Mutter im Lauf nieder. Man hörte wieder das Knacken von Knochen und, was auch immer der Allgott uns mit dieser Prüfung sagen will, es ist keine Liebe wenn man hört wie eine Mutter ihr eigenes Kindd zerquetscht und man die gedämpften Schreie eines Babies hört.
+> Ich blickte die Gasse hinunter und sah eine Mutter mit ihrem Baby auf den Arm die Gassen hinauflaufen.
+> Plötzlich sah und hörte man einen weiteren Dämon ihr nachlaufen.
+> Allgott bitte vergib mir, aber ich konnte die Tür nicht öffnen, ich konnte einfach nicht.
+> Ich konnte das Baby und die Mutter nicht retten.
+> Sie lief und schrie um Hilfe und das Baby schrie und als Sie das Gemetzel der Gasse sah, den Kommandanten sah, schrie sie in schriller Stimme "Tötet es. Tötet es! Los tötet es endlich!" Der Kommandant nah sein Schwert und rannte der Mutter entgegen und dem Kind.
+> Plötzlich sah ich den Dämon, Blutverschmiert riss die Mutter im Lauf nieder.
+> Man hörte wieder das Knacken von Knochen und, was auch immer der Allgott uns mit dieser Prüfung sagen will, es ist keine Liebe wenn man hört wie eine Mutter ihr eigenes Kindd zerquetscht und man die gedämpften Schreie eines Babies hört.
 >
-Ich weiß nicht mehr was dann passierte, ich konnte es nicht mehr sehen, ich sah gar nichts mehr, es wurde alles Schwarz.
-Ich hörte draußen das scheppern der Rüstung des Kommandanten und das Biegen von Metall und das einstechen in Fleisch, aber kein Schrei des Monsters. Dann wieder zerbrechende Konchen, wie Zunder im Karmin.
-Zunder für das Feuer der Hölle welche sich in Austen in jener Nacht auftat.
+> Ich weiß nicht mehr was dann passierte, ich konnte es nicht mehr sehen, ich sah gar nichts mehr, es wurde alles Schwarz.
+> Ich hörte draußen das scheppern der Rüstung des Kommandanten und das Biegen von Metall und das einstechen in Fleisch, aber kein Schrei des Monsters.
+> Dann wieder zerbrechende Konchen, wie Zunder im Karmin.
+> Zunder für das Feuer der Hölle welche sich in Austen in jener Nacht auftat.
 >
-> ---  Bericht eines Überlebenden des Massakers von Austen
-
+> --- Bericht eines Überlebenden des Massakers von Austen
 
 ### Brutmutter
 
-Brutmütter sind eine wahre Bestrafung der Augen. Man stelle sich einen bis zur Unkenntlichkeit überfressenen Kahlköpfigen bleichen Menschen vor. Dieser hat rund ein Dutzend Brüste. Gerüchtenzufolge besitzen Brutmütter mehrere Tentakel und nicht benutzbare Hände. die Fortbewegung folgt furchtbar langsam von rund 2 Meter mit einem Satz. Also jeder Mensch kann einfach diesem Monster aus dem weg gehen.
+Brutmütter sind eine wahre Bestrafung der Augen.
+Man stelle sich einen bis zur Unkenntlichkeit überfressenen Kahlköpfigen bleichen Menschen vor.
+Dieser hat rund ein Dutzend Brüste.
+Gerüchtenzufolge besitzen Brutmütter mehrere Tentakel und nicht benutzbare Hände.
+die Fortbewegung folgt furchtbar langsam von rund 2 Meter mit einem Satz.
+Also jeder Mensch kann einfach diesem Monster aus dem weg gehen.
 
-Die Hauptentakeln sind dick, worauf sich schließen lässt, dass man Brutmütter nicht im Nahkampf begegnen sollte. Bis zu 6 weitere Tentakel befinden sich, aus dem Boden ragend in der Nähe der Brutmutter und beschaffen entweder Futter oder verteidigen diese.
+Die Hauptentakeln sind dick, worauf sich schließen lässt, dass man Brutmütter nicht im Nahkampf begegnen sollte.
+Bis zu 6 weitere Tentakel befinden sich, aus dem Boden ragend in der Nähe der Brutmutter und beschaffen entweder Futter oder verteidigen diese.
 
 Brutmütter gebähren Ghule und können dadurch nach gewisser Zeit eine regelrechte Plage werden.
 
 Über die Schwächen gegenüber Giften oder Feuer ist wenig bekannt.
 Es wird empfohlen eine Brutmutter mit der Hilfe von Skorpionen zu erledigen und einer guten Hand voll schwer ausgerüsteter Soldaten.
-Man Ziele einfach auf den Kopf der Brutmutter. 
+Man Ziele einfach auf den Kopf der Brutmutter.
 Eventuell zur Verteidigung herbeistürmende Kinder, also die Ghule, sind mit Schwerter und Schilder kein Problem.
 
 Alchemistisch ist keine Verwendung über Brutmutter Ingridientien bekannt.
 
-![Illustration einer schlafenden Brutmutter](Pictures\\Flavor\Monster\Brutmutter.jpg)
+![Illustration einer schlafenden Brutmutter](Pictures%5CFlavor%5CMonster%5CBrutmutter.jpg)
 
-![Illustration eines Ghules](Pictures\\Flavor\Monster\ghule.png)
+![Illustration eines Ghules](Pictures%5CFlavor%5CMonster%5Cghule.png)
 
-
-
-## Würmer 
-
+## Würmer
 
 ### Steinwurm
 
-> "Brich Stock und Stein, 
-wenn du fällst in ein Steinwurmloch hinein. 
+> "Brich Stock und Stein, wenn du fällst in ein Steinwurmloch hinein.
 >
-Freu dich nicht,
-denn bald hast du Steinwurmsäure im Gesicht."
+> Freu dich nicht, denn bald hast du Steinwurmsäure im Gesicht."
 >
-> ---  Gedicht über den Steinwurm
+> --- Gedicht über den Steinwurm
 
 Steinwürmer gehören zu den größeren Ende der Wurmartigen Monster.
 Steinwürmer werden biszu 14 Meter lang und leben obligatorisch unter Tage.
@@ -209,8 +267,9 @@ Steinwürmer sind selten anzutreffen und ihre Gänge meist älter als die Gründ
 Sie besitzen keine Augen und graben sich mit ihren unheimlich Harten Vorderzähnen und der Zuhilfenahme ausgestoßener Säure erstaunlich rasch durch das Erdreich und Gestein.
 
 Steinwürmer sind für einen guten Teil der Höhlen im Himmelspitzengebirge und in den Gebirgen um das Bermatal verantwortlich.
-Es wird nicht empfohlen den Gängen dieser Würmer zu folgen, da man ab einer gewissen Tiefe auf schlafende Exemplare treffen kann, welche gereizt auf neugierge Forscher reagieren. 
-Zumeist sind ihre Schlafkammern durch rund 12 Meter, beinahe senkrechte Tunnel gekennzeichnet. Dies dient, laut Lehrmeinung, dazu dass Lindwürmer hier keinen Zugang finden und so nicht deren Beute werden können.
+Es wird nicht empfohlen den Gängen dieser Würmer zu folgen, da man ab einer gewissen Tiefe auf schlafende Exemplare treffen kann, welche gereizt auf neugierge Forscher reagieren.
+Zumeist sind ihre Schlafkammern durch rund 12 Meter, beinahe senkrechte Tunnel gekennzeichnet.
+Dies dient, laut Lehrmeinung, dazu dass Lindwürmer hier keinen Zugang finden und so nicht deren Beute werden können.
 
 Steinwürmer besitzen im allgemeinen weiche Körperoberflächen was ihnen das navigieren durch natürliche Höhlen oder engere Felsspalten erleichtert.
 
@@ -218,142 +277,223 @@ Steinwürmer besitzen im allgemeinen weiche Körperoberflächen was ihnen das na
 
 Ihre Intelligenz ist mangels wissen schwer zu beurteilen.
 
-![Darstellung eines Steinwurmes. ](Pictures\\Flavor\Monster\steinwurm.png) 
+![Darstellung eines Steinwurmes.](Pictures%5CFlavor%5CMonster%5Csteinwurm.png)
 
 ### Aschwurm
 
 Aschwürmer sind endemisch in den Vulkanisch aktiven Gebieten von Wurmfall - welcher den Namen durch die Aschwürmer gefunden hat.
-Aschwürmer sind die größten Monstrositäten in der gesamten bekannten Welt. Körperlängen von 40-50m wurden berichtet. exakte Vermessungen gibt es natürlich nicht. Knochenartige Überreste deuten jedoch auf teils weitaus längere Exemplare hin.
-Aschwürmer haben ihren Namen durch ihre dunkle und überaus Dicke haut, welche ihnen erlaubt selbst durch flüssiges Gestein, Lava, zu kriechen. Obwohl sich die Wurmaktivität primär auf die Phasen vulkanischer Inaktivität beschränkt konnten mehrere unabhängige Berichte von geringer Wurmaktivität während der vulkanischen Phase Wurmaktivität an der Oberfläche beobachten.
-Hierbei sind auch die 7 Beobachtungen von Angriffen durch Drachen auf Aschwürmer entstanden. Hierbei sollte angemerkt werden, dass die Drachen in lediglich einem Fall erfolgreich waren da es sich um ein Augenscheinlich bereits verletztes Tier handelte, welches durch eine nahegelegne Vulkanexplosion - untypisch für die Schildvulkane der Region - einen riesigen Gesteinbrocken von 15 Metern auf den "Kopf" des Wurmes schleuderte.
+Aschwürmer sind die größten Monstrositäten in der gesamten bekannten Welt.
+Körperlängen von 40-50m wurden berichtet.
+exakte Vermessungen gibt es natürlich nicht.
+Knochenartige Überreste deuten jedoch auf teils weitaus längere Exemplare hin.
+Aschwürmer haben ihren Namen durch ihre dunkle und überaus Dicke haut, welche ihnen erlaubt selbst durch flüssiges Gestein, Lava, zu kriechen.
+Obwohl sich die Wurmaktivität primär auf die Phasen vulkanischer Inaktivität beschränkt konnten mehrere unabhängige Berichte von geringer Wurmaktivität während der vulkanischen Phase Wurmaktivität an der Oberfläche beobachten.
+Hierbei sind auch die 7 Beobachtungen von Angriffen durch Drachen auf Aschwürmer entstanden.
+Hierbei sollte angemerkt werden, dass die Drachen in lediglich einem Fall erfolgreich waren da es sich um ein Augenscheinlich bereits verletztes Tier handelte, welches durch eine nahegelegne Vulkanexplosion - untypisch für die Schildvulkane der Region - einen riesigen Gesteinbrocken von 15 Metern auf den "Kopf" des Wurmes schleuderte.
 
-Aschwürmer sind jedoch, wie erwähnt, primär aktiv während der vulkanischen Ruhephasen. Hierbei durchfressen und durchwandern diese die ausgekühlten Lavagänge und Oberflächen. 
+Aschwürmer sind jedoch, wie erwähnt, primär aktiv während der vulkanischen Ruhephasen.
+Hierbei durchfressen und durchwandern diese die ausgekühlten Lavagänge und Oberflächen.
 Die Nahrung der Würmer besteht, wie auch bei den Steinwürmer primär aus speziellen floureszierendem Gestein welche diese auf unbekannte Art und Weise verarbeiten.
 Die rund alle 12 Jahre auftretenden stark Regenfälle von Wurmfall, vermutlich bedingt durch vulkanische Gase, veranlassen die Wurmaktivität zu steigern.
-Hierbei können die Würmer häufig bei aufsaugen riesiger Wassermengen beobachtet werden. Hierbei wird auch meist die nach den Regenfällen blühende und sprießende Vegetation verzehrt.
+Hierbei können die Würmer häufig bei aufsaugen riesiger Wassermengen beobachtet werden.
+Hierbei wird auch meist die nach den Regenfällen blühende und sprießende Vegetation verzehrt.
 Während dieser Zeit ist das durchwandern der Wüste ein Unterfangen, dass nur von Allgott verlassenen unternommen werden sollte.
 
-Aschwürmer vermehren sich vermutlich über das ablegen von Eiern, jedoch sind bis jetzt keine Eier gefunden worden, geschweige denn Jungtiere. 
-Aschwürmer besitzen am Kopf, in gewisserweiße ähnlich wie Steinwürmern "Zähne" mit welchem diese vermutlich Erdreich aufbrechen und Verspeisen. 
-Aschwürmer sollte man, wenn man es überhaupt schafft, auf keinen Fall provozieren. Provokationen der Aschwürmer werden primär durch umhertramplende Massen an Lebewesen ausgelöst. So werden sich verirrende  Bermatalbüffelherden - welche beim Ergrünen der Vulaknischen Wüste hineinnwandern, meist von den Würmern erdrückt, erschalgen oder gefressen.
+Aschwürmer vermehren sich vermutlich über das ablegen von Eiern, jedoch sind bis jetzt keine Eier gefunden worden, geschweige denn Jungtiere.
+Aschwürmer besitzen am Kopf, in gewisserweiße ähnlich wie Steinwürmern "Zähne" mit welchem diese vermutlich Erdreich aufbrechen und Verspeisen.
+Aschwürmer sollte man, wenn man es überhaupt schafft, auf keinen Fall provozieren.
+Provokationen der Aschwürmer werden primär durch umhertramplende Massen an Lebewesen ausgelöst.
+So werden sich verirrende Bermatalbüffelherden - welche beim Ergrünen der Vulaknischen Wüste hineinnwandern, meist von den Würmern erdrückt, erschalgen oder gefressen.
 
 Dementsprechend wird abgraten mit Armeen größer als 20 Mann während der vulkanischen Ruhephase, also der Aktivitätsphase der Würmer zu durchwandern.
 
 Es wird angenommen, dass Menschen keine Waffen besitzen welche den Aschwürmern Schaden zufügen könnte, da nichteinmal Drachen diese verletzen können.
 Insofern ist es nicht verwunderlich das wir keine Belege für natürliche Fressfeinde von Aschwürmern vorliegen haben.
 
-![Künstlerisch interpretierte Darstellung eines Aschwurms. Aschwürmer besitzen entgegen der Darstellung des Künstlers keine Augen.](Pictures\\Flavor\Monster\Ashworm.jpg) 
-
-
-
+![Künstlerisch interpretierte Darstellung eines Aschwurms. Aschwürmer besitzen entgegen der Darstellung des Künstlers keine Augen.](Pictures%5CFlavor%5CMonster%5CAshworm.jpg)
 
 ### Weltenwurm {#WeltenWurm}
 
-Weltenwürmer sind mehr Legende als regelmäßig beobachtete Monster. Sie sind besonders riesige Aschwürmer, die deutlich tiefer graben und durch deren Tunnel ganze Kohorten nebeneinander hermarschieren können. Glücklicherweise kommen sie so gut wie nie an die Oberfläche.
+Weltenwürmer sind mehr Legende als regelmäßig beobachtete Monster.
+Sie sind besonders riesige Aschwürmer, die deutlich tiefer graben und durch deren Tunnel ganze Kohorten nebeneinander hermarschieren können.
+Glücklicherweise kommen sie so gut wie nie an die Oberfläche.
 
 ## Piscari
 
 ### Dunkleosteus
 
-Ungeheuer der Meere sind weitaus weniger erforscht und so kann ein jeder davon ausgehen dass die Tiefen der Meere mehr Abscheulichkeiten  bewohnen als Bürger Eldrias treu dem Kaiserreich sind.
+Ungeheuer der Meere sind weitaus weniger erforscht und so kann ein jeder davon ausgehen dass die Tiefen der Meere mehr Abscheulichkeiten bewohnen als Bürger Eldrias treu dem Kaiserreich sind.
 
 Dnkleosteus ist eines dieser Monster, benannt nach dem Fischer und Forscher Nixan Dunkleosteus, sind diese Ungetümer mehrere Meter lang und am Kopf mit einem Knochenpanzer direkt unter der Haut ausgestattet was es quasi unmöglich macht diese Monster schnell zu erlegen oder gar gegen diese anzukämpfen.
 Ist man nicht mit ertrinken im Wasser alleine beschäftigt reißen Dunkleosteus in den Salzigen Wassern und den Brackwässern häufiger schwimmende Kühe und größere Fische und auch unvorsichtige Fischer.
-Dunkleosteus können durch grelles Licht oder Lärm von z.b explodierenden Moltovikas  abgeschreckt werden, jedoch empfiehlt sich zweiteres nicht da die Verletzungsgefahr hoch ist.
+Dunkleosteus können durch grelles Licht oder Lärm von z.b explodierenden Moltovikas abgeschreckt werden, jedoch empfiehlt sich zweiteres nicht da die Verletzungsgefahr hoch ist.
 
 Dunkleosteus können , wenn diese an der Oberfläche schwimmen mittels Kanonen erlegt werden, jedoch hat man meist nur exakt einen einzigen Schuss bevor diese durch den Lärm abgeschreckt werden.
 
-Alten Überlieferungen der ersten Seefahrer zufolge war dies ein entscheidender Mitgrund warum Seefahrer lauthals ihre Lieder brüllen um so zu verhindern das kleine Holzboote  angegriffen werden.
+Alten Überlieferungen der ersten Seefahrer zufolge war dies ein entscheidender Mitgrund warum Seefahrer lauthals ihre Lieder brüllen um so zu verhindern das kleine Holzboote angegriffen werden.
 
-Über die Fortpflanzung dieser Knochenfische ist leider noch nichts bekannt, allerdings können kleine Dunkleosteus in Brackwasser beobachtet werden, wo diese gelgentlich von Fischern gefangen werden. Ihr Fleisch soll angeblich stark aphrodisierend wirken.
+Über die Fortpflanzung dieser Knochenfische ist leider noch nichts bekannt, allerdings können kleine Dunkleosteus in Brackwasser beobachtet werden, wo diese gelgentlich von Fischern gefangen werden.
+Ihr Fleisch soll angeblich stark aphrodisierend wirken.
 
-![Ein Dunkleosteus vor der Küste Sturmkapps - Illustration von Nixan Dunkleosteus](Pictures\\Flavor\Monster\Dunkleosteus.png)
+![Ein Dunkleosteus vor der Küste Sturmkapps - Illustration von Nixan Dunkleosteus](Pictures%5CFlavor%5CMonster%5CDunkleosteus.png)
 
-## Abgrundbewohner 
+## Abgrundbewohner
 
 ## Echsenartige
 
 ### Lindwurm
 
-
 Irreführendesweise sind Lindwürmer, nicht mit den Würmern verwandt sondern sind vermutlich Abkömmlinge von Drachen.
-Lindwürmer, teils bekannt als Panzerechsen oder Höhlendrachen können in vielen Fällen Feuer speien. Die meisten rezenteren Exemplare welche von Orks erlegt wurden speiten allerdings kein Feuer mehr.
+Lindwürmer, teils bekannt als Panzerechsen oder Höhlendrachen können in vielen Fällen Feuer speien.
+Die meisten rezenteren Exemplare welche von Orks erlegt wurden speiten allerdings kein Feuer mehr.
 
-Ihre Haut besteht auf der Oberseite und seitlichen Körperregionen aus dicken Knochenplatten.  Lindwürmer können Körperlängen von bis zu 8 Metern erreichen, alten Überlieferungen zufolge sind bis zu 15 Meter möglich, dies konnte allerdings siet nunmehr 136 Jahren nicht bestätigt werden.
+Ihre Haut besteht auf der Oberseite und seitlichen Körperregionen aus dicken Knochenplatten.
+Lindwürmer können Körperlängen von bis zu 8 Metern erreichen, alten Überlieferungen zufolge sind bis zu 15 Meter möglich, dies konnte allerdings siet nunmehr 136 Jahren nicht bestätigt werden.
 
-Lindwürmer, sind, im Gegensatze zu den wahrhaftigen Drachen, weniger Intelligent und reagieren tendenziell mehr auf Instinkte. Dies mag geschichtlich auf ihre häufig unterirdische Lebensweise zurückuführen sein, wo wenig Sinn darin besteht vernünftig zu agieren.
-Lindwürmer sind in der Lage, so wie viele Höhlenbewoner im dunkelen zu sehen.  Grelles Tageslicht hingegen blendet sie, wenn man den Berichten von Orks glauben schenkt.
+Lindwürmer, sind, im Gegensatze zu den wahrhaftigen Drachen, weniger Intelligent und reagieren tendenziell mehr auf Instinkte.
+Dies mag geschichtlich auf ihre häufig unterirdische Lebensweise zurückuführen sein, wo wenig Sinn darin besteht vernünftig zu agieren.
+Lindwürmer sind in der Lage, so wie viele Höhlenbewoner im dunkelen zu sehen.
+Grelles Tageslicht hingegen blendet sie, wenn man den Berichten von Orks glauben schenkt.
 
-Über die Reproduktion von Lindwürmern ist wenig bekannt. Jungtiere konnten bis jetzt nich gefunden werden, was an den vielfach unerforschten Steinwurmgängen liegt welche teils mehrere Meter senkrecht in die Tiefe führen. In der 136 jährigen Zeit seit der Erstaufalge dieses wunderbaren Werkes konnten lediglich 7 Fälle nachgewiesen werden wo Lindwürmer  mit Artgenossen kooperierten.
-
+Über die Reproduktion von Lindwürmern ist wenig bekannt.
+Jungtiere konnten bis jetzt nich gefunden werden, was an den vielfach unerforschten Steinwurmgängen liegt welche teils mehrere Meter senkrecht in die Tiefe führen.
+In der 136 jährigen Zeit seit der Erstaufalge dieses wunderbaren Werkes konnten lediglich 7 Fälle nachgewiesen werden wo Lindwürmer mit Artgenossen kooperierten.
 
 > "Die Bestrafung der gierigen Zwerge sollet der Lindwurm sein! Schmelzen soll er die, welche der Gier einherfallen und nicht im Antlitz der Sonne weilen."
 >
-> ---  Auszug aus dem Werk von Pater Sistan Erindan - Das Leben der Zwerge - eine nicht heretische Abhandlung
+> --- Auszug aus dem Werk von Pater Sistan Erindan - Das Leben der Zwerge - eine nicht heretische Abhandlung
 
-![Darstellung eines lebenden Werwolfes](Pictures\\Flavor\Monster\Lindwurm.jpg)
+![Darstellung eines lebenden Werwolfes](Pictures%5CFlavor%5CMonster%5CLindwurm.jpg)
 
-Orks, welche den Großteil der Lindwurmkenntnisse besitzen nutzen, falls es sich um Feuerspeiende Lindwürmer handelt, meist Lindwurm Haut zum Schutz und schnelle und gezielte Angriffe auf die Unterseite des Lindwurms. Vorzugsweise Nutzen Orks hierbei zweihändige Kriegshämmer und lange Knochenspeere aus den Knochen von Lindwürmern.
-Zuerst provoziert man den Lindwurm zum Feuerspeien und versteckt sich hinter der Lindwurmhaut. Hat der Lindwurm seine Feuerreserven aufgebraucht, welche runde 30 Sekunden durchspeiendes Feuer  erlauben, versetzt man dem Lindwurm Speerstöße. Diese dienen den Lindwurm weiter zu provozieren. Anschließend können mehrere Orks mit Kriegshämmern auf den Lindwurm aufspringen und mit Hammerschlägen seinen Schädel bearbeitet. Dies tötet den Lindwurm nicht, jedoch desorientiert es den Lindwurm woraufhin mit Speeren dann tatsächlich die Unterseite des Kopfes und des Halses angegriffen werden können.
+Orks, welche den Großteil der Lindwurmkenntnisse besitzen nutzen, falls es sich um Feuerspeiende Lindwürmer handelt, meist Lindwurm Haut zum Schutz und schnelle und gezielte Angriffe auf die Unterseite des Lindwurms.
+Vorzugsweise Nutzen Orks hierbei zweihändige Kriegshämmer und lange Knochenspeere aus den Knochen von Lindwürmern.
+Zuerst provoziert man den Lindwurm zum Feuerspeien und versteckt sich hinter der Lindwurmhaut.
+Hat der Lindwurm seine Feuerreserven aufgebraucht, welche runde 30 Sekunden durchspeiendes Feuer erlauben, versetzt man dem Lindwurm Speerstöße.
+Diese dienen den Lindwurm weiter zu provozieren.
+Anschließend können mehrere Orks mit Kriegshämmern auf den Lindwurm aufspringen und mit Hammerschlägen seinen Schädel bearbeitet.
+Dies tötet den Lindwurm nicht, jedoch desorientiert es den Lindwurm woraufhin mit Speeren dann tatsächlich die Unterseite des Kopfes und des Halses angegriffen werden können.
 
-Speziell erwähnt werden sollte die beobachtete Tat eines Orkstammesführer Names Gra-Ash-Tark. Dieser war in der Lage mit einem einzigen Hieb seines 60 Kilo (!) schweren Kriegshammers einen Lindwurmschädel einzuschlagen- was den Lindwurm sofort tötete.
+Speziell erwähnt werden sollte die beobachtete Tat eines Orkstammesführer Names Gra-Ash-Tark.
+Dieser war in der Lage mit einem einzigen Hieb seines 60 Kilo (!) schweren Kriegshammers einen Lindwurmschädel einzuschlagen- was den Lindwurm sofort tötete.
 
-![Darstellung von Gra-Ash-Tark mit seinem 60 Kilo Hammer](Pictures\\Flavor\Monster\Gra-Ash-Tark.png)
-
+![Darstellung von Gra-Ash-Tark mit seinem 60 Kilo Hammer](Pictures%5CFlavor%5CMonster%5CGra-Ash-Tark.png)
 
 ### Drachen
 
 Drachen sind seit jeher aus Sagen des gemeinen Volkes bekannt.
-Es gibt, wenig über Drachen zu erzählen, da die meisten über die letzten Jahrhunderte fast vollständig verschwanden, 
-was manche Gelehrten mit der Territorialität der Drachen in Verbindung bringen.
+Es gibt, wenig über Drachen zu erzählen, da die meisten über die letzten Jahrhunderte fast vollständig verschwanden, was manche Gelehrten mit der Territorialität der Drachen in Verbindung bringen.
 
-Drachen sind intelligente, mit teils 25 Meter Flügelspannweite fliegende Panzerechsen. Die Färbung von Drachen ist im allgemeinen extrem variabel. Lebende Exempalre waren in Farben von Obsidianschwarz hin zu beinahe weißen Varianten zu beobachten, wie man der Darstellung unten entnehmen kann.
-Sie sind extremst territorial und Paarungen sind nicht beobachtet, jedoch konnten bisher insgesamt 14 Dracheier gefunden bzw entnommen werden. Das Ausbrüten dieser war in jedem Fall unerfolgreich.
+Drachen sind intelligente, mit teils 25 Meter Flügelspannweite fliegende Panzerechsen.
+Die Färbung von Drachen ist im allgemeinen extrem variabel.
+Lebende Exempalre waren in Farben von Obsidianschwarz hin zu beinahe weißen Varianten zu beobachten, wie man der Darstellung unten entnehmen kann.
+Sie sind extremst territorial und Paarungen sind nicht beobachtet, jedoch konnten bisher insgesamt 14 Dracheier gefunden bzw entnommen werden.
+Das Ausbrüten dieser war in jedem Fall unerfolgreich.
 
 Drachenjungtiere werden, laut dem uns spärlich bekannten Wissen, meist Jahrelang von ihrer Mutter beschützt - teils in extra aus Gestein geschmolzenen Nestern.
 
-Drachen ernähren sich von beinahe allem was naiv genug ist sich ihm entgegen zu stellen. Hierzu zählen Lindwürmer, Steinwürmer wie auch  ein Kampf zwischen einem Aschwurm und einem Drachen bekannt war welche in einem unentschieden endete, da der Aschwurm sich zurück unter die Oberfläche zog.
+Drachen ernähren sich von beinahe allem was naiv genug ist sich ihm entgegen zu stellen.
+Hierzu zählen Lindwürmer, Steinwürmer wie auch ein Kampf zwischen einem Aschwurm und einem Drachen bekannt war welche in einem unentschieden endete, da der Aschwurm sich zurück unter die Oberfläche zog.
 
-![Freie Interpretation des sogenannten "Drachenfürsten". Der größte jemals gesehene Drache mit einer Flügelspannweite von geschätzt 30 Metern](Pictures\\Flavor\Monster\dragonmyth.jpg)
+![Freie Interpretation des sogenannten "Drachenfürsten". Der größte jemals gesehene Drache mit einer Flügelspannweite von geschätzt 30 Metern](Pictures%5CFlavor%5CMonster%5Cdragonmyth.jpg)
 
 ### Wahre Drachen {#WahrerDrache}
 
-Wahre Drachen sind mit bloßem Auge nicht von normalen Drachen zu unterscheiden, wobei ein wahrer Drache ungemein gefährlicher ist, da er in der Lage ist Feuer zu speien. 
+Wahre Drachen sind mit bloßem Auge nicht von normalen Drachen zu unterscheiden, wobei ein wahrer Drache ungemein gefährlicher ist, da er in der Lage ist Feuer zu speien.
 Zum Glück sind wahre Drachen noch seltener als herkömmliche, so gibt es nur noch 4 bestätigte wahre Drachen in ganz Orbis Astea, wobei der bekannteste in <font color="green">[Wandia](#Wandia)</font> wohnt, einer im Himmelsspitzen-Gebirge und man es bei den anderen nicht genau weiß.
 
-Das Feuer eines wahren Drachen ist seine gefährlichste Waffe. So konnte ein einzlner Drache geschätzt 60 Sekunden durchgehend Feuerspeien, ehe dieser abzog. Die Flammen des Drachen sind unter Umständen in der Lage Eisen zu schmelzen. Insofern wird bei einer Begegnung mit einem wahren Drachen abgeraten mehr als umbedingt nötig mit sich zu tragen und am Besten die Beine in die Hand nehmen und das weite suchen statt zu kämpfen.
+Das Feuer eines wahren Drachen ist seine gefährlichste Waffe.
+So konnte ein einzlner Drache geschätzt 60 Sekunden durchgehend Feuerspeien, ehe dieser abzog.
+Die Flammen des Drachen sind unter Umständen in der Lage Eisen zu schmelzen.
+Insofern wird bei einer Begegnung mit einem wahren Drachen abgeraten mehr als umbedingt nötig mit sich zu tragen und am Besten die Beine in die Hand nehmen und das weite suchen statt zu kämpfen.
 
 ## Foedukulus {#Foedukulus}
 
-### Gravis 
+### Gravis
 
 Ein Gravis ist eine nicht wirklich als Monster einordenbare Kreatur, da allerdings keine bessere Einordnung für sie gefunden werden kann stehen sie in diesem Buche.
 
-Ein Gravis ist ein monströses Getier, das intelligent genug ist um in einer Sozialstruktur zu leben und einfache Kommentare und Anweisungen von Menschen zu verstehen. Dies geht so weit, dass teilweise wirkliche Konversationen mit Gravi geführt werden können. Allerdings trifft es Konversation nur so halbwegs, da die Stimmbänder eines Gravis nur unverständliche Brüllgeräusche erzeugen können und die Konversationen daher eher einseitig sind. Dennoch verstehen Gravis Menschen zum Teil, was man an ihren Reaktionen sieht. 
+Ein Gravis ist ein monströses Getier, das intelligent genug ist um in einer Sozialstruktur zu leben und einfache Kommentare und Anweisungen von Menschen zu verstehen.
+Dies geht so weit, dass teilweise wirkliche Konversationen mit Gravi geführt werden können.
+Allerdings trifft es Konversation nur so halbwegs, da die Stimmbänder eines Gravis nur unverständliche Brüllgeräusche erzeugen können und die Konversationen daher eher einseitig sind.
+Dennoch verstehen Gravis Menschen zum Teil, was man an ihren Reaktionen sieht.
 
-Ein Gravis zeichnet sich zurch zweierlei Dinge aus: Horrende Kraft und eine beinahe übernatürliche Reaktionsfähigkeit. Ihre ohnehin dicke und ledrige Haut erholt sich in kürzester Zeit sogar von tiefen schnitten und wunden, was sie zu unglaublich gefährlichen Feinden macht, die mit Keulen in übergröße ausgestattet ganze Battalione einfacher Soldaten zerschmettern können. 
+Ein Gravis zeichnet sich zurch zweierlei Dinge aus: Horrende Kraft und eine beinahe übernatürliche Reaktionsfähigkeit.
+Ihre ohnehin dicke und ledrige Haut erholt sich in kürzester Zeit sogar von tiefen schnitten und wunden, was sie zu unglaublich gefährlichen Feinden macht, die mit Keulen in übergröße ausgestattet ganze Battalione einfacher Soldaten zerschmettern können.
 
 ![Darstellung eines Gravis im Dienste einer freien Kompanie](Pictures/Flavor/Monster/gravisT.png)
 
-Ein Gravis hat, wie bereits angemerkt, eine sehr dicke, fast rüstungsgleiche Haut. Aufgrund ihrer "Kommunikationsfähigkeit" und ihrer offensichtlichen Vorteile im Feld werden sie gerne von Söldnerkompanien eingesetzt, die die als Frontbrecher verwenden. Einen Gravis in der Kompanie zu haben ist ein seltener, aber mehr als entscheidender, taktischer Vorteil. Daher rüsten viele Kompanien einen Gravis mit zusätzlicher Ausrüstung aus, um noch mehr Nutzen aus ihm zu kitzeln.
+Ein Gravis hat, wie bereits angemerkt, eine sehr dicke, fast rüstungsgleiche Haut.
+Aufgrund ihrer "Kommunikationsfähigkeit" und ihrer offensichtlichen Vorteile im Feld werden sie gerne von Söldnerkompanien eingesetzt, die die als Frontbrecher verwenden.
+Einen Gravis in der Kompanie zu haben ist ein seltener, aber mehr als entscheidender, taktischer Vorteil.
+Daher rüsten viele Kompanien einen Gravis mit zusätzlicher Ausrüstung aus, um noch mehr Nutzen aus ihm zu kitzeln.
 Hierbei ist zu erwähnen, dass die Kaiserliche Armee keine Gravis in ihren Rängen erlaubt, da sie laut der Ekklesia "unheilige Kreaturen" sind.
 
-Doch warum sollte ein Gravis in einer menschlichen Armee dienen? Laut der Forschung von Primus Lauthaus ist eine große Menge an funkelnden Objekten ein Paarungsgebot der Gravi. Ein potentieller Partner wird das Angebot eines anderen Gravis nur akzeptieren, wenn er genug funkelnde Objekte hat um ein guter potentieller Partner zu sein - und menschliche Münzen oder Schätze sind großartige funkelnde Objekte. Daher ging Leithaus davon aus, dass für viele Gravis sich eine Anstellung mehr ausgezahlt hat als andere Methoden um an "Funkelzeug" zu kommen. Interessant ist auch dass das Funkelzeug nach dem Paarungsgebot für Gravi jede Bedeutung verliert und daher einfach mitgenommen werden kann.
-Die Theorie von Lauthaus fußt auf der Untersuchung gestohlener Objekte bei Gravis-Überfällen von Dörfern, die nahe ihrer Habitate liegen, ebenso wie von Beobachtungen von Gravi auss der Ferne. Allerdings ist diese Theorie eher umstritten und ihr steht die Theorie der Ekklesia gegenüber die besagt, dass Gravi ein zeichen des Allgott seien, dass der Mensch sich sogar große Monster zu Untertan machen kann (Aufgrund dieser theoretischen Differenzen wurde Leithaus schlussendlich auch der Häresie überführt und von der Inquisition hingerichtet).
-Laut Lauthaus leben die Gravi als Einzelgänger, bis sie ihr Paarungsgebot an einen anderen Gravis richten. Sollte es angenommen werden leben Gravi den Rest ihres Lebens friedlich und Monogam zusammen. Aggresivität ist nur beobachtbar während sie in der Jugend - also auf Partnersuche - sind.
-Geschlechtlicher Dimorphismus konnte bei Gravi nicht beobachtet werden und es ist fraglich ob es überhaupt Geschlechter gibt, da über ihre Fortpflanzung so gut wie nichts bekannt ist. 
+Doch warum sollte ein Gravis in einer menschlichen Armee dienen?
+Laut der Forschung von Primus Lauthaus ist eine große Menge an funkelnden Objekten ein Paarungsgebot der Gravi.
+Ein potentieller Partner wird das Angebot eines anderen Gravis nur akzeptieren, wenn er genug funkelnde Objekte hat um ein guter potentieller Partner zu sein - und menschliche Münzen oder Schätze sind großartige funkelnde Objekte.
+Daher ging Leithaus davon aus, dass für viele Gravis sich eine Anstellung mehr ausgezahlt hat als andere Methoden um an "Funkelzeug" zu kommen.
+Interessant ist auch dass das Funkelzeug nach dem Paarungsgebot für Gravi jede Bedeutung verliert und daher einfach mitgenommen werden kann.
+Die Theorie von Lauthaus fußt auf der Untersuchung gestohlener Objekte bei Gravis-Überfällen von Dörfern, die nahe ihrer Habitate liegen, ebenso wie von Beobachtungen von Gravi auss der Ferne.
+Allerdings ist diese Theorie eher umstritten und ihr steht die Theorie der Ekklesia gegenüber die besagt, dass Gravi ein zeichen des Allgott seien, dass der Mensch sich sogar große Monster zu Untertan machen kann (Aufgrund dieser theoretischen Differenzen wurde Leithaus schlussendlich auch der Häresie überführt und von der Inquisition hingerichtet).
+Laut Lauthaus leben die Gravi als Einzelgänger, bis sie ihr Paarungsgebot an einen anderen Gravis richten.
+Sollte es angenommen werden leben Gravi den Rest ihres Lebens friedlich und Monogam zusammen.
+Aggresivität ist nur beobachtbar während sie in der Jugend - also auf Partnersuche - sind.
+Geschlechtlicher Dimorphismus konnte bei Gravi nicht beobachtet werden und es ist fraglich ob es überhaupt Geschlechter gibt, da über ihre Fortpflanzung so gut wie nichts bekannt ist.
 
 Gravis-Habitate wurden vor allem in Wäldern mit nahen Flüssen und hoher Feuchtigkeit gefunden.
 
 ### Schratgärtner
 
-Bewacht und Plflanzt schrat, ist wichtig für Trank.
+Schratgärtner gehören aufgrund ihrer Gestalt und einer zumindest grundlegenden Intelligenz zu den Foedukulus.
+Das besondere dieser rund 3,5 Meter großen Monster, ist dass diese eine Art Landwirtschaft betreiben, dazu später mehr.
 
+Schratgärtner leben quasi das ganze Leben lang zurückgezogen in den Höhlen welche den Talkessel von Yondalla, die daran angrenzenden Bergketten so wie auch die Höhlen um die südlichen Hänge der Himmelsspitzen durchziehen.
+Sie verlassen diese Höhlen äußerst selten und interagieren dadurch kaum mit der ansässigen Bevölkerung.
+
+Schratgärtner verlassen ihre Höhlen gelegentlich um Feuerholz oder generell brennbares Material zu suchen um sich, trotz ihres Einzelgängerischen Lebensstil kleine Unterkünfte oder Schlafplätze mit Feuerstellen in den Höhlen zu bauen.
+
+Alleine aufgrund ihrer Körpergröße können Sie selbst für bestens ausgebildete Kämpfer eine ernsthafte Bedrohung darstellen und es wird, sofern man nicht Schrat stehlen möchte geraten diese Foedukulus zu meiden.
+
+![](docs/Pictures/Flavor/Monster/Schratgaertner.jpg "Darstellung eines Schratgaertner")
+
+Schratgärtner verwenden häufig rudimentäre Waffen welche aus Sehnen, Harzen Knochen und Steinen aus der Umgebung oder von Stein und Lindwürmern erstellen.
+
+Ihre primäre Nahrungsquelle, obgleich Sie alles Fresser sind ist Schrat.
+Schrat ist knorrige Mischung aus Pilz und Pflanze und wird in "Gärten" in den Höhlen angebaut und gepflegt.
+Schrat selbst lässt, laut den Zungen der Rah Kari geschmacklich zu wünschen übrig eignet sich allerdings hervorragend getrocknet als Proviant für längere Wüstenreisen.
+Schratgärtner lassen jedoch auch Schrat auf ihren Rücken wachsen und essen diesen bei Gelgenheit.
+Schrat des Rücken ist Braun-Rot wird Gerant-Schrat genannt und eignet sich wie der an sich pechschwarze Schrat selbst zur Herstellung von Obvisker-Tränken.
+Schrat oder Gerantschrat selbst verursacht weder gekocht noch Roh den selben Effekt wie wenn er von Alchemisten von den richtigen Zutaten erstellt wird.
+
+Da Obviskertränke in Eldria und dem Kaiserreich so wie bei den Rah-Kari's verboten sind, erzielen Obvsikertränke hohe Preise.
+Die hohen Preise bedingen sich dadurch dass der Schrat frisch sein muss, wie auch mit der Tatsache dass ein dreineinhalb Meter großer bewaffntes Monster einen versucht zu Schratdünger zu verarbeiten, sobald man seinem Garten oder ihn selbst zu Nahe kommt oder ihn zu ungünstigen Mondphasen ansieht.
+
+Es gibt keine besonderen Tricks Schratgärtner zu bekämpfen oder zu erlegen und wird von der Hand Voll Spezialisten der Rah-Kari wie auch des Kaiserreiches nicht weiter gelehrt.
+Preise auf dem Schwarzmarkt lassen vermuten, dass aus einem Schratgarten lediglich 4-8 Obviskertränke der Stufe 3 brauen lassen.
+\
+\
+Es wird für eine Nachhaltige Nutzung auch empfohlen Schratgärtner nicht zu töten, so legt es zumindest ein älteres Kaiserliches Dekret nahe.\
+\
+Anekdotisch lässt sich nur der übersetzte Bericht von Umag-Al-Orts-Top als Bekämpfungshandbuch wert
+en.\
+
+> "Zuerst stellt man sicher, dass sich in der Höhle tatsächlich Schratgärtner und nicht andere Monster befinden. Hierbei hilft es laut in die Höhlen zu brüllen. Kommt es darauf hin zu keinen geräuschen aus der Höhle hatm an mit Banditen, leeren Höhlen oder Stainwürmern zu rechnen. Banditen schlägt man mit dem Hammer das Gesicht ein. Stainwürmern läuft man davon und gegen Schratgärtner legt man vor der Höhle ein riesigen Feuer, platziert mehrere Säcke Gesteinsmehl davor und sprengt das ganze, sobald der Schratgärtner mit Steinen nach einem wirft die Gesteinsmehlsäcke mit einem Moltovika. \
+> \
+> Der Schratgärtner ist daraufhin Taub und durch das Gesteinsmehl eine Weile blind und meist in Atemnot, worauf hin man ihn mit schweren Kriegshämmern den Schädel brechen kann, sofern man Nachsichttränke konsumiert hat und kein schwächlicher Menschling ist.\
+> Es wird davon abgeraten mit Speeren oder Schwertern gegen den Schrat vorzugehen, da er diese meist den Träger entwendet und gegen weitere Feinde einsetzt. Dadurch sind alle Höhlen im nördlichen Yondalla bereits mit schwer bewaffneten Schratgärtnern ein reines Selbstmordkommand
+> o.
+>
+> Das Gehirn der Schratgärtner ist danach rasch gekocht zu fressen um so an seine Kräfte und sien Wissen zu gelangen."\
+> \
+> Bericht von Umag-Al-Orts-Top. Mein Monstergemetzl in Yondalla
+> .
 
 ## Bestien
 
 ### Kraves
-Kraves sind eine Plage, welche einem übergroßen Raben ähnelt und sowohl Städte als auch Höhlensysteme bewohnt. Obwohl der durchschnittliche Krave nicht fliegen kann, sorgen die vielen Variationen der Kraven - ebenso wie ihre Bosartigkeit - dafür 
+
+Kraves sind eine Plage, welche einem übergroßen Raben ähnelt und sowohl Städte als auch Höhlensysteme bewohnt.
+Obwohl der durchschnittliche Krave nicht fliegen kann, sorgen die vielen Variationen der Kraven - ebenso wie ihre Bosartigkeit - dafür
 
 > "Die Zerstörung von Wandia war in vielerlei Hinsicht grauenhaft, aber ebenso grauenhaft waren die Geschichten, welche sich im Nachhinein dort abspielten. Ich selbst sah die Verwandlung, welche einfache Aasvögel in Kraven verwandeln sollte: Krähen, die das verderbte Fleisch von Erwachten verspeißten und immer größer und aggressiver wurden. Alsbald waren sie zu schwer zum fliegen und entwickelten beinahe menschliche Gleidmaßen. Sie ergriffen Waffen und Werkzeuge und fielen über alles her, was sie an noch lebendigem Fleisch finden konnten."
 >
@@ -362,89 +502,117 @@ Kraves sind eine Plage, welche einem übergroßen Raben ähnelt und sowohl Städ
 ### Werwolf
 
 Der Werwölf gehören zu den mittelmäßig intelligenten Monstern welche sich, in leicht verschiedenen Varianten in der Welt verteilten und lediglich nicht in Wüstengebieten und der Grauen Ödnis anzutreffen sind.
-Das Aussehen der Werwölfe ist meist eine menschenähnliche Statur. Die Körpergröße beträgt im Schnitt 2,2 Meter. Ihre Körpoerbehaarung welche am Rücken und Oberkörper am stärksten ist, ist für gewöhnlich grau bis graublau. Braune Varianten finden sich in Wäldern und Sumpfgebieten des Süden häufiger.
+Das Aussehen der Werwölfe ist meist eine menschenähnliche Statur.
+Die Körpergröße beträgt im Schnitt 2,2 Meter.
+Ihre Körpoerbehaarung welche am Rücken und Oberkörper am stärksten ist, ist für gewöhnlich grau bis graublau.
+Braune Varianten finden sich in Wäldern und Sumpfgebieten des Süden häufiger.
 
-Ihre Körperliche Kraft und Schnelligkeit übersteigt die eines jeden trainierten Orks. Ausgestattet mit rund 5 cm langen Klauen, welche bei älteren Exemplaren häufig zum Teil gebrochen sind, reißen mühelos Menschen auf.
+Ihre Körperliche Kraft und Schnelligkeit übersteigt die eines jeden trainierten Orks.
+Ausgestattet mit rund 5 cm langen Klauen, welche bei älteren Exemplaren häufig zum Teil gebrochen sind, reißen mühelos Menschen auf.
 
-Die Vermehrung der Terretorialen Werwölfe erfolgt zufällig über das gesamte Jahr. Hierbei streifen meist Männchen auf der Suche nach Weibchen umher. Hierbei passiert es häufig, dass Werwölfe auch ihre angestammten Gebiete verlassen und teils in Dörfern gesichtet werden. Bis jetzt sind nur Sichtungen in der Nacht bekannt, wo die Werwölfe durch Dörfer zogen.
-Weibchen werfen nach unbekannter Zeitlänge rund 3-6 Jungtiere, welche an ihren Zitzen aufgezogen werden. Die Aufzuchtsdauer beträgt meist mehrere Monate wo das Weibchen häufig von einem Männchen mit zusätzlicher Beute versorgt wird.
+Die Vermehrung der Terretorialen Werwölfe erfolgt zufällig über das gesamte Jahr.
+Hierbei streifen meist Männchen auf der Suche nach Weibchen umher.
+Hierbei passiert es häufig, dass Werwölfe auch ihre angestammten Gebiete verlassen und teils in Dörfern gesichtet werden.
+Bis jetzt sind nur Sichtungen in der Nacht bekannt, wo die Werwölfe durch Dörfer zogen.
+Weibchen werfen nach unbekannter Zeitlänge rund 3-6 Jungtiere, welche an ihren Zitzen aufgezogen werden.
+Die Aufzuchtsdauer beträgt meist mehrere Monate wo das Weibchen häufig von einem Männchen mit zusätzlicher Beute versorgt wird.
 
-Sobald die Jungtiere  rund 11 Monate alt sind, was rund 1,3 Meter Körpergröße entspricht suchen Sie sich im Schutze der Dunkelheit neue Jagdgebiete.
+Sobald die Jungtiere rund 11 Monate alt sind, was rund 1,3 Meter Körpergröße entspricht suchen Sie sich im Schutze der Dunkelheit neue Jagdgebiete.
 
 Werwölfe sind anfällig gegenüber Feuer und Giften.
 
-![Darstellung eines lebenden Werwolfes](Pictures\\Flavor\Monster\werwolf.png)
-
+![Darstellung eines lebenden Werwolfes](Pictures%5CFlavor%5CMonster%5Cwerwolf.png)
 
 ## Vielbeiner
 
 ### Skrogan Skorpion {#Skrogan}
 
-Ein Skrogan Skorpion ist eine große Bestie, ein große Skorpion, der in Eid' Rah Kari heimisch ist. Fast alle Fernkampfangriffe - ebenso wie viele Nahkampfangriffe - sind gegen seinen Panzer wirkungslos. Ebenjener Panzer wird von den Rah Kari oft benutzt, um Rüstungen für besondere Einheiten wie Helden oder Generäle zu fertigen.
+Ein Skrogan Skorpion ist eine große Bestie, ein große Skorpion, der in Eid' Rah Kari heimisch ist.
+Fast alle Fernkampfangriffe - ebenso wie viele Nahkampfangriffe - sind gegen seinen Panzer wirkungslos.
+Ebenjener Panzer wird von den Rah Kari oft benutzt, um Rüstungen für besondere Einheiten wie Helden oder Generäle zu fertigen.
 
-Wilde Skrogan-Skorpione sind mittlerweile selten geworden, da die Rah Kari sie wegen ihrer Rüstungen jagen oder sie für den Dienst in ihren Einheiten domnestizieren. Skrogan Skorpione sieht man häufiger in den Armeen der Rah Kari. 
+Wilde Skrogan-Skorpione sind mittlerweile selten geworden, da die Rah Kari sie wegen ihrer Rüstungen jagen oder sie für den Dienst in ihren Einheiten domnestizieren.
+Skrogan Skorpione sieht man häufiger in den Armeen der Rah Kari.
 
 ![Die Jagd auf einen Skrogan Skorpion wird meist mit berittenen Bogenschützen durchgeführt](Pictures/Flavor/Monster/SkroganSkorpion.jpg)
 
-Skrogan Skorpione sind im Gegensatz zu ihren Verwandten, den Silurian-Skorpionen, aüßerst schwerfällig. So ist es für den durchschnittlichem Menschen möglich, einem Skrogan-Skorpion zu Fuß zu entfliehen. Deswegen schlagen diese Skorpione meistens in für sie vorteilhaftem Terrain zu. Sie bevorzugen es in Kuhlen oder sehr großen Löchern zu leben, in denen die Steigung oder die Wände ihre Opfer an der Flucht hindern. Sie verfolgen ihre Opfer über mittlere Distanzen, was sie anfällig für Köder-Strategien macht.
+Skrogan Skorpione sind im Gegensatz zu ihren Verwandten, den Silurian-Skorpionen, aüßerst schwerfällig.
+So ist es für den durchschnittlichem Menschen möglich, einem Skrogan-Skorpion zu Fuß zu entfliehen.
+Deswegen schlagen diese Skorpione meistens in für sie vorteilhaftem Terrain zu.
+Sie bevorzugen es in Kuhlen oder sehr großen Löchern zu leben, in denen die Steigung oder die Wände ihre Opfer an der Flucht hindern.
+Sie verfolgen ihre Opfer über mittlere Distanzen, was sie anfällig für Köder-Strategien macht.
 
 ### Silurian Skorpion
 
 Silurianskorpione, sind im eigentlichen Sinn keine Skorpione sondern eine scheinbar sehr alte Variante davon.
 
-Die Siluriansskorione kommen beinahe ausschließlich in Wüstengebieten vor, sind jedoch teils in der Grauen Ödnis anzutreffen. Sie werden, je nach Alter bis zu 3,5 Meter lang.
+Die Siluriansskorione kommen beinahe ausschließlich in Wüstengebieten vor, sind jedoch teils in der Grauen Ödnis anzutreffen.
+Sie werden, je nach Alter bis zu 3,5 Meter lang.
 
-Silurianskorpione sind Einzelgänger und treffen sich nur zur Paarung.  Die Eier werden nicht bewacht und sind gekocht genießbar.
+Silurianskorpione sind Einzelgänger und treffen sich nur zur Paarung.
+Die Eier werden nicht bewacht und sind gekocht genießbar.
 Die Monster sind nicht intelligenter als allgemeines Insektoides Getier und können für gewöhnlich mit Fernkampfwaffen verletzt werden, so dass sich diese wieder in den Sand zurückziehen.
-Ihre Färbung entspricht meist dem örtlichen Sand wo sich diese teils langsam grabend fortbewegen. Ihre Sicht ist schlecht, allerdings sind Sie extrem feinfühlig gegenüber Vibrationen.
+Ihre Färbung entspricht meist dem örtlichen Sand wo sich diese teils langsam grabend fortbewegen.
+Ihre Sicht ist schlecht, allerdings sind Sie extrem feinfühlig gegenüber Vibrationen.
 Ihr Gift ist nicht besonders toxisch, allerdings sind die Mengen unheimlich hoch - bis zu einem halben Humpen Bier!
 
-Die Skropinoe sind gegenüber Feuer quasi nicht verletzbar und können so NICHT mit Moltovika oder brenndem Öl bekämpft werden. Moltovika desorientieren allerdings die Skorpione wodurch es möglcih ist mit Speeren die Skorpione zu erlegen.
+Die Skropinoe sind gegenüber Feuer quasi nicht verletzbar und können so NICHT mit Moltovika oder brenndem Öl bekämpft werden.
+Moltovika desorientieren allerdings die Skorpione wodurch es möglcih ist mit Speeren die Skorpione zu erlegen.
 Ihr Fleisch ist, trotz Verhältnismäßig Rarität in den Städten der Rahkari extrem begehrt und kann pro Kilogramm umgerechnet 4000 Reiks kosten.
-Ihr Körperpanzer kann hervorragend als mittlere Rüstung verwendet werden und ist fabelhaft leicht. Allerdings kann man ohne Ersatzpanzer diese Rüstung nicht warten.
+Ihr Körperpanzer kann hervorragend als mittlere Rüstung verwendet werden und ist fabelhaft leicht.
+Allerdings kann man ohne Ersatzpanzer diese Rüstung nicht warten.
 
 Silurian Skorpione fallen primär einsam herumwandernde Wesen an und so empfiehlt sich mindestens zu viert oder zu fünft durch Siluriangebiet zu streifen.
 
-![Darstellung eines Silurian Skorpion der gerade einen Wüstengleiter erlegt welcher durch die starken Regenfälle an die Oberfläche gezwungen wurde ](Pictures\\Flavor\Monster\\silurianscorpion.jpg) 
+![Darstellung eines Silurian Skorpion der gerade einen Wüstengleiter erlegt welcher durch die starken Regenfälle an die Oberfläche gezwungen wurde](Pictures%5CFlavor%5CMonster%5Csilurianscorpion.jpg)
 
 ### Znitins
+
 Die 5 meter Umspannenden Spinnen in Silva Nacia sind zwar Verhältnismäßig selten, jedoch haben diese in der Elfenkultur von Silva Nacia eine feste Bedeutung da man immer wieder in Spinnseide eingewickelten ausgesogenen Leichen findet.
 Obwohl Elfen geschickt sind werden auch geschickte Späher von diesen Spinnen überlistet.
 Prinzipiell sind die Znitins zwar äußerst geschickt und schnell, und erstaunlich kräftig wenn man sich denen im Nahkampf stellt, jedoch können Sie durch die Nutzungs von Fernkampfwaffen rasch unschädlich gemacht werden.
 Dies bedeutet für das Dickicht von Silva Nacia dass gut einsehbare Bereiche obligatorisch sind um diese Monster zu überwältigen.
 
 Im Nahkampf ist zum empfehlen schwere Schilder zu verwenden da die Schläge mit den langen Beinen sonst rasch zu Situationen führen wo das benötigte Schwert plötzlich zwischen den Beinen der Spinne liegt.
-Die Beine selbst sind in den äußeren Segmenten äußerst stabil und feuerfest. Der Hinterkörper ist hingegen leicht entzündlich und äußerst leicht verletzlich.
+Die Beine selbst sind in den äußeren Segmenten äußerst stabil und feuerfest.
+Der Hinterkörper ist hingegen leicht entzündlich und äußerst leicht verletzlich.
 
-Zum gezielten Ausmerzen dieser Acht-Beiner empfiehlt sich die oben beschriebene offene Fläche und ein Hinterhalt aus mehreren Fernschützen und 3 unterstützenden Nahkämpfern. Hierbei sollten die nicht als "Beute" ausgelegten Personen sich visuell tarnen und sich so gut es nicht bewegen.
+Zum gezielten Ausmerzen dieser Acht-Beiner empfiehlt sich die oben beschriebene offene Fläche und ein Hinterhalt aus mehreren Fernschützen und 3 unterstützenden Nahkämpfern.
+Hierbei sollten die nicht als "Beute" ausgelegten Personen sich visuell tarnen und sich so gut es nicht bewegen.
 
-Sobald die Znitins herauskommen und in Sichtweite sind sollte auf diese geschossen werden da der Nahkämpfer unter Umständen sehr rasch überwältigt werden kann. Vor allem wenn keine Schilder verwendet werden.
+Sobald die Znitins herauskommen und in Sichtweite sind sollte auf diese geschossen werden da der Nahkämpfer unter Umständen sehr rasch überwältigt werden kann.
+Vor allem wenn keine Schilder verwendet werden.
 
-Das Gift der Znitins lähmt extrem lange und lediglich die Elfen haben Gegenmittel. Diese Mittel werden allerdings aus religiösen Gründen nur an andere Elfen weitergegeben.
+Das Gift der Znitins lähmt extrem lange und lediglich die Elfen haben Gegenmittel.
+Diese Mittel werden allerdings aus religiösen Gründen nur an andere Elfen weitergegeben.
 
 Die Spinnen sind primär Tagsüber aktiv, sehen jedoch nachts noch immer besser als die meisten Elfen, wodurch das erledigen der Znitins am Tag die sichere Variante ist.
 
 Die Spinnen sind überraschend intelligent und ziehen sich häufig einfach zurück sobald die Situation ihnen nicht geheuer erscheint.
 
+![Darstellung zweier Znitins Spinnen in Silva Nacia.](Pictures%5CFlavor%5CMonster%5Cznitins_spider2.jpg)
 
-
-![Darstellung zweier Znitins Spinnen in Silva Nacia.](Pictures\\Flavor\Monster\znitins_spider2.jpg)
-
-## Schleimer 
+## Schleimer
 
 ### Fungalit
 
 Fungalit sind bekannt aus den Überresten Wandias und durchstreifen in Gruppen alle bekannten Bereiche von Wandia und sind nach Ansicht Gelehrter eine schreckliche Pilzerkrankung, welche die Opfer zuerst ins Koma stürzt und anschließend über Wochen in einen Art Pilz-Zombie verwandelt.
-Der Biergeruch der Hierbei ständig stärker wird bleibt auch bei erneuten Erwachen bestehen. Nachdem für die Pilzerkrankung keine Heilung gefunden und alle dokumentierten Fälle zu Pilz-Zombies werden sollte den Fungaliten mit Vorsicht begegnet werden.
+Der Biergeruch der Hierbei ständig stärker wird bleibt auch bei erneuten Erwachen bestehen.
+Nachdem für die Pilzerkrankung keine Heilung gefunden und alle dokumentierten Fälle zu Pilz-Zombies werden sollte den Fungaliten mit Vorsicht begegnet werden.
 
-Die Betroffenen verschmelzen äußerst rasch mit den Rüstungen und Waffen. Unbewaffnete Opfer entwickeln meist eine rund 2 Meter lange Ranke welche toxische Effekte bei Treffern verursacht.
+Die Betroffenen verschmelzen äußerst rasch mit den Rüstungen und Waffen.
+Unbewaffnete Opfer entwickeln meist eine rund 2 Meter lange Ranke welche toxische Effekte bei Treffern verursacht.
 
-Fungaliten sind in ihrer Intelligenz deutlich über regulären Erwachten und kooperieren meist untereinander und sind zu Fuß durchaus schneller als so mancher gepanzerter Mensch.  Die eigentliche Gefahr geht allerdings von den Pestwirten aus, welche als quasi lebende Bombe  sich häufig im Getümmel anschleichen und sich dann selbst sprengen.  Die dabei entstehenden Spore und Gase infizieren in einem beachtlichen Umkreis alle nahestehenden Humanoiden und vermutlich auch Foedukuluse.
+Fungaliten sind in ihrer Intelligenz deutlich über regulären Erwachten und kooperieren meist untereinander und sind zu Fuß durchaus schneller als so mancher gepanzerter Mensch.
+Die eigentliche Gefahr geht allerdings von den Pestwirten aus, welche als quasi lebende Bombe sich häufig im Getümmel anschleichen und sich dann selbst sprengen.
+Die dabei entstehenden Spore und Gase infizieren in einem beachtlichen Umkreis alle nahestehenden Humanoiden und vermutlich auch Foedukuluse.
 
-Von daher sollte äußerste Obacht gelten wenn Gruppen von Fungaliten bekämpft werden. Es empfiehlt sich die Fungaliten mit Bogen ausgeschaltet werden.   Fungaliten sind am Kopf äußerst leicht entzündlich. Die dabei entstehenden Gase sind äußerst unangenehm stechend und verursachen in derr Nähe Vergiftungssymptome, welche mit Reingungsstufe 1 Tränken beseitigt werden können.
+Von daher sollte äußerste Obacht gelten wenn Gruppen von Fungaliten bekämpft werden.
+Es empfiehlt sich die Fungaliten mit Bogen ausgeschaltet werden.
+Fungaliten sind am Kopf äußerst leicht entzündlich.
+Die dabei entstehenden Gase sind äußerst unangenehm stechend und verursachen in derr Nähe Vergiftungssymptome, welche mit Reingungsstufe 1 Tränken beseitigt werden können.
 
-![Darstellung eines Rüstungslosen Fungalit.](Pictures\\Flavor\Monster\Fungalit.jpg)
-
+![Darstellung eines Rüstungslosen Fungalit.](Pictures%5CFlavor%5CMonster%5CFungalit.jpg)
 
 ## Knochenschädler
 
@@ -452,15 +620,19 @@ Von daher sollte äußerste Obacht gelten wenn Gruppen von Fungaliten bekämpft 
 
 Die zu den Knochenschädlern zählenden Zwillingen des Abgrundes sind zwei, scheinbar idente und immer zu zweit auftrendte riesige, rund 15 Meter große, schlanke Kreaturen welche in Wandia durchstreifen.
 
-Ihr Kopf ist von der bekannten Knochenplatte bedeckt und ihr Brusstbereich ist ebenfalls wie die Schultern von Knochenplatten bedeckt. Die Arme teilen sich ab dem Ellenbogen in 2 Unterarme, welche unabhängig von einander bewegt werden können. Die Beine bestehen aus wulstartigen Tentakeln und teilen sich am ende in mehrere kleinere Tentakel auf.
-Dem Hinterkopf entspringen mehrere kleine Tentakel. Die Funktion dieser ist unbekannt.
+Ihr Kopf ist von der bekannten Knochenplatte bedeckt und ihr Brusstbereich ist ebenfalls wie die Schultern von Knochenplatten bedeckt.
+Die Arme teilen sich ab dem Ellenbogen in 2 Unterarme, welche unabhängig von einander bewegt werden können.
+Die Beine bestehen aus wulstartigen Tentakeln und teilen sich am ende in mehrere kleinere Tentakel auf.
+Dem Hinterkopf entspringen mehrere kleine Tentakel.
+Die Funktion dieser ist unbekannt.
 
 Ebenso unbekannt ist die Tatsache was die Zwillinge des Abgrundes als Nahrung zu sich nehmen, ob diese sich paaren oder verletzt werden können.
 
+![Darstellung der Zwillinge als diese 872 n. Riga plötzlich an der Oberfläche erschienen.](Pictures%5CFlavor%5CMonster%5CZwillinge%20des%20Abgrundes.jpg)
 
-![Darstellung der Zwillinge als diese 872 n. Riga plötzlich an der Oberfläche erschienen.](Pictures\\Flavor\Monster\Zwillinge des Abgrundes.jpg) 
-
-Berichtet wurde bis jetzt von 3 Expeditionstrupps welche die Zwillinge bekämpften oder beim kämpfen mit anderen Monstern beobachteten. Die übersetzten Berichte des dritten Zwerg-Orkischen Expeditionsberichte aus ca. 1120  v. Riga sollten einen besseren Einblick gewähren.
+Berichtet wurde bis jetzt von 3 Expeditionstrupps welche die Zwillinge bekämpften oder beim kämpfen mit anderen Monstern beobachteten.
+Die übersetzten Berichte des dritten Zwerg-Orkischen Expeditionsberichte aus ca.
+1120 v. Riga sollten einen besseren Einblick gewähren.
 
 > "Im unteren Ostbezirk von Wandia, nachdem wir die dritte Welle der Fungaliten ohne Verluste beseitigten kamen am Platz der Hohen Künste plötzlich diese riesiegen Tentakelkämpfer. Es wurde sofort ein 3 Meter großer Felsbrocken auf uns geschleudert und Hurak-Gro, einer 2 Meter großer Ork in schwerer Rüstung in eine Blutlache verwandelt, während 2 Zwergenschützen ihre fahrende Balliste verloren. Wir teilten uns wie üblich in 4 Trupps auf und versuchten hinter Häusern Schutz zu suchen. Das klappte genau so lange, bis die beiden plötzlich an den Häusern standen und einfach unsere teuer Rekrutierten Söldner wie Früchte herauspickten und zerdrückten wie Reife Pflaumen.
 
@@ -468,57 +640,65 @@ Wir waren alle Hartgesotten vom Kampf aber bei allem was ich kannte, es drehte s
 
 Die zweite Gruppe begann ihre Moltovika auf das Monstrum zu werfen während die Dritte Gruppe versuchte den zweiten abzulenken.
 
-Die Moltovika brachten das Monstrum dazu sich umzudrehen und ginge mit 3 Schritten zum Platz- nahm die vergoldete Statue und nutzte diese als Knüppel. Die Moltovika bewirkten dass es Fleisch regnete dass seinerseits wieder begann uns Anzugreifen. Diese kleinen Knochenschädler zeigten auch die typische Knochenplatte und konnten von unseren Nahkämpfern erledigt werden. Die Moltoivika schienen das Ungetüm aber nicht zu kümmern.
+Die Moltovika brachten das Monstrum dazu sich umzudrehen und ginge mit 3 Schritten zum Platz- nahm die vergoldete Statue und nutzte diese als Knüppel.
+Die Moltovika bewirkten dass es Fleisch regnete dass seinerseits wieder begann uns Anzugreifen.
+Diese kleinen Knochenschädler zeigten auch die typische Knochenplatte und konnten von unseren Nahkämpfern erledigt werden.
+Die Moltoivika schienen das Ungetüm aber nicht zu kümmern.
 
-![Darstellung der angreifende Sprösse der Zwillinge.](Pictures\\Flavor\Monster\Spross der Zwillinge des Abgrundes.jpg) 
+![Darstellung der angreifende Sprösse der Zwillinge.](Pictures%5CFlavor%5CMonster%5CSpross%20der%20Zwillinge%20des%20Abgrundes.jpg)
 
-Der zweite Gigant zerdrückte ebenfalls einfach die Orks in der schweren Rüstung und hielt dann weitere einfach in seinen "zweiten" Händen und ging danach einfach wieder. 
-Der erste Zwilling , wlecher mit den Moltovikas beworfen wurde drehte sich darauf hin um, warf die Statue in das Dach der Schule der Sprengmeister und dann war der Ganze Spuck vorbei. Pfeile und Bolzen welche wir nachschossen steckten dann zwar in den Körpern drinnen aber sie gingen einfach weiter zurück w Sie herkamen während wir versuchten die noch 3 lebenden Orks in deren Händen irgendwie zu befreien. 
+Der zweite Gigant zerdrückte ebenfalls einfach die Orks in der schweren Rüstung und hielt dann weitere einfach in seinen "zweiten" Händen und ging danach einfach wieder.
+Der erste Zwilling , wlecher mit den Moltovikas beworfen wurde drehte sich darauf hin um, warf die Statue in das Dach der Schule der Sprengmeister und dann war der Ganze Spuck vorbei.
+Pfeile und Bolzen welche wir nachschossen steckten dann zwar in den Körpern drinnen aber sie gingen einfach weiter zurück w Sie herkamen während wir versuchten die noch 3 lebenden Orks in deren Händen irgendwie zu befreien.
 Doch deren Schreie wurden mit jedem gewaltigen Schritt der Zwillinge immer leiser da wir Sie nicht mehr einholen konnten.
 
 Daraufhin versuchten wir noch die Statue im Dach der Sprengmeisterschule zu bergen um unsere fianziellen verluste auszugleichen und seit dem ging kein einziger aus unserem Expeditionstrupp je zurück nach Wandia.
-Nie mehr wieder wollten wir diese Zwillinge sehen
->
-> ---  Auszug aus dem Bericht des dritten Zwerg-orkischen Expeditionstrupp nach Wandia. ca 1120 v. Riga
+Nie mehr wieder wollten wir diese Zwillinge sehen \> \> --- Auszug aus dem Bericht des dritten Zwerg-orkischen Expeditionstrupp nach Wandia.
+ca 1120 v. Riga
 
+Wie der Bericht eindrucksvoll beschreibt konnten Moltovika nichts gegen die Ungetüme anrichten und seither gilt der untere Ostbezirk von Wandia nur noch für Verrückte als Ort für Schatzssuchende.
 
-Wie der Bericht eindrucksvoll beschreibt konnten Moltovika nichts gegen die Ungetüme anrichten und seither gilt der untere  Ostbezirk von Wandia nur noch für Verrückte als Ort für Schatzssuchende.
-
-
-Als die Zwillinge dann rund 2000 Jahre später plötzlich an der Oberfläche Wandias auftauchten errichteten diese mit mitgebrachten Steinpyramiden einen Altar oder ein Symbol. Die Zwillinge waren mehrere Wochen an der Oberfläche Wandias und zerstörten dabei weitere Teile der Ruinen und schalteten einen Trupp der Elfen aus indem diese mit Brocken, Fleischschergen ihrerseits und einem Baumstamm  angriffen.
-Die eldrischen Fürsten versuchten daraufhin eine Armee zu sammeln, weigerten sich aber Schlussendlich die Zwillinge anzugreifen und ließen diese walten. 
+Als die Zwillinge dann rund 2000 Jahre später plötzlich an der Oberfläche Wandias auftauchten errichteten diese mit mitgebrachten Steinpyramiden einen Altar oder ein Symbol.
+Die Zwillinge waren mehrere Wochen an der Oberfläche Wandias und zerstörten dabei weitere Teile der Ruinen und schalteten einen Trupp der Elfen aus indem diese mit Brocken, Fleischschergen ihrerseits und einem Baumstamm angriffen.
+Die eldrischen Fürsten versuchten daraufhin eine Armee zu sammeln, weigerten sich aber Schlussendlich die Zwillinge anzugreifen und ließen diese walten.
 Nach den paar Wochen war der Spuk vorbei, jedoch blieb für alle Abenteurigen selbst Jahre später noch ein bitterer Nachgeschmack.
 
 Prinzipiell wird geraten in den bekannten Gängen welche von den Ostbezirken von Ober- und Unterwandia ausgehen Abstand zu nehmen.
-
 
 ## Vampiridae
 
 ## Katakhan
 
-Katakhane gehören zu den schwächeren Vampiridae und treten meist als Einzelgänger auf. Sie erinnern in der Gestalt an hässliche Hybriden aus Fledermäusen und haarigen Goblins und sind in der Bevölkerung dementsprechend beliebt.
-Wie alle Vampiridae saugen Kathakane Blut. Das besondere hierbei ist, dass hierbei das Blut der Opfer über die Klauen aufgenommen werden und äußerst rasch verstoffwechselt werden. Dies bedeutet, dass sich der Kathakan im Kampf an Opfern schnell hochheilen kann was ihnen unter Söldnern den Ruf von "Unsterblichen" Einbrachte. 
+Katakhane gehören zu den schwächeren Vampiridae und treten meist als Einzelgänger auf.
+Sie erinnern in der Gestalt an hässliche Hybriden aus Fledermäusen und haarigen Goblins und sind in der Bevölkerung dementsprechend beliebt.
+Wie alle Vampiridae saugen Kathakane Blut.
+Das besondere hierbei ist, dass hierbei das Blut der Opfer über die Klauen aufgenommen werden und äußerst rasch verstoffwechselt werden.
+Dies bedeutet, dass sich der Kathakan im Kampf an Opfern schnell hochheilen kann was ihnen unter Söldnern den Ruf von "Unsterblichen" Einbrachte.
 
-Prinzipiell sind Katakhane nachtaktiv und hören und riechen dementsprechend gut. Ihre Anfälligkeit ist gegenüber Feuer und Narkotika. 
-Falls es sich gerade nicht ziemt einen Forst nieder zu brennen wird empofhlen Schafe mit Honig eingeschmiert als Falle zu verwenden. Dies sollte diesen beschränkt Intelligenten bärtigen Vampiridae meist aus verstecken hervorlocken.
-
+Prinzipiell sind Katakhane nachtaktiv und hören und riechen dementsprechend gut.
+Ihre Anfälligkeit ist gegenüber Feuer und Narkotika.
+Falls es sich gerade nicht ziemt einen Forst nieder zu brennen wird empofhlen Schafe mit Honig eingeschmiert als Falle zu verwenden.
+Dies sollte diesen beschränkt Intelligenten bärtigen Vampiridae meist aus verstecken hervorlocken.
 
 ## Fleischsauger
 
 Obwohl alle Vampiridae im eigentlich Sinne Blut "saugen", sind die Fleischsauger hier eine Sonderform.
-Ihr Habitus erinnert an einen breit gebauten Menschen, wobei der linke Arm in mehreren Tentakeln mündet. Die Körperfarbe ist blau-grau und der untere Bauch meist mit kleinen Öffnungen versehen, wo Fleischstücke ausgepresst werden.
+Ihr Habitus erinnert an einen breit gebauten Menschen, wobei der linke Arm in mehreren Tentakeln mündet.
+Die Körperfarbe ist blau-grau und der untere Bauch meist mit kleinen Öffnungen versehen, wo Fleischstücke ausgepresst werden.
 
 Fleischsauger sind nicht besonders zähe Kämpfer, aber erstaunlich agil und äußerst anfällig gegenüber Licht.
-Zu finden sind Sie meist in der nähe von ehemaligen Schlachtfeldern wo Sie die Leichen und sterbende Aussaugen. Da diese Monster zwar von geübten Nahkämpfern oder Schützen rasch erledigt werden können, ist die Tatsache, dass diese nur in der Nacht angreifen eine Erschwernis um diese Monster tatsächlich zu töten.
+Zu finden sind Sie meist in der nähe von ehemaligen Schlachtfeldern wo Sie die Leichen und sterbende Aussaugen.
+Da diese Monster zwar von geübten Nahkämpfern oder Schützen rasch erledigt werden können, ist die Tatsache, dass diese nur in der Nacht angreifen eine Erschwernis um diese Monster tatsächlich zu töten.
 
-Durch das Dekret von 75 n. Riga  müssen von nun an auf Schlachtfeldern Verwundete versorgt werden um diese vom Schlachtfeld zu entfernen.  Tote sollten so rasch es möglich ist begraben werden, da Fleischsauger meist zahlreich aus mehreren dutzend Kilometern Umkreis angezogen werden, wodurch diese eine Bedrohung für die lokale Sicherheit darstellen können. In Friedenszeiten nimmt die Anzahl der Sichtungen von Fleischsaugern häufig ab. Vermutlich fallen diese in eine Art zwischenzeitlichen Winterschlaf, was durch mehrmalige Beobachtungen zumindest naheliegt.
+Durch das Dekret von 75 n.
+Riga müssen von nun an auf Schlachtfeldern Verwundete versorgt werden um diese vom Schlachtfeld zu entfernen.
+Tote sollten so rasch es möglich ist begraben werden, da Fleischsauger meist zahlreich aus mehreren dutzend Kilometern Umkreis angezogen werden, wodurch diese eine Bedrohung für die lokale Sicherheit darstellen können.
+In Friedenszeiten nimmt die Anzahl der Sichtungen von Fleischsaugern häufig ab.
+Vermutlich fallen diese in eine Art zwischenzeitlichen Winterschlaf, was durch mehrmalige Beobachtungen zumindest naheliegt.
 
 Das Kaiserreich, alle Eldrischen Fürstentümer, außer Austen, bieten für einen geöteteten Fleischsauger ungefähr 5000-10.000 Reiks an Kopfgeld an.
 
-
-![Darstellung eines männlichen Fleischsauger](Pictures\\Flavor\Monster\Fleischsauger.jpg)  
-
-
+![Darstellung eines männlichen Fleischsauger](Pictures%5CFlavor%5CMonster%5CFleischsauger.jpg)
 
 ## Riesenkalmar
 
@@ -526,16 +706,18 @@ Das Kaiserreich, alle Eldrischen Fürstentümer, außer Austen, bieten für eine
 
 ## Bleirücken
 
-Elchgroßer Vierbeiniger Jäger mit extrem dichten & schweren fell  -  Gebirgsmonster mit Varianten in den Tundren
-
+Elchgroßer Vierbeiniger Jäger mit extrem dichten & schweren fell - Gebirgsmonster mit Varianten in den Tundren
 
 ## Leviathan
 
-Ein Leviathan ist eine riesige, turmhohe Bestie von solcher größe, dass sie einen ganzen Trupp Männer unter ihren eisernen Füßen zerquetschen kann. Sie sind nicht-aggressive Wesen, die nur zur Selbstverteidigung oder zum Schutz ihres Partners und/oder ihrer Jungen angreifen.
+Ein Leviathan ist eine riesige, turmhohe Bestie von solcher größe, dass sie einen ganzen Trupp Männer unter ihren eisernen Füßen zerquetschen kann.
+Sie sind nicht-aggressive Wesen, die nur zur Selbstverteidigung oder zum Schutz ihres Partners und/oder ihrer Jungen angreifen.
 
-Normalerweise greift kein geisti gesunder Mensch diese Monster an - bis auf einige Jäger, die sie wegen der wertvollen Perlen, die sich in ihren Köpfen befinden jagen.  Außerdem versuchen manche Animali-Stämme, diese Bestien für ihre Rituale zu töten.
- 
-Wenn man diese Kreaturen töten will, dann ist die beste Idee, sie in ein Gelände zu locken, wo ihre riesige Größe zu ihrem Nachteil gelangt. Da normale Bolzen oder Pfeile - aufgrund ihrer dicken Haut und der Menge an Fleisch, die durchbohrt werden müssten, um in die Nähe ihrer Organe zu gelangen - so gut wie keine Wirkung haben, ist die Jagd auf einen Leviathan selbst unter besten Bedingungen ein mehr als schwieriges Unterfangen.
+Normalerweise greift kein geisti gesunder Mensch diese Monster an - bis auf einige Jäger, die sie wegen der wertvollen Perlen, die sich in ihren Köpfen befinden jagen.
+Außerdem versuchen manche Animali-Stämme, diese Bestien für ihre Rituale zu töten.
+
+Wenn man diese Kreaturen töten will, dann ist die beste Idee, sie in ein Gelände zu locken, wo ihre riesige Größe zu ihrem Nachteil gelangt.
+Da normale Bolzen oder Pfeile - aufgrund ihrer dicken Haut und der Menge an Fleisch, die durchbohrt werden müssten, um in die Nähe ihrer Organe zu gelangen - so gut wie keine Wirkung haben, ist die Jagd auf einen Leviathan selbst unter besten Bedingungen ein mehr als schwieriges Unterfangen.
 
 Die Leviathane leben im Eisland, aber durch ihre geringe Reproduktionsrate in Verbindung mit der aggressiven Bejagung durch einige Stämme der Animali ist ihre Zahl über die Zeit geringer geworden.
 
@@ -543,22 +725,26 @@ Die Leviathane leben im Eisland, aber durch ihre geringe Reproduktionsrate in Ve
 
 > "Meine Männer und ich sollten uns um einige lästige Piraten kümmern, die in der Nähe unserer Küsten plünderten. Als wir sie endlich gefunden hatten, war die Hälfte der Piraten bereits abgeschlachtet, während die andere Hälfte versuchte, gegen einen Leviathan klarzukommen. Ich weiß nicht, was die Idioten dachten, vielleicht wollten sie die Perle in seinem Kopf, aber eines war sicher: Unsere Bemühungen waren nicht nötig. Der Leviathan würde den Job ohne unsere Hilfe zu Ende bringen."
 >
-> --- Titus Serenius, Quartiermeister von Sturmkap 
-
+> --- Titus Serenius, Quartiermeister von Sturmkap
 
 ## Blood spider
 
-Has the size of a typical giant rat, but the looks of a proper typical poisonous Appochis spider with blood red skin. These creatures will spit acid at their targets and if within range they will jump on them to suck their blood. They can be found in Nebelheim.
+Has the size of a typical giant rat, but the looks of a proper typical poisonous Appochis spider with blood red skin.
+These creatures will spit acid at their targets and if within range they will jump on them to suck their blood.
+They can be found in Nebelheim.
 
 ## Land bat
 
-A mutated version of bats that have migrated out of caves. These creatures a still blind like their ancestors but have lost their ability of flight. However, to cope with their new surroundings have mutated into having multiple new and large muscle groups. They are mostly found outside near caves around the mountains of Himmelspitzen and will mostly be seen in groups. Unlike their predecessors have they grown to be hostile against most creatures that they deem a treat. 
-
+A mutated version of bats that have migrated out of caves.
+These creatures a still blind like their ancestors but have lost their ability of flight.
+However, to cope with their new surroundings have mutated into having multiple new and large muscle groups.
+They are mostly found outside near caves around the mountains of Himmelspitzen and will mostly be seen in groups.
+Unlike their predecessors have they grown to be hostile against most creatures that they deem a treat.
 
 ## Acid raptors
 
-These small raptors have large pockets of acid on their back and forehead, which can easily burst upon contact. They will aggressively run to any creature that enters their territory. They are mostly found around rivers in Grenzland and  the southern parts of the Herzland, where they will bath in the water to keep a neutral pH level.
-
+These small raptors have large pockets of acid on their back and forehead, which can easily burst upon contact.
+They will aggressively run to any creature that enters their territory.
+They are mostly found around rivers in Grenzland and the southern parts of the Herzland, where they will bath in the water to keep a neutral pH level.
 
 ## Legenden
-
