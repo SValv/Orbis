@@ -2,7 +2,19 @@
 
 ![Karte des Herzlandes](Pictures/Maps/Herzland.jpg)
 
-## Ortschaften der Region 
+## Ortschaften der Region
+
+Civis Primae - Hauptstadt des Herzlandes und des Kaiserreichs
+
+Einwohner: rund 2.000.000
+
+Riga:
+
+Einwohner: rund 30.000
+
+Agiontum: (Stadt südlich von civis primae an der hauptstraße)
+
+Einwohner: rund 15.000
 
 ### Infrastruktur
 
@@ -12,7 +24,7 @@
 
 ### Die Ressourcen der Region
 
-## Soziopolitische Lage 
+## Soziopolitische Lage
 
 ### Herrschaftsystem/Organisation
 
@@ -25,5 +37,3 @@
 ## Gerüchte der Region
 
 ## Sehenswürdigkeiten
-
-
