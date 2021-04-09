@@ -433,6 +433,13 @@ gerüchte-der-region-5
 sehenswürdigkeiten-5
 besonderheiten-der-region
 die-hammerer-von-alt-greifenstadt
+oberreik
+die-hauptstadt-kreuzburg
+die-geschichte-der-region-vor-der-kolonialisierung
+ein-wertvolles-gut---das-eisenholz
+das-zusammenleben-der-verschiedenen-rassen
+die-zobel-fäule
+die-armee-in-oberreik
 die-region-eldria
 ortschaften-der-region-6
 infrastruktur-6
@@ -626,6 +633,9 @@ modifizieren
 waffenfremde-modifikationenschaffungen
 typische-modifikationen
 downtime-aktivitäten
+hauptaktivitäten-umfassen
+nebenaktiväten-umfassen
+andere-aktvitäten-sich-mit-kontakten-und-npcs-austauschen
 training
 studieren
 Lebenserhaltungskosten

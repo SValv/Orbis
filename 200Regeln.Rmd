@@ -35,12 +35,12 @@ In diesem Fall nimmt man den Durchschnitt der Attribute und rundet auf die näch
 ### Die einfache Probe
 
 Die einfache Probe ist zu Würfeln, wenn es keinen direkten Gegenspieler gibt.
-Sie ist meistens mit einem Threshold in Value[^regeln-1] oder Damage verknüpft, den der DM beliebig festlegt.
+Sie ist meistens mit einem Threshold in Value[^1] oder Damage verknüpft, den der DM beliebig festlegt.
 Sollte man bspw.
 versuchen ein Schloss zu knacken, wird der DM festlegen, dass der Value über 3 sein soll, um das zu erreichen.
 Bei härteren/leichteren schlössern ist der Value natürlich anzupassen.
 
-[^regeln-1]: Value ist eine Form von Gütekriterium eines Wurfes - je höher der Value, desto besser der Wurf.
+[^1]: Value ist eine Form von Gütekriterium eines Wurfes - je höher der Value, desto besser der Wurf.
 
 Welche Werte hierbei welcher Größenordnung entsprechen findet sich <font color="green">[hier](#Abstufungen)</font>.
 
@@ -640,6 +640,8 @@ Jeder Charakter kann je eine Haupt und eine Nebenaktivität pro Downtime ausübe
 
 Lernen entweder in Selbststudium, durch Lehrer oder Bücher
 
+Trainieren
+
 *Diverse Verdienstmöglichkeiten diese umfassen zum Beispiel:*
 
 Diebstahl =\> zwei Optionen, hohes Risiko und niedriges Risiko jeweils mit der Basis 500 und 300 x Value mit hohem SD ( hohes Risiko SD=275, niedriges Risiko SD=)
@@ -788,3 +790,4 @@ Mit gewissen Aktionen können Kosten auch reduziert werden, hierbei sind die typ
 
 -   Jagen/Fischen
 -   Dienstleistungen für Tavernenbesitzer
+
