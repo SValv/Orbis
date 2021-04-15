@@ -1,0 +1,304 @@
+
+# Nutzung des Programmes
+
+## Benutzung von Jupyter
+
+Ausführen einer Zelle: Strg+Enter
+
+Neue Zelle unter/über momentan markierter Zelle: a/b
+
+Argumente ohne = "Irgendwas" müssen manuell ausgewiesen werden, bsp:
+char-objekte, <br> andere Argumente haben einen Standardwert = x, der
+überschrieben werden kann
+
+Werte wie "x" sind strings und müssen auch so adressiert werden. Um eine
+Liste zu erstellen die die Inhalte x und y hat braucht man: [x,y]
+
+## Klassen und Npc's erstellen
+
+```{r echo=T,eval=F,include=T}
+c=char(sheet="Abfrage", xlsx = "C:\\Users\\svalv\\Dropbox\\Lele\\Rpg\\Container\\Data\\Profiles.xlsx")
+c=monster(Sheet = "Erwachter",xlsx="C:\\Users\\svalv\\Dropbox\\Lele\\Rpg\\Container\\Data\\ProfilesMonster.xlsx")
+c=reittier(Sheet = "Pferd")
+```
+
+erstellt ein Char objekt aus einem Charsheet oder Profil, oder ein
+Monster-Objekt
+
+Sheet ist der Sheetname im Excel - xlsx der Pfad
+
+### Initialisierte einen Npc mit gleichen Methoden wie char oder monster - Klassen
+
+```{r echo=T,eval=F,include=T}
+c=npc(health=200, ausdauer=12, Str=10 ,Agi= 10, Cha=10, Phy= 10, Int=10, Inst=10, Luck=5, Glaube=5, 
+      sigmaAttr= 1.3, Kampf=20, Rouge= 20, Social=20, Move= 20, Intelligence=20, Utilities=20, sigmaSkills= 2.5,
+      Equi1="Schwert",Tier=1, Armor=0, Equi2="", Reittier="")
+```
+
+oder:
+
+```{r echo=T,eval=F,include=T}
+c=npc()
+c.init(health=200, ausdauer=12, Str=10, Agi= 10, Cha=10, Phy= 10, Int=10, Inst=10, Luck=5, Glaube=5,
+       sigmaAttr= 1.3, Kampf=20, Rouge= 20, Social=20, Move= 20, Intelligence=20, Utilities=20, sigmaSkills= 2.5,
+       Equi1="Schwert", Tier=1, Armor=0, Equi2="", Reittier="")
+```
+
+Die Argumente sind Großteils selbsterklärend, sigmaAttr und sigmaSkills
+stehen für die Standardabweichungen
+
+### Methoden
+
+```{r echo=T,eval=F,include=T}
+c.show()
+```
+
+Zeigt die Werte des Objekts
+
+```{r echo=T,eval=F,include=T}
+c.modify(att,modifyer)
+```
+
+modifiziert einen Wert des Objekts
+
+```{r echo=T,eval=F,include=T}
+c.status()
+```
+
+zeigt die Gesundheitswerte des Objekts
+
+```{r echo=T,eval=F,include=T}
+c.dots()
+```
+
+Zeigt die aktiven Dots des Objekts
+
+### Waffen
+
+```{r echo=T,eval=F,include=T}
+w=waffe(Typ = "Faust", Tier = 1, Zustand = "", WT = "Normal", Dmg=0, Parry=0, AP=0)
+```
+
+WT = Waffentyp: Monsterwaffe oder Normale Waffe <br> Typ = Waffenart
+<br> Dmg, Parry und AP = Nur wichtig bei Monsterwaffe, beschreiben
+Damage, Parryprozentsatz und Armor Penetration in % <br> Zustand =
+Zustand der Waffe, Standardmäßig der Max des Tiers
+
+```{r echo=T,eval=F,include=T}
+w.show()
+```
+
+Zeigt die Werte des Objekts
+
+```{r echo=T,eval=F,include=T}
+w.änderZustand(modifyer)
+```
+
+ändert Zustand um den Modifyer, bspw: + für buff, - für debuff
+
+### Munitionsobjekt
+
+```{r echo=T,eval=F,include=T}
+Ammo.AP
+Ammo.Norm
+Ammo.Scharf
+```
+
+Ammo.Munitionstyp zum Spezifizieren der Munition
+
+```{r echo=T,eval=F,include=T}
+Ammo.AP.show()
+```
+
+Ammo.Munitionstyp zum Spezifizieren der Munition
+
+## Schnellfunktionen
+
+**Normale:** (throwing, artillerie, performance, feilschen, dodge,
+taschendiebstahl, schlossknacken, reiten, vehicles, handwerk, alchemie,
+survival)
+
+```{r echo=T,eval=F,include=T}
+perception(c, mod = 0, Rnum=1)
+```
+
+c = ein char Objekt <br> mod = modifikator + für buff, - für debuff
+
+**Spezielle:**
+
+```{r echo=T,eval=F,include=T}
+animal_handling(c, target=None, mod = 0, Rnum=1)
+```
+
+c = ein char Objekt <br> target = eigenes Reittier bei None, sonst
+Reittier eingeben <br> mod = modifikator + für buff, - für debuff
+
+```{r echo=T,eval=F,include=T}
+armed(att, defe, Abw="N", called="F", Watt=1, Wdefe=1, Limb="R",
+      AWaffe=False, VWaffe=False, 
+      Advantage=False, N=3, AdvTarget="A",
+      Amod=0, Vmod=0)
+```
+
+```{r echo=T,eval=F,include=T}
+ranged(att, defe, Abw, Muni="Norm", called="F", Watt=3, Deckung=0,
+       Limb="R", AWaffe=False, VWaffe=False,
+       Advantage=False, N=3, AdvTarget="A",
+       Amod=0, Vmod=0)
+```
+
+```{r echo=T,eval=F,include=T}
+unarmed(att, defe, Abw="N", called="F", Watt="F", Wdefe="F", Limb="R",
+        AWaffe=False, VWaffe=False,
+        Advantage=False, N=3, AdvTarget="A",
+        Amod=0, Vmod=0)
+```
+
+```{r echo=T,eval=F,include=T}
+mountattack(att, defe, Abw="N", called="F", Watt=1, Wdefe=1, Limb="R",
+            AWaffe=False, VWaffe=False,
+            Reittier=False, Advantage=False, N=3, AdvTarget="A",
+            Amod=0, Vmod=0)
+```
+
+```{r echo=T,eval=F,include=T}
+grapple(att, defe, Amod = 0,  Vmod = 0)
+```
+
+att = das angreifende char-objekt<br> defe = das verteidigende
+char-objekt<br> Abw = die Abwehr, "N" für keine, "B" für Blocken, "P"
+für Parry<br> called = called Shot Ziel<br> Watt = angreifende Waffe<br>
+Wdefe = Waffe des Verteidigers<br> Limb = Angegriffenes Körperteil -
+links ("L") oder Rechts ("R")<br> AWaffe = Custom Waffenobjekt des
+Angreifers, die normale wenn None<br> VWaffe = Custom Waffenobjekt des
+Verteidigers, die normale wenn None<br> Reittier = Custom Reittierobjekt
+des Angreifers, das normale wenn None<br> Advantage = "Ad" für
+Advantage, "Dis" für Disadvantage<br> N = für den Grad des Advantage (ob
+2,3 oder 4)<br> AdvTarget = Target für Advantage:"A" für Angreifer, "V"
+für Verteidiger<br> Muni = Munitionstyp des Munitions-Objekts (bspw:
+Ammo.Norm)<br> Deckung = Verteidigungswert der Deckung<br> Amod =
+modifikator für Angreifer + für buff, - für debuff <br> Vmod =
+modifikator für Verteidiger + für buff, - für debuff
+
+```{r echo=T,eval=F,include=T}
+molotovika(Tier,*args)
+```
+
+Tier = Tier der Bombe <br> \*args = beliebig viele Objekte
+
+## Gruppenfähige Proben
+
+```{r echo=T,eval=F,include=T}
+schleichen(actor, observer=None, Amod=0, Pmod=0)
+```
+
+```{r echo=T,eval=F,include=T}
+running(actor,verfolger=None, Amod=0, Pmod=0)
+acrobatics(actor,verfolger=None, Amod=0, Pmod=0)
+swimming(actor,verfolger=None, Amod=0, Pmod=0)
+```
+
+actor/observer = objekt oder Liste<br> verfolger = objekt<br> Amod =
+Modifikation für opfer - liste (muss positionsweise abgestimmt sein)
+oder Zahl<br> Pmod = Modifikation für verfolger/observer
+
+```{r echo=T,eval=F,include=T}
+intimidation(actor, opfer, Amod=0, Pmod=0)
+persuation(actor, opfer, Amod=0, Pmod=0)
+lying(actor, opfer, Amod=0, Pmod=0)
+```
+
+actor = objekt<br> opfer = objekt oder Liste<br> Amod = Modifikation für
+actor<br> Pmod = Modifikation für opfer - liste (muss positionsweise
+abgestimmt sein) oder Zahl
+
+```{r echo=T,eval=F,include=T}
+perception(actor,Thres=0,mod=0)
+```
+
+führt einen Perceptioncheck durch <br> actor= Liste oder Objekt <br>
+Thress = Threshold<br> mod= modifikator oder liste an modifikatoren,
+muss positionsweise abgestimmt sein
+
+```{r echo=T,eval=F,include=T}
+willpower(*args,Thres=3)
+```
+
+führt einen Willpowercheck durch, der eine Reihenfolge zurück gibt, args
+können listen sowie Einzelobjekte sein <br> Thres ist der Threshold für
+diesen Check
+
+```{r echo=T,eval=F,include=T}
+initiative(*args)
+```
+
+führt einen Initiativcheck durch, der eine Reihenfolge zurück gibt, args
+können listen sowie einzelobjekte sein
+
+```{r echo=T,eval=F,include=T}
+showinit()
+```
+
+Zeigt die momentane Reihenfolge der Initiative
+
+## Proben
+
+### Option 1:
+
+```{r echo=T,eval=F,include=T}
+pb1=r
+Würfel=sel(pb1.cha, pb1.int)
+Skill=pb1.lying
+
+pb2=n
+Würfel2=sel(pb2.inst,pb2.int)
+Skill2=pb2.insight
+
+Advantage=1
+Ausdauersave="F"
+
+critmarginnegativ=pb1.cmneg
+critmarginpositiv=pb1.cmpos
+AusWü=pb1.auswü
+CMneg2=pb2.cmneg
+CMpos2=pb2.cmpos
+AusWü2=pb2.auswü
+
+Probe(pb1,pb2,Ausdauersave)
+```
+
+pb1 = Person 1 <br> pb2 = Person 2 <br> Advantage = Anzahl Advantage
+
+bei Würfel und Skill die richtigen attribute einfügen. "pb1."
+stehenlassen
+
+### Option 2:
+
+```{r echo=T,eval=F,include=T}
+lying(a)
+insight(b)
+```
+
+a und b sind char objekte
+
+## Übriges
+
+```{r echo=T,eval=F,include=T}
+Trank(obj,stufe,art=None,merkmal=None)
+```
+
+obj = char, npc oder monster<br> stufe = Stufe des Tranks<br> art = Art
+des Trankes benamst nach Datenbankinhalt<br> merkmal = wenn Art Buff
+oder Debuff - das gebuffte Attribut
+
+```{r echo=T,eval=F,include=T}
+downtime_activity(obj, Activity)
+```
+
+Activity = Aktivität benamst nach Datenbankinhalt
+
+```{r echo=T,eval=F,include=T}
+Wetter(Region,Jahreszeit, Zeit="Tag")
+```
+
+Argumente Selbsterklärend

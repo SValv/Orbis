@@ -4,7 +4,7 @@ editor_options:
     wrap: sentence
 ---
 
-# Monster und andere Abscheulichkeiten
+# Monster und andere Abscheulichkeiten {#Monster}
 
 Monstrositäten und Ungeheuer sind für manche Städter bloß Seemannsgarn oder gar den geistigen Absonderlichkeiten so mancher Trinker entsprungen.
 Nichts desto trotz gehören Monstrositäten und Ungeheuer - zum Leidwesen aller damit in Kontakt getretenen - zu der Realität in welche uns auch der Allgott gesetzt hat.
@@ -98,6 +98,50 @@ Diese Monster sind lediglich aus alten Überlieferungen von Orks, Zwerge oder El
 Seit der Erstauflage dieses Werkes vor über dreizehn Jahrzehnten konnte von diesen Legenden kein Nachweis erbracht werden.
 
 ## Höllenbrut
+
+### Großer Aufspießer
+
+Eine besondere Abscheulichkeit stellt der Große Aufspießer dar.
+Sein Name, ist mit der Darstellung unten nachvollziehbar.
+
+![](Pictures/Flavor/Monster/Gro%C3%9Fer%20Aufspie%C3%9Fer.jpg "Großer Aufspießer in der Schlacht um die Knochenfeldschlucht")
+
+Aufspießer gehören zu den Monstern der Klasse der Höllenbrut und sind reichen in der Körpergröße vier Meter vom Boden in die Höhe.
+Ausgestattatet mit sieben Armen und 3 Beinen ist die unnatürlichkeit dieser Abschleuchkeit sofort klar.
+Die 7 Arme münden alle in langen Spitzen und stabilen Stacheln und haben messerscharfe Kanten.
+Die 7 Arme können unabhängig voneinander bewegt werden wodurch es praktisch unmöglich ist, selbst für erfahrene Soldaten mit Schildern diese zu Blocken.
+Aufspießer sind äußerst aggressiv und verhalten sich selten vorraussschauend wodurch es leicht ist diese in Hinterhalte zu locken.
+Allerdings sind die belegten Angriffe der Aufspießer vorwiegend auf Abend und Nachtstunden beschränkt, wodurch die Koordination eines Hinterhaltes schwierig sein kann.
+Auch ist es aufgrund der mangelnden Intelligenz, keinerlei Territorialität und der Moblität schwer in der Zeit organisierte militärische Gruppen abzustellen um diese Monster zu bekämpfen.
+
+Die Bekämpfung von Großen Aufspießern erfolgt mit Speeren oder Hellebarden in Formation unter schwerer Rüstung.
+Es ist quasi unmöglich die Arme des Aufspießers zu fixieren da diese meist mit deutlich mehr Kraft in den einzelnen Armen ausgestattet sind als ein Ork mit Händen aufbringen könnte.
+Hingegen ist es hilfreich mit Wurfspeeren die Bewegungsmuster soweit ainzuschränken, dass die Infanterie die Attacken des Aufspießers blocken kann.
+
+Brand und Sprengmittel sollten keines Falls verwendet werden, da dies zur Flucht des Aufspießers führen kann, wodurch er wieder sien Unwesen treiben wird.
+
+Über die Verbreitung von Aufspießern ist eine zufällige Dispersion über die gesamte bekannte Welt nachgewiesen.
+Berichte der Rah Kari, aus Eldria, von Orkstämmen und von Zwergenstädten legen genau dies nahe.
+Die Bekämpfungsarten gleichen sich hierbei bei allen Kulturen.
+
+Die Vermehrung läuft über das Abspalten eigener Körperhälften und augewachsene Exemplare sind an dem 2ten mund an der Flanke des Monsters sichtbar.
+Es ist folglich immens wichtig beim Ausschalten des großen Aufspießers auch den kleinen Teil nochmals explizit zu töten.
+Dieser stellt zwar unmittelbar keine BEdrohung dar, ernährt sich aber von der Muttertierleiche und vergräbt sich anschließend im Erdreich, wo nach kurzer Zeit dann ein neuer reifender Aufspießer herauskommt und dann nach, vermutlich wenigen Monaten, das Problem mit einem großen Aufspießer erneut besteht.
+
+Das größte bekannte Exemplar eines Aufspießers wurde nach einem Scharmützel zwischen der Kaiserlichen Armee und den Rebellen von Eldria gesichtet, welcher durch den Verzehr von Erwachten eine grünliche Farbe angenommen hat und vermutlich um die 7 Meter an Körpergröße erreichte.
+Er konnte nicht getötet, lediglich durch in Brand setzen vertrieben werden.
+
+Kindergeschichten darüber gibt es in Eldria noch heute.
+
+> "Kleines Kindlein sei brav und fein.
+>
+> seid bei Nacht sicher daheim
+>
+> stecket euch in euren Bettchen rein,
+>
+> sonst klopft und stopft der Aufspießer sich euch, an den Füßen voran, in sich hinein"
+>
+> Gedicht des Lyrikers Kasper von Gent
 
 ### Kaisot
 
@@ -469,15 +513,14 @@ Da Obviskertränke in Eldria und dem Kaiserreich so wie bei den Rah-Kari's verbo
 Die hohen Preise bedingen sich dadurch dass der Schrat frisch sein muss, wie auch mit der Tatsache dass ein dreineinhalb Meter großer bewaffntes Monster einen versucht zu Schratdünger zu verarbeiten, sobald man seinem Garten oder ihn selbst zu Nahe kommt oder ihn zu ungünstigen Mondphasen ansieht.
 
 Es gibt keine besonderen Tricks Schratgärtner zu bekämpfen oder zu erlegen und wird von der Hand Voll Spezialisten der Rah-Kari wie auch des Kaiserreiches nicht weiter gelehrt.
-Preise auf dem Schwarzmarkt lassen vermuten, dass aus einem Schratgarten lediglich 4-8 Obviskertränke der Stufe 3 brauen lassen.
-\
+Preise auf dem Schwarzmarkt lassen vermuten, dass aus einem Schratgarten lediglich 4-8 Obviskertränke der Stufe 3 brauen lassen.\
 \
 Es wird für eine Nachhaltige Nutzung auch empfohlen Schratgärtner nicht zu töten, so legt es zumindest ein älteres Kaiserliches Dekret nahe.\
 \
 Anekdotisch lässt sich nur der übersetzte Bericht von Umag-Al-Orts-Top als Bekämpfungshandbuch wert
 en.\
 
-> "Zuerst stellt man sicher, dass sich in der Höhle tatsächlich Schratgärtner und nicht andere Monster befinden. Hierbei hilft es laut in die Höhlen zu brüllen. Kommt es darauf hin zu keinen geräuschen aus der Höhle hatm an mit Banditen, leeren Höhlen oder Stainwürmern zu rechnen. Banditen schlägt man mit dem Hammer das Gesicht ein. Stainwürmern läuft man davon und gegen Schratgärtner legt man vor der Höhle ein riesigen Feuer, platziert mehrere Säcke Gesteinsmehl davor und sprengt das ganze, sobald der Schratgärtner mit Steinen nach einem wirft die Gesteinsmehlsäcke mit einem Moltovika. \
+> "Zuerst stellt man sicher, dass sich in der Höhle tatsächlich Schratgärtner und nicht andere Monster befinden. Hierbei hilft es laut in die Höhlen zu brüllen. Kommt es darauf hin zu keinen geräuschen aus der Höhle hatm an mit Banditen, leeren Höhlen oder Stainwürmern zu rechnen. Banditen schlägt man mit dem Hammer das Gesicht ein. Stainwürmern läuft man davon und gegen Schratgärtner legt man vor der Höhle ein riesigen Feuer, platziert mehrere Säcke Gesteinsmehl davor und sprengt das ganze, sobald der Schratgärtner mit Steinen nach einem wirft die Gesteinsmehlsäcke mit einem Moltovika.\
 > \
 > Der Schratgärtner ist daraufhin Taub und durch das Gesteinsmehl eine Weile blind und meist in Atemnot, worauf hin man ihn mit schweren Kriegshämmern den Schädel brechen kann, sofern man Nachsichttränke konsumiert hat und kein schwächlicher Menschling ist.\
 > Es wird davon abgeraten mit Speeren oder Schwertern gegen den Schrat vorzugehen, da er diese meist den Träger entwendet und gegen weitere Feinde einsetzt. Dadurch sind alle Höhlen im nördlichen Yondalla bereits mit schwer bewaffneten Schratgärtnern ein reines Selbstmordkommand

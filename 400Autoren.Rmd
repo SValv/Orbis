@@ -1,5 +1,7 @@
 # (PART) Das Team hinter Orbis Astea {-} 
 
+# Zum Projekt
+
 Orbis Astea wurde am 4.12.2019 erfunden. Schon bald wurde die erstversion der Karte gezeichnet und alle arbeiteten fleißig an der Welt.
 Die Highlights der Geschichte von Orbis Astea sind hier aufgeführt:
 
@@ -9,14 +11,15 @@ Die Highlights der Geschichte von Orbis Astea sind hier aufgeführt:
 * 29.05.20 Start Bookdown
 * 08.08.20 Veröffentlichung Bookdown
 * 24.11.20 Orbis Astea 1.2
+* 15.04.21 Orbis Astea 2.0
 
-# Die Autoren {-}
+## Die Autoren {-}
 
 ![Das Team hinter Orbis Astea in Form ihrer Charaktere](Pictures/Team/Team.jpg)
 
 Orbis Astea wurde vom folgendem Team geschrieben:
  
-## Simon Valverde {-}
+### Simon Valverde {-}
 
 <div style= "float:left;position: relative; right: 30px; top: -7px;">
 
@@ -39,7 +42,7 @@ Neben allem Arbeitswillen und dem Ansporn der Gruppe vergisst er eins jedoch nic
 Es sind seine Kreativität, sein Herzblut und seine Disziplin, die das Projekt auf Hochtouren voranbringen. 
 
 
-## Lena Pfeiffer {-}
+### Lena Pfeiffer {-}
 
 <div style= "float:left;position: relative; right: 30px; top: -7px;">
 
@@ -57,7 +60,7 @@ Es sind seine Kreativität, sein Herzblut und seine Disziplin, die das Projekt a
 
 Lena sorgt dafür, dass Organisation, Deadlines und wichtige Ideen im Projekt nicht in Vergessenheit geraten. Des Weiteren ist sie auch der soziale Pol des Teams, der Mediator spielt sollte irgendwas im Argen liegen. Sie hat einen Blick auf die Bedürfnisse und Laune aller und unterstützt in Lore-Sessions fleißig mit Ideen und Snacks.  
 
-## Kasper Mortensen {-}
+### Kasper Mortensen {-}
 
 <div style= "float:left;position: relative; right: 30px; top: -7px;">
 
@@ -73,7 +76,7 @@ Lena sorgt dafür, dass Organisation, Deadlines und wichtige Ideen im Projekt ni
 
 Kasper ist ein starker Befürworter und Unterstützer des Projekts von Anfang an. Besonders im Beginn der Entwicklung unserer Welt hat er viele Ideen eingebracht und die Gestaltung Orbis‘ maßgeblich beeinflusst. Seine Bereiche liegen aktuell in der Entwicklung weiterer Lore, sowie seiner Position als Side-DM. Insbesondere durch diese Funktion hilft er viel weiter, da er auf diesem Wege Simon die notwendige Auszeit und Freude am Spiel durch eigenes Charakterplay ermöglicht. Besonders zu erwähnen ist, dass er Bereit ist sich in viele Bereiche reinzuarbeiten und einen unglaublichen Enthusiasmus an den Tisch zu bringen.
 
-## Emil Mortensen {-}
+### Emil Mortensen {-}
 
 <div style= "float:left;position: relative; right: 30px; top: -7px;">
 
@@ -92,7 +95,7 @@ Emil geht voll und ganz in der Gestaltung unserer großartigen Maps auf. Mit vie
 Seine treue Seele ist Teil einer jeden Lore-Session, die abgehalten wird. Er stellt kritische Rückfragen und fördert damit zusätzlich die akkurate Weiterentwicklung unserer Lore, sowie der Spielmechaniken. Darüber hinaus entwickelt er neue Lore – vor allem im Bereich der Animali.
 
 
-## Florian Berger {-}
+### Florian Berger {-}
 
 <div style= "float:left;position: relative; right: 30px; top: -7px;">
 
@@ -113,7 +116,7 @@ Seine Königsdisziplin ist jedoch das Regelwerk, welches er regelmäßig mit neu
 Die Vergangenheit der Zwerge sind dabei ebenfalls ein großer Punkt, die seine Zuwendung bekommt. 
 
 
-## Andreas Fellner {-}
+### Andreas Fellner {-}
 
 <div style= "float:left;position: relative; right: 30px; top: -7px;">
 
@@ -135,4 +138,4 @@ Die Vergangenheit der Zwerge sind dabei ebenfalls ein großer Punkt, die seine Z
 Durch seinen Hintergrund als Biologe hat er viele Ideen für Pflanzen, die uns InGame auf unseren Reisen begleiten und viele neue Möglichkeiten schaffen, die weit über die Erstellung normaler Heiltränke hinausgehen. Gerne widmet er sich auch der Entwicklung von Monstern, dem Nebelhain und verschiedenen Orkstämmen, sowie deren Geschichte. Sein Motto könnte man nennen „Je abscheulicher die Kreatur, desto besser!“. 
 Bei Lore Sessions hält er sich mit Kritik und Ideen zu neuen Entscheidungen nicht zurück. Auch hier findet der biologische Hintergrund immer wieder Einzug, da es hier zum ein oder anderen Fact-Check kommt, der es der Gruppe ermöglicht einen gewissen Realitätsbezug zu wahren. 
 
-# Impressum und rechtliche Hinweise {-}
+## Impressum und rechtliche Hinweise {-}
