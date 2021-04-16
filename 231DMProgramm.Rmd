@@ -247,6 +247,8 @@ Zeigt die momentane Reihenfolge der Initiative
 
 ## Proben
 
+Proben sind leicht veraltert, stand 16.04.2020
+
 ### Option 1:
 
 ```{r echo=T,eval=F,include=T}
@@ -275,15 +277,6 @@ pb1 = Person 1 <br> pb2 = Person 2 <br> Advantage = Anzahl Advantage
 
 bei Würfel und Skill die richtigen attribute einfügen. "pb1."
 stehenlassen
-
-### Option 2:
-
-```{r echo=T,eval=F,include=T}
-lying(a)
-insight(b)
-```
-
-a und b sind char objekte
 
 ## Übriges
 

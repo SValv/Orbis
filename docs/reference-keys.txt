@@ -752,6 +752,5 @@ schnellfunktionen
 gruppenfähige-proben
 proben
 option-1
-option-2
 übriges
 zum-projekt
