@@ -30,8 +30,10 @@ Sheet ist der Sheetname im Excel - xlsx der Pfad
 ### Initialisierte einen Npc mit gleichen Methoden wie char oder monster - Klassen
 
 ```{r echo=T,eval=F,include=T}
-c=npc(health=200, ausdauer=12, Str=10 ,Agi= 10, Cha=10, Phy= 10, Int=10, Inst=10, Luck=5, Glaube=5, 
-      sigmaAttr= 1.3, Kampf=20, Rouge= 20, Social=20, Move= 20, Intelligence=20, Utilities=20, sigmaSkills= 2.5,
+c=npc(health=200, ausdauer=12, Str=10 ,Agi= 10, Cha=10, Phy= 10,
+      Int=10, Inst=10, Luck=5, Glaube=5, sigmaAttr= 1.3, 
+      Kampf=20, Rouge= 20, Social=20, Move= 20, Intelligence=20,
+      Utilities=20, sigmaSkills= 2.5,
       Equi1="Schwert",Tier=1, Armor=0, Equi2="", Reittier="")
 ```
 
@@ -39,8 +41,10 @@ oder:
 
 ```{r echo=T,eval=F,include=T}
 c=npc()
-c.init(health=200, ausdauer=12, Str=10, Agi= 10, Cha=10, Phy= 10, Int=10, Inst=10, Luck=5, Glaube=5,
-       sigmaAttr= 1.3, Kampf=20, Rouge= 20, Social=20, Move= 20, Intelligence=20, Utilities=20, sigmaSkills= 2.5,
+c.init(health=200, ausdauer=12, Str=10, Agi= 10, Cha=10, Phy= 10,
+       Int=10, Inst=10, Luck=5, Glaube=5, sigmaAttr= 1.3,
+       Kampf=20, Rouge= 20, Social=20, Move= 20, Intelligence=20, 
+       Utilities=20, sigmaSkills= 2.5,
        Equi1="Schwert", Tier=1, Armor=0, Equi2="", Reittier="")
 ```
 
