@@ -8,7 +8,7 @@ Ausführen einer Zelle: Strg+Enter
 Neue Zelle unter/über momentan markierter Zelle: a/b
 
 Argumente ohne = "Irgendwas" müssen manuell ausgewiesen werden, bsp:
-char-objekte, <br> andere Argumente haben einen Standardwert = x, der
+char-objekte, <br>andere Argumente haben einen Standardwert = x, der
 überschrieben werden kann
 
 Werte wie "x" sind strings und müssen auch so adressiert werden. Um eine
@@ -77,15 +77,21 @@ c.dots()
 
 Zeigt die aktiven Dots des Objekts
 
+```{r echo=T,eval=F,include=T}
+undo(c)
+```
+
+Macht einen fälschlichen Ausdauer-check ungeschehen
+
 ### Waffen
 
 ```{r echo=T,eval=F,include=T}
 w=waffe(Typ = "Faust", Tier = 1, Zustand = "", WT = "Normal", Dmg=0, Parry=0, AP=0)
 ```
 
-WT = Waffentyp: Monsterwaffe oder Normale Waffe <br> Typ = Waffenart
-<br> Dmg, Parry und AP = Nur wichtig bei Monsterwaffe, beschreiben
-Damage, Parryprozentsatz und Armor Penetration in % <br> Zustand =
+WT = Waffentyp: Monsterwaffe oder Normale Waffe <br>Typ = Waffenart
+<br>Dmg, Parry und AP = Nur wichtig bei Monsterwaffe, beschreiben
+Damage, Parryprozentsatz und Armor Penetration in % <br>Zustand =
 Zustand der Waffe, Standardmäßig der Max des Tiers
 
 ```{r echo=T,eval=F,include=T}
@@ -99,6 +105,12 @@ w.änderZustand(modifyer)
 ```
 
 ändert Zustand um den Modifyer, bspw: + für buff, - für debuff
+
+```{r echo=T,eval=F,include=T}
+auffüllen(Ladungen, Tier=1, effekt="gift", Wsl="None", Dauer="None", Dmg="None")
+```
+
+Ladungen = Wieviele Ladungen auf der Waffe <br>Tier = Tier bei Gift <br>effekt = Art des Dots <br>Wsl = Wahrscheinlichkeit des Applys, meistens von der Waffe gegeben, daher "None" <br>Dauer = Dauer der Dots, meistens vom Effekt gegeben, daher "None" <br>Dmg = Schaden des Dots, meistens vom Effekt gegeben, daher "None"
 
 ### Munitionsobjekt
 
@@ -123,88 +135,88 @@ taschendiebstahl, schlossknacken, reiten, vehicles, handwerk, alchemie,
 survival)
 
 ```{r echo=T,eval=F,include=T}
-perception(c, mod = 0, Rnum=1)
+dodge(c, Dot=True, mod = 0, Rnum=1)
 ```
 
-c = ein char Objekt <br> mod = modifikator + für buff, - für debuff
+c = ein char Objekt <br>mod = modifikator + für buff, - für debuff <br>Dot = soll ein Dot durchgeführt werden?
 
 **Spezielle:**
 
 ```{r echo=T,eval=F,include=T}
-animal_handling(c, target=None, mod = 0, Rnum=1)
+animal_handling(c, target=None, Dot=True, mod = 0, Rnum=1)
 ```
 
-c = ein char Objekt <br> target = eigenes Reittier bei None, sonst
-Reittier eingeben <br> mod = modifikator + für buff, - für debuff
+c = ein char Objekt <br>target = eigenes Reittier bei None, sonst
+Reittier eingeben <br>mod = modifikator + für buff, - für debuff <br>Dot = soll ein Dot durchgeführt werden?
 
 ```{r echo=T,eval=F,include=T}
-armed(att, defe, Abw="N", called="F", Watt=1, Wdefe=1, Limb="R",
+armed(att, defe, Abw="N", Dot=True, called="F", Watt=1, Wdefe=1, Limb="R",
       AWaffe=False, VWaffe=False, 
       Advantage=False, N=3, AdvTarget="A",
       Amod=0, Vmod=0)
 ```
 
 ```{r echo=T,eval=F,include=T}
-ranged(att, defe, Abw, Muni="Norm", called="F", Watt=3, Deckung=0,
+ranged(att, defe, Abw, Dot=True, Muni="Norm", called="F", Watt=3, Deckung=0,
        Limb="R", AWaffe=False, VWaffe=False,
        Advantage=False, N=3, AdvTarget="A",
        Amod=0, Vmod=0)
 ```
 
 ```{r echo=T,eval=F,include=T}
-unarmed(att, defe, Abw="N", called="F", Watt="F", Wdefe="F", Limb="R",
+unarmed(att, defe, Abw="N", Dot=True, called="F", Watt="F", Wdefe="F", Limb="R",
         AWaffe=False, VWaffe=False,
         Advantage=False, N=3, AdvTarget="A",
         Amod=0, Vmod=0)
 ```
 
 ```{r echo=T,eval=F,include=T}
-mountattack(att, defe, Abw="N", called="F", Watt=1, Wdefe=1, Limb="R",
+mountattack(att, defe, Abw="N", Dot=True, called="F", Watt=1, Wdefe=1, Limb="R",
             AWaffe=False, VWaffe=False,
             Reittier=False, Advantage=False, N=3, AdvTarget="A",
             Amod=0, Vmod=0)
 ```
 
 ```{r echo=T,eval=F,include=T}
-grapple(att, defe, Amod = 0,  Vmod = 0)
+grapple(att, defe, Dot=True, Amod = 0,  Vmod = 0)
 ```
 
-att = das angreifende char-objekt<br> defe = das verteidigende
-char-objekt<br> Abw = die Abwehr, "N" für keine, "B" für Blocken, "P"
-für Parry<br> called = called Shot Ziel<br> Watt = angreifende Waffe<br>
-Wdefe = Waffe des Verteidigers<br> Limb = Angegriffenes Körperteil -
-links ("L") oder Rechts ("R")<br> AWaffe = Custom Waffenobjekt des
-Angreifers, die normale wenn None<br> VWaffe = Custom Waffenobjekt des
-Verteidigers, die normale wenn None<br> Reittier = Custom Reittierobjekt
-des Angreifers, das normale wenn None<br> Advantage = "Ad" für
-Advantage, "Dis" für Disadvantage<br> N = für den Grad des Advantage (ob
-2,3 oder 4)<br> AdvTarget = Target für Advantage:"A" für Angreifer, "V"
-für Verteidiger<br> Muni = Munitionstyp des Munitions-Objekts (bspw:
-Ammo.Norm)<br> Deckung = Verteidigungswert der Deckung<br> Amod =
-modifikator für Angreifer + für buff, - für debuff <br> Vmod =
-modifikator für Verteidiger + für buff, - für debuff
+att = das angreifende char-objekt<br>defe = das verteidigende
+char-objekt<br>Abw = die Abwehr, "N" für keine, "B" für Blocken, "P"
+für Parry<br>called = called Shot Ziel<br>Watt = angreifende Waffe<br>
+Wdefe = Waffe des Verteidigers<br>Limb = Angegriffenes Körperteil -
+links ("L") oder Rechts ("R")<br>AWaffe = Custom Waffenobjekt des
+Angreifers, die normale wenn None<br>VWaffe = Custom Waffenobjekt des
+Verteidigers, die normale wenn None<br>Reittier = Custom Reittierobjekt
+des Angreifers, das normale wenn None<br>Advantage = "Ad" für
+Advantage, "Dis" für Disadvantage<br>N = für den Grad des Advantage (ob
+2,3 oder 4)<br>AdvTarget = Target für Advantage:"A" für Angreifer, "V"
+für Verteidiger<br>Muni = Munitionstyp des Munitions-Objekts (bspw:
+Ammo.Norm)<br>Deckung = Verteidigungswert der Deckung<br>Amod =
+modifikator für Angreifer + für buff, - für debuff <br>Vmod =
+modifikator für Verteidiger + für buff, - für debuff <br>Dot = soll ein Dot durchgeführt werden?
 
 ```{r echo=T,eval=F,include=T}
 molotovika(Tier,*args)
 ```
 
-Tier = Tier der Bombe <br> \*args = beliebig viele Objekte
+Tier = Tier der Bombe <br>\*args = beliebig viele Objekte
 
 ## Gruppenfähige Proben
 
 ```{r echo=T,eval=F,include=T}
-schleichen(actor, observer=None, Amod=0, Pmod=0)
+schleichen(actor, observer=None, Dot=True, Amod=0, Pmod=0)
 ```
 
 ```{r echo=T,eval=F,include=T}
-running(actor,verfolger=None, Amod=0, Pmod=0)
-acrobatics(actor,verfolger=None, Amod=0, Pmod=0)
-swimming(actor,verfolger=None, Amod=0, Pmod=0)
+running(actor,verfolger=None, Dot=True, Amod=0, Pmod=0)
+acrobatics(actor,verfolger=None, Dot=True, Amod=0, Pmod=0)
+swimming(actor,verfolger=None, Dot=True, Amod=0, Pmod=0)
 ```
 
-actor/observer = objekt oder Liste<br> verfolger = objekt<br> Amod =
+actor/observer = objekt oder Liste<br>verfolger = objekt<br>Amod =
 Modifikation für opfer - liste (muss positionsweise abgestimmt sein)
-oder Zahl<br> Pmod = Modifikation für verfolger/observer
+oder Zahl<br>Pmod = Modifikation für verfolger/observer <br>Dot = soll ein Dot durchgeführt werden?
 
 ```{r echo=T,eval=F,include=T}
 intimidation(actor, opfer, Amod=0, Pmod=0)
@@ -212,16 +224,16 @@ persuation(actor, opfer, Amod=0, Pmod=0)
 lying(actor, opfer, Amod=0, Pmod=0)
 ```
 
-actor = objekt<br> opfer = objekt oder Liste<br> Amod = Modifikation für
-actor<br> Pmod = Modifikation für opfer - liste (muss positionsweise
+actor = objekt<br>opfer = objekt oder Liste<br>Amod = Modifikation für
+actor<br>Pmod = Modifikation für opfer - liste (muss positionsweise
 abgestimmt sein) oder Zahl
 
 ```{r echo=T,eval=F,include=T}
 perception(actor,Thres=0,mod=0)
 ```
 
-führt einen Perceptioncheck durch <br> actor= Liste oder Objekt <br>
-Thress = Threshold<br> mod= modifikator oder liste an modifikatoren,
+führt einen Perceptioncheck durch <br>actor= Liste oder Objekt <br>
+Thress = Threshold<br>mod= modifikator oder liste an modifikatoren,
 muss positionsweise abgestimmt sein
 
 ```{r echo=T,eval=F,include=T}
@@ -229,7 +241,7 @@ willpower(*args,Thres=3)
 ```
 
 führt einen Willpowercheck durch, der eine Reihenfolge zurück gibt, args
-können listen sowie Einzelobjekte sein <br> Thres ist der Threshold für
+können listen sowie Einzelobjekte sein <br>Thres ist der Threshold für
 diesen Check
 
 ```{r echo=T,eval=F,include=T}
@@ -273,20 +285,20 @@ AusWü2=pb2.auswü
 Probe(pb1,pb2,Ausdauersave)
 ```
 
-pb1 = Person 1 <br> pb2 = Person 2 <br> Advantage = Anzahl Advantage
+pb1 = Person 1 <br>pb2 = Person 2 <br>Advantage = Anzahl Advantage
 
-bei Würfel und Skill die richtigen attribute einfügen. "pb1."
-stehenlassen
+bei Würfel und Skill die richtigen attribute einfügen. "pb1." stehenlassen
 
 ## Übriges
 
 ```{r echo=T,eval=F,include=T}
-Trank(obj,stufe,art=None,merkmal=None)
+Trank(obj,stufe,art=None,merkmal=None, Dot=True)
 ```
 
-obj = char, npc oder monster<br> stufe = Stufe des Tranks<br> art = Art
-des Trankes benamst nach Datenbankinhalt<br> merkmal = wenn Art Buff
-oder Debuff - das gebuffte Attribut
+obj = char, npc oder monster<br>stufe = Stufe des Tranks<br>art = Art
+des Trankes benamst nach Datenbankinhalt<br>merkmal = wenn Art Buff
+oder Debuff - das gebuffte Attribut <br>Dot = soll ein Dot durchgeführt werden?
+
 
 ```{r echo=T,eval=F,include=T}
 downtime_activity(obj, Activity)
@@ -299,3 +311,30 @@ Wetter(Region,Jahreszeit, Zeit="Tag")
 ```
 
 Argumente Selbsterklärend
+
+### Dot-Bezogenes
+
+```{r echo=T,eval=F,include=T}
+dotapply(obj, effekt, prob, length="None", Dmg="None")
+```
+
+Wird nur gebraucht, wenn explizit ein Dot applied werden soll.
+
+obj = ein Objekt <br>effekt = Art des Dots <br>prob = Wsl des applys <br>length = Dauer der Dots, meistens vom Effekt gegeben, daher "None" <br>Dmg = Schaden des Dots, meistens vom Effekt gegeben, daher "None"
+
+
+```{r echo=T,eval=F,include=T}
+dotcounter(char,Typ,Dauer=0,Stärke=0)
+```
+
+Gegenmaßname gegen Dots, betrifft alle Stacks des jeweiligen Typs
+
+char = ein objekt <br>Typ = Typ des DoTs, bspw. "brennen" <br>Dauer = wieviele Runden soll der Dot weniger wirken <br>Stärke= um wie viel soll der Dot reduziert werden
+
+```{r echo=T,eval=F,include=T}
+giftverdünnung(Tier,Ladungen)
+```
+
+Mit dieser Funktion soll aus einem Gift Ladungen hergestellt werden können. Nachzulesen [hier]. 
+
+Tier = Tier des Gifts <br>Ladungen = Anzahl Ladungen

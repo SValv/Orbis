@@ -1,9 +1,3 @@
----
-editor_options: 
-  markdown: 
-    wrap: sentence
----
-
 # (PART) Regeln und Items {.unnumbered}
 
 # Grundlagen des Spiels
@@ -84,6 +78,10 @@ Manchmal gibt es Modifikatoren auf Attributes oder Skills, diese sind nur für k
 Sie sind für den Wert des Attributs/Skills zu addieren bzw.
 abzuziehen.
 
+### Kritische Werte{#Critical}
+
+Bei jedem Safe wird auch ein D20 geworfen - der sogenannte kritische Wurf (wie beinahe alles passiert dies automatisiert über das Programm). Wenn dieser eine 20 ist spricht man von einem Nat 20 - dem bestmöglichen Ergebnis, bei einer 1 spricht man von einer Nat 1 - dem schlechtesten möglichem Ergebnis. Des weiterem hat jeder Charakter eine positive und eine negative Kritische Grenze, die kritische Erfolge oder Fails wahrscheinlicher machen.
+
 ## Typische Saves
 
 Diese Saves sind typisch und werden euch immer wieder begegnen:
@@ -102,7 +100,7 @@ Der Toxikologie-Safe wird mit den Würfeln der Attribute Physical, Instinct, Luc
 Da jeder Trank toxisches Potential hat, wird immer, nachdem ein Trank konsumiert wird, ein Toxi-Save gegen den Threshold aus allen kummulierten Trankstufen der genommenen Tränke gewürfelt.
 Sollte man diesen nicht schaffen fällt man in <font color="green">[Ohnmacht](#Ohnmacht)</font>.
 
-### Glaube/Glück Save
+### Glaube/Glück Save {#Lucksave}
 
 Dies ist mit Abstand der häufigste und wichtigste Save.
 Hierbei wird die Summe (wieder nicht der Durchschnitt) der Attribute Luck und Glaube als Threshold gebildet.
@@ -441,6 +439,20 @@ Schaden wird relativ einfach verrechnet:
 2.  Abzug von Block/Dodge - Wirkungen (Auch über das Programm bei nrun=2)
 3.  Abzug des Rüstungswertes
 4.  Damage von Leben abziehen
+
+### Damage Over Time
+
+Damage over Time - sogenannte Statuseffekte - können durch eine vielzahl von Dingen ausgelöst werden. Sowohl Waffenmods, als auch besondere Munitionstypen bis hin zu Monstern können für Gift, Blutungen oder Brennen sorgen. 
+
+#### Gift {-}
+
+#### Bluten {-}
+
+#### Brennen {-}
+
+#### Andere Statuseffekte {-}
+
+WiP
 
 ## Die Ausdauer {#Ausdauer}
 

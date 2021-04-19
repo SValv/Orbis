@@ -36,7 +36,10 @@ Die reduzierung des Schadenswert bzw. Rüstungswert
 
 : Verkaufspreis von Ausrüstung
 
-Der Zustand kann durch entscheidungen des DM abnehmen und kann nur durch die Verwendung von Material der entsprechenden Stufe wieder angehoben werden.
+Der Zustand kann durch entweder durch Entscheidungen des DM oder automatisch abnehmen und kann nur durch die Verwendung von Material der entsprechenden Stufe wieder angehoben werden.
+
+Die automatische Zustandsabnahme findet statt, wenn bei einem Angriff oder einer Verteidigung ein 
+<font color="green">[kritischer Fail](#Critical)</font> und der Charakter einen <font color="green">[Glück/Glaube Save](#Lucksave)</font> failed. Sollte dies bei einem Angriff passiert sein, nimmt der Zustand der Waffe ab, bei einer Verteidigung der Zustand der Rüstung.
 
 ## Waffen {#Waffen}
 
@@ -44,20 +47,29 @@ Waffen kommen in allen Größen und Formen, solange es nicht unpassend ist kann 
 
 ### Fernwaffen
 
-Fernwaffen sind ein notwendiges Asset für jede bewaffnete Gruppe. Sie erlauben schnelle und gute Hinterhalte und geben einem die Möglichkeit Feinde aus sicherer Entfernung anzugreifen.
+Fernwaffen sind ein notwendiges Asset für jede bewaffnete Gruppe. Sie erlauben schnelle und gute Hinterhalte und geben einem die Möglichkeit Feinde aus sicherer Entfernung anzugreifen. Des weiteren erlauben Fernwaffen die Benutzung von Spezialmunition - sogenannten <font color="green">[Munitionstypen](#Ammo)</font> failed
 
 Das wichtigste bei der Berechnung der Werte von Fernwaffen ist, dass man mit dem speziellen Fernkampfwert statt dem Standartwert arbeitet. Die Armbrust kann man mit einem kleinem Schild verwenden. Fernkampfwaffen die man im liegen oder in der Hocke abfeuern kann bekommen zudem einen höheren Sneak-Modifikator, obwohl man wenn man einen Schleichangriff mit eine Muskete macht ohnehin direkt entdeckt wird. Fernkampfwaffen haben außerdem Vorteile bei der Initiative, was man <font color="green">[hier nachlesen kann](#Initiative)</font>. Sämtliche Fernwaffen haben einen Pariermodifikator von 0.2.
 
 Dies sind die Fernkampfwaffen, die einem als Abenteurer zur Auswahl stehen:
 
-|   Waffe   |       Schaden       |        Preis        | Gewicht | Armor Penetration |                             Zusatz                              |
-|:---------:|:-------------------:|:-------------------:|:-------:|:-----------------:|:---------------------------------------------------------------:|
-|   Bogen   |    Fernkampfwert    |    Standartpreis    |  1 kg   |       nein        |                              nein                               |
-| Armbrust  | Fernkampfwert x 1.3 |    Standartpreis    | 1.5 kg  |       nein        |     Sneak Advantage 4, Nachladen mit 50% wsl Single action      |
-|  Muskete  |  Fernkampfwert x 3  | Standartpreis x 2.5 |  3 kg   |        90%        | Sneak Advantage 4, 1 Runde nachladen <br> negiert Deckung Tier1 |
-| Schleuder | Fernkampfwert x 0.8 | Standartpreis x 0.7 | 0.5 kg  |       nein        |    Braucht single Action zum wirbeln<br>40% Betäubungschance    |
++-----------+---------------------+---------------------+---------+-------------------+-----------------------------------------------------------------+
+| Waffe     | Schaden             | Preis               | Gewicht | Armor Penetration | Zusatz                                                          |
++:=========:+:===================:+:===================:+:=======:+:=================:+:===============================================================:+
+| Bogen     | Fernkampfwert       | Standartpreis       | 1 kg    | nein              | nein                                                            |
++-----------+---------------------+---------------------+---------+-------------------+-----------------------------------------------------------------+
+| Armbrust  | Fernkampfwert x 1.3 | Standartpreis       | 1.5 kg  | nein              | Sneak Advantage 4, Nachladen mit 50% wsl Single action          |
++-----------+---------------------+---------------------+---------+-------------------+-----------------------------------------------------------------+
+| Muskete   | Fernkampfwert x 3   | Standartpreis x 2.5 | 3 kg    | 90%               | Sneak Advantage 4, 1 Runde nachladen <br> negiert Deckung Tier1 |
++-----------+---------------------+---------------------+---------+-------------------+-----------------------------------------------------------------+
+| Schleuder | Fernkampfwert x 0.8 | Standartpreis x 0.7 | 0.5 kg  | nein              | Braucht single Action zum wirbeln<br>40% Betäubungschance       |
++-----------+---------------------+---------------------+---------+-------------------+-----------------------------------------------------------------+
 
 -   Besonderheiten Muskete: Mit der Muskete verbraucht das Nachladen eine Single und eine Main Action. Ausweichen ist während diesem Prozess nicht möglich, außer man hat eine single/bonus Action übrig.
+
+#### Munitionstypen {#Ammo}
+
+WiP
 
 ### Kurzwaffen
 
@@ -67,13 +79,19 @@ Folgende Kurzwaffen gibt es zur Auswahl:
 
 <small>
 
-|    Waffe     |      Schaden       |        Preis         | Gewicht | Armor Penetration | Parierfaktor |             Zusatz             |
-|:------------:|:------------------:|:--------------------:|:-------:|:-----------------:|:------------:|:------------------------------:|
-|   Schwert    |    Standartwert    |    Standartpreis     |  1 kg   |       nein        |     0.4      |              nein              |
-|     Axt      | Standartwert x 0.8 |    Standartpreis     | 1.5 kg  |        20%        |     0.3      |              nein              |
-| Streitkolben | Standartwert x 0.7 |    Standartpreis     |  2 kg   |        60%        |     0.15     |      30% Betäubungschance      |
-|    Dolch     | Standartwert x 0.4 | Standartpreis x 0.45 | 0.5 kg  |       100%        |     0.2      | AP nur wenn Ziel Immobilisiert |
-|   Knüppel    | Standartwert x 0.5 | Standartpreis x 0.5  |  1 kg   |       nein        |     0.15     |      80% Betäubungschance      |
++--------------+--------------------+----------------------+---------+-------------------+--------------+--------------------------------+
+| Waffe        | Schaden            | Preis                | Gewicht | Armor Penetration | Parierfaktor | Zusatz                         |
++:============:+:==================:+:====================:+:=======:+:=================:+:============:+:==============================:+
+| Schwert      | Standartwert       | Standartpreis        | 1 kg    | nein              | 0.4          | nein                           |
++--------------+--------------------+----------------------+---------+-------------------+--------------+--------------------------------+
+| Axt          | Standartwert x 0.8 | Standartpreis        | 1.5 kg  | 20%               | 0.3          | nein                           |
++--------------+--------------------+----------------------+---------+-------------------+--------------+--------------------------------+
+| Streitkolben | Standartwert x 0.7 | Standartpreis        | 2 kg    | 60%               | 0.15         | 30% Betäubungschance           |
++--------------+--------------------+----------------------+---------+-------------------+--------------+--------------------------------+
+| Dolch        | Standartwert x 0.4 | Standartpreis x 0.45 | 0.5 kg  | 100%              | 0.2          | AP nur wenn Ziel Immobilisiert |
++--------------+--------------------+----------------------+---------+-------------------+--------------+--------------------------------+
+| Knüppel      | Standartwert x 0.5 | Standartpreis x 0.5  | 1 kg    | nein              | 0.15         | 80% Betäubungschance           |
++--------------+--------------------+----------------------+---------+-------------------+--------------+--------------------------------+
 
 </small>
 
@@ -89,11 +107,15 @@ Diese Großwaffen sind in Orbis Aestea gebräuchlich:
 
 <small>
 
-|    Waffe     |       Schaden        |        Preis        | Gewicht | Armor Penetration | Parierfaktor |        Zusatz        |
-|:------------:|:--------------------:|:-------------------:|:-------:|:-----------------:|:------------:|:--------------------:|
-| Großschwert  |    Großwaffenwert    | Standartpreis x 1.3 |  2 kg   |       nein        |     0.4      |         nein         |
-|   Großaxt    | Großwaffenwert x 0.8 | Standartpreis x 1.3 |  3 kg   |        30%        |     0.3      |         nein         |
-| Kriegshammer | Großwaffenwert x 0.7 | Standartpreis x 1.3 |  5 kg   |        60%        |     0.1      | 60% Betäubungschance |
++--------------+----------------------+---------------------+---------+-------------------+--------------+----------------------+
+| Waffe        | Schaden              | Preis               | Gewicht | Armor Penetration | Parierfaktor | Zusatz               |
++:============:+:====================:+:===================:+:=======:+:=================:+:============:+:====================:+
+| Großschwert  | Großwaffenwert       | Standartpreis x 1.3 | 2 kg    | nein              | 0.4          | nein                 |
++--------------+----------------------+---------------------+---------+-------------------+--------------+----------------------+
+| Großaxt      | Großwaffenwert x 0.8 | Standartpreis x 1.3 | 3 kg    | 30%               | 0.3          | nein                 |
++--------------+----------------------+---------------------+---------+-------------------+--------------+----------------------+
+| Kriegshammer | Großwaffenwert x 0.7 | Standartpreis x 1.3 | 5 kg    | 60%               | 0.1          | 60% Betäubungschance |
++--------------+----------------------+---------------------+---------+-------------------+--------------+----------------------+
 
 </small>
 
@@ -133,12 +155,17 @@ Faustwaffen sind dahingehend besonders, dass sie über den Skill "unarmed" laufe
 
 Hier seht man eine Übersicht über die Faustwaffen:
 
++---------------+--------------------+---------------------+---------+-------------------------------------------+
 | Waffe         | Schaden            | Preis               | Gewicht | Zusatz                                    |
-|---------------|--------------------|---------------------|---------|-------------------------------------------|
++===============+====================+=====================+=========+===========================================+
 | Faust         | 5                  |                     |         | 50% Betäubungschance                      |
++---------------+--------------------+---------------------+---------+-------------------------------------------+
 | Schlagring    | Standartwert x 0.3 | Standartpreis x 0.4 | 0.2 kg  | 90% versteckbar <br> 75% Betäubungschance |
++---------------+--------------------+---------------------+---------+-------------------------------------------+
 | Faustmesser   | Standartwert x 0.4 | Standartpreis x 0.8 | 0.5 kg  | 50% versteckbar                           |
++---------------+--------------------+---------------------+---------+-------------------------------------------+
 | Metallkrallen | Standartwert x 0.6 | Standartpreis x 1.3 | 1 kg    | nicht versteckbar                         |
++---------------+--------------------+---------------------+---------+-------------------------------------------+
 
 -   Besonderheiten Faustmesser: Attentat
 
@@ -465,15 +492,23 @@ Fallen bieten einen großen Vorteil, jedoch nur wenn sie bis zur Auslösung vom 
 
 Eine typische wiederverwendbare Falle meist für Wild genutzt, zwei gezahnte Metallbacken die bei dem auslösen der Druckplatte zusammenschnappen und ein Beine ihres Opfers einfangen. Dadurch entsteht nicht nur Schaden am Bein, sondern schränkt die Mobilität des Opfers stark ein und erschwert es Angriffe abzuwehren.
 
-|           Merkmal            |                                                                     Ausprägung                                                                     |
-|:----------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------:|
-|          zum Bauen           |                                                          Metall, muss geschmiedet werden                                                           |
-|          Interrupt           |                                                                         Ja                                                                         |
-|           Schaden            | Chance auf Verstümmelung des Beins nach Rüstungsklassen:<br>keine Rüstung(80%), leichte Rüstung(60%)<br>mittlere Rüstung(30%), schwere Rüstung(5%) |
-|          Befreiung           |                                                                single + main action                                                                |
-| Disatvantage<br>in der Falle |                                                                   Disatvantage 3                                                                   |
-|        Besonderheiten        |                                             Immobilität, Placement im Kampf (main action wenn zu Hand)                                             |
-|         Entschärfung         |                                                                    main Action                                                                     |
++------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------+
+| Merkmal                      | Ausprägung                                                                                                                                         |
++:============================:+:==================================================================================================================================================:+
+| zum Bauen                    | Metall, muss geschmiedet werden                                                                                                                    |
++------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------+
+| Interrupt                    | Ja                                                                                                                                                 |
++------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------+
+| Schaden                      | Chance auf Verstümmelung des Beins nach Rüstungsklassen:<br>keine Rüstung(80%), leichte Rüstung(60%)<br>mittlere Rüstung(30%), schwere Rüstung(5%) |
++------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------+
+| Befreiung                    | single + main action                                                                                                                               |
++------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------+
+| Disatvantage<br>in der Falle | Disatvantage 3                                                                                                                                     |
++------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------+
+| Besonderheiten               | Immobilität, Placement im Kampf (main action wenn zu Hand)                                                                                         |
++------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------+
+| Entschärfung                 | main Action                                                                                                                                        |
++------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------+
 
 #### Schlingenfalle {.unnumbered}
 
@@ -519,15 +554,23 @@ Die einfachste aller Fallen, ein simples gespanntes Seil in Knöchelhöhe, sei e
 
 Die Falle welche am einfachsten im Kampf zu platzieren ist und die einzige die selbst nach ihrer Entdeckung noch Vorteile bietet. Dabei wird der Vorteil mit zunehmender Rüstung geringer.
 
-|             Merkmal             |                                                    Ausprägung                                                     |
-|:-------------------------------:|:-----------------------------------------------------------------------------------------------------------------:|
-| Material benötigt<br> zum Bauen |                                          Metall, muss geschmiedet werden                                          |
-|            Interrupt            |                                             nur bis mittlere Rüstung                                              |
-|             Schaden             |                                               Nein, außer man fällt                                               |
-|            Befreiung            |                                    Entfernung aus dem Fuß kostet single Action                                    |
-|  Disatvantage<br>in der Falle   |                                               Disatvantage 2 - AoE                                                |
-|         Besonderheiten          | Platzieren mit single action jederzeit möglich<br>Schwere Rüstung ignoriert Falle<br> aufsammeln mit Luck möglich |
-|          Entschärfung           |                                                       Nein                                                        |
++---------------------------------+-------------------------------------------------------------------------------------------------------------------+
+| Merkmal                         | Ausprägung                                                                                                        |
++:===============================:+:=================================================================================================================:+
+| Material benötigt<br> zum Bauen | Metall, muss geschmiedet werden                                                                                   |
++---------------------------------+-------------------------------------------------------------------------------------------------------------------+
+| Interrupt                       | nur bis mittlere Rüstung                                                                                          |
++---------------------------------+-------------------------------------------------------------------------------------------------------------------+
+| Schaden                         | Nein, außer man fällt                                                                                             |
++---------------------------------+-------------------------------------------------------------------------------------------------------------------+
+| Befreiung                       | Entfernung aus dem Fuß kostet single Action                                                                       |
++---------------------------------+-------------------------------------------------------------------------------------------------------------------+
+| Disatvantage<br>in der Falle    | Disatvantage 2 - AoE                                                                                              |
++---------------------------------+-------------------------------------------------------------------------------------------------------------------+
+| Besonderheiten                  | Platzieren mit single action jederzeit möglich<br>Schwere Rüstung ignoriert Falle<br> aufsammeln mit Luck möglich |
++---------------------------------+-------------------------------------------------------------------------------------------------------------------+
+| Entschärfung                    | Nein                                                                                                              |
++---------------------------------+-------------------------------------------------------------------------------------------------------------------+
 
 #### Alternative Fallen {.unnumbered}
 

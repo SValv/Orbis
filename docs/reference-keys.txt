@@ -612,10 +612,11 @@ die-differenzprobe
 der-save
 advantagedisatvantage
 momentane-modifikatoren
+Critical
 typische-saves
 Ausdauersave
 toxikologie-save
-glaubeglück-save
+Lucksave
 Reiten
 der-kampf
 Initiative
@@ -631,6 +632,7 @@ kampf-vom-reittier
 der-unbewaffnete-kampf
 artillerie
 die-schadensverrechnung
+damage-over-time
 Ausdauer
 Tiers
 Währung
@@ -680,6 +682,7 @@ Items
 zustand
 Waffen
 fernwaffen
+Ammo
 kurzwaffen
 großwaffen
 Stangenwaffen
@@ -753,4 +756,5 @@ gruppenfähige-proben
 proben
 option-1
 übriges
+dot-bezogenes
 zum-projekt
