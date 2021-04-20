@@ -1510,7 +1510,7 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
             <section class="normal" id="section-">
 <div id="header">
 <h1 class="title">Orbis Astea</h1>
-<p class="date"><em>Version vom: 19.04.2021</em></p>
+<p class="date"><em>Version vom: 20.04.2021</em></p>
 </div>
 <div id="einführung-in-orbis-astea" class="section level1" number="1">
 <h1><span class="header-section-number">Kapitel 1</span> Einführung in Orbis Astea</h1>
@@ -1573,6 +1573,20 @@ gitbook.start({
 });
 </script>
 
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    var src = "true";
+    if (src === "" || src === "true") src = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML";
+    if (location.protocol !== "file:")
+      if (/^https?:/.test(src))
+        src = src.replace(/^https?:/, '');
+    script.src = src;
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
 </body>
 
 </html>

@@ -443,10 +443,47 @@ Schaden wird relativ einfach verrechnet:
 ### Damage Over Time
 
 Damage over Time - sogenannte Statuseffekte - können durch eine vielzahl von Dingen ausgelöst werden. Sowohl Waffenmods, als auch besondere Munitionstypen bis hin zu Monstern können für Gift, Blutungen oder Brennen sorgen. 
+Hierbei gibt es mehrere Konzepte zu Verstehen: ein Dot wird über eine gewisse "Dauer" an Runden applied und verursacht jede Runde einen gewissen Debuff (fast immer "Schaden"). Des weiteren wird ein Dot nur mit einer gewissen "Wahrscheinlichkeit" ausgelöst und auch nur, wenn der Gegnet, der den Dot verursachen will, Schaden verursacht.
+
+Wenn ein Dot mit einer Nahkampfwaffe ausgelöst wird, geht üblicherweise eine "Ladung" verloren - bspw. verbraucht sich Gift oder die Zacken einer gezackten Klinge stumpfen ab.
+
+Dots können sich auch häufen, so verursacht jede erfolgreiche Applikation eines Dots einen "Stack" des jeweiligen Statuseffektes - womit sich der Damage natürlich mit der Anzahl der Stacks multipliziert.
+
+Gegen jeden Dot gibt es eine Kontermöglichkeit, 
+
+Dieses System mag am Anfang sehr kompliziert erscheinen, wird allerdings zu 100% von unserem Programm übernommen.
 
 #### Gift {-}
 
+Gift ist die Wildcard unter den Statuseffekten, oftmals wird eine Vergiftung erst bemerkt, wenn sie sich bereits durch einen Teil der Gesundheit des Ziels gefressen hat - denn jedes mal, wenn ein stack Gift wirkt, wird ein Perception-check gegen einen damageabhängigen Threshold geworfen - der geschafft werden muss, damit der Charakter seine Vergiftung merkt.
+
+Gift kann in 2 bis 8 Ladungen verabreicht werden und ein Stack Gift hält in der Regel 10 Runden. Der Schaden, der pro Runde gemacht wird hängt von der Stufe des Gifts ab, und kann über folgende Formel ermittelt werden:
+$$SchadenProRunde = Maxschaden:Ladungen \cdot ((Maxschaden:100) \cdot Ladungen \cdot 1,5)$$
+Mehr Ladungen machen mehr Schaden insgesamt und auf möglicherweise mehrere Gegner, müssen allerdings öfter applied werden - sind daher also langsamer. 
+
+```{r,echo=F}
+library(ggplot2)
+
+Maxschaden=200
+Ladungen=c(2:8)
+ll=data.frame(Maxschaden,Ladungen)
+ll$SchadenRunde=Maxschaden/Ladungen+((Maxschaden/100)*Ladungen*1.5)
+ll$SchadenGesamt=ll$SchadenRunde*c(2:8)
+
+ggplot(ll,aes(x=Ladungen,y=SchadenGesamt))+geom_line(size=1) + theme_bw() +
+  theme(panel.grid.major = element_line(linetype = "blank"), 
+    panel.grid.minor = element_line(linetype = "blank"), 
+    panel.background = element_rect(fill = "#F3EACB"), 
+    plot.background = element_rect(fill = "#F3EACB"))+
+  labs(y="Kummulierter Schaden",main="Darstellung für Tier 1")
+
+```
+
+Als Gegenmaßnahme gegen Gift helfen leider nur andere Tränke - beispielsweise Gegengift.
+
 #### Bluten {-}
+
+Beim Bluten verliert das Opfer für gewöhnlich jede Runde einen Prozentsatz seiner maximalen Gesundheit - üblicherweise 6% pro Stack - womit das Bluten sehr Effektiv gegen starke Einzelziele ist. Standartmäßig blutet man für 3 Runden und kann als Gegenmaßnahme gegen das Bluten mithilfe eines Survival-Checks die Wunden verbinden.
 
 #### Brennen {-}
 

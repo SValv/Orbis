@@ -2104,12 +2104,24 @@ Sollte die Besatzung den Threshold der Waffe nicht überschreiten, verfehlt der 
 </div>
 <div id="damage-over-time" class="section level3" number="45.4.14">
 <h3><span class="header-section-number">45.4.14</span> Damage Over Time</h3>
-<p>Damage over Time - sogenannte Statuseffekte - können durch eine vielzahl von Dingen ausgelöst werden. Sowohl Waffenmods, als auch besondere Munitionstypen bis hin zu Monstern können für Gift, Blutungen oder Brennen sorgen.</p>
+<p>Damage over Time - sogenannte Statuseffekte - können durch eine vielzahl von Dingen ausgelöst werden. Sowohl Waffenmods, als auch besondere Munitionstypen bis hin zu Monstern können für Gift, Blutungen oder Brennen sorgen.
+Hierbei gibt es mehrere Konzepte zu Verstehen: ein Dot wird über eine gewisse “Dauer” an Runden applied und verursacht jede Runde einen gewissen Debuff (fast immer “Schaden”). Des weiteren wird ein Dot nur mit einer gewissen “Wahrscheinlichkeit” ausgelöst und auch nur, wenn der Gegnet, der den Dot verursachen will, Schaden verursacht.</p>
+<p>Wenn ein Dot mit einer Nahkampfwaffe ausgelöst wird, geht üblicherweise eine “Ladung” verloren - bspw. verbraucht sich Gift oder die Zacken einer gezackten Klinge stumpfen ab.</p>
+<p>Dots können sich auch häufen, so verursacht jede erfolgreiche Applikation eines Dots einen “Stack” des jeweiligen Statuseffektes - womit sich der Damage natürlich mit der Anzahl der Stacks multipliziert.</p>
+<p>Gegen jeden Dot gibt es eine Kontermöglichkeit,</p>
+<p>Dieses System mag am Anfang sehr kompliziert erscheinen, wird allerdings zu 100% von unserem Programm übernommen.</p>
 <div id="gift" class="section level4 unnumbered">
 <h4>Gift</h4>
+<p>Gift ist die Wildcard unter den Statuseffekten, oftmals wird eine Vergiftung erst bemerkt, wenn sie sich bereits durch einen Teil der Gesundheit des Ziels gefressen hat - denn jedes mal, wenn ein stack Gift wirkt, wird ein Perception-check gegen einen damageabhängigen Threshold geworfen - der geschafft werden muss, damit der Charakter seine Vergiftung merkt.</p>
+<p>Gift kann in 2 bis 8 Ladungen verabreicht werden und ein Stack Gift hält in der Regel 10 Runden. Der Schaden, der pro Runde gemacht wird hängt von der Stufe des Gifts ab, und kann über folgende Formel ermittelt werden:
+<span class="math display">\[SchadenProRunde = Maxschaden:Ladungen \cdot ((Maxschaden:100) \cdot Ladungen \cdot 1,5)\]</span>
+Mehr Ladungen machen mehr Schaden insgesamt und auf möglicherweise mehrere Gegner, müssen allerdings öfter applied werden - sind daher also langsamer.</p>
+<p><img src="Orbis-Aestea_files/figure-html/unnamed-chunk-2-1.png" width="672" /></p>
+<p>Als Gegenmaßnahme gegen Gift helfen leider nur andere Tränke - beispielsweise Gegengift.</p>
 </div>
 <div id="bluten" class="section level4 unnumbered">
 <h4>Bluten</h4>
+<p>Beim Bluten verliert das Opfer für gewöhnlich jede Runde einen Prozentsatz seiner maximalen Gesundheit - üblicherweise 6% pro Stack - womit das Bluten sehr Effektiv gegen starke Einzelziele ist. Standartmäßig blutet man für 3 Runden und kann als Gegenmaßnahme gegen das Bluten mithilfe eines Survival-Checks die Wunden verbinden.</p>
 </div>
 <div id="brennen" class="section level4 unnumbered">
 <h4>Brennen</h4>
@@ -2789,6 +2801,20 @@ gitbook.start({
 });
 </script>
 
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    var src = "true";
+    if (src === "" || src === "true") src = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML";
+    if (location.protocol !== "file:")
+      if (/^https?:/.test(src))
+        src = src.replace(/^https?:/, '');
+    script.src = src;
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
 </body>
 
 </html>
