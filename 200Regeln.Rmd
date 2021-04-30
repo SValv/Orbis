@@ -356,11 +356,11 @@ Alles, was aus dem Rucksack - also dem übrigen Inventar - geholt werden muss, k
 
 es gibt 5 mögliche Holster:
 
--   Hauptholster - Hier kann man eine Nahkampfwaffe, einen Dolch oder Wurfwaffen platzieren
--   Sekundärholster - Hier kann man eine Nahkampfwaffe, einen Dolch oder Wurfwaffen platzieren
--   Rückenholster - Hier ist Platz für einen Schild, eine Fernwaffe oder eine Großwaffe
--   Köcher 1 - Hier kann man Munition (essentiell für Fernwaffen) oder Wurfwaffen unterbringen
--   Köcher 2 - Gleich wie Köcher eins, aber bei Benutzung verliert man einen Ausdauerwürfel
+- Hauptholster - Hier kann man eine Nahkampfwaffe, einen Dolch oder Wurfwaffen platzieren
+- Sekundärholster - Hier kann man eine Nahkampfwaffe, einen Dolch oder Wurfwaffen platzieren
+- Rückenholster - Hier ist Platz für einen Schild, eine Fernwaffe oder eine Großwaffe
+- Köcher 1 - Hier kann man Munition (essentiell für Fernwaffen) oder Wurfwaffen unterbringen
+- Köcher 2 - Gleich wie Köcher eins, aber bei Benutzung verliert man einen Ausdauerwürfel
 
 Ein Holster erlaubt einem, Waffen mit einer Single Action zu ziehen bzw.
 zu tauschen.
@@ -465,17 +465,21 @@ Mehr Ladungen machen mehr Schaden insgesamt und auf möglicherweise mehrere Gegn
 library(ggplot2)
 
 Maxschaden=200
-Ladungen=c(2:8)
+Ladungen=c(2:9)
 ll=data.frame(Maxschaden,Ladungen)
-ll$SchadenRunde=Maxschaden/Ladungen+((Maxschaden/100)*Ladungen*1.5)
-ll$SchadenGesamt=ll$SchadenRunde*c(2:8)
+ll$SchadenRunde=Maxschaden/Ladungen+((Maxschaden/100)*Ladungen*1.1)
+ll$SchadenGesamt=ll$SchadenRunde*c(2:9)
 
-ggplot(ll,aes(x=Ladungen,y=SchadenGesamt))+geom_line(size=1) + theme_bw() +
+ll=tidyr::pivot_longer(ll,c(-Ladungen,-Maxschaden))
+
+ggplot(ll,aes(x=Ladungen,y=value,col=name))+geom_line(size=1) + theme_bw() +
   theme(panel.grid.major = element_line(linetype = "blank"), 
     panel.grid.minor = element_line(linetype = "blank"), 
     panel.background = element_rect(fill = "#F3EACB"), 
-    plot.background = element_rect(fill = "#F3EACB"))+
-  labs(y="Kummulierter Schaden",main="Darstellung für Tier 1")
+    plot.background = element_rect(fill = "#F3EACB"),
+    legend.key = element_rect(fill = "#F3EACB"), 
+    legend.background = element_rect(fill = "#F3EACB"))+
+  labs(y="Schaden",title="Darstellung für Tier 1") + scale_colour_manual(name="",labels=c("Schaden insgesamt", "Schaden pro Ladung"),values=c("black","red"))
 
 ```
 

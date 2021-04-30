@@ -1,11 +1,11 @@
 # Nors
 
-Die kalte Region von Nors liegt oberhalb des Herzlandes und ist der einzige Teil des Kaiserreichs, der das Privileg hat, Zugang zum Meer und seinen Ressourcen zu haben. 
-Südlich des <font color="green">[Eislandes]()</font> und Nördlich des <font color="green">[Himmelsspitzen-Gebirges]()</font> ist Nors klimatisch eher Kalt und feucht, und so ist es absolut notwendig, sich bei einem Besuch in den Wintermonaten gegen die Kälte zu rüsten.
+Die kalte Region von Nors liegt oberhalb des Herzlandes und ist der einzige Teil des Kaiserreichs, der das Privileg hat, Zugang zum Meer und dessen Ressourcen zu haben. 
+Südlich des <font color="green">[Eislandes]()</font> und Nördlich des <font color="green">[Himmelsspitzen-Gebirges]()</font> ist Nors klimatisch eher kalt und feucht, und so ist es absolut notwendig, sich bei einem Besuch in den Wintermonaten gegen die Kälte zu rüsten.
 
 ![Karte von Nors](Pictures/Maps/Nors.jpg)
 
-Wie in den meisten Teilen des Reiches glaubten die Bewohner von Nors ursprünglich nicht an den Allgott, doch durch den Einsatz von Missionaren wurden die meisten Bürger von Nors schließlich zum einzig wahren Glauben unserer Welt bekehrt. Wie das Herzland spielte auch Nors eine wichtige Rolle bei der Gründung ebenso wie am Erfolg des Reichen, das das Gründungsland des Kaiserreichs auch der wichtigste Träger und Exporteur verschiedener Metalle für das Reich ist.
+Wie in den meisten Teilen des Reiches glaubten die Bewohner von Nors ursprünglich nicht an den Allgott. Doch durch den Einsatz von Missionaren wurden die meisten Bürger Nors' schließlich zum einzig wahren Glauben unserer Welt bekehrt. Wie das Herzland spielte auch Nors eine wichtige Rolle bei der Gründung sowie dem Erfolg des Reichs, dass das Gründungsland des Kaiserreichs auch der wichtigste Träger und Exporteur verschiedener Metalle für das Reich ist.
 
 ## Ortschaften der Region 
 
@@ -59,6 +59,8 @@ Schlussendlich sollte auch erwähnt werden, dass viele Händler und Handelsunter
 ## Soziopolitische Lage 
 
 ### Herrschaftsystem/Organisation
+
+
 
 ## Klimatische Bedingungen
 

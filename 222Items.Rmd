@@ -38,8 +38,7 @@ Die reduzierung des Schadenswert bzw. Rüstungswert
 
 Der Zustand kann durch entweder durch Entscheidungen des DM oder automatisch abnehmen und kann nur durch die Verwendung von Material der entsprechenden Stufe wieder angehoben werden.
 
-Die automatische Zustandsabnahme findet statt, wenn bei einem Angriff oder einer Verteidigung ein 
-<font color="green">[kritischer Fail](#Critical)</font> und der Charakter einen <font color="green">[Glück/Glaube Save](#Lucksave)</font> failed. Sollte dies bei einem Angriff passiert sein, nimmt der Zustand der Waffe ab, bei einer Verteidigung der Zustand der Rüstung.
+Die automatische Zustandsabnahme findet statt, wenn bei einem Angriff oder einer Verteidigung ein <font color="green">[kritischer Fail](#Critical)</font> und der Charakter einen <font color="green">[Glück/Glaube Save](#Lucksave)</font> failed. Sollte dies bei einem Angriff passiert sein, nimmt der Zustand der Waffe ab, bei einer Verteidigung der Zustand der Rüstung.
 
 ## Waffen {#Waffen}
 
@@ -234,13 +233,21 @@ Die Wirkungen im Kampf sind in der unten stehenden Tabelle ersichtlich.
 +---------------------+---------+----------------+-------------------------------------------------------------------------------------------------------------------------------------+
 | Heiltrank           | Stufe 4 | 1300           | Health +300                                                                                                                         |
 +---------------------+---------+----------------+-------------------------------------------------------------------------------------------------------------------------------------+
-| Gifttrank           | Stufe 1 | 200            | Health -25/Runde                                                                                                                    |
+| Gifttrank           | Stufe 1 | 200            | Maxschaden 200                                                                                                                      |
+|                     |         |                |                                                                                                                                     |
+|                     |         |                | Schlimmes Bauchweh/Übelkeit                                                                                                         |
 +---------------------+---------+----------------+-------------------------------------------------------------------------------------------------------------------------------------+
-| Gifttrank           | Stufe 2 | 420            | Health -60/Runde                                                                                                                    |
+| Gifttrank           | Stufe 2 | 420            | Maxschaden 300                                                                                                                      |
+|                     |         |                |                                                                                                                                     |
+|                     |         |                | moglicher Tod einer Person außerhalb des Kampfes                                                                                    |
 +---------------------+---------+----------------+-------------------------------------------------------------------------------------------------------------------------------------+
-| Gifttrank           | Stufe 3 | 900            | Health -100/Runde                                                                                                                   |
+| Gifttrank           | Stufe 3 | 900            | Maxschaden 400                                                                                                                      |
+|                     |         |                |                                                                                                                                     |
+|                     |         |                | wahrscheinlicher Tod einer Person außerhalb des Kampfes                                                                             |
 +---------------------+---------+----------------+-------------------------------------------------------------------------------------------------------------------------------------+
-| Gifttrank           | Stufe 4 | 1300           | Health -150/Runde                                                                                                                   |
+| Gifttrank           | Stufe 4 | 1300           | Maxschaden 500                                                                                                                      |
+|                     |         |                |                                                                                                                                     |
+|                     |         |                | garantierter Tod jeder Person außerhalb des Kampfes                                                                                 |
 +---------------------+---------+----------------+-------------------------------------------------------------------------------------------------------------------------------------+
 | Attributbufftrank   | Stufe 3 | 1000           | Attribut +1                                                                                                                         |
 +---------------------+---------+----------------+-------------------------------------------------------------------------------------------------------------------------------------+

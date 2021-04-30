@@ -99,6 +99,21 @@ Seit der Erstauflage dieses Werkes vor über dreizehn Jahrzehnten konnte von die
 
 ## Höllenbrut
 
+### Bermatalteufel
+
+Über diese Monster der Verdammnis, Bermatalteufel, genannt herrscht weite Unsicherheit der Gelehrten über deren Eigenschaften.
+
+So berichtet die alte Schrift "Von Hässlichkeiten und Monstern" von Sir Charles von Alt-Haag über Vorkommnisse der Invasionen von den früh-eldrischen Fürsten welches sich gen Bermatal richteten, von mehrere Attacken "gepanzerter Foedukuli" welche Axtschwingend und mit hoher Beweglichkeit sich durch Spähtruppen und Flanken eldrischer Armeen schlugen.
+
+Beschrieben wurden Sie hierbei als *"[...] gepanzerte, übermanngroße menschenartige Gestalten ohne Augen und Zähnen lang wie Finger und Kräfte welche selbst Orks als lauchbrüstige Schwächlinge wirken lässt. "*
+
+Mehrere Jahrzehnte später bei einem weiteren, weniger gehaltvollen, Versuch der eldrischen Fürsten wurde hingegen die Monster "*[...] als Echsen mit Haaren und hämischen Lachen, der Bewiglichkeit eines Hasen mit der Kraft eines Ochsen." beschrieben*." \
+Dieser Gruppe gelang es auch einen verbrannten Bermatalteufel zu skizzieren und so etwas mehr über den Körper dieser Höllenbrut zu erfahren. Diese skizze ging jedoch verloren, lediglich die künstlerische Interpretation von Mangold von Straffeld blieb erhalten.
+
+Abseits dieser Berichte blieb lediglich der eines Wanderers südlich von Austen der eine solche Kreatur mit "*hämischen Lachenn und hoher Beweglichkeit, größer als jeder bekannte Mensch"* beschrieb.
+
+![Darstellung eines "Bermatalteufel" von Mangold von Straffeld](Pictures/Flavor/Monster/Bermatalteufel.jpg)
+
 ### Großer Aufspießer
 
 Eine besondere Abscheulichkeit stellt der Große Aufspießer dar.
@@ -567,6 +582,73 @@ Werwölfe sind anfällig gegenüber Feuer und Giften.
 ![Darstellung eines lebenden Werwolfes](Pictures%5CFlavor%5CMonster%5Cwerwolf.png)
 
 ## Vielbeiner
+
+### Felsenkriecher
+
+Diese Vielbeiner Bevölkern die unwegsamen Gelände der Himmelsspitzengebirge.
+Diese Tiere mit mehreren Metern Beinspannweite sind Nachaktiv und jagen häufig Ziegen und Rindern von Bergbauern und werden von der lokalen Bevölkerung als Bergsteigerschreck bezeichnet.
+
+Sie sind äußerst agile und geschickte Kletterer und meist so lautlos unterwegs dass selbst hinter schlafenden Männern kaum einer das tapsen der stark behaarten Beinsohlen vernommen wird.
+Über die Verbreitungs und Verhaltensmuster in den himmelsspitzengebirgen ist außerordentlich wenig bekannt, obwohl diese seit Jahrhunderten Bauern schlaflose Nächte bereiten.
+
+Meist wird am nächsten Morgen von Ziegen oder Kuhkadavern berichtet welche in Steilhängen der Berge langsam verrotten und von Raben tagsüber angenagt werden.
+
+Im Gegensatz zu den Wolfsrudeln, welche durch die Säuberung 180 n.
+Riga stark dezimiert wurden, reissen Felsenkriecher nie mehr Tiere als tatsächlich gefressen oder entwendet werden, wodurch der Verlust an Weidetieren nicht an die Stückzahl heran kommt welche Wölfen zu Spitzenzeiten verursachten.
+
+Felsenkreicher haben 2 äußerst gut entwickelte Augen und können sich so auch Nachts problemlos in den Berghängen bewegen.
+Teils verharren diese dann Stundenlang absolut regungslos in Lauerposition bis ein unbedarftes Rind, oder ein einsamer Wanderer zu nahe kommen.
+Dann springt oder sprintet der Felsenkriehcer auf seine Beute zu.
+Injiziert sein Gift, wodurch es rasch gelähmt wird.
+Anschließend stülpt es bei kleineren Opfern eine Art "Klebebein" um so das Opfer rasch in Sicherheit zu bringen, wo diese dann in steilen Berghängen verzehrt werden.
+
+![Darstellung eines Felsenkriechers, auch als Bergsteigerschreck bekannt, in den Himmelspsitzengebirgen von Mangold von Straffeld](C:/Users/Xufe/Dropbox/Rpg/###Orbis/Pictures/Flavor/Monster/Felsenkriecher.jpeg)
+
+Die Bekämpfung der Felsenkriecher erweist sich aufgrund ihr Tarnung, ihrer uneinheitlich Struktur des Körpers und dem Verstecken in Felsenspalten als äußerst Schwierig.
+Tagüber verstecken diese Vielbeiner sich meist in Felsspalten und Höhlen, wo Sie bie Störung schnell aggressiv agieren um anschließend zu flüchten - deshalb der Name Bergsteigerschreck.
+
+Die Bekämpfung erfolgt im Idealfall über geübte Bogenschützen mit Thermosichttränken, wodurch diese Aktionen ein teures Unterfangn darstellen und sich nur einige Reiche Bauerngenossenschaften die finanziellen Mittel dafür aufwenden können.
+
+Weniger Kostenintensiv zeigt sich hingegen die Unterstützung von Wald oder Stadtelfen mit Bogen ausgerüstet.
+Einige geschickte Bogenschützen konnten so innerhalb eines Monats in den Bergen Gerüchten zu Folge 70.000 Reiks erwirtschaften (rund 2.000 Reiks Belohnung für einen getöteten Felsenkriecher).
+Meist ist allerdings durch Ansäßige Jäger die Dichte zu gering als dass sich damit relevant mehr als in den Städten erwirtschaften lässt.
+
+### Blauer Merkantolith
+
+Blaue Merkantolithen sind in den Wälder von Silva Nacia heimisch und besitzen lediglich 4 Beine, gehören jedoch trotzdem zu den Vielbeinern.
+
+Diese Jagendenden und mit Dutzenden Augen am Schädel ausgestatteten Vielbeiner wurden noch vor wenigen Jahrzehnten aufgrund der Knochenplatte am Kopf als Knochenschädler bezeichnet.
+Jedoch ihre Biologie, Fortpflanzungs und Territorialverhalten legen den Schluss näher, dass es sich um normale große Vielbeiner handelt.
+
+Ihre Körperlänge ist mit rund 4-5m zwar durchaus beträchtlich, jedoch erreicht ihre Statur nur in etwa Hüfthöhe.
+Sie lassen sich durch Laute Geräusche Nachts rasch verschrecken, ebenso mit einem eingesetzten "Licht des Allgottes".
+Tagsüber verschwinden diese Kreaturen meist in tiefere Spalten oder Baumhöhlen größerer Bäume, wo diese schnarchend und schwer zu weckend rasten.
+
+Die Paarungssaison der blauen Merkantolithen ist meist im Spätsommer und hierbei finden sich mehrere Männchen in Brunftkämpfen in extra freigeräumten "Arenen" ein.
+Diese Kämpfe laufen in den meisten Fällen nur über Drohgebärden und vorgetäuschten Angriffen und führen selten zur Verletzung beteiligter Individuen.
+
+Bei der Paarung legen wird der mittlere klebrige Blaue Gewebefetzen am letzten Körpersegment an das mittlere obere Rückensegment des Weibchen geheftet, wo der Gewebsfetzn langsam zerrinnt und in die Geschlechtsöffnung des Weibchens fließt.
+
+Die Weibchen lassen die Eier rund 4 Wochen reifen und legen dann rund 450 Eier in vermodernde Bäume im näheren Umkreis.
+Die Weibchen bewachen diese Gelege nicht.
+Die Eier selbst besitzen ein äußerst harte Schale, wodurch diese von nur wenigen Räubern verzehrt werden.
+
+Die geschlüpften Jungen wachsen über mehrere Jahre hinweg und erreichen im Alter von rund 5 Jahren die Geschlechtsreife und die vollständige Körpergröße.
+
+Die Nahrungs besteht aus einer Mischung von allem was nicht rechtzeitig flieht und kleiner ist als der Merkantolith selbst.
+Kannibialismus kommt bei fremder Brut vor.
+
+Die Bekämpfung der blauen Merkantolithen kann über unterschiedlichste Methoden erfolgen.
+Die Elfen in Silva Nacia nutzen Fernkampfwaffen und kämpfen von Bäumen aus.
+Die Kaiserliche Armee ließ diese Vielbeiner meist von der Ork Infanterie und Armbrustschützen erledigen und in Versorgung für die Soldaten umwandeln.
+
+Sollte man naiverweise alleine in Silva Nacia unterwegs sein, sollte man laute Geräusche machen und eine Fackel schwingen.
+Fliehen sollte man nur wenn man mindestens 50 Meter Abstand zu diesen Kreaturen hat, da diese über kurze Distanzen äußerst schnell sprinten können, aber dann meist Anhalten um wieder Luft zu bekommen.
+
+In Gruppen sollten schwere Hämmer benutzt werden da nur ide Unterseite weniger gepanzert ist.
+Fernkämpfer sollten gehärtete Pfeile oder Bolzen nehemn oder auf den ungepanzerten Hals Zielen.
+
+![Blauer Merkantolith. Sichtbar sind die dicken Rücken und Beinpanzerungen sowie der schwach gepanzerte Hals.](Pictures/Flavor/Monster/Blauer%20Merkantolith.jpeg)
 
 ### Skrogan Skorpion {#Skrogan}
 
