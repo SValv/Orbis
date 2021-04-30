@@ -284,6 +284,7 @@ das-ende-der-vorreiterkriege
 Monster
 einleitung
 höllenbrut
+bermatalteufel
 großer-aufspießer
 kaisot
 usukats
@@ -306,6 +307,8 @@ bestien
 kraves
 werwolf
 vielbeiner
+felsenkriecher
+blauer-merkantolith
 Skrogan
 silurian-skorpion
 znitins
