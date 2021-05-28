@@ -663,6 +663,7 @@ das-handwerksystem
 reparieren
 verbessern
 modifizieren
+herstellen
 waffenfremde-modifikationenschaffungen
 typische-modifikationen
 downtime-aktivitäten
