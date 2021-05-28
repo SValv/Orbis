@@ -31,24 +31,41 @@ mit diesen Base-Stats fängt man an:
 
 <small> <small>
 
-|         Wert         |   Mensch   |  Waldelf   |                Zwerg                |     Ork     |        Animalus         |    Goblin    |   Stadtelf   |        Halbling         |
-|:--------------------:|:----------:|:----------:|:-----------------------------------:|:-----------:|:-----------------------:|:------------:|:------------:|:-----------------------:|
-|       Strength       |     10     |     8      |                 10                  |     13      |           12            |      7       |      8       |            7            |
-|       Agility        |     10     |     13     |                  8                  |     10      |           12            |      12      |      13      |           10            |
-|       Charisma       |     10     |     11     |                  8                  |      6      |            8            |      9       |      12      |           13            |
-|     Intelligence     |     10     |     10     |                 14                  |      8      |            9            |      10      |      10      |           10            |
-|         Luck         |     5      |     4      |                  4                  |      6      |            4            |      7       |      4       |            6            |
-|       Instinct       |     10     |     12     |                 10                  |     10      |           10            |      10      |      11      |           10            |
-|       Physical       |     10     |     9      |                 10                  |     12      |           11            |      8       |      9       |            9            |
-|        Health        |    200     |    150     |                 200                 |     250     |           250           |     150      |     150      |           150           |
-|       Ausdauer       |     12     |     15     |                  9                  |     12      |           13            |      14      |      15      |           10            |
-|        Glaube        |     5      |     5      |                  5                  |      5      |            5            |      5       |      5       |            5            |
-|      Startgeld       |   30000    |   28500    |                66000                |    21000    |          24000          |    30000     |    25500     |          36000          |
-|  Rassenfähigkeiten   |            | Nachtsicht |              Geldgeil               | Kurzsichtig |        Mutation         | Thermo-sicht |  Nachtsicht  |      Unverdächtig       |
-|  Freie Skillpunkte   |     72     |     72     |                 72                  |     72      |           72            |      72      |      72      |           90            |
-| Freie Attributpunkte |     25     |     20     |                 15                  |     17      |           17            |      20      |      20      |           20            |
-|       Sprachen       | Herkunft 8 | Elfisch 8  | Zwergisch 8 Rah Kari 5 Kaiserlich 4 |  Orkisch 6  | Beastmen 8 Kaiserlich 3 |    Gob 8     | Kaiserlich 8 | Kaiserlich 8 Halbling 8 |
-|          20          |     24     |            |                                     |             |                         |              |              |                         |
++----------------------+------------+------------+-------------------------------------+-------------+-------------------------+--------------+--------------+-------------------------+
+| Wert                 | Mensch     | Waldelf    | Zwerg                               | Ork         | Animalus                | Goblin       | Stadtelf     | Halbling                |
++:====================:+:==========:+:==========:+:===================================:+:===========:+:=======================:+:============:+:============:+:=======================:+
+| Strength             | 10         | 8          | 10                                  | 13          | 12                      | 7            | 8            | 7                       |
++----------------------+------------+------------+-------------------------------------+-------------+-------------------------+--------------+--------------+-------------------------+
+| Agility              | 10         | 13         | 8                                   | 10          | 12                      | 12           | 13           | 10                      |
++----------------------+------------+------------+-------------------------------------+-------------+-------------------------+--------------+--------------+-------------------------+
+| Charisma             | 10         | 11         | 8                                   | 6           | 8                       | 9            | 12           | 13                      |
++----------------------+------------+------------+-------------------------------------+-------------+-------------------------+--------------+--------------+-------------------------+
+| Intelligence         | 10         | 10         | 14                                  | 8           | 9                       | 10           | 10           | 10                      |
++----------------------+------------+------------+-------------------------------------+-------------+-------------------------+--------------+--------------+-------------------------+
+| Luck                 | 5          | 4          | 4                                   | 6           | 4                       | 7            | 4            | 6                       |
++----------------------+------------+------------+-------------------------------------+-------------+-------------------------+--------------+--------------+-------------------------+
+| Instinct             | 10         | 12         | 10                                  | 10          | 10                      | 10           | 11           | 10                      |
++----------------------+------------+------------+-------------------------------------+-------------+-------------------------+--------------+--------------+-------------------------+
+| Physical             | 10         | 9          | 10                                  | 12          | 11                      | 8            | 9            | 9                       |
++----------------------+------------+------------+-------------------------------------+-------------+-------------------------+--------------+--------------+-------------------------+
+| Health               | 200        | 150        | 200                                 | 250         | 250                     | 150          | 150          | 150                     |
++----------------------+------------+------------+-------------------------------------+-------------+-------------------------+--------------+--------------+-------------------------+
+| Ausdauer             | 12         | 15         | 9                                   | 12          | 13                      | 14           | 15           | 10                      |
++----------------------+------------+------------+-------------------------------------+-------------+-------------------------+--------------+--------------+-------------------------+
+| Glaube               | 5          | 5          | 5                                   | 5           | 5                       | 5            | 5            | 5                       |
++----------------------+------------+------------+-------------------------------------+-------------+-------------------------+--------------+--------------+-------------------------+
+| Startgeld            | 30000      | 28500      | 66000                               | 21000       | 24000                   | 30000        | 25500        | 36000                   |
++----------------------+------------+------------+-------------------------------------+-------------+-------------------------+--------------+--------------+-------------------------+
+| Rassenfähigkeiten    |            | Nachtsicht | Geldgeil                            | Kurzsichtig | Mutation                | Thermo-sicht | Nachtsicht   | Unverdächtig            |
++----------------------+------------+------------+-------------------------------------+-------------+-------------------------+--------------+--------------+-------------------------+
+| Freie Skillpunkte    | 72         | 72         | 72                                  | 72          | 72                      | 72           | 72           | 90                      |
++----------------------+------------+------------+-------------------------------------+-------------+-------------------------+--------------+--------------+-------------------------+
+| Freie Attributpunkte | 25         | 20         | 15                                  | 17          | 17                      | 20           | 20           | 20                      |
++----------------------+------------+------------+-------------------------------------+-------------+-------------------------+--------------+--------------+-------------------------+
+| Sprachen             | Herkunft 8 | Elfisch 8  | Zwergisch 8 Rah Kari 5 Kaiserlich 4 | Orkisch 6   | Beastmen 8 Kaiserlich 3 | Gob 8        | Kaiserlich 8 | Kaiserlich 8 Halbling 8 |
++----------------------+------------+------------+-------------------------------------+-------------+-------------------------+--------------+--------------+-------------------------+
+| 20                   | 24         |            |                                     |             |                         |              |              |                         |
++----------------------+------------+------------+-------------------------------------+-------------+-------------------------+--------------+--------------+-------------------------+
 
 </small> </small>
 
@@ -314,6 +331,20 @@ Bei gegenteiligem Verhalten sinkt der Glaube wert.
 Dieser Wert stellt für der DM eine Möglichkeit dar gutes Roleplay zu belohnen.
 
 Dieser Wert soll die Göttliche Gunst in entscheidenden Situationen darstellen.
+
+### Glück
+
+Ebenso wie bei Glaube kann auch das Glück sinken und steigen. Wenn ein Charakter beispielsweise Aktionen bringt die gegen seine eigenen Werte gehen, sinkt der Glückswert durch Ansage des DM's. Bei Aktionen auf die ein Charakter besonders Stolz sein kann steigt dieser wieder. Die stärke von Senkung/Steigung liegt am DM. 
+
+Dieser Wert soll das persönliche Wachstum und Wohlbefinden wiederspiegeln.
+
+### Sanity
+
+Sanity bezeichnet die Rate, in der der Charakter noch Zurechnungsfähig ist. Sie geht vom Maximalwert 100 bis zum Wert Null. Sanity sinkt jedes Mal, wenn man mit Blutgöttern in Kontakt kommt, Blutgöttern dient oder eine Blutgottwaffe verwendet. 
+Solange die Sanity über 20 ist gibt es noch nichts zu befürchten. Sinkt die Sanity unter 20, hat der DM einmal pro Session die Möglichkeit einen Glück/Glaube-Save zu machen und - falls dieser gefailt wird - übernimmt der DM kurzzeitig die Kontrolle über die Figur, die daraufhin Wahrscheinlich horrende Taten vollbringt. Sinkt die Sanity unter 10, hat der DM zwei mal pro Session die Chance auf die Übername des Charakters. 
+Sollte die Sanity allerdings auf Null sinken, verliert der Spieler dauerhaft die Rolle über den Charakter - und der Charakter fällt langfristig dem blutigen Treiben eines <font color="green">[bösen Gottes](#Blutkult)</font> anheim.
+
+Bei Interaktionen entscheidet der DM um wie viel die Sanity sinkt.
 
 ### Lagern und Ruhen
 

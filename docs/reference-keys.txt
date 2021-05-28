@@ -257,7 +257,7 @@ riten-2
 salbung
 ZeremonieDerBefreiung
 symbolik-2
-der-blutkult
+Blutkult
 der-ruf-des-blutes
 der-dämonische-wahn
 die-inferata
@@ -693,6 +693,8 @@ wo-nachschauen
 im-spiel
 modifikatoren
 glaube
+glück
+sanity
 lagern-und-ruhen
 längerfristige-verletzungen
 Ohnmacht

@@ -18,9 +18,9 @@ Wie man sieht, passiert es manchmal, dass einem Skill mehrere Attribute zugeordn
 
 ### Die einfache Probe
 
-Die einfache Probe ist zu Würfeln, wenn es keinen direkten Gegenspieler gibt. Sie ist meistens mit einem Threshold in Value[^regeln-1] oder Damage verknüpft, den der DM beliebig festlegt. Sollte man bspw. versuchen ein Schloss zu knacken, wird der DM festlegen, dass der Value über 3 sein soll, um das zu erreichen. Bei härteren/leichteren schlössern ist der Value natürlich anzupassen.
+Die einfache Probe ist zu Würfeln, wenn es keinen direkten Gegenspieler gibt. Sie ist meistens mit einem Threshold in Value[^1] oder Damage verknüpft, den der DM beliebig festlegt. Sollte man bspw. versuchen ein Schloss zu knacken, wird der DM festlegen, dass der Value über 3 sein soll, um das zu erreichen. Bei härteren/leichteren schlössern ist der Value natürlich anzupassen.
 
-[^regeln-1]: Value ist eine Form von Gütekriterium eines Wurfes - je höher der Value, desto besser der Wurf.
+[^1]: Value ist eine Form von Gütekriterium eines Wurfes - je höher der Value, desto besser der Wurf.
 
 Welche Werte hierbei welcher Größenordnung entsprechen findet sich <font color="green">[hier](#Abstufungen)</font>.
 
@@ -460,7 +460,7 @@ Ausrüstung verliert über die Zeit Zustand. Mit der Aktion Reparieren stellt ma
 
 ### Verbessern
 
-Die Aktion "Verbessern" erhöht den Damage-Wert eines Ausrüstungsgegenstandes um 1. Dies geht bis zu der Grenze des gleichen Ausrüstungsgegenstandes des nächsthöheren Tiers. bspw. kann man eine Eisenwaffe die einen Damage ohne Verbesserung von 30 hat bis zum Wert 41 verbessern, da das nächste Tier - Stahl - bei 42 anfängt.
+Die Aktion "Verbessern" erhöht den Damage-Wert eines Ausrüstungsgegenstandes um 1.
 
 Thresholds und Kosten der Aktion Verbessern:
 
