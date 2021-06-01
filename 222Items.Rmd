@@ -68,7 +68,20 @@ Dies sind die Fernkampfwaffen, die einem als Abenteurer zur Auswahl stehen:
 
 #### Munitionstypen {#Ammo}
 
-WiP
+Spezialmunition kann man Kaufen ebenso wie Herstellen. Die untere Tabelle zeigt eine Übersicht über deren Preise als auch über deren Herstellung.
+<small>
+
+|       Name       |   Kosten<br>bei Kauf   | Value für <br> Herstellung |            Materialien           | Anzahl Pfeile<br>bei Herstellung |                           Wirkung                          |
+|:----------------:|:----------------------:|:--------------------------:|:--------------------------------:|:--------------------------------:|:----------------------------------------------------------:|
+|    Botkinpfeil   | 225 Reiks<br>pro Pfeil |        2,3 Handwerk        |        Material<br>Tier 1        |             10 Pfeile            |                 40% Armor <br> Penetration                 |
+|  Stumpfer Pfeil  | 100 Reiks<br>pro Pfeil |        1,5 Handwerk        |        Material<br>Tier 1        |             22 Pfeile            |        80% Betäubungschance <br> Verringert Schaden        |
+|  Scharfer Pfeil  | 150 Reiks<br>pro Pfeil |         2 Handwerk         |        Material<br>Tier 1        |             15 Pfeile            |                 50% Chance <br> auf Bluten                 |
+| Brandkapselpfeil |  40 Reiks<br>pro Pfeil |         1 Alchemie         | Pflanze mit<br>Molotovikawirkung |             13 Pfeile            |                 30% Chance <br> auf Brennen                |
+| Giftpfeil Tier 1 |  30 Reiks<br>pro Pfeil |         1 Alchemie         |          Gift <br>Tier 1         |             9 Pfeile             | 50% Chance auf<br>Gifteffekt Tier 1<br>höchste Ladungszahl |
+| Giftpfeil Tier 2 |  70 Reiks<br>pro Pfeil |        1,5 Alchemie        |          Gift <br>Tier 2         |             9 Pfeile             | 50% Chance auf<br>Gifteffekt Tier 2<br>höchste Ladungszahl |
+| Giftpfeil Tier 3 | 150 Reiks<br>pro Pfeil |         2 Alchemie         |          Gift <br>Tier 3         |             9 Pfeile             | 50% Chance auf<br>Gifteffekt Tier 3<br>höchste Ladungszahl |
+| Giftpfeil Tier 4 | 220 Reiks<br>pro Pfeil |        2,3 Alchemie        |          Gift <br>Tier 4         |             9 Pfeile             | 50% Chance auf<br>Gifteffekt Tier 4<br>höchste Ladungszahl |
+</small>
 
 ### Kurzwaffen
 
