@@ -93,7 +93,7 @@ Barken sind meist kleine Boote ohne Mast, die bis zu 8 Leuten Platz bieten. Sie 
 
 #### Bireme {-}
 
-![Modell einer Bireme](Pictures/Flavor/Ships/Bireme.jpg)
+![Modell einer Bireme](Pictures/Flavor/Schiffe&Boote/pngegg_Bireme_Platzhalter.png)
 
 Eine Bireme ist ein Ruderboot mit zwei Ruderreihen. Es ist das kleinste Ruderboot dass wirklich eine Bedeutung hat. Mit einer Mindestbesatzung von 40 Mann und Kapazität für 40 weitere Soldaten ist die Bireme eine kostengünstige Option, die fast überall Anwendung findet. Voll hochseetauglich wird sie alleine durch die Kapazität an Nahrung ausgebremst.
 
@@ -103,7 +103,7 @@ Biremen kommen sowohl mit offenem Deck, als auch mit einem geschlossenem Kampfde
 
 Galeeren haben ein breites, meist offenes Deck und sind eher auf Artillerie als auf Truppentransport ausgelegt. Da viele Galeeren umfunktionierte oder immer noch im Dienst seinende Handelsschiffe sind, haben sie auch häufiger Lagerräume und das typische - oft nachteillige offene Deck. 
 
-![Eine umfunktionierte Handelsgaleere](Pictures/Flavor/Ships/Galley1.png)
+![Eine umfunktionierte Handelsgaleere](Pictures/Flavor/Schiffe&Boote/Wikimedia_Galeere_Transparent.png)
 
 Dennoch sind Galeeren weit verbreitet und sowohl im zivilen als auch im militärischen Gebrauch üblich. Und sind vor allem durch ihre Vielseitigkeit charakterisiert. Kaum ein Schiffstyp ist so vielseitig und anpassungsfähig.
 
@@ -111,7 +111,7 @@ Dennoch sind Galeeren weit verbreitet und sowohl im zivilen als auch im militär
 
 Die Trireme ist mit 130 Ruderern und Platz für 150 Soldaten ein gefürchteter Anblick in jeder Seeschlacht. Ihre immense Beschleunigung macht sie zum idealen Schiff zum rammen und zum kapern anderer Schiffe, und so sind sie eigentlich nur im militärischen Gebrauch anzutreffen.
 
-![Eine Trireme auf Patroullie](Pictures/Flavor/Ships/Triere.jpg)
+![Eine Trireme auf Patroullie](Pictures/Flavor/Schiffe&Boote/pngegg_Trireme.png)
 
 Obwohl Triremen eher teuer sind, sind sie aufgrung ihrer Kampfkraft und der Schnelligkeit, mit der neue Seefahrer eingearbeitet sind, weit verbreitet.
 Trieren haben außerdem Platz für Artillerie und sind standartmäßig mit einer Ramme ausgerüstet, sie werden immer mit einem geschlossenem Kampfdeck gebaut.
@@ -127,13 +127,13 @@ Ein Kutter ist meist ein kleines Fischerboot, in das bis zu 8 Personen hineinpas
 
 Die Brigg ist das kleinste hochseefähige Schiff und kommt mit einem bis zwei Masten und Segeln. Je nach größe können verschiedene Mengen an Personen und Artillerie aufgenommen werden. Wärend auf kleine Briggs nur 1-2 Skorpione passen können auf größere Briggs sogar Katapulte oder Ballisten installiert werden.
 
-![Eine Brigg von der Seite](Pictures/Flavor/Ships/Brigg.png)
+![Eine Brigg von der Seite](Pictures/Flavor/Schiffe&Boote/pngegg_BriggOhneFlagge.png)
 
 #### Langschiff {-}
 
 Das Langschiff ist ein Design der Ska'en und ist mit kaum Artillerie oder einer Ramme ausgestattet, dennoch ist das Schiff aufgrund seiner Geschwindigkeit und Wendigkeit gefürchtet. Es kombiniert Vorteile aus beiden Welten der Schifffahrt damit dass es sowohl Segel als auch Ruder besitzt und schnell und zuverlässig eine große Menge Krieger transportieren kann, die sowohl fürs Kapern anderer Schiffe als auch für Landungen auf dem Festland eingesetzt werden können.
 
-![Das Langboot ist ein eher exotischer Schiffstyp](Pictures/Flavor/Ships/Longboat.jpg)
+![Das Langboot ist ein eher exotischer Schiffstyp](Pictures/Flavor/Schiffe&Boote/pngegg_Longboat.png)
 
 Ohne die Krieger ist das Langboot im Kampf jedoch relativ aufgeschmissen, da das niedrige Profil und die Abwesenheit von Artillerie das Schiff alleine kaum Aktionsfähig macht.
 
@@ -141,7 +141,7 @@ Ohne die Krieger ist das Langboot im Kampf jedoch relativ aufgeschmissen, da das
 
 Die Fregatte ist ein großes Segelschiff mit Platz für zwei bis drei Ballisten oder Katapulte. Sie braucht 25 Seemänner um gesteuert zu werden und kann in etwa 80 zusätzliche Personen Transportieren. Fregatten sind sowohl in ziviler als auch als militärischer Nutzung häufig - werden jedoch in beiden Fällen meist bewaffnet, da sie beliebte Ziele für Piraten sind. Sie können lange Zeit reisen und sind oft der Hauptteil maritimer Flotten.
 
-![Eine Fregatte kreuzt gegen den Wind](Pictures/Flavor/Ships/Fregatte.jpg)
+![Eine Fregatte kreuzt gegen den Wind](Pictures/Flavor/Schiffe&Boote/Fregatte.jpg)
 
 Fregatten gelten als das kleinste der großen Segelschiffe.
 
@@ -149,13 +149,13 @@ Fregatten gelten als das kleinste der großen Segelschiffe.
 
 Die Karavelle ist das mittlere der großen Segelschiffe und ein nicht zu unterschätzendes Schiff. Sie ist (obwohl sie an Beschleunigung nicht mit Ruderschiffen mithalten kann) die wahrscheinlich schnellste Schiffsklasse auf dem Meer und wird in Puncto Feuerkraft nur von der Galeone übertroffen. Ihr hohes Deck sorgt dafür dass hoher Wellengang und leichte Stürme ihr kaum was anhaben können. 
 
-![Eine Karavelle auf Jungferfahrt](Pictures/Flavor/Ships/Caravel.jpg)
+![Eine Karavelle auf Jungferfahrt](Pictures/Flavor/Schiffe&Boote/pngegg_Caravel.png)
 
 Bereits 35 Mann reichen aus um eine Karavelle voll Fahr- und Funktionsfähig zu halten, jedoch haben bis zu 140 Passagiere auf der Karavelle Platz.
 
 #### Galeone {-}
 
-![Eine Galeone](Pictures/Flavor/Ships/Galeone.jpg)
+![Eine Galeone](Pictures/Flavor/Schiffe&Boote/wallpaperbetter_Galeone.jpg)
 
 Galeonen sind oft die Flaggschiffe von Flotten. Diese enormen Kreutzer kosten ganze Vermögen und sind mit einer Menge an Artillerie und Soldaten ausgestattet. Die 60 Seemänner die es braucht um das Boot zu bemannen lassen noch Platz für bis zu 320 andere Passagiere - die meist die Leibgarde einer sehr reichen und mächtigen Person sind.
 

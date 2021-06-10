@@ -1,78 +1,78 @@
 # Die Elfen
 
 Die Elfen sind eine sehr filigrane und zierliche Rasse. 
-Deswegen zeichnen sie sich durch eine deutliche Überlegenheit in ihrer Beweglichkeit im Vergleich zum Menschen aus, die ihnen auch beim Klettern, besonders im Wald, viele Vorteile bringt. Sie sind jedoch auch erkennbar schwächer und etwas weniger widerstandsfähig als Menschen. 
+Daher zeichnen sie sich, verglichen mit den Menschen, durch eine deutliche Überlegenheit in ihrer Beweglichkeit aus, die ihnen auch beim Klettern, besonders im Wald, viele Vorteile bringt. Sie sind jedoch auch erkennbar schwächer und etwas weniger widerstandsfähig als Menschen. 
 
-Die Elfen unterteilen sich nach ihrem Lebensraum in Waldelfen und Stadtelfen. Doch dies war nicht immer so.
+Die Elfen unterteilen sich entsprechend ihrem Lebensraum in Waldelfen und Stadtelfen, was jedoch nicht immer der Fall war.
 
-Im Jahre 20 nach der Gründung des Kaiserreiches zog der Kaiser Virius Proximus das Postulat "Zum Umgang mit anderen Rassen" der Ekklesia als Legitimationsgrundlage heran, um eine der größten rassenbezogenen Hetzjagten in der Geschichte von Orbis Astea zu beginnen, der noch heute als die Entwurzelung bekannt ist. 
-Die kaiserlichen Armeen drangen in das Territorium der unvorbereiteten Elfen ein. Die Stämme, welche nicht nur zahlenmäßig vollkommen unterlegen waren, hatten keine Möglichkeit den Truppen irgendwas entgegenzusetzen. Viele von ihnen kämpften mit Werkzeugen und Holzwaffen, da sie einen derartigen Überfall in keiner Weise erwartet hatten. 
-Viele der Stämme entschieden sich dennoch dazu zu kämpfen da sie, geblendet durch ihre eigenen Überlegenheitserwartungen, nicht sahen, wie unterlegen sie ihren Angreifern waren. 
+Im Jahre 20 nach der Gründung des Kaiserreiches zog der Kaiser Virius Proximus das Postulat "Zum Umgang mit anderen Rassen" der Ekklesia als Legitimationsgrundlage heran, um eine der größten rassenbezogenen Hetzjagden in der Geschichte von Orbis Astea zu beginnen. Diese ist noch heute als die Entwurzelung bekannt. 
+Die kaiserlichen Armeen drangen in das Territorium der unvorbereiteten Elfen ein. Die Stämme, welche zahlenmäßig und körperlich vollkommen unterlegen waren, hatten keine Möglichkeit, den Truppen irgendetwas entgegenzusetzen. Viele von ihnen kämpften mit Werkzeugen und Holzwaffen, da sie einen derartigen Überfall in keiner Weise erwartet hatten. 
+Viele der Stämme entschieden sich, dennoch zu kämpfen. Denn in ihrem Stolz erkannten sie nicht, wie unterlegen sie ihren Angreifern waren. 
 
 Platzhalter BILD 
 
-Doch die Armeen des Kaiserreich überrollten die Stämme lediglich, da diese, aufgrund ihres Lebens als unabhängige Stämme, keine Beziehungen zu anderen Stämmen pflegten. 
-Über die Zeit der Kämpfe wurden viele Elfen ermordet und gefangen genommen, um sie als Sklaven im Kaiserreich auszunutzen.
+Die Tatsache, dass die verschiedenen Stämme unabhängig voneinander waren und daher keine Beziehungen zueinander pflegten, bot den Armeen die Möglichkeit, die Stämme einen nach dem anderen einfach zu überrollen.
+Im Verlauf der Kämpfe wurden viele Elfen ermordet oder gefangen genommen, um sie letztenendes im Kaiserreich zu Sklaven zu machen.
 
-![Portrait eines Elfensklaven](Pictures\\Flavor\\Elfen\\ElfenSklave.jpg)
+![Portrait eines Elfensklaven](Pictures\\Flavor\\Platzhalter\\ElfenSklave.jpg)
 
 So wurden sie unter schlechtesten Bedingungen wie Tiere gehalten und mussten jegliche Arbeiten verrichten, die anfielen. 
 
 ## Die Legenden der Elfen
 
-Ein Elf, welcher besondere Bedeutung für die Waldelfen hat, den man fälschlicherweise für einen der Götter der Waldelfen halten könnte, ist der Waldelf <font color="green">[Elanor Dolguruk](#SilvaNacia)</font>. 
+Der Waldelf <font color="green">[Elanor Dolguruk](#SilvaNacia)</font> hat eine besondere Bedeutung für die Waldelfen hat, sodass man ihn - fälschlicherweise - für einen Gott der Waldelfen halten könnte.
 
 ## Die Stadtelfen
 
 Stadtelfen sind im Vergleich zum Menschen erkennbar charismatischer, was sicherlich auch mit ihrer Schönheit zusammenhängt. 
 
-![Eine durchschnittliche Unterstadtelfin](Pictures\\Flavor\\Elfen\\UnterstadtElfin.jpg)
+![Eine durchschnittliche Unterstadtelfin](Pictures\\Flavor\\Platzhalter\\UnterstadtElfin.jpg)
 
 
 
 ### Die Geschichte
 
-Die Entwurzelung ist der Grund dafür, warum es, auch noch heute, Elfen lediglich im Kaiserreich gibt, da diese Nachkommen der damaligen Sklaven auch noch heute in den Städten leben. Die Folgen der Sklaverei sind, obwohl diese zwischenzeitlich Aufgehoben und dann erneut Ausgerufen wurde und wieder aufgehoben wurde, auch noch heute im Leben der Stadtelfen zu spüren. Daraus ergibt sich der Umstand, dass das tägliche Überleben für viele Stadtelfen eine Herausforderung darstellt, sodass viele von ihnen noch immer der Kriminalität zugeneigt sind, um ihr eigenes Überleben zu sichern. 
+Die Entwurzelung ist der Grund dafür, dass es Elfen auch heute noch lediglich im Kaiserreich gibt: Die Nachkommen der damaligen Sklaven leben bis heute in den Städten. Die Folgen der Sklaverei sind selbst in der heutigen Zeit noch im Leben der Stadtelfen zu spüren - obwohl diese zwischenzeitlich aufgehoben, erneut ausgerufen und letztenendes wieder aufgehoben wurde. Um das tägliche Überleben zu sichern, sind daher viele von ihnen der Kriminalität zugeneigt. 
 
 
 ### Die Gesellschaft
 
-Aufgrund der Entwurzelung und der Versklavung der Elfen und die daraus entstandene Vermischung verschiedener Ur-Waldelfen-Stammesvölker, kam es bei den Stadtelfen nie zur Etablierung einer einheitlichen Gesellschaftsstrutkur. Besonders in der Unterstadt gilt der generelle Tenor "Auge um Auge, Zahn um Zahn".
+Aufgrund der Entwurzelung und Versklavung der Elfen und der damit einhergehenden Vermischung verschiedener Waldelfen-Stämme, kam es bei den Stadtelfen nie zur Etablierung einer einheitlichen Gesellschaftsstrutkur. Besonders in der Unterstadt gilt der generelle Tenor "Auge um Auge, Zahn um Zahn".
 
-![Die Unterstadt](Pictures\\Flavor\\Unterstadt.jpg)
+![Die Unterstadt](Pictures\\Flavor\\Platzhalter\\Unterstadt.jpg)
 
 LENA:
-Nicht nur in Bezug auf die Religion stellen Kulte, Gilden und Sekten eine interessante strukturgebende Gesellschaft dar, sondern auch im Alltag der Elfen, indem der Zusammenschluss im Untergrund einen Überlebensvorteil für alle Mitglieder darstellt.
+Nicht nur in Bezug auf die Religion stellen Kulte, Gilden und Sekten eine interessante strukturgebende Gesellschaft dar, sondern auch im Alltag der Elfen, in dem der Zusammenschluss im Untergrund einen Überlebensvorteil für alle Mitglieder darstellt.
 
-Eine der bekannteren Diebesgilden stellen die Hofbruderschaft dar, die besonders junge Stadtelfen in ihre Ausbildung nehmen, um sie möglichst abhängig von der Gilde werden zu lassen. Sie stellen die Familie dar, die keines der Kinder je erfahren konnte und aus diesem Grund ist der Kontakt zur eigenen Familie strengstens untersagt. Die frühe Ausbildung umfasst besonders den Taschendiebstahl, ebenso wie das Einschleichen in Bereiche, die andere, aufgrund ihrer Größe, nicht erreichen können. Im Gegenzug wird ihnen ein Dach über dem Kopf und regelmäßigeres Essen gewährt. Jedoch gilt der Überlebensgrundsatz auch hier, wer die Gilde besser durch seine Erfolge unterstützt, der bekommt mehr von allem, was verteilt wird. Besonders die Aufstiegschancen innerhalb der Gilde sind interessant, da mit jedem Aufstieg weitere Vorteile einhergehen, wie mehr Handlungsspielraum, Vertrauen, oder Belohnung.
+Eine der bekannteren Diebesgilden stellt die Hofbruderschaft dar, die insbesondere junge Stadtelfen in ihre Ausbildung aufnehmen, um sie möglichst abhängig von der Gilde werden zu lassen. Sie stellen die Familie dar, die keines der Kinder je erfahren konnte. Aus diesem Grund ist der Kontakt zur eigenen Familie strengstens untersagt. Die frühe Ausbildung umfasst vor allem den Taschendiebstahl, sowie das Einschleichen in Bereiche, die die älteren Elfen aufgrund ihrer Größe nicht erreichen können. Im Gegenzug werden ihnen ein Dach über dem Kopf und regelmäßige Mahlzeiten gewährt. Jedoch gilt der Überlebensgrundsatz auch hier: Je besser man die Gilde durch seine Erfolge unterstützt, umso mehr bekommt man von allem, was verteilt wird. Die Aufstiegschancen innerhalb der Gilde sind besonders interessant, da mit jedem Aufstieg weitere Vorteile einhergehen, wie mehr Handlungsspielraum, Vertrauen oder Belohnung.
 
-Somit stellt der Beitritt zu einer Gilde, einer Sekte, oder einem Kult oftmals die einzige Mölichkeit zur Überlebenssicherung dar, die einem Unterstadtelf geboten wird. In manchen Fällen verkaufen Familien ihre Neugeborenen auch, um die eigenen Überlebenschancen zu verbessern. In diesen Fällen sind die ersten Erinnerungen der Kinder die Mitgliedschaft der Gilde, sodass diese das einzie Zuhause darstellen, welches sie je erfahren haben.
+Somit stellt der Beitritt zu einer Gilde, einer Sekte, oder einem Kult oftmals die einzige Mölichkeit zur Überlebenssicherung dar, die einem Unterstadtelf geboten wird. In manchen Fällen verkaufen Familien sogar ihre Neugeborenen, um ihre eigene Situation zu verbessern. In solchen Fällen lebten die Kinder bereits in der Gilde, seit sie sich erinnern können, und sehen diese damit als das einzige Zuhause an, das sie je hatten.
 
 \LENA
 
 ### Die Religion
 
 LENA:
-Da die Stadtelfen sich weitestgehend von den Wurzeln ihrer Ahnen entfernten, jedoch auch kein Teil der menschlichen Gesellschaft wurden, ist es für viele von ihnen auch noch heute schwer sich für einen Glauben zu entscheiden, dem sie mit voller Überzeugung folgen können. Besonders aufgrund der schlechten Bedingungen unter denen die meisten Elfen in der Stadt leben, wenden sich viele sehr extremen Kulten, oder Sekten zu, da sie sich nicht im menschlichen Glauben an den Allgott wiederfinden können. 
-Ein besonders bekannter Kult, welcher auch für die Inquisition eine große Bedrohung darstellt und daher versucht wird von dieser zerschlagen zu werden, stellt der Blutkult dar. 
+Die Stadtelfen entfernten sich weitestgehend von den Wurzeln ihrer Ahnen, wurden jedoch auch kein Teil der menschlichen Gesellschaft. Daher ist es für viele von ihnen auch noch heute schwer, sich für einen Glauben zu entscheiden, dem sie mit voller Überzeugung folgen können. Besonders aufgrund der schlechten Bedingungen, unter denen die meisten Elfen in der Stadt leben, wenden sich viele sehr extremen Kulten oder Sekten zu. Im menschlichen Glauben an den Allgott können sie sich nämlich nicht wiederfinden. 
+Ein besonders bekannter Kult ist der Blutkult, welcher für die Inquisition eine große Bedrohung darstellt, sodass diese versucht, ihn zu zerschlagen. 
 
-![Das Zeichen des Blutkultes](Pictures\\Flavor\\Elfen\\Blutkult_Platzhalter.jpg)
+![Das Zeichen des Blutkultes](Pictures\\Flavor\\Platzhalter\\BlutkultSymbol.jpg)
 
-In dieser Glaubensrichtung kann das wahre Leben nur dann erfahren werden, wenn man Leben gibt. Den Blutkult-Anhängern ist es das oberste Gebot Opfer für ihre Götter darzubringen. Je extremer diese Opfer sind, desto zufriedener sind die Götter. So reichen die Opfergaben von Tieren, wie Schafen, bis hin zu Menschenleben. Auch wird vor Säuglingen kein Halt gemacht. 
+In dieser Glaubensrichtung kann das wahre Leben nur dann erfahren werden, wenn man Leben gibt. Den Blutkult-Anhängern ist es das oberste Gebot, Opfer für ihre Götter zu bringen. Je extremer diese Opfer sind, desto zufriedener sind die Götter. So reichen die Opfergaben von Tieren, wie Schafen, bis hin zu Menschenleben. Auch vor Säuglingen wird kein Halt gemacht. 
 
-Die Struktur dieses Kultes entspricht Hierarchien, die denen der Ekklesia des Kaiserreichs ähneln. So gibt es kleinere Glaubensgruppen, die von Priestern geleitet werden. Diese unterstehen wiederum Figuren, die als Seher bezeichnet werden und bereits eine höhere Stufe auf dem Weg der Erlangung des wahren Lebens erreicht haben. 
+Die Struktur dieses Kultes besteht aus Hierarchien, die denen der Ekklesia des Kaiserreichs ähneln. So gibt es kleinere Glaubensgruppen, die von Priestern geleitet werden. Diese unterstehen wiederum den Sehern, die bereits eine höhere Stufe auf dem Weg der Erlangung des wahren Lebens erreicht haben. 
 \LENA
 
 
 ### Individuelle Eigenschaften (Umbennen für jew. Rasse)
 
-Aufgrund der hohen vorherrschenden Armut bei den Stadtelfen, stellt das Leben in der Unterstadt teils einen Überlebenskampf dar. Daher sind viele der Elfen auf Taschendiebstahl spezialisiert, um sich so Nahrung und Wertgegenstände zu erstehlen, die ihnen ihr Überleben sichern können. 
+Aufgrund der vorherrschenden Armut bei den Stadtelfen stellt das Leben in der Unterstadt teils einen Überlebenskampf dar. Daher sind viele der Elfen auf Taschendiebstahl spezialisiert, um so Nahrung und Wertgegenstände zu ergattern, die ihnen ihr Überleben sichern können. 
 
-![Platzhalter zur Veranschaulichung des Taschendiebstahls](Pictures\\Flavor\\Elfen\\Taschendiebstahl_Platzhalter.jpg)
+![Platzhalter zur Veranschaulichung des Taschendiebstahls](Pictures\\Flavor\\Platzhalter\\Taschendiebstahl.jpg)
 
-Darüber hinaus sind die Elfen sehr gewieft darin sich Zugang zu Bereichen zu verschaffen, die ihnen verschlossen bleiben sollten. Hierbei nutzen sie sowohl ihre Fähigkeiten im Schlossknacken, als auch ihre hohe Agilität.Besonders für Schlüsselmeister stellen sie dadurch eine Herausforderung dar, da sie sich immer wieder aufs Neue überlegen müssen, wie sie sich vor den Eindringlingen schützen können. 
+Darüber hinaus sind die Elfen sehr gewieft darin, sich Zugang zu Bereichen zu verschaffen, die ihnen verschlossen bleiben sollten. Hierbei nutzen sie sowohl ihre Fähigkeiten im Schlossknacken, als auch ihre hohe Agilität. Besonders für Schlüsselmeister stellen sie dadurch eine große Herausforderung dar, da diese sich immer wieder aufs Neue überlegen müssen, wie sie die Eindringlinge fernhalten können. 
 
-![Die Angst eines jeden Schlüsselmeisters](Pictures\\Flavor\\Elfen\\Schlüsselmeister.jpg)
+![Die Angst eines jeden Schlüsselmeisters](Pictures\\Flavor\\Platzhalter\\Schlüsselmeister.jpg)
 
 
 
@@ -81,7 +81,7 @@ Darüber hinaus sind die Elfen sehr gewieft darin sich Zugang zu Bereichen zu ve
 
 Die Waldelfen leben, wie der Name bereits vermuten lässt, in einzelnen Stämmen über die Wälder Orbis Asteas verteilt. Ihr Lebensraum ist in den Wald integriert.
 
-![Mein damaliges Zuhause meines Stammes - Die Zeichnung eines Sklaven](Pictures\\Flavor\\Elfen\\treehouse_woodelfs.png)
+![Mein damaliges Zuhause meines Stammes - Die Zeichnung eines Sklaven](Pictures\\Flavor\\Platzhalter\\Baumhaus_Waldelfen.jpg)
 
 
 
@@ -92,14 +92,14 @@ Die Waldelfen leben, wie der Name bereits vermuten lässt, in einzelnen Stämmen
 > --- Schilderung eines Sklaven in seinem Tagebuch
 
 
-Die Waldstämme der Elfen blieben stets unter sich und versuchten ihr Territorium im Glauben an ihre Götter zu erweitern. Das Leben neben den Menschen gestaltete sich schon immer etwas schwierig, da beide Rassen der festen Überzeugen waren, dass sie die Überlegene seien. Doch gab es, bis auf ein paar Kämpfe mit anderen Rassen um Teile des waldes, selten größere Probleme für die Elfen und ihre Völker. Dies änderte sich jedoch schlagartig im Rahmen der Entwurzelung. 
+Die Waldstämme der Elfen blieben stets unter sich und versuchten ihr Territorium im Glauben an ihre Götter zu erweitern. Das Leben neben den Menschen gestaltete sich schon immer etwas schwierig, da beide Rassen der festen Überzeugen waren, dass sie die überlegene seien. Doch gab es, bis auf ein paar Kämpfe mit anderen Rassen um Teile des Waldes, selten größere Probleme für die Elfen und ihre Völker. Dies änderte sich jedoch schlagartig im Rahmen der Entwurzelung. 
 
-Die wenigsten Stämme konnten fliehen. Große Teile ihrer Wälder wurden gerodet und niedergebrannt, da die Truppen des Kaiserreiches ihren eigenen Hass, durch das, was sie erleben mussten in den Jahren des Krieges zuvor, vollkommen an den Elfen auslebten. 
+Die wenigsten Stämme konnten fliehen. Große Teile ihrer Wälder wurden gerodet und niedergebrannt, da die Truppen des Kaiserreiches ihren eigenen Hass, durch das, was sie in den Jahren des Krieges zuvor erleben mussten, vollkommen an den Elfen auslebten. 
 
-Die wenigen Elfen, die damals entkommen konnten zogen sich lange Zeit an dunkle Orte zurück aus Angst, sie würden gefunden und ebenfalls versklavt werden. 
-Nach einiger Zeit jedoch, fanden sich die Überlebenden in kleinen Stämmen zusammen und fingen den Neuanfang ihrer Rasse an. Geschwächt, mittellos und ohne einen Ort an den sie zurückkehren konnten, gingen viele Fortschritte der Elfen verloren, weshalb diese Rasse lange Zeit brauchte, um einen ähnlichen Wissenstand zu erreichen, wie es ihnen vor der Entwurzelung möglich war. 
+Die wenigen Elfen, die damals entkommen konnten, zogen sich für lange Zeit aus Angst, gefunden und ebenfalls versklavt zu werden, an dunkle Orte zurück. 
+Nach einiger Zeit jedoch fanden sich die Überlebenden in kleinen Stämmen zusammen und bildeten den Neuanfang ihrer Rasse. Geschwächt, mittellos und ohne einen Ort, an den sie zurückkehren konnten, gingen viele Fortschritte der Elfen verloren. Deshalb brauchte diese Rasse viel Zeit, um einen ähnlichen Wissenstand zu erreichen, wie vor der Entwurzelung. 
 
-Aus diesem Grund werden die Menschen noch heute auf das Übelste verflucht und gehasst. Die Elfen sind seither feindseeliger dennje gegenüber anderen Rassen und greifen alles an, was ihnen verdächtig vorkommt.
+Aus diesem Grund werden die Menschen noch heute auf das Übelste verflucht und gehasst. Seither sind die Elfen feindseeliger denn je gegenüber anderen Rassen und greifen alles an, was ihnen verdächtig vorkommt.
 
 
 ### Die Gesellschaft der Rasse
@@ -124,7 +124,7 @@ Ein Gesandter der Pfoten zu sein stellt eine besondere Ehre dar, weile diese unm
 
 Die Waldelfen waren schon immer eine sehr in sich gekehrte Rasse, welche nie danach strebte sich mit anderen Rassen, nicht mal Stämmen der eigenen Rasse, zu verbünden. Aufgrund der geschichtlichen Erfahrungen der Waldelfen mit den Menschen, entwickelte sich jedoch ein besonderer Hass gegenüber Eindringlingen in die eigenen Wälder.
 
-![Eine Waldelfin im Akt der Verteidung ihres Territoriums](Pictures\\Flavor\\Elfen\\Woodelf.jpg)
+![Eine Waldelfin im Akt der Verteidung ihres Territoriums](Pictures\\Flavor\\Platzhalter\\Waldelfin.jpg)
 
 Diese besondere Feindlichkeit ist auch daran zu erkennen, dass es zunehmend zu Überfällen auf Transportkarawanen kommt, sofern sich diese den Gebieten der Waldelfen zu sehr nähern. Über die Zeit weiteten sich die Angriffe auch auf Wege aus, die in der Nacht befahren wurden, sodass die Elfen im Schutz der Dunkelheit und mit Hilfe ihrer Nachtsicht, alles überfielen, was sich dort bewegt. Diese Taktiken sind bei solchen Stämmen verstärkt zu finden, deren Stammessiutation es sich erlauben kann in Konflikte verwickelt zu werden. 
 
@@ -186,7 +186,7 @@ Ihre Rüstung basiert auf Spinnenseide, wodurch diese stichsichere Westen tragen
 Die Waldelfen immitieren Tiergeräusche, um sich im Wald zu verständigen, ohne aufzufallen. Diese Imitation übertrifft die der Menschen und Orks. Darüber hinaus sind die meisten Signale stammspezifisch, manche jedoch auch universal. 
 Ein weiterer Jagdvorteil ergibt sich aus der Nachtsichtfähigkeit. 
 
-![Ein männlicher Waldelf auf der Jagd](Pictures\\Flavor\\Elfen\\Woodelf2.png)
+![Ein männlicher Waldelf auf der Jagd](Pictures\\Flavor\\Platzhalter\\Waldelf.jpg)
 
 Zudem gelingt es den Waldelfen äußerst gut Tiere zu zähmen und diese als Nutztiere, ebenso wie Wegbegleiter, einzusetzen. 
 
@@ -194,7 +194,7 @@ Zudem gelingt es den Waldelfen äußerst gut Tiere zu zähmen und diese als Nutz
 
 Eine der Hauptnahrungsquellen der Waldelfen stellen riesige Insekten dar. 
 
-![Ein Barboleta - Aus der Insektensammlung eines Elfenforschers](Pictures\\Flavor\\Elfen\\InsektenFood.jpg)
+![Ein Barboleta - Aus der Insektensammlung eines Elfenforschers](Pictures\\Flavor\\Insekten\\Barboleta_by_jimmynijs.jpg)
 
 Diese werden von den Elfen als Barboleta bezeichnet und stellen für Antwärter des Gesandten der Klaue zu Beginn eine erste Herausforderung dar, welche erlegt werden muss. Diese Insekten können durchaus die Größe eines Rehkitzes erreichen, wodurch sie sich für erste Jagderfahrungen wunderbar eignen. 
 
