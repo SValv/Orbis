@@ -231,7 +231,7 @@ m <- leaflet(width = w(), height = h()) %>%
       function(el, x) {
         console.log(this);
         var myMap = this;
-        var imageUrl = 'BackGroundPastel.PNG';
+        var imageUrl = 'BackGroundPastel.png';
         var imageBounds = [[-55,-160], [15, 160]];
 
         L.imageOverlay(imageUrl, imageBounds).addTo(myMap);
@@ -606,7 +606,3 @@ m)))
 
 
 ```
-
-
-
-v1
