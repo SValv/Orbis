@@ -245,8 +245,6 @@ m <- leaflet(width = w(), height = h()) %>%
       }
       "
   ) %>%
-  
-  addMouseCoordinates() %>%
   setMaxBounds(
     lng1 = -3,
     lat1 = -3,
