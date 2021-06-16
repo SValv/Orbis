@@ -235,12 +235,7 @@ m <- leaflet(width = w(), height = h()) %>%
         var imageBounds = [[-85,-460], [85, 460]];
 
         L.imageOverlay(imageUrl, imageBounds).addTo(myMap);
-      }
-      "
-  ) %>%
-  htmlwidgets::onRender(
-    "
-      function(el, x) {
+        
         console.log(this);
         var myMap = this;
         var imageUrl = 'OrbisAstea.jpg';
@@ -249,7 +244,9 @@ m <- leaflet(width = w(), height = h()) %>%
         L.imageOverlay(imageUrl, imageBounds).addTo(myMap);
       }
       "
-  ) %>% addMouseCoordinates() %>%
+  ) %>%
+  
+  addMouseCoordinates() %>%
   setMaxBounds(
     lng1 = -3,
     lat1 = -3,
