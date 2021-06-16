@@ -164,7 +164,7 @@ RegionPolygonsData=read_excel("Leaflet/DataRegionInfo.xlsx")
 
 RegionenLabels= sprintf(
   "<strong>%s</strong><br/>Hauptstadt: %s<br>Herrscher: %s<br>Bevölkerungsdichte: %s pro Km^2",
-  RegionPolygonsData$Name, RegionPolygonsData$Hauptstadt, RegionPolygonsData$Herrscher, RegionPolygonsData$`Nachgefragte Güter`,RegionPolygonsData$`Güter im Überfluss`,RegionPolygonsData$`Wirtschafliche Kraft`
+  RegionPolygonsData$Name, RegionPolygonsData$Hauptstadt, RegionPolygonsData$Herrscher, RegionPolygonsData$PopulationDensity
 ) %>% lapply(htmltools::HTML)
 
 
