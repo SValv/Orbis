@@ -529,7 +529,7 @@ Jeder Charakter kann je eine Haupt und eine Nebenaktivität pro Downtime ausübe
 ```{r , echo=F}
 library(readxl)
 
-DFActivity= read_excel("C:\\Users\\svalv\\Dropbox\\Lele\\Rpg\\Container\\Data\\DowntimeData.xlsx")
+DFActivity= read_excel("Container\\Data\\DowntimeData.xlsx")
 
 colnames(DFActivity)[1:3]=c("Tätigkeit","Mittelwert","Standardabweichung")
 knitr::kable(DFActivity)

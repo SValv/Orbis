@@ -64,7 +64,7 @@ Obwohl sich Eldria nicht allzu bald von diesem Schlag erholen können wird ist d
 
 Adeliger in Eldria wird man meist durch Vererbung, manchmal wird einem der Titel allerdings auch dadurch erworben, dass man von einem großeren Fürsten Land und einen Titel gestellt bekommt - diesen Vorgang nennt man "Erhebung" und sie geht für gewöhnlich mit einem Schuldverhältniss gegenüber dem Fürsten, der einen erhoben hat, einher. 
 
-![Cravin von Gent](Pictures/Flavor/Eldria/General.png)
+![Cravin von Gent](Pictures/Flavor/Platzhalter/General.jpg)
 
 Obwohl es in Eldria sehr viele Adelige gibt ist ihnen ihr Status sehr wichtig, auch kleine und völlig unbedeutende Adelige, die sich in ihrem Einfluss nicht wirklich von bürgerlichen unterscheiden werden darauf beharren, dass sie Fürsten sind und daher Respekt verlangen, den andere Adelige ihnen auch entgegenbringen werden. So werden Adelige in Kriegsgefangenschaft oder Prozessen im Allgemeinen bevorzugt behandelt.
 
@@ -74,8 +74,8 @@ Die Krieger Eldrias gehören zu den besten der Welt. Sowohl beritten als auch zu
 
 Ritter suchen oft die Dienste von Fürsten, die sie auch bezahlen können, und obwohl sie sich oftmals als Helden stilisieren sind sie eigentlich nicht viel besser als bedungene Söldner. Es gibt mehr als genug Beispiele in denen Ritter aufgrund von Bezahlung oder Land die Seiten gewechselt haben oder in denen Ritter Zivilisten misshandelt oder massakriert haben. Trotzdessen gibt es mehrere Formen der Heldenepik über die Ritter und sie werden als Helden betrachtet, die von Schaulustigen in Dörfern durchaus einmal umringt werden.
 
-![Ein Ritter Eldrias, der Löwe von Calvert ziert sein Wappen](Pictures/Flavor/Eldria/EdriaRitter1.jpg)
-
+![Ein Ritter Eldrias, der Löwe von Calvert ziert sein Wappen](Pictures/Flavor/Eldria/blackmoors_knight_by_umbatman.jpg)
+[^Künstler2]
 Die meisten Ritter tragen einen Überwuf über ihrer Rüstung, der in leuchtenden Farben sowohl das Wappen des Ritters selbst, als auch die Insignien des Fürsten dem sie dienen, sofern sie in einem Dauerverhältniss sind
 
 Meist sind es besonders treue Ritter, die in den Adelsstand erhoben werden und so ist der Ritterstand gerade für viele soziale Aufsteiger oder niedere Adelige, die nach mehr Land und Macht streben und sich durch eine mögliche Erhebung erhoffen an tatsächlichen Einfluss zu kommen, attraktiv.
@@ -92,7 +92,7 @@ Das Fürstentum verdankt seine Macht und seinen Rang der strategischen Position 
 
 Aerlham wurde bis zur Übernahme durch das Kaiserreich durch die Familie Graham kontrolliert. Momentan hat allerdings der Imperiale Stadthalter - und Onkel des Kaisers - Arminius Prodius das Sagen in Aerlham. Er und seine Garnison regieren die unter Kriegsrecht stehende Stadt mit eiserner Hand, was zur Folge hat, dass auch unschuldige in Aerlham in einer Zelle landen, und Prozesse eine eher untergeordnete Bedeutung haben.
 
-![Eine Malerei von Aerlham aus dem Jahre 116](Pictures/Flavor/Eldria/Aerlham.jpg)
+![Eine Malerei von Aerlham aus dem Jahre 116](Pictures/Flavor/Platzhalter/Aerlham.jpg)
 
 Trotz dieser widrigen Umstände lebt die Elite Aerlhams ein mehr als extravagantes Leben, in dem Bälle, Opern, Maskeraden und andere Gelegenheiten sich zu profilieren zum Alltag gehören. An kaum einem Ort ist die soziale Ungleichheit so groß wie in Aerlham.
 
@@ -103,7 +103,7 @@ Bis heute gibt es eine erstarkende Widerstandsbewegung unter Argus Graham, dem j
 Gent war neben Calvert eines der beiden Fürstentümer, welche zum Schutz Wandias gegründet wurden und schon früh einen militärischen Schwerpunkt hatten. Gents Armeen waren elementar beim Rückschlagen der Feinde der Donnerwächter im <font color="green">[Zwergenkrieg](#Zwergenkrieg)</font>, allerdings zeigte sich Gent schon bald eigenwilliger als andere Fürstentümer. 
 Nach dem Untergang Wandias erklärte Gent beihnahe unmittelbar seine Unabhängigkeit und begann seinen Einfluss in umliegende Fürstentümer auszuweiten.
 
-![Das Wappen von Gent ziert das sogenannte Kreuz von Gent](Pictures/Flavor/Eldria/Wappen/WappenGent.jpg#Wappen)
+![Das Wappen von Gent ziert das sogenannte Kreuz von Gent](Pictures/Flavor/Eldria/Wappen/WappenGent.jpg)
 
 Diese expansionistische Politik Gents führte schon bald zu einer bis heute andauernden Rivalität und Feindschaft mit Aerlham. Diese Feindschaft mündete in unzählbaren Scharmützeln und Kriegen. 
 Durch den Felssturz von Istval wurde Gent geschwächt und musste dadurch sämtliche Hoffnungen, in näherer Zeit die Führungsrolle in Eldria zu übernehmen, aufgeben.
@@ -113,7 +113,7 @@ Gent war eines der Fürstentümer - das größte davon um genau zu sein - welche
 Von sämtlichen Fürstentümern Eldrias ist Gent sicherlich das, dessen Militär am beeindruckendsten ist.  Bereits im jungen Alter müssen die Männer Gents zum Militärdienst antreten und werden in die Armee integriert. Dabei ist Gent das einzige Fürstentum, welches nicht nur auf den Ritterstand für professionelle Soldaten setzt, sondern den klassischen Soldaten und die Zusammenarbeit von Einheiten und Truppen setzt, was Gent unglaublich kampfstark macht. 
 Das bedeutet natürlich nicht, dass der Ritterstand Gents in irgendeiner Form den anderen Fürstentümern nachsteht, die Ritter Gents sind besonders gefürchtet und werden als besonders Kampfstark, wenn auch nicht als besonders ehrenhaft angesehen. 
 
-![Die Mauern von Gent](Pictures/Flavor/Eldria/Gent.jpg)
+![Die Mauern von Gent](Pictures/Flavor/Platzhalter/Gent.jpg)
 
 Kulturell ist Gent eher unterentwickelt. Während die meisten anderen Füstentümer immerhin einen gewissen Teil ihrer Ressourcen in die Wissenschaften, Künste und in die Erhaltung von Wissen stecken, wird man in Gent nichts dergleichen finden. 
 
@@ -144,7 +144,7 @@ Darcy versucht kriegerischen Außeinandersetzungen meistens aus dem Weg zu gehen
 Des Weiteren hat Darcy eine Menge an indirektem Einfluss auf andere Fürstentümer, da in Darcy eine Lösung hergestellt wird, die die Erweckung verhindert. Diese Lösung wird "Traum der Seeligen" genannt und ist ein, speziell von Priestern und der Chromatia Narista, geweihtes Wasser, welches die effizienteste bekannte Lösung darstellt, um die Erweckung zu verhindern. 
 Darcy versucht den Verkauf dieses Mittels zu verwenden, um andere Fürstentümer zur Zusammenarbeit und zu Friedensverträgen zu nötigen, teilweise obwohl keine der streitenden Parteien Frieden will, geschweige denn eine Einmischung Darcys in ihre Affären schätzt. Diese aggressive Politik hat auch dafür gesorgt dass Darcy und dessen Religion in der Außenwelt bei weitem nicht so beliebt und damit einflussreich ist wie andere Konfessionen in Orbis Astea, deren Lösung für die Erweckung komplexer sind als die der Religion Darcy's.
 
-![Die Kathedrale von Darcy](Pictures/Flavor/Eldria/dARCY.jpg)
+![Die Kathedrale von Darcy](Pictures/Flavor/Platzhalter/dARCY.jpg)
 
 Die meisten Adeligen schicken ihre Zweitgeborenen als symbolischen Akt zur Ausbildung nach Darcy. Zum einen ist es ein Zeichen des Friedens und der Verständigung der Fürstentümer untereinander - zum anderen stellen die Zweitgeborenen dann gebildete loyale und gute Berater für ihre großen Brüder dar. 
 
@@ -154,7 +154,7 @@ Das Fürstentum Calvert ist das älteste Kleinfürstentum in ganz Eldria und wir
 Die Calverts wurden damals von der Königsfamilie als Schutzfürstentum Wandias instituiert und sind bis heute an einen Eid zum Schutz der Königsfamilie gebunden, der bei der Erhebung zum Fürsten geschworen werden muss. 
 Diese lange Blutlinie und Tradition - ebenso wie der geschworene Eid - sorgen auch dafür, dass Calvert deutlich interessierter an der Rückeroberung Wandias ist als andere Fürstentümer Eldrias. Allzuoft senden die Calverts halbe Armeen in den Tod auf der Jagd nach Orks, Elfen und allen anderen, die Wandia für sich beanspruchen wollen. 
 
-![Der Thronsaal von Calvert](Pictures/Flavor/Eldria/Calvert.jpg)
+![Der Thronsaal von Calvert](Pictures/Flavor/Platzhalter/Calvert.jpg)
 
 
 
@@ -162,7 +162,7 @@ Diese lange Blutlinie und Tradition - ebenso wie der geschworene Eid - sorgen au
 
 Obwohl Rintom und Haag an sich zwei unterschiedliche Fürstenrümer sind, sind sie sich sehr verwandt, weswegen sie in diesem Buch gemeinsam behandelt werden. Beide Stadtstaaten liegen direkt am Nebelhain, dieser hat über die Zeit die Psyche und Gesellschaft der Bewohner, ebenso wie die Politik der Stadtstaaten, stark beeinflusst. Während im übrigen Eldria das Gastrecht eine wichtige Tugend ist, ist es in Rinton oder Haag sehr unwahrscheinlich, dass man als Gast freundlich aufgenommen wird. Die Macht der Sicherheitkräfte ist beinahe unendlich und Durchsuchungen von Passanten sind an der Tagesordnung. Die Paranoia innerhalb der Städte wird nur noch von der fanatischen Anhängerschaft der "Wahrer des Hains" übertroffen, die tägliche und verpflichtende Messen zur Läuterung abhält, die vor den Ausdünstungen des Hains schützen sollen. 
 
-![Ausblick von den Straßen auf die Zitadelle von Haag](Pictures/Flavor/Eldria/Haag.jpg)
+![Ausblick von den Straßen auf die Zitadelle von Haag](Pictures/Flavor/Platzhalter/Haag.jpg)
 
 In beiden Städten gab und gibt es immer wieder systematische Hexenjagdten, die vor allem Drogensüchtige und Alchemisten treffen. Die größte davon war im Jahr 184 nach Riga, in der über 400 Personen öffentlich verbrannt wurden - alles unter Aufsicht der Wahrer des Hains. 
 
@@ -184,3 +184,6 @@ Eldria ist ein Land voller Mythen und Legenden. Von Heckenrittern und aufrechten
 
 ### Die Ritter des grauen Ringes
 
+
+
+[^Künstler2]: "Blackmoors Knight" von [Umbatman](https://www.deviantart.com/umbatman/art/Blackmoors-Knight-846222925). Dieses Artwork steht unter einer Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 License zur Verfügung.

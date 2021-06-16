@@ -1,6 +1,6 @@
 # Goblins
 
-![Eine Goblinhorde](Pictures%5CFlavor%5CPlatzhalter%5CGoblinHorde.jpg)
+![Eine Goblinhorde](Pictures//Flavor//Platzhalter//GoblinHorde.jpg)
 
 > "Wir hatten uns an ihr Nest angeschlichen, dachten wir, wir würden sie überraschen, dachten wir, das wird einfach, dachten wir, als wir umzingelt waren und die Bolzen von allen Seiten aus der Finsternis kamen wussten wir, dass nicht wir die Jäger waren."
 >
@@ -22,7 +22,7 @@ Die Abwertung in der zeitgenössischen Gesellschaft ist teils noch ärger als di
 
 Im Kampf zeichnen sich Goblins durch besondere Fähigkeiten in lautlosen Überfällen mit Fernkampfwaffen und Blasrohren mit Giftpfeilen aus. Im direkten Kampf ist diese Spezies allerdings meist deutlich unterlegen. Lediglich Halblinge sind hier in der selben "Gewichtsklasse".
 
-> "Diese kleinen und irgendwie hässlichen Wesen, sind weder robust noch stark, noch mit dem Intellekt anderer Rassen beschenkt, doch all diese Unfähigkeiten gleichen sie durch ihre agile und hinterhältige Natur aus. Goblins brillieren, wo andere Rassen verzweifeln - Nachts und in dunklen Tunneln. Nur jene, die noch nie auf eine Horde Goblins getroffen sind, halten Elfen für die Könige der Nacht. Denn im Unterschied zu den Elfen mit ihrer Nachtsicht gibt es vor den Goblins mit ihrer Thermalsicht kein verstecken."
+> "Diese kleinen und irgendwie hässlichen Wesen, sind weder robust noch stark, noch mit dem Intellekt anderer Rassen beschenkt, doch all diese Unfähigkeiten gleichen sie durch ihre agile und hinterhältige Natur aus. Goblins brillieren, wo andere Rassen verzweifeln - Nachts und in dunklen Tunneln. Nur jene, die noch nie auf eine Horde Goblins getroffen sind, halten Elfen für die Könige der Nacht. Denn im Unterschied zu den Elfen gibt es vor den Goblins kein verstecken."
 >
 > Travius Tandemus Sekundus Geistllicher der Ekkletia
 
@@ -35,49 +35,54 @@ Kreaturen welche von den Goblins schlecht oder nicht gesehen werden können müs
 
 Die Goblins bezeichnen dieses Unglück als "Schojoip" was soviel wie "Die Vertreibung" bedeutet.
 
-Vertrieben von ihrer Heimat wanderten Goblins in unterschiedliche Regionen der bekannten Welt aus und sind nun inbesondere in zerklüfteten und Höhlenreichen Landschaften vertreten. In einigen Städten konnten sich kleinere Goblindratine niederlassen.
+Vertrieben von ihrer Heimat wanderten Goblins in unterschiedliche Regionen der bekannten Welt aus und sind nun inbesondere in zerklüfteten und höhlenreichen Landschaften vertreten. In einigen Städten konnten sich kleinere Goblindratine niederlassen.
 
-Die größte Tat der Goblins - und eine, die von Goblins nur allzu gerne erzählt wird - ist die Geschichte von MaHuk Korvax, dem wahrscheinlich erfolgreichsten MaHuk in der Geschichte von Orbis Astea. Durch seinen überlegenen Intellekt schaffte er es viele Goblinstämme unter sich zu einen und führte sie auf der Suche nach der bestmöglichen Interpretation der Vertreibung
+Besonders viele Goblinstämme kommen um die Berge in Yondalla wie auch die im Süden Eldrias sich befindenden Dunstspitzen. Im Gegensatz zu den Bergen um Yondalla haben sich in den Dunstspitzen keine Stämme mit längerer Geschichte durchgesetzt.
 
-Kreuzzug Rauchbomben
+MaHuk ist die Goblinsche Bezeichnung für Held des Dratins beziehungsweise Held des Stammes. Geschichten werden entweder über MaHuks oder die Matriachirn erzählt und während reguläre Goblnis der Arbeiter or Kriegerkaste mehr beläufig erwähnt, aber nie im Zentrum der mündlichen Geschichten stehen.
+
+Die größte Tat der Goblins - und eine, die von Goblins nur allzu gerne erzählt wird - ist die Geschichte von MaHuk Korvax, dem wahrscheinlich erfolgreichsten MaHuk in der Geschichte von Orbis Astea. Durch seinen überlegenen Intellekt schaffte er es viele Goblinstämme unter sich zu einen und führte sie auf der Suche nach der bestmöglichen Interpretation des Aktes des Schojoip (Die Vertreibung) schließlich nach Yondalla wo den Goblins angeblich eine rosige erste Epoche erwartete. \
+Für Geschichtsgelehrte ist allerdings klar, dass dieser Zeitpunkt schon lange zurück liegen muss, da Yondalla bereits seit etlichen Jahrhunderten besiedelt ist und auch die Aufzeichnungen der Halblinge nie von größeren Goblinsiedlungen berichteten.
+
+Eine häufig erzählte und folglich relevante Geschichte, ist die der Matriarchin "Seneai". Sie spielt vermutlich etwas später als die des MaHuk Korvax', und beschreibt die Vereinigung der fünf Stämme um Yondalla. Laut der Überlieferung konnte sie dank ihres Dratinschamanen besonderes Rauchbomben herstellen und konnte so zum einen Früh-Yondallsche Halblingsherrschaft beenden, was dazu führte dass die unterschiedlichen Dratine plötzlich genug Nahrung zur Verfügung hatten und die neuen Ableger der fünf Stämme sich in alle Himmelsrichtungen ausbreiten konnten. Gemeinhin bekannt ist dadurch den Goblins das "Fest der Feste", wo Goblins koordiniert in großer Zahl lokale Bauerndörfer Überfallen, Bauern drangsalieren, seltener Töten und dabei sämtliche wertvoll aussehenden Gegenstände zerstören.
+
+Nach dem Tod besagter Matriarchin fiel die Allianz der Stämme wieder auseinander. Die Ursachen werden, laut Lehrmeinung eher in der Natur der Goblins zu finden als in gefinkelten politischen Intrigen oder Kriegen mit anderen Spezies.
 
 ## Die Gesellschaft der Rasse
 
+Die Kultur der Goblins ist schlicht gehalten. Die Matrarchin, der Dratinführer und der Dratinschamane bilden die Kulturellen und exekutiven Kopf der Gemeinschaft. Arbeiter und Krieger sind im allgemeinen Recht und Mittellos gegenüber dem Kopf des Dratins und werden meist nur durch extra Rationen an Nahrung oder einem Schlafplatz näher am nächtlichen Feuer belohnt.\
+Bestrafungen folgen mit geringer Nahrungsaufnahme und teils drangsalierung durch andere Dratinmitglieder. Seltener werden Goblins als rituelle Opfer benutzt, um daraus extra Vorräte an Goblinöl zu erhalten.
+
+Die Kriegerkaste ist lose organisiert und wird meist nur für spezifische Überfälle koordiniert. Ansonsten befinden sich an Ausgänge und bei wenigen Spähpunkten und Spähtunnels Goblins als vorgelagerte Augen. Aufgrund der Thermalsicht ist es äußerst schwer Goblinstämme vollkommen auszulöschen, da diese meist wissen wo der Gegner ist.
+
+Die Nahrungslager werden meist in der Kammer der Matriarchin angelegt und somit ist es unmöglich Nahrungs zu entwenden damit andere Goblins sexuell aktiv werden und zur Matriarchin heranreifen. Dratinschamanen bilden das geschichtliche kulturelle und ideologische Herz und ein Goblinkind welches aus der Vereinigung von Schamane und Matriarchin hervorgeht übernimmt die neue Rolle, sollte der alte Schamane sterben oder nicht ausreichend zum gutdünken der Matriarchin handeln.\
+Dratinhäuptlinge können aus dem regulären Goblinvolk gewählt werden, sofern dieser die Gunst der Matriarchin hat und bei den restlichen goblins aufgrund besonderer Verdienste beliebt oder geschätzt ist.
+
+Die Matriarchin selbst wird nur Dratinmitgliedern gezeigt und wird auch bei Problemen als erste evakuiert oder bis zum Tode gegen Eindringlinge oder Feinde verteidigt.
+
 ### Die Völkerbeziehungen der Rasse
 
-Goblins sind in allen Landen zu finden, es gibt nirgends ein Loch, dass sie nicht bereit wären zu bewohnen, seien es Höhlen oder Katakomben - einem Goblin ist es recht. Aufgrund ihres Hangs zu dunklen Orten und ihrer Neigung zu Hinterhalten werden sie oft von anderen Völkern für Ungeziefer gehalten, das es zu entfernen gilt, jedoch scheitern diese Versuche nicht selten. Es existieren aber auch Berichte über Goblins in Koexistenz mit anderen Völkern.
+Goblin unterhalten, nicht überraschender weise, keine diplomatischen Beziehungen zu Großreichen, lediglich zu einzelnen humanoiden der Oberwelt. Diese ist folglich unabhängig von den Großpolitischen Einflüssen, wie dem Krieg des Kaiserreiches gegen die Rah Kari.
 
-![Völkeraustausch](Pictures/Flavor/Platzhalter/Goblin%C3%9Cberfall.jpg)
+Aufgrund ihres Hangs zu dunklen Orten und ihrer Neigung zu Hinterhalten sowie des Einsatz von Giftes werden sie oft von anderen Völkern für Ungeziefer gehalten, dass es zu entfernen gilt. Jedoch scheitern diese Versuche nicht selten. Inbesondere der Hass des Yondallesischen Volks gegenüber den Goblins ist groß und auf Goblins ist ein allgemeines Kopfgeld in Yondalla angesetzt.
 
-## Fortpflanzung
+Seit der Bestzung durch das Kaiserreich ist dieser Hass abgeebt, da Goblins, nach herberen Verlusten, sich nicht gegen die schwerbewaffnete Kaiserliche Armee zu kämpfen trauen.
 
-<https://en.wikipedia.org/wiki/Naked_mole-rat>
+Besonders erwähnt werden sollte, dass einige Orkstämme Goblins als Nahrung ansehen und diese wie Halblinge auf ihren Festen verzehren.
 
-((((((Brutmutter, grobschlächtig beharrte, dickliche,
+![Völkeraustausch](Pictures/Flavor/Platzhalter/Goblinueberfall.jpg)
 
-wenige in anzahl, ein stamm ohne kann nicht wachsen, werden besser geschützt als der Häuptling, denn ein Hauptling kann ersetzt werden eine Brutmutter kaum.
-
-Körperteile / glieder (finger, zehen, ohren) opfer für den brutkessel um die gene weiterzugeben, ehrenzeichen(nur die schlausten, talentieresten, usw...) (teilweise gefaked von reisenden)
-
-2 Mal im Jahr Brutzeit, in der die Brutmutter den Brutkessel produziert und abgibt, sehr verwundbar, besonders gegenüber dem unsichtbaren feind. So sind einige Stämme nicht abgeneigt Hilfe von anderen Völkern in anspruch zu nehmen um die Brut zuschützen.
-
-nach 4-5 jahren ausgewachsen und Reif, gesamtlebensdauer zwischen 35 und 50 Jahren.)))))))
-
-In Goblin gemeinschaften führt für gewöhnlich die matriarichin den stamm an, die matriarchin ist die einzige in einer goblingruppe geläuftig genannt goblinstamm welche dazu fähig ist nachwuchs zu gebären.
-
-Großbuchstabe
+## Biologie der Spezies
 
 Matriarchin führen so eine gruppe von 75 bis 500 goblins an, die matriarchin selbst paart sich gewöhnlich mit dem stammesführer oder dem stammes schamanen. Selten kommt es auch vor das sich die matriarchin mit einem gruppenmitglied paart das besosndere leistungen für die Gruppe erbracht hat, diese werden Djunas (bosnisch für penis, indianischer vorname).
 
 Djunas gehören zu den einizgen mitgliedern eines stammes, die aktiv andere stämme aufsuchen um aufgenommen zu werden. Djunas werden ohne das charakteristische merkmal ihres stammes geboren und verlassen diesen dann auf bald. Djunas versuchen dann in andere stämme aufgenommen zu werden und sich mit der matriarchin zu paaren. Die Stämme bezeichnen ihre Gruppen als Dratin. Es ist möglich in einem Stamm das normale Goblins der Arbeiter oder Kriegerklasse zum Stammesführer aufsteigen sei es durch akumulierte errungenschaften oder schlichtes wohlwollen der Matriarchin. Die Matriarchin ist im allgemeinen Fett und permanent schwanger, aufgrund der etwa vierfachen Nahrungsversorgung die ihr im vergleich zu einem normalen Goblin zugeführt wird. Der größte Teil eins Goblin Dratins besteht aus Arbeitern, 7 von 8 sind der Arbeiterklasse zugehörig, diese werden im allgemeinen mit etwas kärger nahrung großgezogen. Im gegensatz zu den Djunas die die meiste nahrung erhalten sogar noch etwas mehr als Krieger. Die Sexualität eines Goblins entwickelt sich erst bei einem gewissen Grad der Nahrungsverorgung. Dies führt in den Primalstämmen zu instablität. Dies führt auch dazu das kleinere Stämme im Fall eines spontanen überflusses an Nahrung viele Djunas bilden. Die Nahrung der Goblins besteht Primär aus erlegter Beute wodurch sich an der Oberfläche eine Nahrungskonkurenz mit anderen Rassen ergibt. Untertage jagen die Goblins für gewöhnlich Steinwürmer, zusätzlich ernähren sie sich noch von Pilzen welche Gelegentlich auch mit Menschen oder halblingen gehandelt werden. Goblins sind einzige Humanoiden die von natur aus selbst in der schwärzesten Nacht eine Warmblütige Nacht sehen können. Denn sie besitzen Thermalsicht. Neben der Thermosicht die allseits bekannt sind, sind diese auch äußerst unempflindlich gegenüber Säure was die Bejagung von Steinwürmern einfach macht. Goblins selbst sind äußert. Lebende Goblins sind zwar nicht entzündlicher als andere Wesen jedoch nach ihrem Ableben entwickelt sich in den Kadavern der Goblins eine leicht brennbare flüssigkeit. Goblinschamanen nutzen diesen Effekt, in dem sie einen ihrer Arme abbinden um so jederzeit Feuernutzen zu können.
 
-Im gegensatz zu den anderen humanoiden Rassen haben die Goblins historisch gesehen kein bekanntes problem mit erwachten. Es ist zwar bekannt das getöte goblins als erwachte wiederauferstehen jedoch kommt das in Goblins Dratinis hingegen nicht vor da die Leichen Ritual verbrannt werden. Dies ist Aufgabe des Dratinis schamanen.
+Im Gegensatz zu den anderen humanoiden Rassen haben die Goblins historisch betrachtet kein bekanntes Problem mit Erwachten. Es ist zwar bekannt das getöte Goblins als Erwachte wiederauferstehen, jedoch kommt das in Goblins Dratins nicht vor, da die Leichen ritualistisch verbrannt werden. Dies ist Aufgabe des Dratins Schamanen und benötigt dank der Brennbarkeit der goblinleichen kein Feuerholz.
 
-Steinwürmer essen erze, goblins essen steinwürmer, so brennen die goblinsstämme in unterschiedlichen farben =\> je nach dem welches minerial vorherschend in der region ist.
+Goblins jagen und verzehren Steinwürmer, welche aufgrund ihrer Nahrungs hohe Konzentrationen an Mineralien enthalten. Dies führt dazu, dass die Goblinöle welche aus den Kadaver gewonnen werden können, unterschiedliche Farben beim Verbrennen aufweisen. Laut kaiserlichen Alchemisten ist dies aufgrund der sich im Fettgewebe ansammelnden Erze und Metalle der Fall und dient zumindest bei den fünf Stämmen um Yondalla als Erkennungszeichen, und gleichzeitig als Hilfe zum schmelzen von Erzen, für einfache Werkzeug und Waffenherstellung.
 
-kopffüßler sind die kreaturen die die goblins vertrieben haben aus den himmelsspitzen und so für die verbreitung sorgten
-
-blutlinien durch instezstös vererbtes körpermal, zum bsp dickbauch indianer
+Ein weiteres Blutlinienspezifisches Merkmal der Goblins sind leicht unterschiedliche Körpermerkmale. Färbungen der Haut Haarbüschel an den Schultern, Ohrenform bilden hier die häufigsten und die definiertesten Merkmale.
 
 ## Misc.
 
@@ -128,6 +133,8 @@ Am Anfang war Gob und Gob war die Finsternis, die einen jeden Umgab, kalter tote
 > --- Auszug aus "Leben die Goblins unter uns?" von Ferdinand Humbick
 
 ![Ein Abendessen des Stammes](Pictures/Flavor/Goblins/GoblinVersammlung_wallpaperbetter.jpg)
+[^Künstler]
+
 
 ## Die Legenden der Rasse
 
@@ -138,3 +145,9 @@ Am Anfang war Gob und Gob war die Finsternis, die einen jeden Umgab, kalter tote
 Über jeden Stamm verfügt ein Stammesführer und jeder Stammführer verfügt über einen Stammesschamanen, dieses Zweiergespann leitet den Stamm. Als Stammesführer wird jener Goblin auserwählt, der dem Stamm durch eine Idee weiter bringt, daher ist es nahezu amüsant von außen mitanzusehen, wie eine dumme Idee die andere zu übertrumpfen versucht. Bei den Schamanen verhält es sich anders. Diese Rolle wird weitervererbt und bildet somit das solideste bestehende Glied in der Hierachie. Der Einfluss eines Schamanen ist nicht zu gering zu schätzen, so ist er nicht nur das Sprachrohr ihres Gottes Gob, sondern ist an Kampfkraft auch nicht zu unterschätzen, denn die brennbaren Flüssigkeiten, die bei den Totenritualen eingesetzt werden, weiß er auch im Kampf zu nutzen.
 
 ![Ein Schamane des Gob](Pictures/Flavor/Goblins/pngegg_Schamane.png)
+[^Künstler1]
+
+
+[^Künstler]: Dieses Bild wurde von der Seite [Wallpaperbetter](https://www.wallpaperbetter.com/de/hd-wallpaper-wryjx) genommen und steht für nichtkommerzielle Nutzung zur Verfügung
+
+[^Künstler1]: Dieses Bild wurde von der Seite [pngegg](https://www.pngegg.com/en/png-xuudr) genommen und steht für nichtkommerzielle Nutzung zur Verfügung

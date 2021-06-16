@@ -12,7 +12,8 @@ Seit nunmehr 700 Jahren, als dieses Ereignis stattfand haben sich die einstiegen
 Die Wassertiefe ist teils unvorhersehbar und ermöglicht nur leichten Booten mit niedriegen Tiefgang das passieren.
 
 
-![Der Nebelhain](Pictures\\Flavor\\Regionen\\Nebelhain\\Nebelhain1.jpg)
+![Der Nebelhain](Pictures/Flavor/Platzhalter/Nebelhain1.jpg)
+
 
 
 Für Fußsoldaten ist es eine beschwerliche und anstrengende Marschroute.
@@ -46,7 +47,7 @@ Die immer wieder kurzfristigen Verträge der Fürsten Eldrias beschränkten jedo
 
 
 
-![Darstellung von Alt-Haag rund 10 Jahre nach den Felststurz von Istval](Pictures/Flavor/Regionen/Nebelhain/nebelhainstadt.jpg) 
+![Darstellung von Alt-Haag rund 10 Jahre nach den Felststurz von Istval](Pictures/Flavor/Platzhalter/nebelhainstadt.jpg) 
 
 
 743 v. Riga wurde die Stadt, nach Jahren anschwellender Spannung zu einer massiven Festung umgebaut, welche nie von den Rah-Kari erobert werden konnte da die Festung in den neu entstanden Sümpfen zunehmends verschwand und seine Bedeutung dadurch verlor. Der kontiuierlche sterben Alt-Haags fand sein berüchtigtes Ende in den "roten Wochen" wo Anhänger eines Blutgottes den letzten glorreichen Antlitz Alt-Haags verbrannten.
@@ -54,14 +55,14 @@ Die immer wieder kurzfristigen Verträge der Fürsten Eldrias beschränkten jedo
 Die Überreste Alt-Haags sind nur von wenigen dutzenden Bewohnern, welche nicht der Geistesseuch einherfallen bewohnt und fristen ihr dasein im sammeln von Beeren und jagen von Tieren und gelgentlichen Einnahmen aus Erzählungen für mutige Abenteurer oder akribischen Chronisten.
 
 
-![Darstellung von Alt-Haag während des Terrors von Jiraads Anhänger](Pictures/Flavor/Bloodgods/althaagburning.jpg)
+![Darstellung von Alt-Haag während des Terrors von Jiraads Anhänger](Pictures/Flavor/Platzhalter/althaagburning.jpg)
 
 ### Eiden
 
 Eiden stellte das Sinnbild von aufgeschlossenen Eldrianern dar, welche sich allerdings ihrer langen Kultur, und ihrer Abscheu gegenüber Elfen mehr als bewusst waren. Eiden war eine Stadt mit einer blühenden Holzwirtschaft mit einigen der besten Handwerksstätten der ganzen bekannten Welt.
 Das bekannteste Kunstwerk oder Gebäude, oder Baumbehausung war die Zitadelle der Holzspanner- die größte und älteste Handwerksvereinigung Eidens.
 
-![Zitadelle der Holzspanner](Pictures/Flavor/Regionen/Nebelhain/eidenholzwunder.jpg) 
+![Zitadelle der Holzspanner](Pictures/Flavor/Platzhalter/eidenholzwunder.jpg) 
 
 Eiden zeichnete sich auch durch ausgezeichnete Weine, reges Verleihgeschäft und Goldschürferei im damaligen Perlfluss aus. Der Perlfluss stellte auch die Möglichkeit dar Holzwerkstücke und Holz als Rohstoff kostengünstig nach Eldria zu verschiffen.
 Die Gründung von Eiden ist Datumsmäßig nicht zu beziffern, da es bis heute keine Urkunde von Eiden gibt. Aus Tradition wurde immer die Stadtgrenze gezogen indem man alles zu Eiden zählte was eine Tagesreise vom Rosenbaum entfernt lag. Der Rosenbaum, an dessen Stelle nach einem Blitzeinschlag die Kaserne von Eiden errichtet wurde, war einer rund 70 Meter hoher Baum welcher jedes Jahr im Herbst seine Blätter Blass Rosa färbte und diese dann in der gesamten Stadt verteilte.
@@ -88,7 +89,7 @@ Der Nebelhain weist im eigentlichen Sinne keine Infrastruktur mehr auf. Einzelne
 
 Einige Pfade lassen sich Streckenweise nur mit Booten durchqueren welche allerdings in vielen Fällen seit ewigkeiten nicht mehr gewartet wurden, sodass Geld neben Stiefel in Handwerker investiert werden sollte.
 
-![Typische Wege im Nebelhain](Pictures/Flavor/Regionen/Nebelhain/nebelhain5.jpg) 
+![Typische Wege im Nebelhain](Pictures/Flavor/Platzhalter/nebelhain5.jpg) 
 
 
 
@@ -103,7 +104,7 @@ Der Felsturz von Istval, über dessen Ursache breit spekuliert wird leitete den 
 Ab diesem Zeitpunkt wurde der Süden Eldrias, der Nebelhain von Jahrzehnt zu Jahrzehnt merkwürdiger. Gechichten von Menschen die den Verstand verlieren bekannt als Madaria, Egel welche so groß warden, dass Sie Männer als ganzes Verschlangen, und merkwürdigen Kreaturen welche scheinbar aus dem Wasser auftauchten und genausoplötzlich wieder verschwanden.
 Karawanen der Rah-Kari welche spurlos verschwanden, Nebel der so Dick wurde, das kein Licht mehr zu sehen wardt und auch Elfen des Nachts nur schwärze sahen  fügten Stück für Stück die Geschichten um den Nebelhain welche irgendwann nicht mehr klar von der Realität zu trennen warden.
 
-![Darstellung eines Menschen verschlingenden "Egels", in Haag bekannt als der Kinderfresser ](Pictures/Flavor/Regionen/Nebelhain/needlehirudinea.jpg) 
+![Darstellung eines Menschen verschlingenden "Egels", in Haag bekannt als der Kinderfresser ](Pictures/Flavor/PLatzhalter/needlehirudinea.jpg) 
 
 
 ## Wirtschaftliche Lage
@@ -128,7 +129,7 @@ Recht des Stärkeren -es gibt keine Rechte durchsetzende Instanz im Nebelhain
 Seit dem Felssturz wurden die mild-Temperaten Bedingungen durch großteils kühl-feuchten Dauerzustand ersetzt. Gelegentlich frieren Teile des Nebelhains nahe den Himmelsspitzen oberflächlich zu, der überwiegende Teil bleibt aber konstant kühl und feucht. 
 Der Nebel ist meist so dicht, das man die Sonne nur erahnen kann, an vielen Tagen überhaupt nicht erkennt und nachts ist er so dicht, dass nichteinmal Elfen etwas sehen können.
 
-![Die westlichsten Ausläufer des Nebelhains im Winter](Pictures/Flavor/Regionen/Nebelhain/mehrnebelhain.jpg)  
+![Die westlichsten Ausläufer des Nebelhains im Winter](Pictures/Flavor/Platzhalter/mehrnebelhain.jpg)  
 
 ### Die Flora und Fauna
 
@@ -145,12 +146,12 @@ Mosshügel stellen nur dann eine Bedrohung dar wenn sich die Männchen auf Partn
 Mooshügel können hier von einer Handvoll bewaffneter Söldner mühelos überwältigt werden. Lediglich einzelne Kämpfer sollten sich vor ihnen in Acht nehmen.
 
 Sie kommen in den Randbereichen des Nebelwaldes vor  und sind meist für Holzfäller und Fischer das Omen zum umkehren um nicht zu tief in den Nebelhain vorzudringen.
-![Gemeiner Mooshügel ](Pictures/Flavor/Regionen/Nebelhain/nebelhainmonster.jpg) 
+![Gemeiner Mooshügel ](Pictures/Flavor/Platzhalter/nebelhainmonster.jpg) 
 
 
 Im eigentlichen Sinne kennt jeder Bürger erwachte. Wiedergänger, welche nicht in die ewigen Reiche kehren durften und so zahllosen Wanderern und Abenteurer bereits den Tod bescherten. Es wird empfohlen des Nachts die Lager mit Zäunen zu umgrenzen - hierbei reichen meist schon auf unterschiedlichen Höhen gespannte Schnüre um die Zurückgekehrten Fern zu halten. Hierbei sollte beachtet werden möglichst leise zu sein, da sonst weitaus mehr dieser Erwachten angelockt werden und man sich dann schnell in brenzligen Situationen wieder findet.
 
-![Einer der zahllosen Erwachten im Nebelhain ](Pictures/Flavor/Regionen/Nebelhain/nebelhainwiedergaengerarmor.jpg) 
+![Einer der zahllosen Erwachten im Nebelhain ](Pictures/Flavor/Platzhalter/nebelhainwiedergaengerarmor.jpg) 
 
 
 #### Der Häuter von Eiden
@@ -158,9 +159,9 @@ Im eigentlichen Sinne kennt jeder Bürger erwachte. Wiedergänger, welche nicht 
 Vermutlich mehr im Bereich der Legenden ist der Häuter von Eiden.  Ehemals benannt nach der Gehäutete von Eiden handelt es sich angeblich um eine Monströsität welche vom Turm der Gelehrten geschaffen wurde um genug Muskelkraft zu besitzen um die Dämme höher zu bauen.
 Diese Anmaßung konnte jedoch nie bestätigt werden. Dadurch gilt es die Gebäude des Turm der Gelehrten zu meiden, denn sicher ist sicher.
 
-![Der Häuter von Eiden ](Pictures/Flavor/Regionen/Nebelhain/nebelhainblutgottchampion.jpg) 
+![Der Häuter von Eiden ](Pictures/Flavor/Platzhalter/nebelhainblutgottchampion.jpg) 
 
-![Der Häuter von Eiden ](Pictures/Flavor/Regionen/Nebelhain/blutgottxchampionleichenhaufen.jpg) 
+![Der Häuter von Eiden ](Pictures/Flavor/Platzhalter/blutgottxchampionleichenhaufen.jpg) 
 
 
 
@@ -192,7 +193,7 @@ Viele verschiedene Rassen und Gruppen haben sich im Nebelhein häuslich eingeric
 ### Swamp turtle
 These creatures, as their names imply, look like giant green turtles with elements of elephants as well. Many travelers who see them often mistake them for walking trees due to the size and quiet nature. They are mostly found in pacts around swamps and will only attack when provoked.
 
-![swamp turtle depiction](Pictures/Flavor/Monster/swampturtle.jpg)
+![swamp turtle depiction](Pictures/Flavor/Platzhalter/swamp turtle depiction.jpg)
 
 
 ### Cornelius
@@ -202,7 +203,7 @@ Sollten sie sich verteidigen, verwenden sie ihren Kopf - dank der verstärkten S
 
 Durch ihre beeindruckende größe und ihrem langen Hals sehen sie mögliche Bedrohungen meistens sehr früh. Sie erreichen eine Hohe von bis zu drei Meter, und ihr Hals wird bis zu zwei Meter lang.
 
-![Cornelius depiction](Pictures/Flavor/Monster/cornelius.png)
+![Cornelius depiction](Pictures/Flavor/Platzhalter/cornelius.jpg)
 
 Um diese Kreaturen zu bekämpfen, ist es empfehlenswert, ihre größe zum eigenen Vorteil zu nutzen. Aufgrund des langen Halses des Cornelius und seiner geringen Intelligenz ist es nicht schwer sie mit Hilfe von Fallen auszuschalten.
 

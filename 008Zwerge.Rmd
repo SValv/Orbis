@@ -1,6 +1,6 @@
 # Die Zwerge
 
-![Ein Zwerg](Pictures/Flavor/Zwerge/wallpaperbetter_Zwerg.jpg)
+![Ein Zwerg](Pictures/Flavor/Platzhalter/Zwerg.jpg)
 
 Dieses weder große, noch sehr robuste Volk, überlebt nur Aufgrund seines überlegenen Intellekts. Dieser führt zu einer gewissen Überheblichkeit die noch verstärkt wird durch ihre weiteren wenig  charismatischen Eigenheiten. Durch ihren Hang zum Handel startet dieses Volk mit einem deutlich pralleren Geldbeutel als andere, den sie bereit sind mit allem was sie haben zu verteidigen. Die gewährt ihnen einen Vorteil bei Willpower checks, die in irgender einer Form Geld betreffen.
 
@@ -12,7 +12,7 @@ Die Zwerge beanspruchen den Titel der ältesten Rasse des Kontinents für sich, 
 
 Clan Umgar der rote  Clan des Königs niemand außer der königsfamilie wird in diese geboren in den clan wird man berufen, nur die treusten und besten hören diesen Ruf und ihn auszuschlagen gilt als Beleidigung dem Königshauses gegenüber.
 
-![König Umgar](Pictures/Flavor/Zwerge/wallpaperbetter_HighEndZwerg.jpg)
+![König Umgar](Pictures/Flavor/Platzhalter/KoenigUmgar.jpg)
 
 Man sagt der erste des Geschlechts Umgar wurde mit einer Aufgabe betraut, man erinnert sich nicht mehr von wem diese ausging und man streitet um was für eine Aufgabe es sich handelte. Die einen meinen die Aufgabe sei es die Zwerge zum erfolgreichsten Konzern von Orbis zu machen, andere meinen es sei sicherlich gewesen alle Reichtümer anzuhäufen und wieder andere wenn auch deutlich leiser sprechen davon das Grauen in der Tiefe gefangen zu halten, dies sind die Donnerwächter.
 
@@ -23,7 +23,7 @@ Doch mit den Jahren entwickelte sich Gier im Zwergenvolk jeder wollte mehr haben
 
 Viele Städte der Zwerge überstanden diesen Bürgerkrieg nicht und sind heute nur noch Ruinen die sich tief ins Reich der Erde bohren, andere sind unter der Last des Krieges gänzlich eingebrochen unverschütteten ganze Clans und wieder andere wurden so geschwächt dass sie sich den angriffen der anderen Völker die Reichtum witterten nicht mehr erwehren konnten. Der Clan Umgar selbst zerfiel in viele kleine Teile verstreut in allen Städten. Jedoch überlebte das Geschlecht des Königs wenn auch seiner Macht beraubt. 
 
-![Zwerg in der Asche des Zwergenreiches](Pictures/Flavor/Zwerge/wallpaperbetter_KampfZwerg.jpg)
+![Zwerg in der Asche des Zwergenreiches](Pictures/Flavor/Platzhalter/KampfZwerg.jpg)
 
 
 ![Abwehr von Invasionen](Pictures/Flavor/Platzhalter/Zwergenkampf.jpg)
@@ -64,6 +64,8 @@ Um diesen zusammenhang zu verdeutlichen existiert eine beliebte Geschichte, jene
 ### Clans
 
 ![Die Zwergenstadt Tendar](Pictures/Flavor/Zwerge/ZwergenstadtÜberirdisch_butteredbap.jpg)
+[^Künstler7]
+
 
 ![Eine Tiefstadt der Zwerge](Pictures/Flavor/Platzhalter/ZwergTiefstadt.jpg)
 
@@ -239,5 +241,5 @@ Manche Dungeons in Eldria sind in einer besonderen Position, auf Grund der antik
 
 
 
-
+[^Künstler7]: "Niagara-falls" von [Butteredbap](https://www.deviantart.com/butteredbap/art/Niagara-falls-358961474). Dieser Artwork steht unter einer Creative Commons Attribution 3.0 License zur verfügung.
 

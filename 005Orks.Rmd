@@ -34,7 +34,7 @@ Den Orkstamm führt für gewöhnlich ein Stammesoberhaupt, welches in allen Orkg
 Allerdings sollte hier erwähnt werden, dass dies nur für den Stamm relevante Aufgaben gilt. Künstler, Literaten oder sonstiges Gesocks sucht man bei Orks dementsprechend vergebens.
 Allerdings beteilgen sich, an etwaigen Zeichnungen oder Errichtungen von "Gebäuden" meist alle Orks gleichermaßen.
 
-![Orksiedlung in den Südwestlichen Bergen Eldrias](Pictures\\Flavor\\Orks\\wallpaperbetter.com_OrkFestung.jpg)
+![Orksiedlung in den Südwestlichen Bergen Eldrias](Pictures\\Flavor\\Platzhalter\\orcstronghold.jpg)
 
 Die für Orks als anerkannte Aufgaben sind Jagen, Sammeln, Trainieren der Kinder für Kämpfe und Jagden - also Lehrer, Heiler - welche ausschließlich männlich sind, Jagd-Priester und Handwerker (wobei diese Gruppe äußerst fluid ist).
 Orks betreiben für gewöhnlich keine Landwirtschaft und errichten selten hohe Gebäude, da ihnen das architektonische und Bauherrenwissen fehlt. Folglich verlassen sich Orks beinahe ausschließlich auf natürliche Nahrungsquellen, welche weitaus diverser sind als menschliche Mägen verkraften würden.
@@ -148,7 +148,7 @@ Umchurg-Hal selber ist mittlerweile ein alter, aber erstaunlich fitter Ork, welc
 
 Durch die Aufnahme von den Clan erhielt Umchurg seinen Zweitnamen Hal - als Ehrung von Kasck-Hal.
 
-![Umchurg-Hal der Riese von Grimgrod](Pictures\\Flavor\\Orks\\wallpaperbetter.com_KampfOrk.jpg) 
+![Umchurg-Hal der Riese von Grimgrod](Pictures\\Flavor\\Platzhalter\Umchurg-Hal_the_giant_of_grimgrod.jpg) 
 
 ## Individuelle Eigenschaften der Orks (Umbennen für jew. Rasse)
 

@@ -4,7 +4,7 @@ Das Kaiserreich ist das größte Reich in der bekannten Welt. Primär ein mensch
 
 Das Kaiserreich besteht seit 426 Jahren und der momentane Kaiser, Licinius Proximus, ist seit 10 Jahren an der Macht und hat das Reich trotz seines jungen Alters relativ fest in der Hand. 
 
-![Die kaiserliche Heerschau vor der Obex Agrepios](Pictures/Flavor/Kaiserreich/intro.jpg)
+![Die kaiserliche Heerschau vor der Obex Agrepios](Pictures/Flavor/Platzhalter/intro.jpg)
 
 Obwohl der Kalte Krieg mit den Rah Kari und die Aufstände in Eldria dem Kaiserreich zusetzen sieht es sich selbst noch immer als die mächtigste Fraktion auf der Karte.
 
@@ -16,7 +16,7 @@ Vor dem Kaiserreich wurde das Gebiet von Adeligen beherrscht, die ähnlich wie d
 Nors und das Herzland - die beiden Hauptgebiete des Kaiserreichs - haben schon früh begonnen miteinander Handel zu treiben. Das liegt hauptsächlich daran, dass im kargen Nors wenig Landwirtschaft möglich ist, Nors jedoch im Gegenzug dafür eine Menge an Metall liefern kann, welches im Herzland eher selten zu finden ist. 
 Durch diese Handelsbeziehungen profitierten vor allem grenznahe Fürstentümer, allen vorran Riga, die Zölle von Händlern erheben konnten.
 
-![Missionare der Ekklesia bestatten Tote](Pictures/Flavor/Kaiserreich/Missionaries.jpg)
+![Missionare der Ekklesia bestatten Tote](Pictures/Flavor/Platzhalter/Missionaries.jpg)
 
 Auch die Ekklesiarchie, welche zu der Zeit im Herzland schon relativ organisiert war, profitierte von den neuen gemeinsamen Straßen und der Infrastruktur, die durch den Handel entstanden. In mehreren Wellen wurden Missionare ausgeschickt um das Wort des Allgotts zu verbreiten. Durch den Einsatz der Missionare wandten sich nach und nach viele Einwohner von Nors dem Allgott zu. Ein großer Einflussfaktor war selbstverständlich, dass nach den Riten des Allgotts bestattete Tote zumeist tot blieben, wenn ihre Grabstätten nicht gestört wurden.   
 
@@ -27,7 +27,7 @@ Das Kaiserreich wurde vor 426 Jahren gegründet. Es entstand aus einer Konföder
 
 Der letzte Widerstand des regionalen Adels wurde in der Schlacht von Riga niedergeschlagen, als eine vereinigte Armee des rebellischen Adels unter der Führung von Manilius Thrax der Armee der Konföderation unter Virius Proximus - dem Caesarius Unificatorus - unterlag. An diesem Tag rief sich Proximus selbst zum Kaiser aus und gestaltete die Konföderation zum heute bekannten Kaiserreich um. Riga wurde die Hauptstadt des Kaiserreichs.
 
-![Die Schlacht von Riga](Pictures/Flavor/Kaiserreich/SchlachtRiga.jpg)
+![Die Schlacht von Riga](Pictures/Flavor/Platzhalter/SchlachtRiga.jpg)
 
 Obwohl der Adel anfangs stark gegen Proximus Neuerungen - die mit großem Machtverlust ihrerseits einhergingen - protestierte, überzeugte die unerschütterliche Loyalität, die die Armee gegenüber ihrem Kaiser aufgebaut hatte sie schnell davon, dass einlenken die klügste Option war. Die Folgen davon sind bis heute zu spüren: Während in Eldria der Adel bis heute das Heft in der Hand hat, ist der Adel im Kaiserreich weit weniger mächtig und meistens nur Aufgrund monetären Besitzes noch in Machtpositionen stärker vertreten als das gemeine Volk.
 
@@ -50,7 +50,7 @@ Der Pontifex Maximus der Ekklesia gab im Jahre 17 nach der Schlacht von Riga ein
 Die kaiserliche Armee war gut ausgerüstet, ausgebildet und bestand zum großen Teil aus Veteranen des Bürgerkriegs. Ihnen gegenüber standen zahlenmäßig unterlegene Elfen, die meist ohne Kampferfahrung mit Werkzeugen statt Waffen ins Feld ziehen mussten. Jahre des Friedens hatten sie nicht gerade gut vorbereitet auf das, was sie erwarten würde.
 Da die Elfen weder Zeit hatten sich mit anderen Waldreichen zu konföderieren, noch dies in ihrer Natur liegt, traten sie den Armeen des Kaiserreichs einzeln gegenüber. 
 
-![Die kaiserliche Armee marschiert gegen die Elfen in die Wälder](Pictures/Flavor/Kaiserreich/KaisElfenfeldzug.jpg)
+![Die kaiserliche Armee marschiert gegen die Elfen in die Wälder](Pictures/Flavor/Platzhalter/KaisElfenfeldzug.jpg)
 
 In den folgenden 10 Jahren wurden die Elfen Wald für Wald unterworfen, daher gibt es heute kaum mehr Waldelfen im Kaiserreich, da nur die wenigsten der Armee entkommen konnten. 
 Nach den ersten Massakern (als Schlacht könnte man das beim besten Willen nicht bezeichnen) gaben die meisten Elfenreiche schnell klein bei und unterwarfen sich der Armee. Andere hielten etwas länger durch, nur um schlussendlich auch das Knie zu beugen. 
@@ -64,7 +64,7 @@ Wirtschaftliche Stabilität und Frieden waren für diese Zeit charakteristisch u
 
 Des weiteren schaffte es der damalige Kaiser, Dorocletian Secundus, das landwitrtschaftlich enorm ertragreiche Gebiet <font color="green">[Yondalla](#Yondalla)</font> unter sein Protektorat zu bringen. 
 
-![Yondallas Hügel](Pictures/Flavor/Kaiserreich/Yondalla.jpg)
+![Yondallas Hügel](Pictures/Flavor/Platzhalter/Yondalla.jpg)
 
 Aufgrund der sehr guten wirtschaftlichen und polititschen Lage - und Druck aus der Ekklesia, die inzwischen ihre Position gegenüber der Sklaverei der Elfen geändert hatte, wurde die Sklaverei in diesen Jahren ebenfalls von Dorocletian abgeschafft. Viele Stadtelfen bezeichnen ihn bis heute dafür noch als "einen der wenigen guten Kaiser".
 
@@ -78,7 +78,7 @@ Bereits am nächsten Tag zerfiel die Koalition aus Legaten und Edelmännern in F
 
 Durch den Bürgerkrieg im Kaiserreich wurden Grenzen und Beziehungen mit anderen Staaten grob vernachlässigt, dies führte zur ersten eldrischen Invasion. Der Lord von Aerlham - Thedisius VI. - formte eine Koalition mit Hasting und Austen und fiel mit einer Armee ins kaiserliche Grenzland ein. Allein die dritte Legion stellte sich ihm entgegen - eine Tat für die sie noch immer den Namen "Protectoria Patria" hält - und erlitt eine empfindliche Niederlage. Fast vollständig vernichtet brachte alleine der heldenhafte Einsatz einer Zenturia aus Nors die Überlebenden der Schlacht und die Standarte der Legion in Sicherheit.
 
-![Die Heldin vom Trauerfeld](Pictures/Flavor/Kaiserreich/KaisKriegheldin.jpg)
+![Die Heldin vom Trauerfeld](Pictures/Flavor/Platzhalter/KaisKriegheldin.jpg)
 
 Die erste Tat der Eldrier war die Annexion Yondallas und damit die Einstellung sämtlicher Lebenmittellieferungen ans Reich.
 Da viele Felder des Herzlandes durch den Bürgerkrieg zerstört waren und Yondalla die einzige verlässliche Quelle an Lebensmitteln darstellte folgte eine große Hungersnot und sogar manche Adelige schafften es nicht jeden Tag genug auf den Teller zu bekommen um ihre Familien zu ernähren.
@@ -90,7 +90,7 @@ Da viele Felder des Herzlandes durch den Bürgerkrieg zerstört waren und Yondal
 Auf den Hunger und den Krieg folgte allerdings was weit schlimmeres: Eine Krankheit, die als "Irae Omdideus" bekannt wurde, streckte ihre Finger durch das Reich. Bereits in den ersten Monaten verstarben mehr Menschen an der Krankheit als die Ekklesiarchie begraben konnte. Geschätzt sind der Krankheit bis sie  zu wüten aufhörte 3 von 10 Menschen zu Opfer gefallen, allen vorran Greise und Kinder. 
 Die Krankheit hatte allerdings zwei "positive" Effekte für das Kaiserreich: Die Armee der Eldrier zog sich aus Angst vor der Krankheit schnell zurück hinter die Grenze. Außerdem hatten die machthungrigen Fraktionen im Kaiserreich nicht mehr genug Soldaten um sich zu bekämpfen. Es wurde ruhig im Reich.
 
-![Die Plage jagt das gesunde Kind - Eine Malerei](Pictures/Flavor/Kaiserreich/Plague.jpg)
+![Die Plage jagt das gesunde Kind - Eine Malerei](Pictures/Flavor/Platzhalter/Plague.jpg)
 
 Diese Ruhe nutzte ein aufstrebender Strategoi namens Lucillus Prodius, um Allianzen zu schmieden und die Stategoi der zweiten und vierten Legion hinter sich zu versammeln. Er selbst führte die fünfte Legion. Mit drei von fünf verbliebenen Legionen schaffte er es, eine größere und schlagkräftigere Armee als seine Kontrahenten unter sich zu vereinen.
 
@@ -101,12 +101,12 @@ Die Friedensverhandlungen kamen nach 3 Wochen zu Ergebnissen. Die Fraktionen ein
 Mit diesem Schritt des "Friedensbringers" Lucillus hatte keiner gerechnet. Die fünfte Legion kam über die Stadt wie ein Sturm über ein Schiff zur See. Noch bevor man in Riga wusste was passierte, wurden die Mauern erstürmt. Schreie und Flammen überzogen die Stadt. Die fünfte Legion legte die Stadt in Schutt und Asche. "Die Schleifung Rigas" war gekommen. Diejenigen, die nicht von Soldaten massakriert wurden, starben durch den Rauch oder die Flammen, man sagt, dass man das Hauptforum nicht überqueren konnte ohne über mehrere Leichen zu fallen - und das Blut der Leute, die dumm genug waren in die Ekklesia zu fliehen, so hoch auf dem Kirchenboden stand, dass man bis zu den Knien darin watete.
 Lucillus höchstselbst führte eine Kohorte in den Kaiserlichen Palast und tötete den neuen Kaiser, sowie alle nicht ihn unterstützenden Machthaber. Als die Sonne über der zerstörten Stadt wieder aufging war er - Lucillus Prodius - der unangefochtene Kaiser des Reichs. Der Vertrag von Riga wurde genauso wie Riga selbst für nichtig erklärt. Die knapp 55000 Einwohner Rigas erlebten diesen Tag nicht mehr.
 
-![Die Schleifung von Riga](Pictures/Flavor/Kaiserreich/SchleifungRiga1.jpg)
+![Die Schleifung von Riga](Pictures/Flavor/Platzhalter/SchleifungRiga1.jpg)
 
 Kaiser Lucillus zog mit seinen Truppen nach Civis Nova und machte sie zur Hauptstadt des Reiches - zu Civis Primae. Er etablierte eine neue Dynastie und erhöhte die Anzahl der Legionen stark. Bürger wie Elfen wurden zum Wiederaufbau des Reiches teilweise in Zwangsarbeit genommen.
 Nachdem die Gefahr durch die Krankheit vorrüber war versuchte Thedisius VI. von Aerlham wieder Yondalla für sich zu beanspruchen. Dieses Mal stieß er auf 8 bis an die Zähne bewaffnete Legionen unter Lucillus I. - weder Theodisius noch seine Armee überlebten ihre Expedition. Man sagt sich Lucillus ließ ihre Köpfe von Karren bis nach Aerlham bringen. Für die Rettung des Reichs erklärte die Ekklesia ihn zum "Restitutor Orbis" - dem der die Ordnung der Welt wiederherstellte.
 
-![Die Strategoi schwören dem Restitutor Orbis die Treue](Pictures/Flavor/Kaiserreich/KaisSpeztrup.jpg)
+![Die Strategoi schwören dem Restitutor Orbis die Treue](Pictures/Flavor/Platzhalter/KaisSpeztrup.jpg)
 
 Lucillus Dynastie überdauert bis heute und der momentane Kaiser Licinius Proximus entstammt seiner Linie. Unter dieser Dynastie kam das Reich wieder zu kräften, allerdings war der Preis dafür ein hoher.
 
@@ -121,7 +121,7 @@ Eldrias Adelige reagierten schnell, sie wussten dass ein Angriff der Kaiserliche
 Dem jungen Kaiser Proximus war die Stärke seines Feindes bewusst, daher sand er fünf Kohorten unter einem Strategoi aus um Austen anzugreifen und dort möglichst viel Chaos anzustiften - ein Köder. 
 Die Eldrier schluckten den Köder der ihnen hingeworfen wurde. Fest davon ausgehend, dass es sich dabei um die Hauptstreitmacht der Kaiserlichen handelte, marschierten sie nach Austen, um Proximus Armee zu stellen. Auf halbem Wege erfuhren sie, dass Proxiumus die Belagerung Aerlhams begonnen hatte.
 
-![Die eldrische Armee reitet in ihren Untergang](Pictures/Flavor/Kaiserreich/EldiraArmee.jpg)
+![Die eldrische Armee reitet in ihren Untergang](Pictures/Flavor/Platzhalter/EldriaArmee.jpg)
 
 Nachdem es wenige strategisch bessere Situationen gibt, als einer feindlichen Armee während einer Belagerung in den Rücken zu fallen, machte die Armee Eldrias sofort kehrt und marschierte auf das belagerte Aerlham, sie würden dem jungen Kaiser schmerzvoll beibringen wie man eine Armee führt. In ihrer Siegesgewissheit liefen sie genau in die Falle von Proximus.
 Wer Großkanonen noch nicht im Einsatz gesehen hat versteht nicht, wieso diese Stahlrohre so gefürchtet sind. Gegen Infanterie nimmt man zwei kleine durch eine Kette verbundene Kugeln und schießt sie mit voller Wucht in die gegnerischen Reihen. Die Kugeln durchbrechen beinahe jede Formation und hinterlassen einen Haufen aus abgetrennten Gliedmaßen. 
@@ -134,7 +134,7 @@ Siegesgewiss stürmte die eldrische Armee in Richtung der vermeintlich verletzli
 
 Proximus besetzte Aerlham und benannte es um in Civis Principes. Er stellte ein kaiserliches Truppenkontingent in jedem Fürstentum in Eldria ab und ließ Festungen für seine Truppen errichten. Er plünderte die Schatzkammern der Fürstentümer und ließ zwei Legionen in Gent abstellen. 
 
-![Der Fürst von Aerlham kapituliert vor dem Kaiser](Pictures/Flavor/Kaiserreich/KapitulationEldria.png)
+![Der Fürst von Aerlham kapituliert vor dem Kaiser](Pictures/Flavor/Platzhalter/KapitulationEldria.jpg)
 
 Obwohl das Kaiserreich Eldria heute besetzt hält, hat es nicht die Mannstärke, um wirkliche Kontrolle zu erlangen. Es schafft es die Hauptstraßen und die Hauptstädte unter Kontrolle zu halten, das ist jedoch auch schon die Grenze des Möglichen. Viele Militärberater haben dem Kaiser deswegen empfohlen sein Prestigeprojekt abzubrechen und die Besatzung zu beenden, dieser will davon allerdings nichts hören. 
 Doch in Eldria regt sich der Widerstand - noch aktiver seit dem Großen Krieg.
@@ -146,13 +146,13 @@ Doch in Eldria regt sich der Widerstand - noch aktiver seit dem Großen Krieg.
 Ohne formale Kriegserklärung begannen die Rah Kari einen Krieg an zwei Fronten. Ihre Hauptstreitkraft durchquerte im Jahre 858 die Knochenfeld-Schlucht und fügte der nichtsahnenden 13. Legion schwere Verluste zu sie, die sie bis an die Reik zurückfallen ließen.
 Zum Glück für die 13. Legion hatten sich in Nors bereits fünf andere Legionen eingefunden, die - nachdem dem Kaiser bewusst wurde was geschehen war - hastig zur Verteidigung des Reiches abgestellt wurden. Der Kaiser selbst übernahm das Kommando über die nördliche Streitkraft und ließ nach weiterer Verstärkung senden. 
 
-![Die Bestien der Rah Kari verwüsten kaiserliche Städte in Nors](Pictures/Flavor/Kaiserreich/SchlachtRah3.jpg)
+![Die Bestien der Rah Kari verwüsten kaiserliche Städte in Nors](Pictures/Flavor/Platzhalter/SchlachtRah3.jpg)
 
 Obwohl der Kaiser zahlenmäßig unterlegen war suchte er den Kampf, doch egal welche strategischen Tricks er anzuwenden versuchte, er schaffte es nicht die Rah Kari zu täuschen. Sie schienen zu jedem Zeitpunkt genau zu wissen wie es um Truppenbewegungen, Nachschubslinien und Versorgungssituation der Armee bestellt war. Sie verstanden es immer genau dort zuzuschlagen wo die kaiserliche Armee am schwächsten war, und so verlor die Armee, obwohl die kaiserlichen Soldaten denen der Rah Kari weit überlegen waren, Scharmützel um Scharmützel. Nachschublieferungen wurden immer öfter Ziel für Überfälle durch die Rah Kari und bald war die Ressourcensituation der Streitkraft in Nors so schlecht, dass großere Aktionen nicht mehr möglich waren. Die Streitmacht der Rah Kari umkreiste sie, wie ein Aasgeier ein sterbendes Tier. 
 
 Doch auch das Informationsnetz der Rah Kari war nicht Fehlerfrei. Tullius Agrepios - der Strategoi der überbleibsel der 13. Legion schaffte es der Streitmacht der Rah Kari nach einem Plünderzug in Nors den Rückweg abzuschneiden, indem er die Brücke zum Knochenfeld besetzte. Diese Chance nahm die große kaiserliche Armee wahr und fiel den Rah Kari von Nors aus in den Rücken. Und obwohl Agrepios und die gesamte 13. Legion an dieser Brücke fielen war es doch ihr Opfer, das dazu führte, dass die Armee der Rah Kari das erste mal schwere Verluste einstecken musste. Die Rah Kari zogen sich noch im selben Jahr durch die Schlucht zurück, um Verstärkung zu holen und einer vollständigen Vernichtung ihrer Armee vorzubeugen.
 
-![Die Niederlage im Knochenfeld](Pictures/Flavor/Kaiserreich/SturmAufMauer.jpg)
+![Die Niederlage im Knochenfeld](Pictures/Flavor/Platzhalter/SturmAufMauer.jpg)
 
 Das Kaiserreich machte den Fehler den Rah Kari direkt nachzuziehen und stellte fest, dass die Rah Kari auf ihrer Seite der Knochenfeld-Schlucht eine mächtige Verteidigungsanlage errichtet hatte. In der folgenden Schlacht verlor das Reich zwei Legionen und zog sich zurück, um auch auf ihrer Seite der Schlucht eine Festung zu errichten. Die Festung wurde zu Ehren des Strategoi der 13. Legion "Obex Agrepios" genannt.
 
@@ -162,7 +162,7 @@ Die andere Front entstand in Eldria. Zeitgleich mit dem Einfall in Nors setzte e
 
 Eingekesselt von verschiedenen Gefahrenquellen verbarrikadierten sich die kaiserlichen Truppen in den Städten, während ihre Feinde über Kontrolle über alles außerhalb der Städte rangen. Viele kaiserlich gehaltene Städte wurden belagert und kapitulierten - die Gefangenen wurden schlimmstenfalls von Eldriern exekutiert oder von den Rah Kari versklavt. Einzig die Brigaden in Gent und Aerlham hielten - dank der Großkanonen - der Belagerung stand, wobei Aerlham von den Eldriern und Gent von den Rah Kari belagert wurde.
 
-![Die Belagerung Aerlhams](Pictures/Flavor/Kaiserreich/BelagerungAerlham.jpg)
+![Die Belagerung Aerlhams](Pictures/Flavor/Platzhalter/BelagerungAerlham.jpg)
 
 Nach einem Jahr kam Verstärkung aus dem Kaiserreich. Der Onkel des Kaisers - Arminius Prodius - versammelte 8 Legionen um sich und fiel über die rebellierenden Eldrier her. Ihre Armeen wurden schnell zerschlagen, da sie zahlenmäßig unterlegen und schlechter ausgebildet waren als die kaiserlichen Legionen. 
 Nachdem Aerlham gesichert war machte sich Prodius nach Gent auf um die Belagerung der Stadt durch die Rah Kari zu beenden.
@@ -170,7 +170,7 @@ Nachdem Aerlham gesichert war machte sich Prodius nach Gent auf um die Belagerun
 Als die Gefangenen der Rah Kari - die nach Süden transportiert werden sollten, um dort als Sklaven zu dienen - von Arminius Prodius Verstärkung erfuhren fassten sie neuen Mut. Ein Soldat namens Georg Handler schaffte es sich und ein paar Kameraden zu befreien und mit ihnen eine Gruppe Wachen zu überwältigen. Schnell schaukelte sich die Situation zu einem handfesten Gefangenenaufstand hoch. Die Armee der Rah Kari wurde dadurch genug verlangsamt, dass sich für die Brigade aus Gent und Prodius Armee eine Chance für einen fast simultanen Angriff ergab. 
 Die Armee der Rah Kari wurde vernichtend geschlagen.
 
-![Die Armee stellt die Rah Kari](Pictures/Flavor/Kaiserreich/SchlachtRah.jpg)
+![Die Armee stellt die Rah Kari](Pictures/Flavor/Platzhalter/SchlachtRah.jpg)
 
 Mit der Niederlage der Rah Kari kehrte allerdings keine Ruhe ein, bis heute versucht das Imperium die Grenze am Nebelhain zu sichern, aber der Nebalhain ist nicht überschaubar, immer wieder schaffen es Truppen der Rah Kari überzusetzen und Chaos zu stiften. 
 
@@ -203,7 +203,7 @@ Manche Adelige, ebenso wie andere reiche Individuuen, sind im Besitz einer eigen
 
 ### Der Kaiser
 
-![Der Kaiser bei der Schlacht von Aerlham - Ein Portrait von Frangillius Tarsius](Pictures\\Flavor\\Kaiserreich\\Kaiser1.jpg)
+![Der Kaiser bei der Schlacht von Aerlham - Ein Portrait von Frangillius Tarsius](Pictures\\Flavor\\Platzhalter\\Kaiser1.jpg)
 
 Als höchstes Amt im Kaiserreich ist der Kaiser automatisch das Oberhaupt des Militärs, der Judikatur und des Staates. Seine Macht ist absolut und Befehle werden nur höchst selten hinterfragt. Beleidigungen gegen die Ehre des Kaisers können im Reich mit dem Tod bestraft werden. 
 
@@ -252,7 +252,7 @@ Für viele Waldelfen ist die kulturelle Nähe und Gewöhnung der Stadtelfen an d
 
 Orks sind im Kaiserreich eher selten anzutreffen. Zumindest außerhalb der Armee. Innerhalb der Armee dienen sie meistens als schwere Truppen.
 
-![Die meisten Orks dienen dem Kaiserreich als schwere Infanterie](Pictures\\Flavor\\Kaiserreich\\OrkHeavyInfKais.jpg)
+![Die meisten Orks dienen dem Kaiserreich als schwere Infanterie](Pictures\\Flavor\\Platzhalter\\OrkHeavyInfKais.jpg)
 
 ## Die Kaiserliche Armee
 
@@ -262,7 +262,7 @@ Orks sind im Kaiserreich eher selten anzutreffen. Zumindest außerhalb der Armee
 
 obwohl viele Teile des Kaiserreichs kaputt sind und tiefe strukturelle Probleme haben, blieb das Militär weitestgehend davon verschont – was tatsächlich sehr sinnvoll für das Reich an sich ist. Man kann behaupten, dass das Kaiserreich mehr eine Armee mit einem Staat, als ein Staat mit einer Armee ist – Wobei die Armee bisher immer als loyales Werkzeug zum Kaiser stand und im Gegensatz zum kaiserlichen Geheimdienst – dem Penitius Oculatus - nie versucht hat den Kaiser zu ersetzen oder zu enttrohnen.  Die kaiserliche Armee hat sowohl die Pflicht einer Armee, als auch einer Polizei. 
 
-![Ein Legat bei der Ausbildung neuer Soldaten](Pictures\\Flavor\\Kaiserreich\\KaisAusbilder1.jpg)
+![Ein Legat bei der Ausbildung neuer Soldaten](Pictures\\Flavor\\Platzhalter\\KaisAusbilder1.jpg)
  
 Die Struktur der kaiserlichen Armee ist eng angelehnt an das römische System und wurde schon vor dem Zusammenschluss mit Nors verwendet. 
 Die Armee umfasst 21 Legionen. In etwa 210000 Mann. Damit ist sie eine der größten, wenn nicht die größte stehende Armee der Welt. Die ersten vier Legionen sind die Legiones Praetoriae und sind im Herzland stationiert. Es wird behauptet sie wären die besten Legionen der Armee, allerdings ist das sehr unwahrscheinlich, da die 16-21. Legionen die letzten 10 Jahre durchgängig im Krieg gegen alle möglichen Feinde des Imperiums waren und daher kampfgehärtet sind, während die Legiones Praetoriae im Herzland ein eher ruhiges Leben führen.
@@ -274,7 +274,7 @@ Eine Legion (geführt von einem Strategoi) umfasst 10 Kohorten (a 1000 geführt 
 
 #### Infanterie {- #KaisInfanterie}
 
-![Die kaiserliche Infanterie stellt das Herzstück der Armee dar](Pictures\\Flavor\\Kaiserreich\\KaisInfanterie1.jpg)
+![Die kaiserliche Infanterie stellt das Herzstück der Armee dar](Pictures\\Flavor\\Platzhalter\\KaisInfanterie1.jpg)
 
 ##### Speerträger {-}
 Speerträger sind in der Armee kaum zu sehen, nur schnell zusammengeworfene/ausgehobene und schlecht ausgebildete Truppen werden so schlecht bewaffnet.
@@ -284,7 +284,7 @@ Der Hellebardist ist die Waffe des Imperiums gegen Kavallerie. Sie sind gut ausg
 
 ##### Militates {-}
 
-![Militates auf dem Weg ins Knochenfeld](Pictures\\Flavor\\Kaiserreich\\KaisInfanterie2.jpg)
+![Militates auf dem Weg ins Knochenfeld](Pictures\\Flavor\\Platzhalter\\KaisInfanterie2.jpg)
 
 Militates werden wegen ihres Schildes so genannt, sie sind mit Kurzspeer, Schild und Schwert ausgestattet und sind das Rückgrat der kaiserlichen Armee. Die meisten kaiserlichen Soldaten sind Militates.
 
@@ -292,7 +292,7 @@ Militates werden wegen ihres Schildes so genannt, sie sind mit Kurzspeer, Schild
 
 Liebevoll auch Stahlkrabben genannt ist die schwere infanterie des Imperiums das Mittel um Formationen im deckigen Frontkampf zu brechen. Schwere Waffen, schwere Rüstung und eine Einzelkämpferausbildung machen sie zu einer gefährlichen Waffe gegen alles, was ihnen im Weg steht. Am besten gegen sie hilft Artilleriebeschuss oder Musketen, ansonsten sollte man ihnen nicht im Feld begegnen. Viele kaiserliche Orks dienen in der schweren Infanterie.
 
-![Schwere Truppe - Eine von vielen Variationen](Pictures\\Flavor\\Kaiserreich\\KaisSchwereInfant.jpg)
+![Schwere Truppe - Eine von vielen Variationen](Pictures\\Flavor\\Platzhalter\\KaisSchwereInfant.jpg)
 
 #### Fernkampf-Infanterie {- #KaisFernkampf}
 
@@ -311,7 +311,7 @@ Meistens verwendet um gegnerische Formationen zu stören, zu flankieren oder Auf
 ##### Schwere Kavallerie {-}
 Langsamer als die leichte Kavallerie, allerdings Schwer gepanzert und mit Goßschwertern oder Lanzen ausgestattet, ist diese Einheit dafür gemacht gegnerische Formationen einfach nur niederzureiten. 
 
-![Kaiserliche schwere Kavallerie](Pictures\\Flavor\\Kaiserreich\\KaisKavallerie.jpg)
+![Kaiserliche schwere Kavallerie](Pictures\\Flavor\\Platzhalter\\KaisKavallerie.jpg)
 
 #### Artillerie {- #KaisArtillerie}
 
@@ -321,7 +321,7 @@ Die Balliste braucht 1-2 Mann Besatzung, wenn sie nicht maximalbesetzt ist schaf
 
 ##### Großkanone {-}
 
-![Konzept einer Großkanone aus dem Jahre 411](Pictures\\Flavor\\Kaiserreich\\großkanone2.png)
+![Konzept einer Großkanone aus dem Jahre 411](Pictures\\Flavor\\Platzhalter\\großkanone.jpg)
 
 Die Großkanone ist das Rückgrat der kaiserlichen Artillerie, mit verschiedenen Munitionstypen kann sie sowohl gegen Infanterie, als auch gegen Einzelziele eingesetzt werden. Ihre große Reichweite und ihre immense Durchschlagskraft ermöglicht es ihr mittelgroße schiffe in einem Schuss zu versenken.
 Allerdings ist sie teurer als die Balliste und braucht regelmäßige Wartung. Sie braucht drei Mann Besatzung und schafft in 2 Minuten 5 Schuss, die Feuerrate sinkt linear zur Besatzung.

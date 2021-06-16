@@ -49,6 +49,27 @@
 
 
 
+<script src="libs/htmlwidgets-1.5.3/htmlwidgets.js"></script>
+<link href="libs/leaflet-1.3.1/leaflet.css" rel="stylesheet" />
+<script src="libs/leaflet-1.3.1/leaflet.js"></script>
+<link href="libs/leafletfix-1.0.0/leafletfix.css" rel="stylesheet" />
+<script src="libs/proj4-2.6.2/proj4.min.js"></script>
+<script src="libs/Proj4Leaflet-1.0.1/proj4leaflet.js"></script>
+<link href="libs/rstudio_leaflet-1.3.1/rstudio_leaflet.css" rel="stylesheet" />
+<script src="libs/leaflet-binding-2.0.4.1/leaflet.js"></script>
+<script src="libs/clipboard-0.0.1/setClipboardText.js"></script>
+<link href="libs/leaflet-measure-2.1.7/leaflet-measure.css" rel="stylesheet" />
+<script src="libs/leaflet-measure-2.1.7/leaflet-measure.min.js"></script>
+<link href="libs/lfx-fullscreen-1.0.2/lfx-fullscreen-prod.css" rel="stylesheet" />
+<script src="libs/lfx-fullscreen-1.0.2/lfx-fullscreen-prod.js"></script>
+<script src="libs/fuse_js-3.2.0/fuse_js-prod.js"></script>
+<link href="libs/lfx-search-2.3.7/lfx-search-prod.css" rel="stylesheet" />
+<script src="libs/lfx-search-2.3.7/lfx-search-prod.js"></script>
+<script src="libs/lfx-search-2.3.7/lfx-search-bindings.js"></script>
+<link href="libs/lfx-draw-1.0.2/lfx-draw-prod.css" rel="stylesheet" />
+<script src="libs/lfx-draw-1.0.2/lfx-draw-prod.js"></script>
+<script src="libs/lfx-draw-1.0.2/lfx-draw-bindings.js"></script>
+<script src="libs/lfx-draw-drag-1.0.2/lfx-draw-drag-prod.js"></script>
 
 
 <style type="text/css">
@@ -193,7 +214,7 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <ul>
 <li class="chapter" data-level="6.2.1" data-path="goblins.html"><a href="goblins.html#die-völkerbeziehungen-der-rasse-1"><i class="fa fa-check"></i><b>6.2.1</b> Die Völkerbeziehungen der Rasse</a></li>
 </ul></li>
-<li class="chapter" data-level="6.3" data-path="goblins.html"><a href="goblins.html#fortpflanzung"><i class="fa fa-check"></i><b>6.3</b> Fortpflanzung</a></li>
+<li class="chapter" data-level="6.3" data-path="goblins.html"><a href="goblins.html#biologie-der-spezies"><i class="fa fa-check"></i><b>6.3</b> Biologie der Spezies</a></li>
 <li class="chapter" data-level="6.4" data-path="goblins.html"><a href="goblins.html#misc."><i class="fa fa-check"></i><b>6.4</b> Misc.</a></li>
 <li class="chapter" data-level="6.5" data-path="goblins.html"><a href="goblins.html#die-religion-der-rasse-1"><i class="fa fa-check"></i><b>6.5</b> Die Religion der Rasse</a>
 <ul>
@@ -206,23 +227,21 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <li class="chapter" data-level="7" data-path="creatura-animali.html"><a href="creatura-animali.html"><i class="fa fa-check"></i><b>7</b> Creatura Animali</a>
 <ul>
 <li class="chapter" data-level="7.1" data-path="creatura-animali.html"><a href="creatura-animali.html#überlick-über-die-animali"><i class="fa fa-check"></i><b>7.1</b> Überlick über die Animali</a></li>
-<li class="chapter" data-level="7.2" data-path="creatura-animali.html"><a href="creatura-animali.html#die-geschichte-der-animali"><i class="fa fa-check"></i><b>7.2</b> Die Geschichte der Animali</a></li>
-<li class="chapter" data-level="7.3" data-path="creatura-animali.html"><a href="creatura-animali.html#herkunft-der-rasse"><i class="fa fa-check"></i><b>7.3</b> Herkunft der Rasse</a>
+<li class="chapter" data-level="7.2" data-path="creatura-animali.html"><a href="creatura-animali.html#herkunft-der-rasse"><i class="fa fa-check"></i><b>7.2</b> Herkunft der Rasse</a>
 <ul>
-<li class="chapter" data-level="7.3.1" data-path="creatura-animali.html"><a href="creatura-animali.html#der-erstkontakt-mit-dem-kaiserreich"><i class="fa fa-check"></i><b>7.3.1</b> Der Erstkontakt mit dem Kaiserreich</a></li>
-<li class="chapter" data-level="7.3.2" data-path="creatura-animali.html"><a href="creatura-animali.html#die-große-jagd-auf-den-weltenwurm"><i class="fa fa-check"></i><b>7.3.2</b> Die große Jagd auf den Weltenwurm</a></li>
+<li class="chapter" data-level="7.2.1" data-path="creatura-animali.html"><a href="creatura-animali.html#der-erstkontakt-mit-dem-kaiserreich"><i class="fa fa-check"></i><b>7.2.1</b> Der Erstkontakt mit dem Kaiserreich</a></li>
+<li class="chapter" data-level="7.2.2" data-path="creatura-animali.html"><a href="creatura-animali.html#die-große-jagd-auf-den-weltenwurm"><i class="fa fa-check"></i><b>7.2.2</b> Die große Jagd auf den Weltenwurm</a></li>
 </ul></li>
-<li class="chapter" data-level="7.4" data-path="creatura-animali.html"><a href="creatura-animali.html#die-gesellschaft-der-animali"><i class="fa fa-check"></i><b>7.4</b> Die Gesellschaft der Animali</a>
+<li class="chapter" data-level="7.3" data-path="creatura-animali.html"><a href="creatura-animali.html#die-gesellschaft-der-animali"><i class="fa fa-check"></i><b>7.3</b> Die Gesellschaft der Animali</a>
 <ul>
-<li class="chapter" data-level="7.4.1" data-path="creatura-animali.html"><a href="creatura-animali.html#Mutation"><i class="fa fa-check"></i><b>7.4.1</b> Der Ritus der Reife</a></li>
-<li class="chapter" data-level="7.4.2" data-path="creatura-animali.html"><a href="creatura-animali.html#die-völkerbeziehungen-der-rasse-2"><i class="fa fa-check"></i><b>7.4.2</b> Die Völkerbeziehungen der Rasse</a></li>
+<li class="chapter" data-level="7.3.1" data-path="creatura-animali.html"><a href="creatura-animali.html#Mutation"><i class="fa fa-check"></i><b>7.3.1</b> Der Ritus der Reife</a></li>
+<li class="chapter" data-level="7.3.2" data-path="creatura-animali.html"><a href="creatura-animali.html#die-völkerbeziehungen-der-rasse-2"><i class="fa fa-check"></i><b>7.3.2</b> Die Völkerbeziehungen der Rasse</a></li>
 </ul></li>
-<li class="chapter" data-level="7.5" data-path="creatura-animali.html"><a href="creatura-animali.html#die-religion-der-rasse-2"><i class="fa fa-check"></i><b>7.5</b> Die Religion der Rasse</a></li>
-<li class="chapter" data-level="7.6" data-path="creatura-animali.html"><a href="creatura-animali.html#die-legenden-der-rasse-2"><i class="fa fa-check"></i><b>7.6</b> Die Legenden der Rasse</a>
+<li class="chapter" data-level="7.4" data-path="creatura-animali.html"><a href="creatura-animali.html#die-legenden-der-rasse-2"><i class="fa fa-check"></i><b>7.4</b> Die Legenden der Rasse</a>
 <ul>
-<li class="chapter" data-level="7.6.1" data-path="creatura-animali.html"><a href="creatura-animali.html#über-mantikore"><i class="fa fa-check"></i><b>7.6.1</b> Über Mantikore</a></li>
+<li class="chapter" data-level="7.4.1" data-path="creatura-animali.html"><a href="creatura-animali.html#über-mantikore"><i class="fa fa-check"></i><b>7.4.1</b> Über Mantikore</a></li>
 </ul></li>
-<li class="chapter" data-level="7.7" data-path="creatura-animali.html"><a href="creatura-animali.html#die-eigenbegriffe-der-rasse-2"><i class="fa fa-check"></i><b>7.7</b> Die Eigenbegriffe der Rasse</a></li>
+<li class="chapter" data-level="7.5" data-path="creatura-animali.html"><a href="creatura-animali.html#die-eigenbegriffe-der-rasse-2"><i class="fa fa-check"></i><b>7.5</b> Die Eigenbegriffe der Rasse</a></li>
 </ul></li>
 <li class="chapter" data-level="8" data-path="die-zwerge.html"><a href="die-zwerge.html"><i class="fa fa-check"></i><b>8</b> Die Zwerge</a>
 <ul>
@@ -233,7 +252,7 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <li class="chapter" data-level="8.2.2" data-path="die-zwerge.html"><a href="die-zwerge.html#jobs"><i class="fa fa-check"></i><b>8.2.2</b> Jobs</a></li>
 <li class="chapter" data-level="8.2.3" data-path="die-zwerge.html"><a href="die-zwerge.html#die-völkerbeziehungen-der-rasse-3"><i class="fa fa-check"></i><b>8.2.3</b> Die Völkerbeziehungen der Rasse</a></li>
 </ul></li>
-<li class="chapter" data-level="8.3" data-path="die-zwerge.html"><a href="die-zwerge.html#die-religion-der-rasse-3"><i class="fa fa-check"></i><b>8.3</b> Die Religion der Rasse</a>
+<li class="chapter" data-level="8.3" data-path="die-zwerge.html"><a href="die-zwerge.html#die-religion-der-rasse-2"><i class="fa fa-check"></i><b>8.3</b> Die Religion der Rasse</a>
 <ul>
 <li class="chapter" data-level="8.3.1" data-path="die-zwerge.html"><a href="die-zwerge.html#totenkult-2"><i class="fa fa-check"></i><b>8.3.1</b> Totenkult</a></li>
 </ul></li>
@@ -267,7 +286,7 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <ul>
 <li class="chapter" data-level="9.2.1" data-path="die-halblinge.html"><a href="die-halblinge.html#völkerbeziehungen"><i class="fa fa-check"></i><b>9.2.1</b> Völkerbeziehungen</a></li>
 </ul></li>
-<li class="chapter" data-level="9.3" data-path="die-halblinge.html"><a href="die-halblinge.html#die-religion-der-rasse-4"><i class="fa fa-check"></i><b>9.3</b> Die Religion der Rasse</a>
+<li class="chapter" data-level="9.3" data-path="die-halblinge.html"><a href="die-halblinge.html#die-religion-der-rasse-3"><i class="fa fa-check"></i><b>9.3</b> Die Religion der Rasse</a>
 <ul>
 <li class="chapter" data-level="9.3.1" data-path="die-halblinge.html"><a href="die-halblinge.html#totenkult-3"><i class="fa fa-check"></i><b>9.3.1</b> Totenkult</a></li>
 </ul></li>
@@ -578,7 +597,12 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <li class="chapter" data-level="21.6" data-path="Blutkult.html"><a href="Blutkult.html#die-ausbreitung-großer-kulte"><i class="fa fa-check"></i><b>21.6</b> Die Ausbreitung großer Kulte</a></li>
 <li class="chapter" data-level="21.7" data-path="Blutkult.html"><a href="Blutkult.html#der-heilige-des-kriegs"><i class="fa fa-check"></i><b>21.7</b> Der Heilige des Kriegs</a></li>
 </ul></li>
-<li class="chapter" data-level="22" data-path="die-lehre-von-zamrak.html"><a href="die-lehre-von-zamrak.html"><i class="fa fa-check"></i><b>22</b> Die Lehre von Zamrak</a></li>
+<li class="chapter" data-level="22" data-path="die-lehre-von-zamrak.html"><a href="die-lehre-von-zamrak.html"><i class="fa fa-check"></i><b>22</b> Die Lehre von Zamrak</a>
+<ul>
+<li class="chapter" data-level="22.0.1" data-path="die-lehre-von-zamrak.html"><a href="die-lehre-von-zamrak.html#hier-muss-noch-alles-formatiert-und-an-die-anderen-rmds-angeglichen-werden"><i class="fa fa-check"></i><b>22.0.1</b> Hier muss noch alles formatiert und an die anderen RMDs angeglichen werden</a></li>
+<li class="chapter" data-level="22.1" data-path="die-lehre-von-zamrak.html"><a href="die-lehre-von-zamrak.html#die-ursprünge-zamraks"><i class="fa fa-check"></i><b>22.1</b> Die Ursprünge Zamraks</a></li>
+<li class="chapter" data-level="22.2" data-path="die-lehre-von-zamrak.html"><a href="die-lehre-von-zamrak.html#die-ausbildung-der-krieger"><i class="fa fa-check"></i><b>22.2</b> Die Ausbildung der Krieger</a></li>
+</ul></li>
 <li class="part"><span><b>V Anderes</b></span></li>
 <li class="chapter" data-level="23" data-path="die-vorreiter.html"><a href="die-vorreiter.html"><i class="fa fa-check"></i><b>23</b> Die Vorreiter</a>
 <ul>
@@ -625,12 +649,13 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 </ul></li>
 <li class="chapter" data-level="24.9" data-path="Monster.html"><a href="Monster.html#vielbeiner"><i class="fa fa-check"></i><b>24.9</b> Vielbeiner</a>
 <ul>
-<li class="chapter" data-level="24.9.1" data-path="Monster.html"><a href="Monster.html#knöcherner-wüstenschläger"><i class="fa fa-check"></i><b>24.9.1</b> Knöcherner Wüstenschläger</a></li>
-<li class="chapter" data-level="24.9.2" data-path="Monster.html"><a href="Monster.html#felsenkriecher"><i class="fa fa-check"></i><b>24.9.2</b> Felsenkriecher</a></li>
-<li class="chapter" data-level="24.9.3" data-path="Monster.html"><a href="Monster.html#blauer-merkantolith"><i class="fa fa-check"></i><b>24.9.3</b> Blauer Merkantolith</a></li>
-<li class="chapter" data-level="24.9.4" data-path="Monster.html"><a href="Monster.html#Skrogan"><i class="fa fa-check"></i><b>24.9.4</b> Skrogan Skorpion</a></li>
-<li class="chapter" data-level="24.9.5" data-path="Monster.html"><a href="Monster.html#silurian-skorpion"><i class="fa fa-check"></i><b>24.9.5</b> Silurian Skorpion</a></li>
-<li class="chapter" data-level="24.9.6" data-path="Monster.html"><a href="Monster.html#znitins"><i class="fa fa-check"></i><b>24.9.6</b> Znitins</a></li>
+<li class="chapter" data-level="24.9.1" data-path="Monster.html"><a href="Monster.html#schlammtrommler"><i class="fa fa-check"></i><b>24.9.1</b> Schlammtrommler</a></li>
+<li class="chapter" data-level="24.9.2" data-path="Monster.html"><a href="Monster.html#knöcherner-wüstenschläger"><i class="fa fa-check"></i><b>24.9.2</b> Knöcherner Wüstenschläger</a></li>
+<li class="chapter" data-level="24.9.3" data-path="Monster.html"><a href="Monster.html#felsenkriecher"><i class="fa fa-check"></i><b>24.9.3</b> Felsenkriecher</a></li>
+<li class="chapter" data-level="24.9.4" data-path="Monster.html"><a href="Monster.html#blauer-merkantolith"><i class="fa fa-check"></i><b>24.9.4</b> Blauer Merkantolith</a></li>
+<li class="chapter" data-level="24.9.5" data-path="Monster.html"><a href="Monster.html#Skrogan"><i class="fa fa-check"></i><b>24.9.5</b> Skrogan Skorpion</a></li>
+<li class="chapter" data-level="24.9.6" data-path="Monster.html"><a href="Monster.html#silurian-skorpion"><i class="fa fa-check"></i><b>24.9.6</b> Silurian Skorpion</a></li>
+<li class="chapter" data-level="24.9.7" data-path="Monster.html"><a href="Monster.html#znitins"><i class="fa fa-check"></i><b>24.9.7</b> Znitins</a></li>
 </ul></li>
 <li class="chapter" data-level="24.10" data-path="Monster.html"><a href="Monster.html#schleimer"><i class="fa fa-check"></i><b>24.10</b> Schleimer</a>
 <ul>
@@ -757,11 +782,9 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <li><a href="das-herzland.html#piscaim-farm"><strong>Piscaim-Farm</strong></a></li>
 <li><a href="das-herzland.html#tantum-farm"><strong>Tantum-Farm</strong></a></li>
 <li><a href="das-herzland.html#groß-tantium"><strong>Groß-Tantium</strong></a></li>
-<li><a href="das-herzland.html#lignium"><strong>Lignium</strong></a></li>
-<li><a href="das-herzland.html#groß-waldhack"><strong>Groß-Waldhack</strong></a></li>
-<li><a href="das-herzland.html#klein-waldhack"><strong>Klein-Waldhack</strong></a></li>
+<li><a href="das-herzland.html#section-1"></a></li>
 <li><a href="das-herzland.html#muranum-farm"><strong>Muranum-Farm</strong></a></li>
-<li><a href="das-herzland.html#naphtanium"><strong>Naphtanium</strong></a></li>
+<li><a href="das-herzland.html#section-2"></a></li>
 <li><a href="das-herzland.html#grimgrod"><strong>Grimgrod</strong></a></li>
 <li class="chapter" data-level="29.1.1" data-path="das-herzland.html"><a href="das-herzland.html#infrastruktur-2"><i class="fa fa-check"></i><b>29.1.1</b> Infrastruktur</a></li>
 </ul></li>
@@ -924,315 +947,346 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <li class="chapter" data-level="34.6" data-path="die-brennenden-länder.html"><a href="die-brennenden-länder.html#gerüchte-der-region-7"><i class="fa fa-check"></i><b>34.6</b> Gerüchte der Region</a></li>
 <li class="chapter" data-level="34.7" data-path="die-brennenden-länder.html"><a href="die-brennenden-länder.html#sehenswürdigkeiten-7"><i class="fa fa-check"></i><b>34.7</b> Sehenswürdigkeiten</a></li>
 </ul></li>
-<li class="chapter" data-level="35" data-path="die-region-eldria.html"><a href="die-region-eldria.html"><i class="fa fa-check"></i><b>35</b> Die Region Eldria</a>
+<li class="chapter" data-level="35" data-path="naphtanium.html"><a href="naphtanium.html"><i class="fa fa-check"></i><b>35</b> Naphtanium</a>
 <ul>
-<li class="chapter" data-level="35.1" data-path="die-region-eldria.html"><a href="die-region-eldria.html#ortschaften-der-region-8"><i class="fa fa-check"></i><b>35.1</b> Ortschaften der Region</a>
+<li class="chapter" data-level="35.1" data-path="naphtanium.html"><a href="naphtanium.html#ortschaften-der-region-8"><i class="fa fa-check"></i><b>35.1</b> Ortschaften der Region</a>
 <ul>
-<li class="chapter" data-level="35.1.1" data-path="die-region-eldria.html"><a href="die-region-eldria.html#infrastruktur-8"><i class="fa fa-check"></i><b>35.1.1</b> Infrastruktur</a></li>
+<li class="chapter" data-level="35.1.1" data-path="naphtanium.html"><a href="naphtanium.html#naphtanium-1"><i class="fa fa-check"></i><b>35.1.1</b> Naphtanium</a></li>
+<li class="chapter" data-level="35.1.2" data-path="naphtanium.html"><a href="naphtanium.html#weißstadt"><i class="fa fa-check"></i><b>35.1.2</b> Weißstadt</a></li>
+<li class="chapter" data-level="35.1.3" data-path="naphtanium.html"><a href="naphtanium.html#lignium"><i class="fa fa-check"></i><b>35.1.3</b> Lignium</a></li>
+<li class="chapter" data-level="35.1.4" data-path="naphtanium.html"><a href="naphtanium.html#groß-waldhack"><i class="fa fa-check"></i><b>35.1.4</b> Groß-Waldhack</a></li>
+<li class="chapter" data-level="35.1.5" data-path="naphtanium.html"><a href="naphtanium.html#klein-waldhack"><i class="fa fa-check"></i><b>35.1.5</b> Klein-Waldhack</a></li>
+<li class="chapter" data-level="35.1.6" data-path="naphtanium.html"><a href="naphtanium.html#jash-hurk"><i class="fa fa-check"></i><b>35.1.6</b> Jash-Hurk</a></li>
+<li class="chapter" data-level="35.1.7" data-path="naphtanium.html"><a href="naphtanium.html#infrastruktur-8"><i class="fa fa-check"></i><b>35.1.7</b> Infrastruktur</a></li>
 </ul></li>
-<li class="chapter" data-level="35.2" data-path="die-region-eldria.html"><a href="die-region-eldria.html#die-geschichte-der-region-7"><i class="fa fa-check"></i><b>35.2</b> Die Geschichte der Region</a></li>
-<li class="chapter" data-level="35.3" data-path="die-region-eldria.html"><a href="die-region-eldria.html#wirtschaftliche-lage-11"><i class="fa fa-check"></i><b>35.3</b> Wirtschaftliche Lage</a>
+<li class="chapter" data-level="35.2" data-path="naphtanium.html"><a href="naphtanium.html#die-geschichte-der-region-7"><i class="fa fa-check"></i><b>35.2</b> Die Geschichte der Region</a></li>
+<li class="chapter" data-level="35.3" data-path="naphtanium.html"><a href="naphtanium.html#wirtschaftliche-lage-11"><i class="fa fa-check"></i><b>35.3</b> Wirtschaftliche Lage</a>
 <ul>
-<li class="chapter" data-level="35.3.1" data-path="die-region-eldria.html"><a href="die-region-eldria.html#die-ressourcen-der-region-7"><i class="fa fa-check"></i><b>35.3.1</b> Die Ressourcen der Region</a></li>
+<li class="chapter" data-level="35.3.1" data-path="naphtanium.html"><a href="naphtanium.html#die-ressourcen-der-region-7"><i class="fa fa-check"></i><b>35.3.1</b> Die Ressourcen der Region</a></li>
 </ul></li>
-<li class="chapter" data-level="35.4" data-path="die-region-eldria.html"><a href="die-region-eldria.html#soziopolitische-lage-13"><i class="fa fa-check"></i><b>35.4</b> Soziopolitische Lage</a>
+<li class="chapter" data-level="35.4" data-path="naphtanium.html"><a href="naphtanium.html#soziopolitische-lage-13"><i class="fa fa-check"></i><b>35.4</b> Soziopolitische Lage</a>
 <ul>
-<li class="chapter" data-level="35.4.1" data-path="die-region-eldria.html"><a href="die-region-eldria.html#herrschaftsystemorganisation-13"><i class="fa fa-check"></i><b>35.4.1</b> Herrschaftsystem/Organisation</a></li>
+<li class="chapter" data-level="35.4.1" data-path="naphtanium.html"><a href="naphtanium.html#herrschaftsystemorganisation-13"><i class="fa fa-check"></i><b>35.4.1</b> Herrschaftsystem/Organisation</a></li>
 </ul></li>
-<li class="chapter" data-level="35.5" data-path="die-region-eldria.html"><a href="die-region-eldria.html#klimatische-bedingungen-8"><i class="fa fa-check"></i><b>35.5</b> Klimatische Bedingungen</a>
+<li class="chapter" data-level="35.5" data-path="naphtanium.html"><a href="naphtanium.html#klimatische-bedingungen-8"><i class="fa fa-check"></i><b>35.5</b> Klimatische Bedingungen</a>
 <ul>
-<li class="chapter" data-level="35.5.1" data-path="die-region-eldria.html"><a href="die-region-eldria.html#die-flora-und-fauna-8"><i class="fa fa-check"></i><b>35.5.1</b> Die Flora und Fauna</a>
+<li class="chapter" data-level="35.5.1" data-path="naphtanium.html"><a href="naphtanium.html#die-flora-und-fauna-8"><i class="fa fa-check"></i><b>35.5.1</b> Die Flora und Fauna</a>
 <ul>
-<li class="chapter" data-level="35.5.1.1" data-path="die-region-eldria.html"><a href="die-region-eldria.html#monster-in-der-region-8"><i class="fa fa-check"></i><b>35.5.1.1</b> Monster in der Region</a></li>
+<li class="chapter" data-level="35.5.1.1" data-path="naphtanium.html"><a href="naphtanium.html#monster-in-der-region-8"><i class="fa fa-check"></i><b>35.5.1.1</b> Monster in der Region</a></li>
 </ul></li>
 </ul></li>
-<li class="chapter" data-level="35.6" data-path="die-region-eldria.html"><a href="die-region-eldria.html#gerüchte-der-region-8"><i class="fa fa-check"></i><b>35.6</b> Gerüchte der Region</a></li>
-<li class="chapter" data-level="35.7" data-path="die-region-eldria.html"><a href="die-region-eldria.html#sehenswürdigkeiten-8"><i class="fa fa-check"></i><b>35.7</b> Sehenswürdigkeiten</a>
+<li class="chapter" data-level="35.6" data-path="naphtanium.html"><a href="naphtanium.html#gerüchte-der-region-8"><i class="fa fa-check"></i><b>35.6</b> Gerüchte der Region</a></li>
+<li class="chapter" data-level="35.7" data-path="naphtanium.html"><a href="naphtanium.html#sehenswürdigkeiten-8"><i class="fa fa-check"></i><b>35.7</b> Sehenswürdigkeiten</a></li>
+</ul></li>
+<li class="chapter" data-level="36" data-path="die-region-eldria.html"><a href="die-region-eldria.html"><i class="fa fa-check"></i><b>36</b> Die Region Eldria</a>
+<ul>
+<li class="chapter" data-level="36.1" data-path="die-region-eldria.html"><a href="die-region-eldria.html#ortschaften-der-region-9"><i class="fa fa-check"></i><b>36.1</b> Ortschaften der Region</a>
+<ul>
+<li class="chapter" data-level="36.1.1" data-path="die-region-eldria.html"><a href="die-region-eldria.html#infrastruktur-9"><i class="fa fa-check"></i><b>36.1.1</b> Infrastruktur</a></li>
+</ul></li>
+<li class="chapter" data-level="36.2" data-path="die-region-eldria.html"><a href="die-region-eldria.html#die-geschichte-der-region-8"><i class="fa fa-check"></i><b>36.2</b> Die Geschichte der Region</a></li>
+<li class="chapter" data-level="36.3" data-path="die-region-eldria.html"><a href="die-region-eldria.html#wirtschaftliche-lage-12"><i class="fa fa-check"></i><b>36.3</b> Wirtschaftliche Lage</a>
+<ul>
+<li class="chapter" data-level="36.3.1" data-path="die-region-eldria.html"><a href="die-region-eldria.html#die-ressourcen-der-region-8"><i class="fa fa-check"></i><b>36.3.1</b> Die Ressourcen der Region</a></li>
+</ul></li>
+<li class="chapter" data-level="36.4" data-path="die-region-eldria.html"><a href="die-region-eldria.html#soziopolitische-lage-14"><i class="fa fa-check"></i><b>36.4</b> Soziopolitische Lage</a>
+<ul>
+<li class="chapter" data-level="36.4.1" data-path="die-region-eldria.html"><a href="die-region-eldria.html#herrschaftsystemorganisation-14"><i class="fa fa-check"></i><b>36.4.1</b> Herrschaftsystem/Organisation</a></li>
+</ul></li>
+<li class="chapter" data-level="36.5" data-path="die-region-eldria.html"><a href="die-region-eldria.html#klimatische-bedingungen-9"><i class="fa fa-check"></i><b>36.5</b> Klimatische Bedingungen</a>
+<ul>
+<li class="chapter" data-level="36.5.1" data-path="die-region-eldria.html"><a href="die-region-eldria.html#die-flora-und-fauna-9"><i class="fa fa-check"></i><b>36.5.1</b> Die Flora und Fauna</a>
+<ul>
+<li class="chapter" data-level="36.5.1.1" data-path="die-region-eldria.html"><a href="die-region-eldria.html#monster-in-der-region-9"><i class="fa fa-check"></i><b>36.5.1.1</b> Monster in der Region</a></li>
+</ul></li>
+</ul></li>
+<li class="chapter" data-level="36.6" data-path="die-region-eldria.html"><a href="die-region-eldria.html#gerüchte-der-region-9"><i class="fa fa-check"></i><b>36.6</b> Gerüchte der Region</a></li>
+<li class="chapter" data-level="36.7" data-path="die-region-eldria.html"><a href="die-region-eldria.html#sehenswürdigkeiten-9"><i class="fa fa-check"></i><b>36.7</b> Sehenswürdigkeiten</a>
 <ul>
-<li class="chapter" data-level="35.7.1" data-path="die-region-eldria.html"><a href="die-region-eldria.html#ulias-spooners-taverne"><i class="fa fa-check"></i><b>35.7.1</b> Ulias Spooners Taverne</a></li>
+<li class="chapter" data-level="36.7.1" data-path="die-region-eldria.html"><a href="die-region-eldria.html#ulias-spooners-taverne"><i class="fa fa-check"></i><b>36.7.1</b> Ulias Spooners Taverne</a></li>
 </ul></li>
 </ul></li>
-<li class="chapter" data-level="36" data-path="Wandia.html"><a href="Wandia.html"><i class="fa fa-check"></i><b>36</b> Wandia</a>
+<li class="chapter" data-level="37" data-path="Wandia.html"><a href="Wandia.html"><i class="fa fa-check"></i><b>37</b> Wandia</a>
 <ul>
-<li class="chapter" data-level="36.1" data-path="Wandia.html"><a href="Wandia.html#die-geschichte-der-region-8"><i class="fa fa-check"></i><b>36.1</b> Die Geschichte der Region</a>
+<li class="chapter" data-level="37.1" data-path="Wandia.html"><a href="Wandia.html#die-geschichte-der-region-9"><i class="fa fa-check"></i><b>37.1</b> Die Geschichte der Region</a>
 <ul>
-<li class="chapter" data-level="36.1.1" data-path="Wandia.html"><a href="Wandia.html#der-fall-von-wandia"><i class="fa fa-check"></i><b>36.1.1</b> Der Fall von Wandia</a></li>
-<li class="chapter" data-level="36.1.2" data-path="Wandia.html"><a href="Wandia.html#der-kampf-der-kolosse"><i class="fa fa-check"></i><b>36.1.2</b> Der Kampf der Kolosse</a></li>
+<li class="chapter" data-level="37.1.1" data-path="Wandia.html"><a href="Wandia.html#der-fall-von-wandia"><i class="fa fa-check"></i><b>37.1.1</b> Der Fall von Wandia</a></li>
+<li class="chapter" data-level="37.1.2" data-path="Wandia.html"><a href="Wandia.html#der-kampf-der-kolosse"><i class="fa fa-check"></i><b>37.1.2</b> Der Kampf der Kolosse</a></li>
 </ul></li>
-<li class="chapter" data-level="36.2" data-path="Wandia.html"><a href="Wandia.html#klimatische-bedingungen-9"><i class="fa fa-check"></i><b>36.2</b> Klimatische Bedingungen</a>
+<li class="chapter" data-level="37.2" data-path="Wandia.html"><a href="Wandia.html#klimatische-bedingungen-10"><i class="fa fa-check"></i><b>37.2</b> Klimatische Bedingungen</a>
 <ul>
-<li class="chapter" data-level="36.2.1" data-path="Wandia.html"><a href="Wandia.html#die-flora-und-fauna-9"><i class="fa fa-check"></i><b>36.2.1</b> Die Flora und Fauna</a>
+<li class="chapter" data-level="37.2.1" data-path="Wandia.html"><a href="Wandia.html#die-flora-und-fauna-10"><i class="fa fa-check"></i><b>37.2.1</b> Die Flora und Fauna</a>
 <ul>
-<li class="chapter" data-level="36.2.1.1" data-path="Wandia.html"><a href="Wandia.html#monster-in-der-region-9"><i class="fa fa-check"></i><b>36.2.1.1</b> Monster in der Region</a></li>
+<li class="chapter" data-level="37.2.1.1" data-path="Wandia.html"><a href="Wandia.html#monster-in-der-region-10"><i class="fa fa-check"></i><b>37.2.1.1</b> Monster in der Region</a></li>
 </ul></li>
 </ul></li>
-<li class="chapter" data-level="36.3" data-path="Wandia.html"><a href="Wandia.html#sehenswürdigkeiten-9"><i class="fa fa-check"></i><b>36.3</b> Sehenswürdigkeiten</a></li>
+<li class="chapter" data-level="37.3" data-path="Wandia.html"><a href="Wandia.html#sehenswürdigkeiten-10"><i class="fa fa-check"></i><b>37.3</b> Sehenswürdigkeiten</a></li>
 </ul></li>
-<li class="chapter" data-level="37" data-path="RegionSilvaNacia.html"><a href="RegionSilvaNacia.html"><i class="fa fa-check"></i><b>37</b> Silva Nacia</a>
+<li class="chapter" data-level="38" data-path="RegionSilvaNacia.html"><a href="RegionSilvaNacia.html"><i class="fa fa-check"></i><b>38</b> Silva Nacia</a>
 <ul>
-<li class="chapter" data-level="37.1" data-path="RegionSilvaNacia.html"><a href="RegionSilvaNacia.html#ortschaften-der-region-9"><i class="fa fa-check"></i><b>37.1</b> Ortschaften der Region</a>
+<li class="chapter" data-level="38.1" data-path="RegionSilvaNacia.html"><a href="RegionSilvaNacia.html#ortschaften-der-region-10"><i class="fa fa-check"></i><b>38.1</b> Ortschaften der Region</a>
 <ul>
-<li class="chapter" data-level="37.1.1" data-path="RegionSilvaNacia.html"><a href="RegionSilvaNacia.html#infrastruktur-9"><i class="fa fa-check"></i><b>37.1.1</b> Infrastruktur</a></li>
+<li class="chapter" data-level="38.1.1" data-path="RegionSilvaNacia.html"><a href="RegionSilvaNacia.html#infrastruktur-10"><i class="fa fa-check"></i><b>38.1.1</b> Infrastruktur</a></li>
 </ul></li>
-<li class="chapter" data-level="37.2" data-path="RegionSilvaNacia.html"><a href="RegionSilvaNacia.html#die-geschichte-der-region-9"><i class="fa fa-check"></i><b>37.2</b> Die Geschichte der Region</a></li>
-<li class="chapter" data-level="37.3" data-path="RegionSilvaNacia.html"><a href="RegionSilvaNacia.html#wirtschaftliche-lage-12"><i class="fa fa-check"></i><b>37.3</b> Wirtschaftliche Lage</a>
+<li class="chapter" data-level="38.2" data-path="RegionSilvaNacia.html"><a href="RegionSilvaNacia.html#die-geschichte-der-region-10"><i class="fa fa-check"></i><b>38.2</b> Die Geschichte der Region</a></li>
+<li class="chapter" data-level="38.3" data-path="RegionSilvaNacia.html"><a href="RegionSilvaNacia.html#wirtschaftliche-lage-13"><i class="fa fa-check"></i><b>38.3</b> Wirtschaftliche Lage</a>
 <ul>
-<li class="chapter" data-level="37.3.1" data-path="RegionSilvaNacia.html"><a href="RegionSilvaNacia.html#die-ressourcen-der-region-8"><i class="fa fa-check"></i><b>37.3.1</b> Die Ressourcen der Region</a></li>
+<li class="chapter" data-level="38.3.1" data-path="RegionSilvaNacia.html"><a href="RegionSilvaNacia.html#die-ressourcen-der-region-9"><i class="fa fa-check"></i><b>38.3.1</b> Die Ressourcen der Region</a></li>
 </ul></li>
-<li class="chapter" data-level="37.4" data-path="RegionSilvaNacia.html"><a href="RegionSilvaNacia.html#soziopolitische-lage-14"><i class="fa fa-check"></i><b>37.4</b> Soziopolitische Lage</a>
+<li class="chapter" data-level="38.4" data-path="RegionSilvaNacia.html"><a href="RegionSilvaNacia.html#soziopolitische-lage-15"><i class="fa fa-check"></i><b>38.4</b> Soziopolitische Lage</a>
 <ul>
-<li class="chapter" data-level="37.4.1" data-path="RegionSilvaNacia.html"><a href="RegionSilvaNacia.html#herrschaftsystemorganisation-14"><i class="fa fa-check"></i><b>37.4.1</b> Herrschaftsystem/Organisation</a></li>
+<li class="chapter" data-level="38.4.1" data-path="RegionSilvaNacia.html"><a href="RegionSilvaNacia.html#herrschaftsystemorganisation-15"><i class="fa fa-check"></i><b>38.4.1</b> Herrschaftsystem/Organisation</a></li>
 </ul></li>
-<li class="chapter" data-level="37.5" data-path="RegionSilvaNacia.html"><a href="RegionSilvaNacia.html#klimatische-bedingungen-10"><i class="fa fa-check"></i><b>37.5</b> Klimatische Bedingungen</a>
+<li class="chapter" data-level="38.5" data-path="RegionSilvaNacia.html"><a href="RegionSilvaNacia.html#klimatische-bedingungen-11"><i class="fa fa-check"></i><b>38.5</b> Klimatische Bedingungen</a>
 <ul>
-<li class="chapter" data-level="37.5.1" data-path="RegionSilvaNacia.html"><a href="RegionSilvaNacia.html#SilvaNaciaWald"><i class="fa fa-check"></i><b>37.5.1</b> Die Flora und Fauna</a>
+<li class="chapter" data-level="38.5.1" data-path="RegionSilvaNacia.html"><a href="RegionSilvaNacia.html#SilvaNaciaWald"><i class="fa fa-check"></i><b>38.5.1</b> Die Flora und Fauna</a>
 <ul>
-<li class="chapter" data-level="37.5.1.1" data-path="RegionSilvaNacia.html"><a href="RegionSilvaNacia.html#monster-in-der-region-10"><i class="fa fa-check"></i><b>37.5.1.1</b> Monster in der Region</a></li>
+<li class="chapter" data-level="38.5.1.1" data-path="RegionSilvaNacia.html"><a href="RegionSilvaNacia.html#monster-in-der-region-11"><i class="fa fa-check"></i><b>38.5.1.1</b> Monster in der Region</a></li>
 </ul></li>
 </ul></li>
-<li class="chapter" data-level="37.6" data-path="RegionSilvaNacia.html"><a href="RegionSilvaNacia.html#gerüchte-der-region-9"><i class="fa fa-check"></i><b>37.6</b> Gerüchte der Region</a></li>
-<li class="chapter" data-level="37.7" data-path="RegionSilvaNacia.html"><a href="RegionSilvaNacia.html#sehenswürdigkeiten-10"><i class="fa fa-check"></i><b>37.7</b> Sehenswürdigkeiten</a></li>
+<li class="chapter" data-level="38.6" data-path="RegionSilvaNacia.html"><a href="RegionSilvaNacia.html#gerüchte-der-region-10"><i class="fa fa-check"></i><b>38.6</b> Gerüchte der Region</a></li>
+<li class="chapter" data-level="38.7" data-path="RegionSilvaNacia.html"><a href="RegionSilvaNacia.html#sehenswürdigkeiten-11"><i class="fa fa-check"></i><b>38.7</b> Sehenswürdigkeiten</a></li>
 </ul></li>
-<li class="chapter" data-level="38" data-path="das-himmelsspitzen-gebirge.html"><a href="das-himmelsspitzen-gebirge.html"><i class="fa fa-check"></i><b>38</b> Das Himmelsspitzen-Gebirge</a>
+<li class="chapter" data-level="39" data-path="das-himmelsspitzen-gebirge.html"><a href="das-himmelsspitzen-gebirge.html"><i class="fa fa-check"></i><b>39</b> Das Himmelsspitzen-Gebirge</a>
 <ul>
-<li class="chapter" data-level="38.1" data-path="das-himmelsspitzen-gebirge.html"><a href="das-himmelsspitzen-gebirge.html#ortschaften-der-region-10"><i class="fa fa-check"></i><b>38.1</b> Ortschaften der Region</a>
+<li class="chapter" data-level="39.1" data-path="das-himmelsspitzen-gebirge.html"><a href="das-himmelsspitzen-gebirge.html#ortschaften-der-region-11"><i class="fa fa-check"></i><b>39.1</b> Ortschaften der Region</a>
 <ul>
-<li class="chapter" data-level="38.1.1" data-path="das-himmelsspitzen-gebirge.html"><a href="das-himmelsspitzen-gebirge.html#infrastruktur-10"><i class="fa fa-check"></i><b>38.1.1</b> Infrastruktur</a></li>
+<li class="chapter" data-level="39.1.1" data-path="das-himmelsspitzen-gebirge.html"><a href="das-himmelsspitzen-gebirge.html#infrastruktur-11"><i class="fa fa-check"></i><b>39.1.1</b> Infrastruktur</a></li>
 </ul></li>
-<li class="chapter" data-level="38.2" data-path="das-himmelsspitzen-gebirge.html"><a href="das-himmelsspitzen-gebirge.html#die-geschichte-der-region-10"><i class="fa fa-check"></i><b>38.2</b> Die Geschichte der Region</a></li>
-<li class="chapter" data-level="38.3" data-path="das-himmelsspitzen-gebirge.html"><a href="das-himmelsspitzen-gebirge.html#wirtschaftliche-lage-13"><i class="fa fa-check"></i><b>38.3</b> Wirtschaftliche Lage</a>
+<li class="chapter" data-level="39.2" data-path="das-himmelsspitzen-gebirge.html"><a href="das-himmelsspitzen-gebirge.html#die-geschichte-der-region-11"><i class="fa fa-check"></i><b>39.2</b> Die Geschichte der Region</a></li>
+<li class="chapter" data-level="39.3" data-path="das-himmelsspitzen-gebirge.html"><a href="das-himmelsspitzen-gebirge.html#wirtschaftliche-lage-14"><i class="fa fa-check"></i><b>39.3</b> Wirtschaftliche Lage</a>
 <ul>
-<li class="chapter" data-level="38.3.1" data-path="das-himmelsspitzen-gebirge.html"><a href="das-himmelsspitzen-gebirge.html#die-ressourcen-der-region-9"><i class="fa fa-check"></i><b>38.3.1</b> Die Ressourcen der Region</a></li>
+<li class="chapter" data-level="39.3.1" data-path="das-himmelsspitzen-gebirge.html"><a href="das-himmelsspitzen-gebirge.html#die-ressourcen-der-region-10"><i class="fa fa-check"></i><b>39.3.1</b> Die Ressourcen der Region</a></li>
 </ul></li>
-<li class="chapter" data-level="38.4" data-path="das-himmelsspitzen-gebirge.html"><a href="das-himmelsspitzen-gebirge.html#soziopolitische-lage-15"><i class="fa fa-check"></i><b>38.4</b> Soziopolitische Lage</a>
+<li class="chapter" data-level="39.4" data-path="das-himmelsspitzen-gebirge.html"><a href="das-himmelsspitzen-gebirge.html#soziopolitische-lage-16"><i class="fa fa-check"></i><b>39.4</b> Soziopolitische Lage</a>
 <ul>
-<li class="chapter" data-level="38.4.1" data-path="das-himmelsspitzen-gebirge.html"><a href="das-himmelsspitzen-gebirge.html#herrschaftsystemorganisation-15"><i class="fa fa-check"></i><b>38.4.1</b> Herrschaftsystem/Organisation</a></li>
+<li class="chapter" data-level="39.4.1" data-path="das-himmelsspitzen-gebirge.html"><a href="das-himmelsspitzen-gebirge.html#herrschaftsystemorganisation-16"><i class="fa fa-check"></i><b>39.4.1</b> Herrschaftsystem/Organisation</a></li>
 </ul></li>
-<li class="chapter" data-level="38.5" data-path="das-himmelsspitzen-gebirge.html"><a href="das-himmelsspitzen-gebirge.html#klimatische-bedingungen-11"><i class="fa fa-check"></i><b>38.5</b> Klimatische Bedingungen</a>
+<li class="chapter" data-level="39.5" data-path="das-himmelsspitzen-gebirge.html"><a href="das-himmelsspitzen-gebirge.html#klimatische-bedingungen-12"><i class="fa fa-check"></i><b>39.5</b> Klimatische Bedingungen</a>
 <ul>
-<li class="chapter" data-level="38.5.1" data-path="das-himmelsspitzen-gebirge.html"><a href="das-himmelsspitzen-gebirge.html#die-flora-und-fauna-10"><i class="fa fa-check"></i><b>38.5.1</b> Die Flora und Fauna</a>
+<li class="chapter" data-level="39.5.1" data-path="das-himmelsspitzen-gebirge.html"><a href="das-himmelsspitzen-gebirge.html#die-flora-und-fauna-11"><i class="fa fa-check"></i><b>39.5.1</b> Die Flora und Fauna</a>
 <ul>
-<li class="chapter" data-level="38.5.1.1" data-path="das-himmelsspitzen-gebirge.html"><a href="das-himmelsspitzen-gebirge.html#monster-in-der-region-11"><i class="fa fa-check"></i><b>38.5.1.1</b> Monster in der Region</a></li>
+<li class="chapter" data-level="39.5.1.1" data-path="das-himmelsspitzen-gebirge.html"><a href="das-himmelsspitzen-gebirge.html#monster-in-der-region-12"><i class="fa fa-check"></i><b>39.5.1.1</b> Monster in der Region</a></li>
 </ul></li>
 </ul></li>
-<li class="chapter" data-level="38.6" data-path="das-himmelsspitzen-gebirge.html"><a href="das-himmelsspitzen-gebirge.html#gerüchte-der-region-10"><i class="fa fa-check"></i><b>38.6</b> Gerüchte der Region</a></li>
-<li class="chapter" data-level="38.7" data-path="das-himmelsspitzen-gebirge.html"><a href="das-himmelsspitzen-gebirge.html#sehenswürdigkeiten-11"><i class="fa fa-check"></i><b>38.7</b> Sehenswürdigkeiten</a></li>
+<li class="chapter" data-level="39.6" data-path="das-himmelsspitzen-gebirge.html"><a href="das-himmelsspitzen-gebirge.html#gerüchte-der-region-11"><i class="fa fa-check"></i><b>39.6</b> Gerüchte der Region</a></li>
+<li class="chapter" data-level="39.7" data-path="das-himmelsspitzen-gebirge.html"><a href="das-himmelsspitzen-gebirge.html#sehenswürdigkeiten-12"><i class="fa fa-check"></i><b>39.7</b> Sehenswürdigkeiten</a></li>
 </ul></li>
-<li class="chapter" data-level="39" data-path="der-nebelhain.html"><a href="der-nebelhain.html"><i class="fa fa-check"></i><b>39</b> Der Nebelhain</a>
+<li class="chapter" data-level="40" data-path="der-nebelhain.html"><a href="der-nebelhain.html"><i class="fa fa-check"></i><b>40</b> Der Nebelhain</a>
 <ul>
-<li class="chapter" data-level="39.1" data-path="der-nebelhain.html"><a href="der-nebelhain.html#ortschaften-der-region-11"><i class="fa fa-check"></i><b>39.1</b> Ortschaften der Region</a>
+<li class="chapter" data-level="40.1" data-path="der-nebelhain.html"><a href="der-nebelhain.html#ortschaften-der-region-12"><i class="fa fa-check"></i><b>40.1</b> Ortschaften der Region</a>
 <ul>
-<li class="chapter" data-level="39.1.1" data-path="der-nebelhain.html"><a href="der-nebelhain.html#alt-haag"><i class="fa fa-check"></i><b>39.1.1</b> Alt-Haag</a></li>
-<li class="chapter" data-level="39.1.2" data-path="der-nebelhain.html"><a href="der-nebelhain.html#eiden"><i class="fa fa-check"></i><b>39.1.2</b> Eiden</a></li>
-<li class="chapter" data-level="39.1.3" data-path="der-nebelhain.html"><a href="der-nebelhain.html#ash-main-tahp-hejning"><i class="fa fa-check"></i><b>39.1.3</b> Ash-Main-Tahp / Hejning</a></li>
-<li class="chapter" data-level="39.1.4" data-path="der-nebelhain.html"><a href="der-nebelhain.html#infrastruktur-11"><i class="fa fa-check"></i><b>39.1.4</b> Infrastruktur</a></li>
+<li class="chapter" data-level="40.1.1" data-path="der-nebelhain.html"><a href="der-nebelhain.html#alt-haag"><i class="fa fa-check"></i><b>40.1.1</b> Alt-Haag</a></li>
+<li class="chapter" data-level="40.1.2" data-path="der-nebelhain.html"><a href="der-nebelhain.html#eiden"><i class="fa fa-check"></i><b>40.1.2</b> Eiden</a></li>
+<li class="chapter" data-level="40.1.3" data-path="der-nebelhain.html"><a href="der-nebelhain.html#ash-main-tahp-hejning"><i class="fa fa-check"></i><b>40.1.3</b> Ash-Main-Tahp / Hejning</a></li>
+<li class="chapter" data-level="40.1.4" data-path="der-nebelhain.html"><a href="der-nebelhain.html#infrastruktur-12"><i class="fa fa-check"></i><b>40.1.4</b> Infrastruktur</a></li>
 </ul></li>
-<li class="chapter" data-level="39.2" data-path="der-nebelhain.html"><a href="der-nebelhain.html#die-geschichte-der-region-11"><i class="fa fa-check"></i><b>39.2</b> Die Geschichte der Region</a></li>
-<li class="chapter" data-level="39.3" data-path="der-nebelhain.html"><a href="der-nebelhain.html#wirtschaftliche-lage-14"><i class="fa fa-check"></i><b>39.3</b> Wirtschaftliche Lage</a>
+<li class="chapter" data-level="40.2" data-path="der-nebelhain.html"><a href="der-nebelhain.html#die-geschichte-der-region-12"><i class="fa fa-check"></i><b>40.2</b> Die Geschichte der Region</a></li>
+<li class="chapter" data-level="40.3" data-path="der-nebelhain.html"><a href="der-nebelhain.html#wirtschaftliche-lage-15"><i class="fa fa-check"></i><b>40.3</b> Wirtschaftliche Lage</a>
 <ul>
-<li class="chapter" data-level="39.3.1" data-path="der-nebelhain.html"><a href="der-nebelhain.html#die-ressourcen-der-region-10"><i class="fa fa-check"></i><b>39.3.1</b> Die Ressourcen der Region</a></li>
+<li class="chapter" data-level="40.3.1" data-path="der-nebelhain.html"><a href="der-nebelhain.html#die-ressourcen-der-region-11"><i class="fa fa-check"></i><b>40.3.1</b> Die Ressourcen der Region</a></li>
 </ul></li>
-<li class="chapter" data-level="39.4" data-path="der-nebelhain.html"><a href="der-nebelhain.html#soziopolitische-lage-16"><i class="fa fa-check"></i><b>39.4</b> Soziopolitische Lage</a>
+<li class="chapter" data-level="40.4" data-path="der-nebelhain.html"><a href="der-nebelhain.html#soziopolitische-lage-17"><i class="fa fa-check"></i><b>40.4</b> Soziopolitische Lage</a>
 <ul>
-<li class="chapter" data-level="39.4.1" data-path="der-nebelhain.html"><a href="der-nebelhain.html#herrschaftsystemorganisation-16"><i class="fa fa-check"></i><b>39.4.1</b> Herrschaftsystem/Organisation</a></li>
+<li class="chapter" data-level="40.4.1" data-path="der-nebelhain.html"><a href="der-nebelhain.html#herrschaftsystemorganisation-17"><i class="fa fa-check"></i><b>40.4.1</b> Herrschaftsystem/Organisation</a></li>
 </ul></li>
-<li class="chapter" data-level="39.5" data-path="der-nebelhain.html"><a href="der-nebelhain.html#klimatische-bedingungen-12"><i class="fa fa-check"></i><b>39.5</b> Klimatische Bedingungen</a>
+<li class="chapter" data-level="40.5" data-path="der-nebelhain.html"><a href="der-nebelhain.html#klimatische-bedingungen-13"><i class="fa fa-check"></i><b>40.5</b> Klimatische Bedingungen</a>
 <ul>
-<li class="chapter" data-level="39.5.1" data-path="der-nebelhain.html"><a href="der-nebelhain.html#die-flora-und-fauna-11"><i class="fa fa-check"></i><b>39.5.1</b> Die Flora und Fauna</a>
+<li class="chapter" data-level="40.5.1" data-path="der-nebelhain.html"><a href="der-nebelhain.html#die-flora-und-fauna-12"><i class="fa fa-check"></i><b>40.5.1</b> Die Flora und Fauna</a>
 <ul>
-<li class="chapter" data-level="39.5.1.1" data-path="der-nebelhain.html"><a href="der-nebelhain.html#monster-in-der-region-12"><i class="fa fa-check"></i><b>39.5.1.1</b> Monster in der Region</a></li>
-<li class="chapter" data-level="39.5.1.2" data-path="der-nebelhain.html"><a href="der-nebelhain.html#der-häuter-von-eiden"><i class="fa fa-check"></i><b>39.5.1.2</b> Der Häuter von Eiden</a></li>
+<li class="chapter" data-level="40.5.1.1" data-path="der-nebelhain.html"><a href="der-nebelhain.html#monster-in-der-region-13"><i class="fa fa-check"></i><b>40.5.1.1</b> Monster in der Region</a></li>
+<li class="chapter" data-level="40.5.1.2" data-path="der-nebelhain.html"><a href="der-nebelhain.html#der-häuter-von-eiden"><i class="fa fa-check"></i><b>40.5.1.2</b> Der Häuter von Eiden</a></li>
 </ul></li>
 </ul></li>
-<li class="chapter" data-level="39.6" data-path="der-nebelhain.html"><a href="der-nebelhain.html#gerüchte-der-region-11"><i class="fa fa-check"></i><b>39.6</b> Gerüchte der Region</a></li>
-<li class="chapter" data-level="39.7" data-path="der-nebelhain.html"><a href="der-nebelhain.html#sehenswürdigkeiten-12"><i class="fa fa-check"></i><b>39.7</b> Sehenswürdigkeiten</a></li>
-<li class="chapter" data-level="39.8" data-path="der-nebelhain.html"><a href="der-nebelhain.html#ab-hier-veraltetes-lore"><i class="fa fa-check"></i><b>39.8</b> AB hier veraltetes Lore</a></li>
-<li class="chapter" data-level="39.9" data-path="der-nebelhain.html"><a href="der-nebelhain.html#NebelhainHintergrund"><i class="fa fa-check"></i><b>39.9</b> Wissenswertes über den Nebelhain</a></li>
-<li class="chapter" data-level="39.10" data-path="der-nebelhain.html"><a href="der-nebelhain.html#die-sumpfbewohner"><i class="fa fa-check"></i><b>39.10</b> Die Sumpfbewohner</a></li>
-<li class="chapter" data-level="39.11" data-path="der-nebelhain.html"><a href="der-nebelhain.html#flora-und-fauna"><i class="fa fa-check"></i><b>39.11</b> Flora und Fauna</a>
+<li class="chapter" data-level="40.6" data-path="der-nebelhain.html"><a href="der-nebelhain.html#gerüchte-der-region-12"><i class="fa fa-check"></i><b>40.6</b> Gerüchte der Region</a></li>
+<li class="chapter" data-level="40.7" data-path="der-nebelhain.html"><a href="der-nebelhain.html#sehenswürdigkeiten-13"><i class="fa fa-check"></i><b>40.7</b> Sehenswürdigkeiten</a></li>
+<li class="chapter" data-level="40.8" data-path="der-nebelhain.html"><a href="der-nebelhain.html#ab-hier-veraltetes-lore"><i class="fa fa-check"></i><b>40.8</b> AB hier veraltetes Lore</a></li>
+<li class="chapter" data-level="40.9" data-path="der-nebelhain.html"><a href="der-nebelhain.html#NebelhainHintergrund"><i class="fa fa-check"></i><b>40.9</b> Wissenswertes über den Nebelhain</a></li>
+<li class="chapter" data-level="40.10" data-path="der-nebelhain.html"><a href="der-nebelhain.html#die-sumpfbewohner"><i class="fa fa-check"></i><b>40.10</b> Die Sumpfbewohner</a></li>
+<li class="chapter" data-level="40.11" data-path="der-nebelhain.html"><a href="der-nebelhain.html#flora-und-fauna"><i class="fa fa-check"></i><b>40.11</b> Flora und Fauna</a>
 <ul>
-<li class="chapter" data-level="39.11.1" data-path="der-nebelhain.html"><a href="der-nebelhain.html#swamp-turtle"><i class="fa fa-check"></i><b>39.11.1</b> Swamp turtle</a></li>
-<li class="chapter" data-level="39.11.2" data-path="der-nebelhain.html"><a href="der-nebelhain.html#cornelius"><i class="fa fa-check"></i><b>39.11.2</b> Cornelius</a></li>
+<li class="chapter" data-level="40.11.1" data-path="der-nebelhain.html"><a href="der-nebelhain.html#swamp-turtle"><i class="fa fa-check"></i><b>40.11.1</b> Swamp turtle</a></li>
+<li class="chapter" data-level="40.11.2" data-path="der-nebelhain.html"><a href="der-nebelhain.html#cornelius"><i class="fa fa-check"></i><b>40.11.2</b> Cornelius</a></li>
 </ul></li>
 </ul></li>
-<li class="chapter" data-level="40" data-path="BermaTal.html"><a href="BermaTal.html"><i class="fa fa-check"></i><b>40</b> Das Berma-Tal</a>
+<li class="chapter" data-level="41" data-path="BermaTal.html"><a href="BermaTal.html"><i class="fa fa-check"></i><b>41</b> Das Berma-Tal</a>
 <ul>
-<li class="chapter" data-level="40.1" data-path="BermaTal.html"><a href="BermaTal.html#ortschaften-der-region-12"><i class="fa fa-check"></i><b>40.1</b> Ortschaften der Region</a>
+<li class="chapter" data-level="41.1" data-path="BermaTal.html"><a href="BermaTal.html#ortschaften-der-region-13"><i class="fa fa-check"></i><b>41.1</b> Ortschaften der Region</a>
 <ul>
-<li class="chapter" data-level="40.1.1" data-path="BermaTal.html"><a href="BermaTal.html#infrastruktur-12"><i class="fa fa-check"></i><b>40.1.1</b> Infrastruktur</a></li>
+<li class="chapter" data-level="41.1.1" data-path="BermaTal.html"><a href="BermaTal.html#infrastruktur-13"><i class="fa fa-check"></i><b>41.1.1</b> Infrastruktur</a></li>
 </ul></li>
-<li class="chapter" data-level="40.2" data-path="BermaTal.html"><a href="BermaTal.html#die-geschichte-der-region-12"><i class="fa fa-check"></i><b>40.2</b> Die Geschichte der Region</a></li>
-<li class="chapter" data-level="40.3" data-path="BermaTal.html"><a href="BermaTal.html#wirtschaftliche-lage-15"><i class="fa fa-check"></i><b>40.3</b> Wirtschaftliche Lage</a>
+<li class="chapter" data-level="41.2" data-path="BermaTal.html"><a href="BermaTal.html#die-geschichte-der-region-13"><i class="fa fa-check"></i><b>41.2</b> Die Geschichte der Region</a></li>
+<li class="chapter" data-level="41.3" data-path="BermaTal.html"><a href="BermaTal.html#wirtschaftliche-lage-16"><i class="fa fa-check"></i><b>41.3</b> Wirtschaftliche Lage</a>
 <ul>
-<li class="chapter" data-level="40.3.1" data-path="BermaTal.html"><a href="BermaTal.html#die-ressourcen-der-region-11"><i class="fa fa-check"></i><b>40.3.1</b> Die Ressourcen der Region</a></li>
+<li class="chapter" data-level="41.3.1" data-path="BermaTal.html"><a href="BermaTal.html#die-ressourcen-der-region-12"><i class="fa fa-check"></i><b>41.3.1</b> Die Ressourcen der Region</a></li>
 </ul></li>
-<li class="chapter" data-level="40.4" data-path="BermaTal.html"><a href="BermaTal.html#soziopolitische-lage-17"><i class="fa fa-check"></i><b>40.4</b> Soziopolitische Lage</a>
+<li class="chapter" data-level="41.4" data-path="BermaTal.html"><a href="BermaTal.html#soziopolitische-lage-18"><i class="fa fa-check"></i><b>41.4</b> Soziopolitische Lage</a>
 <ul>
-<li class="chapter" data-level="40.4.1" data-path="BermaTal.html"><a href="BermaTal.html#herrschaftsystemorganisation-17"><i class="fa fa-check"></i><b>40.4.1</b> Herrschaftsystem/Organisation</a></li>
+<li class="chapter" data-level="41.4.1" data-path="BermaTal.html"><a href="BermaTal.html#herrschaftsystemorganisation-18"><i class="fa fa-check"></i><b>41.4.1</b> Herrschaftsystem/Organisation</a></li>
 </ul></li>
-<li class="chapter" data-level="40.5" data-path="BermaTal.html"><a href="BermaTal.html#klimatische-bedingungen-13"><i class="fa fa-check"></i><b>40.5</b> Klimatische Bedingungen</a>
+<li class="chapter" data-level="41.5" data-path="BermaTal.html"><a href="BermaTal.html#klimatische-bedingungen-14"><i class="fa fa-check"></i><b>41.5</b> Klimatische Bedingungen</a>
 <ul>
-<li class="chapter" data-level="40.5.1" data-path="BermaTal.html"><a href="BermaTal.html#die-flora-und-fauna-12"><i class="fa fa-check"></i><b>40.5.1</b> Die Flora und Fauna</a>
+<li class="chapter" data-level="41.5.1" data-path="BermaTal.html"><a href="BermaTal.html#die-flora-und-fauna-13"><i class="fa fa-check"></i><b>41.5.1</b> Die Flora und Fauna</a>
 <ul>
-<li class="chapter" data-level="40.5.1.1" data-path="BermaTal.html"><a href="BermaTal.html#monster-in-der-region-13"><i class="fa fa-check"></i><b>40.5.1.1</b> Monster in der Region</a></li>
+<li class="chapter" data-level="41.5.1.1" data-path="BermaTal.html"><a href="BermaTal.html#monster-in-der-region-14"><i class="fa fa-check"></i><b>41.5.1.1</b> Monster in der Region</a></li>
 </ul></li>
 </ul></li>
-<li class="chapter" data-level="40.6" data-path="BermaTal.html"><a href="BermaTal.html#gerüchte-der-region-12"><i class="fa fa-check"></i><b>40.6</b> Gerüchte der Region</a></li>
-<li class="chapter" data-level="40.7" data-path="BermaTal.html"><a href="BermaTal.html#sehenswürdigkeiten-13"><i class="fa fa-check"></i><b>40.7</b> Sehenswürdigkeiten</a></li>
+<li class="chapter" data-level="41.6" data-path="BermaTal.html"><a href="BermaTal.html#gerüchte-der-region-13"><i class="fa fa-check"></i><b>41.6</b> Gerüchte der Region</a></li>
+<li class="chapter" data-level="41.7" data-path="BermaTal.html"><a href="BermaTal.html#sehenswürdigkeiten-14"><i class="fa fa-check"></i><b>41.7</b> Sehenswürdigkeiten</a></li>
 </ul></li>
-<li class="chapter" data-level="41" data-path="appothis.html"><a href="appothis.html"><i class="fa fa-check"></i><b>41</b> Appothis</a>
+<li class="chapter" data-level="42" data-path="appothis.html"><a href="appothis.html"><i class="fa fa-check"></i><b>42</b> Appothis</a>
 <ul>
-<li class="chapter" data-level="41.1" data-path="appothis.html"><a href="appothis.html#ortschaften-der-region-13"><i class="fa fa-check"></i><b>41.1</b> Ortschaften der Region</a>
+<li class="chapter" data-level="42.1" data-path="appothis.html"><a href="appothis.html#ortschaften-der-region-14"><i class="fa fa-check"></i><b>42.1</b> Ortschaften der Region</a>
 <ul>
-<li class="chapter" data-level="41.1.1" data-path="appothis.html"><a href="appothis.html#infrastruktur-13"><i class="fa fa-check"></i><b>41.1.1</b> Infrastruktur</a></li>
+<li class="chapter" data-level="42.1.1" data-path="appothis.html"><a href="appothis.html#infrastruktur-14"><i class="fa fa-check"></i><b>42.1.1</b> Infrastruktur</a></li>
 </ul></li>
-<li class="chapter" data-level="41.2" data-path="appothis.html"><a href="appothis.html#die-geschichte-der-region-13"><i class="fa fa-check"></i><b>41.2</b> Die Geschichte der Region</a></li>
-<li class="chapter" data-level="41.3" data-path="appothis.html"><a href="appothis.html#wirtschaftliche-lage-16"><i class="fa fa-check"></i><b>41.3</b> Wirtschaftliche Lage</a>
+<li class="chapter" data-level="42.2" data-path="appothis.html"><a href="appothis.html#die-geschichte-der-region-14"><i class="fa fa-check"></i><b>42.2</b> Die Geschichte der Region</a></li>
+<li class="chapter" data-level="42.3" data-path="appothis.html"><a href="appothis.html#wirtschaftliche-lage-17"><i class="fa fa-check"></i><b>42.3</b> Wirtschaftliche Lage</a>
 <ul>
-<li class="chapter" data-level="41.3.1" data-path="appothis.html"><a href="appothis.html#die-ressourcen-der-region-12"><i class="fa fa-check"></i><b>41.3.1</b> Die Ressourcen der Region</a></li>
+<li class="chapter" data-level="42.3.1" data-path="appothis.html"><a href="appothis.html#die-ressourcen-der-region-13"><i class="fa fa-check"></i><b>42.3.1</b> Die Ressourcen der Region</a></li>
 </ul></li>
-<li class="chapter" data-level="41.4" data-path="appothis.html"><a href="appothis.html#soziopolitische-lage-18"><i class="fa fa-check"></i><b>41.4</b> Soziopolitische Lage</a>
+<li class="chapter" data-level="42.4" data-path="appothis.html"><a href="appothis.html#soziopolitische-lage-19"><i class="fa fa-check"></i><b>42.4</b> Soziopolitische Lage</a>
 <ul>
-<li class="chapter" data-level="41.4.1" data-path="appothis.html"><a href="appothis.html#herrschaftsystemorganisation-18"><i class="fa fa-check"></i><b>41.4.1</b> Herrschaftsystem/Organisation</a></li>
+<li class="chapter" data-level="42.4.1" data-path="appothis.html"><a href="appothis.html#herrschaftsystemorganisation-19"><i class="fa fa-check"></i><b>42.4.1</b> Herrschaftsystem/Organisation</a></li>
 </ul></li>
-<li class="chapter" data-level="41.5" data-path="appothis.html"><a href="appothis.html#klimatische-bedingungen-14"><i class="fa fa-check"></i><b>41.5</b> Klimatische Bedingungen</a>
+<li class="chapter" data-level="42.5" data-path="appothis.html"><a href="appothis.html#klimatische-bedingungen-15"><i class="fa fa-check"></i><b>42.5</b> Klimatische Bedingungen</a>
 <ul>
-<li class="chapter" data-level="41.5.1" data-path="appothis.html"><a href="appothis.html#die-flora-und-fauna-13"><i class="fa fa-check"></i><b>41.5.1</b> Die Flora und Fauna</a>
+<li class="chapter" data-level="42.5.1" data-path="appothis.html"><a href="appothis.html#die-flora-und-fauna-14"><i class="fa fa-check"></i><b>42.5.1</b> Die Flora und Fauna</a>
 <ul>
-<li class="chapter" data-level="41.5.1.1" data-path="appothis.html"><a href="appothis.html#monster-in-der-region-14"><i class="fa fa-check"></i><b>41.5.1.1</b> Monster in der Region</a></li>
+<li class="chapter" data-level="42.5.1.1" data-path="appothis.html"><a href="appothis.html#monster-in-der-region-15"><i class="fa fa-check"></i><b>42.5.1.1</b> Monster in der Region</a></li>
 </ul></li>
 </ul></li>
-<li class="chapter" data-level="41.6" data-path="appothis.html"><a href="appothis.html#gerüchte-der-region-13"><i class="fa fa-check"></i><b>41.6</b> Gerüchte der Region</a></li>
-<li class="chapter" data-level="41.7" data-path="appothis.html"><a href="appothis.html#sehenswürdigkeiten-14"><i class="fa fa-check"></i><b>41.7</b> Sehenswürdigkeiten</a></li>
+<li class="chapter" data-level="42.6" data-path="appothis.html"><a href="appothis.html#gerüchte-der-region-14"><i class="fa fa-check"></i><b>42.6</b> Gerüchte der Region</a></li>
+<li class="chapter" data-level="42.7" data-path="appothis.html"><a href="appothis.html#sehenswürdigkeiten-15"><i class="fa fa-check"></i><b>42.7</b> Sehenswürdigkeiten</a></li>
 </ul></li>
-<li class="chapter" data-level="42" data-path="eid-rah-kari.html"><a href="eid-rah-kari.html"><i class="fa fa-check"></i><b>42</b> Eid’ Rah Kari</a>
+<li class="chapter" data-level="43" data-path="eid-rah-kari.html"><a href="eid-rah-kari.html"><i class="fa fa-check"></i><b>43</b> Eid’ Rah Kari</a>
 <ul>
-<li class="chapter" data-level="42.1" data-path="eid-rah-kari.html"><a href="eid-rah-kari.html#ortschaften-der-region-14"><i class="fa fa-check"></i><b>42.1</b> Ortschaften der Region</a>
+<li class="chapter" data-level="43.1" data-path="eid-rah-kari.html"><a href="eid-rah-kari.html#ortschaften-der-region-15"><i class="fa fa-check"></i><b>43.1</b> Ortschaften der Region</a>
 <ul>
-<li class="chapter" data-level="42.1.1" data-path="eid-rah-kari.html"><a href="eid-rah-kari.html#infrastruktur-14"><i class="fa fa-check"></i><b>42.1.1</b> Infrastruktur</a></li>
+<li class="chapter" data-level="43.1.1" data-path="eid-rah-kari.html"><a href="eid-rah-kari.html#infrastruktur-15"><i class="fa fa-check"></i><b>43.1.1</b> Infrastruktur</a></li>
 </ul></li>
-<li class="chapter" data-level="42.2" data-path="eid-rah-kari.html"><a href="eid-rah-kari.html#die-geschichte-der-region-14"><i class="fa fa-check"></i><b>42.2</b> Die Geschichte der Region</a></li>
-<li class="chapter" data-level="42.3" data-path="eid-rah-kari.html"><a href="eid-rah-kari.html#wirtschaftliche-lage-17"><i class="fa fa-check"></i><b>42.3</b> Wirtschaftliche Lage</a>
+<li class="chapter" data-level="43.2" data-path="eid-rah-kari.html"><a href="eid-rah-kari.html#die-geschichte-der-region-15"><i class="fa fa-check"></i><b>43.2</b> Die Geschichte der Region</a></li>
+<li class="chapter" data-level="43.3" data-path="eid-rah-kari.html"><a href="eid-rah-kari.html#wirtschaftliche-lage-18"><i class="fa fa-check"></i><b>43.3</b> Wirtschaftliche Lage</a>
 <ul>
-<li class="chapter" data-level="42.3.1" data-path="eid-rah-kari.html"><a href="eid-rah-kari.html#die-ressourcen-der-region-13"><i class="fa fa-check"></i><b>42.3.1</b> Die Ressourcen der Region</a></li>
+<li class="chapter" data-level="43.3.1" data-path="eid-rah-kari.html"><a href="eid-rah-kari.html#die-ressourcen-der-region-14"><i class="fa fa-check"></i><b>43.3.1</b> Die Ressourcen der Region</a></li>
 </ul></li>
-<li class="chapter" data-level="42.4" data-path="eid-rah-kari.html"><a href="eid-rah-kari.html#soziopolitische-lage-19"><i class="fa fa-check"></i><b>42.4</b> Soziopolitische Lage</a>
+<li class="chapter" data-level="43.4" data-path="eid-rah-kari.html"><a href="eid-rah-kari.html#soziopolitische-lage-20"><i class="fa fa-check"></i><b>43.4</b> Soziopolitische Lage</a>
 <ul>
-<li class="chapter" data-level="42.4.1" data-path="eid-rah-kari.html"><a href="eid-rah-kari.html#herrschaftsystemorganisation-19"><i class="fa fa-check"></i><b>42.4.1</b> Herrschaftsystem/Organisation</a></li>
+<li class="chapter" data-level="43.4.1" data-path="eid-rah-kari.html"><a href="eid-rah-kari.html#herrschaftsystemorganisation-20"><i class="fa fa-check"></i><b>43.4.1</b> Herrschaftsystem/Organisation</a></li>
 </ul></li>
-<li class="chapter" data-level="42.5" data-path="eid-rah-kari.html"><a href="eid-rah-kari.html#klimatische-bedingungen-15"><i class="fa fa-check"></i><b>42.5</b> Klimatische Bedingungen</a>
+<li class="chapter" data-level="43.5" data-path="eid-rah-kari.html"><a href="eid-rah-kari.html#klimatische-bedingungen-16"><i class="fa fa-check"></i><b>43.5</b> Klimatische Bedingungen</a>
 <ul>
-<li class="chapter" data-level="42.5.1" data-path="eid-rah-kari.html"><a href="eid-rah-kari.html#die-flora-und-fauna-14"><i class="fa fa-check"></i><b>42.5.1</b> Die Flora und Fauna</a>
+<li class="chapter" data-level="43.5.1" data-path="eid-rah-kari.html"><a href="eid-rah-kari.html#die-flora-und-fauna-15"><i class="fa fa-check"></i><b>43.5.1</b> Die Flora und Fauna</a>
 <ul>
-<li class="chapter" data-level="42.5.1.1" data-path="eid-rah-kari.html"><a href="eid-rah-kari.html#monster-in-der-region-15"><i class="fa fa-check"></i><b>42.5.1.1</b> Monster in der Region</a></li>
+<li class="chapter" data-level="43.5.1.1" data-path="eid-rah-kari.html"><a href="eid-rah-kari.html#monster-in-der-region-16"><i class="fa fa-check"></i><b>43.5.1.1</b> Monster in der Region</a></li>
 </ul></li>
 </ul></li>
-<li class="chapter" data-level="42.6" data-path="eid-rah-kari.html"><a href="eid-rah-kari.html#gerüchte-der-region-14"><i class="fa fa-check"></i><b>42.6</b> Gerüchte der Region</a></li>
-<li class="chapter" data-level="42.7" data-path="eid-rah-kari.html"><a href="eid-rah-kari.html#sehenswürdigkeiten-15"><i class="fa fa-check"></i><b>42.7</b> Sehenswürdigkeiten</a></li>
+<li class="chapter" data-level="43.6" data-path="eid-rah-kari.html"><a href="eid-rah-kari.html#gerüchte-der-region-15"><i class="fa fa-check"></i><b>43.6</b> Gerüchte der Region</a></li>
+<li class="chapter" data-level="43.7" data-path="eid-rah-kari.html"><a href="eid-rah-kari.html#sehenswürdigkeiten-16"><i class="fa fa-check"></i><b>43.7</b> Sehenswürdigkeiten</a></li>
 </ul></li>
-<li class="chapter" data-level="43" data-path="EisenroteWueste.html"><a href="EisenroteWueste.html"><i class="fa fa-check"></i><b>43</b> Die Eisenrote Wüste</a>
+<li class="chapter" data-level="44" data-path="EisenroteWueste.html"><a href="EisenroteWueste.html"><i class="fa fa-check"></i><b>44</b> Die Eisenrote Wüste</a>
 <ul>
-<li class="chapter" data-level="43.1" data-path="EisenroteWueste.html"><a href="EisenroteWueste.html#wurmfall"><i class="fa fa-check"></i><b>43.1</b> Wurmfall</a></li>
-<li class="chapter" data-level="43.2" data-path="EisenroteWueste.html"><a href="EisenroteWueste.html#ortschaften-der-region-15"><i class="fa fa-check"></i><b>43.2</b> Ortschaften der Region</a>
+<li class="chapter" data-level="44.1" data-path="EisenroteWueste.html"><a href="EisenroteWueste.html#wurmfall"><i class="fa fa-check"></i><b>44.1</b> Wurmfall</a></li>
+<li class="chapter" data-level="44.2" data-path="EisenroteWueste.html"><a href="EisenroteWueste.html#ortschaften-der-region-16"><i class="fa fa-check"></i><b>44.2</b> Ortschaften der Region</a>
 <ul>
-<li class="chapter" data-level="43.2.1" data-path="EisenroteWueste.html"><a href="EisenroteWueste.html#infrastruktur-15"><i class="fa fa-check"></i><b>43.2.1</b> Infrastruktur</a></li>
+<li class="chapter" data-level="44.2.1" data-path="EisenroteWueste.html"><a href="EisenroteWueste.html#infrastruktur-16"><i class="fa fa-check"></i><b>44.2.1</b> Infrastruktur</a></li>
 </ul></li>
-<li class="chapter" data-level="43.3" data-path="EisenroteWueste.html"><a href="EisenroteWueste.html#die-geschichte-der-region-15"><i class="fa fa-check"></i><b>43.3</b> Die Geschichte der Region</a></li>
-<li class="chapter" data-level="43.4" data-path="EisenroteWueste.html"><a href="EisenroteWueste.html#wirtschaftliche-lage-18"><i class="fa fa-check"></i><b>43.4</b> Wirtschaftliche Lage</a>
+<li class="chapter" data-level="44.3" data-path="EisenroteWueste.html"><a href="EisenroteWueste.html#die-geschichte-der-region-16"><i class="fa fa-check"></i><b>44.3</b> Die Geschichte der Region</a></li>
+<li class="chapter" data-level="44.4" data-path="EisenroteWueste.html"><a href="EisenroteWueste.html#wirtschaftliche-lage-19"><i class="fa fa-check"></i><b>44.4</b> Wirtschaftliche Lage</a>
 <ul>
-<li class="chapter" data-level="43.4.1" data-path="EisenroteWueste.html"><a href="EisenroteWueste.html#die-ressourcen-der-region-14"><i class="fa fa-check"></i><b>43.4.1</b> Die Ressourcen der Region</a></li>
+<li class="chapter" data-level="44.4.1" data-path="EisenroteWueste.html"><a href="EisenroteWueste.html#die-ressourcen-der-region-15"><i class="fa fa-check"></i><b>44.4.1</b> Die Ressourcen der Region</a></li>
 </ul></li>
-<li class="chapter" data-level="43.5" data-path="EisenroteWueste.html"><a href="EisenroteWueste.html#eroberungszüge-der-rah-kari"><i class="fa fa-check"></i><b>43.5</b> Eroberungszüge der Rah Kari</a></li>
-<li class="chapter" data-level="43.6" data-path="EisenroteWueste.html"><a href="EisenroteWueste.html#soziopolitische-lage-20"><i class="fa fa-check"></i><b>43.6</b> Soziopolitische Lage</a>
+<li class="chapter" data-level="44.5" data-path="EisenroteWueste.html"><a href="EisenroteWueste.html#eroberungszüge-der-rah-kari"><i class="fa fa-check"></i><b>44.5</b> Eroberungszüge der Rah Kari</a></li>
+<li class="chapter" data-level="44.6" data-path="EisenroteWueste.html"><a href="EisenroteWueste.html#soziopolitische-lage-21"><i class="fa fa-check"></i><b>44.6</b> Soziopolitische Lage</a>
 <ul>
-<li class="chapter" data-level="43.6.1" data-path="EisenroteWueste.html"><a href="EisenroteWueste.html#herrschaftsystemorganisation-20"><i class="fa fa-check"></i><b>43.6.1</b> Herrschaftsystem/Organisation</a></li>
+<li class="chapter" data-level="44.6.1" data-path="EisenroteWueste.html"><a href="EisenroteWueste.html#herrschaftsystemorganisation-21"><i class="fa fa-check"></i><b>44.6.1</b> Herrschaftsystem/Organisation</a></li>
 </ul></li>
-<li class="chapter" data-level="43.7" data-path="EisenroteWueste.html"><a href="EisenroteWueste.html#klimatische-bedingungen-16"><i class="fa fa-check"></i><b>43.7</b> Klimatische Bedingungen</a>
+<li class="chapter" data-level="44.7" data-path="EisenroteWueste.html"><a href="EisenroteWueste.html#klimatische-bedingungen-17"><i class="fa fa-check"></i><b>44.7</b> Klimatische Bedingungen</a>
 <ul>
-<li class="chapter" data-level="43.7.1" data-path="EisenroteWueste.html"><a href="EisenroteWueste.html#die-flora-und-fauna-15"><i class="fa fa-check"></i><b>43.7.1</b> Die Flora und Fauna</a>
+<li class="chapter" data-level="44.7.1" data-path="EisenroteWueste.html"><a href="EisenroteWueste.html#die-flora-und-fauna-16"><i class="fa fa-check"></i><b>44.7.1</b> Die Flora und Fauna</a>
 <ul>
-<li class="chapter" data-level="43.7.1.1" data-path="EisenroteWueste.html"><a href="EisenroteWueste.html#monster-in-der-region-16"><i class="fa fa-check"></i><b>43.7.1.1</b> Monster in der Region</a></li>
+<li class="chapter" data-level="44.7.1.1" data-path="EisenroteWueste.html"><a href="EisenroteWueste.html#monster-in-der-region-17"><i class="fa fa-check"></i><b>44.7.1.1</b> Monster in der Region</a></li>
 </ul></li>
 </ul></li>
-<li class="chapter" data-level="43.8" data-path="EisenroteWueste.html"><a href="EisenroteWueste.html#gerüchte-der-region-15"><i class="fa fa-check"></i><b>43.8</b> Gerüchte der Region</a></li>
-<li class="chapter" data-level="43.9" data-path="EisenroteWueste.html"><a href="EisenroteWueste.html#sehenswürdigkeiten-16"><i class="fa fa-check"></i><b>43.9</b> Sehenswürdigkeiten</a></li>
+<li class="chapter" data-level="44.8" data-path="EisenroteWueste.html"><a href="EisenroteWueste.html#gerüchte-der-region-16"><i class="fa fa-check"></i><b>44.8</b> Gerüchte der Region</a></li>
+<li class="chapter" data-level="44.9" data-path="EisenroteWueste.html"><a href="EisenroteWueste.html#sehenswürdigkeiten-17"><i class="fa fa-check"></i><b>44.9</b> Sehenswürdigkeiten</a></li>
 </ul></li>
-<li class="chapter" data-level="44" data-path="die-graue-ödnis.html"><a href="die-graue-ödnis.html"><i class="fa fa-check"></i><b>44</b> Die Graue Ödnis</a>
+<li class="chapter" data-level="45" data-path="die-graue-ödnis.html"><a href="die-graue-ödnis.html"><i class="fa fa-check"></i><b>45</b> Die Graue Ödnis</a>
 <ul>
-<li class="chapter" data-level="44.1" data-path="die-graue-ödnis.html"><a href="die-graue-ödnis.html#ortschaften-der-region-16"><i class="fa fa-check"></i><b>44.1</b> Ortschaften der Region</a>
+<li class="chapter" data-level="45.1" data-path="die-graue-ödnis.html"><a href="die-graue-ödnis.html#ortschaften-der-region-17"><i class="fa fa-check"></i><b>45.1</b> Ortschaften der Region</a>
 <ul>
-<li class="chapter" data-level="44.1.1" data-path="die-graue-ödnis.html"><a href="die-graue-ödnis.html#infrastruktur-16"><i class="fa fa-check"></i><b>44.1.1</b> Infrastruktur</a></li>
+<li class="chapter" data-level="45.1.1" data-path="die-graue-ödnis.html"><a href="die-graue-ödnis.html#infrastruktur-17"><i class="fa fa-check"></i><b>45.1.1</b> Infrastruktur</a></li>
 </ul></li>
-<li class="chapter" data-level="44.2" data-path="die-graue-ödnis.html"><a href="die-graue-ödnis.html#die-geschichte-der-region-16"><i class="fa fa-check"></i><b>44.2</b> Die Geschichte der Region</a></li>
-<li class="chapter" data-level="44.3" data-path="die-graue-ödnis.html"><a href="die-graue-ödnis.html#wirtschaftliche-lage-19"><i class="fa fa-check"></i><b>44.3</b> Wirtschaftliche Lage</a>
+<li class="chapter" data-level="45.2" data-path="die-graue-ödnis.html"><a href="die-graue-ödnis.html#die-geschichte-der-region-17"><i class="fa fa-check"></i><b>45.2</b> Die Geschichte der Region</a></li>
+<li class="chapter" data-level="45.3" data-path="die-graue-ödnis.html"><a href="die-graue-ödnis.html#wirtschaftliche-lage-20"><i class="fa fa-check"></i><b>45.3</b> Wirtschaftliche Lage</a>
 <ul>
-<li class="chapter" data-level="44.3.1" data-path="die-graue-ödnis.html"><a href="die-graue-ödnis.html#die-ressourcen-der-region-15"><i class="fa fa-check"></i><b>44.3.1</b> Die Ressourcen der Region</a></li>
+<li class="chapter" data-level="45.3.1" data-path="die-graue-ödnis.html"><a href="die-graue-ödnis.html#die-ressourcen-der-region-16"><i class="fa fa-check"></i><b>45.3.1</b> Die Ressourcen der Region</a></li>
 </ul></li>
-<li class="chapter" data-level="44.4" data-path="die-graue-ödnis.html"><a href="die-graue-ödnis.html#soziopolitische-lage-21"><i class="fa fa-check"></i><b>44.4</b> Soziopolitische Lage</a>
+<li class="chapter" data-level="45.4" data-path="die-graue-ödnis.html"><a href="die-graue-ödnis.html#soziopolitische-lage-22"><i class="fa fa-check"></i><b>45.4</b> Soziopolitische Lage</a>
 <ul>
-<li class="chapter" data-level="44.4.1" data-path="die-graue-ödnis.html"><a href="die-graue-ödnis.html#herrschaftsystemorganisation-21"><i class="fa fa-check"></i><b>44.4.1</b> Herrschaftsystem/Organisation</a></li>
+<li class="chapter" data-level="45.4.1" data-path="die-graue-ödnis.html"><a href="die-graue-ödnis.html#herrschaftsystemorganisation-22"><i class="fa fa-check"></i><b>45.4.1</b> Herrschaftsystem/Organisation</a></li>
 </ul></li>
-<li class="chapter" data-level="44.5" data-path="die-graue-ödnis.html"><a href="die-graue-ödnis.html#klimatische-bedingungen-17"><i class="fa fa-check"></i><b>44.5</b> Klimatische Bedingungen</a>
+<li class="chapter" data-level="45.5" data-path="die-graue-ödnis.html"><a href="die-graue-ödnis.html#klimatische-bedingungen-18"><i class="fa fa-check"></i><b>45.5</b> Klimatische Bedingungen</a>
 <ul>
-<li class="chapter" data-level="44.5.1" data-path="die-graue-ödnis.html"><a href="die-graue-ödnis.html#die-flora-und-fauna-16"><i class="fa fa-check"></i><b>44.5.1</b> Die Flora und Fauna</a>
+<li class="chapter" data-level="45.5.1" data-path="die-graue-ödnis.html"><a href="die-graue-ödnis.html#die-flora-und-fauna-17"><i class="fa fa-check"></i><b>45.5.1</b> Die Flora und Fauna</a>
 <ul>
-<li class="chapter" data-level="44.5.1.1" data-path="die-graue-ödnis.html"><a href="die-graue-ödnis.html#monster-in-der-region-17"><i class="fa fa-check"></i><b>44.5.1.1</b> Monster in der Region</a></li>
+<li class="chapter" data-level="45.5.1.1" data-path="die-graue-ödnis.html"><a href="die-graue-ödnis.html#monster-in-der-region-18"><i class="fa fa-check"></i><b>45.5.1.1</b> Monster in der Region</a></li>
 </ul></li>
 </ul></li>
-<li class="chapter" data-level="44.6" data-path="die-graue-ödnis.html"><a href="die-graue-ödnis.html#gerüchte-der-region-16"><i class="fa fa-check"></i><b>44.6</b> Gerüchte der Region</a></li>
-<li class="chapter" data-level="44.7" data-path="die-graue-ödnis.html"><a href="die-graue-ödnis.html#sehenswürdigkeiten-17"><i class="fa fa-check"></i><b>44.7</b> Sehenswürdigkeiten</a></li>
+<li class="chapter" data-level="45.6" data-path="die-graue-ödnis.html"><a href="die-graue-ödnis.html#gerüchte-der-region-17"><i class="fa fa-check"></i><b>45.6</b> Gerüchte der Region</a></li>
+<li class="chapter" data-level="45.7" data-path="die-graue-ödnis.html"><a href="die-graue-ödnis.html#sehenswürdigkeiten-18"><i class="fa fa-check"></i><b>45.7</b> Sehenswürdigkeiten</a></li>
 </ul></li>
-<li class="chapter" data-level="45" data-path="die-grenze-der-welt.html"><a href="die-grenze-der-welt.html"><i class="fa fa-check"></i><b>45</b> Die Grenze der Welt</a>
+<li class="chapter" data-level="46" data-path="die-grenze-der-welt.html"><a href="die-grenze-der-welt.html"><i class="fa fa-check"></i><b>46</b> Die Grenze der Welt</a>
 <ul>
-<li class="chapter" data-level="45.1" data-path="die-grenze-der-welt.html"><a href="die-grenze-der-welt.html#ortschaften-der-region-17"><i class="fa fa-check"></i><b>45.1</b> Ortschaften der Region</a>
+<li class="chapter" data-level="46.1" data-path="die-grenze-der-welt.html"><a href="die-grenze-der-welt.html#ortschaften-der-region-18"><i class="fa fa-check"></i><b>46.1</b> Ortschaften der Region</a>
 <ul>
-<li class="chapter" data-level="45.1.1" data-path="die-grenze-der-welt.html"><a href="die-grenze-der-welt.html#infrastruktur-17"><i class="fa fa-check"></i><b>45.1.1</b> Infrastruktur</a></li>
+<li class="chapter" data-level="46.1.1" data-path="die-grenze-der-welt.html"><a href="die-grenze-der-welt.html#infrastruktur-18"><i class="fa fa-check"></i><b>46.1.1</b> Infrastruktur</a></li>
 </ul></li>
-<li class="chapter" data-level="45.2" data-path="die-grenze-der-welt.html"><a href="die-grenze-der-welt.html#die-geschichte-der-region-17"><i class="fa fa-check"></i><b>45.2</b> Die Geschichte der Region</a></li>
-<li class="chapter" data-level="45.3" data-path="die-grenze-der-welt.html"><a href="die-grenze-der-welt.html#wirtschaftliche-lage-20"><i class="fa fa-check"></i><b>45.3</b> Wirtschaftliche Lage</a>
+<li class="chapter" data-level="46.2" data-path="die-grenze-der-welt.html"><a href="die-grenze-der-welt.html#die-geschichte-der-region-18"><i class="fa fa-check"></i><b>46.2</b> Die Geschichte der Region</a></li>
+<li class="chapter" data-level="46.3" data-path="die-grenze-der-welt.html"><a href="die-grenze-der-welt.html#wirtschaftliche-lage-21"><i class="fa fa-check"></i><b>46.3</b> Wirtschaftliche Lage</a>
 <ul>
-<li class="chapter" data-level="45.3.1" data-path="die-grenze-der-welt.html"><a href="die-grenze-der-welt.html#die-ressourcen-der-region-16"><i class="fa fa-check"></i><b>45.3.1</b> Die Ressourcen der Region</a></li>
+<li class="chapter" data-level="46.3.1" data-path="die-grenze-der-welt.html"><a href="die-grenze-der-welt.html#die-ressourcen-der-region-17"><i class="fa fa-check"></i><b>46.3.1</b> Die Ressourcen der Region</a></li>
 </ul></li>
-<li class="chapter" data-level="45.4" data-path="die-grenze-der-welt.html"><a href="die-grenze-der-welt.html#soziopolitische-lage-22"><i class="fa fa-check"></i><b>45.4</b> Soziopolitische Lage</a>
+<li class="chapter" data-level="46.4" data-path="die-grenze-der-welt.html"><a href="die-grenze-der-welt.html#soziopolitische-lage-23"><i class="fa fa-check"></i><b>46.4</b> Soziopolitische Lage</a>
 <ul>
-<li class="chapter" data-level="45.4.1" data-path="die-grenze-der-welt.html"><a href="die-grenze-der-welt.html#herrschaftsystemorganisation-22"><i class="fa fa-check"></i><b>45.4.1</b> Herrschaftsystem/Organisation</a></li>
+<li class="chapter" data-level="46.4.1" data-path="die-grenze-der-welt.html"><a href="die-grenze-der-welt.html#herrschaftsystemorganisation-23"><i class="fa fa-check"></i><b>46.4.1</b> Herrschaftsystem/Organisation</a></li>
 </ul></li>
-<li class="chapter" data-level="45.5" data-path="die-grenze-der-welt.html"><a href="die-grenze-der-welt.html#klimatische-bedingungen-18"><i class="fa fa-check"></i><b>45.5</b> Klimatische Bedingungen</a>
+<li class="chapter" data-level="46.5" data-path="die-grenze-der-welt.html"><a href="die-grenze-der-welt.html#klimatische-bedingungen-19"><i class="fa fa-check"></i><b>46.5</b> Klimatische Bedingungen</a>
 <ul>
-<li class="chapter" data-level="45.5.1" data-path="die-grenze-der-welt.html"><a href="die-grenze-der-welt.html#die-flora-und-fauna-17"><i class="fa fa-check"></i><b>45.5.1</b> Die Flora und Fauna</a>
+<li class="chapter" data-level="46.5.1" data-path="die-grenze-der-welt.html"><a href="die-grenze-der-welt.html#die-flora-und-fauna-18"><i class="fa fa-check"></i><b>46.5.1</b> Die Flora und Fauna</a>
 <ul>
-<li class="chapter" data-level="45.5.1.1" data-path="die-grenze-der-welt.html"><a href="die-grenze-der-welt.html#monster-in-der-region-18"><i class="fa fa-check"></i><b>45.5.1.1</b> Monster in der Region</a></li>
+<li class="chapter" data-level="46.5.1.1" data-path="die-grenze-der-welt.html"><a href="die-grenze-der-welt.html#monster-in-der-region-19"><i class="fa fa-check"></i><b>46.5.1.1</b> Monster in der Region</a></li>
 </ul></li>
 </ul></li>
-<li class="chapter" data-level="45.6" data-path="die-grenze-der-welt.html"><a href="die-grenze-der-welt.html#gerüchte-der-region-17"><i class="fa fa-check"></i><b>45.6</b> Gerüchte der Region</a></li>
-<li class="chapter" data-level="45.7" data-path="die-grenze-der-welt.html"><a href="die-grenze-der-welt.html#sehenswürdigkeiten-18"><i class="fa fa-check"></i><b>45.7</b> Sehenswürdigkeiten</a></li>
+<li class="chapter" data-level="46.6" data-path="die-grenze-der-welt.html"><a href="die-grenze-der-welt.html#gerüchte-der-region-18"><i class="fa fa-check"></i><b>46.6</b> Gerüchte der Region</a></li>
+<li class="chapter" data-level="46.7" data-path="die-grenze-der-welt.html"><a href="die-grenze-der-welt.html#sehenswürdigkeiten-19"><i class="fa fa-check"></i><b>46.7</b> Sehenswürdigkeiten</a></li>
 </ul></li>
 <li class="part"><span><b>VII Regeln und Items</b></span></li>
-<li class="chapter" data-level="46" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html"><i class="fa fa-check"></i><b>46</b> Grundlagen des Spiels</a>
+<li class="chapter" data-level="47" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html"><i class="fa fa-check"></i><b>47</b> Grundlagen des Spiels</a>
 <ul>
-<li class="chapter" data-level="46.1" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#checks-und-proben"><i class="fa fa-check"></i><b>46.1</b> Checks und Proben</a>
+<li class="chapter" data-level="47.1" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#checks-und-proben"><i class="fa fa-check"></i><b>47.1</b> Checks und Proben</a>
 <ul>
-<li class="chapter" data-level="46.1.1" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#die-einfache-probe"><i class="fa fa-check"></i><b>46.1.1</b> Die einfache Probe</a></li>
-<li class="chapter" data-level="46.1.2" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#die-differenzprobe"><i class="fa fa-check"></i><b>46.1.2</b> Die Differenzprobe</a>
+<li class="chapter" data-level="47.1.1" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#die-einfache-probe"><i class="fa fa-check"></i><b>47.1.1</b> Die einfache Probe</a></li>
+<li class="chapter" data-level="47.1.2" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#die-differenzprobe"><i class="fa fa-check"></i><b>47.1.2</b> Die Differenzprobe</a>
 <ul>
 <li class="chapter" data-level="" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#UntypischeProben"><i class="fa fa-check"></i>Untypische Proben</a></li>
 </ul></li>
-<li class="chapter" data-level="46.1.3" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#der-save"><i class="fa fa-check"></i><b>46.1.3</b> Der Save</a></li>
-<li class="chapter" data-level="46.1.4" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#advantagedisatvantage"><i class="fa fa-check"></i><b>46.1.4</b> Advantage/disatvantage</a></li>
-<li class="chapter" data-level="46.1.5" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#momentane-modifikatoren"><i class="fa fa-check"></i><b>46.1.5</b> Momentane Modifikatoren</a></li>
-<li class="chapter" data-level="46.1.6" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#Critical"><i class="fa fa-check"></i><b>46.1.6</b> Kritische Werte</a></li>
+<li class="chapter" data-level="47.1.3" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#der-save"><i class="fa fa-check"></i><b>47.1.3</b> Der Save</a></li>
+<li class="chapter" data-level="47.1.4" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#advantagedisatvantage"><i class="fa fa-check"></i><b>47.1.4</b> Advantage/disatvantage</a></li>
+<li class="chapter" data-level="47.1.5" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#momentane-modifikatoren"><i class="fa fa-check"></i><b>47.1.5</b> Momentane Modifikatoren</a></li>
+<li class="chapter" data-level="47.1.6" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#Critical"><i class="fa fa-check"></i><b>47.1.6</b> Kritische Werte</a></li>
 </ul></li>
-<li class="chapter" data-level="46.2" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#typische-saves"><i class="fa fa-check"></i><b>46.2</b> Typische Saves</a>
+<li class="chapter" data-level="47.2" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#typische-saves"><i class="fa fa-check"></i><b>47.2</b> Typische Saves</a>
 <ul>
-<li class="chapter" data-level="46.2.1" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#Ausdauersave"><i class="fa fa-check"></i><b>46.2.1</b> Ausdauersave</a></li>
-<li class="chapter" data-level="46.2.2" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#toxikologie-save"><i class="fa fa-check"></i><b>46.2.2</b> Toxikologie-Save</a></li>
-<li class="chapter" data-level="46.2.3" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#Lucksave"><i class="fa fa-check"></i><b>46.2.3</b> Glaube/Glück Save</a></li>
+<li class="chapter" data-level="47.2.1" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#Ausdauersave"><i class="fa fa-check"></i><b>47.2.1</b> Ausdauersave</a></li>
+<li class="chapter" data-level="47.2.2" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#toxikologie-save"><i class="fa fa-check"></i><b>47.2.2</b> Toxikologie-Save</a></li>
+<li class="chapter" data-level="47.2.3" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#Lucksave"><i class="fa fa-check"></i><b>47.2.3</b> Glaube/Glück Save</a></li>
 </ul></li>
-<li class="chapter" data-level="46.3" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#Reiten"><i class="fa fa-check"></i><b>46.3</b> Das Reiten</a></li>
-<li class="chapter" data-level="46.4" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#der-kampf"><i class="fa fa-check"></i><b>46.4</b> Der Kampf</a>
+<li class="chapter" data-level="47.3" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#Reiten"><i class="fa fa-check"></i><b>47.3</b> Das Reiten</a></li>
+<li class="chapter" data-level="47.4" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#der-kampf"><i class="fa fa-check"></i><b>47.4</b> Der Kampf</a>
 <ul>
-<li class="chapter" data-level="46.4.1" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#Initiative"><i class="fa fa-check"></i><b>46.4.1</b> Die Initiative</a></li>
-<li class="chapter" data-level="46.4.2" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#die-kampfrunde-und-die-kampfaktionen"><i class="fa fa-check"></i><b>46.4.2</b> Die Kampfrunde und die Kampfaktionen</a>
+<li class="chapter" data-level="47.4.1" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#Initiative"><i class="fa fa-check"></i><b>47.4.1</b> Die Initiative</a></li>
+<li class="chapter" data-level="47.4.2" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#die-kampfrunde-und-die-kampfaktionen"><i class="fa fa-check"></i><b>47.4.2</b> Die Kampfrunde und die Kampfaktionen</a>
 <ul>
 <li class="chapter" data-level="" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#Bewegung"><i class="fa fa-check"></i>Die Bewegung</a></li>
 <li class="chapter" data-level="" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#SingleAction"><i class="fa fa-check"></i>Die Single Action</a></li>
@@ -1241,28 +1295,28 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <li class="chapter" data-level="" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#BlockenAusweichen"><i class="fa fa-check"></i>Blocken, Parieren und Ausweichen</a></li>
 <li class="chapter" data-level="" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#deckung"><i class="fa fa-check"></i>Deckung</a></li>
 </ul></li>
-<li class="chapter" data-level="46.4.3" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#InstrumenteRules"><i class="fa fa-check"></i><b>46.4.3</b> Instrumente und ihre Wirkung im Kampf</a></li>
-<li class="chapter" data-level="46.4.4" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#dual-wielding"><i class="fa fa-check"></i><b>46.4.4</b> Dual Wielding</a></li>
-<li class="chapter" data-level="46.4.5" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#andere-angriffe-während-single-actions"><i class="fa fa-check"></i><b>46.4.5</b> Andere Angriffe während Single Actions</a></li>
-<li class="chapter" data-level="46.4.6" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#schleichangriffe"><i class="fa fa-check"></i><b>46.4.6</b> Schleichangriffe</a>
+<li class="chapter" data-level="47.4.3" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#InstrumenteRules"><i class="fa fa-check"></i><b>47.4.3</b> Instrumente und ihre Wirkung im Kampf</a></li>
+<li class="chapter" data-level="47.4.4" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#dual-wielding"><i class="fa fa-check"></i><b>47.4.4</b> Dual Wielding</a></li>
+<li class="chapter" data-level="47.4.5" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#andere-angriffe-während-single-actions"><i class="fa fa-check"></i><b>47.4.5</b> Andere Angriffe während Single Actions</a></li>
+<li class="chapter" data-level="47.4.6" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#schleichangriffe"><i class="fa fa-check"></i><b>47.4.6</b> Schleichangriffe</a>
 <ul>
 <li class="chapter" data-level="" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#das-attentat"><i class="fa fa-check"></i>Das Attentat</a></li>
 </ul></li>
-<li class="chapter" data-level="46.4.7" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#called-shots"><i class="fa fa-check"></i><b>46.4.7</b> Called Shots</a></li>
-<li class="chapter" data-level="46.4.8" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#objekte-während-des-kampfes"><i class="fa fa-check"></i><b>46.4.8</b> Objekte während des Kampfes</a>
+<li class="chapter" data-level="47.4.7" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#called-shots"><i class="fa fa-check"></i><b>47.4.7</b> Called Shots</a></li>
+<li class="chapter" data-level="47.4.8" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#objekte-während-des-kampfes"><i class="fa fa-check"></i><b>47.4.8</b> Objekte während des Kampfes</a>
 <ul>
 <li class="chapter" data-level="" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#Holster1"><i class="fa fa-check"></i>Holster</a></li>
 <li class="chapter" data-level="" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#tranktaschen"><i class="fa fa-check"></i>Tranktaschen</a></li>
 </ul></li>
-<li class="chapter" data-level="46.4.9" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#Formation"><i class="fa fa-check"></i><b>46.4.9</b> Kämpfen in Formation</a>
+<li class="chapter" data-level="47.4.9" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#Formation"><i class="fa fa-check"></i><b>47.4.9</b> Kämpfen in Formation</a>
 <ul>
 <li class="chapter" data-level="" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#der-gemeinsame-block"><i class="fa fa-check"></i>Der gemeinsame Block</a></li>
 </ul></li>
-<li class="chapter" data-level="46.4.10" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#kampf-vom-reittier"><i class="fa fa-check"></i><b>46.4.10</b> Kampf vom Reittier</a></li>
-<li class="chapter" data-level="46.4.11" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#der-unbewaffnete-kampf"><i class="fa fa-check"></i><b>46.4.11</b> Der Unbewaffnete Kampf</a></li>
-<li class="chapter" data-level="46.4.12" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#artillerie"><i class="fa fa-check"></i><b>46.4.12</b> Artillerie</a></li>
-<li class="chapter" data-level="46.4.13" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#die-schadensverrechnung"><i class="fa fa-check"></i><b>46.4.13</b> Die Schadensverrechnung</a></li>
-<li class="chapter" data-level="46.4.14" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#damage-over-time"><i class="fa fa-check"></i><b>46.4.14</b> Damage Over Time</a>
+<li class="chapter" data-level="47.4.10" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#kampf-vom-reittier"><i class="fa fa-check"></i><b>47.4.10</b> Kampf vom Reittier</a></li>
+<li class="chapter" data-level="47.4.11" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#der-unbewaffnete-kampf"><i class="fa fa-check"></i><b>47.4.11</b> Der Unbewaffnete Kampf</a></li>
+<li class="chapter" data-level="47.4.12" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#artillerie"><i class="fa fa-check"></i><b>47.4.12</b> Artillerie</a></li>
+<li class="chapter" data-level="47.4.13" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#die-schadensverrechnung"><i class="fa fa-check"></i><b>47.4.13</b> Die Schadensverrechnung</a></li>
+<li class="chapter" data-level="47.4.14" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#damage-over-time"><i class="fa fa-check"></i><b>47.4.14</b> Damage Over Time</a>
 <ul>
 <li class="chapter" data-level="" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#gift"><i class="fa fa-check"></i>Gift</a></li>
 <li class="chapter" data-level="" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#bluten"><i class="fa fa-check"></i>Bluten</a></li>
@@ -1270,124 +1324,124 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <li class="chapter" data-level="" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#andere-statuseffekte"><i class="fa fa-check"></i>Andere Statuseffekte</a></li>
 </ul></li>
 </ul></li>
-<li class="chapter" data-level="46.5" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#Ausdauer"><i class="fa fa-check"></i><b>46.5</b> Die Ausdauer</a></li>
-<li class="chapter" data-level="46.6" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#Tiers"><i class="fa fa-check"></i><b>46.6</b> Die Tiers (oder Stufen)</a></li>
-<li class="chapter" data-level="46.7" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#Währung"><i class="fa fa-check"></i><b>46.7</b> Geld und Wechselkurse</a></li>
-<li class="chapter" data-level="46.8" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#einordnung-der-größenverhältnisse-von-geldbeträgen"><i class="fa fa-check"></i><b>46.8</b> Einordnung der Größenverhältnisse von Geldbeträgen</a></li>
-<li class="chapter" data-level="46.9" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#Alchemie"><i class="fa fa-check"></i><b>46.9</b> Die Alchemie</a>
+<li class="chapter" data-level="47.5" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#Ausdauer"><i class="fa fa-check"></i><b>47.5</b> Die Ausdauer</a></li>
+<li class="chapter" data-level="47.6" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#Tiers"><i class="fa fa-check"></i><b>47.6</b> Die Tiers (oder Stufen)</a></li>
+<li class="chapter" data-level="47.7" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#Währung"><i class="fa fa-check"></i><b>47.7</b> Geld und Wechselkurse</a></li>
+<li class="chapter" data-level="47.8" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#einordnung-der-größenverhältnisse-von-geldbeträgen"><i class="fa fa-check"></i><b>47.8</b> Einordnung der Größenverhältnisse von Geldbeträgen</a></li>
+<li class="chapter" data-level="47.9" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#Alchemie"><i class="fa fa-check"></i><b>47.9</b> Die Alchemie</a>
 <ul>
-<li class="chapter" data-level="46.9.1" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#HerstellungTränke"><i class="fa fa-check"></i><b>46.9.1</b> Herstellung von Tränken</a></li>
-<li class="chapter" data-level="46.9.2" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#inhibitoren"><i class="fa fa-check"></i><b>46.9.2</b> Inhibitoren</a></li>
-<li class="chapter" data-level="46.9.3" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#Epinephrin"><i class="fa fa-check"></i><b>46.9.3</b> Epinephrinika</a></li>
+<li class="chapter" data-level="47.9.1" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#HerstellungTränke"><i class="fa fa-check"></i><b>47.9.1</b> Herstellung von Tränken</a></li>
+<li class="chapter" data-level="47.9.2" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#inhibitoren"><i class="fa fa-check"></i><b>47.9.2</b> Inhibitoren</a></li>
+<li class="chapter" data-level="47.9.3" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#Epinephrin"><i class="fa fa-check"></i><b>47.9.3</b> Epinephrinika</a></li>
 </ul></li>
-<li class="chapter" data-level="46.10" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#das-handwerksystem"><i class="fa fa-check"></i><b>46.10</b> Das Handwerksystem</a>
+<li class="chapter" data-level="47.10" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#das-handwerksystem"><i class="fa fa-check"></i><b>47.10</b> Das Handwerksystem</a>
 <ul>
-<li class="chapter" data-level="46.10.1" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#reparieren"><i class="fa fa-check"></i><b>46.10.1</b> Reparieren</a></li>
-<li class="chapter" data-level="46.10.2" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#verbessern"><i class="fa fa-check"></i><b>46.10.2</b> Verbessern</a></li>
-<li class="chapter" data-level="46.10.3" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#modifizieren"><i class="fa fa-check"></i><b>46.10.3</b> Modifizieren</a></li>
-<li class="chapter" data-level="46.10.4" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#herstellen"><i class="fa fa-check"></i><b>46.10.4</b> Herstellen</a>
+<li class="chapter" data-level="47.10.1" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#reparieren"><i class="fa fa-check"></i><b>47.10.1</b> Reparieren</a></li>
+<li class="chapter" data-level="47.10.2" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#verbessern"><i class="fa fa-check"></i><b>47.10.2</b> Verbessern</a></li>
+<li class="chapter" data-level="47.10.3" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#modifizieren"><i class="fa fa-check"></i><b>47.10.3</b> Modifizieren</a></li>
+<li class="chapter" data-level="47.10.4" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#herstellen"><i class="fa fa-check"></i><b>47.10.4</b> Herstellen</a>
 <ul>
-<li class="chapter" data-level="46.10.4.1" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#waffenfremde-modifikationenschaffungen"><i class="fa fa-check"></i><b>46.10.4.1</b> Waffenfremde Modifikationen/Schaffungen</a></li>
-<li class="chapter" data-level="46.10.4.2" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#typische-modifikationen"><i class="fa fa-check"></i><b>46.10.4.2</b> Typische Modifikationen</a></li>
+<li class="chapter" data-level="47.10.4.1" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#waffenfremde-modifikationenschaffungen"><i class="fa fa-check"></i><b>47.10.4.1</b> Waffenfremde Modifikationen/Schaffungen</a></li>
+<li class="chapter" data-level="47.10.4.2" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#typische-modifikationen"><i class="fa fa-check"></i><b>47.10.4.2</b> Typische Modifikationen</a></li>
 </ul></li>
 </ul></li>
-<li class="chapter" data-level="46.11" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#downtime-aktivitäten"><i class="fa fa-check"></i><b>46.11</b> Downtime-Aktivitäten</a>
+<li class="chapter" data-level="47.11" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#downtime-aktivitäten"><i class="fa fa-check"></i><b>47.11</b> Downtime-Aktivitäten</a>
 <ul>
-<li class="chapter" data-level="46.11.1" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#hauptaktivitäten-umfassen"><i class="fa fa-check"></i><b>46.11.1</b> Hauptaktivitäten umfassen:</a></li>
-<li class="chapter" data-level="46.11.2" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#nebenaktiväten-umfassen"><i class="fa fa-check"></i><b>46.11.2</b> Nebenaktiväten umfassen:</a></li>
-<li class="chapter" data-level="46.11.3" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#andere-aktvitäten-sich-mit-kontakten-und-npcs-austauschen"><i class="fa fa-check"></i><b>46.11.3</b> Andere Aktvitäten: * Sich mit Kontakten und Npcs austauschen</a></li>
-<li class="chapter" data-level="46.11.4" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#training"><i class="fa fa-check"></i><b>46.11.4</b> Training</a></li>
-<li class="chapter" data-level="46.11.5" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#studieren"><i class="fa fa-check"></i><b>46.11.5</b> Studieren</a></li>
+<li class="chapter" data-level="47.11.1" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#hauptaktivitäten-umfassen"><i class="fa fa-check"></i><b>47.11.1</b> Hauptaktivitäten umfassen:</a></li>
+<li class="chapter" data-level="47.11.2" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#nebenaktiväten-umfassen"><i class="fa fa-check"></i><b>47.11.2</b> Nebenaktiväten umfassen:</a></li>
+<li class="chapter" data-level="47.11.3" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#andere-aktvitäten-sich-mit-kontakten-und-npcs-austauschen"><i class="fa fa-check"></i><b>47.11.3</b> Andere Aktvitäten: * Sich mit Kontakten und Npcs austauschen</a></li>
+<li class="chapter" data-level="47.11.4" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#training"><i class="fa fa-check"></i><b>47.11.4</b> Training</a></li>
+<li class="chapter" data-level="47.11.5" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#studieren"><i class="fa fa-check"></i><b>47.11.5</b> Studieren</a></li>
 </ul></li>
-<li class="chapter" data-level="46.12" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#Lebenserhaltungskosten"><i class="fa fa-check"></i><b>46.12</b> Lebenshaltungskosten</a></li>
+<li class="chapter" data-level="47.12" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#Lebenserhaltungskosten"><i class="fa fa-check"></i><b>47.12</b> Lebenshaltungskosten</a></li>
 </ul></li>
-<li class="chapter" data-level="47" data-path="wer-willst-du-sein.html"><a href="wer-willst-du-sein.html"><i class="fa fa-check"></i><b>47</b> Wer willst du sein?</a>
+<li class="chapter" data-level="48" data-path="wer-willst-du-sein.html"><a href="wer-willst-du-sein.html"><i class="fa fa-check"></i><b>48</b> Wer willst du sein?</a>
 <ul>
-<li class="chapter" data-level="47.1" data-path="wer-willst-du-sein.html"><a href="wer-willst-du-sein.html#die-charakter-creation"><i class="fa fa-check"></i><b>47.1</b> Die Charakter Creation</a>
+<li class="chapter" data-level="48.1" data-path="wer-willst-du-sein.html"><a href="wer-willst-du-sein.html#die-charakter-creation"><i class="fa fa-check"></i><b>48.1</b> Die Charakter Creation</a>
 <ul>
-<li class="chapter" data-level="47.1.1" data-path="wer-willst-du-sein.html"><a href="wer-willst-du-sein.html#rasse-und-startwerte"><i class="fa fa-check"></i><b>47.1.1</b> Rasse und Startwerte</a>
+<li class="chapter" data-level="48.1.1" data-path="wer-willst-du-sein.html"><a href="wer-willst-du-sein.html#rasse-und-startwerte"><i class="fa fa-check"></i><b>48.1.1</b> Rasse und Startwerte</a>
 <ul>
 <li class="chapter" data-level="" data-path="wer-willst-du-sein.html"><a href="wer-willst-du-sein.html#rassenfähigkeiten"><i class="fa fa-check"></i>Rassenfähigkeiten</a></li>
 </ul></li>
-<li class="chapter" data-level="47.1.2" data-path="wer-willst-du-sein.html"><a href="wer-willst-du-sein.html#level-und-skillverbesserungen"><i class="fa fa-check"></i><b>47.1.2</b> Level und Skillverbesserungen</a>
+<li class="chapter" data-level="48.1.2" data-path="wer-willst-du-sein.html"><a href="wer-willst-du-sein.html#level-und-skillverbesserungen"><i class="fa fa-check"></i><b>48.1.2</b> Level und Skillverbesserungen</a>
 <ul>
 <li class="chapter" data-level="" data-path="wer-willst-du-sein.html"><a href="wer-willst-du-sein.html#kosten-attributverbesserung"><i class="fa fa-check"></i>Kosten Attributverbesserung</a></li>
 <li class="chapter" data-level="" data-path="wer-willst-du-sein.html"><a href="wer-willst-du-sein.html#kosten-health-verbesserung"><i class="fa fa-check"></i>Kosten Health-verbesserung</a></li>
 <li class="chapter" data-level="" data-path="wer-willst-du-sein.html"><a href="wer-willst-du-sein.html#kosten-ausdauerverbesserung"><i class="fa fa-check"></i>Kosten Ausdauerverbesserung</a></li>
 <li class="chapter" data-level="" data-path="wer-willst-du-sein.html"><a href="wer-willst-du-sein.html#kosten-skillverbesserung"><i class="fa fa-check"></i>Kosten Skillverbesserung</a></li>
 </ul></li>
-<li class="chapter" data-level="47.1.3" data-path="wer-willst-du-sein.html"><a href="wer-willst-du-sein.html#wissen-skills"><i class="fa fa-check"></i><b>47.1.3</b> Wissen-Skills</a></li>
-<li class="chapter" data-level="47.1.4" data-path="wer-willst-du-sein.html"><a href="wer-willst-du-sein.html#sprachen"><i class="fa fa-check"></i><b>47.1.4</b> Sprachen</a></li>
-<li class="chapter" data-level="47.1.5" data-path="wer-willst-du-sein.html"><a href="wer-willst-du-sein.html#kontakte"><i class="fa fa-check"></i><b>47.1.5</b> Kontakte</a></li>
+<li class="chapter" data-level="48.1.3" data-path="wer-willst-du-sein.html"><a href="wer-willst-du-sein.html#wissen-skills"><i class="fa fa-check"></i><b>48.1.3</b> Wissen-Skills</a></li>
+<li class="chapter" data-level="48.1.4" data-path="wer-willst-du-sein.html"><a href="wer-willst-du-sein.html#sprachen"><i class="fa fa-check"></i><b>48.1.4</b> Sprachen</a></li>
+<li class="chapter" data-level="48.1.5" data-path="wer-willst-du-sein.html"><a href="wer-willst-du-sein.html#kontakte"><i class="fa fa-check"></i><b>48.1.5</b> Kontakte</a></li>
 </ul></li>
-<li class="chapter" data-level="47.2" data-path="wer-willst-du-sein.html"><a href="wer-willst-du-sein.html#BewRadius"><i class="fa fa-check"></i><b>47.2</b> Der Bewegungsradius</a></li>
-<li class="chapter" data-level="47.3" data-path="wer-willst-du-sein.html"><a href="wer-willst-du-sein.html#das-inventar"><i class="fa fa-check"></i><b>47.3</b> Das Inventar</a>
+<li class="chapter" data-level="48.2" data-path="wer-willst-du-sein.html"><a href="wer-willst-du-sein.html#BewRadius"><i class="fa fa-check"></i><b>48.2</b> Der Bewegungsradius</a></li>
+<li class="chapter" data-level="48.3" data-path="wer-willst-du-sein.html"><a href="wer-willst-du-sein.html#das-inventar"><i class="fa fa-check"></i><b>48.3</b> Das Inventar</a>
 <ul>
-<li class="chapter" data-level="47.3.1" data-path="wer-willst-du-sein.html"><a href="wer-willst-du-sein.html#rucksack"><i class="fa fa-check"></i><b>47.3.1</b> Rucksack</a></li>
-<li class="chapter" data-level="47.3.2" data-path="wer-willst-du-sein.html"><a href="wer-willst-du-sein.html#holster"><i class="fa fa-check"></i><b>47.3.2</b> Holster</a></li>
-<li class="chapter" data-level="47.3.3" data-path="wer-willst-du-sein.html"><a href="wer-willst-du-sein.html#tranktasche"><i class="fa fa-check"></i><b>47.3.3</b> Tranktasche</a></li>
+<li class="chapter" data-level="48.3.1" data-path="wer-willst-du-sein.html"><a href="wer-willst-du-sein.html#rucksack"><i class="fa fa-check"></i><b>48.3.1</b> Rucksack</a></li>
+<li class="chapter" data-level="48.3.2" data-path="wer-willst-du-sein.html"><a href="wer-willst-du-sein.html#holster"><i class="fa fa-check"></i><b>48.3.2</b> Holster</a></li>
+<li class="chapter" data-level="48.3.3" data-path="wer-willst-du-sein.html"><a href="wer-willst-du-sein.html#tranktasche"><i class="fa fa-check"></i><b>48.3.3</b> Tranktasche</a></li>
 </ul></li>
-<li class="chapter" data-level="47.4" data-path="wer-willst-du-sein.html"><a href="wer-willst-du-sein.html#ausrüstung-2"><i class="fa fa-check"></i><b>47.4</b> Ausrüstung</a></li>
-<li class="chapter" data-level="47.5" data-path="wer-willst-du-sein.html"><a href="wer-willst-du-sein.html#die-rolle-des-gewichts"><i class="fa fa-check"></i><b>47.5</b> Die Rolle des Gewichts</a>
+<li class="chapter" data-level="48.4" data-path="wer-willst-du-sein.html"><a href="wer-willst-du-sein.html#ausrüstung-2"><i class="fa fa-check"></i><b>48.4</b> Ausrüstung</a></li>
+<li class="chapter" data-level="48.5" data-path="wer-willst-du-sein.html"><a href="wer-willst-du-sein.html#die-rolle-des-gewichts"><i class="fa fa-check"></i><b>48.5</b> Die Rolle des Gewichts</a>
 <ul>
-<li class="chapter" data-level="47.5.1" data-path="wer-willst-du-sein.html"><a href="wer-willst-du-sein.html#AktivesGewicht"><i class="fa fa-check"></i><b>47.5.1</b> Das Aktive Gewicht</a>
+<li class="chapter" data-level="48.5.1" data-path="wer-willst-du-sein.html"><a href="wer-willst-du-sein.html#AktivesGewicht"><i class="fa fa-check"></i><b>48.5.1</b> Das Aktive Gewicht</a>
 <ul>
-<li class="chapter" data-level="47.5.1.1" data-path="wer-willst-du-sein.html"><a href="wer-willst-du-sein.html#Belastungsstufe"><i class="fa fa-check"></i><b>47.5.1.1</b> Die Belastungsstufen und ihre Debuffs</a></li>
+<li class="chapter" data-level="48.5.1.1" data-path="wer-willst-du-sein.html"><a href="wer-willst-du-sein.html#Belastungsstufe"><i class="fa fa-check"></i><b>48.5.1.1</b> Die Belastungsstufen und ihre Debuffs</a></li>
 </ul></li>
-<li class="chapter" data-level="47.5.2" data-path="wer-willst-du-sein.html"><a href="wer-willst-du-sein.html#das-passive-gewicht"><i class="fa fa-check"></i><b>47.5.2</b> Das passive Gewicht</a>
+<li class="chapter" data-level="48.5.2" data-path="wer-willst-du-sein.html"><a href="wer-willst-du-sein.html#das-passive-gewicht"><i class="fa fa-check"></i><b>48.5.2</b> Das passive Gewicht</a>
 <ul>
 <li class="chapter" data-level="" data-path="wer-willst-du-sein.html"><a href="wer-willst-du-sein.html#zusätzliches-gewicht"><i class="fa fa-check"></i>Zusätzliches Gewicht</a></li>
 </ul></li>
 </ul></li>
-<li class="chapter" data-level="47.6" data-path="wer-willst-du-sein.html"><a href="wer-willst-du-sein.html#wo-nachschauen"><i class="fa fa-check"></i><b>47.6</b> Wo nachschauen?</a></li>
-<li class="chapter" data-level="47.7" data-path="wer-willst-du-sein.html"><a href="wer-willst-du-sein.html#im-spiel"><i class="fa fa-check"></i><b>47.7</b> Im Spiel</a>
+<li class="chapter" data-level="48.6" data-path="wer-willst-du-sein.html"><a href="wer-willst-du-sein.html#wo-nachschauen"><i class="fa fa-check"></i><b>48.6</b> Wo nachschauen?</a></li>
+<li class="chapter" data-level="48.7" data-path="wer-willst-du-sein.html"><a href="wer-willst-du-sein.html#im-spiel"><i class="fa fa-check"></i><b>48.7</b> Im Spiel</a>
 <ul>
-<li class="chapter" data-level="47.7.1" data-path="wer-willst-du-sein.html"><a href="wer-willst-du-sein.html#modifikatoren"><i class="fa fa-check"></i><b>47.7.1</b> Modifikatoren</a></li>
-<li class="chapter" data-level="47.7.2" data-path="wer-willst-du-sein.html"><a href="wer-willst-du-sein.html#glaube"><i class="fa fa-check"></i><b>47.7.2</b> Glaube</a></li>
-<li class="chapter" data-level="47.7.3" data-path="wer-willst-du-sein.html"><a href="wer-willst-du-sein.html#glück"><i class="fa fa-check"></i><b>47.7.3</b> Glück</a></li>
-<li class="chapter" data-level="47.7.4" data-path="wer-willst-du-sein.html"><a href="wer-willst-du-sein.html#sanity"><i class="fa fa-check"></i><b>47.7.4</b> Sanity</a></li>
-<li class="chapter" data-level="47.7.5" data-path="wer-willst-du-sein.html"><a href="wer-willst-du-sein.html#lagern-und-ruhen"><i class="fa fa-check"></i><b>47.7.5</b> Lagern und Ruhen</a></li>
-<li class="chapter" data-level="47.7.6" data-path="wer-willst-du-sein.html"><a href="wer-willst-du-sein.html#längerfristige-verletzungen"><i class="fa fa-check"></i><b>47.7.6</b> Längerfristige Verletzungen</a>
+<li class="chapter" data-level="48.7.1" data-path="wer-willst-du-sein.html"><a href="wer-willst-du-sein.html#modifikatoren"><i class="fa fa-check"></i><b>48.7.1</b> Modifikatoren</a></li>
+<li class="chapter" data-level="48.7.2" data-path="wer-willst-du-sein.html"><a href="wer-willst-du-sein.html#glaube"><i class="fa fa-check"></i><b>48.7.2</b> Glaube</a></li>
+<li class="chapter" data-level="48.7.3" data-path="wer-willst-du-sein.html"><a href="wer-willst-du-sein.html#glück"><i class="fa fa-check"></i><b>48.7.3</b> Glück</a></li>
+<li class="chapter" data-level="48.7.4" data-path="wer-willst-du-sein.html"><a href="wer-willst-du-sein.html#sanity"><i class="fa fa-check"></i><b>48.7.4</b> Sanity</a></li>
+<li class="chapter" data-level="48.7.5" data-path="wer-willst-du-sein.html"><a href="wer-willst-du-sein.html#lagern-und-ruhen"><i class="fa fa-check"></i><b>48.7.5</b> Lagern und Ruhen</a></li>
+<li class="chapter" data-level="48.7.6" data-path="wer-willst-du-sein.html"><a href="wer-willst-du-sein.html#längerfristige-verletzungen"><i class="fa fa-check"></i><b>48.7.6</b> Längerfristige Verletzungen</a>
 <ul>
 <li class="chapter" data-level="" data-path="wer-willst-du-sein.html"><a href="wer-willst-du-sein.html#verstümmelung"><i class="fa fa-check"></i>Verstümmelung</a></li>
 <li class="chapter" data-level="" data-path="wer-willst-du-sein.html"><a href="wer-willst-du-sein.html#verkrüppelung"><i class="fa fa-check"></i>Verkrüppelung</a></li>
 </ul></li>
-<li class="chapter" data-level="47.7.7" data-path="wer-willst-du-sein.html"><a href="wer-willst-du-sein.html#Ohnmacht"><i class="fa fa-check"></i><b>47.7.7</b> Ohnmacht und Tod</a></li>
+<li class="chapter" data-level="48.7.7" data-path="wer-willst-du-sein.html"><a href="wer-willst-du-sein.html#Ohnmacht"><i class="fa fa-check"></i><b>48.7.7</b> Ohnmacht und Tod</a></li>
 </ul></li>
 </ul></li>
-<li class="chapter" data-level="48" data-path="Items.html"><a href="Items.html"><i class="fa fa-check"></i><b>48</b> Ausrüstung und Gegenstände</a>
+<li class="chapter" data-level="49" data-path="Items.html"><a href="Items.html"><i class="fa fa-check"></i><b>49</b> Ausrüstung und Gegenstände</a>
 <ul>
-<li class="chapter" data-level="48.1" data-path="Items.html"><a href="Items.html#zustand"><i class="fa fa-check"></i><b>48.1</b> Zustand</a></li>
-<li class="chapter" data-level="48.2" data-path="Items.html"><a href="Items.html#Waffen"><i class="fa fa-check"></i><b>48.2</b> Waffen</a>
+<li class="chapter" data-level="49.1" data-path="Items.html"><a href="Items.html#zustand"><i class="fa fa-check"></i><b>49.1</b> Zustand</a></li>
+<li class="chapter" data-level="49.2" data-path="Items.html"><a href="Items.html#Waffen"><i class="fa fa-check"></i><b>49.2</b> Waffen</a>
 <ul>
-<li class="chapter" data-level="48.2.1" data-path="Items.html"><a href="Items.html#fernwaffen"><i class="fa fa-check"></i><b>48.2.1</b> Fernwaffen</a>
+<li class="chapter" data-level="49.2.1" data-path="Items.html"><a href="Items.html#fernwaffen"><i class="fa fa-check"></i><b>49.2.1</b> Fernwaffen</a>
 <ul>
-<li class="chapter" data-level="48.2.1.1" data-path="Items.html"><a href="Items.html#Ammo"><i class="fa fa-check"></i><b>48.2.1.1</b> Munitionstypen</a></li>
+<li class="chapter" data-level="49.2.1.1" data-path="Items.html"><a href="Items.html#Ammo"><i class="fa fa-check"></i><b>49.2.1.1</b> Munitionstypen</a></li>
 </ul></li>
-<li class="chapter" data-level="48.2.2" data-path="Items.html"><a href="Items.html#kurzwaffen"><i class="fa fa-check"></i><b>48.2.2</b> Kurzwaffen</a></li>
-<li class="chapter" data-level="48.2.3" data-path="Items.html"><a href="Items.html#großwaffen"><i class="fa fa-check"></i><b>48.2.3</b> Großwaffen</a></li>
-<li class="chapter" data-level="48.2.4" data-path="Items.html"><a href="Items.html#Stangenwaffen"><i class="fa fa-check"></i><b>48.2.4</b> Stangenwaffen</a></li>
-<li class="chapter" data-level="48.2.5" data-path="Items.html"><a href="Items.html#WurfWaffen"><i class="fa fa-check"></i><b>48.2.5</b> Wurfwaffen</a></li>
-<li class="chapter" data-level="48.2.6" data-path="Items.html"><a href="Items.html#Faustwaffen"><i class="fa fa-check"></i><b>48.2.6</b> Faustwaffen</a></li>
+<li class="chapter" data-level="49.2.2" data-path="Items.html"><a href="Items.html#kurzwaffen"><i class="fa fa-check"></i><b>49.2.2</b> Kurzwaffen</a></li>
+<li class="chapter" data-level="49.2.3" data-path="Items.html"><a href="Items.html#großwaffen"><i class="fa fa-check"></i><b>49.2.3</b> Großwaffen</a></li>
+<li class="chapter" data-level="49.2.4" data-path="Items.html"><a href="Items.html#Stangenwaffen"><i class="fa fa-check"></i><b>49.2.4</b> Stangenwaffen</a></li>
+<li class="chapter" data-level="49.2.5" data-path="Items.html"><a href="Items.html#WurfWaffen"><i class="fa fa-check"></i><b>49.2.5</b> Wurfwaffen</a></li>
+<li class="chapter" data-level="49.2.6" data-path="Items.html"><a href="Items.html#Faustwaffen"><i class="fa fa-check"></i><b>49.2.6</b> Faustwaffen</a></li>
 </ul></li>
-<li class="chapter" data-level="48.3" data-path="Items.html"><a href="Items.html#Rüstung"><i class="fa fa-check"></i><b>48.3</b> Rüstung</a>
+<li class="chapter" data-level="49.3" data-path="Items.html"><a href="Items.html#Rüstung"><i class="fa fa-check"></i><b>49.3</b> Rüstung</a>
 <ul>
-<li class="chapter" data-level="48.3.1" data-path="Items.html"><a href="Items.html#schild"><i class="fa fa-check"></i><b>48.3.1</b> Schild</a></li>
+<li class="chapter" data-level="49.3.1" data-path="Items.html"><a href="Items.html#schild"><i class="fa fa-check"></i><b>49.3.1</b> Schild</a></li>
 </ul></li>
-<li class="chapter" data-level="48.4" data-path="Items.html"><a href="Items.html#TranktascheItems"><i class="fa fa-check"></i><b>48.4</b> Tranktaschen</a></li>
-<li class="chapter" data-level="48.5" data-path="Items.html"><a href="Items.html#Tränke"><i class="fa fa-check"></i><b>48.5</b> Tränke</a>
+<li class="chapter" data-level="49.4" data-path="Items.html"><a href="Items.html#TranktascheItems"><i class="fa fa-check"></i><b>49.4</b> Tranktaschen</a></li>
+<li class="chapter" data-level="49.5" data-path="Items.html"><a href="Items.html#Tränke"><i class="fa fa-check"></i><b>49.5</b> Tränke</a>
 <ul>
-<li class="chapter" data-level="48.5.1" data-path="Items.html"><a href="Items.html#wirkungen-von-tränken"><i class="fa fa-check"></i><b>48.5.1</b> Wirkungen von Tränken:</a></li>
+<li class="chapter" data-level="49.5.1" data-path="Items.html"><a href="Items.html#wirkungen-von-tränken"><i class="fa fa-check"></i><b>49.5.1</b> Wirkungen von Tränken:</a></li>
 </ul></li>
-<li class="chapter" data-level="48.6" data-path="Items.html"><a href="Items.html#Mounts"><i class="fa fa-check"></i><b>48.6</b> Reittiere</a></li>
-<li class="chapter" data-level="48.7" data-path="Items.html"><a href="Items.html#AndereGegenstände"><i class="fa fa-check"></i><b>48.7</b> Andere Gegenstände</a></li>
-<li class="chapter" data-level="48.8" data-path="Items.html"><a href="Items.html#instrumente"><i class="fa fa-check"></i><b>48.8</b> Instrumente</a>
+<li class="chapter" data-level="49.6" data-path="Items.html"><a href="Items.html#Mounts"><i class="fa fa-check"></i><b>49.6</b> Reittiere</a></li>
+<li class="chapter" data-level="49.7" data-path="Items.html"><a href="Items.html#AndereGegenstände"><i class="fa fa-check"></i><b>49.7</b> Andere Gegenstände</a></li>
+<li class="chapter" data-level="49.8" data-path="Items.html"><a href="Items.html#instrumente"><i class="fa fa-check"></i><b>49.8</b> Instrumente</a>
 <ul>
-<li class="chapter" data-level="48.8.1" data-path="Items.html"><a href="Items.html#WirkungBuffs"><i class="fa fa-check"></i><b>48.8.1</b> Buffs durch Instrumente</a></li>
+<li class="chapter" data-level="49.8.1" data-path="Items.html"><a href="Items.html#WirkungBuffs"><i class="fa fa-check"></i><b>49.8.1</b> Buffs durch Instrumente</a></li>
 </ul></li>
-<li class="chapter" data-level="48.9" data-path="Items.html"><a href="Items.html#fallen"><i class="fa fa-check"></i><b>48.9</b> Fallen</a>
+<li class="chapter" data-level="49.9" data-path="Items.html"><a href="Items.html#fallen"><i class="fa fa-check"></i><b>49.9</b> Fallen</a>
 <ul>
-<li class="chapter" data-level="48.9.1" data-path="Items.html"><a href="Items.html#typische-fallen"><i class="fa fa-check"></i><b>48.9.1</b> Typische Fallen</a>
+<li class="chapter" data-level="49.9.1" data-path="Items.html"><a href="Items.html#typische-fallen"><i class="fa fa-check"></i><b>49.9.1</b> Typische Fallen</a>
 <ul>
 <li class="chapter" data-level="" data-path="Items.html"><a href="Items.html#bärenfalle"><i class="fa fa-check"></i>Bärenfalle</a></li>
 <li class="chapter" data-level="" data-path="Items.html"><a href="Items.html#schlingenfalle"><i class="fa fa-check"></i>Schlingenfalle</a></li>
@@ -1397,68 +1451,68 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 </ul></li>
 </ul></li>
 </ul></li>
-<li class="chapter" data-level="49" data-path="BesondereItems.html"><a href="BesondereItems.html"><i class="fa fa-check"></i><b>49</b> Besondere Items und Modifikationen</a>
+<li class="chapter" data-level="50" data-path="BesondereItems.html"><a href="BesondereItems.html"><i class="fa fa-check"></i><b>50</b> Besondere Items und Modifikationen</a>
 <ul>
-<li class="chapter" data-level="49.1" data-path="BesondereItems.html"><a href="BesondereItems.html#regeln"><i class="fa fa-check"></i><b>49.1</b> Regeln</a></li>
-<li class="chapter" data-level="49.2" data-path="BesondereItems.html"><a href="BesondereItems.html#waffen-mods"><i class="fa fa-check"></i><b>49.2</b> Waffen Mods</a>
+<li class="chapter" data-level="50.1" data-path="BesondereItems.html"><a href="BesondereItems.html#regeln"><i class="fa fa-check"></i><b>50.1</b> Regeln</a></li>
+<li class="chapter" data-level="50.2" data-path="BesondereItems.html"><a href="BesondereItems.html#waffen-mods"><i class="fa fa-check"></i><b>50.2</b> Waffen Mods</a>
 <ul>
-<li class="chapter" data-level="49.2.1" data-path="BesondereItems.html"><a href="BesondereItems.html#leichtbau"><i class="fa fa-check"></i><b>49.2.1</b> Leichtbau</a></li>
+<li class="chapter" data-level="50.2.1" data-path="BesondereItems.html"><a href="BesondereItems.html#leichtbau"><i class="fa fa-check"></i><b>50.2.1</b> Leichtbau</a></li>
 </ul></li>
-<li class="chapter" data-level="49.3" data-path="BesondereItems.html"><a href="BesondereItems.html#waffen-mods-nahkampf"><i class="fa fa-check"></i><b>49.3</b> Waffen Mods Nahkampf</a>
+<li class="chapter" data-level="50.3" data-path="BesondereItems.html"><a href="BesondereItems.html#waffen-mods-nahkampf"><i class="fa fa-check"></i><b>50.3</b> Waffen Mods Nahkampf</a>
 <ul>
-<li class="chapter" data-level="49.3.1" data-path="BesondereItems.html"><a href="BesondereItems.html#das-brennende-schweret"><i class="fa fa-check"></i><b>49.3.1</b> Das Brennende Schweret</a></li>
+<li class="chapter" data-level="50.3.1" data-path="BesondereItems.html"><a href="BesondereItems.html#das-brennende-schweret"><i class="fa fa-check"></i><b>50.3.1</b> Das Brennende Schweret</a></li>
 </ul></li>
-<li class="chapter" data-level="49.4" data-path="BesondereItems.html"><a href="BesondereItems.html#waffen-mods-fernkampf"><i class="fa fa-check"></i><b>49.4</b> Waffen Mods Fernkampf</a>
+<li class="chapter" data-level="50.4" data-path="BesondereItems.html"><a href="BesondereItems.html#waffen-mods-fernkampf"><i class="fa fa-check"></i><b>50.4</b> Waffen Mods Fernkampf</a>
 <ul>
-<li class="chapter" data-level="49.4.1" data-path="BesondereItems.html"><a href="BesondereItems.html#baqonett"><i class="fa fa-check"></i><b>49.4.1</b> Baqonett</a></li>
-<li class="chapter" data-level="49.4.2" data-path="BesondereItems.html"><a href="BesondereItems.html#armbrust"><i class="fa fa-check"></i><b>49.4.2</b> Armbrust</a>
+<li class="chapter" data-level="50.4.1" data-path="BesondereItems.html"><a href="BesondereItems.html#baqonett"><i class="fa fa-check"></i><b>50.4.1</b> Baqonett</a></li>
+<li class="chapter" data-level="50.4.2" data-path="BesondereItems.html"><a href="BesondereItems.html#armbrust"><i class="fa fa-check"></i><b>50.4.2</b> Armbrust</a>
 <ul>
-<li class="chapter" data-level="49.4.2.1" data-path="BesondereItems.html"><a href="BesondereItems.html#nachlade-bonus"><i class="fa fa-check"></i><b>49.4.2.1</b> Nachlade Bonus:</a></li>
-<li class="chapter" data-level="49.4.2.2" data-path="BesondereItems.html"><a href="BesondereItems.html#ersatz-bolzen"><i class="fa fa-check"></i><b>49.4.2.2</b> Ersatz Bolzen:</a></li>
-<li class="chapter" data-level="49.4.2.3" data-path="BesondereItems.html"><a href="BesondereItems.html#zielstab-akebuse"><i class="fa fa-check"></i><b>49.4.2.3</b> Zielstab Akebuse</a></li>
-</ul></li>
-</ul></li>
-<li class="chapter" data-level="49.5" data-path="BesondereItems.html"><a href="BesondereItems.html#rüstungs-mods"><i class="fa fa-check"></i><b>49.5</b> Rüstungs Mods</a></li>
-<li class="chapter" data-level="49.6" data-path="BesondereItems.html"><a href="BesondereItems.html#andere-items-und-ausrüstung"><i class="fa fa-check"></i><b>49.6</b> Andere Items und Ausrüstung</a>
-<ul>
-<li class="chapter" data-level="49.6.1" data-path="BesondereItems.html"><a href="BesondereItems.html#fackel"><i class="fa fa-check"></i><b>49.6.1</b> Fackel</a></li>
-<li class="chapter" data-level="49.6.2" data-path="BesondereItems.html"><a href="BesondereItems.html#versteckter-dolch-haarspange"><i class="fa fa-check"></i><b>49.6.2</b> Versteckter Dolch / Haarspange</a></li>
-<li class="chapter" data-level="49.6.3" data-path="BesondereItems.html"><a href="BesondereItems.html#schmuggel-fach-dolch"><i class="fa fa-check"></i><b>49.6.3</b> Schmuggel Fach Dolch</a></li>
-<li class="chapter" data-level="49.6.4" data-path="BesondereItems.html"><a href="BesondereItems.html#zoombrille-blendschutz"><i class="fa fa-check"></i><b>49.6.4</b> Zoombrille &amp; Blendschutz</a></li>
-<li class="chapter" data-level="49.6.5" data-path="BesondereItems.html"><a href="BesondereItems.html#enterhaken"><i class="fa fa-check"></i><b>49.6.5</b> Enterhaken</a></li>
-<li class="chapter" data-level="49.6.6" data-path="BesondereItems.html"><a href="BesondereItems.html#strickleiter"><i class="fa fa-check"></i><b>49.6.6</b> Strickleiter</a></li>
-<li class="chapter" data-level="49.6.7" data-path="BesondereItems.html"><a href="BesondereItems.html#tarnnetz"><i class="fa fa-check"></i><b>49.6.7</b> Tarnnetz</a></li>
-<li class="chapter" data-level="49.6.8" data-path="BesondereItems.html"><a href="BesondereItems.html#weihwasser"><i class="fa fa-check"></i><b>49.6.8</b> Weihwasser</a></li>
-<li class="chapter" data-level="49.6.9" data-path="BesondereItems.html"><a href="BesondereItems.html#licht-des-allgotts"><i class="fa fa-check"></i><b>49.6.9</b> Licht des Allgotts</a></li>
-<li class="chapter" data-level="49.6.10" data-path="BesondereItems.html"><a href="BesondereItems.html#pavese"><i class="fa fa-check"></i><b>49.6.10</b> Pavese</a></li>
-<li class="chapter" data-level="49.6.11" data-path="BesondereItems.html"><a href="BesondereItems.html#verstecker-dolch"><i class="fa fa-check"></i><b>49.6.11</b> Verstecker Dolch</a></li>
-<li class="chapter" data-level="49.6.12" data-path="BesondereItems.html"><a href="BesondereItems.html#giftring"><i class="fa fa-check"></i><b>49.6.12</b> Giftring</a></li>
-<li class="chapter" data-level="49.6.13" data-path="BesondereItems.html"><a href="BesondereItems.html#bärenfalle-1"><i class="fa fa-check"></i><b>49.6.13</b> Bärenfalle</a></li>
-<li class="chapter" data-level="49.6.14" data-path="BesondereItems.html"><a href="BesondereItems.html#krähenfüße-1"><i class="fa fa-check"></i><b>49.6.14</b> Krähenfüße</a></li>
+<li class="chapter" data-level="50.4.2.1" data-path="BesondereItems.html"><a href="BesondereItems.html#nachlade-bonus"><i class="fa fa-check"></i><b>50.4.2.1</b> Nachlade Bonus:</a></li>
+<li class="chapter" data-level="50.4.2.2" data-path="BesondereItems.html"><a href="BesondereItems.html#ersatz-bolzen"><i class="fa fa-check"></i><b>50.4.2.2</b> Ersatz Bolzen:</a></li>
+<li class="chapter" data-level="50.4.2.3" data-path="BesondereItems.html"><a href="BesondereItems.html#zielstab-akebuse"><i class="fa fa-check"></i><b>50.4.2.3</b> Zielstab Akebuse</a></li>
 </ul></li>
 </ul></li>
-<li class="chapter" data-level="50" data-path="der-krieg-auf-see.html"><a href="der-krieg-auf-see.html"><i class="fa fa-check"></i><b>50</b> Der Krieg auf See</a>
+<li class="chapter" data-level="50.5" data-path="BesondereItems.html"><a href="BesondereItems.html#rüstungs-mods"><i class="fa fa-check"></i><b>50.5</b> Rüstungs Mods</a></li>
+<li class="chapter" data-level="50.6" data-path="BesondereItems.html"><a href="BesondereItems.html#andere-items-und-ausrüstung"><i class="fa fa-check"></i><b>50.6</b> Andere Items und Ausrüstung</a>
 <ul>
-<li class="chapter" data-level="50.1" data-path="der-krieg-auf-see.html"><a href="der-krieg-auf-see.html#allgemeines"><i class="fa fa-check"></i><b>50.1</b> Allgemeines</a>
+<li class="chapter" data-level="50.6.1" data-path="BesondereItems.html"><a href="BesondereItems.html#fackel"><i class="fa fa-check"></i><b>50.6.1</b> Fackel</a></li>
+<li class="chapter" data-level="50.6.2" data-path="BesondereItems.html"><a href="BesondereItems.html#versteckter-dolch-haarspange"><i class="fa fa-check"></i><b>50.6.2</b> Versteckter Dolch / Haarspange</a></li>
+<li class="chapter" data-level="50.6.3" data-path="BesondereItems.html"><a href="BesondereItems.html#schmuggel-fach-dolch"><i class="fa fa-check"></i><b>50.6.3</b> Schmuggel Fach Dolch</a></li>
+<li class="chapter" data-level="50.6.4" data-path="BesondereItems.html"><a href="BesondereItems.html#zoombrille-blendschutz"><i class="fa fa-check"></i><b>50.6.4</b> Zoombrille &amp; Blendschutz</a></li>
+<li class="chapter" data-level="50.6.5" data-path="BesondereItems.html"><a href="BesondereItems.html#enterhaken"><i class="fa fa-check"></i><b>50.6.5</b> Enterhaken</a></li>
+<li class="chapter" data-level="50.6.6" data-path="BesondereItems.html"><a href="BesondereItems.html#strickleiter"><i class="fa fa-check"></i><b>50.6.6</b> Strickleiter</a></li>
+<li class="chapter" data-level="50.6.7" data-path="BesondereItems.html"><a href="BesondereItems.html#tarnnetz"><i class="fa fa-check"></i><b>50.6.7</b> Tarnnetz</a></li>
+<li class="chapter" data-level="50.6.8" data-path="BesondereItems.html"><a href="BesondereItems.html#weihwasser"><i class="fa fa-check"></i><b>50.6.8</b> Weihwasser</a></li>
+<li class="chapter" data-level="50.6.9" data-path="BesondereItems.html"><a href="BesondereItems.html#licht-des-allgotts"><i class="fa fa-check"></i><b>50.6.9</b> Licht des Allgotts</a></li>
+<li class="chapter" data-level="50.6.10" data-path="BesondereItems.html"><a href="BesondereItems.html#pavese"><i class="fa fa-check"></i><b>50.6.10</b> Pavese</a></li>
+<li class="chapter" data-level="50.6.11" data-path="BesondereItems.html"><a href="BesondereItems.html#verstecker-dolch"><i class="fa fa-check"></i><b>50.6.11</b> Verstecker Dolch</a></li>
+<li class="chapter" data-level="50.6.12" data-path="BesondereItems.html"><a href="BesondereItems.html#giftring"><i class="fa fa-check"></i><b>50.6.12</b> Giftring</a></li>
+<li class="chapter" data-level="50.6.13" data-path="BesondereItems.html"><a href="BesondereItems.html#bärenfalle-1"><i class="fa fa-check"></i><b>50.6.13</b> Bärenfalle</a></li>
+<li class="chapter" data-level="50.6.14" data-path="BesondereItems.html"><a href="BesondereItems.html#krähenfüße-1"><i class="fa fa-check"></i><b>50.6.14</b> Krähenfüße</a></li>
+</ul></li>
+</ul></li>
+<li class="chapter" data-level="51" data-path="der-krieg-auf-see.html"><a href="der-krieg-auf-see.html"><i class="fa fa-check"></i><b>51</b> Der Krieg auf See</a>
 <ul>
-<li class="chapter" data-level="50.1.1" data-path="der-krieg-auf-see.html"><a href="der-krieg-auf-see.html#kapern-und-versenken"><i class="fa fa-check"></i><b>50.1.1</b> Kapern und Versenken</a></li>
-<li class="chapter" data-level="50.1.2" data-path="der-krieg-auf-see.html"><a href="der-krieg-auf-see.html#schiffsarten"><i class="fa fa-check"></i><b>50.1.2</b> Schiffsarten</a>
+<li class="chapter" data-level="51.1" data-path="der-krieg-auf-see.html"><a href="der-krieg-auf-see.html#allgemeines"><i class="fa fa-check"></i><b>51.1</b> Allgemeines</a>
+<ul>
+<li class="chapter" data-level="51.1.1" data-path="der-krieg-auf-see.html"><a href="der-krieg-auf-see.html#kapern-und-versenken"><i class="fa fa-check"></i><b>51.1.1</b> Kapern und Versenken</a></li>
+<li class="chapter" data-level="51.1.2" data-path="der-krieg-auf-see.html"><a href="der-krieg-auf-see.html#schiffsarten"><i class="fa fa-check"></i><b>51.1.2</b> Schiffsarten</a>
 <ul>
 <li class="chapter" data-level="" data-path="der-krieg-auf-see.html"><a href="der-krieg-auf-see.html#RuderGeneral"><i class="fa fa-check"></i>Ruderschiffe</a></li>
 <li class="chapter" data-level="" data-path="der-krieg-auf-see.html"><a href="der-krieg-auf-see.html#SegelGeneral"><i class="fa fa-check"></i>Segelschiffe</a></li>
 <li class="chapter" data-level="" data-path="der-krieg-auf-see.html"><a href="der-krieg-auf-see.html#staatenschiffe"><i class="fa fa-check"></i>Staatenschiffe</a></li>
 </ul></li>
 </ul></li>
-<li class="chapter" data-level="50.2" data-path="der-krieg-auf-see.html"><a href="der-krieg-auf-see.html#schiffstypen"><i class="fa fa-check"></i><b>50.2</b> Schiffstypen</a>
+<li class="chapter" data-level="51.2" data-path="der-krieg-auf-see.html"><a href="der-krieg-auf-see.html#schiffstypen"><i class="fa fa-check"></i><b>51.2</b> Schiffstypen</a>
 <ul>
-<li class="chapter" data-level="50.2.1" data-path="der-krieg-auf-see.html"><a href="der-krieg-auf-see.html#ruderschiffe"><i class="fa fa-check"></i><b>50.2.1</b> Ruderschiffe</a>
+<li class="chapter" data-level="51.2.1" data-path="der-krieg-auf-see.html"><a href="der-krieg-auf-see.html#ruderschiffe"><i class="fa fa-check"></i><b>51.2.1</b> Ruderschiffe</a>
 <ul>
 <li class="chapter" data-level="" data-path="der-krieg-auf-see.html"><a href="der-krieg-auf-see.html#barke"><i class="fa fa-check"></i>Barke</a></li>
 <li class="chapter" data-level="" data-path="der-krieg-auf-see.html"><a href="der-krieg-auf-see.html#bireme"><i class="fa fa-check"></i>Bireme</a></li>
 <li class="chapter" data-level="" data-path="der-krieg-auf-see.html"><a href="der-krieg-auf-see.html#galeeren"><i class="fa fa-check"></i>Galeeren</a></li>
 <li class="chapter" data-level="" data-path="der-krieg-auf-see.html"><a href="der-krieg-auf-see.html#trireme"><i class="fa fa-check"></i>Trireme</a></li>
 </ul></li>
-<li class="chapter" data-level="50.2.2" data-path="der-krieg-auf-see.html"><a href="der-krieg-auf-see.html#segelschiffe"><i class="fa fa-check"></i><b>50.2.2</b> Segelschiffe</a>
+<li class="chapter" data-level="51.2.2" data-path="der-krieg-auf-see.html"><a href="der-krieg-auf-see.html#segelschiffe"><i class="fa fa-check"></i><b>51.2.2</b> Segelschiffe</a>
 <ul>
 <li class="chapter" data-level="" data-path="der-krieg-auf-see.html"><a href="der-krieg-auf-see.html#kutter"><i class="fa fa-check"></i>Kutter</a></li>
 <li class="chapter" data-level="" data-path="der-krieg-auf-see.html"><a href="der-krieg-auf-see.html#brigg"><i class="fa fa-check"></i>Brigg</a></li>
@@ -1467,51 +1521,51 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <li class="chapter" data-level="" data-path="der-krieg-auf-see.html"><a href="der-krieg-auf-see.html#karavelle"><i class="fa fa-check"></i>Karavelle</a></li>
 <li class="chapter" data-level="" data-path="der-krieg-auf-see.html"><a href="der-krieg-auf-see.html#galeone"><i class="fa fa-check"></i>Galeone</a></li>
 </ul></li>
-<li class="chapter" data-level="50.2.3" data-path="der-krieg-auf-see.html"><a href="der-krieg-auf-see.html#werte-und-übersicht"><i class="fa fa-check"></i><b>50.2.3</b> Werte und Übersicht</a></li>
+<li class="chapter" data-level="51.2.3" data-path="der-krieg-auf-see.html"><a href="der-krieg-auf-see.html#werte-und-übersicht"><i class="fa fa-check"></i><b>51.2.3</b> Werte und Übersicht</a></li>
 </ul></li>
-<li class="chapter" data-level="50.3" data-path="der-krieg-auf-see.html"><a href="der-krieg-auf-see.html#schiffsbewaffnung"><i class="fa fa-check"></i><b>50.3</b> Schiffsbewaffnung</a>
+<li class="chapter" data-level="51.3" data-path="der-krieg-auf-see.html"><a href="der-krieg-auf-see.html#schiffsbewaffnung"><i class="fa fa-check"></i><b>51.3</b> Schiffsbewaffnung</a>
 <ul>
-<li class="chapter" data-level="50.3.1" data-path="der-krieg-auf-see.html"><a href="der-krieg-auf-see.html#SegelArtillerie"><i class="fa fa-check"></i><b>50.3.1</b> Artillerie</a></li>
-<li class="chapter" data-level="50.3.2" data-path="der-krieg-auf-see.html"><a href="der-krieg-auf-see.html#rammen"><i class="fa fa-check"></i><b>50.3.2</b> Rammen</a></li>
-<li class="chapter" data-level="50.3.3" data-path="der-krieg-auf-see.html"><a href="der-krieg-auf-see.html#kaperequipment"><i class="fa fa-check"></i><b>50.3.3</b> Kaperequipment</a></li>
-<li class="chapter" data-level="50.3.4" data-path="der-krieg-auf-see.html"><a href="der-krieg-auf-see.html#sonstige-waffen"><i class="fa fa-check"></i><b>50.3.4</b> Sonstige Waffen</a>
+<li class="chapter" data-level="51.3.1" data-path="der-krieg-auf-see.html"><a href="der-krieg-auf-see.html#SegelArtillerie"><i class="fa fa-check"></i><b>51.3.1</b> Artillerie</a></li>
+<li class="chapter" data-level="51.3.2" data-path="der-krieg-auf-see.html"><a href="der-krieg-auf-see.html#rammen"><i class="fa fa-check"></i><b>51.3.2</b> Rammen</a></li>
+<li class="chapter" data-level="51.3.3" data-path="der-krieg-auf-see.html"><a href="der-krieg-auf-see.html#kaperequipment"><i class="fa fa-check"></i><b>51.3.3</b> Kaperequipment</a></li>
+<li class="chapter" data-level="51.3.4" data-path="der-krieg-auf-see.html"><a href="der-krieg-auf-see.html#sonstige-waffen"><i class="fa fa-check"></i><b>51.3.4</b> Sonstige Waffen</a>
 <ul>
 <li class="chapter" data-level="" data-path="der-krieg-auf-see.html"><a href="der-krieg-auf-see.html#saldisches-feuer"><i class="fa fa-check"></i>Saldisches Feuer</a></li>
 </ul></li>
 </ul></li>
 </ul></li>
 <li class="part"><span><b>VIII DM-Sektion</b></span></li>
-<li class="chapter" data-level="51" data-path="für-dms-und-die-die-es-werden-wollen.html"><a href="für-dms-und-die-die-es-werden-wollen.html"><i class="fa fa-check"></i><b>51</b> Für DM’s und die, die es werden Wollen</a>
+<li class="chapter" data-level="52" data-path="für-dms-und-die-die-es-werden-wollen.html"><a href="für-dms-und-die-die-es-werden-wollen.html"><i class="fa fa-check"></i><b>52</b> Für DM’s und die, die es werden Wollen</a>
 <ul>
-<li class="chapter" data-level="51.1" data-path="für-dms-und-die-die-es-werden-wollen.html"><a href="für-dms-und-die-die-es-werden-wollen.html#Abstufungen"><i class="fa fa-check"></i><b>51.1</b> Wie intepretiere ich Values und Würfe</a>
+<li class="chapter" data-level="52.1" data-path="für-dms-und-die-die-es-werden-wollen.html"><a href="für-dms-und-die-die-es-werden-wollen.html#Abstufungen"><i class="fa fa-check"></i><b>52.1</b> Wie intepretiere ich Values und Würfe</a>
 <ul>
-<li class="chapter" data-level="51.1.1" data-path="für-dms-und-die-die-es-werden-wollen.html"><a href="für-dms-und-die-die-es-werden-wollen.html#was-machen-kritische-würfe"><i class="fa fa-check"></i><b>51.1.1</b> Was machen kritische Würfe</a></li>
+<li class="chapter" data-level="52.1.1" data-path="für-dms-und-die-die-es-werden-wollen.html"><a href="für-dms-und-die-die-es-werden-wollen.html#was-machen-kritische-würfe"><i class="fa fa-check"></i><b>52.1.1</b> Was machen kritische Würfe</a></li>
 </ul></li>
-<li class="chapter" data-level="51.2" data-path="für-dms-und-die-die-es-werden-wollen.html"><a href="für-dms-und-die-die-es-werden-wollen.html#queststufen"><i class="fa fa-check"></i><b>51.2</b> Queststufen</a></li>
+<li class="chapter" data-level="52.2" data-path="für-dms-und-die-die-es-werden-wollen.html"><a href="für-dms-und-die-die-es-werden-wollen.html#queststufen"><i class="fa fa-check"></i><b>52.2</b> Queststufen</a></li>
 </ul></li>
-<li class="chapter" data-level="52" data-path="nutzung-des-programmes.html"><a href="nutzung-des-programmes.html"><i class="fa fa-check"></i><b>52</b> Nutzung des Programmes</a>
+<li class="chapter" data-level="53" data-path="nutzung-des-programmes.html"><a href="nutzung-des-programmes.html"><i class="fa fa-check"></i><b>53</b> Nutzung des Programmes</a>
 <ul>
-<li class="chapter" data-level="52.1" data-path="nutzung-des-programmes.html"><a href="nutzung-des-programmes.html#benutzung-von-jupyter"><i class="fa fa-check"></i><b>52.1</b> Benutzung von Jupyter</a></li>
-<li class="chapter" data-level="52.2" data-path="nutzung-des-programmes.html"><a href="nutzung-des-programmes.html#klassen-und-npcs-erstellen"><i class="fa fa-check"></i><b>52.2</b> Klassen und Npc’s erstellen</a>
+<li class="chapter" data-level="53.1" data-path="nutzung-des-programmes.html"><a href="nutzung-des-programmes.html#benutzung-von-jupyter"><i class="fa fa-check"></i><b>53.1</b> Benutzung von Jupyter</a></li>
+<li class="chapter" data-level="53.2" data-path="nutzung-des-programmes.html"><a href="nutzung-des-programmes.html#klassen-und-npcs-erstellen"><i class="fa fa-check"></i><b>53.2</b> Klassen und Npc’s erstellen</a>
 <ul>
-<li class="chapter" data-level="52.2.1" data-path="nutzung-des-programmes.html"><a href="nutzung-des-programmes.html#initialisierte-einen-npc-mit-gleichen-methoden-wie-char-oder-monster---klassen"><i class="fa fa-check"></i><b>52.2.1</b> Initialisierte einen Npc mit gleichen Methoden wie char oder monster - Klassen</a></li>
-<li class="chapter" data-level="52.2.2" data-path="nutzung-des-programmes.html"><a href="nutzung-des-programmes.html#methoden"><i class="fa fa-check"></i><b>52.2.2</b> Methoden</a></li>
-<li class="chapter" data-level="52.2.3" data-path="nutzung-des-programmes.html"><a href="nutzung-des-programmes.html#waffen"><i class="fa fa-check"></i><b>52.2.3</b> Waffen</a></li>
-<li class="chapter" data-level="52.2.4" data-path="nutzung-des-programmes.html"><a href="nutzung-des-programmes.html#munitionsobjekt"><i class="fa fa-check"></i><b>52.2.4</b> Munitionsobjekt</a></li>
+<li class="chapter" data-level="53.2.1" data-path="nutzung-des-programmes.html"><a href="nutzung-des-programmes.html#initialisierte-einen-npc-mit-gleichen-methoden-wie-char-oder-monster---klassen"><i class="fa fa-check"></i><b>53.2.1</b> Initialisierte einen Npc mit gleichen Methoden wie char oder monster - Klassen</a></li>
+<li class="chapter" data-level="53.2.2" data-path="nutzung-des-programmes.html"><a href="nutzung-des-programmes.html#methoden"><i class="fa fa-check"></i><b>53.2.2</b> Methoden</a></li>
+<li class="chapter" data-level="53.2.3" data-path="nutzung-des-programmes.html"><a href="nutzung-des-programmes.html#waffen"><i class="fa fa-check"></i><b>53.2.3</b> Waffen</a></li>
+<li class="chapter" data-level="53.2.4" data-path="nutzung-des-programmes.html"><a href="nutzung-des-programmes.html#munitionsobjekt"><i class="fa fa-check"></i><b>53.2.4</b> Munitionsobjekt</a></li>
 </ul></li>
-<li class="chapter" data-level="52.3" data-path="nutzung-des-programmes.html"><a href="nutzung-des-programmes.html#schnellfunktionen"><i class="fa fa-check"></i><b>52.3</b> Schnellfunktionen</a></li>
-<li class="chapter" data-level="52.4" data-path="nutzung-des-programmes.html"><a href="nutzung-des-programmes.html#gruppenfähige-proben"><i class="fa fa-check"></i><b>52.4</b> Gruppenfähige Proben</a></li>
-<li class="chapter" data-level="52.5" data-path="nutzung-des-programmes.html"><a href="nutzung-des-programmes.html#proben"><i class="fa fa-check"></i><b>52.5</b> Proben</a>
+<li class="chapter" data-level="53.3" data-path="nutzung-des-programmes.html"><a href="nutzung-des-programmes.html#schnellfunktionen"><i class="fa fa-check"></i><b>53.3</b> Schnellfunktionen</a></li>
+<li class="chapter" data-level="53.4" data-path="nutzung-des-programmes.html"><a href="nutzung-des-programmes.html#gruppenfähige-proben"><i class="fa fa-check"></i><b>53.4</b> Gruppenfähige Proben</a></li>
+<li class="chapter" data-level="53.5" data-path="nutzung-des-programmes.html"><a href="nutzung-des-programmes.html#proben"><i class="fa fa-check"></i><b>53.5</b> Proben</a>
 <ul>
-<li class="chapter" data-level="52.5.1" data-path="nutzung-des-programmes.html"><a href="nutzung-des-programmes.html#option-1"><i class="fa fa-check"></i><b>52.5.1</b> Option 1:</a></li>
+<li class="chapter" data-level="53.5.1" data-path="nutzung-des-programmes.html"><a href="nutzung-des-programmes.html#option-1"><i class="fa fa-check"></i><b>53.5.1</b> Option 1:</a></li>
 </ul></li>
-<li class="chapter" data-level="52.6" data-path="nutzung-des-programmes.html"><a href="nutzung-des-programmes.html#übriges"><i class="fa fa-check"></i><b>52.6</b> Übriges</a>
+<li class="chapter" data-level="53.6" data-path="nutzung-des-programmes.html"><a href="nutzung-des-programmes.html#übriges"><i class="fa fa-check"></i><b>53.6</b> Übriges</a>
 <ul>
-<li class="chapter" data-level="52.6.1" data-path="nutzung-des-programmes.html"><a href="nutzung-des-programmes.html#dot-bezogenes"><i class="fa fa-check"></i><b>52.6.1</b> Dot-Bezogenes</a></li>
+<li class="chapter" data-level="53.6.1" data-path="nutzung-des-programmes.html"><a href="nutzung-des-programmes.html#dot-bezogenes"><i class="fa fa-check"></i><b>53.6.1</b> Dot-Bezogenes</a></li>
 </ul></li>
 </ul></li>
 <li class="part"><span><b>IX Das Team hinter Orbis Astea</b></span></li>
-<li class="chapter" data-level="53" data-path="zum-projekt.html"><a href="zum-projekt.html"><i class="fa fa-check"></i><b>53</b> Zum Projekt</a>
+<li class="chapter" data-level="54" data-path="zum-projekt.html"><a href="zum-projekt.html"><i class="fa fa-check"></i><b>54</b> Zum Projekt</a>
 <ul>
 <li class="chapter" data-level="" data-path="zum-projekt.html"><a href="zum-projekt.html#die-autoren"><i class="fa fa-check"></i>Die Autoren</a>
 <ul>
@@ -1543,17 +1597,17 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
             <section class="normal" id="section-">
 <div id="menschen" class="section level1" number="3">
 <h1><span class="header-section-number">Kapitel 3</span> Menschen</h1>
-<p>Da Menschen an sich den meisten Lesern bereits vertraut sind ist dies eher ein kurzer Eintrag in diesem Buch.
-Menschen stellen die mit Abstand dominanteste Rasse in Orbis Astea da. Ihre größte Stärke ist die Fähigkeit, sich an jede Situation anzupassen. Ein Mensch kann fast alles lernen und ist körperlich nicht wirklich eingeschränkt - aber auch nicht begabt.</p>
-<p>Dies führt zu einer Situation in der Menschen zwar in jedem Bereich oben mitspielen, aber in kaum einem Bereich zu den besten gehören. Für die Spezies selbst scheint sich die Durchschnittlichkeit jedoch auszuzahlen. Sie besetzen am meisten Raum, sind am zahlreichsten und mit Abstand die mächtigste Rasse.</p>
+<p>Da die menschliche Rasse an sich den meisten Lesern bereits vertraut ist, wird dieser Eintrag des Buches eher kurz gehalten.
+Menschen stellen die mit Abstand dominanteste Rasse in Orbis Astea dar. Ihre größte Stärke ist die Fähigkeit, sich an jede Situation anzupassen. Ein Mensch kann fast alles lernen und ist körperlich nicht wirklich eingeschränkt - aber auch nicht sonderlich begabt.</p>
+<p>Dies führt zu einer Situation, in der Menschen zwar in jedem Bereich oben mitspielen, aber in kaum einem Bereich zu den Besten gehören. Für die Spezies selbst scheint sich die Durchschnittlichkeit jedoch auszuzahlen. Sie besetzen die größte Fläche, sind zahlenmäßig allen anderen Rassen überlegen und mit Abstand die mächtigste Rasse.</p>
 <div id="die-geschichte-der-rasse" class="section level2" number="3.1">
 <h2><span class="header-section-number">3.1</span> Die Geschichte der Rasse</h2>
-<p>Die Geschichte der Menschen ist zu vielfältig, um wirklich von einer Rassengeschichte zu sprechen. Dies liegt vor allem an der enormen Heterogenität zwischen Gesellschaften. Das Kaiserreich, Rah Kari und Eldria bezeichnen beispielsweise ganz unterschiedliche Kulturen, obwohl zur gleichen Rasse gehörig.</p>
-<p>Was man allerdings weiß, ist das die Menschen wohl mit eine der älteren Rassen sein müssen. Die deutlich länger dokumentierende Geschichtsschreibung der Zwerge (bzw. ihre Geschäftsbücher) weisen von Anfang an auf Außenhandel mit Menschen hin.</p>
+<p>Die Geschichte der Menschen ist zu vielfältig, um wirklich von einer Rassengeschichte sprechen zu können. Dies liegt vor allem an der enormen Heterogenität zwischen den Gesellschaften. Das Kaiserreich, Rah Kari und Eldria, bezeichnen beispielsweise ganz unterschiedliche Kulturen, obwohl der gleichen Rasse zugehörig.</p>
+<p>Was man allerdings weiß, ist, dass die Menschen wohl mit eine der älteren Rassen sein müssen. Die deutlich länger dokumentierende Geschichtsschreibung der Zwerge (bzw. ihre Geschäftsbücher) weisen von Anfang an auf Außenhandel mit Menschen hin.</p>
 </div>
 <div id="bekannte-kulturen-der-menschen" class="section level2" number="3.2">
 <h2><span class="header-section-number">3.2</span> Bekannte Kulturen der Menschen</h2>
-<p>Hier eine Auflistung von reinen Menschenkulturen, bzw. Kulturen in denen Menschen einen hohen Bevölkerungsanteil haben:</p>
+<p>Hier eine Auflistung von reinen Menschenkulturen bzw. Kulturen, in denen Menschen einen hohen Bevölkerungsanteil haben:</p>
 <ul>
 <li>Das <font color="green"><a href="Kaiserreich.html#Kaiserreich">Kaiserreich</a></font></li>
 <li>Die <font color="green"><a href="RahKari.html#RahKari">Rah Kari</a></font></li>

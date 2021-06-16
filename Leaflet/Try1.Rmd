@@ -1,0 +1,600 @@
+---
+title: "Karte von Orbis Astea"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, warning = F,message = F)
+library(leaflet)
+library(leafem)
+library(readxl)
+library(sp)
+library(dplyr)
+library(leaflet.extras)
+
+dfGesamt=read_excel("DataCities.xlsx")
+options(scipen=999)
+
+dfCities=dfGesamt %>% filter(Icons=="Grosstadt")
+dfStadt= dfGesamt %>% filter(Icons=="Stadt")
+dfKlein= dfGesamt %>% filter(Icons=="Farm" | Icons == "Dorf")
+dfMiliz=dfGesamt %>% filter(Icons=="Milizstadt" | Icons == "Ausenposten")
+dfNatur=dfGesamt %>% filter(Icons=="Wahrzeichen" | Icons == "Natur" | Icons == "Schlacht")
+dfRuins= dfGesamt %>% filter(Icons=="Ruine")
+
+```
+
+```{r PolitPolygons, echo=FALSE}
+colvec=c("red","#CE5500","#9F13A8","#3B2B06","black")
+
+KaisKernPoly=Polygon(cbind(c(20.4, 23, 26.8, 29.5, 33.8, 33.7,33.4, 35, 37,
+                             37.6, 39.5,36.6, 38, 37.3, 39.8, 40.9,40.9,28,27.3,30,28.34, 25.4, 23),
+                            c(20.8, 24, 25.2, 25.5, 24.8, 23.5, 21.5, 20, 
+                              18.5, 17.4, 15.2, 13.75, 12,11, 8.6, 6.1,0,0,3.3,4.4,7.8,8.4,11.3)
+))
+KaisKernPolygons=Polygons(list(KaisKernPoly),"Kaiserreich")
+
+
+KaisBesatzPoly=Polygon(cbind(c(27.9,15,13.5,10.7,11.7,14,14.6,16.6,20.4,21.2, 23.9,24, 26.4,27.2),
+                            c(0,0,4,6.2,7.7,8.46,9,10.6,9,7,4.5,3,2.6, 2.76)
+))
+KaisBesatzPolygons=Polygons(list(KaisBesatzPoly),"KaiserreichBesetzung")
+
+
+RahKariPoly=Polygon(cbind(c(0,4,9.6,12.4,13.6,16,15.3,15.5,14.3,12.3,11,8.55,6.24,3.8,3,1,0),
+                            c(22,24.3,23,21.1,21,17.85,16.5, 15.4,13.2,11.8,11.5,9,7.55,7.35,10.7,12.55,13.6)
+))
+RahKariPolygons=Polygons(list(RahKariPoly),"RahKari")
+
+SilvaPoly=Polygon(cbind(c(20.6,23.12,25.23,28.25,30.24,27.4,25,23.5,21.5),
+                            c(9.1,10.75,8.4,7.7,4.5,3.5,5.4,5.3,6.9)
+))
+SilvaPolygons=Polygons(list(SilvaPoly),"SilvaNacia")
+
+VulkanPoly=Polygon(cbind(c(15.8,13.35,11.7,13.22,15,17.4,17.6),
+                            c(22.8,23.4,25,26.8,26.85,24.95,23.6)
+))
+VulkanPolygons=Polygons(list(VulkanPoly),"Vulkanzwerge")
+
+
+PolitPolygons = SpatialPolygons(list(KaisKernPolygons,KaisBesatzPolygons,RahKariPolygons,SilvaPolygons,VulkanPolygons),1:5)
+
+PolitPolygonsData=read_excel("PolitPolyData.xlsx")
+
+PolitLabels= sprintf(
+  "<strong>%s</strong><br/>ca %i Personen <br>unter %s",
+  PolitPolygonsData$Name, PolitPolygonsData$Population, PolitPolygonsData$Herrscher
+) %>% lapply(htmltools::HTML)
+```
+
+
+```{r RegionPolygons, echo=F}
+
+
+dfRegionPolyValues=read_excel("PolygoneRegion.xlsx")
+
+GrenzlandPoly=Polygon(cbind(na.omit(dfRegionPolyValues$LongGrenz),na.omit(dfRegionPolyValues$LatGrenz)))
+GrenzlandPolygons=Polygons(list(GrenzlandPoly),"Grenzland")
+
+BermaPoly=Polygon(cbind(na.omit(dfRegionPolyValues$LongBerma),na.omit(dfRegionPolyValues$LatBerma)))
+BermaPolygons=Polygons(list(BermaPoly),"Bermatal")
+
+EisenPoly=Polygon(cbind(na.omit(dfRegionPolyValues$LongEisenrote),na.omit(dfRegionPolyValues$LatEisenrote)))
+EisenPolygons=Polygons(list(EisenPoly),"Eisenrote Wüste")
+
+WurmfallPoly=Polygon(cbind(na.omit(dfRegionPolyValues$LongWurmfall),na.omit(dfRegionPolyValues$LatWurmfall)))
+#WurmfallHolePoly=Polygon(cbind(na.omit(dfRegionPolyValues$LongEisenrote),na.omit(dfRegionPolyValues$LatEisenrote)),hole=T)
+WurmfallPolygons=Polygons(list(WurmfallPoly),"Wurmfall")
+
+EidTPoly=Polygon(cbind(na.omit(dfRegionPolyValues$LongEidT),na.omit(dfRegionPolyValues$LatEidT)))
+EidTPolygons=Polygons(list(EidTPoly),"Eid Tanis")
+
+SudEldriaPoly=Polygon(cbind(na.omit(dfRegionPolyValues$LongSüdEldria),na.omit(dfRegionPolyValues$LatSüdEldria)))
+SudEldriaPolygons=Polygons(list(SudEldriaPoly),"Südeldria")
+
+AppoPoly=Polygon(cbind(na.omit(dfRegionPolyValues$LongAppothis),na.omit(dfRegionPolyValues$LatAppothis)))
+AppoPolygons=Polygons(list(AppoPoly),"Appothis")
+
+NordEldriaPoly=Polygon(cbind(na.omit(dfRegionPolyValues$LongNordEldria),na.omit(dfRegionPolyValues$LatNordEldria)))
+NordEldriaPolygons=Polygons(list(NordEldriaPoly),"NordEldria")
+
+NorsPoly=Polygon(cbind(na.omit(dfRegionPolyValues$LongNors),na.omit(dfRegionPolyValues$LatNors)))
+NorsPolygons=Polygons(list(NorsPoly),"Nors")
+
+EislandPoly=Polygon(cbind(na.omit(dfRegionPolyValues$LongEis),na.omit(dfRegionPolyValues$LatEis)))
+EislandPolygons=Polygons(list(EislandPoly),"Eisland")
+
+NebelhainPoly=Polygon(cbind(na.omit(dfRegionPolyValues$LongNebelhain),na.omit(dfRegionPolyValues$LatNebelhain)))
+NebelhainPolygons=Polygons(list(NebelhainPoly),"Nebelhain")
+
+YondallaPoly=Polygon(cbind(na.omit(dfRegionPolyValues$LongYondalla),na.omit(dfRegionPolyValues$LatYondalla)))
+YondallaPolygons=Polygons(list(YondallaPoly),"Yondalla")
+
+SilvaPoly=Polygon(cbind(na.omit(dfRegionPolyValues$LongSilvaNacia),na.omit(dfRegionPolyValues$LatSilvaNacia)))
+SilvaPolygons=Polygons(list(SilvaPoly),"Silva Nacia")
+
+HimmelOstPoly=Polygon(cbind(na.omit(dfRegionPolyValues$LongHimmelOst),na.omit(dfRegionPolyValues$LatHimmelOst)))
+HimmelOstPolygons=Polygons(list(HimmelOstPoly),"Ost-Himmelsspitzen")
+
+EidRahKahPoly=Polygon(cbind(na.omit(dfRegionPolyValues$LongEidRahKari),na.omit(dfRegionPolyValues$LatEidRahKari)))
+EidRahKahPolygons=Polygons(list(EidRahKahPoly),"Eid' Rah Kahri")
+
+DunstspitzenPoly=Polygon(cbind(na.omit(dfRegionPolyValues$LongDunstspitzen),na.omit(dfRegionPolyValues$LatDunstspitzen)))
+DunstspitzenPolygons=Polygons(list(DunstspitzenPoly),"Dunstspitzen")
+
+GoblinsPoly=Polygon(cbind(na.omit(dfRegionPolyValues$LongGoblinLand),na.omit(dfRegionPolyValues$LatGoblinLand)))
+GoblinsPolygons=Polygons(list(GoblinsPoly),"Goblinland")
+
+AtumpetPoly=Polygon(cbind(na.omit(dfRegionPolyValues$LongAtumpet),na.omit(dfRegionPolyValues$LatAtumpet)))
+AtumpetPolygons=Polygons(list(AtumpetPoly),"Atumpet")
+
+GrauPoly=Polygon(cbind(na.omit(dfRegionPolyValues$LongGrauOrd),na.omit(dfRegionPolyValues$LatGrauOrd)))
+GrauPolygons=Polygons(list(GrauPoly),"Graue Ödnis")
+
+OberreichPoly=Polygon(cbind(na.omit(dfRegionPolyValues$LongOber),na.omit(dfRegionPolyValues$LatOber)))
+OberreichPolygons=Polygons(list(OberreichPoly),"Oberreik")
+
+NafPoly=Polygon(cbind(na.omit(dfRegionPolyValues$LongNaf),na.omit(dfRegionPolyValues$LatNaf)))
+NafPolygons=Polygons(list(NafPoly),"Nafta-Enklave")
+
+HerzPoly=Polygon(cbind(na.omit(dfRegionPolyValues$LongHerzland),na.omit(dfRegionPolyValues$LatHerzland)))
+HerzPolygons=Polygons(list(HerzPoly),"Herzland")
+
+HimmelNordPoly=Polygon(cbind(na.omit(dfRegionPolyValues$LongHimNord),na.omit(dfRegionPolyValues$LatHimNord)))
+HimmelNordPolygons=Polygons(list(HimmelNordPoly),"Nord-Himmelsgebirge")
+
+inputListRegionen=list(GrenzlandPolygons,BermaPolygons,EisenPolygons,WurmfallPolygons,EidTPolygons,SudEldriaPolygons,AppoPolygons,NordEldriaPolygons,NorsPolygons,EislandPolygons,NebelhainPolygons,YondallaPolygons,SilvaPolygons,HimmelOstPolygons,EidRahKahPolygons,DunstspitzenPolygons,GoblinsPolygons, AtumpetPolygons,GrauPolygons, OberreichPolygons,NafPolygons,HerzPolygons,HimmelNordPolygons)
+
+RegionPolygons=SpatialPolygons(inputListRegionen,1:length(inputListRegionen))
+
+
+RegionPolygonsData=read_excel("DataRegionInfo.xlsx")
+
+RegionenLabels= sprintf(
+  "<strong>%s</strong><br/>Hauptstadt: %s<br>Herrscher: %s<br>Bevölkerungsdichte: %s pro Km^2",
+  RegionPolygonsData$Name, RegionPolygonsData$Hauptstadt, RegionPolygonsData$Herrscher, RegionPolygonsData$`Nachgefragte Güter`,RegionPolygonsData$`Güter im Überfluss`,RegionPolygonsData$`Wirtschafliche Kraft`
+) %>% lapply(htmltools::HTML)
+
+
+EconLabels= sprintf(
+  "<strong>%s</strong><br/>Nachfrage: %s<br>Angebot: %s<br>Wirtschaftliche Kraft: %s",
+  RegionPolygonsData$Name, RegionPolygonsData$`Nachgefragte Güter`,RegionPolygonsData$`Güter im Überfluss`,RegionPolygonsData$`Wirtschafliche Kraft`
+) %>% lapply(htmltools::HTML)
+
+ReliLabels= sprintf(
+  "<strong>%s</strong><br>Dominante Religion: %s<br>Allgottgläubig: %i<br>Lehre von Darcy: %i<br>Anhänger des Rah Kahs: %i<br>Andere: %i",
+  RegionPolygonsData$Name,RegionPolygonsData$`Dominante Religion`, RegionPolygonsData$AllgottPerc, RegionPolygonsData$DarcyPerc, RegionPolygonsData$RahPerc, RegionPolygonsData$AnderePerc
+) %>% lapply(htmltools::HTML)
+
+
+givecols=function(x,ausvec ,colorvec ){
+  vec=c()
+  for (i in x){
+    for (j in 1:length(ausvec)){
+     if(i==ausvec[j]){
+       vec=c(vec,colorvec[j])
+     } 
+    }
+  }
+  return(vec)
+}
+
+```
+
+
+
+
+```{r Icons, echo=F}
+icons=iconList(
+  Ausenposten = makeIcon("Marker/Außenposten.png","", 20, 20),
+  Grosstadt = makeIcon("Marker/Großstadt.png","", 20, 20),
+  Stadt = makeIcon("Marker/Stadt.png","", 20, 20),
+  Dorf = makeIcon("Marker/Dorf.png","", 20, 20),
+  Farm = makeIcon("Marker/Farm.png","", 20, 20),
+  Milizstadt = makeIcon("Marker/Milizstadt.png","", 20, 20),
+  Minenstadt = makeIcon("Marker/Minenstadt.png","", 20, 20),
+  Natur = makeIcon("Marker/Natur.png","", 20, 20),
+  Ruine = makeIcon("Marker/Ruine.png","", 20, 20),
+  Schlacht = makeIcon("Marker/Schlacht.png","", 20, 20),
+  Wahrzeichen= makeIcon("Marker/Wahrzeichen.png","", 20, 20)
+)
+```
+
+```{r , echo=FALSE, fig.width=8,fig.height=6}
+rgvec=c("black","red","orange","green","blue")
+
+w <- function()
+  with(knitr::opts_current$get(c("fig.width", "dpi", "fig.retina")),
+       fig.width * dpi / fig.retina)
+h <- function()
+  with(knitr::opts_current$get(c("fig.height", "dpi", "fig.retina")),
+       fig.height * dpi / fig.retina)
+
+
+m <- leaflet(width = w(), height = h()) %>%
+  addTiles(options = providerTileOptions(minZoom = 4, maxZoom = 8)) %>%  # Add default OpenStreetMap map tiles
+  setView(lng = 0, lat = 0, 4) %>%
+  htmlwidgets::onRender(
+    "
+      function(el, x) {
+        console.log(this);
+        var myMap = this;
+        var imageUrl = 'Background.PNG';
+        var imageBounds = [[-85,-460], [85, 460]];
+
+        L.imageOverlay(imageUrl, imageBounds).addTo(myMap);
+      }
+      "
+  ) %>%
+  htmlwidgets::onRender(
+    "
+      function(el, x) {
+        console.log(this);
+        var myMap = this;
+        var imageUrl = 'Orbis%20Aestea.jpg';
+        var imageBounds = [[0,0], [30.72, 40.96]];
+
+        L.imageOverlay(imageUrl, imageBounds).addTo(myMap);
+      }
+      "
+  ) %>% addMouseCoordinates() %>%
+  setMaxBounds(
+    lng1 = -3,
+    lat1 = -3,
+    lng2 = 43,
+    lat2 = 33
+  ) %>%
+  
+  
+  addMarkers(
+    data = dfCities,
+    ~ Long,
+    ~ Lat,
+    popup = paste(
+      "<center><p style='color:#663300'>",
+      "Name: ",
+      dfCities$Name,
+      " <br>Population: ",
+      dfCities$Population,
+      " <br>Region: ",
+      '<a href =',
+      dfCities$LinkRegion,
+      ">",
+      dfCities$Region ,
+      '</a>',
+      " <br>Herrschende Fraktion: ",
+      '<a href =',
+      dfCities$LinkFraktion,
+      ">",
+      dfCities$`Herrschende Fraktion` ,
+      '</a>',
+      "</center></p>"
+    ),
+    label = ~dfCities$Name,
+    labelOptions = labelOptions(noHide=F, textOnly = T, textsize = 0),
+    group = "Großstädte",
+    icon = ~icons[Icons]
+  ) %>%
+  
+    addMarkers(
+    data = dfStadt,
+    ~ Long,
+    ~ Lat,
+    popup = paste(
+      "<center><p style='color:#663300'>",
+      "Name: ",
+      dfStadt$Name,
+      " <br>Population: ",
+      dfStadt$Population,
+      " <br>Region: ",
+      '<a href =',
+      dfStadt$LinkRegion,
+      ">",
+      dfStadt$Region ,
+      '</a>',
+      " <br>Herrschende Fraktion: ",
+      '<a href =',
+      dfStadt$LinkFraktion,
+      ">",
+      dfStadt$`Herrschende Fraktion` ,
+      '</a>',
+      "</center></p>"
+    ),
+    group = "Städte",
+    label = ~dfStadt$Name,
+    labelOptions = labelOptions(noHide=F, textOnly = T, textsize = 0),
+    icon = ~icons[Icons]
+  ) %>%
+  
+      addMarkers(
+    data = dfKlein,
+    ~ Long,
+    ~ Lat,
+    popup = paste(
+      "<center><p style='color:#663300'>",
+      "Name: ",
+      dfKlein$Name,
+      " <br>Population: ",
+      dfKlein$Population,
+      " <br>Region: ",
+      '<a href =',
+      dfKlein$LinkRegion,
+      ">",
+      dfKlein$Region ,
+      '</a>',
+      " <br>Herrschende Fraktion: ",
+      '<a href =',
+      dfKlein$LinkFraktion,
+      ">",
+      dfKlein$`Herrschende Fraktion` ,
+      '</a>',
+      "</center></p>"
+    ),
+    group = "Kleine Orte",
+    label = ~dfKlein$Name,
+    labelOptions = labelOptions(noHide=F, textOnly = T, textsize = 0),
+    icon = ~icons[Icons]
+  ) %>%
+  
+        addMarkers(
+    data = dfMiliz,
+    ~ Long,
+    ~ Lat,
+    popup = paste(
+      "<center><p style='color:#663300'>",
+      "Name: ",
+      dfMiliz$Name,
+      " <br>Population: ",
+      dfMiliz$Population,
+      " <br>Region: ",
+      '<a href =',
+      dfMiliz$LinkRegion,
+      ">",
+      dfMiliz$Region ,
+      '</a>',
+      " <br>Herrschende Fraktion: ",
+      '<a href =',
+      dfMiliz$LinkFraktion,
+      ">",
+      dfMiliz$`Herrschende Fraktion` ,
+      '</a>',
+      "</center></p>"
+    ),
+    group = "Militär",
+    label = ~dfMiliz$Name,
+    labelOptions = labelOptions(noHide=F, textOnly = T, textsize = 0),
+    icon = ~icons[Icons]
+  ) %>%
+  
+    addMarkers(
+    data = dfNatur,
+    ~ Long,
+    ~ Lat,
+    popup = paste(
+      "<center><p style='color:#663300'>",
+      "Name: ",
+      dfNatur$Name,
+      " <br>Region: ",
+      '<a href =',
+      dfNatur$LinkRegion,
+      ">",
+      dfNatur$Region ,
+      '</a>',
+      " <br>Herrschende Fraktion: ",
+      '<a href =',
+      dfNatur$LinkFraktion,
+      ">",
+      dfNatur$`Herrschende Fraktion` ,
+      '</a>',
+      "</center></p>"
+    ),
+    group = "Sehenswürdigkeiten",
+    label = ~dfNatur$Name,
+    labelOptions = labelOptions(noHide=F, textOnly = T, textsize = 0),
+    icon = ~icons[Icons]
+  ) %>%
+  
+  addMarkers(
+    data = dfRuins,
+    ~ Long,
+    ~ Lat,
+    popup = paste(
+      "<center><p style='color:#663300'>",
+      "Name: ",
+      dfRuins$Name,
+      " <br>Population: ",
+      dfRuins$Population,
+      " <br>Region: ",
+      '<a href =',
+      dfRuins$LinkRegion,
+      ">",
+      dfRuins$Region ,
+      '</a>',
+      " <br>Herrschende Fraktion: ",
+      '<a href =',
+      dfRuins$LinkFraktion,
+      ">",
+      dfRuins$`Herrschende Fraktion` ,
+      '</a>',
+      "</center></p>"
+    ),
+    group = "Ruinen",
+    label = ~dfRuins$Name,
+    labelOptions = labelOptions(noHide=F, textOnly = T, textsize = 0),
+    icon = ~icons[Icons]
+  ) %>%
+  
+  addPolygons(
+    data = PolitPolygons,
+    color = colvec,
+    dashArray = "3",
+    fillColor = colvec,
+    group = "Großreiche",
+    fillOpacity = 0.2,
+    highlight = highlightOptions(
+    weight = 5,
+    color = "#666",
+    dashArray = "",
+    fillOpacity = 0.5,
+    bringToFront = TRUE,
+    ),
+    label = PolitLabels
+    
+  ) %>%
+  
+  addPolygons(
+    data = RegionPolygons,
+    group = "Regionsübersicht",
+    #color = "black",
+    dashArray = "5",
+    fillColor = givecols(RegionPolygonsData$Sicherheit,c("Sehr Schwach","Schwach","Mittel","Stark","Sehr Stark"),rgvec),
+    weight = 1,
+    opacity = 1,
+    color = "white",
+    fillOpacity = 0.2,
+    highlight = highlightOptions(
+    weight = 5,
+    color = "#666",
+    dashArray = "",
+    fillOpacity = 0.5,
+    bringToFront = TRUE,
+    ),
+    label = RegionenLabels
+    )  %>%
+  
+  addPolygons(
+    data = RegionPolygons,
+    group = "Religion",
+    #color = "black",
+    dashArray = "5",
+    fillColor = givecols(RegionPolygonsData$RelToleranz,c("Niedrig", "Mittel","Hoch"),c("red","orange","green")),
+    weight = 1,
+    opacity = 1,
+    color = "white",
+    fillOpacity = 0.2,
+    highlight = highlightOptions(
+      weight = 5,
+      color = "#666",
+      dashArray = "",
+      fillOpacity = 0.5,
+      bringToFront = TRUE,
+    ),
+    label = ReliLabels
+  ) %>%
+  addPolygons(
+    data = RegionPolygons,
+    group = "Wirtschaft",
+    dashArray = "5",
+    fillColor = givecols(RegionPolygonsData$Währung,c("Reik","Rahs","Kronen"),c("red","blue","orange")),
+    weight = 1,
+    opacity = 1,
+    color = "white",
+    fillOpacity = 0.2,
+    highlight = highlightOptions(
+      weight = 5,
+      color = "#666",
+      dashArray = "",
+      fillOpacity = 0.5,
+      bringToFront = TRUE,
+    ),
+    label = EconLabels
+  ) %>%
+  
+  addMeasure(
+    position = "bottomleft",
+    primaryLengthUnit = "kilometers",
+    primaryAreaUnit = "sqmeters",
+    localization="de"
+  ) %>%
+  
+  addLegend(
+    "topleft",
+    colors = colvec,
+    labels  = c(
+      "Kaiserreich",
+      "Kaiserreich besetzt",
+      "Rah Kari",
+      "Silva Nacia",
+      "Vulkanzwerge"
+    ),
+    title = "Großreiche",
+    group = "Großreiche",
+    opacity = 1
+  ) %>%
+  
+    addLegend(
+    "bottomright",
+    colors = rgvec,
+    labels  = c("Sehr Schwach","Schwach","Mittel","Stark","Sehr Stark"),
+    title = "Sicherheit",
+    className = "legend Regionsübersicht",
+    opacity = 1
+  ) %>%
+  
+    addLegend(
+    "bottomright",
+    colors = c("red","blue","orange"),
+    labels  = c("Reik","Rahs","Kronen"),
+    title = "Währung",
+    className = "legend Wirtschaft",
+    opacity = 1
+  ) %>%
+  
+  addLegend(
+    "bottomright",
+    colors = c("red","orange","green"),
+    labels  = c("Niedrig", "Mittel","Hoch"),
+    title = "Religiöse Toleranz",
+    className = "legend Religion",
+    opacity = 1
+  ) %>%
+  
+  addLayersControl(
+    baseGroups = c("Nichts","Regionsübersicht","Religion","Wirtschaft"),
+    overlayGroups = c("Großstädte","Städte","Militär","Sehenswürdigkeiten","Kleine Orte","Ruinen","Großreiche"),
+    options = layersControlOptions(collapsed = T)
+  ) %>% 
+
+  hideGroup(group = c("Großreiche")) %>% 
+  
+  addFullscreenControl(position="bottomright") %>%
+  addSearchFeatures(targetGroups=c("Großstädte","Städte","Militär","Sehenswürdigkeiten","Kleine Orte","Ruinen"),
+                    options = searchFeaturesOptions( zoom=12, openPopup = TRUE, firstTipSubmit = TRUE, autoCollapse = TRUE, hideMarkerOnCollapse = TRUE)) %>%
+  
+  addDrawToolbar() %>%
+  
+  htmlwidgets::onRender("
+      function(el, x) {
+         var updateLegend = function () {
+            var selectedGroup = document.querySelectorAll('input:checked')[0].nextSibling.innerText.substr(1);
+            var selectedClass = selectedGroup.replace(' ', '');
+            document.querySelectorAll('.legend').forEach(a => a.hidden=true);
+            document.querySelectorAll('.legend').forEach(l => {
+               if (l.classList.contains(selectedClass)) l.hidden=false;
+            });
+         };
+         updateLegend();
+         this.on('baselayerchange', el => updateLegend());
+      }"
+  )
+
+
+
+
+
+library(htmltools)
+browsable(tagList(list(tags$body(
+  tags$style(
+    ".leaflet-popup-content-wrapper {
+          background: #F3EACB;
+          color: ##663300;
+          font-family: 'Times New Roman', serif;
+          }
+        "
+  )
+),
+m)))
+
+
+```
+

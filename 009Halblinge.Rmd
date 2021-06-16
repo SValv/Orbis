@@ -7,8 +7,6 @@
 Die Halbinge von Orbis Astea sind ein eigentümliches Volk, das südlich des Herzlandes in Yondalla lebt. Diese kleinen Geschöpfe sind für ihre charismatischen Züge bekannt, da sie keine Schwierigkeiten haben, sich mit anderen Rassen anzufreunden. Einzige Ausnahme sind die Tiermenschen, denn jeder kultivierte Mensch sollte wissen, dass ein Tiermensch Stärke und einen guten rechten Handschlag mit über die meisten anderen Dinge stellt. Daher sollte es nicht überraschen, dass ein Halbling von der Größe eines Kindes einen schlechten ersten Eindruck hinterlässt. Halblinge haben jedoch keine allzu hohe Lebenserwartung, was dazu führt, dass sie häufig nervös sind und daher auch eine hektische Ausstrahlung haben können.
 
 
-![Ein Händler-Halbling](Pictures/Flavor/Halblinge/pngegg_Kaufmann.png)
-
 
 ## Die Geschichte der Rasse
 
@@ -24,6 +22,7 @@ In dieser Zeit vereinte <font color="green">[Endeldra](#Endeldra)</font> die Dö
 Für die Halblinge schien sich alles optimal zu entwickeln, weshalb sich eine große Erleichterung innerhalb Yondallas ausbreitete. Aufgrund der neu gewonnenen wirtschaftlichen Stärke wurden manche Halblinge dazu motiviert ihr Dorf zu verlassen und ihre Fähigkeiten als Landwirt weiter im inneren des Herzlandes anzubieten. 
 
 ![Ein Halbling macht sich auf die Reise ins Herzland](Pictures/Flavor/Halblinge/pngegg_Reisender.png)
+[^Künstler2]
 
 Diese Idylle sollte den Halblingen jedoch nicht allzu lange vergönnt sein, da sich die Armeen Eldrias dazu entschlossen in Yondalla einzufallen. Ziel dieser Angriffe war es die Nahrungsmittelexporte an das Kaiserreich zu unterbinden. 
 Dieser Krieg, welcher zwischen dem Kaiserreich und Eldria ausgetragen wurde, hielt für lange Zeit an und sorgte dafür, dass der Ertrag Yondallas zunehmend vermindert wurde. 
@@ -57,7 +56,7 @@ In den kleineren Dörfern von Yondalla ist es üblich, dass das Volk einen Vertr
 
 Obwohl es in der Natur der Hablinge liegt, charismatische Züge und im Allgemeinen ein fröhliches Wesen zu zeigen, ist dies nicht bei allen in Yondalla der Fall. Manche Halblinge haben es auf sich genommen, das Land von Orbis Astea zu erkunden oder ihr Land vor Monstern und anderen bösen Kreaturen zu schützen. Diese Halblinge sind unter ihren Brüdern als "Griesgrämige" bekannt, da sich ihre Prioritäten von der sorglosen Standard-Kultur deutlich unterscheiden.
 
-![Darstellung eines griesgrämigen Halblings](Pictures/Flavor/Halblinge/pngegg_halblingfrau.png)
+![Darstellung griesgrämiger Halblinge](Pictures/Flavor/Platzhalter/GriesgraemigeHalblinge.jpg)
 
 
 
@@ -84,7 +83,7 @@ Aufgrund der langen Lebensdauer und der geringen Anzahl von Kämpfen, an denen d
 Endeldra war der Gründer von Endeldor und derjenige, der die anfängliche freundschaftliche Kommunikation mit dem Kaiserreich übernahm. Außerdem war er derjenige, der die meisten Dörfer von Yondalla vereinte. In Endeldor benutzen die Leute das Wort Endel, um "text"
 
 ![Endeldra bei seiner Lieblingsbeschäftigung](Pictures/Flavor/Halblinge/pngegg_Weiser.png)
-
+[^Künstler7]
 
 ## Die Eigenbegriffe der Rasse
 
@@ -113,3 +112,8 @@ Unsuspected: Aufgrund ihres unschuldigen und charismatischen Charakters und ihre
 * Felder schneller brach, da zum einen neue Technologien den Ertrag erhöhen konnten und zum anderen der Glaube an ihren Gott untersagt wurde, der ihnen die ertragreichen Ernten bescherte.
 
 * Planting Kalender Hintergrund Pergament ändern
+
+
+[^Künstler2]: Dieses Bild wurden gefunden auf [pngegg.com](https://www.pngegg.com/en/png-dtcds) und steht zur nichtkommerziellen Nutzung zur Verfügung.
+
+[^Künstler7]: Dieses Bild wurde gefunden auf [pngegg.com](https://www.pngegg.com/en/png-egdvc) und steht zur nichtkommerziellen Nutzung zur Verfügung.

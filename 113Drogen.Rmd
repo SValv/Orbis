@@ -146,7 +146,7 @@ Diese wenigen Pflanzen sind die Grundlage für den Bevölkerungsreichtum des Kai
 
 
 
-![Weizenfelder von Yondalla](Pictures\\Flavor\Allgemein\Weizenfeld.jpg)
+![Weizenfelder von Yondalla](Pictures\\Flavor\Platzhalter\Weizenfeld.jpg)
 
 Sie dienen vor allem der Deckung der Grundbedürfnisse und sind einfach zu lagern. Explizit die Kariok Wurzelknolle verfügt über exzellente Lagereigenschaften und ermöglicht mit Blauen Bohnen die billigste einfachste aber sicherste Versorgung der Bevölkerung und wird im allgemeinen als das Essen der einfachen Leute bezeichnet.
 
@@ -169,10 +169,10 @@ Fisch und Krustengetier, bietet für viele, vor allem an Seen und Küstengebiete
 
 
 
-![Weizenfelder von Yondalla](Pictures\\Flavor\Allgemein\Toriusspalte.png)
+![Weizenfelder von Yondalla](Pictures\\Flavor\Platzhalter\Toriusspalte.jpg)
 
 
-![Weizenfelder von Yondalla](Pictures\\Flavor\Allgemein\Weizenfeld.jpg)
+![Weizenfelder von Yondalla](Pictures\\Flavor\Platzhalter\Weizenfeld.jpg)
 
 
 ### Nutzung von Pflanzen für allgemeine Gebrechen und Leiden

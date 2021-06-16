@@ -112,14 +112,14 @@ Dieser Gruppe gelang es auch einen verbrannten Bermatalteufel zu skizzieren und 
 
 Abseits dieser Berichte blieb lediglich der eines Wanderers südlich von Austen der eine solche Kreatur mit "*hämischen Lachenn und hoher Beweglichkeit, größer als jeder bekannte Mensch"* beschrieb.
 
-![Darstellung eines "Bermatalteufel" von Mangold von Straffeld](Pictures/Flavor/Monster/Bermatalteufel.jpg)
+![Darstellung eines "Bermatalteufel" von Mangold von Straffeld](Pictures/Flavor/Platzhalter/Bermatalteufel.jpg)
 
 ### Großer Aufspießer
 
 Eine besondere Abscheulichkeit stellt der Große Aufspießer dar.
 Sein Name, ist mit der Darstellung unten nachvollziehbar.
 
-![](Pictures/Flavor/Monster/Gro%C3%9Fer%20Aufspie%C3%9Fer.jpg "Großer Aufspießer in der Schlacht um die Knochenfeldschlucht")
+!["Großer Aufspießer in der Schlacht um die Knochenfeldschlucht"](Pictures/Flavor/Platzhalter/Gro%C3%9FerAufspie%C3%9Fer.jpg)
 
 Aufspießer gehören zu den Monstern der Klasse der Höllenbrut und sind reichen in der Körpergröße vier Meter vom Boden in die Höhe.
 Ausgestattatet mit sieben Armen und 3 Beinen ist die unnatürlichkeit dieser Abschleuchkeit sofort klar.
@@ -173,7 +173,7 @@ Es ist unbekannt was Kaisots im speziellen verzehren und Zwergengelehrte und Ork
 Dazu gehören Steine, Kühe, Orks, Menschen, Zwerge, Bäume oder auch mit Eisen verstärkte Pallisadenwälle.
 Dadurch hat sich in den von Kaiserlichern besetzten Gebieten die Meinung breit gemacht, dass diese Höllenbrut Monster nur das sind um die humanoiden Zivilisationen zu zerstören.
 
-![Darstellung des Menscherfressers von Dulukhai](Pictures%5CFlavor%5CMonster%5CKaisot.jpg)
+![Darstellung des Menscherfressers von Dulukhai](Pictures/Flavor/Platzhalter/Kaisot.jpg)
 
 Berichten zufolge sind westlich der Knochenfeldschlucht in den letzten Jahrhunderten mehrere dutzend Orksiedlungen durch Kaisots zerstört worden, wodurch einige Orkstämme eine tiefe Abneigung haben sich dort niederzulassen, obwohl die tieferen Täler und Flüsse eine beachtliche Nahrungsquelle darstellen würden.
 
@@ -215,7 +215,7 @@ zum Massaker von Austen wo eines Nachts mehrere Usukats vor und in Austen erschi
 
 Hierbei wurde beinahe die gesamte Stadtwache getötet oder schwer verwundet und mindestens 17 Usukats getötet.
 
-![Darstellung einer Usukatjagd in Eldira](Pictures%5CFlavor%5CMonster%5CUsukats.jpg)
+![Darstellung einer Usukatjagd in Eldira](Pictures/Flavor/Platzhalter/Usukats.jpg)
 
 > "Es war eine Nacht wie alle anderen. Wie hatten die Ernte vor 2 Wochen eingefahren, sie war gut dieses Jahr. ein lauer Herbstabend, mondlos und man konnte das rascheln der Blätter hören wenn man etwas Abseits der gut besuchten Tavernen seine Notdurft verrichtete. Die Kinder waren im Bett und Priester spendeten jenen Trost welche durch die Fleischmadenplage ihre Angehörigen verloren hatten. Die Stadtwache war am patroullieren und der Graf von Austen erbrachte jene Leistung welche gefordert wurde, die bekämpfung der Korruption unter der Stadtwache und die Vertreibung und Erhängung derer welche von Narkotikan und Adrenalinikan sich nicht lossagen konnten. Am nächsten Sonnabend sollte die Ekklesia zum beten rufen und den Graf für seine Taten für die Kinder des Allgottes ehren.
 >
@@ -304,9 +304,19 @@ Eventuell zur Verteidigung herbeistürmende Kinder, also die Ghule, sind mit Sch
 
 Alchemistisch ist keine Verwendung über Brutmutter Ingridientien bekannt.
 
-![Illustration einer schlafenden Brutmutter](Pictures%5CFlavor%5CMonster%5CBrutmutter.jpg)
+![Illustration einer schlafenden Brutmutter](Pictures/Flavor/Monster/by_taonavi_Brutmutter.jpg) 
 
-![Illustration eines Ghules](Pictures%5CFlavor%5CMonster%5Cghule.png)
+
+[^Künstler1]
+
+
+
+![Illustration eines Ghules](Pictures/Flavor/Erwachte/pngegg_Guhl_Erwachter.png) 
+
+[^Künstler2]
+
+
+
 
 ## Würmer
 
@@ -336,7 +346,7 @@ Steinwürmer besitzen im allgemeinen weiche Körperoberflächen was ihnen das na
 
 Ihre Intelligenz ist mangels wissen schwer zu beurteilen.
 
-![Darstellung eines Steinwurmes.](Pictures%5CFlavor%5CMonster%5Csteinwurm.png)
+![Darstellung eines Steinwurmes.](Pictures/Flavor/Platzhalter/Steinwurm.jpg)
 
 ### Aschwurm
 
@@ -369,7 +379,7 @@ Dementsprechend wird abgraten mit Armeen größer als 20 Mann während der vulka
 Es wird angenommen, dass Menschen keine Waffen besitzen welche den Aschwürmern Schaden zufügen könnte, da nichteinmal Drachen diese verletzen können.
 Insofern ist es nicht verwunderlich das wir keine Belege für natürliche Fressfeinde von Aschwürmern vorliegen haben.
 
-![Künstlerisch interpretierte Darstellung eines Aschwurms. Aschwürmer besitzen entgegen der Darstellung des Künstlers keine Augen.](Pictures%5CFlavor%5CMonster%5CAshworm.jpg)
+![Künstlerisch interpretierte Darstellung eines Aschwurms. Aschwürmer besitzen entgegen der Darstellung des Künstlers keine Augen.](Pictures/Flavor/Platzhalter/Aschwurm.jpg)
 
 ### Weltenwurm {#WeltenWurm}
 
@@ -394,7 +404,7 @@ Alten Überlieferungen der ersten Seefahrer zufolge war dies ein entscheidender 
 Über die Fortpflanzung dieser Knochenfische ist leider noch nichts bekannt, allerdings können kleine Dunkleosteus in Brackwasser beobachtet werden, wo diese gelgentlich von Fischern gefangen werden.
 Ihr Fleisch soll angeblich stark aphrodisierend wirken.
 
-![Ein Dunkleosteus vor der Küste Sturmkapps - Illustration von Nixan Dunkleosteus](Pictures%5CFlavor%5CMonster%5CDunkleosteus.png)
+![Ein Dunkleosteus vor der Küste Sturmkapps - Illustration von Nixan Dunkleosteus](Pictures/Flavor/Platzhalter/Dunkleosteus.jpg)
 
 ## Abgrundbewohner
 
@@ -422,7 +432,7 @@ In der 136 jährigen Zeit seit der Erstaufalge dieses wunderbaren Werkes konnten
 >
 > --- Auszug aus dem Werk von Pater Sistan Erindan - Das Leben der Zwerge - eine nicht heretische Abhandlung
 
-![Darstellung eines lebenden Werwolfes](Pictures%5CFlavor%5CMonster%5CLindwurm.jpg)
+![Darstellung eines lebenden Werwolfes](Pictures/Flavor/Platzhalter/Lindwurm.jpg)
 
 Orks, welche den Großteil der Lindwurmkenntnisse besitzen nutzen, falls es sich um Feuerspeiende Lindwürmer handelt, meist Lindwurm Haut zum Schutz und schnelle und gezielte Angriffe auf die Unterseite des Lindwurms.
 Vorzugsweise Nutzen Orks hierbei zweihändige Kriegshämmer und lange Knochenspeere aus den Knochen von Lindwürmern.
@@ -435,7 +445,7 @@ Dies tötet den Lindwurm nicht, jedoch desorientiert es den Lindwurm woraufhin m
 Speziell erwähnt werden sollte die beobachtete Tat eines Orkstammesführer Names Gra-Ash-Tark.
 Dieser war in der Lage mit einem einzigen Hieb seines 60 Kilo (!) schweren Kriegshammers einen Lindwurmschädel einzuschlagen- was den Lindwurm sofort tötete.
 
-![Darstellung von Gra-Ash-Tark mit seinem 60 Kilo Hammer](Pictures%5CFlavor%5CMonster%5CGra-Ash-Tark.png)
+![Darstellung von Gra-Ash-Tark mit seinem 60 Kilo Hammer](Pictures/Flavor/Platzhalter/Gra-Ash-Tark.jpg)
 
 ### Drachen
 
@@ -453,7 +463,7 @@ Drachenjungtiere werden, laut dem uns spärlich bekannten Wissen, meist Jahrelan
 Drachen ernähren sich von beinahe allem was naiv genug ist sich ihm entgegen zu stellen.
 Hierzu zählen Lindwürmer, Steinwürmer wie auch ein Kampf zwischen einem Aschwurm und einem Drachen bekannt war welche in einem unentschieden endete, da der Aschwurm sich zurück unter die Oberfläche zog.
 
-![Freie Interpretation des sogenannten "Drachenfürsten". Der größte jemals gesehene Drache mit einer Flügelspannweite von geschätzt 30 Metern](Pictures%5CFlavor%5CMonster%5Cdragonmyth.jpg)
+![Freie Interpretation des sogenannten "Drachenfürsten". Der größte jemals gesehene Drache mit einer Flügelspannweite von geschätzt 30 Metern](Pictures/Flavor/Platzhalter/drachenfuerst.jpg)
 
 ### Wahre Drachen {#WahrerDrache}
 
@@ -535,7 +545,7 @@ Terrute sind Einzelgänger und fressen alles was Menschen auch schmackhaft finde
 >
 > Niedergeschriebene Geschichte des Bauer Joanis von Eisfall über das Antreffen eines Terrut.
 
-![](C:/Users/Xufe/Dropbox/Rpg/###Orbis/Pictures/Flavor/Monster/Terout.jpeg "Darstellung eines Terrut von Mangold von Straffeld")
+![Darstellung eines Terrut von Mangold von Straffeld](Pictures/Flavor/Platzhalter/Terrut.jpg)
 
 Die Terrute sind unerwarteteter Weise keine einfachen Monster zum bezwingen.
 Scheinbar nicht mit besonderer Intelligenz geprägt, aber dafür umso kräftiger in allen sonstigen belangen sollten Terrute am Besten ohne kleine Armee nicht bekämpft werden.
@@ -571,7 +581,7 @@ Dennoch verstehen Gravis Menschen zum Teil, was man an ihren Reaktionen sieht.
 Ein Gravis zeichnet sich zurch zweierlei Dinge aus: Horrende Kraft und eine beinahe übernatürliche Reaktionsfähigkeit.
 Ihre ohnehin dicke und ledrige Haut erholt sich in kürzester Zeit sogar von tiefen schnitten und wunden, was sie zu unglaublich gefährlichen Feinden macht, die mit Keulen in übergröße ausgestattet ganze Battalione einfacher Soldaten zerschmettern können.
 
-![Darstellung eines Gravis im Dienste einer freien Kompanie](Pictures/Flavor/Monster/gravisT.png)
+![Darstellung eines Gravis im Dienste einer freien Kompanie](Pictures/Flavor/Platzhalter/gravis.jpg)
 
 Ein Gravis hat, wie bereits angemerkt, eine sehr dicke, fast rüstungsgleiche Haut.
 Aufgrund ihrer "Kommunikationsfähigkeit" und ihrer offensichtlichen Vorteile im Feld werden sie gerne von Söldnerkompanien eingesetzt, die die als Frontbrecher verwenden.
@@ -605,7 +615,7 @@ Schratgärtner verlassen ihre Höhlen gelegentlich um Feuerholz oder generell br
 
 Alleine aufgrund ihrer Körpergröße können Sie selbst für bestens ausgebildete Kämpfer eine ernsthafte Bedrohung darstellen und es wird, sofern man nicht Schrat stehlen möchte geraten diese Foedukulus zu meiden.
 
-![](docs/Pictures/Flavor/Monster/Schratgaertner.jpg "Darstellung eines Schratgaertner")
+![Darstellung eines Schratgaertner](Pictures/Flavor/Platzhalter/Schratgaertner.jpg)
 
 Schratgärtner verwenden häufig rudimentäre Waffen welche aus Sehnen, Harzen Knochen und Steinen aus der Umgebung oder von Stein und Lindwürmern erstellen.
 
@@ -671,7 +681,7 @@ Sobald die Jungtiere rund 11 Monate alt sind, was rund 1,3 Meter Körpergröße 
 
 Werwölfe sind anfällig gegenüber Feuer und Giften.
 
-![Darstellung eines lebenden Werwolfes](Pictures%5CFlavor%5CMonster%5Cwerwolf.png)
+![Darstellung eines lebenden Werwolfes](Pictures/Flavor/Platzhalter/werwolf.jpg)
 
 ## Vielbeiner
 
@@ -697,7 +707,8 @@ Das Wesen dieser Kreaturen ist schlicht.
 Sie fressen was sich im Schlamm oder am Land verbirgt und nicht mehr wegläuft, oder dumm genug ist, diese Tiere zu konfrontieren.
 Die Abscheulichkeiten des Nebelhains und von Silva Nacia scheinen allerdings hier ausreichend Nahrungs zur Verfügung zu stellen.
 
-![](C:/Users/Xufe/Dropbox/Rpg/###Orbis/Pictures/Flavor/Monster/000Fesbra000_Krebs.jpg "Schlammtrommler mit dem Größenvergleich zu einem Menschen")
+![Schlammtrommler mit dem Größenvergleich zu einem Menschen](Pictures/Flavor/Monster/000Fesbra000_Krebs.jpg)
+[^Künstler3]
 
 > "Also standen wir, wissen sie, mit 10 Legionären, schwer bewaffnet an der Grenze zu diesem "Nebelhain". Jedenfalls sahen wir die Karawane kommen, und dachten, ja gut, die Vorhut, 2 Pferde und die Reiter drauf. Doch dann merkten wir, dass die Kutschen nicht dabei waren, und dass ein paar arme Socken hinter den 2 Pferden nachliefen. Naja ich orderte halt meine Männer denen entgegen zu laufen. Die Sicht war an dem Tag Verhältnismäßig gut für diese erbärmlichen Sümpfe vor Rintom. Vielleicht 400 Meter. Also liefen wir denen entgegen. Naja die schwere Rüstung, und der Regen der letzten Tage, Sie glauben nicht wie Weiberarsch dick es da unten regnen kann, machten das laufen nicht gerade leichter. Als die Reiter uns in gebrochenen Kaiserlich erklären wollten dass wir umkehren sollten. Ja, wissen sie, dass haben wir nich so ganz Verstanden. Was sollte 10 Legionären schon was anhaben? Naja wir liefen weiter den Händlern entgegen und im Nebel sahen wir dann dieses riesige Vieh. Hoch wie ein Turm. Man, das ding war breit wie die Villa vom alten Stadthalter von Wagenfurt. Wir sahen wie das Maul von dem Ding blutrot war und Rüstungsfetzen raushingen. Man wir nahmen die Beine in die Hand, ich kämpfte schon gegen eldrische Hhnterhältige Schweine. Aber da fiel mir echt das Herz in meinen Hintern. Scheiße, wir liefen und liefen und dieser Nebelhain nahm kein Ende. Da war ich echt froh meine Männer ständig in schwerer Rüstung laufen zu lassen. Flavius hats leider nicht geschafft wir hörten das quietschen von Rüstung wie wenn es dünnes Blech wär. Ein Schrei und es war still. Man wir liefen und liefen und dieses Ding wurde kleiner und kleiner. Ich sag euch. Selbst wenn der Kaiser persönlich hier aufkreuzt ich steck keinen Zeh mehr in den Nebelhain. Schlammtrommler hießen diese Dinger habe ich mir sagen lassen. Nein, nie wieder geh ich dort rein, wir wurden dann versetzt und da muss ich ihnen die Geschichte von meinem Neffen Maxian erzählen...."
 >
@@ -710,7 +721,7 @@ Zu den dümmsten Vielbeinern zählen die beinahe humanoid wirkenden Knöchernen 
 Die südlich der Himmelsspitzengebirge vorkommenden rund 2,5 Meter großen Vielbeiner sind mit 4 Hörnern am Schädel ausgestattet, besitzen 4 Arme und 2 Beine, sowie Flügel welche sich vermutlich nur zum regulieren der Körpertemperatur eignen, da keine fliegenden knöchernen Wüstenschläger bekannt sind.
 Sie unterliegen in ihrer Häufigkeit einer jährlich hohen Variabilität und verursachen dadurch für Karawanen in Eid-Rah-kari und Apothis meist erhebliche Probleme wenn keine ausgebildeten Kämpfer dabei sind.
 
-![Darstellung eines Knöchernen Wüstenschläger](Pictures/Flavor/Monster/Kn%C3%B6cherner%20W%C3%BCstenschl%C3%A4ger.jpeg)
+![Darstellung eines Knöchernen Wüstenschläger](Pictures/Flavor/Platzhalter/KnoechnerWuestenschlaeger.jpg)
 
 Das Verhalten dieser Vielbeiner ist tagsüber äußerst aggressiv und bei Nachts meist eine Ruhephase wo sie sich im warmen Wüstensand vergraben.
 Diese Abscheulichkeiten stürmen tagsüber über große Distanzen auf Karawane, Wüstenskorpione oder alles was ihnen an diesem Tag nicht passt zu.
@@ -750,7 +761,7 @@ Dann springt oder sprintet der Felsenkriehcer auf seine Beute zu.
 Injiziert sein Gift, wodurch es rasch gelähmt wird.
 Anschließend stülpt es bei kleineren Opfern eine Art "Klebebein" um so das Opfer rasch in Sicherheit zu bringen, wo diese dann in steilen Berghängen verzehrt werden.
 
-![Darstellung eines Felsenkriechers, auch als Bergsteigerschreck bekannt, in den Himmelspsitzengebirgen von Mangold von Straffeld](C:/Users/Xufe/Dropbox/Rpg/###Orbis/Pictures/Flavor/Monster/Felsenkriecher.jpeg)
+![Darstellung eines Felsenkriechers, auch als Bergsteigerschreck bekannt, in den Himmelspsitzengebirgen von Mangold von Straffeld](Pictures/Flavor/Platzhalter/Felsenkriecher.jpg)
 
 Die Bekämpfung der Felsenkriecher erweist sich aufgrund ihr Tarnung, ihrer uneinheitlich Struktur des Körpers und dem Verstecken in Felsenspalten als äußerst Schwierig.
 Tagüber verstecken diese Vielbeiner sich meist in Felsspalten und Höhlen, wo Sie bie Störung schnell aggressiv agieren um anschließend zu flüchten - deshalb der Name Bergsteigerschreck.
@@ -796,7 +807,7 @@ Fliehen sollte man nur wenn man mindestens 50 Meter Abstand zu diesen Kreaturen 
 In Gruppen sollten schwere Hämmer benutzt werden da nur ide Unterseite weniger gepanzert ist.
 Fernkämpfer sollten gehärtete Pfeile oder Bolzen nehemn oder auf den ungepanzerten Hals Zielen.
 
-![Blauer Merkantolith. Sichtbar sind die dicken Rücken und Beinpanzerungen sowie der schwach gepanzerte Hals.](Pictures/Flavor/Monster/Blauer%20Merkantolith.jpeg)
+![Blauer Merkantolith. Sichtbar sind die dicken Rücken und Beinpanzerungen sowie der schwach gepanzerte Hals.](Pictures/Flavor/Platzhalter/BlauerMerkantolith.jpg)
 
 ### Skrogan Skorpion {#Skrogan}
 
@@ -807,7 +818,7 @@ Ebenjener Panzer wird von den Rah Kari oft benutzt, um Rüstungen für besondere
 Wilde Skrogan-Skorpione sind mittlerweile selten geworden, da die Rah Kari sie wegen ihrer Rüstungen jagen oder sie für den Dienst in ihren Einheiten domnestizieren.
 Skrogan Skorpione sieht man häufiger in den Armeen der Rah Kari.
 
-![Die Jagd auf einen Skrogan Skorpion wird meist mit berittenen Bogenschützen durchgeführt](Pictures/Flavor/Monster/SkroganSkorpion.jpg)
+![Die Jagd auf einen Skrogan Skorpion wird meist mit berittenen Bogenschützen durchgeführt](Pictures/Flavor/Platzhalter/SkroganSkorpion.jpg)
 
 Skrogan Skorpione sind im Gegensatz zu ihren Verwandten, den Silurian-Skorpionen, aüßerst schwerfällig.
 So ist es für den durchschnittlichem Menschen möglich, einem Skrogan-Skorpion zu Fuß zu entfliehen.
@@ -837,7 +848,7 @@ Allerdings kann man ohne Ersatzpanzer diese Rüstung nicht warten.
 
 Silurian Skorpione fallen primär einsam herumwandernde Wesen an und so empfiehlt sich mindestens zu viert oder zu fünft durch Siluriangebiet zu streifen.
 
-![Darstellung eines Silurian Skorpion der gerade einen Wüstengleiter erlegt welcher durch die starken Regenfälle an die Oberfläche gezwungen wurde](Pictures%5CFlavor%5CMonster%5Csilurianscorpion.jpg)
+![Darstellung eines Silurian Skorpion der gerade einen Wüstengleiter erlegt welcher durch die starken Regenfälle an die Oberfläche gezwungen wurde](Pictures/Flavor/Platzhalter/silurianscorpion.jpg)
 
 ### Znitins
 
@@ -863,7 +874,7 @@ Die Spinnen sind primär Tagsüber aktiv, sehen jedoch nachts noch immer besser 
 
 Die Spinnen sind überraschend intelligent und ziehen sich häufig einfach zurück sobald die Situation ihnen nicht geheuer erscheint.
 
-![Darstellung zweier Znitins Spinnen in Silva Nacia.](Pictures%5CFlavor%5CMonster%5Cznitins_spider2.jpg)
+![Darstellung zweier Znitins Spinnen in Silva Nacia.](Pictures/Flavor/Platzhalter/znitins_spider2.jpg)
 
 ## Schleimer
 
@@ -885,7 +896,7 @@ Es empfiehlt sich die Fungaliten mit Bogen ausgeschaltet werden.
 Fungaliten sind am Kopf äußerst leicht entzündlich.
 Die dabei entstehenden Gase sind äußerst unangenehm stechend und verursachen in derr Nähe Vergiftungssymptome, welche mit Reingungsstufe 1 Tränken beseitigt werden können.
 
-![Darstellung eines Rüstungslosen Fungalit.](Pictures%5CFlavor%5CMonster%5CFungalit.jpg)
+![Darstellung eines Rüstungslosen Fungalit.](Pictures/Flavor/Platzhalter/Fungalit.jpg)
 
 ## Knochenschädler
 
@@ -901,7 +912,7 @@ Die Funktion dieser ist unbekannt.
 
 Ebenso unbekannt ist die Tatsache was die Zwillinge des Abgrundes als Nahrung zu sich nehmen, ob diese sich paaren oder verletzt werden können.
 
-![Darstellung der Zwillinge als diese 872 n. Riga plötzlich an der Oberfläche erschienen.](Pictures%5CFlavor%5CMonster%5CZwillinge%20des%20Abgrundes.jpg)
+![Darstellung der Zwillinge als diese 872 n. Riga plötzlich an der Oberfläche erschienen.](Pictures/Flavor/Platzhalter/ZwillingeDesAbgrundes.jpg)
 
 Berichtet wurde bis jetzt von 3 Expeditionstrupps welche die Zwillinge bekämpften oder beim kämpfen mit anderen Monstern beobachteten.
 Die übersetzten Berichte des dritten Zwerg-Orkischen Expeditionsberichte aus ca.
@@ -918,7 +929,7 @@ Die Moltovika bewirkten dass es Fleisch regnete dass seinerseits wieder begann u
 Diese kleinen Knochenschädler zeigten auch die typische Knochenplatte und konnten von unseren Nahkämpfern erledigt werden.
 Die Moltoivika schienen das Ungetüm aber nicht zu kümmern.
 
-![Darstellung der angreifende Sprösse der Zwillinge.](Pictures%5CFlavor%5CMonster%5CSpross%20der%20Zwillinge%20des%20Abgrundes.jpg)
+![Darstellung der angreifende Sprösse der Zwillinge.](Pictures/Flavor/Platzhalter/SprossDerZwillingeDesAbgrundes.jpg)
 
 Der zweite Gigant zerdrückte ebenfalls einfach die Orks in der schweren Rüstung und hielt dann weitere einfach in seinen "zweiten" Händen und ging danach einfach wieder.
 Der erste Zwilling , wlecher mit den Moltovikas beworfen wurde drehte sich darauf hin um, warf die Statue in das Dach der Schule der Sprengmeister und dann war der Ganze Spuck vorbei.
@@ -971,7 +982,7 @@ Vermutlich fallen diese in eine Art zwischenzeitlichen Winterschlaf, was durch m
 
 Das Kaiserreich, alle Eldrischen Fürstentümer, außer Austen, bieten für einen geöteteten Fleischsauger ungefähr 5000-10.000 Reiks an Kopfgeld an.
 
-![Darstellung eines männlichen Fleischsauger](Pictures%5CFlavor%5CMonster%5CFleischsauger.jpg)
+![Darstellung eines männlichen Fleischsauger](Pictures/Flavor/Platzhalter/Fleischsauger.jpg)
 
 ## Riesenkalmar
 
@@ -994,7 +1005,7 @@ Da normale Bolzen oder Pfeile - aufgrund ihrer dicken Haut und der Menge an Flei
 
 Die Leviathane leben im Eisland, aber durch ihre geringe Reproduktionsrate in Verbindung mit der aggressiven Bejagung durch einige Stämme der Animali ist ihre Zahl über die Zeit geringer geworden.
 
-![Leviathan depiction](Pictures/Flavor/Monster/leviathan.jpg)
+![Leviathan depiction](Pictures/Flavor/Platzhalter/leviathan.jpg)
 
 > "Meine Männer und ich sollten uns um einige lästige Piraten kümmern, die in der Nähe unserer Küsten plünderten. Als wir sie endlich gefunden hatten, war die Hälfte der Piraten bereits abgeschlachtet, während die andere Hälfte versuchte, gegen einen Leviathan klarzukommen. Ich weiß nicht, was die Idioten dachten, vielleicht wollten sie die Perle in seinem Kopf, aber eines war sicher: Unsere Bemühungen waren nicht nötig. Der Leviathan würde den Job ohne unsere Hilfe zu Ende bringen."
 >
@@ -1021,3 +1032,7 @@ They will aggressively run to any creature that enters their territory.
 They are mostly found around rivers in Grenzland and the southern parts of the Herzland, where they will bath in the water to keep a neutral pH level.
 
 ## Legenden
+
+[^Künstler1]: "Abomination Knight (2019) Concept" von [Taonavi](https://www.deviantart.com/taonavi/art/Abomination-Knight-2019-Concept-800502298).Diese Conceptart steht unter einer Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 License zur Verfügung.
+[^Künstler2]: Dieses PNG wurde der Seite [pngegg.com](https://www.pngegg.com/en/png-nbtay) entnommen und steht zur nichtkommerziellen Nutzung zur Verfügung.
+[^Künstler3]: "Krebs" von [000Fesbra000](https://www.deviantart.com/000fesbra000/art/Krebs-375853600). Dieses Artwork steht unter einer Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 License zur Verfügung.

@@ -5,14 +5,14 @@
 
 Die Rah Kari stammen aus der Wüste westlich von Atumpet - jene Wüste die man heute als "Eid' Rah Kari" nennt. Ursprünglich mehrere nicht zusammenhängende Stämme, die sich selbst bei jeder Gelegenheit bekämpften, wurden die früheren Rah Kari von ihren östlichen Nachbarn - dem heutigen Atumpet - mit Verachtung als unzivilisierte Barbaren bezeichnet. Sie waren schon damals bekannt für eine ausgezeichnete Zucht an Reittieren, obwohl es sich damals zumeist um Kamele handelte - die für die Wüste deutlich geeigneter waren, als die Pferde, für die sie heute bekannt sind. Von Handelstransaktionen zwischen den Stämmen und Atumpet um jene Kamele stammen auch die ersten Aufzeichnungen um die Rah Kari - da die Stämme zum damaligen Zeitpunkt keine Geschichtsschreibung oder sonstige Dokumentation hatten. Wichtig zu erwähnen ist wohl, dass sie erst später als Rah Kari bekannt wurden, bis dahin waren sie einfache Nomaden aus der oberen Wüste.
 
-![Die Rah Kari](Pictures/Flavor/RahKari/RahKariInfanterie2.jpg)
+![Die Rah Kari](Pictures/Flavor/Platzhalter/RahKariInfanterie2.jpg)
 
 ### Aus Blut wächst Treue
 
 Einer der Stämme erhielt an einem Tag, an dem die Sonne von Dunkelheit umhüllt war, ein Kind und dem Kind wurde der Name Kha'fan gegeben. Schon im Alter von sechs Jahren stellte Kha'fan sich als etwas Besonderes raus. Er besiegte die Dorfältesten in komplizierten Spielen des Geistes und stellte Rätsel, die keiner seines Stammes zu lösen vermochte. Mit 10 Jahren erfand Kha'fan die Schleuder, eine Waffe die die Rah Kari bis heute nutzen. Den Omen seiner Geburt treu wuchs er heran und übernahm früh die wichtigsten Aufgaben des Stammes, für die man einen schnellen Geist braucht. 
 Als Kha'fan 15 wurde, wurde ein plündernder Stammes in der Nähe ausgemacht und Kha'fan musste das erste mal ins Feld ziehen. Die Schleudern, welche Kha'fan erfunden hatte erwiesen sich als unschlagbar. Gepaart mit der Gescchwindigkeit der Kamele und Dromedare töteten er und sein Stamm schnell einen großen Teil der Plünderer, die nach und nach in die Flucht geschlagen wurden und rannten - nicht dass das von Nutzen war, da man der Reichweite der Schleudern und der Geschwindigkeit der Reiter kaum entkommen konnte. Bald war nur noch einer der Plünderer übrig, ein Junge nicht älter als Kha'fan, der weder Rüstung noch Helm trug und einen rostiges Schwert als Waffe führte. Als die Reiter ihn umringten und verhöhnten und Stein um Stein nach ihm schleuderten Warf er den ersten Stein zurück. 
 
-![Ein Krieger der Stämme auf seinem Dromedar](Pictures/Flavor/RahKari/steppenkrieger.jpg)
+![Ein Krieger der Stämme auf seinem Dromedar](Pictures/Flavor/Platzhalter/steppenkrieger.jpg)
 
 Der geworfene Stein durchschlug den Helm des Sharifen - dem Obersten von Kha'fans Stamm - und trat durch seinen Hinterkopf wieder aus. Die Reiter schauten geschockt als der Jüngling mit seinem Schwert auf sie zustürmte und Reiter um Reiter mit Leichtigkeit tötete. Seine Kraft und Geschwindigkeit war unübertroffen. Mit bloßen Händen riss er einem Dromedar ein Bein aus und schleuderte es auf den Reiter der daran verstarb. Hiebe und geschleuderte Steine die weit größere Männer getötet hätten verlangsamten den Jüngling nicht einmal - und die Kraft seiner Beine war ausreichend um mit der Geschwindigkeit berittener Krieger mitzuhalten.
 
@@ -41,7 +41,7 @@ Schnell bemerkten die beiden, das alles was Amdju anrührte, ihre Sinne berührt
 
 Meistens war es Asb'Kartes, der den Weg vorgab, da er die Gegend sehr gut kannte. Und er führte sie in ein Dorf namens Nustain, in dem es niemandem an Essen mangelte und auch für Gäste reichlich zur Verfügung stand. In der Wüste war ein solcher Ort ein Wunder, und sogar fließendes Wasser war an diesem Ort zu finden und grüne Bäume ebenso wie ein vergnügtes Volk. 
 
-![Das Oasendorf Nusrain](Pictures/Flavor/RahKari/OasisCity.jpg)
+![Das Oasendorf Nusrain](Pictures/Flavor/Platzhalter/OasisCity.jpg)
 
 Amdju war sofort begeistert und mischte sich unter das feiernde Volk, das von seinen Gesängen in noch bessere Stimmung versetzt wurde. Und während Tarsus Rah die Festivitäten nutzte um sich mit den starken Männern des Dorfes zu prügeln machte sich Kha'fan in begleitung von Asb'Kartes auf um die Quelle des überflusses dieses Ortes zu finden.
 
@@ -72,7 +72,7 @@ Sie wussten bereits nach dem ersten Kilometer, dass sie auf diese Art und Weise 
 
 In Tirach gab es einen berühmten Tierflüsterer, es wurde gesagt dass er die besten Dromedare in der gesamten oberen Wüste ausbildete und sie nannten ihn Hestua. Als Meliodas einen fairen Preis für die Pferde ausgehandelt hatte äußerte Hestua, dass er das Gefühl habe mit ihnen gehen zu müssen. Da er es am besten verstand die Reittiere zu kontrollieren und sie in seiner gegenwart deutlich ruhiger als gewöhnlich waren, nahm die Gruppe ihn mit. Er verstand sich wundervoll mit Tarkus Rah, und die beiden wurden schnell so gute Freunde dass Kha'fan - würde er Tarkus Rah nicht blind vertrauen - wahrscheinlich Eifersüchtig geworden wäre.
 
-![Der H'Abunaptra](Pictures/Flavor/RahKari/Habunaptra.png)
+![Der H'Abunaptra](Pictures/Flavor/Platzhalter/Habunaptra.jpg)
 
 Mit den Reittieren des Hestua kamen sie alsbald an in der Grauen Ödnis an und begannen sich durch das unwirtliche Gebiet vor dem H'Abunaptra durchzuschlagen.  
 Nach mehreren Tagen erreichten sie unter mannigfaltigen Entbehrungen den heiligen Berg.
@@ -105,7 +105,7 @@ So suchten sie die ersten Stämme und überzeugten sie von ihrem Weg, und obwohl
 
 So begab es sich, dass nach wenigen Monaten die großen Stämme der oberen Wüste unter dem Banner der Rah Kari vereint waren. Entweder hatten sie sich verneigt, oder Tarkus Rah und seine wachsende Abteilung Soldaten sorgte dafür, dass sich ihre Nachfolger den Rah Kari anschlossen. So schlossen sich die Stämme den Rah Kari an und die Sharifen wichen der vollständigen Herrschaft durch die Schlüssel der Rah Kari - einen Titel den sich Asb'Kartes, Kha'fan, Tarkus Rah, Pseptha, Hestua, Shafra, Meliodas und Amdju gegeben hatten.
 
-![Die Kavallerie der frühen Rah Kari im Kampf](Pictures/Flavor/RahKari/Dromedar.jpg)
+![Die Kavallerie der frühen Rah Kari im Kampf](Pictures/Flavor/Platzhalter/Dromedar.jpg)
 
 Durch die Talente der Schlüssel florierte das Reich der Rah Kari schnell. Mediolas schaffte es die wirtschaftliche Lage der zuvor unverbundenen Stämme anzukurbeln wie nie zuvor, Pseptha ernährte zum Teil davor hungernde Völker, Kha'fan stattete sie mit nie zuvor gesehener Technologie aus, die alle bisherigen Arbeiten vereinfachte und Tarkus Rah vernichtete Banditen und andere Übeltäter, die die Stämme bedrohten, aber eine der größten Vorteile war der Erlass des Asb'Kartes, Leichen zum H'Abunaptra zu transportieren. Dass die Leichen nie erwachten war selbst für die hartnäckigsten Zweifler ein beweis der Göttlichkeit der Schlüssel.
 
@@ -122,7 +122,7 @@ Die Kartiner waren allen außerhalb ihres Volkes feindlich genannt und begrüßt
 Die ersten Schlachten gestalteten sich als sehr schwierig, die Armee der Rah Kari war kleiner, schlechter ausgebildet und schlechter ausgerüstet. Und während die Dromedarreiter in der Wüste unübertroffen waren, waren sie den Kriegselefanten und Pferden der Armee Atumpets weit unterlegen. 
 zu allem Überfluss besaß Atumpet Artillerie und Bogenschützen, Vorteile, die die Rah Kari nicht hatten. 
 
-![Tarkus Rah stellt sich alleine einem Kriegselefant](Pictures/Flavor/RahKari/TRKriegselefant.jpg)
+![Tarkus Rah stellt sich alleine einem Kriegselefant](Pictures/Flavor/Platzhalter/TRKriegselefant.jpg)
 
 Obwohl die Schlachten überall dort gut für die Rah Kari waren, wo Tarkus Rah selbst kämpfte, verloren sie sehr schnell an Boden, was die übrigen Fronten anging. Nach einer Woche hatten sie einen großen Teil der Truppen verloren, und so zogen Kha'fan und Tarkus Rah sich zurück und warteten auf Verstärkung für einen zweiten Feldzug.
 
@@ -130,7 +130,7 @@ Dieser zweite Feldzug sollte zwei Jahre später stattfinden. Dieses mal waren al
 Aufgrund der Überzahl der Gegner versuchte die Armee Atumpets ihre bessere Ausbildung und Ausrüstung auszuspielen, indem sie für viele kleine Teilschlachten sorgte. Bei einer dieser Versuche traf die Elitekavallerie Atumpets, geführt vom Sohn des Sharifen, gegen die Vorhut der Rah Kari, geführt von Tarkus Rah. 
 Dieses Pech raubte Atumpet an einem einzelnen Tag ihre besten Truppen als auch ihren Thronfolger und zerstörte die Moral der Verteidiger. Nach diesem Vorfall versteckten sich die Truppen Atumpets hinter ihren Mauern.
 
-![Der Thronfolger von Atumpet auf seinem Pferd](Pictures/Flavor/RahKari/elitAtumpet.jpg)
+![Der Thronfolger von Atumpet auf seinem Pferd](Pictures/Flavor/Platzhalter/ThronfolgerAtumpet.jpg)
 
 Drei Jahre lang belagerten die Rah Kari Atumpet, ohne die Mauern durchbrechen zu können. diese Zeit nutzten die Schlüssel um ihre Talente in vollem Umfang auszunutzen: Meliodas etablierte feste Handelsverbindungen und ließ Straßen zu allen wichtigen Siedlungen der oberen Wüste bauen. Hestua fing an die verfügbaren Pferde und Elefanten in seine Zucht zu integrieren - woraus die heute berühmten Pferde der Rah Kari entstanden. Letzten Endes war es eine kooperation aus Pseptha und Kha'fan, die das Schicksal Atumpets besiegelten. Gemeinsam leiteten sie die Setra so um, dass die reißenden Fluten die Mauern und die halbe Stadt niederrissen. Dadurch entstand der Flussarm der Setra, der heute als Psepthara bekannt ist. Die Truppen von Tarkus Rah hatten nach der Zerstörung der Verteidigungsanlagen leichtes Spiel und vernichteten der Rest der Armee, und so übernahmen die Rah Kari die Kontrolle über das, was von Atumpet noch übrig war.
 
@@ -155,7 +155,7 @@ Nach vielen Jahren der Reise und der Suche kam Asb'Kartes in der Nähe der Zwerg
 
 Es zogen weitere drei Jahre ins Land, als Asb'Kartes in den Hinterhalt eines kleinen Stammes geriet. Auf einmal wurden er und seine Soldaten hinterrücks und vollkommen unerwartet angegriffen, doch die Leibgarde des Asb'Kartes war von Tarkus Rah selbst ausgewählt worden. Die gut ausgerüsteten Soldaren des Asb'Kartes schafften es schnell, den angreifenden Stamm auszuschalten. Überrascht reagierte Asb'Kartes allerdings, als er mitbekam, dass der Angriff von einem 14-jährigen Jungen geplant und durchgeführt wurde - und Asb'Kartes ahnte sofort, dass dieser Junge der letzte der Schlüssel sein musste. So nahm er den Jungen, der Unas Utet genannt wurde, mit sich - Unas Utet, der den selben Ruf verspürte wie alle anderen der Stimmen vor ihm, kam bereitwillig mit - denn er wusste, dass er dem Asb'Kartes folgen sollte.
 
-![Die Angreifer schleichen sich an die Gefolgschaft des Asb'Kartes heran](Pictures/Flavor/RahKari/rahKari3.jpg)
+![Die Angreifer schleichen sich an die Gefolgschaft des Asb'Kartes heran](Pictures/Flavor/Platzhalter/rahKari3.jpg)
 
 Es stellte sich schnell heraus, dass Unas Utet ein Gespür für das extrahieren und bewerten von Informationen hatte und sehr schnell Informationsnetzte aufbauen und Nutzen könnte. 
 
@@ -183,7 +183,7 @@ Sein Tod wurde schnell bemerkt, als er nicht nach Hause zu Tarkus Rah kam. Seine
 
 Asb'Kartes versuchte die ganze Reise über die Gruppe zu verlangsamen, wollte er ein doch ein rechtzeitiges Eintreffen der Gruppe am Berg verhindern. Dies viel Unas Utet auf, der Asb'Kartes ohnehin verdächtigte und so konfrontierte er Asb'Kartes. Als der Verrat des Asb'Kartes aufkam, wurde dieser von Tarkus Rah in einem Wutanfall getötet, ohne dass irgendwer der Anwesenden etwas dagegen hättte tun können - denn der Hass aufgrund des Verlustes seines Geliebten machte Tarkus Rah mehr als rasend. Und so ließen sie den durch die Hautkrankeit grauen Kadaver des Asb'Kartes in der Wüste zurück und beeilten sich den H'Abunaptra zu erreichen.
 
-![Die Schlüssel eilen zum H'Abunaptra](Pictures/Flavor/RahKari/graueOdnisSchnell.jpg)
+![Die Schlüssel eilen zum H'Abunaptra](Pictures/Flavor/Platzhalter/graueOdnisSchnell.jpg)
 
 Zwei Tage später bestieg die Gruppe mit der Leiche des Kha'fan den Berg. 
 Seitdem hat man nichts mehr von ihnen gehört, sie stiegen nie wieder herab, und sämtliche Menschen die suchten ihnen zu folgen wurden nie wiedergesehen. 
@@ -199,7 +199,7 @@ Die höheren Verwalter der jungen, alleingelassenen Nation schufen daraufhin die
 
 Es wurden acht Kulte geschaffen, einer für jeden der Schlüssel - ausgenommen dem Verräter Asb'Kartes - die den verschiedenen Fachgebieten der Schlüssel gewidmet waren. So war der Pfad des Kha'fan der der Handwerker, der Pfad des Tarkus Rah der der Soldaten, der Pfad der Pseptha der der Bauern und Farmer, der des Mediolas für die Händler, der des Amdju für die Künstler, der Pfad der Shafra für die Heiler und die Frauen, der des Hestua für die Züchter der Reittiere und der des Unes Utet für die Hüter. Jeder dieser Pfade sollte von einem Hohepriester geführt werden, welche gemeinsam das Land führen würden.
 
-![Ein Hohepriester der Rah Kari mit einer rituellen Klinge](Pictures/Flavor/RahKari/RahKariPriester.png)
+![Ein Hohepriester der Rah Kari mit einer rituellen Klinge](Pictures/Flavor/Platzhalter/RahKariPriester.jpg)
 
 Sie entschieden, dass Tote - wie Kha'fan von den Schlüsseln und wie unter Asb'Kartes - weiterhin zum H'Abunaptra gebracht werden sollten, um ihre Erweckung zu verhindern damals entstand auch das Ritual der <font color="green">[Heiligen Knochen]()</font>.
 Die Rah Kari begannen daran zu glauben, dass die Schlüssel nun auf dem H'Abunaptra als Götter weilten und dort über sie richteten und die Toten im nachleben leiteten und schützten.
@@ -214,14 +214,14 @@ Beide Fraktionen waren ungefähr gleich stark und der daraus folgende Konflikt s
 
 Die Armee Amairs bestand fast ausschließlich aus Kavallerie, während die Rah Kari eine gleich große, aber infanterielastigere Armee hatten.
 
-![Die Reihen der Rah Kari](Pictures/Flavor/RahKari/RahKariInfanterie1.jpg)
+![Die Reihen der Rah Kari](Pictures/Flavor/Platzhalter/RahKariInfanterie1.jpg)
 
 In den folgenden Monaten nutzten die Rah Kari Informationen der Hüter um Nachschublinien und Wasservorräte ihrer Gegner gezielt anzugreifen und den Bewegungsradius der mobileren Armee Anairs zu verringern. Ansonsten scheuten die Rah Kari das offene Gefecht außer wenn sie im Vorteil waren - eine Strategie die sie heutzutage perfektioniert haben.
 Nach mehreren Monaten des Katz und Maus spielens kam es schließlich zu einer größeren Konfrontation. Die Armee des Amair leidete schon seit Wochen durch die Aktionen der Rah Kari an einem Mangel an Vorräten, des weiteren hatten sie dir schlechtere Geographische Position.  Diese Vorteile nutzten die Rah Kari aus und fielen über die schwächere Armee her. Amair kapitulierte 6 Stunden nach Beginn der Schlacht.
 
 Da der Transport von Leichen durch die Wüste nicht allzu einfach ist ist das Schlachtfeld bis heute ein Platz, an dem es von Erwachten nur so wimmelt. Da es allerdings weit von allen wichtigen Städten und Straßen der Rah Kari entfernt ist wird diese Ansammlung lebender Leichen weitestgehend ignoriert. 
 
-![Die Mauern von Keshep](Pictures/Flavor/RahKari/City2.jpg)
+![Die Mauern von Keshep](Pictures/Flavor/Platzhalter/Keshep.jpg)
 
 Nach ihrem Sieg nahmen die Rah Kari die Stadt Keshep ein und versklavten die Bewohner. Nach und nach konsolidierten sie ihre Macht in der Region und übernahmen diese schließlich ganz. 
 Keshep ist bis heute die zweitgrößte Stadt der Rah Kari und hat vor allem militärisch eine große Bedeutung, da die Nähe zum Nebelhain und zum Kaiserreich bzw. Eldria genauso wichtig ist wie die Tatsache, dass Keshep Atumpet quasi "abschirmt".
@@ -248,7 +248,7 @@ Obwohl die Rah Kari weiterhin oft versuchten, regelmäßige Handelsbeziehungen m
 Wie die meisten bisherigen Leser wissen gibt es bei den Rah Kari acht Gottheiten, diese sind die Schlüssel mit Ausnahme des Asb'Kartes. Doch in ihrem Hass auf das Regime der Rah Kari und ihren Stand in der Gesellschaft stilisierten mehr und mehr der gesellscchaftlich niedrigen Bürger - vor allem der Sklaven - Asb'Kartes zum heroischen Feind der Ordnung der Rah Kari herauf, und so wurde aus einem Verräter ien Symbol für Freiheit, die Herrschaft über sich selbst und eine System frei von religiösen Regularien und den Zwängen des Pfades. Diese interpretation des Asb'Kartes gewann immer mehr und mehr Zuspruch und wurde weitläufig als Gott verehrt. 
 Die Hüter sahen die Gefahr als erstes, schlugen früh Alarm und begannen, die Kulte des Asb'Kartes zu finden und auszumerzen, doch waren sie schnell zu zahlreich als dass sie der Hüterkult in seiner damaligen Form hätte aufhalten können. 
 
-![Bei den Rah Kari kämpfen oft Sklaven der einzelnen Pfade gegeneinander - für den Ruhm des Kultes](Pictures/Flavor/RahKari/BrotSpiele.jpg)
+![Bei den Rah Kari kämpfen oft Sklaven der einzelnen Pfade gegeneinander - für den Ruhm des Kultes](Pictures/Flavor/Platzhalter/BrotSpiele.jpg)
 
 Angetrieben von den Gedanken nach Freiheit und der wahnwitzigen Idee sich den Platz in der Gesellschaft selbst suchen zu können starteten die ersten Gläubigen der Sekte Fluchtversuche. Als Reaktion darauf begannen die Rah Kari Sklaven das Emblem des Kultes, dem sie zugehörig waren, auf die Stirn zu tätowieren. Dieses sogenannte Büßerzeichen würde sich bei Kontakt mit Sonnenlicht durch den Kopf eines Sklaven brennen, wenn er sich entschließen würde seiner Pflicht bei seinem Kult zu entfliehen.
 
@@ -262,7 +262,7 @@ Und so kam es, dass die entflohenen Sklaven eine Armee aufstellen konnten, die �
 Dies sollte sich ändern, als der neue Großprimarch - der Hohepriester des Kultes des Tarkus Rah - eine eigene Armee speziell für die Sklavenjagd aufstellte. Diese Armee war eine enorm mobile Einsatztruppe, hauptsächlich aus Kavallerie und besonders schnellen Kampfkonstrukten zusammengesetzt. Als Infanterieunterstützung wurden die Reste der besiegten Armeen zusammengezogen. Sie stellten die Sklavenarmee erneut und fungierten als Köder, damit die mobilen Kräfte der Sklavenarmee in die Flanken oder den Rücken fallen konnten.
 Die Sklavenarmee verlor bereits nach wenigen gezielten angriffen jede Koordination. Panik brach aus und die vorher siegreichen Sklaven gaben jede Formation auf und versuchten in alle möglichen Himmelsrichtungen zu fliehen. Doch die mobileren Kräfte der Rah Kari setzten ihnen nach und töteten jeden einzelnen. Von den Sklaven überlebten diese Schlacht nur in etwa 8000. Weitere 2000 erlagen Verletzungen und weiterer Verfolgung durch die Rah Kari, doch einige schafften es in die Graue Ödnis zu fliehen, wo es noch heute Nachkommen entflohener Sklaven oder frische entflohene Sklaven gibt.
 
-![Ein Kämpfer für den Pfad des Amdju in kunstvoller Rüstung](Pictures/Flavor/RahKari/Gladiator.jpg)
+![Ein Kämpfer für den Pfad des Amdju in kunstvoller Rüstung](Pictures/Flavor/Platzhalter/GladiatorRahKari.jpg)
 
 Die größte Nachwirkung des Sklavenaufstandes war aber die größere Bedeutung die nun den Hütern zukam. Der Kult der Hüter war nun nicht nur Außengeheimdienst sondern gleichsam auch für die Innere Sicherheit und die Verfolgung möglicher Kulte des Asb'Kartes zuständig. Eine der ersten Folgen aus dem Aufstand war das Verbot des Namens des Asb'Kartes, weswegen dieser offiziell als der Täuscher bekannt ist. Auch die Tatoopflicht für Sklaven - welche sie an ihren Kult bindet - wurde eingeführt.
 
@@ -275,7 +275,7 @@ Die Höchsten der Rah Kari waren nach der Eroberung Eldrias durch das Kaiserreic
 
 Die Rah Kari begannen den Krieg gleichzeitig an zwei Fronten, sowohl in Eldria als auch durch die Knochenfeld-Schlucht griffen sie das Kaiserreich an. Allerdings wurde der Angriff in Nors durch das Kaiserreich hart zurückgeschlagen. Der genaue Ablauf des Krieges wird in der <font color="green">[Geschichte des Kaiserreichs genauer beschrieben und findet sich hier](#KaisGroKrieg)</font>. Ein Kaiserlicher Gegenangriff konnte allerdings durch die starke Befestigung der Knochenfeld-Schlucht zu Seiten der Rah Kari abgewehrt werden.
 
-![Die Kavallerie der Rah Kari](Pictures/Flavor/RahKari/RahKariKavallerie1.jpg)
+![Die Kavallerie der Rah Kari](Pictures/Flavor/Platzhalter/RahKavallerie.jpg)
 
 Die Front in Eldria hatte von Anfang an das Problem des Nebelhains, der durchquert werden musste, zwar schafften die Rah Kari es, durch die Bemühungen der Hüter, einige Eldrische Fürstentümer auf ihre Seite zu ziehen, aber dennoch hatten sie zu wenig Truppen und Material um dem Kaiserreich tatsächlich etwas entgegenzusetzen, als es zum Gegenangriff kam. Und da die Eldrischen Verbündeten nur begrenzt verlässlich waren, brachen diese ihre Aktionen auch eher schnell wieder ab, gerade da sich die Fürstentümer in diesem Konflikt sehr uneins waren.
 
@@ -344,7 +344,7 @@ Die Infanterie der Rah Kari ist deutlich leichter als die des Kaiserreichs, alle
 
 Wüstenschilde sind die Schwert oder Axtinfanterie der Rah Kari und häufig zu sehen. Da sie meist ohne Formation kämpfen sind sie sehr flexibel einsetzbar. 
 
-![Trotz dem Namen Wüstenschilde tragen nicht alle von ihnen einen Schild](Pictures/Flavor/RahKari/RahKariSoldier1.jpg)
+![Trotz dem Namen Wüstenschilde tragen nicht alle von ihnen einen Schild](Pictures/Flavor/Platzhalter/RahKariSoldier1.jpg)
 
 ##### Wüstenspeere {-}
 
@@ -356,7 +356,7 @@ Trotz ihrer geringen Mobilität und ihrer schwächen auf unebenem Terrain sind d
 
 Die schweren Speerträger sind den Wüstenspeeren sehr ähnlich. Dennoch bestehen Unterschiede, wie die deutlich schwerere Rüstung, die längeren Speere und die kleineren Schilde.
 
-![Ein schwerer Speerträger mit einem Zweihandspeer - der sogenannten Sarissa](Pictures/Flavor/RahKari/RahKariSoldier2.jpg)
+![Ein schwerer Speerträger mit einem Zweihandspeer - der sogenannten Sarissa](Pictures/Flavor/Platzhalter/RahKariSoldier2.jpg)
 
 #### Fernkämpfer {- #RahFernkämpfer}
 
@@ -370,7 +370,7 @@ Wüstenschleuderer sind die billigsten Fernkampfeinheiten der Rah Kari, es liegt
 
 Plänkler sind schnelle, ungepanzerte Infanteristen mit Wurfspeeren. Sie sind am effektivsten gegen Kavallerie, können aber auch Infanterie gefährlich werden. Da sie ungepanzert sind, sind sie von Bogenschützen allerdings leicht auszuschalten, weswegen ein kluger Kommandeur ihnen Bogenschützen zur Unterstützung gegen andere Bogenschützen mitgeben wird. 
 
-![Ein Plänklerverbund der Rah Kari](Pictures/Flavor/RahKari/planklerschutzen.jpg)
+![Ein Plänklerverbund der Rah Kari](Pictures/Flavor/Platzhalter/planklerschutzen.jpg)
 
 Plänkler sind schnell zu Fuß, werfen ihre gefährlichen Wurfspeere und kämpfen, sobald sie keine Speere mehr haben mit ihren Schleudern, obwohl sie mit diesen deutlich weniger gefährlich sind.
 
@@ -383,7 +383,7 @@ Die Kavallerie der Rah Kari ist die wohl beste der bekannten Welt. Ihre speziell
 
 ##### leichte Wüstenreiter {-}
 
-![Die leichten Wüstenreiter](Pictures/Flavor/RahKari/lightcav2.jpg)
+![Die leichten Wüstenreiter](Pictures/Flavor/Platzhalter/Wüstenreiter.jpg)
 
 ##### Berittene Kurzbögen {-}
 
@@ -400,7 +400,7 @@ Kriegselefanten sind die schwersten gepanzerten Einheiten, die irgendein Militä
 
 Die Rah Kari fangen an Elefanten bereits 2 Jahre nach ihrer Geburt auszubilden. Die Dompteure gewöhnen den Elefanten an, sämtliche Geräsche, Gerüche und Gegebenheiten des Schlachtfeldes zu tollerieren. Ein Elefant hat nämlich die schlechte Angewohnheit Amok zu laufen und nicht mehr zwischen Freund und Feind zu unterscheiden. Trainierte Elefanten sind in der Lage, dem Amok-Rausch länger standzuhalten. 
 
-![Kriegselefanten durchbrechen eine Phalanx vor Keshep](Pictures/Flavor/RahKari/Kriegselefant1.jpg)
+![Kriegselefanten durchbrechen eine Phalanx vor Keshep](Pictures/Flavor/Platzhalter/Kriegselefant.jpg)
 
 #### Konstrukte der Rah kari {-}
 
@@ -412,7 +412,7 @@ Die Fre'dan Rah sind die Elitetruppe im Militär der Rah Kari. Ihr Banner ziert 
 
 Sowohl Ausrüstungs- als auch Ausbildungstechnisch stellen die Fre'dan eine große Bedrohung für jede Landstreitmacht dar, die nicht zahlenmäßig weit überlegen ist. 
 
-![Fre'dan auf dem Weg zur Front](Pictures/Flavor/RahKari/armeeschau.jpg)
+![Fre'dan auf dem Weg zur Front](Pictures/Flavor/Platzhalter/RahKariarmeeschau.jpg)
 
 Die Fre'dan rekrutieren sich aus allen Kindern die dem Pfad des Tarkus Rah folgen und körperlich außergewöhnlich stark sind. Sie bekommen von diesem Punkt an die beste Ausbildung die man sich vorstellen kann und werden mit allem ausgerüstet, was das Reich des Südens aufbringen kann. 
 
@@ -423,7 +423,7 @@ Die Fre'dan sind ungefär 4000 Mann stark und bestehen aus Schweren Speerträger
 
 Die Tempelwächter sind mehr eine Rituelle Einheit als eine Kampfeinheit, während die Fre'dan von Front zu Front ziehen bewachen die Tempelwächter heilige Stätten, Hohepriester und den H'Abunaptra. Tempelwächter werden ist wohl die prestigeträchtigste Position in der Armee der Rah Kari, wovon ihre prachtvollen Rüstungen und Waffen zeugen. 
 
-![Ein Tempelwächter beim Training](Pictures/Flavor/RahKari/Tempelwache.png)
+![Ein Tempelwächter beim Training](Pictures/Flavor/Platzhalter/Tempelwache.jpg)
 
 Obwohl die Tempelwächter nicht so kampferfahren und effektiv sind wie die Fre'dan, sind sie dennoch eine Eliteeinheit mit guter Ausbildung, die man nicht unterschätzen sollte, allerdings werden Offiziere mehr nach Loyalität denn nach Können befördert, was oft zu Problemen geführt hat. Den Tempelwächtern, die Hohepriester bewachen dürfen, werden die Zungen abgeschnitten, damit sie nicht in der Lage sind ihre Hohepriester zu verraten, oder Informationen an deren Feinde weiterzugeben.
 

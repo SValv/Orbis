@@ -10,6 +10,7 @@ Seit Anbeginn der Chroniken ist das Erwachen ein fester Teil von Aestea. Ein Ges
 Am besten ist es jedoch, sie gar nicht erst entstehen zu lassen. Religiöse Rituale verhindern die Erweckung. So hat jedes Volk seine eigene Methode gefunden mit der Gefahr umzugehen - manche davon besser, andere wiederum weniger geeignet.
 
 ![Hüte dich vor den Erwachten](Pictures\\Flavor\\Erwachte\\by_jimmynijs_Erwachter1.jpg)
+[^Künstler]
 
 Die Art und Weise des Umgangs mit der Erweckung ist identitätsstiftend, da sie den Charakter und die Systeme aller Völker geprägt hat und die Zivilisation grundlegend beeinflusst.
 
@@ -19,9 +20,10 @@ In Orbis Aestea ist es die Energie des Glaubens der Leute, die dem übernatürli
 
 Die besondere Rolle der Religion sorgt auch dafür, dass religiöse Institutionen bei den meisten Völkern eine tragende Rolle spielen - oder zumindest sehr mächtig sind. Im Kaiserreich beispielsweise steht die Inquisition - der militärische Arm der Ekklesia - de facto über dem Gesetz. Bei den Rah-Kari ist das ganze System in Form einer Theologie aufgebaut, in der die Hohepriester der Kulte über das Reich herrschen.
 
-![eine Priesterin der Rah Kari bei der Salbung eines Toten](Pictures\\Flavor\\Allgemein\\RahPriesterin1.jpg)
+![eine Priesterin der Rah Kari bei der Salbung eines Toten](Pictures\\Flavor\\Platzhalter\\Platzhalter_RhaKariPriesterin.jpg)
 
 ## Die Geschichte Orbis Asteras
 
-![Ein Zeitstrahl über die Geschehnisse von Orbis Astera](Pictures\\Flavor\\Platzhalter\\Platzhalter_RhaKariPriesterin.jpg)
+![Ein Zeitstrahl über die Geschehnisse von Orbis Astera](Pictures\\Flavor\\Timeline.png)
 
+[^Künstler]: "Lich" von [JimmyNijs](https://www.deviantart.com/jimmynijs/art/Lich-634417921). Dieses Artwork steht unter einer Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 License.
