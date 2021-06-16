@@ -229,17 +229,17 @@ m <- leaflet(width = w(), height = h()) %>%
   htmlwidgets::onRender(
     "
       function(el, x) {
+        console.log(this);
+        var myMap = this;
+        var imageUrl = 'BackGroundPastel.PNG';
+        var imageBounds = [[-55,-160], [15, 160]];
+
+        L.imageOverlay(imageUrl, imageBounds).addTo(myMap);
         
         console.log(this);
         var myMap = this;
         var imageUrl = 'OrbisAstea.jpg';
         var imageBounds = [[0,0], [30.72, 40.96]];
-
-        L.imageOverlay(imageUrl, imageBounds).addTo(myMap);
-        
-        var myMap = this;
-        var imageUrl = 'BackGroundPastel.PNG';
-        var imageBounds = [[-85,-460], [85, 460]];
 
         L.imageOverlay(imageUrl, imageBounds).addTo(myMap);
       }
@@ -607,3 +607,6 @@ m)))
 
 ```
 
+
+
+v1
