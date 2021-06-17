@@ -212,6 +212,20 @@ icons=iconList(
 )
 ```
 
+```{css, echo=F}
+.book .book-body .page-wrapper .page-inner section.normal .leaflet-control-layers-toggle {
+  background-image: url(images/layers.png) !important;
+}
+.book .book-body .page-wrapper .page-inner section.normal .leaflet-bar a, .book .book-body .page-wrapper .page-inner section.normal .leaflet-control-layers-toggle {
+  background-position: 50% 50% !important;
+  background-repeat: no-repeat !important;
+  display: block !important;
+}
+.book .book-body .page-wrapper .page-inner section.normal .leaflet-bar a, .book .book-body .page-wrapper .page-inner section.normal .leaflet-bar a:hover {
+  background-color: #fff !important;
+}
+```
+
 ```{r , echo=FALSE, fig.width=8,fig.height=6}
 rgvec=c("black","red","orange","green","blue")
 
@@ -585,8 +599,6 @@ m <- leaflet(width = w(), height = h()) %>%
       }"
   )
 ```
-
-
 
 ```{r , echo=FALSE, fig.width=8,fig.height=6}
 library(htmltools)

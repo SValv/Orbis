@@ -41,17 +41,3 @@ img[src*="#Profil"] {
   height:350px;
   float: none!important;
 }
-
-
-
-.book .book-body .page-wrapper .page-inner section.normal .leaflet-control-layers-toggle {
-    background-image: url(images/layers.png) !important;
-}
-.book .book-body .page-wrapper .page-inner section.normal .leaflet-bar a, .book .book-body .page-wrapper .page-inner section.normal .leaflet-control-layers-toggle {
-    background-position: 50% 50%;
-    background-repeat: no-repeat;
-    display: block;
-}
-.book .book-body .page-wrapper .page-inner section.normal .leaflet-bar a, .book .book-body .page-wrapper .page-inner section.normal .leaflet-bar a:hover {
-    background-color: #fff;
-}
