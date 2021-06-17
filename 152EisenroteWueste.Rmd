@@ -38,7 +38,7 @@ Durch den unter Wurmfall gelegenen Vulkan gelangen die Nährstoffe regelmäßig 
 ![Wurmfall](Pictures/Flavor/PLatzhalter/oase.jpg)
 
 ## Eroberungszüge der Rah Kari
-![Wurmfall](Pictures/\Flavor\Regionen\Eisenrote Wueste/Rah Kari Expeditionsziel.jpg)
+![Wurmfall](Pictures/Flavor/Regionen/Eisenrote Wueste/Rah Kari Expeditionsziel.jpg)
 
 Die Expeditionen der Rah Kari starten stehts zur Zeit der brennenden Wüste da sie in diesem Zeitraum die Transportwägen nutzen können ohne Furcht vor den Sandwürmern haben zu müssen, dies geht jedoch mit dem erhöhten Risiko von Attacken anderer Monster, einstürzen im Boden und Feuereruptionen einher.
 Die Streitkräfte der Rah Kari werden dabei von Wüstenstämmen unterstützt. Während sich die Wüstenstämme rum in der Schlacht Beute in Form des Wassers erhoffen das ihre Oasen wachsen lässt, interessieren sich die Rah Kari für die Reichen erz vorkommen.

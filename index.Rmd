@@ -584,11 +584,11 @@ m <- leaflet(width = w(), height = h()) %>%
          this.on('baselayerchange', el => updateLegend());
       }"
   )
+```
 
 
 
-
-
+```{r , echo=FALSE, fig.width=8,fig.height=6}
 library(htmltools)
 browsable(tagList(list(tags$body(
   tags$style(
@@ -606,3 +606,6 @@ m)))
 ```
 
 
+[Test12](#SilvaNacia)
+
+ 

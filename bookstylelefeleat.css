@@ -1,5 +1,14 @@
 /* required styles */
 
+.leaflet-top .leaflet-control {
+    margin-top: 10px;
+    background-color: white !important;
+}
+
+.leaflet-control-fullscreen-button .leaflet-bar-part {
+        background-image: url("../_book/libs/fullscreen-1.0.1/fullscreen.png") !important;
+}
+
 .book .book-body .page-wrapper .page-inner section.normal .leaflet-map-pane,
 .book .book-body .page-wrapper .page-inner section.normal .leaflet-tile,
 .book .book-body .page-wrapper .page-inner section.normal .leaflet-marker-icon,
@@ -511,11 +520,46 @@
     opacity: 0.7;
 }
 
-.leaflet-top .leaflet-control {
-    margin-top: 10px;
-    background-color: white !important;
+p.caption {
+  color: #777;
+  margin-top: 10px;
+}
+p code {
+  white-space: inherit;
+}
+pre {
+  word-break: normal;
+  word-wrap: normal;
+}
+pre code {
+  white-space: inherit;
 }
 
-.leaflet-control-fullscreen-button .leaflet-bar-part {
-        background-image: url("../_book/libs/fullscreen-1.0.1/fullscreen.png") !important;
+a {
+  font color: green !important;
+}
+
+h1.title {
+  font-family: "Times New Roman";
+  font-size: 34px;
+  text-align: center
+}
+
+h4.date {
+  text-align: center;
+}
+
+h4.author {
+  text-align: center;
+}
+
+img[src*="#Wappen"] {
+  width:400px;
+  height:400px;
+}
+
+img[src*="#Profil"] {
+  width:300px;
+  height:350px;
+  float: none!important;
 }
