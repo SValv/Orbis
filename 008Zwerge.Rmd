@@ -64,7 +64,7 @@ Um diesen zusammenhang zu verdeutlichen existiert eine beliebte Geschichte, jene
 ### Clans
 
 ![Die Zwergenstadt Tendar](Pictures/Flavor/Zwerge/ZwergenstadtÜberirdisch_butteredbap.jpg)
-[^Künstler7]
+[^ButteredbapNiagaraFalls]
 
 
 ![Eine Tiefstadt der Zwerge](Pictures/Flavor/Platzhalter/ZwergTiefstadt.jpg)
@@ -264,7 +264,7 @@ Manche Dungeons in Eldria sind in einer besonderen Position, auf Grund der antik
 
 
 
-[^Künstler7]: "Niagara-falls" von [Butteredbap](https://www.deviantart.com/butteredbap/art/Niagara-falls-358961474). Dieser Artwork steht unter einer Creative Commons Attribution 3.0 License zur verfügung.
+
 
 
 ## Bekannte Zwerge in der Oberwelt
@@ -280,5 +280,5 @@ Die durch die Konstrukte erkaufte Zeit Wissen die geschickten Schützen stets gu
 Baruuk der selbst nur Teil eines kleinen Zwergenclans ist hält an diesen kleinen Konstrukten zusammen mit seinem Clan ein Patent.
 
 
-
+[^ButteredbapNiagaraFalls]: "Niagara-falls" von [Butteredbap](https://www.deviantart.com/butteredbap/art/Niagara-falls-358961474). Dieser Artwork steht unter einer Creative Commons Attribution 3.0 License zur verfügung.
 

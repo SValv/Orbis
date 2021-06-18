@@ -75,7 +75,7 @@ Die Krieger Eldrias gehören zu den besten der Welt. Sowohl beritten als auch zu
 Ritter suchen oft die Dienste von Fürsten, die sie auch bezahlen können, und obwohl sie sich oftmals als Helden stilisieren sind sie eigentlich nicht viel besser als bedungene Söldner. Es gibt mehr als genug Beispiele in denen Ritter aufgrund von Bezahlung oder Land die Seiten gewechselt haben oder in denen Ritter Zivilisten misshandelt oder massakriert haben. Trotzdessen gibt es mehrere Formen der Heldenepik über die Ritter und sie werden als Helden betrachtet, die von Schaulustigen in Dörfern durchaus einmal umringt werden.
 
 ![Ein Ritter Eldrias, der Löwe von Calvert ziert sein Wappen](Pictures/Flavor/Eldria/blackmoors_knight_by_umbatman.jpg)
-[^Künstler2]
+[^UmbatmanBlackmoorsKnight]
 Die meisten Ritter tragen einen Überwuf über ihrer Rüstung, der in leuchtenden Farben sowohl das Wappen des Ritters selbst, als auch die Insignien des Fürsten dem sie dienen, sofern sie in einem Dauerverhältniss sind
 
 Meist sind es besonders treue Ritter, die in den Adelsstand erhoben werden und so ist der Ritterstand gerade für viele soziale Aufsteiger oder niedere Adelige, die nach mehr Land und Macht streben und sich durch eine mögliche Erhebung erhoffen an tatsächlichen Einfluss zu kommen, attraktiv.
@@ -186,4 +186,4 @@ Eldria ist ein Land voller Mythen und Legenden. Von Heckenrittern und aufrechten
 
 
 
-[^Künstler2]: "Blackmoors Knight" von [Umbatman](https://www.deviantart.com/umbatman/art/Blackmoors-Knight-846222925). Dieses Artwork steht unter einer Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 License zur Verfügung.
+[^UmbatmanBlackmoorsKnight]: "Blackmoors Knight" von [Umbatman](https://www.deviantart.com/umbatman/art/Blackmoors-Knight-846222925). Dieses Artwork steht unter einer Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 License zur Verfügung.

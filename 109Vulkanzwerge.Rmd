@@ -7,7 +7,7 @@ Das erste und bis heute bekannteste wie größte Zwergenreich. Manche Zwerge mö
 
 ![Ein Zwerg](Pictures/Flavor/Zwerge/dwarf_by_ncorva.jpg)
 
-[^Künstler]
+[^NcorvaDwarf]
 
 
 
@@ -67,4 +67,4 @@ Zwergenstahl
 
 
 
-[^Künstler]: "Dwarf" von [Ncorva](https://www.deviantart.com/ncorva/art/Dwarf-764102740). Dieses Artwork steht unter einer Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 License zur Verfügung.
+[^NcorvaDwarf]: "Dwarf" von [Ncorva](https://www.deviantart.com/ncorva/art/Dwarf-764102740). Dieses Artwork steht unter einer Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 License zur Verfügung.

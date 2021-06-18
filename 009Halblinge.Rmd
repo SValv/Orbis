@@ -22,7 +22,7 @@ In dieser Zeit vereinte <font color="green">[Endeldra](#Endeldra)</font> die Dö
 Für die Halblinge schien sich alles optimal zu entwickeln, weshalb sich eine große Erleichterung innerhalb Yondallas ausbreitete. Aufgrund der neu gewonnenen wirtschaftlichen Stärke wurden manche Halblinge dazu motiviert ihr Dorf zu verlassen und ihre Fähigkeiten als Landwirt weiter im inneren des Herzlandes anzubieten. 
 
 ![Ein Halbling macht sich auf die Reise ins Herzland](Pictures/Flavor/Halblinge/pngegg_Reisender.png)
-[^Künstler2]
+[^pngegg_Reisender]
 
 Diese Idylle sollte den Halblingen jedoch nicht allzu lange vergönnt sein, da sich die Armeen Eldrias dazu entschlossen in Yondalla einzufallen. Ziel dieser Angriffe war es die Nahrungsmittelexporte an das Kaiserreich zu unterbinden. 
 Dieser Krieg, welcher zwischen dem Kaiserreich und Eldria ausgetragen wurde, hielt für lange Zeit an und sorgte dafür, dass der Ertrag Yondallas zunehmend vermindert wurde. 
@@ -83,7 +83,7 @@ Aufgrund der langen Lebensdauer und der geringen Anzahl von Kämpfen, an denen d
 Endeldra war der Gründer von Endeldor und derjenige, der die anfängliche freundschaftliche Kommunikation mit dem Kaiserreich übernahm. Außerdem war er derjenige, der die meisten Dörfer von Yondalla vereinte. In Endeldor benutzen die Leute das Wort Endel, um "text"
 
 ![Endeldra bei seiner Lieblingsbeschäftigung](Pictures/Flavor/Halblinge/pngegg_Weiser.png)
-[^Künstler7]
+[^pngegg_Weiser]
 
 ## Die Eigenbegriffe der Rasse
 
@@ -114,6 +114,6 @@ Unsuspected: Aufgrund ihres unschuldigen und charismatischen Charakters und ihre
 * Planting Kalender Hintergrund Pergament ändern
 
 
-[^Künstler2]: Dieses Bild wurden gefunden auf [pngegg.com](https://www.pngegg.com/en/png-dtcds) und steht zur nichtkommerziellen Nutzung zur Verfügung.
+[^pngegg_Reisender]: Dieses Bild wurden gefunden auf [pngegg.com](https://www.pngegg.com/en/png-dtcds) und steht zur nichtkommerziellen Nutzung zur Verfügung.
 
-[^Künstler7]: Dieses Bild wurde gefunden auf [pngegg.com](https://www.pngegg.com/en/png-egdvc) und steht zur nichtkommerziellen Nutzung zur Verfügung.
+[^pngegg_Weiser]: Dieses Bild wurde gefunden auf [pngegg.com](https://www.pngegg.com/en/png-egdvc) und steht zur nichtkommerziellen Nutzung zur Verfügung.

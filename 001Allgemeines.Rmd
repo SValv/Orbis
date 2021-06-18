@@ -10,7 +10,7 @@ Seit Anbeginn der Chroniken ist das Erwachen ein fester Teil von Aestea. Ein Ges
 Am besten ist es jedoch, sie gar nicht erst entstehen zu lassen. Religiöse Rituale verhindern die Erweckung. So hat jedes Volk seine eigene Methode gefunden mit der Gefahr umzugehen - manche davon besser, andere wiederum weniger geeignet.
 
 ![Hüte dich vor den Erwachten](Pictures\\Flavor\\Erwachte\\by_jimmynijs_Erwachter1.jpg)
-[^Künstler]
+[^JimmyNijsLich]
 
 Die Art und Weise des Umgangs mit der Erweckung ist identitätsstiftend, da sie den Charakter und die Systeme aller Völker geprägt hat und die Zivilisation grundlegend beeinflusst.
 
@@ -26,4 +26,4 @@ Die besondere Rolle der Religion sorgt auch dafür, dass religiöse Institutione
 
 ![Ein Zeitstrahl über die Geschehnisse von Orbis Astera](Pictures\\Flavor\\Timeline.png)
 
-[^Künstler]: "Lich" von [JimmyNijs](https://www.deviantart.com/jimmynijs/art/Lich-634417921). Dieses Artwork steht unter einer Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 License.
+[^JimmyNijsLich]: "Lich" von [JimmyNijs](https://www.deviantart.com/jimmynijs/art/Lich-634417921). Dieses Artwork steht unter einer Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 License.

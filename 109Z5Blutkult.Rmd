@@ -125,7 +125,7 @@ Teils als Fratze rein aus Feuer, teils als lavaartiger Golem und teils als beina
 Je nach dauer der Rufe verändert sich Jiraads Gestalt hin zum immer flammenbehafteteren und verbrannterem Gesichtern und Landschaften.
 
 ![Darstellung von Jiraad wenn man sich nicht seinen Wünschen beugt. Gezeichnet durch den Kultisten und ehemalig berühmten Maler Arzin Steinmähre](Pictures/Flavor/Blutgötter/000Fesbra000_Jiraad_Erscheinung.jpg)
-[^Künstler2]
+[^000Fesbra000WingsOfDeathAndFire]
 
 
 Diese können über die Monate, lebhafte Träume entstehen. Dies ermöglicht den Opfern von Jiraad sich die Zukunft lebhafts vorzustellen und diese Tag für Tag mehr herbei zu sehnen.
@@ -178,7 +178,7 @@ Alt- Haag wurde dann im Verlaufe von 3 Wochen derart zerstört, mit geschätzten
 Eine Hand voll verantwortliche der Jiraad Sekte konnten der Beteiligung überführt und hingerichtet werden. Diese zeigten keine Desillusionierung trotz ihrer Gräueltaten und ihre Haut wies Brandsymbole am gesamten Rücken auf. 
 
 ![Darstellung von Alt-Haag während des Terrors von Jiraads Anhänger](Pictures/Flavor/SzenerieOrteLandschaften/ember_by_butteredbap.jpg)
-[^Künstler5]
+[^ButteredbapEmber]
 
 
 ![Darstellung der Brandsymbole auf 4 der 6 hingerichteten Jiraad Anhänger](Pictures/Flavor/Platzhalter/jiraadsymbol.jpg) 
@@ -202,7 +202,7 @@ Fachgelehrte von Krankheiten meinen hingegen, dass sich Krankheiten teils sympto
 Pux-Haik's gestattet nur sehr wenigen Gerufenen die Möglichkeit die ersten Krankheiten zu überleben. Diese entwickeln nach einer kurzen Krankheitsfreien aber 
 
 ![Erscheinung des Würgreizhervorufenden und zweifelsohne furchterregenden Pux-Haik](Pictures/Flavor/Blutgötter/by_taonavi_PuxHaik.jpg) 
-[^Künstler8]
+[^TaonaviMor]
 
 #### Umgang des Kaiserreiches mit Anhängern Pux-Haik
 
@@ -311,8 +311,8 @@ Berufung durch den Gott erfolgt durch seine Anwärter, diese Entführen die Kind
 Anwärter werden auch gerne von der Armee rekrutiert, jedoch unter dem Vorbehalt keiner einheit untergeordnet zu sein sondern auf dem schlachtfeld ihre gegner frei wählen zu können, doch dies kommt den hohen Militärs nur zu gute den die begehrte Ziele der Anwärter sind meist General oder andere feindliche Truppen die in vorangegangen Schlachten Ruhm erlangt haben.
 
 
-[^Künstler2]: "Wings of Death and Fire" von [000Fesbra000](https://www.deviantart.com/000fesbra000/art/Wings-of-Death-and-Fire-589826133). Dieses Artwork steht unter einer Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 License
+[^000Fesbra000WingsOfDeathAndFire]: "Wings of Death and Fire" von [000Fesbra000](https://www.deviantart.com/000fesbra000/art/Wings-of-Death-and-Fire-589826133). Dieses Artwork steht unter einer Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 License
  zur Verfügung.
-[^Künstler5]: "Ember" von [Butteredbap](https://www.deviantart.com/butteredbap/art/Ember-410011561). Dieses Artwork steht unter einer Creative Commons Attribution 3.0 License zur Verfügung.
-[^Künstler8]: "Mor" von [Taonavi](https://www.deviantart.com/taonavi/art/Mor-764606189). Dieses Artwork steht unter einer Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 License
+[^ButteredbapEmber]: "Ember" von [Butteredbap](https://www.deviantart.com/butteredbap/art/Ember-410011561). Dieses Artwork steht unter einer Creative Commons Attribution 3.0 License zur Verfügung.
+[^TaonaviMor]: "Mor" von [Taonavi](https://www.deviantart.com/taonavi/art/Mor-764606189). Dieses Artwork steht unter einer Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 License
  zur Verfügung.
