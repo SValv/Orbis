@@ -15,6 +15,8 @@ Verglichen mit dem Imperium leben die Animali einen relativ konservativen Lebens
 
 ![Ein für die Jagd bewaffneter Animalus](Pictures/Flavor/Animali/by_JLazarusLB_Ziege.jpg)
 [^JLazarusEBGoatman]
+
+
 ## Die Geschichte der Animali
 
 ## Herkunft der Rasse 
@@ -27,6 +29,7 @@ In den goldenen Jahren des Kaiserreichs begann das Reich, seine Grenzen auszudeh
 
 ![Argenius in Eisland](Pictures/Flavor/Animali/by_fritzvicari_ArgeniusImEisland.jpg)
 [^FritzVicariBalticSea]
+
 Im Gegensatz zu den vielen Expeditionen vor ihm, war Argenius mit genügend Ressourcen und Arbeitskraft ausgestattet, um weiter nach Eisland vorzudringen, als jeder Mann vor ihm. Nach Wochen und vielen getöteten Bestien hatte das Expeditionsteam schließlich die erste Begegnung mit den Animali. Diese erste Begegnung zwischen den beiden Rassen sollte jedoch nicht friedlich verlaufen, da die Arroganz und die Unerfahrenheit Argenius die Animali als nichts anderes sehen lies als eine unintelligente Gruppe von Monstern, die zwischen ihm und seinem Ruhm standen. Und alsbald er die Animali sah, gab er seinen Truppen das Signal zum Angriff. Infolge seiner Handlungen löste er den Beginn dessen aus, was wir heute als den <font color="green">[Animali-Kontaktkrieg](#AnimaliKontaktKrieg)</font> kennen. Obwohl die Animali zahlenmäßig unterlegen waren, hatten sie den Vorteil, auf eigenem Territorium zu kämpfen. Nicht lange nachdem die Kämpfe begonnen hatten, ordnete Argenius den Rückzug seiner Truppen an. Bei seiner Rückkehr ins Reich wurde Argenius - der seine Männer in den Tod geführt und seine Aufgabe, die Regionen von Eisland zu erforschen nicht erfüllt hatte  - degradiert und seiner militärischen Titel enthoben. 
 
 In den folgenden Jahren fanden viele Scharmützel zwischen Animali und den entferntesten Außenposten des Reiches statt, und erst nachdem der Animalus Valsak als führender Schamane gewählt hatte, kam es zu friedlichen Auflösungen zwischen den beiden Rassen. 
@@ -62,6 +65,7 @@ Die Animali sind in mehrere Nomadenstämme aufgeteilt, die durch das eiskalte Ö
 
 ![Manche Animali sind perfekt ans Eisland angepasst](Pictures/Flavor/Animali/by_Emkun_Bear.png)
 [^EmnkunBearWarrior]
+
 Die einzelnen Stämme werden von einem Schamanen geführt. Jedes Jahr halten die Animali ein Fest ab, bei dem sich alle Stämme versammeln, die Götter ehren und ihr Volk feiern. Außerdem findet ein Turnier statt, bei dem alle Schamanen gegeneinander antreten, mit dem Ziel, Hauptschamane der Animali zu werden und die Höhle für sich beanspruchen zu können, eine Ehre, die nur dem Sieger obliegt. Der ausgewählte Schamane und sein Stamm leben ein Jahr lang in der Höhle, wo der Schamane mit Hilfe alchemistischer Gebräue mit den Göttern kommuniziert. Dadurch erfährt der Schamane von den besten Jagdgründen und erlangt andere wertvolle Informationen, um den Stamm zu mehr Größe zu führen.
 
 ### Der Ritus der Reife {#Mutation}
@@ -83,6 +87,8 @@ Die Stämme der Animali konkurrieren aufgrund ihrer natürlichen Jagdgewohnheite
 
 ![Während sich manche Animali eher auf ihren Körper verlassen greifen die meisten zu passender Ausrüstung](Pictures/Flavor/Animali/pngegg_AnimalusBogen.png)
 [^pngegg_AnimalusBogen]
+
+
 ## Die Religion der Rasse
 
 ## Die Legenden der Rasse

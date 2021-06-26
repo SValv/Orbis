@@ -155,10 +155,13 @@ HerzPolygons=Polygons(list(HerzPoly),"Herzland")
 HimmelNordPoly=Polygon(cbind(na.omit(dfRegionPolyValues$LongHimNord),na.omit(dfRegionPolyValues$LatHimNord)))
 HimmelNordPolygons=Polygons(list(HimmelNordPoly),"Nord-Himmelsgebirge")
 
-inputListRegionen=list(GrenzlandPolygons,BermaPolygons,EisenPolygons,WurmfallPolygons,EidTPolygons,SudEldriaPolygons,AppoPolygons,NordEldriaPolygons,NorsPolygons,EislandPolygons,NebelhainPolygons,YondallaPolygons,SilvaPolygons,HimmelOstPolygons,EidRahKahPolygons,DunstspitzenPolygons,GoblinsPolygons, AtumpetPolygons,GrauPolygons, OberreichPolygons,NafPolygons,HerzPolygons,HimmelNordPolygons)
+
+KnochenFeldPoly=Polygon(cbind(na.omit(dfRegionPolyValues$LongKnFeld),na.omit(dfRegionPolyValues$LatKnFeld)))
+KnochenFeldPolygons=Polygons(list(KnochenFeldPoly),"Knochenfeld-Schlucht")
+
+inputListRegionen=list(GrenzlandPolygons,BermaPolygons,EisenPolygons,WurmfallPolygons,EidTPolygons,SudEldriaPolygons,AppoPolygons,NordEldriaPolygons,NorsPolygons,EislandPolygons,NebelhainPolygons,YondallaPolygons,SilvaPolygons,HimmelOstPolygons,EidRahKahPolygons,DunstspitzenPolygons,GoblinsPolygons, AtumpetPolygons,GrauPolygons, OberreichPolygons,NafPolygons,HerzPolygons,HimmelNordPolygons,KnochenFeldPolygons)
 
 RegionPolygons=SpatialPolygons(inputListRegionen,1:length(inputListRegionen))
-
 
 RegionPolygonsData=read_excel("Leaflet/DataRegionInfo.xlsx")
 

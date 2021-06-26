@@ -119,7 +119,7 @@ Abseits dieser Berichte blieb lediglich der eines Wanderers südlich von Austen 
 Eine besondere Abscheulichkeit stellt der Große Aufspießer dar.
 Sein Name, ist mit der Darstellung unten nachvollziehbar.
 
-!["Großer Aufspießer in der Schlacht um die Knochenfeldschlucht"](Pictures/Flavor/Platzhalter/Gro%C3%9FerAufspie%C3%9Fer.jpg)
+!["Großer Aufspießer in der Schlacht um die Knochenfeldschlucht"](Pictures/Flavor/Platzhalter/GrosserAufspiesser.jpg)
 
 Aufspießer gehören zu den Monstern der Klasse der Höllenbrut und sind reichen in der Körpergröße vier Meter vom Boden in die Höhe.
 Ausgestattatet mit sieben Armen und 3 Beinen ist die unnatürlichkeit dieser Abschleuchkeit sofort klar.
@@ -432,7 +432,7 @@ In der 136 jährigen Zeit seit der Erstaufalge dieses wunderbaren Werkes konnten
 >
 > --- Auszug aus dem Werk von Pater Sistan Erindan - Das Leben der Zwerge - eine nicht heretische Abhandlung
 
-![Darstellung eines lebenden Werwolfes](Pictures/Flavor/Platzhalter/Lindwurm.jpg)
+![Darstellung eines lebenden Lindwurms](Pictures/Flavor/Platzhalter/Lindwurm.jpg)
 
 Orks, welche den Großteil der Lindwurmkenntnisse besitzen nutzen, falls es sich um Feuerspeiende Lindwürmer handelt, meist Lindwurm Haut zum Schutz und schnelle und gezielte Angriffe auf die Unterseite des Lindwurms.
 Vorzugsweise Nutzen Orks hierbei zweihändige Kriegshämmer und lange Knochenspeere aus den Knochen von Lindwürmern.

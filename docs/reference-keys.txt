@@ -50,12 +50,14 @@ die-eigenbegriffe-der-rasse-1
 stammesstruktur
 creatura-animali
 überlick-über-die-animali
+die-geschichte-der-animali
 herkunft-der-rasse
 der-erstkontakt-mit-dem-kaiserreich
 die-große-jagd-auf-den-weltenwurm
 die-gesellschaft-der-animali
 Mutation
 die-völkerbeziehungen-der-rasse-2
+die-religion-der-rasse-2
 die-legenden-der-rasse-2
 über-mantikore
 die-eigenbegriffe-der-rasse-2
@@ -65,7 +67,7 @@ die-gesellschaft-der-rasse-2
 clans
 jobs
 die-völkerbeziehungen-der-rasse-3
-die-religion-der-rasse-2
+die-religion-der-rasse-3
 totenkult-2
 die-legenden-der-rasse-3
 die-eigenbegriffe-der-rasse-3
@@ -87,7 +89,7 @@ die-halblinge
 die-geschichte-der-rasse-3
 die-gesellschaft-der-rasse-3
 völkerbeziehungen
-die-religion-der-rasse-3
+die-religion-der-rasse-4
 totenkult-3
 die-legenden-der-rasse-4
 die-eigenbegriffe-der-rasse-4

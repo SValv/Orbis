@@ -1,5 +1,304 @@
 # Konstrukte
 
+to do: Grundtrage Kapazität (Faktoren größe und Stärke!)
+
+revive größen abhängig reperatur (1-3 kleine(nebenaktivität)downtimes)
+
+Vecehil skill entscheidungen (downtime und aktiv)
+
+Vecehicel skill schwierigkeitsfakor (größe und tier)
+
+oder alternativ ladungsrückgewinnung mit batterie?
+
+## Allgemeines
+
+## Kontrolle
+
+tattoo, gegenstand, Resonazkreise Wie viele Konstrukte
+
+## Essenzen
+
+Gefäß zum Sammeln von Essenzen. \# Zwergenreligion
+
+Aufbau / Forrunner Knowledge part
+
+Massensammlung \#\#\# Sammeln von Essenzen
+
+## Im Kampf / Befehle
+
+Konstrukte Modus Operandi: Ein Konstrukt führt den aktuellen Befehl solange aus bis es einen anderen erhält. Durch übermittlungszeit ist es nicht möglich reaktionär zu agieren (als Beispiel schütze mich vor diesem angriff) anders sieht es aus wenn der Befehl vorher schon geäußert wurde
+
+Die erste Möglichkeit einen Befehl zu äußern liegt vor sobald der Spieler Charakter initiative hat Die Aktion des Konstruktes erfolgt zeitlich parallel mit der des Spielers außer der Befehl tritt erst zeit versetzt in kraft Dem Konstrukt steht nur eine Anwendung die Ladungen verbraucht pro Runde zur Verfügung
+
+Beispiel Befehle: Im Grunde alle Aktionen die eine Ladung erfordern. Greif diesen Gegner an Beschütze mich / diesen Verbündeten Blockiere diesen Gegner Ansitzen(zielen) auf diese Deckung
+
+### Ladungen
+
+Jede aktive Anwendung verbraucht Ladungen des Akkus, je nach Art der Anwendung können auch mehrere Ladungen für eine Anwendung verbraucht werden.
+
+## Aufbau / Preiskatalog
+
+### Gliedmaßen / Schwachpunkt
+
+Konstrukt Teile: Jedes Konstrukt bestehlt aus 6 angreifbaren Teilen seinen 4 Gliedmaßen einer Kernabdeckung und dem Kernselbst. Der Kern für sich ist nahezu ungepanzert, kann jedoch erst angegriffen werden nach dem die Kernabdeckung zerstört wurde. Der Kern ersetzt beim Called shot angriff den Kopf und die Kernabdeckung den Torso.
+
+### Kern
+
+Der Konstruktkern stellt sowohl das Herz als auch das Hirn eines jeden Konstruktsdar.\
+Das Level des Kern wird durch das Anwenden von Essenzen in einer kleinen Downtime erhöht.\
+Dieses Level beinflusst viele Bereiche des Konstrukts:
+
+-   Die Maximalen Attribute die effektiv eingesetzt werden können, sollten mehr Punkte in ein Attribut geflossen sein als die Stufe des Kerns so werden nur die Attributspunkte bis zur Kernstufe angewendet.
+
+-   Neben der begrenzung durch die Maximal Attribute, leveln auch zwei Attribute direkt mit der Kernstufe nämlich Intelligenz im Faktor 1 zu 1 und Instinkt im Faktor 1 zu 0,75.
+
+-   Die Maximalen Leben des Konstrukts entsprechen der 15fachen Kernstufe und verteilen sich unter den Gliedmaßen folgendermaßen: 50% Kern(Kopf), 50% Kernabschiermung (Torso) Alle anderen teile je 30%
+
+-   Das Skillgrundlevel, mit jeder Kernstufe erhöht sich auch das Grundlevel eines jeden Skills. Sollte dieses höher sein als das geskillte Level des Skills wird für die berechnung stadessen das Grundlevel herangezogen.
+
+-   Skilllevel, durch die Verwendung von Essenzen (unabhängig von der Stufe des Kerns) können einzelne Skills aufgelevelt werden.
+
+#### Skills
+
+Nicht alle Skills können von Konstrukten gelevelt werden, da auch diese Grenzen haben.\
+Folgende Skills können erhöht werden.
+
+-   Block
+
+-   armed
+
+-   ranged
+
+-   unarmed
+
+-   running
+
+-   sneak
+
+-   perception
+
+-   dodge
+
+-   acrobatics
+
+-   Artillerie =\> läuft über Ranged
+
+#### Preis des Kerns
+
+**Grundpreis des Kerns: 10.000**
+
+weitere 500 Reiks Pro Essenz Investiert
+
+//alternativ (Essenz Investment) 10 (1-10) je 1 \
+4 (11-12) je 2 \
+8(13-14) je 4 \
+12(15-16) je 6 \
+16(17-18) je 8 \
+20(19-20) je 10 (=70)\
+125(21-25) je 25 =195
+
+| Kernstufe | Preis je Level | Gesamtpreis (Essenzen) |
+|-----------|----------------|------------------------|
+| 1-10      | 1              | 10                     |
+| 11-12     | 2              | 14                     |
+| 13-14     | 3              | 20                     |
+| 15-16     | 4              | 28                     |
+| 17-18     | 5              | 38                     |
+| 19-20     | 6              | 50                     |
+| 21-30     | 15             | 200                    |
+| 31-40     | 30             | 500                    |
+
+// alternativ Skills (Essenz Investment) =\> vergleich skillpunkte 20 40 80 120 200 =460
+
+| Skilllevel | Preis je Level | Gesamtpreis (Essenzen) |
+|------------|----------------|------------------------|
+| 0-20       | 1              | 20                     |
+| 21-40      | 2              | 60                     |
+| 41-60      | 3              | 120                    |
+| 61-80      | 4              | 200                    |
+| 81-100     | 5              | 300                    |
+
+### Corpus
+
+Grundattribute Attribute Skills Rüstung Utility Größe Grundtragekapazität
+
+Corpus: Bestimmt zum Teil spätere Anwendung, kann nur gekauft werden / bei zwergen geschmiedet, kann verkauft / umgetauscht werden
+
+Klein=\> Preis \* 0,5 =\> Stats\**0,5*
+
+*Mittel(groß)=\> Preis Standart =\> Stats\**1
+
+Groß(sehr groß)=\>Preis *2 =\> Stats\**1,5, Rüstung\*1,3
+
++-------------+-------------+-----------+---------------+---------------+
+|             | Armor       | Attribute | Preis (Reiks) | Utility Preis |
++=============+=============+===========+===============+===============+
+| Tier 1 \    | 100         | 10        | 10.000        | 5000          |
+| klein       |             |           |               |               |
++-------------+-------------+-----------+---------------+---------------+
+| Tier 2 \    | 130         | 15        | 25.000        | 12.500        |
+| klein       |             |           |               |               |
++-------------+-------------+-----------+---------------+---------------+
+| tier 3 \    | 145         | 20        | 40.000        | 20.000        |
+| klein       |             |           |               |               |
++-------------+-------------+-----------+---------------+---------------+
+| tier 4 \    | 160         | 25        | 60.000        | 30.000        |
+| klein       |             |           |               |               |
++-------------+-------------+-----------+---------------+---------------+
+| tier 1\     | 100         | 20        | 20.000        | 15.000        |
+| medium      |             |           |               |               |
++-------------+-------------+-----------+---------------+---------------+
+| tier 2\     | 130         | 30        | 50.000        | 37.500        |
+| medium      |             |           |               |               |
++-------------+-------------+-----------+---------------+---------------+
+| tier 3\     | 145         | 40        | 80.000        | 60.000        |
+| medium      |             |           |               |               |
++-------------+-------------+-----------+---------------+---------------+
+| tier 4\     | 160         | 50        | 120.000       | 90.000        |
+| medium      |             |           |               |               |
++-------------+-------------+-----------+---------------+---------------+
+| tier 1\     | 130         | 30        | 40.000        | 30.000        |
+| groß        |             |           |               |               |
++-------------+-------------+-----------+---------------+---------------+
+| tier 2\     | 169         | 45        | 100.000       | 75.000        |
+| groß        |             |           |               |               |
++-------------+-------------+-----------+---------------+---------------+
+| tier 3\     | 189         | 60        | 160.000       | 120.000       |
+| groß        |             |           |               |               |
++-------------+-------------+-----------+---------------+---------------+
+| tier 4\     | 208         | 75        | 240.000       | 180.000       |
+| groß        |             |           |               |               |
++-------------+-------------+-----------+---------------+---------------+
+
+Tiers: 1-4 Je höher das Tier desto mehr Attribut Punkte können verteilt werden, entweder auf: \
+Str, Agi, Phys
+
+Armorteil: 20, 26, 29, 32 Pro Teil \
+im Durchschnitt In Prozent des Gesamt aufteilt: Helm 5% Brust 20% Arme 20% Gürtel 35% Beine 20%
+
+Utility: Billiger um Faktor 0,25 von Ursprungswert, Skills capped at 50\
+Fokus nicht auf schaden sondern auf spezielle Anwendungen Spy Stun Transport (transport addons) On and on
+
+#### Attribute
+
+Jeder Stat standartmäßig auf 1 jeder weitere durch Corpus / Addons!
+
+durch Kern gelevelte attribute?? Inst (notwendig für perception??) int
+
+Durch Gliedmaßen(addons) und corpus Str Agi Phys
+
+kein charisma
+
+### Batterie
+
+Batterie: Preis nach Ladungen gestaffelt Wird bei Kaufbestimmt, keine nachträgliche Erhöhung \
+Kann Verkauft werden oder umgetauscht
+
+Grundpreis: 5.000
+
+| Ladungsanzahl | Preis pro Ladung (Reiks) | Gesamt (inklusive Grundpreis) |
+|---------------|--------------------------|-------------------------------|
+| 1-5           | 2.000                    | 15.000                        |
+| 6-10          | 3.000                    | 30.000                        |
+| 11-15         | 4.000                    | 50.000                        |
+| 16-20         | 5.000                    | 75.000                        |
+| 21-30         | 7.500                    | 150.000                       |
+| 31-50         | 10.000                   | 350.000                       |
+
+### Preiskalkulation
+
+Zusammensetzung aus Kern,
+
+### Addons / Waffen
+
+Upgrades / Funktionen / Addons: Begrenzte Anzahl auf 5\
+Bringen entweder Stats oder Funktionen
+
+Addons sind craftbar Schaden richtet sich nach Tier des Materials \
+Stats richten sich nach Tier des Materials
+
+Statboosts:
+
+Material Tiers 1-4 Stats 3, 5, 8, 12
+
+Armor upgrades / Life upgrades
+
+Konstrukt Waffen: Bohrer Schwert Fernwaffen
+
+Standartwert Fernkampfwert Großwaffenwert \
+Stufe 1 30 23 40 \
+Stufe 2 42 35 52\
+Stufe 3 48 41 58\
+Stufe 4 53 46 63
+
+Utlity:
+
+Transport :75, 125, 200, 300
+
+Panzermodus (bonusrüstung nach tier (50,60,70,80)), blockiert die meisten anderen Anwendungen
+
+Wachmodus = Immer vorhanden, läuft über Perception
+
+Schützenplatz (1,2,3,4 personen Platz)
+
+Verbaute Attilerie (nur durch schützenplatz nutzbar) (tier abhängig wie groß montierbare waffe) (einklappbar)
+
+Atterlerienachlader (automatisch, tiers entsprechend nutzbar für tier der verbauten attilerie
+
+Deckungsmodul
+
+Stun / Interrupt\
+
+Anwendungen für ladungen: \
+Gratis: Gehen, Wachmodus, Panzermodus
+
+1 Ladung :
+
+Sprinten Blocken / dodgen Schützen (für jemanden blocken) Angriff Nah Angriff Fern Sicht gewähren (gedanken) Rammen / umwerfen
+
+Verbaute Attilierienutzung durch Person
+
+Klettern
+
+Seilwerfer
+
+Rauchwerfer
+
+2 oder mehr ladungen:
+
+Flammenwerfer (fester schaden pro tier, kein skill?)
+
+Schwerer Angriff / Lade Attacke / Atillerie Musketen / Schrappanel Attacke (multi hit mega attacke)
+
+## Wiederbelebung
+
+Natürlich kommt es vor das Konstrukte im Kampf zerstört werden, in diesem Fall muss es in Nebendowntime aktivitäten repariert werden.
+
+Je nach größe des Konstrukts müssen zwischen eine bis drei nebendowntime aktivitäten aufgewendet werden.
+
+Der Schwierigkeitsgrad des Checks orientiert sich dabei an dem Tier des Corpus und den entsprechenden Reperatur Values des Materials
+
+Jedoch benötigen diese Reperaturen keine Materialien.
+
+| Reparieren | Threshold |
+|:----------:|:---------:|
+|  Stufe 1   |    1,5    |
+|  Stufe 2   |    2,3    |
+|  Stufe 3   |     3     |
+|  Stufe 4   |     4     |
+
+## Vehicle Skill
+
+## Wo zu finden und Typische Vertreter
+
+Zwerge
+
+Rah Kari
+
+Wanderer
+
+Wandia
+
 ![Ein Zwerg](Pictures/Flavor/PLatzhalter/Dwarf.jpg)
 
 ### Die Völkerbeziehungen der Rasse
@@ -8,9 +307,6 @@ Während die meisten Völker Zwerge nur als Fahrende Händler oder an deren Wohn
 
 ![Ein seltenes Konstrukt](Pictures/Flavor/Platzhalter/KonstruktRahKari.jpg)
 
-
-
-
 ## Konstrukte
 
 Diese Wunder Mechanischer Handwerkskunst stellen den Zenit der Zwergischen Innovation dar. Sie sind aufgrund ihrer Religösen Ansichten als einziges Volk in der Lage diese teils Tonnenschweren Kollosse zum Leben zu erwecken. Die Konstrukte existieren in allen Formen und Farben und decken jeden nur möglichen Arbeitsbereich ab. So stellen sie zum Beispiel einen der schlagkräftigsten Teile des Rah Akari Heeres dar, Werden von Zwergenkarawanen zum Transport von tonnenschweren Waren benutzt und sind gleichzeitig mit schweren Ballisten bestückt. Fast jede Tätigkeit die ein Konstrukt übernimmt könnte genauso gut durch ein Tier, eine schlichte Mechanik oder einfach nur durch eine Person übernommen werden. Doch Konstrukte bieten neben vielen anderen Vorteilen einen bestimmten, bedinungslose Loyalität.
@@ -18,8 +314,6 @@ Diese Wunder Mechanischer Handwerkskunst stellen den Zenit der Zwergischen Innov
 ### Kontrolle über Konstrukte
 
 Kein Konstrukt wird seinen Meister Willentlich hintergehen denn sie sind in ermangelung von eben diesem. Wer einem Konstrukt befehle geben kann wird klar geregelt durch einen so genannten Meisterstein dieser wird zusammen mit dem Konstruktkern erschaffen und erhält dabei ein rein zufälliges und einmaliges Muster. Dieses Muster steht in Resonanz mit dem Kern, der das gleiche Muster trägt. Die Reichweite dieser Resonanz ist dabei jedoch begrenzt, doch innerhalb dieser Reichweite führt das Konstrukt jeden Befehl aus der vom besitzer des Meistersteins gegeben wird, dabei muss dieser Befehl nicht laut gesagt werden, ein explizieter Gedanke reicht bereits dafür, dies erfordert jedoch einiges an Übung, weshalb viele Nutzer es bevorzugen dem Konstrukt akkustische Befehle zu geben. So wichtig die Reichweite ist, als Meister sollte man sich da nichts so viele Sorgen machen, sollte ein Konstrukt die Reichweite verlassen so durchläuft das Konstrukt die aktuelle Routine fertig / den Befehl anschließend startet das Konstrukt automatisch eine vorher bestimmte "AFK Routine" die "Away From Konstruct Routine". Der Meisterstein trotz seines namens kann vielerlei Form haben, da das Muster erst bei der Erschaffung des Kerns aufgeprägt wird. Mögliche Meistersteine wären so zum Beispiel ein Amulett, Armreif oder tatsächlich ein verzierter Stein oder in ganz seltenen Fällen kann von Meistern ihres Handwerks das Muster sogar auf die Haut als Tattoo aufgetragen werden. Solche Tattoos bringen Vorteile wie Nachteile, so ist es quasi unmöglich die Kontrolle über das Konstrukt zu übertragen im Gegenzug ist es jedoch auch quasi unmöglich den Meisterstein von seinem Besitzer zu entwenden, dies wird also nur von den Misstrauischten genutzt. Zu beachten ist jedoch das die Nutzung von Konstrukten pro Meister limitiert ist denn zu viele Meistersteine unter einem Meister stören sich bei der Resonanz gegenseitig.
-
-
 
 ### Die vielfalt der Möglichkeiten
 
@@ -37,7 +331,7 @@ Konstrukte dieser Klasse sind hauptsächlich in Reichen Zwergen Haushalten anzut
 
 Sowohl über als auch unter der Erde müssen oft größere Menge Ware oder große Lasten bewegt werden, hier für gibt es allerlei Möglichkeiten, die beste stellt natürlich auch hier wieder ein Konstrukt dar, hier ein Beispiel wo würden sie ihr Bargeld lieber aufbewahren, in einer Satteltasche eines Tieres das bereits für seine Sturheit und widerwilligkeit bekannt ist oder im Tresor im inneren ihres Loyalen Gefährten der ihnen ohne zu zögern in den Wurmfall folgen würde. Diese Konstruktklasse unterscheidet sich stark in ihren Ausführungen obwohl sie doch alle das gleiche Ziel haben, von der Anzahl der Beine, Panzerung und nützliche Gadgets ist allen voran natürlich die mögliche Traglast ausschlaggebend. Diese Konstrukte werden oft von den Oberflächen Zwergenkarawanen genutzt, in ihnen kann alles von mystischen Bestien bis Edelsteinen alles sicher Transportiert werden, oft werden diese dabei neben nützlichen Gadgets auch mit Waffen ausgestattet die dann von der Besesatzung genutzt werden können.
 
-![Gerüstetes Transportkonstrukt](Pictures/Flavor/Plazthalter/Konstrukt%20Transport.jpg)
+![Gerüstetes Transportkonstrukt](Pictures/Flavor/Platzhalter/Konstrukt_Transport.jpg)
 
 #### Kampf:
 
@@ -53,7 +347,7 @@ Ein Fernkampf Konstrupt ist weit weniger adaptiert für den Nahkampf jedoch nich
 
 ![SchlachtKonstrukt](Pictures/Flavor/Platzhalter/SchlachtKonstrukt.jpg)
 
-![Fernkampf Konstrukt](Pictures/Flavor/Platzhalter/Konstrukt%20Ballista.jpg)
+![Fernkampf Konstrukt](Pictures/Flavor/Platzhalter/Konstrukt_Ballista.jpg)
 
 #### Ornate Krieger:
 
@@ -75,38 +369,20 @@ Um die Seelen für die teure Schaffung von Konstrukten zu besorgen gibt es für 
 
 Die Inspiration für diese Wunderwerke fanden die Zwerge in den Überbleibseln von Forrunner Technologie, jedoch können selbst ihre heutigen meisterwerke den damaligen nicht das Wasser reichen.
 
+\#\#Aufbau Ingame
 
-
-
-##Aufbau Ingame
-
-Konstrukt Kern gibt die Maximalen Stats die ein Konstrukt erreichen kann vor
-Akku gibt die Ladungsmenge an die ein Konstrukt speichern kann
-Gließmaßen / Bauteile geben die tatsächlichen Stats an bis zum Cap durch den Kern
-Konstrukt waffen / Optionen diese sind die möglichkeiten des Konstrukts seine Akku Ladungen zu verbrauchen
+Konstrukt Kern gibt die Maximalen Stats die ein Konstrukt erreichen kann vor Akku gibt die Ladungsmenge an die ein Konstrukt speichern kann Gließmaßen / Bauteile geben die tatsächlichen Stats an bis zum Cap durch den Kern Konstrukt waffen / Optionen diese sind die möglichkeiten des Konstrukts seine Akku Ladungen zu verbrauchen
 
 ### Akku
 
 ### Batterien
-zum aufladen des Akkus ohne Pausen, one use consumable
-in verschiedenen Größen verfügbar
+
+zum aufladen des Akkus ohne Pausen, one use consumable in verschiedenen Größen verfügbar
 
 benötigt Material und Essenzen
 
-
-
-
-
-chassis / corpus stats, nicht lvl / austausch
-kern levelbar in downtime, max stats, skills
-batterie / akku nicht lvl / austausch
-attachments, nicht tauschbar, gliedmaßen
-konstrukt waffen verbrauch ladungen
+chassis / corpus stats, nicht lvl / austausch kern levelbar in downtime, max stats, skills batterie / akku nicht lvl / austausch attachments, nicht tauschbar, gliedmaßen konstrukt waffen verbrauch ladungen
 
 exponentiell steigende kosten
-
-
-
-
 
 Vehicel Skill

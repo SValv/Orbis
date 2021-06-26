@@ -2,4 +2,4 @@
 
 # Übersicht
 
-![Die Regionen von Orbis Astera](Pictures/Maps/Orbis Aestea.jpg)
+![Die Regionen von Orbis Astera](Pictures/Maps/OrbisAstea.jpg)
