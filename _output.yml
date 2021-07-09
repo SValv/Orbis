@@ -1,5 +1,5 @@
 bookdown::gitbook:
-  css: ["style.css"]
+  css: "style.css"
   split_by: "chapter"
   toc_depth: 4
   config:
@@ -19,3 +19,6 @@ bookdown::gitbook:
       size: 2
     sharing: no
     info: yes
+    apple-touch-icon: "Pictures/Team/Team.jpg"
+    apple-touch-icon-size: 120
+    favicon: "icn.jpg"

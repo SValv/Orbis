@@ -3,6 +3,9 @@ title: "Orbis Astea"
 date: "Version vom: `r format(Sys.Date(),'%d.%m.%Y')`"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
+apple-touch-icon: "Pictures/Team/Team.jpg"
+apple-touch-icon-size: 120
+favicon: "icn.jpg"
 ---
 
 # (PART) Orbis Astea {-} 
@@ -215,19 +218,7 @@ icons=iconList(
 )
 ```
 
-```{css, echo=F, eval=F}
-.book .book-body .page-wrapper .page-inner section.normal .leaflet-control-layers-toggle {
-  background-image: url(docs/libs/images/layers.png) !important;
-}
-.book .book-body .page-wrapper .page-inner section.normal .leaflet-bar a, .book .book-body .page-wrapper .page-inner section.normal .leaflet-control-layers-toggle {
-  background-position: 50% 50% !important;
-  background-repeat: no-repeat !important;
-  display: block !important;
-}
-.book .book-body .page-wrapper .page-inner section.normal .leaflet-bar a, .book .book-body .page-wrapper .page-inner section.normal .leaflet-bar a:hover {
-  background-color: #fff !important;
-}
-```
+
 
 ```{r , echo=FALSE, fig.width=8,fig.height=6}
 rgvec=c("black","red","orange","green","blue")

@@ -18,9 +18,9 @@ Wie man sieht, passiert es manchmal, dass einem Skill mehrere Attribute zugeordn
 
 ### Die einfache Probe
 
-Die einfache Probe ist zu Würfeln, wenn es keinen direkten Gegenspieler gibt. Sie ist meistens mit einem Threshold in Value[^regeln-1] oder Damage verknüpft, den der DM beliebig festlegt. Sollte man bspw. versuchen ein Schloss zu knacken, wird der DM festlegen, dass der Value über 3 sein soll, um das zu erreichen. Bei härteren/leichteren schlössern ist der Value natürlich anzupassen.
+Die einfache Probe ist zu Würfeln, wenn es keinen direkten Gegenspieler gibt. Sie ist meistens mit einem Threshold in Value[^1] oder Damage verknüpft, den der DM beliebig festlegt. Sollte man bspw. versuchen ein Schloss zu knacken, wird der DM festlegen, dass der Value über 3 sein soll, um das zu erreichen. Bei härteren/leichteren schlössern ist der Value natürlich anzupassen.
 
-[^regeln-1]: Value ist eine Form von Gütekriterium eines Wurfes - je höher der Value, desto besser der Wurf.
+[^1]: Value ist eine Form von Gütekriterium eines Wurfes - je höher der Value, desto besser der Wurf.
 
 Welche Werte hierbei welcher Größenordnung entsprechen findet sich <font color="green">[hier](#Abstufungen)</font>.
 
@@ -283,21 +283,14 @@ Stats und Arten der Artillerie:
 |  Katapult  |   600   |    350m    | 300 kg  |     4     | verboten |     200      |
 | Trebouchet |  2900   |    350m    | 600 kg  |    4,7    | verboten |     600      |
 
-+------------+--------------------+--------------------+-----------------+--------+--------------------------------------------------------------------------------+
-| Artillerie | Minimale Besatzung | Maximale Besatzung | Negiert Deckung | Größe  | Zusatz                                                                         |
-+:==========:+:==================:+:==================:+:===============:+:======:+:==============================================================================:+
-| Skorpion   | 1                  | 2                  | --              | Klein  | Aufbau im Kampf: 3 Runden wenn nur 1 Mann Besatzung: Nachladen als Main Action |
-+------------+--------------------+--------------------+-----------------+--------+--------------------------------------------------------------------------------+
-| Balliste   | 2                  | 3                  | Tier 1          | Mittel | Nachladen 1 Runde minimum, 2 Runden, wenn Besatzung \<2                        |
-+------------+--------------------+--------------------+-----------------+--------+--------------------------------------------------------------------------------+
-| Handkanone | 1                  | 1                  | Tier 1          | Klein  | Nachladen 1 Runde                                                              |
-+------------+--------------------+--------------------+-----------------+--------+--------------------------------------------------------------------------------+
-| Großkanone | 2                  | 3                  | Tier 2          | Groß   | Nachladen 1 Runde minimum, 2 Runden, wenn Besatzung \<3                        |
-+------------+--------------------+--------------------+-----------------+--------+--------------------------------------------------------------------------------+
-| Katapult   | 2                  | 3                  | Tier 1          | Mittel | Nachladen 1 Runde minimum, 2 Runden, wenn Besatzung \<3, Area Damage 2m        |
-+------------+--------------------+--------------------+-----------------+--------+--------------------------------------------------------------------------------+
-| Trebouchet | 4                  | 8                  | Tier 2          | Groß   | Nachladen 1 Runde minimum, 2 Runden, wenn Besatzung \<6 , Area Damage 8m       |
-+------------+--------------------+--------------------+-----------------+--------+--------------------------------------------------------------------------------+
+| Artillerie | Minimale Besatzung | Maximale Besatzung | Negiert Deckung | Größe  |                                     Zusatz                                     |
+|:----------:|:------------------:|:------------------:|:---------------:|:------:|:------------------------------------------------------------------------------:|
+|  Skorpion  |         1          |         2          |       --        | Klein  | Aufbau im Kampf: 3 Runden wenn nur 1 Mann Besatzung: Nachladen als Main Action |
+|  Balliste  |         2          |         3          |     Tier 1      | Mittel |            Nachladen 1 Runde minimum, 2 Runden, wenn Besatzung \<2             |
+| Handkanone |         1          |         1          |     Tier 1      | Klein  |                               Nachladen 1 Runde                                |
+| Großkanone |         2          |         3          |     Tier 2      |  Groß  |            Nachladen 1 Runde minimum, 2 Runden, wenn Besatzung \<3             |
+|  Katapult  |         2          |         3          |     Tier 1      | Mittel |    Nachladen 1 Runde minimum, 2 Runden, wenn Besatzung \<3, Area Damage 2m     |
+| Trebouchet |         4          |         8          |     Tier 2      |  Groß  |    Nachladen 1 Runde minimum, 2 Runden, wenn Besatzung \<6 , Area Damage 8m    |
 
 ### Die Schadensverrechnung
 
@@ -471,19 +464,13 @@ Die Aktion "Verbessern" erhöht den Damage-Wert eines Ausrüstungsgegenstandes u
 
 Thresholds und Kosten der Aktion Verbessern:
 
-+------------+--------------+-----------+-----------------+---------------+----------------+
 | Verbessern | Standartwert | Threshold | Kosten Material | Höchster Wert | Kosten Schmied |
-+:==========:+:============:+:=========:+:===============:+:=============:+:==============:+
-| Stufe 1    | 30           | 2         | 1500            | +14           | 6000           |
-+------------+--------------+-----------+-----------------+---------------+----------------+
-| Stufe 2    | 42         | 2,8       | 6750            | +8            | 27000          |
-+------------+--------------+-----------+-----------------+---------------+----------------+
-| Stufe 3    | 48           | 3,8       | 27000           | +6            | 108000         |
-+------------+--------------+-----------+-----------------+---------------+----------------+
-| Stufe 4    | 53           | 4,7       | 90000           | +4            | 360000         |
-+------------+--------------+-----------+-----------------+---------------+----------------+
-| Stufe 5    | --           | --        | --              | --            | --             |
-+------------+--------------+-----------+-----------------+---------------+----------------+
+|:----------:|:------------:|:---------:|:---------------:|:-------------:|:--------------:|
+|  Stufe 1   |      30      |     2     |      1500       |      +14      |      6000      |
+|  Stufe 2   |   42 \| 2    |  ,8 \| 6  |    750 \| +     |    8 \| 2     |      7000      |
+|  Stufe 3   |      48      |    3,8    |      27000      |      +6       |     108000     |
+|  Stufe 4   |      53      |    4,7    |      90000      |      +4       |     360000     |
+|  Stufe 5   |      --      |    --     |       --        |      --       |       --       |
 
 ### Modifizieren {#modifizieren}
 
@@ -493,19 +480,13 @@ Das modifizieren ist die kreative Komponente des Handwerks. Modifikationen sind 
 
 Das Herstellen von Waffen geht nach folgender Tabelle:
 
-+-----------------+-----------------+-----------------+-----------------+
-| Herstellen      | Standartwert    | Threshold       | Materialkosten  |
-+:===============:+:===============:+:===============:+:===============:+
-| Stufe 1         | 30              | 2,4             | 1500            |
-+-----------------+-----------------+-----------------+-----------------+
-| Stufe 2         | 42              | 3,3             | 6750            |
-+-----------------+-----------------+-----------------+-----------------+
-| Stufe 3         | 48              | 4               | 27000           |
-+-----------------+-----------------+-----------------+-----------------+
-| Stufe 4         | 53              | 5               | 90000           |
-+-----------------+-----------------+-----------------+-----------------+
-| Stufe 5         | --              | --              | --              |
-+-----------------+-----------------+-----------------+-----------------+
+| Herstellen | Standartwert | Threshold | Materialkosten |
+|:----------:|:------------:|:---------:|:--------------:|
+|  Stufe 1   |      30      |    2,4    |      1500      |
+|  Stufe 2   |      42      |    3,3    |      6750      |
+|  Stufe 3   |      48      |     4     |     27000      |
+|  Stufe 4   |      53      |     5     |     90000      |
+|  Stufe 5   |      --      |    --     |       --       |
 
 #### Waffenfremde Modifikationen/Schaffungen
 

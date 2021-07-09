@@ -417,6 +417,9 @@ gerüchte-der-region-3
 sehenswürdigkeiten-3
 yondalla
 ortschaften-der-region-4
+yonda
+alla
+ollian
 infrastruktur-4
 die-geschichte-der-region-3
 wirtschaftliche-lage-7
@@ -559,6 +562,7 @@ monster-in-der-region-13
 gemeiner-mooshügel
 der-häuter-von-eiden
 gerüchte-der-region-12
+ernter-der-seelen
 sehenswürdigkeiten-13
 ab-hier-veraltetes-lore
 NebelhainHintergrund
