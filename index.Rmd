@@ -2,10 +2,6 @@
 title: "Orbis Astea"
 date: "Version vom: `r format(Sys.Date(),'%d.%m.%Y')`"
 site: bookdown::bookdown_site
-output: bookdown::gitbook
-apple-touch-icon: "Pictures/Team/Team.jpg"
-apple-touch-icon-size: 120
-favicon: "icn.jpg"
 ---
 
 # (PART) Orbis Astea {-} 

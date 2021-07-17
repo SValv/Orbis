@@ -23,7 +23,7 @@ Orbis Astea wurde vom folgendem Team geschrieben:
 
 <div style= "float:left;position: relative; right: 30px; top: -7px;">
 
-![](Pictures/Team/Simon.jpg #Profil)
+![](Pictures/Team/Simon.jpg)
 
 </div>
 
@@ -46,7 +46,7 @@ Es sind seine Kreativität, sein Herzblut und seine Disziplin, die das Projekt a
 
 <div style= "float:left;position: relative; right: 30px; top: -7px;">
 
-![](Pictures/Team/Lena3.jpg#Profil)
+![](Pictures/Team/Lena3.jpg)
 
 </div>
 
@@ -64,7 +64,7 @@ Lena sorgt dafür, dass Organisation, Deadlines und wichtige Ideen im Projekt ni
 
 <div style= "float:left;position: relative; right: 30px; top: -7px;">
 
-![](Pictures/Team/Kasper.jpg#Profil)
+![](Pictures/Team/Kasper.jpg)
 
 </div>
 
@@ -80,7 +80,7 @@ Kasper ist ein starker Befürworter und Unterstützer des Projekts von Anfang an
 
 <div style= "float:left;position: relative; right: 30px; top: -7px;">
 
-![](Pictures/Team/Emil.jpg#Profil)
+![](Pictures/Team/Emil.jpg)
 
 </div>
 
@@ -99,7 +99,7 @@ Seine treue Seele ist Teil einer jeden Lore-Session, die abgehalten wird. Er ste
 
 <div style= "float:left;position: relative; right: 30px; top: -7px;">
 
-![](Pictures/Team/Florian.jpeg#Profil)
+![](Pictures/Team/Florian.jpeg)
 
 </div>
 
@@ -120,7 +120,7 @@ Die Vergangenheit der Zwerge sind dabei ebenfalls ein großer Punkt, die seine Z
 
 <div style= "float:left;position: relative; right: 30px; top: -7px;">
 
-![](Pictures/Team/Andi.jpg#Profil)
+![](Pictures/Team/Andi.jpg)
 
 </div>
 
