@@ -13,8 +13,7 @@ Die Animali sind eine Rasse humanoider Lebewesen, die am äußersten Ende der We
 
 Verglichen mit dem Imperium leben die Animali einen relativ konservativen Lebensstil, bevorzugen das Leben von Nomaden und leben in Stämmen. Es wird angenommen, dass die Animali diesen Lebensstil wählen, weil das sich ständig ändernde Wetter und Ökosystem bestimmte Teile des Eislandes  nur zu bestimmten Zeiten bewohnbar macht. Es wird auch geglaubt, dass ihre abgeschiedene und konservative Natur hauptsächlich für ihr langsames Fortschreiten als Gesellschaft verantwortlich ist und dass sie, kulturell und wissenschaftlich (falls man das bei den Animali so nennen kann), Jahrzehnte hinter den anderen Rassen zurückliegen.
 
-![Ein für die Jagd bewaffneter Animalus](Pictures/Flavor/Animali/by_JLazarusLB_Ziege.jpg)
-[^JLazarusEBGoatman]
+![Ein für die Jagd bewaffneter Animalus[^JLazarusEBGoatman]](Pictures/Flavor/Animali/by_JLazarusLB_Ziege.jpg)
 
 
 ## Die Geschichte der Animali

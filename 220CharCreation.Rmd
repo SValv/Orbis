@@ -64,8 +64,6 @@ mit diesen Base-Stats fängt man an:
 +----------------------+------------+------------+-------------------------------------+-------------+-------------------------+--------------+--------------+-------------------------+
 | Sprachen             | Herkunft 8 | Elfisch 8  | Zwergisch 8 Rah Kari 5 Kaiserlich 4 | Orkisch 6   | Beastmen 8 Kaiserlich 3 | Gob 8        | Kaiserlich 8 | Kaiserlich 8 Halbling 8 |
 +----------------------+------------+------------+-------------------------------------+-------------+-------------------------+--------------+--------------+-------------------------+
-| 20                   | 24         |            |                                     |             |                         |              |              |                         |
-+----------------------+------------+------------+-------------------------------------+-------------+-------------------------+--------------+--------------+-------------------------+
 
 </small> </small>
 
@@ -334,14 +332,21 @@ Dieser Wert soll die Göttliche Gunst in entscheidenden Situationen darstellen.
 
 ### Glück
 
-Ebenso wie bei Glaube kann auch das Glück sinken und steigen. Wenn ein Charakter beispielsweise Aktionen bringt die gegen seine eigenen Werte gehen, sinkt der Glückswert durch Ansage des DM's. Bei Aktionen auf die ein Charakter besonders Stolz sein kann steigt dieser wieder. Die stärke von Senkung/Steigung liegt am DM. 
+Ebenso wie bei Glaube kann auch das Glück sinken und steigen.
+Wenn ein Charakter beispielsweise Aktionen bringt die gegen seine eigenen Werte gehen, sinkt der Glückswert durch Ansage des DM's.
+Bei Aktionen auf die ein Charakter besonders Stolz sein kann steigt dieser wieder.
+Die stärke von Senkung/Steigung liegt am DM.
 
 Dieser Wert soll das persönliche Wachstum und Wohlbefinden wiederspiegeln.
 
 ### Sanity
 
-Sanity bezeichnet die Rate, in der der Charakter noch Zurechnungsfähig ist. Sie geht vom Maximalwert 100 bis zum Wert Null. Sanity sinkt jedes Mal, wenn man mit Blutgöttern in Kontakt kommt, Blutgöttern dient oder eine Blutgottwaffe verwendet. 
-Solange die Sanity über 20 ist gibt es noch nichts zu befürchten. Sinkt die Sanity unter 20, hat der DM einmal pro Session die Möglichkeit einen Glück/Glaube-Save zu machen und - falls dieser gefailt wird - übernimmt der DM kurzzeitig die Kontrolle über die Figur, die daraufhin Wahrscheinlich horrende Taten vollbringt. Sinkt die Sanity unter 10, hat der DM zwei mal pro Session die Chance auf die Übername des Charakters. 
+Sanity bezeichnet die Rate, in der der Charakter noch Zurechnungsfähig ist.
+Sie geht vom Maximalwert 100 bis zum Wert Null.
+Sanity sinkt jedes Mal, wenn man mit Blutgöttern in Kontakt kommt, Blutgöttern dient oder eine Blutgottwaffe verwendet.
+Solange die Sanity über 20 ist gibt es noch nichts zu befürchten.
+Sinkt die Sanity unter 20, hat der DM einmal pro Session die Möglichkeit einen Glück/Glaube-Save zu machen und - falls dieser gefailt wird - übernimmt der DM kurzzeitig die Kontrolle über die Figur, die daraufhin Wahrscheinlich horrende Taten vollbringt.
+Sinkt die Sanity unter 10, hat der DM zwei mal pro Session die Chance auf die Übername des Charakters.
 Sollte die Sanity allerdings auf Null sinken, verliert der Spieler dauerhaft die Rolle über den Charakter - und der Charakter fällt langfristig dem blutigen Treiben eines <font color="green">[bösen Gottes](#Blutkult)</font> anheim.
 
 Bei Interaktionen entscheidet der DM um wie viel die Sanity sinkt.
