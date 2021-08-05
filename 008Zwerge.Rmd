@@ -63,9 +63,9 @@ Um diesen zusammenhang zu verdeutlichen existiert eine beliebte Geschichte, jene
 
 ### Clans
 
-![Die Zwergenstadt Tendar](Pictures/Flavor/Zwerge/ZwergenstadtUeberirdisch_butteredbap.jpg)
+![Die Zwergenstadt Tendar[^ButteredbapNiagaraFalls]](Pictures/Flavor/Zwerge/ZwergenstadtUeberirdisch_butteredbap.jpg)
 
-[^ButteredbapNiagaraFalls]
+
 
 
 ![Eine Tiefstadt der Zwerge](Pictures/Flavor/Platzhalter/ZwergTiefstadt.jpg)
@@ -212,7 +212,7 @@ Ein Fernkampf Konstrupt ist weit weniger adaptiert für den Nahkampf jedoch nich
 
 ![SchlachtKonstrukt](Pictures/Flavor/Platzhalter/SchlachtKonstrukt.jpg)
 
-![Fernkampf Konstrukt](Pictures/Flavor/Platzhalter/Konstrukt Ballista.jpg)
+![Fernkampf Konstrukt](Pictures/Flavor/Platzhalter/Konstrukt_Ballista.jpg)
 
 #### Ornate Krieger:
 

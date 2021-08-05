@@ -194,8 +194,8 @@ Zudem gelingt es den Waldelfen äußerst gut Tiere zu zähmen und diese als Nutz
 
 Eine der Hauptnahrungsquellen der Waldelfen stellen riesige Insekten dar. 
 
-![Ein Barboleta - Aus der Insektensammlung eines Elfenforschers](Pictures\\Flavor\\Insekten\\Barboleta_by_jimmynijs.jpg)
-[^JimmyNijsSuloenara]
+![Ein Barboleta - Aus der Insektensammlung eines Elfenforschers[^JimmyNijsSuloenara]](Pictures\\Flavor\\Insekten\\Barboleta_by_jimmynijs.jpg)
+
 
 
 Diese werden von den Elfen als Barboleta bezeichnet und stellen für Antwärter des Gesandten der Klaue zu Beginn eine erste Herausforderung dar, welche erlegt werden muss. Diese Insekten können durchaus die Größe eines Rehkitzes erreichen, wodurch sie sich für erste Jagderfahrungen wunderbar eignen. 

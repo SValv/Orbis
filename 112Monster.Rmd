@@ -304,16 +304,12 @@ Eventuell zur Verteidigung herbeistürmende Kinder, also die Ghule, sind mit Sch
 
 Alchemistisch ist keine Verwendung über Brutmutter Ingridientien bekannt.
 
-![Illustration einer schlafenden Brutmutter](Pictures/Flavor/Monster/by_taonavi_Brutmutter.jpg) 
-
-
-[^TaonaviAbominationKnight]
+![Illustration einer schlafenden Brutmutter[^TaonaviAbominationKnight]](Pictures/Flavor/Monster/by_taonavi_Brutmutter.jpg) 
 
 
 
-![Illustration eines Ghules](Pictures/Flavor/Erwachte/pngegg_Guhl_Erwachter.png) 
 
-[^pngegg_Guhl_Erwachter]
+![Illustration eines Ghules[^pngegg_Guhl_Erwachter]](Pictures/Flavor/Erwachte/pngegg_Guhl_Erwachter.png) 
 
 
 
@@ -707,8 +703,8 @@ Das Wesen dieser Kreaturen ist schlicht.
 Sie fressen was sich im Schlamm oder am Land verbirgt und nicht mehr wegläuft, oder dumm genug ist, diese Tiere zu konfrontieren.
 Die Abscheulichkeiten des Nebelhains und von Silva Nacia scheinen allerdings hier ausreichend Nahrungs zur Verfügung zu stellen.
 
-![Schlammtrommler mit dem Größenvergleich zu einem Menschen](Pictures/Flavor/Monster/000Fesbra000_Krebs.jpg)
-[^000Fesbra000Krebs]
+![Schlammtrommler mit dem Größenvergleich zu einem Menschen[^000Fesbra000Krebs]](Pictures/Flavor/Monster/000Fesbra000_Krebs.jpg)
+
 
 > "Also standen wir, wissen sie, mit 10 Legionären, schwer bewaffnet an der Grenze zu diesem "Nebelhain". Jedenfalls sahen wir die Karawane kommen, und dachten, ja gut, die Vorhut, 2 Pferde und die Reiter drauf. Doch dann merkten wir, dass die Kutschen nicht dabei waren, und dass ein paar arme Socken hinter den 2 Pferden nachliefen. Naja ich orderte halt meine Männer denen entgegen zu laufen. Die Sicht war an dem Tag Verhältnismäßig gut für diese erbärmlichen Sümpfe vor Rintom. Vielleicht 400 Meter. Also liefen wir denen entgegen. Naja die schwere Rüstung, und der Regen der letzten Tage, Sie glauben nicht wie Weiberarsch dick es da unten regnen kann, machten das laufen nicht gerade leichter. Als die Reiter uns in gebrochenen Kaiserlich erklären wollten dass wir umkehren sollten. Ja, wissen sie, dass haben wir nich so ganz Verstanden. Was sollte 10 Legionären schon was anhaben? Naja wir liefen weiter den Händlern entgegen und im Nebel sahen wir dann dieses riesige Vieh. Hoch wie ein Turm. Man, das ding war breit wie die Villa vom alten Stadthalter von Wagenfurt. Wir sahen wie das Maul von dem Ding blutrot war und Rüstungsfetzen raushingen. Man wir nahmen die Beine in die Hand, ich kämpfte schon gegen eldrische Hhnterhältige Schweine. Aber da fiel mir echt das Herz in meinen Hintern. Scheiße, wir liefen und liefen und dieser Nebelhain nahm kein Ende. Da war ich echt froh meine Männer ständig in schwerer Rüstung laufen zu lassen. Flavius hats leider nicht geschafft wir hörten das quietschen von Rüstung wie wenn es dünnes Blech wär. Ein Schrei und es war still. Man wir liefen und liefen und dieses Ding wurde kleiner und kleiner. Ich sag euch. Selbst wenn der Kaiser persönlich hier aufkreuzt ich steck keinen Zeh mehr in den Nebelhain. Schlammtrommler hießen diese Dinger habe ich mir sagen lassen. Nein, nie wieder geh ich dort rein, wir wurden dann versetzt und da muss ich ihnen die Geschichte von meinem Neffen Maxian erzählen...."
 >

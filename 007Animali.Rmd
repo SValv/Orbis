@@ -26,8 +26,8 @@ Die Animali waren eine gewöhnliche Gruppe von Menschen, die auf der Flucht vor 
 
 In den goldenen Jahren des Kaiserreichs begann das Reich, seine Grenzen auszudehnen, wo immer es konnte und in dieser Zeit fanden die ersten Expeditionen ins Eisland statt. Vor dieser Zeit waren die Menschen, die in der als Herzland bekannten Region lebten, nicht daran interessiert, die kalte Einöde von Eisland zu erforschen, da sie dachten, dass man nichts durch die Besiedlung eines, für Menschen ungeeigneten, Lebensraums gewinnen könne. In der Region Nors jedoch, wo sich die Menschen an das Leben in einer kälteren Umgebung angepasst hatten, wurden mehrere Expeditionen ins Eisland unternommen. Diese waren jedoch alle nur von kurzer Dauer, da es keiner Expedition gelang, weit ins Eisland vorzudringen, bevor sie mit einem der gefährlichen Monster des Eislandes Bekanntschaft machten. Erst nach der Gründung des Kaiserreichs wurden Ressourcen in eine weitere Expedition des Eislands gesteckt, die von einem Abkömmling der Familie Thrax - Argenius - geleitet wurde. Viele Leute hielten den unerfahrenen Argenius für ungeeignet, die neu gegründete Expedition zu leiten, aber aufgrund der vielen militärischen Errungenschaften und des Einflusses der Familie Thrax wurde ihm die Erlaubnis erteilt, die Expedition ins Eisland zu leiten.
 
-![Argenius in Eisland](Pictures/Flavor/Animali/by_fritzvicari_ArgeniusImEisland.jpg)
-[^FritzVicariBalticSea]
+![Argenius in Eisland[^FritzVicariBalticSea]](Pictures/Flavor/Animali/by_fritzvicari_ArgeniusImEisland.jpg)
+
 
 Im Gegensatz zu den vielen Expeditionen vor ihm, war Argenius mit genügend Ressourcen und Arbeitskraft ausgestattet, um weiter nach Eisland vorzudringen, als jeder Mann vor ihm. Nach Wochen und vielen getöteten Bestien hatte das Expeditionsteam schließlich die erste Begegnung mit den Animali. Diese erste Begegnung zwischen den beiden Rassen sollte jedoch nicht friedlich verlaufen, da die Arroganz und die Unerfahrenheit Argenius die Animali als nichts anderes sehen lies als eine unintelligente Gruppe von Monstern, die zwischen ihm und seinem Ruhm standen. Und alsbald er die Animali sah, gab er seinen Truppen das Signal zum Angriff. Infolge seiner Handlungen löste er den Beginn dessen aus, was wir heute als den <font color="green">[Animali-Kontaktkrieg](#AnimaliKontaktKrieg)</font> kennen. Obwohl die Animali zahlenmäßig unterlegen waren, hatten sie den Vorteil, auf eigenem Territorium zu kämpfen. Nicht lange nachdem die Kämpfe begonnen hatten, ordnete Argenius den Rückzug seiner Truppen an. Bei seiner Rückkehr ins Reich wurde Argenius - der seine Männer in den Tod geführt und seine Aufgabe, die Regionen von Eisland zu erforschen nicht erfüllt hatte  - degradiert und seiner militärischen Titel enthoben. 
 
@@ -62,8 +62,7 @@ Nach 3 zermürbenden Jahren und vielen Verlusten gelang es den Animali schließl
 
 Die Animali sind in mehrere Nomadenstämme aufgeteilt, die durch das eiskalte Ödland von Eisland streifen und sich jeweils nur für kurze Zeit an einem Ort aufhalten. Die Animali haben nur einen festen Ort, den sie besetzen. Die  Höhle von Khazak. 
 
-![Manche Animali sind perfekt ans Eisland angepasst](Pictures/Flavor/Animali/by_Emkun_Bear.png)
-[^EmnkunBearWarrior]
+![Manche Animali sind perfekt ans Eisland angepasst[^EmnkunBearWarrior](Pictures/Flavor/Animali/by_Emkun_Bear.png) 
 
 Die einzelnen Stämme werden von einem Schamanen geführt. Jedes Jahr halten die Animali ein Fest ab, bei dem sich alle Stämme versammeln, die Götter ehren und ihr Volk feiern. Außerdem findet ein Turnier statt, bei dem alle Schamanen gegeneinander antreten, mit dem Ziel, Hauptschamane der Animali zu werden und die Höhle für sich beanspruchen zu können, eine Ehre, die nur dem Sieger obliegt. Der ausgewählte Schamane und sein Stamm leben ein Jahr lang in der Höhle, wo der Schamane mit Hilfe alchemistischer Gebräue mit den Göttern kommuniziert. Dadurch erfährt der Schamane von den besten Jagdgründen und erlangt andere wertvolle Informationen, um den Stamm zu mehr Größe zu führen.
 
@@ -76,16 +75,16 @@ Das Jungtier bricht ohne Waffen und Ausrüstung auf und kehrt erst zum Stamm zur
 Nach der ersten Jagd nimmt der Schamane des Stammes, dem das Jungtier angehört, die Jagdtrophäe des Jungtiers an sich. Er braut daraus einen Trank - das sogenannte Mutagen - und gibt dieses dem Jungtier zu trinken. Das Jungtier übernimmt dann bestimmte Merkmale der erlegten Beute und wird damit umso mächtiger, desto mächtiger seine Beute war. Dies determiniert auch den sozialen Status des Animalus in seinem Stamm.
 Diesen Prozess kann ein Jungtier nur einmal durchlaufen.
 
-![Ein frisch mutierter Animalus, die Mutationen hängen von seiner Beute als Jungtier ab](Pictures/Flavor/Animali/Pixaby_Jungtier.png)
-[^Pixaby_Jungtier]
+![Ein frisch mutierter Animalus, die Mutationen hängen von seiner Beute als Jungtier ab[^Pixaby_Jungtier]](Pictures/Flavor/Animali/Pixaby_Jungtier.png)
+
 
 
 ### Die Völkerbeziehungen der Rasse
 
 Die Stämme der Animali konkurrieren aufgrund ihrer natürlichen Jagdgewohnheiten oft miteinander um die Oberhand, wenn es um Jagdgründe oder Ressourcen geht. Wenn sie jedoch auf ein höheres Problem stoßen oder wenn der Hauptschamane der Animali eine Vereinigung dieser fordert, wird ein gemeinsames Bündniss geschmiedet, um externe Bedrohungen aufzuhalten oder sehr große Beute zu jagen.
 
-![Während sich manche Animali eher auf ihren Körper verlassen greifen die meisten zu passender Ausrüstung](Pictures/Flavor/Animali/pngegg_AnimalusBogen.png)
-[^pngegg_AnimalusBogen]
+![Während sich manche Animali eher auf ihren Körper verlassen greifen die meisten zu passender Ausrüstung[^pngegg_AnimalusBogen]](Pictures/Flavor/Animali/pngegg_AnimalusBogen.png)
+
 
 
 ## Die Religion der Rasse

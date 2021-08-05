@@ -21,8 +21,8 @@ In dieser Zeit vereinte <font color="green">[Endeldra](#Endeldra)</font> die Dö
 
 Für die Halblinge schien sich alles optimal zu entwickeln, weshalb sich eine große Erleichterung innerhalb Yondallas ausbreitete. Aufgrund der neu gewonnenen wirtschaftlichen Stärke wurden manche Halblinge dazu motiviert ihr Dorf zu verlassen und ihre Fähigkeiten als Landwirt weiter im inneren des Herzlandes anzubieten. 
 
-![Ein Halbling macht sich auf die Reise ins Herzland](Pictures/Flavor/Halblinge/pngegg_Reisender.png)
-[^pngegg_Reisender]
+![Ein Halbling macht sich auf die Reise ins Herzland[^pngegg_Reisender]](Pictures/Flavor/Halblinge/pngegg_Reisender.png)
+
 
 Diese Idylle sollte den Halblingen jedoch nicht allzu lange vergönnt sein, da sich die Armeen Eldrias dazu entschlossen in Yondalla einzufallen. Ziel dieser Angriffe war es die Nahrungsmittelexporte an das Kaiserreich zu unterbinden. 
 Dieser Krieg, welcher zwischen dem Kaiserreich und Eldria ausgetragen wurde, hielt für lange Zeit an und sorgte dafür, dass der Ertrag Yondallas zunehmend vermindert wurde. 
@@ -82,8 +82,8 @@ Aufgrund der langen Lebensdauer und der geringen Anzahl von Kämpfen, an denen d
 
 Endeldra war der Gründer von Endeldor und derjenige, der die anfängliche freundschaftliche Kommunikation mit dem Kaiserreich übernahm. Außerdem war er derjenige, der die meisten Dörfer von Yondalla vereinte. In Endeldor benutzen die Leute das Wort Endel, um "text"
 
-![Endeldra bei seiner Lieblingsbeschäftigung](Pictures/Flavor/Halblinge/pngegg_Weiser.png)
-[^pngegg_Weiser]
+![Endeldra bei seiner Lieblingsbeschäftigung[^pngegg_Weiser]](Pictures/Flavor/Halblinge/pngegg_Weiser.png)
+
 
 ## Die Eigenbegriffe der Rasse
 

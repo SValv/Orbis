@@ -5,9 +5,9 @@ Das erste und bis heute bekannteste wie größte Zwergenreich. Manche Zwerge mö
 
 ## Die Geschichte der Faction
 
-![Ein Zwerg](Pictures/Flavor/Zwerge/dwarf_by_ncorva.jpg)
+![Ein Zwerg[^NcorvaDwarf]](Pictures/Flavor/Zwerge/dwarf_by_ncorva.jpg)
 
-[^NcorvaDwarf]
+
 
 
 

@@ -9,8 +9,8 @@
 Seit Anbeginn der Chroniken ist das Erwachen ein fester Teil von Aestea. Ein Gestorbener - wenn nicht ordentlich bestattet - steht binnen 2-6 Tagen wieder auf, die meisten jedoch im Rahmen von 3-4 Tagen. Die Erwachten - wie die lebenden Toten weithin genannt werden - sind feindlich gegenüber fast jeder intelligenten Lebensform, die nicht auch erwacht ist. Sie zu töten ist nicht immer einfach, da man große Teile ihres Körpers zerstören muss bis sie endlich wieder erschlaffen. Sie einzudämmen ist allerdings möglich, da sie kein taktisches oder logisches Verständnis zu besitzen scheinen. Am besten umgeht man sie großflächig und meldet jede Infestion umgehend der Armee oder der Ekklesia.
 Am besten ist es jedoch, sie gar nicht erst entstehen zu lassen. Religiöse Rituale verhindern die Erweckung. So hat jedes Volk seine eigene Methode gefunden mit der Gefahr umzugehen - manche davon besser, andere wiederum weniger geeignet.
 
-![Hüte dich vor den Erwachten](Pictures\\Flavor\\Erwachte\\by_jimmynijs_Erwachter1.jpg)
-[^JimmyNijsLich]
+![Hüte dich vor den Erwachten[^JimmyNijsLich]](Pictures\\Flavor\\Erwachte\\by_jimmynijs_Erwachter1.jpg)
+
 
 Die Art und Weise des Umgangs mit der Erweckung ist identitätsstiftend, da sie den Charakter und die Systeme aller Völker geprägt hat und die Zivilisation grundlegend beeinflusst.
 
