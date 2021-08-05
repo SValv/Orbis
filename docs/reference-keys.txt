@@ -821,6 +821,7 @@ SegelArtillerie
 rammen
 kaperequipment
 sonstige-waffen
+schiff-regeln
 für-dms-und-die-die-es-werden-wollen
 Abstufungen
 was-machen-kritische-würfe

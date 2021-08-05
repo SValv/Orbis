@@ -242,3 +242,16 @@ Saldisches Feuer ist in der Lage in kürzester Zeit enormen Schaden an der Crew 
 [^pngegg_Brigg]: Diese Abbildung wurde der Seite [pngegg.com](https://www.pngegg.com/en/png-bupfc) entnommen und steht zur nichtkommerziellen Nutzung zur Verfügung.
 [^Fregatte_Pixaby]: Diese Abbildung wurde der Seite [Pixaby](https://pixabay.com/es/illustrations/vela-barco-mar-1506158/) entnommen und steht zur kommerziellen Nutzung zur Verfügung.
 [^pngegg_Caravel]: Diese Abbildung wurde der Seite [pngegg.com](https://www.pngegg.com/en/png-zcatn) entnommen und steht zur nichtkommerziellen Nutzung zur Verfügung.
+
+
+### Schiff Regeln
+
+Waffen platzierung
+Anzahl der Leben abhängig von anzahl der geschütze im slot
+
+überlappendes Schussfeld
+vorne hinten luck check nicht beide gleichzeitig
+
+
+beschleuchnigung = gefechtsgeschwindigkeit, wird in kästchen gerechnet mit bonus kästchen wenn check erfolgt
+

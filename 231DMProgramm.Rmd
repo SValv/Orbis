@@ -151,28 +151,24 @@ Reittier eingeben <br>mod = modifikator + für buff, - für debuff <br>Dot = sol
 
 ```{r echo=T,eval=F,include=T}
 armed(att, defe, Abw="N", Dot=True, called="F", Watt=1, Wdefe=1, Limb="R",
-      AWaffe=False, VWaffe=False, 
       Advantage=False, N=3, AdvTarget="A",
       Amod=0, Vmod=0)
 ```
 
 ```{r echo=T,eval=F,include=T}
-ranged(att, defe, Abw, Dot=True, Muni="Norm", called="F", Watt=3, Deckung=0,
-       Limb="R", AWaffe=False, VWaffe=False,
+ranged(att, defe, Abw, Dot=True, Muni="Norm", called="F", Watt=3, Deckung=0, Limb="R",
        Advantage=False, N=3, AdvTarget="A",
        Amod=0, Vmod=0)
 ```
 
 ```{r echo=T,eval=F,include=T}
 unarmed(att, defe, Abw="N", Dot=True, called="F", Watt="F", Wdefe="F", Limb="R",
-        AWaffe=False, VWaffe=False,
         Advantage=False, N=3, AdvTarget="A",
         Amod=0, Vmod=0)
 ```
 
 ```{r echo=T,eval=F,include=T}
 mountattack(att, defe, Abw="N", Dot=True, called="F", Watt=1, Wdefe=1, Limb="R",
-            AWaffe=False, VWaffe=False,
             Reittier=False, Advantage=False, N=3, AdvTarget="A",
             Amod=0, Vmod=0)
 ```
@@ -185,9 +181,7 @@ att = das angreifende char-objekt<br>defe = das verteidigende
 char-objekt<br>Abw = die Abwehr, "N" für keine, "B" für Blocken, "P"
 für Parry<br>called = called Shot Ziel<br>Watt = angreifende Waffe<br>
 Wdefe = Waffe des Verteidigers<br>Limb = Angegriffenes Körperteil -
-links ("L") oder Rechts ("R")<br>AWaffe = Custom Waffenobjekt des
-Angreifers, die normale wenn None<br>VWaffe = Custom Waffenobjekt des
-Verteidigers, die normale wenn None<br>Reittier = Custom Reittierobjekt
+links ("L") oder Rechts ("R")<br>Reittier = Custom Reittierobjekt
 des Angreifers, das normale wenn None<br>Advantage = "Ad" für
 Advantage, "Dis" für Disadvantage<br>N = für den Grad des Advantage (ob
 2,3 oder 4)<br>AdvTarget = Target für Advantage:"A" für Angreifer, "V"
