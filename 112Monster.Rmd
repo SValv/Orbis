@@ -304,15 +304,13 @@ Eventuell zur Verteidigung herbeistürmende Kinder, also die Ghule, sind mit Sch
 
 Alchemistisch ist keine Verwendung über Brutmutter Ingridientien bekannt.
 
-![Illustration einer schlafenden Brutmutter[^TaonaviAbominationKnight]](Pictures/Flavor/Monster/by_taonavi_Brutmutter.jpg) 
+![Illustration einer schlafenden Brutmutter[^1]](Pictures/Flavor/Monster/by_taonavi_Brutmutter.jpg)
 
+[^1]: "Abomination Knight (2019) Concept" von [Taonavi](https://www.deviantart.com/taonavi/art/Abomination-Knight-2019-Concept-800502298).Diese Conceptart steht unter einer Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 License zur Verfügung.
 
+![Illustration eines Ghules[^2]](Pictures/Flavor/Erwachte/pngegg_Guhl_Erwachter.png)
 
-
-![Illustration eines Ghules[^pngegg_Guhl_Erwachter]](Pictures/Flavor/Erwachte/pngegg_Guhl_Erwachter.png) 
-
-
-
+[^2]: Dieses PNG wurde der Seite [pngegg.com](https://www.pngegg.com/en/png-nbtay) entnommen und steht zur nichtkommerziellen Nutzung zur Verfügung.
 
 ## Würmer
 
@@ -385,6 +383,19 @@ Glücklicherweise kommen sie so gut wie nie an die Oberfläche.
 
 ## Piscari
 
+### Nordmeerkrokodile
+
+Krokidile sind seit den Bücher von Azai dem Weisen aus Atumpet vielen Belesen bekannt zumal einige Exemplare im Nebelhain wie auch in manchen Sümpfen Eldrias leben.
+Eine lange mit dolchartigen Zähnen gespicktes Maul, Knochenplatten am Rücken, schltizförmige Augen als wäre es die Seele eines Dämons die im langezogenen Kopf lebt.
+Dazu vier Beine und ein langer kräftiger Schwanz.
+Die harte Haut mit den Knochenplatten macht es unbewaffneten schwer gegen eine derartige Bestie der Natur anzukämpfen.
+
+Nun werden Nordmeerkrokodile in dieser Beschreibung auch wunderbar wiedergegeben, jedoch lassen die fischreichen Gewässer und Riffe diese Exemplare unheimlich groß, und alt werden.
+So konnten mehrere Fischer über Generationen hinweg bestätigen, dass ein und das selbe Nordmeerkrokodil, erkennbar an der im Schädel steckenden Speerspitze, mindestens 170 Jahre alt ist.
+Da wie bei anderen Krokodilen, die Nordmeervarianten nie aufhören zu wachsen, wird dieses Individium auf mindestens 17 Meter geschätzt, weshalb um dessen Riff nur mehr große Fischerboote versuchen Fischfang zu betreiben.
+
+Obwohl die Meere im allgemeinen leer sind, sollte man doch davon absehen in dem kalten Wasser der Meere nördlich der Himmelsspitzengebirge, länger als nötig in kleinen Booten unterwegs zu sein, schließlich gibt es angenehmeres als von einem hungrigen hundertjährigen verschlungen zu werden.
+
 ### Dunkleosteus
 
 Ungeheuer der Meere sind weitaus weniger erforscht und so kann ein jeder davon ausgehen dass die Tiefen der Meere mehr Abscheulichkeiten bewohnen als Bürger Eldrias treu dem Kaiserreich sind.
@@ -403,6 +414,24 @@ Ihr Fleisch soll angeblich stark aphrodisierend wirken.
 ![Ein Dunkleosteus vor der Küste Sturmkapps - Illustration von Nixan Dunkleosteus](Pictures/Flavor/Platzhalter/Dunkleosteus.jpg)
 
 ## Abgrundbewohner
+
+### Bootfresser
+
+Der Bootfresser ist der Spitzname für ein Ungeheuer welches mehrmals bis zu 35 Meter Schiffe der Kaiserlichen Marine angegriffen und zerstört hat.
+Es handelt sich hierbei um eine Art Seeschlange welches im Gesicht mehrere knochengraue Schädelplatten besitzt aus welchen zahllose Tentakel entspringen.
+Auf der Unterseite des Kopfes befindet ein sich mit Knochenplatten versehenes Maul, welches Dinge zerquescht.
+Die Tentakel des Kopfes reißen Schiffe und andere Seeungeheuer in hinreichend kleine Happen, wo diese dann im Maul zermalmt werden.
+
+Die Größe des Bootfresser ist nur schwer abzuschätzen, da nie der gesamte Körper aus dem Wasser ragt.
+
+Seine rot glühende Haut auf den Tentakeln zeigt an, ob der Bootsfresser hungrig ist, oder einen schlechten Tag zu haben scheint.
+Der restliche Körper dieses Scheusals ist von einer silbrig, glatten Haut umgeben und weißt eine gleichmäßig runde Form auf, wodurch es sich wie eine Schlange durch das Meer bewegt.
+Wie es bei Seefahren ist, ranken sich auch diverse Mythen um dieses Getier.
+So soll es wahlweise nur zu Vollmond in der Nacht oder zu Vollmond unter der Mittagssonne angreifen.
+
+Andere Seefahrer schwören, dass das einreiben der Segel und des Rumpfes mit einer speziellen Alge hilft, dass diese Kreatur nicht die tausenden mühseligen Stunden Holzwerk welche in Schiffen stecken nicht innert weniger Minuten zerstört werden.
+
+Obwohl es mittlerweile dutzende Berichte dieser Kreatur gibt, können aufgrund der geringen Anzahl überlebender wenige Rah-Kari und kaiserliche Quellen vernünftige Angaben machen, wodurch sich nur der Name "Bootsfresser" in allen Fällen bewahrheitet.
 
 ## Echsenartige
 
@@ -703,8 +732,10 @@ Das Wesen dieser Kreaturen ist schlicht.
 Sie fressen was sich im Schlamm oder am Land verbirgt und nicht mehr wegläuft, oder dumm genug ist, diese Tiere zu konfrontieren.
 Die Abscheulichkeiten des Nebelhains und von Silva Nacia scheinen allerdings hier ausreichend Nahrungs zur Verfügung zu stellen.
 
-![Schlammtrommler mit dem Größenvergleich zu einem Menschen[^000Fesbra000Krebs]](Pictures/Flavor/Monster/000Fesbra000_Krebs.jpg)
+![Schlammtrommler mit dem Größenvergleich zu einem Menschen[^3]](Pictures/Flavor/Monster/000Fesbra000_Krebs.jpg)
 
+[^3]: "Krebs" von [000Fesbra000](https://www.deviantart.com/000fesbra000/art/Krebs-375853600).
+    Dieses Artwork steht unter einer Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 License zur Verfügung.
 
 > "Also standen wir, wissen sie, mit 10 Legionären, schwer bewaffnet an der Grenze zu diesem "Nebelhain". Jedenfalls sahen wir die Karawane kommen, und dachten, ja gut, die Vorhut, 2 Pferde und die Reiter drauf. Doch dann merkten wir, dass die Kutschen nicht dabei waren, und dass ein paar arme Socken hinter den 2 Pferden nachliefen. Naja ich orderte halt meine Männer denen entgegen zu laufen. Die Sicht war an dem Tag Verhältnismäßig gut für diese erbärmlichen Sümpfe vor Rintom. Vielleicht 400 Meter. Also liefen wir denen entgegen. Naja die schwere Rüstung, und der Regen der letzten Tage, Sie glauben nicht wie Weiberarsch dick es da unten regnen kann, machten das laufen nicht gerade leichter. Als die Reiter uns in gebrochenen Kaiserlich erklären wollten dass wir umkehren sollten. Ja, wissen sie, dass haben wir nich so ganz Verstanden. Was sollte 10 Legionären schon was anhaben? Naja wir liefen weiter den Händlern entgegen und im Nebel sahen wir dann dieses riesige Vieh. Hoch wie ein Turm. Man, das ding war breit wie die Villa vom alten Stadthalter von Wagenfurt. Wir sahen wie das Maul von dem Ding blutrot war und Rüstungsfetzen raushingen. Man wir nahmen die Beine in die Hand, ich kämpfte schon gegen eldrische Hhnterhältige Schweine. Aber da fiel mir echt das Herz in meinen Hintern. Scheiße, wir liefen und liefen und dieser Nebelhain nahm kein Ende. Da war ich echt froh meine Männer ständig in schwerer Rüstung laufen zu lassen. Flavius hats leider nicht geschafft wir hörten das quietschen von Rüstung wie wenn es dünnes Blech wär. Ein Schrei und es war still. Man wir liefen und liefen und dieses Ding wurde kleiner und kleiner. Ich sag euch. Selbst wenn der Kaiser persönlich hier aufkreuzt ich steck keinen Zeh mehr in den Nebelhain. Schlammtrommler hießen diese Dinger habe ich mir sagen lassen. Nein, nie wieder geh ich dort rein, wir wurden dann versetzt und da muss ich ihnen die Geschichte von meinem Neffen Maxian erzählen...."
 >
@@ -1028,7 +1059,3 @@ They will aggressively run to any creature that enters their territory.
 They are mostly found around rivers in Grenzland and the southern parts of the Herzland, where they will bath in the water to keep a neutral pH level.
 
 ## Legenden
-
-[^TaonaviAbominationKnight]: "Abomination Knight (2019) Concept" von [Taonavi](https://www.deviantart.com/taonavi/art/Abomination-Knight-2019-Concept-800502298).Diese Conceptart steht unter einer Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 License zur Verfügung.
-[^pngegg_Guhl_Erwachter]: Dieses PNG wurde der Seite [pngegg.com](https://www.pngegg.com/en/png-nbtay) entnommen und steht zur nichtkommerziellen Nutzung zur Verfügung.
-[^000Fesbra000Krebs]: "Krebs" von [000Fesbra000](https://www.deviantart.com/000fesbra000/art/Krebs-375853600). Dieses Artwork steht unter einer Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 License zur Verfügung.
