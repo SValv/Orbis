@@ -244,14 +244,14 @@ Saldisches Feuer ist in der Lage in kürzester Zeit enormen Schaden an der Crew 
 [^pngegg_Caravel]: Diese Abbildung wurde der Seite [pngegg.com](https://www.pngegg.com/en/png-zcatn) entnommen und steht zur nichtkommerziellen Nutzung zur Verfügung.
 
 
-### Schiff Regeln
+## Schiffe im Gefecht
 
-Waffen platzierung
-Anzahl der Leben abhängig von anzahl der geschütze im slot
+Während Gefechten bewegen sich Schiffe auf einem Karo Muster voran, wie viele Kästchen pro Runde zurückgelegt werden können bestimmt die Beschleunigung.
 
-überlappendes Schussfeld
-vorne hinten luck check nicht beide gleichzeitig
+Geschütze in den jeweiligen den Schiffsprofilen entsprechenden Slots können einer von vier Stellungen auf dem Schiff zugewiesen werden. Diese Stellungen sind Backbord vorne hinten und Steuerbord vorne hinten.
+Diese vier Stellungen können mit einem Called Shot anvisiert werden und besitzen Leben entsprechend der Anzahl der in der Stellung plazierten Geschütze, somit haben viel besetzte Stellungen mehr Leben als solche mit wenig bis keinem Geschütz.
+Desweiteren besitzen diese vier Stellungen Schussfelder die in etwa 180° groß sind, dies führt an den Seiten zu überlappenden Schussfeldern. Für die forder und Rückseite gilt, nur jeweilse eine Seite kann gerade nach vorne oder hinten schießen, diese wird durch einen Luck Throw des Ziels bestimmt.
 
+Das Wenden eines Schiffs kann nicht in einem Kästchen erfolgen sondern benötigt mindestens 3 Kästchen wende Zeit.
 
-beschleuchnigung = gefechtsgeschwindigkeit, wird in kästchen gerechnet mit bonus kästchen wenn check erfolgt
 

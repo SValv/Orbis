@@ -1059,3 +1059,79 @@ They will aggressively run to any creature that enters their territory.
 They are mostly found around rivers in Grenzland and the southern parts of the Herzland, where they will bath in the water to keep a neutral pH level.
 
 ## Legenden
+
+
+
+
+## Erwachte
+
+Wie das ein mal eins weis jedes Kind auf Orbis das ein Toter nicht lange friedlich bleibt, in aller Regel hält dieser Frieden eines Toten 3 bis 4 Tage bis er erneut von unerklärlichem Tatendrang sich auf alles Humanoide stürzt und das ohne jedwege sorge für den Alten Leib und das neugewonnene Leben, was wenig wundert da diese in aller Regel über keinerlei Persönlichkeit oder Verstand verfügen sondern rein Instinktiv handeln. Auch verlieren sie dadurch einiges der Stärke die ihnen im Leben zu eigen war.
+
+Dies kann wie bekannt durch diverse Volkseigene Bestattungsriten verzögert oder gänzlich verhindert werden. So bleibt den Toten ihr Frieden erhalten.
+
+Erwachte sind oft in kleinen bis größeren Gruppen anzutreffen, auch wenn so manch ein untoter alleine durch die Welt strolcht so sollte man immer davon ausgehen, wenn man einen Untoten sieht, könnnen andere nicht weit entfernt sein.
+
+Ausgelöst wird diese Reanimation durch einen Virus den jeder Bewohner bereits seit seiner Geburt in sich trägt jedoch erst mit dem Ableben des Wirtes in Aktion tritt.
+Der Konzentrationspunkt des Virus sitzt im Kopf, von dort aus steuert dieser auch den Wirtskörper. Dies ermöglicht das leichte ausschalten von Erwachten durch Zerstörung des Kopfes.
+sollte der Kopf vor dem erwachen zu schwer beschädigt worden sein so ist der Virus zu alternativen gezwungen und Mutiert den Wirtskörper. Diese Mutationen machen erwachte deutlich Gefährlicher, da sie die Stärke des Erwachten erhöhen während seine einzige Schwachstelle der Kopf verschwindet.
+
+### Kampfverhalten
+
+
+Welches Ziel von den Logischen angegriffen wird kann einfach ausgewürfelt werden.
+
+Kampf: Grappe, Biss, Waffe
+
+Scwache Gließmaßen / Kopf, Massiver Körper
+
+Kein Blocken
+
+Schwächen: Feuer (können sich nicht löschen), Weihwasser, Licht des Allgotts
+
+
+
+
+### Subklassen der Erwachten
+
+Neben diesen Normalen und Mutierten Erwachten existieren auch einige Unterklassen vor denen man sich Hüten sollte.
+
+Diese Unterklassen folgen einer Hierachie die sich unteranderem darin abzeichnet wie viele normale Erwachte in der Regel in ihrem Gefolge sind.
+Zu beachten ist dabei das keine Mutierten Erwachten in diesen Gefolgen anzutreffen sind.
+
+Die erste Gruppe der Sonderklassen zeichnet sich durch schon durch einen Fakt von den übrigen Erwachten ab. Denn selbst nach dem Abbleben haben diese einige beschränkte Kongnitive Fähigkeiten behalten. Obwohl was übriggeblieben ist sich von Person zu Person zu unterscheiden scheint.
+
+#### Kopflose / Mutierte Erwachte
+
+Die Kreation dieser Erwachter gilt aufgrund der schwierigkeit ihrer Beseitung als Kapital verbrechen. Durch die Mutation verhärtet sich die Haut der betroffenen und wird zu einem Natürlichen Panzer, die Arme werden zu gefährlichen Waffen und der Kopf ersetzt sich durch einen langen Wurm mit klingenähnlichen Spitzen über seine Länge verteilt. Die Schwachstelle des Erwachten bleibt nach wie vor der Kopf nur ist dieser nun deutlich Stabiler und kann sich zusätzlich in den Torso zurück ziehen. Der kopf kann jetzt nur noch anvisiert werden wenn vorher entweder die Schützende Brustplatte zerstört wird oder der Kopf durch eine Person geködert wird diesen zu Umschlingen und eine weitere Person den entblößten Kopf attackiert.
+
+#### Erwachter Ritter: 
+Kalkühl mag nicht sei die Stärke dieses Gegners sein doch ist er kein Gegner dem man im Kampf begegen möchte, so hat er sich noch einige Kämpferischen Fähigkeiten seines früheren Lebens erhalten. So ist es dieser schwer gerüsteten Kreatur möglich zu Blocken. Es scheint als hätte sich diese Reaktion tief eingebrannt. In der Regel werden Erwachte Ritter von 3-8 normalen Erwachten begleitet. In seltenen Fällen werden sie sogar von ihrem Treuen Untoten Ross begleitet. Ein Reittier zu animieren scheint eine besondere Fähigkeit der Erwachten Ritter zu sein die bei keiner anderen Sub-Klasse zu finden ist.
+
+#### Erwachter Alamierer:
+Diese nervigen Zeitgenossen, sind in der Lage bei Feindkontakt normale erwachte zu Hilfe zu rufen. Die Anzahl der erscheinenden Untoten ist stark unterschiedlich und kann auch in Wellen erfolgen, dies legt nahe dem Schreihals so schnell wie möglich das Maul zu stopfen, ihn bevor er Hilfe holen kann heimlich zu ermorden oder ihn gänzlich zu umgehen.
+
+#### Erwachter Köder:
+Die Kognitiven Fähigkeiten dieses verschlagenen meist weiblichen Exemplars erlauben es ihm als Köder zu fungieren, in dem es laut und kläglich um Hilferuft. In der Regel halten sich um den Köderverteilt im Hinterhalt eine Handvoll Erwachter. So sehr es auf den ersten Blick wirken mag das man einem intelligenten Erwachten gegenübersteht so schnell verflüchtigt sich dieser Eindruck beim zweiten Blick. Denn die Kognitiven Fähigkeiten erstrecken sich in aller Regel nur auf genau den Satz des Hilferufens.
+
+
+### Auserwählte Erwachte:
+Diese Mächtigen wie seltenen Erwachten sind in der Lage große Mengen
+
+#### Täuscher:
+Diese durchtriebene Kreatur spezialisiert sich auf Täuschung, Verdeckte Bewegungen und führt in der Regel eine große Gruppe Erwachter an. Durch ihre Hohen Kongnitivenfähigkeiten verhalten sie sich Strategisch und können auch Problemlos normale Gespräche führen. Oft sind sie Teil der Gruppe oder Armee die gegen die Untoten kämpfen und diese sind völlig nichtsahnend über den Feind in ihrer Mitte.
+
+
+#### Hühne:
+Im gegensatz zum Täuscher zieht dieser Koloss es vor sein Heer von der Front aus zu Kommandieren. Schwergepanzert und mit der Kraft die über jeden Menschen hinausgeht ausgestattet, ist dies kein Gegner vor dem man sich im Getümmel wiederfinden möchte. So schwer es sein mag ihn zu töten, so wichtig ist es, denn mit seinem Tod endet das Strategische vorgehen seines Heeres.
+
+
+### Erwachter Champion:
+Einer Apocalyse gleich zieht diese Naturgewalt durch das Land mit hunderten bis tausenden von Erwachten.  Mit einer Armee die schnell aufgebaut und genauso leicht zu erneuern ist ziehen diese vom ihrem Blutgott auserwählten durch die Welt um den Tod zu verbreiten.
+Der Tod ist ihr Freund so viel sie ihn jedem anderen bringen so wenig möchte dieser die Champions in seinen Armen willkommen heißen. Diese Wesen sind Unsterblich und können nur besiegt werden in dem man ihre Körper zerstückelt und diese Teile in allen Himmelsrichtungen mit dem Riten des Allgotts versiegelt. Der Allgott Religion tut sich hierbei besonders hervor da in dieser die Toten stets nur versiegelt werden und keine Endgültige Lösung gefunden wird. Sollten die einzelnen Teile wieder zusammengebracht werden wieder aufersteht der Champion.
+
+
+Es kursieren Gerüchte das Kontrolle über einige erwachte durch nutzung von gliedmaßen eines champion (finger usw) möglich ist.
+Jede anwendung kostet sanity konkret jede rekutierung - 5, dabei können zwischen 3 und 5 Erwachte gleichzeitig einer Person folgen.
+
+Die Blutgötting erlaubt diese Fähigkeit, da jede Anwendung ihren Einfluss verstärkt und ihr so ermöglicht die Teile ihres Champions für seine Auferstehung von ihren Wahnsinningen Gefolgsleuten sammeln zu lassen.
+

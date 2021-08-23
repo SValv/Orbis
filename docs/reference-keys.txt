@@ -335,6 +335,17 @@ blood-spider
 land-bat
 acid-raptors
 legenden
+erwachte
+kampfverhalten
+subklassen-der-erwachten
+kopflose-mutierte-erwachte
+erwachter-ritter
+erwachter-alamierer
+erwachter-köder
+auserwählte-erwachte
+täuscher
+hühne
+erwachter-champion
 DrogenPflanzen
 wirkung-verschiedener-drogen
 Euphorika
@@ -823,7 +834,7 @@ SegelArtillerie
 rammen
 kaperequipment
 sonstige-waffen
-schiff-regeln
+schiffe-im-gefecht
 für-dms-und-die-die-es-werden-wollen
 Abstufungen
 was-machen-kritische-würfe

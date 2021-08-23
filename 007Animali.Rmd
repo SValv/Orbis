@@ -62,7 +62,7 @@ Nach 3 zermürbenden Jahren und vielen Verlusten gelang es den Animali schließl
 
 Die Animali sind in mehrere Nomadenstämme aufgeteilt, die durch das eiskalte Ödland von Eisland streifen und sich jeweils nur für kurze Zeit an einem Ort aufhalten. Die Animali haben nur einen festen Ort, den sie besetzen. Die  Höhle von Khazak. 
 
-![Manche Animali sind perfekt ans Eisland angepasst[^EmnkunBearWarrior](Pictures/Flavor/Animali/by_Emkun_Bear.png) 
+![Manche Animali sind perfekt ans Eisland angepasst[^EmnkunBearWarrior]](Pictures/Flavor/Animali/by_Emkun_Bear.png) 
 
 Die einzelnen Stämme werden von einem Schamanen geführt. Jedes Jahr halten die Animali ein Fest ab, bei dem sich alle Stämme versammeln, die Götter ehren und ihr Volk feiern. Außerdem findet ein Turnier statt, bei dem alle Schamanen gegeneinander antreten, mit dem Ziel, Hauptschamane der Animali zu werden und die Höhle für sich beanspruchen zu können, eine Ehre, die nur dem Sieger obliegt. Der ausgewählte Schamane und sein Stamm leben ein Jahr lang in der Höhle, wo der Schamane mit Hilfe alchemistischer Gebräue mit den Göttern kommuniziert. Dadurch erfährt der Schamane von den besten Jagdgründen und erlangt andere wertvolle Informationen, um den Stamm zu mehr Größe zu führen.
 
