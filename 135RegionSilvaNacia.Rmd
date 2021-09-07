@@ -35,9 +35,9 @@ Darüber hinaus gibt es, neben den vielen verschiedenen Baum- und Pilzarten auch
 
 Demgegenüber stehen die großen Pflanzen, die in ihrer Lokation auch gezielt auf den Pfaden für Menschen, die den Wald betreten, eingeplant werden.
 
-![Eine Waldelfin auf der Jagd](Pictures\\Flavor\\Elfen\\by_taonavi_WoodElfCecil.jpg) 
+![Eine Waldelfin auf der Jagd[^TaonaviWoodElfCecil]](Pictures\\Flavor\\Elfen\\by_taonavi_WoodElfCecil.jpg) 
 
-[^TaonaviWoodElfCecil]
+
 
 
 Zudem gibt es riesige Pusteblumen und Sporenbäusche, die es zulassen, dass man die Sicht des Gegners einschränkt und so einen gezielten Kampfvorteil hat. 
