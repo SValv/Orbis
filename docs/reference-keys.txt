@@ -839,8 +839,9 @@ für-dms-und-die-die-es-werden-wollen
 Abstufungen
 was-machen-kritische-würfe
 queststufen
-nutzung-des-programmes
-benutzung-von-jupyter
+installation-und-nutzung-des-programmes
+installation
+benutzung-von-jupyter-outdated-mit-3.0
 klassen-und-npcs-erstellen
 initialisierte-einen-npc-mit-gleichen-methoden-wie-char-oder-monster---klassen
 methoden

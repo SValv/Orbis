@@ -1,7 +1,21 @@
 
-# Nutzung des Programmes
+# Installation und Nutzung des Programmes
 
-## Benutzung von Jupyter
+## Installation
+
+Die installation von Orbis ist an sich eine leichte Sache. Ladet einfach die "DM-App" und den "Game-Folder" oben links über den Download-Button herunter.
+
+Danach sollte folgendermaßen vorgegangen werden:
+
+1. Download des Game-Folders - eine ZIP-Datei namens OrbisGame sollte sich bei euch herunterladen. Diese müsst ihr entpacken.
+**Tipp: **es lohnt sich den Ordner "ZZZ Character Sheets" innerhalb des entpackten Ordners per Cloud an die anderen Spieler freizugeben, da diese dann automatisch ihre Char-sheets dort hinein synchronisieren können und Neuerungen damit immer schön aktuell zu finden sind
+
+2. Download der DM-App. Hier sollte die exe-Datei "OrbisDMApp" auftauchen. Diese einfach per Doppelklick öffnen (braucht ein wenig)
+
+3. Im offenen Dialog den entpackten "OrbisGame" Ordner auswählen. Die App sollte danach starten und ihr könnt loslegen.
+
+
+## Benutzung von Jupyter (outdated mit 3.0)
 
 Ausführen einer Zelle: Strg+Enter
 
