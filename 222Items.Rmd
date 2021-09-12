@@ -57,9 +57,9 @@ Dies sind die Fernkampfwaffen, die einem als Abenteurer zur Auswahl stehen:
 +:=========:+:===================:+:===================:+:=======:+:=================:+:===============================================================:+
 | Bogen     | Fernkampfwert       | Standartpreis       | 1 kg    | nein              | nein                                                            |
 +-----------+---------------------+---------------------+---------+-------------------+-----------------------------------------------------------------+
-| Armbrust  | Fernkampfwert x 1.3 | Standartpreis       | 1.5 kg  | nein              | Sneak Advantage 4, Nachladen mit 50% wsl Single action          |
+| Armbrust  | Fernkampfwert x 1.3 | Standartpreis       | 2 kg    | nein              | Sneak Advantage 4, Nachladen mit 50% wsl Single action          |
 +-----------+---------------------+---------------------+---------+-------------------+-----------------------------------------------------------------+
-| Muskete   | Fernkampfwert x 3   | Standartpreis x 2.5 | 3 kg    | 90%               | Sneak Advantage 4, 1 Runde nachladen <br> negiert Deckung Tier1 |
+| Muskete   | Fernkampfwert x 3   | Standartpreis x 2.5 | 5 kg    | 90%               | Sneak Advantage 4, 1 Runde nachladen <br> negiert Deckung Tier1 |
 +-----------+---------------------+---------------------+---------+-------------------+-----------------------------------------------------------------+
 | Schleuder | Fernkampfwert x 0.8 | Standartpreis x 0.7 | 0.5 kg  | nein              | Braucht single Action zum wirbeln<br>40% Betäubungschance       |
 +-----------+---------------------+---------------------+---------+-------------------+-----------------------------------------------------------------+
@@ -72,16 +72,26 @@ Spezialmunition kann man Kaufen ebenso wie Herstellen. Die untere Tabelle zeigt 
 
 <small>
 
-|       Name       |   Kosten<br>bei Kauf   | Value für <br> Herstellung |            Materialien           | Anzahl Pfeile<br>bei Herstellung |                           Wirkung                          |
-|:----------------:|:----------------------:|:--------------------------:|:--------------------------------:|:--------------------------------:|:----------------------------------------------------------:|
-|    Botkinpfeil   | 225 Reiks<br>pro Pfeil |        2,3 Handwerk        |        Material<br>Tier 1        |             10 Pfeile            |                 40% Armor <br> Penetration                 |
-|  Stumpfer Pfeil  | 100 Reiks<br>pro Pfeil |        1,5 Handwerk        |        Material<br>Tier 1        |             22 Pfeile            |        80% Betäubungschance <br> Verringert Schaden        |
-|  Scharfer Pfeil  | 150 Reiks<br>pro Pfeil |         2 Handwerk         |        Material<br>Tier 1        |             15 Pfeile            |                 50% Chance <br> auf Bluten                 |
-| Brandkapselpfeil |  40 Reiks<br>pro Pfeil |         1 Alchemie         | Pflanze mit<br>Molotovikawirkung |             13 Pfeile            |                 30% Chance <br> auf Brennen                |
-| Giftpfeil Tier 1 |  30 Reiks<br>pro Pfeil |         1 Alchemie         |          Gift <br>Tier 1         |             9 Pfeile             | 50% Chance auf<br>Gifteffekt Tier 1<br>höchste Ladungszahl |
-| Giftpfeil Tier 2 |  70 Reiks<br>pro Pfeil |        1,5 Alchemie        |          Gift <br>Tier 2         |             9 Pfeile             | 50% Chance auf<br>Gifteffekt Tier 2<br>höchste Ladungszahl |
-| Giftpfeil Tier 3 | 150 Reiks<br>pro Pfeil |         2 Alchemie         |          Gift <br>Tier 3         |             9 Pfeile             | 50% Chance auf<br>Gifteffekt Tier 3<br>höchste Ladungszahl |
-| Giftpfeil Tier 4 | 220 Reiks<br>pro Pfeil |        2,3 Alchemie        |          Gift <br>Tier 4         |             9 Pfeile             | 50% Chance auf<br>Gifteffekt Tier 4<br>höchste Ladungszahl |
++------------------+------------------------+----------------------------+----------------------------------+----------------------------------+------------------------------------------------------------+
+| Name             | Kosten<br>bei Kauf     | Value für <br> Herstellung | Materialien                      | Anzahl Pfeile<br>bei Herstellung | Wirkung                                                    |
++:================:+:======================:+:==========================:+:================================:+:================================:+:==========================================================:+
+| Botkinpfeil      | 225 Reiks<br>pro Pfeil | 2,3 Handwerk               | Material<br>Tier 1               | 10 Pfeile                        | 40% Armor <br> Penetration                                 |
++------------------+------------------------+----------------------------+----------------------------------+----------------------------------+------------------------------------------------------------+
+| Stumpfer Pfeil   | 100 Reiks<br>pro Pfeil | 1,5 Handwerk               | Material<br>Tier 1               | 22 Pfeile                        | 80% Betäubungschance <br> Verringert Schaden               |
++------------------+------------------------+----------------------------+----------------------------------+----------------------------------+------------------------------------------------------------+
+| Scharfer Pfeil   | 150 Reiks<br>pro Pfeil | 2 Handwerk                 | Material<br>Tier 1               | 15 Pfeile                        | 50% Chance <br> auf Bluten                                 |
++------------------+------------------------+----------------------------+----------------------------------+----------------------------------+------------------------------------------------------------+
+| Brandkapselpfeil | 40 Reiks<br>pro Pfeil  | 1 Alchemie                 | Pflanze mit<br>Molotovikawirkung | 13 Pfeile                        | 30% Chance <br> auf Brennen                                |
++------------------+------------------------+----------------------------+----------------------------------+----------------------------------+------------------------------------------------------------+
+| Giftpfeil Tier 1 | 30 Reiks<br>pro Pfeil  | 1 Alchemie                 | Gift <br>Tier 1                  | 9 Pfeile                         | 50% Chance auf<br>Gifteffekt Tier 1<br>höchste Ladungszahl |
++------------------+------------------------+----------------------------+----------------------------------+----------------------------------+------------------------------------------------------------+
+| Giftpfeil Tier 2 | 70 Reiks<br>pro Pfeil  | 1,5 Alchemie               | Gift <br>Tier 2                  | 9 Pfeile                         | 50% Chance auf<br>Gifteffekt Tier 2<br>höchste Ladungszahl |
++------------------+------------------------+----------------------------+----------------------------------+----------------------------------+------------------------------------------------------------+
+| Giftpfeil Tier 3 | 150 Reiks<br>pro Pfeil | 2 Alchemie                 | Gift <br>Tier 3                  | 9 Pfeile                         | 50% Chance auf<br>Gifteffekt Tier 3<br>höchste Ladungszahl |
++------------------+------------------------+----------------------------+----------------------------------+----------------------------------+------------------------------------------------------------+
+| Giftpfeil Tier 4 | 220 Reiks<br>pro Pfeil | 2,3 Alchemie               | Gift <br>Tier 4                  | 9 Pfeile                         | 50% Chance auf<br>Gifteffekt Tier 4<br>höchste Ladungszahl |
++------------------+------------------------+----------------------------+----------------------------------+----------------------------------+------------------------------------------------------------+
+
 </small>
 
 ### Kurzwaffen
@@ -97,9 +107,9 @@ Folgende Kurzwaffen gibt es zur Auswahl:
 +:============:+:==================:+:====================:+:=======:+:=================:+:============:+:==============================:+
 | Schwert      | Standartwert       | Standartpreis        | 1 kg    | nein              | 0.4          | nein                           |
 +--------------+--------------------+----------------------+---------+-------------------+--------------+--------------------------------+
-| Axt          | Standartwert x 0.8 | Standartpreis        | 1.5 kg  | 20%               | 0.3          | nein                           |
+| Axt          | Standartwert x 0.8 | Standartpreis        | 2 kg    | 20%               | 0.3          | nein                           |
 +--------------+--------------------+----------------------+---------+-------------------+--------------+--------------------------------+
-| Streitkolben | Standartwert x 0.7 | Standartpreis        | 2 kg    | 60%               | 0.15         | 30% Betäubungschance           |
+| Streitkolben | Standartwert x 0.7 | Standartpreis        | 3 kg    | 60%               | 0.15         | 30% Betäubungschance           |
 +--------------+--------------------+----------------------+---------+-------------------+--------------+--------------------------------+
 | Dolch        | Standartwert x 0.4 | Standartpreis x 0.45 | 0.5 kg  | 100%              | 0.2          | AP nur wenn Ziel Immobilisiert |
 +--------------+--------------------+----------------------+---------+-------------------+--------------+--------------------------------+
@@ -123,11 +133,11 @@ Diese Großwaffen sind in Orbis Aestea gebräuchlich:
 +--------------+----------------------+---------------------+---------+-------------------+--------------+----------------------+
 | Waffe        | Schaden              | Preis               | Gewicht | Armor Penetration | Parierfaktor | Zusatz               |
 +:============:+:====================:+:===================:+:=======:+:=================:+:============:+:====================:+
-| Großschwert  | Großwaffenwert       | Standartpreis x 1.3 | 2 kg    | nein              | 0.4          | nein                 |
+| Großschwert  | Großwaffenwert       | Standartpreis x 1.3 | 3 kg    | nein              | 0.4          | nein                 |
 +--------------+----------------------+---------------------+---------+-------------------+--------------+----------------------+
-| Großaxt      | Großwaffenwert x 0.8 | Standartpreis x 1.3 | 3 kg    | 30%               | 0.3          | nein                 |
+| Großaxt      | Großwaffenwert x 0.8 | Standartpreis x 1.3 | 5 kg    | 30%               | 0.3          | nein                 |
 +--------------+----------------------+---------------------+---------+-------------------+--------------+----------------------+
-| Kriegshammer | Großwaffenwert x 0.7 | Standartpreis x 1.3 | 5 kg    | 60%               | 0.1          | 60% Betäubungschance |
+| Kriegshammer | Großwaffenwert x 0.7 | Standartpreis x 1.3 | 8 kg    | 60%               | 0.1          | 60% Betäubungschance |
 +--------------+----------------------+---------------------+---------+-------------------+--------------+----------------------+
 
 </small>
@@ -140,8 +150,8 @@ Folgende Stangenwaffen sind verfügbar:
 
 |   Waffe    |      Schaden       |        Preis        | Gewicht | Armor Penetration | Parierfaktor |
 |:----------:|:------------------:|:-------------------:|:-------:|:-----------------:|:------------:|
-|   Speer    | Standartwert x 0.8 | Standartpreis x 0.8 |  2 kg   |       nein        |     0.1      |
-| Hellebarde |    Standartwert    | Standartpreis x 1.4 | 4.5 kg  |       nein        |     0.1      |
+|   Speer    | Standartwert x 0.8 | Standartpreis x 0.8 |  5 kg   |       nein        |     0.1      |
+| Hellebarde |    Standartwert    | Standartpreis x 1.4 |  7 kg   |       nein        |     0.1      |
 
 ### Wurfwaffen {#WurfWaffen}
 
@@ -170,7 +180,7 @@ Hier seht man eine Übersicht über die Faustwaffen:
 
 +---------------+--------------------+---------------------+---------+-------------------------------------------+
 | Waffe         | Schaden            | Preis               | Gewicht | Zusatz                                    |
-+===============+====================+=====================+=========+===========================================+
++:=============:+:==================:+:===================:+:=======:+:=========================================:+
 | Faust         | 5                  |                     |         | 50% Betäubungschance                      |
 +---------------+--------------------+---------------------+---------+-------------------------------------------+
 | Schlagring    | Standartwert x 0.3 | Standartpreis x 0.4 | 0.2 kg  | 90% versteckbar <br> 75% Betäubungschance |
@@ -212,9 +222,9 @@ Hier sieht man die verfügbaren Schildtypen:
 
 |     Schild     | Entwaffnungschance |     Schildwert      | Gewicht |       Kosten        |
 |:--------------:|:------------------:|:-------------------:|:-------:|:-------------------:|
-| Kleines Schild |         8          | Standartwert x 0.35 |  1 kg   | 0.4 x Standartpreis |
-|     Schild     |         5          | Standartwert x 0.55 |  2 kg   | 0.6 x Standartpreis |
-|   Turmschild   |         1          | Standartwert x 0.75 |  4 kg   | 0.8 x Standartpreis |
+| Kleines Schild |         15         | Standartwert x 0.35 |  1 kg   | 0.4 x Standartpreis |
+|     Schild     |         8          | Standartwert x 0.55 |  3 kg   | 0.6 x Standartpreis |
+|   Turmschild   |         1          | Standartwert x 0.75 |  8 kg   | 0.8 x Standartpreis |
 
 ## Tranktaschen {#TranktascheItems}
 
