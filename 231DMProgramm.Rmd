@@ -8,7 +8,7 @@ Die installation von Orbis ist an sich eine leichte Sache. Ladet einfach die "DM
 Danach sollte folgendermaßen vorgegangen werden:
 
 1. Download des Game-Folders - eine ZIP-Datei namens OrbisGame sollte sich bei euch herunterladen. Diese müsst ihr entpacken.
-**Tipp: **es lohnt sich den Ordner "ZZZ Character Sheets" innerhalb des entpackten Ordners per Cloud an die anderen Spieler freizugeben, da diese dann automatisch ihre Char-sheets dort hinein synchronisieren können und Neuerungen damit immer schön aktuell zu finden sind
+**Tipp: **es lohnt sich den Ordner "ZZZ Character Sheets" innerhalb des entpackten Ordners per Cloud an die anderen Spieler freizugeben, da diese dann automatisch ihre Char-sheets dort hinein synchronisieren können und Neuerungen damit immer aktuell sind.
 
 2. Download der DM-App. Hier sollte die exe-Datei "OrbisDMApp" auftauchen. Diese einfach per Doppelklick öffnen (braucht ein wenig)
 
