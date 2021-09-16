@@ -451,6 +451,26 @@ Die Wirkungen im Kampf sind in der unten stehenden Tabelle ersichtlich.
 
 ## Andere Gegenstände {#AndereGegenstände}
 
+### Kleinode
+
+Kleinode sind religiöse Gegenstände, die zumeist von Kirchen verkauft werden oder durch Rituale hergestellt werden können. Diese Kleinode können konsumiert werden, was einem für eine Session +1 Glaube zusätzlich gibt. Diese Kleinode können beispielsweise sein:
+
++---------------------+----------+-----------------------------+
+| Gegenstand          | Religion | Preis                       |
++:===================:+:========:+:===========================:+
+| Glücksschaufel      | Allgott  | 2000                        |
++---------------------+----------+-----------------------------+
+| Geheiligter Knochen | Rah Kari | Heiligung alleine: 1500<br> |
+|                     |          |                             |
+|                     |          | Heiligung + Knochen: 2500   |
++---------------------+----------+-----------------------------+
+| Riddinöl            | Darcy    | 2000                        |
++---------------------+----------+-----------------------------+
+
+Ein Kleinod ist nur wirksam, wenn es zur Religion des Charakters passt. Nur eines pro Session kann konsumiert werden.
+
+### Sonstige
+
 Andere Gegenstände sind sämtliche Gegenstände die nicht nativ in Orbis Aestea vorliegen. Meistens sind das Alltagsgegenstände wie Seile, Fässer etc. diese sind Glücklicherweise im Rulebook von DnD 5e (welches direkt über den Download-link runtergeladen werden kann). Hierbei sind die Preise in DnD silber umzurechnen (1gp=10sp, 1sp=10cp) und anschließend über die <font color="green">[Umrechnungskurse in Reiks](#Währung)</font>. Dann kann man sie bezahlen und sich ins Inventar eintragen.
 
 Hier findet ihr das meiste:

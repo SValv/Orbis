@@ -235,13 +235,19 @@ Objekte können während des Kampfes als Single Action verwendet werden. Wichtig
 
 es gibt 5 mögliche Holster:
 
--   Hauptholster - Hier kann man eine Nahkampfwaffe, einen Dolch oder Wurfwaffen platzieren
--   Sekundärholster - Hier kann man eine Nahkampfwaffe, einen Dolch oder Wurfwaffen platzieren
--   Rückenholster - Hier ist Platz für einen Schild, eine Fernwaffe oder eine Großwaffe
--   Köcher 1 - Hier kann man Munition (essentiell für Fernwaffen) oder Wurfwaffen unterbringen
--   Köcher 2 - Gleich wie Köcher eins, aber bei Benutzung verliert man einen Ausdauerwürfel
+-   Hauptholster - Hier kann man eine Nahkampfwaffe, eine Fernwaffe oder einen Dolch platzieren
+-   Sekundärholster - Hier kann man eine Nahkampfwaffe, eine Fernwaffe  oder einen Dolch platzieren
+-   Rückenholster - Hier ist Platz für eine Fernwaffe, eine Großwaffe oder eine Stangenwaffe
+-   Zusatzzlot - Hier kann man einen zusätzlichen Köcher oder seinen Schild tragen
+-   Köcher - dies ist der Standardköcher für Wurfwaffen/Spezialmunition den jeder haben kann
 
-Ein Holster erlaubt einem, Waffen mit einer Single Action zu ziehen bzw. zu tauschen. Ein einziges <font color="green">[Faustmesser oder ein Schlagring](#Faustwaffen)</font> kann auch in einer Hosentasche versteckt werden. Somit kann der Gegenstand auch mit einer Single Action gezogen werden.
+Ein Holster erlaubt einem, Waffen mit einer Single Action zu ziehen bzw. zu tauschen.
+
+#### Köcher {.unnumbered}
+
+In einem Köcher kann entweder Spezialmunition oder Wurfwaffen mitgeführt werden. Dies hat den Vorteil, dass die Spezialmunition direkt in einem Ranged-angriff verwendet werden kann (dieser kostet wie ein normaler Ranged-angriff die Main Action), während Wurfwaffen im Köcher für die Side Action geworfen werden können. 
+
+Diese Regel trifft allerdings nicht für Dual Wielder/Benutzer eines Turmschildes zu. Diese brauchen um ein Item aus dem Köcher zu verwenden die Main Action - da ihre Hände entweder voll sind oder der große Schild zu sperrig ist um gut hinzukommen.
 
 #### Tranktaschen {.unnumbered}
 

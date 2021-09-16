@@ -14,6 +14,9 @@ Grundsätzliches ist bei der Umsetzung alles möglich jedoch liegt verständlich
 Diese Modifikationen können entweder bestimmte Faktoren herausheben und verstärken, Nachteile ausgleichen oder rein unterstützender Natur sein.
 Diese Fallen aber alle zu lasten der Durabilty des Gegenstands.
 
+
+
+
 ### Leichtbau
 Senkt das Gewwicht
 
@@ -21,13 +24,25 @@ Senkt das Gewwicht
 
 ### Das Brennende Schweret
 
-Diese Visuell auffällige Mod ermöglicht es die Nahkampfwaffe in Flammen zu hüllen. Dies geschieht durch ein im Griff verstecktes Ölfläschchen und eine kleine Zündapperatur
+Diese Visuell auffällige Mod ermöglicht es die Nahkampfwaffe in Flammen zu hüllen. Dies geschieht durch ein im Griff verstecktes Ölfläschchen und eine kleine Zündapperatur.
+Für Die Dauer von 5 Runden.
 
-Funktion: Bonus Schaden, kann Zustand brennend Auslösen mit 50% build up pro Angriff
+Funktion: Bonus Schaden, kann Zustand brennend Auslösen mit 40% chance pro Angriff
           Intimidation at Advantage 2
           
 Nachteil: Jede Anwendung kostet ein Fläschen Öl das nur außerhalb des Kampfes ausgetauscht werden kann.
           Zustsand sinkt bei jeder Anwendung
+          
+
+          
+## Bluten / Gezackte Klinge
+
+Unabhängig ob es sich um eine klingen Waffe handelt ermöglicht diese Modifikation eine Chance auf einen Blutungseffekt bei Treffern von 15%
+
+## Gift
+Hohle Teile in der Spitze die mit gift gefüllt werden können. Hits haben eine Chance von 30% zu vergiften
+
+
 
 ## Waffen Mods Fernkampf
 
