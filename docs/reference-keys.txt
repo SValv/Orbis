@@ -683,6 +683,7 @@ Initiative
 die-kampfrunde-und-die-kampfaktionen
 InstrumenteRules
 dual-wielding
+der-schildstoß
 andere-angriffe-während-single-actions
 schleichangriffe
 called-shots
@@ -738,6 +739,7 @@ modifikatoren
 glaube
 glück
 sanity
+verfluchte-artefakte
 lagern-und-ruhen
 längerfristige-verletzungen
 Ohnmacht

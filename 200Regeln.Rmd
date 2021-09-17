@@ -18,9 +18,9 @@ Wie man sieht, passiert es manchmal, dass einem Skill mehrere Attribute zugeordn
 
 ### Die einfache Probe
 
-Die einfache Probe ist zu Würfeln, wenn es keinen direkten Gegenspieler gibt. Sie ist meistens mit einem Threshold in Value[^1] oder Damage verknüpft, den der DM beliebig festlegt. Sollte man bspw. versuchen ein Schloss zu knacken, wird der DM festlegen, dass der Value über 3 sein soll, um das zu erreichen. Bei härteren/leichteren schlössern ist der Value natürlich anzupassen.
+Die einfache Probe ist zu Würfeln, wenn es keinen direkten Gegenspieler gibt. Sie ist meistens mit einem Threshold in Value[^regeln-1] oder Damage verknüpft, den der DM beliebig festlegt. Sollte man bspw. versuchen ein Schloss zu knacken, wird der DM festlegen, dass der Value über 3 sein soll, um das zu erreichen. Bei härteren/leichteren schlössern ist der Value natürlich anzupassen.
 
-[^1]: Value ist eine Form von Gütekriterium eines Wurfes - je höher der Value, desto besser der Wurf.
+[^regeln-1]: Value ist eine Form von Gütekriterium eines Wurfes - je höher der Value, desto besser der Wurf.
 
 Welche Werte hierbei welcher Größenordnung entsprechen findet sich <font color="green">[hier](#Abstufungen)</font>.
 
@@ -113,19 +113,20 @@ Als Single Action zählen Aktionen, die klein genug sind um keine Main Action zu
 
 Übersicht über Main und Single Actions:
 
-|       Main Actions        |        Single Actions         |
-|:-------------------------:|:-----------------------------:|
-|          Angriff          | Trank in Tranktasche Benutzen |
-|    Verbündetem helfen     |  Blocken/Ausweichen/Parieren  |
-| Sache ausm Rucksack holen |           Aufstehen           |
-|    Instrument Spielen     |     Laden einer Armbrust      |
-|     Trank Herstellen      |      Sache Ausm Holster       |
-|      Mount/Dismount       |  Trank herstellen (Stufe 1)   |
-|  Improvisierte Handlung   |        Objekt benutzen        |
-|       Laden Muskete       | Improvisierte kleine Handlung |
-|   Laden der Artillerie    |  Angriff Unarmed/Dual Wield   |
-| Entwaffnen mancher Fallen |      In Deckung Hechten       |
-|                           |       Kleine Wurfwaffe        |
+|       Main Actions        |             Single Actions             |
+|:-------------------------:|:--------------------------------------:|
+|          Angriff          |     Trank in Tranktasche Benutzen      |
+|    Verbündetem helfen     |      Blocken/Ausweichen/Parieren       |
+| Sache ausm Rucksack holen |               Aufstehen                |
+|    Instrument Spielen     |          Laden einer Armbrust          |
+|     Trank Herstellen      |           Sache Ausm Holster           |
+|      Mount/Dismount       |       Trank herstellen (Stufe 1)       |
+|  Improvisierte Handlung   |            Objekt benutzen             |
+|       Laden Muskete       |     Improvisierte kleine Handlung      |
+|   Laden der Artillerie    | Angriff Unarmed/Dual Wield/Zweite Hand |
+| Entwaffnen mancher Fallen |           In Deckung Hechten           |
+|                           |               Wurfwaffe                |
+|                           |               Schildstoß               |
 
 Die Single Action kann - genauso wie die Bonus Action - für die Runde des Gegners gespart und jederzeit eingesetzt werden. Meistens um zu blocken/auszuweichen oder für das Verwenden von Wurfwaffen.
 
@@ -195,6 +196,10 @@ Ganz mutige Wesen versuchen mit zwei Waffen zu kämpfen. Dies kann Vor- und Nach
 
 Des weiteren gibt es die Chance auf einen Optionsangriff von 20% nach einem Angriff auf einen Zweithandangriff. Für diesen gilt: Der Schaden mit der Sekundärwaffe (außer Dolch und unbewaffnetem Angriff) wird nur zu 80% umgesetzt. Bei Dolchen kommt 90% des Schadens durch, bei unbewaffneten Angriffen sind es 100%. Sollte es zu einem Optionsangriff kommen, fällt die Option auf einen normalen Doppelangriff weg. Egal wie, man kann auch mit dual Wield nur maximal zwei Angriffe pro Runde werfen.
 
+### Der Schildstoß
+
+Charaktere mit Schilden können auch einen Schildstoß vollführen. Hierbei wird mit dem Blocken-Skill angegriffen und der Schildwert als Waffenwert verwendet (das Programm macht das automatisch). Wenn der Value dabei um 2 größer ist als jener der Verteidigungsaktion des anderen wird dieser umgeworfen und muss aufstehen (auch das zeigt das Programm an)
+
 ### Andere Angriffe während Single Actions
 
 Auch andere Angriffe können als Single Action durchgeführt werden. Dazu zählen <font color="green">[kleine Wurfwaffen](#WurfWaffen)</font> und unbewaffnete Angriffe wie bspw. ein Faustschlag.
@@ -236,7 +241,7 @@ Objekte können während des Kampfes als Single Action verwendet werden. Wichtig
 es gibt 5 mögliche Holster:
 
 -   Hauptholster - Hier kann man eine Nahkampfwaffe, eine Fernwaffe oder einen Dolch platzieren
--   Sekundärholster - Hier kann man eine Nahkampfwaffe, eine Fernwaffe  oder einen Dolch platzieren
+-   Sekundärholster - Hier kann man eine Nahkampfwaffe, eine Fernwaffe oder einen Dolch platzieren
 -   Rückenholster - Hier ist Platz für eine Fernwaffe, eine Großwaffe oder eine Stangenwaffe
 -   Zusatzzlot - Hier kann man einen zusätzlichen Köcher oder seinen Schild tragen
 -   Köcher - dies ist der Standardköcher für Wurfwaffen/Spezialmunition den jeder haben kann
@@ -245,11 +250,13 @@ Ein Holster erlaubt einem, Waffen mit einer Single Action zu ziehen bzw. zu taus
 
 #### Köcher {.unnumbered}
 
-In einem Köcher kann entweder Spezialmunition oder Wurfwaffen mitgeführt werden. Dies hat den Vorteil, dass die Spezialmunition direkt in einem Ranged-angriff verwendet werden kann (dieser kostet wie ein normaler Ranged-angriff die Main Action), während Wurfwaffen im Köcher für die Side Action geworfen werden können. 
+In einem Köcher kann entweder Spezialmunition oder Wurfwaffen mitgeführt werden. Dies hat den Vorteil, dass die Spezialmunition direkt in einem Ranged-angriff verwendet werden kann (dieser kostet wie ein normaler Ranged-angriff die Main Action), während Wurfwaffen im Köcher für die Side Action geworfen werden können.
 
 Diese Regel trifft allerdings nicht für Dual Wielder/Benutzer eines Turmschildes zu. Diese brauchen um ein Item aus dem Köcher zu verwenden die Main Action - da ihre Hände entweder voll sind oder der große Schild zu sperrig ist um gut hinzukommen.
 
 #### Tranktaschen {.unnumbered}
+
+Mit einer Tranktasche kann man Tränke und Bomben mit einer Single-Action verwenden, solange sie in der jeweiligen Tranktasche sind. Ein Charakter kann nur eine Tranktasche mitführen. Mehr über Tranktaschen kann man <font color="green">[hier lesen](#TranktascheItems)</font>.
 
 ### Kämpfen in Formation {#Formation}
 
@@ -289,14 +296,21 @@ Stats und Arten der Artillerie:
 |  Katapult  |   600   |    350m    | 300 kg  |     4     | verboten |     200      |
 | Trebouchet |  2900   |    350m    | 600 kg  |    4,7    | verboten |     600      |
 
-| Artillerie | Minimale Besatzung | Maximale Besatzung | Negiert Deckung | Größe  |                                     Zusatz                                     |
-|:----------:|:------------------:|:------------------:|:---------------:|:------:|:------------------------------------------------------------------------------:|
-|  Skorpion  |         1          |         2          |       --        | Klein  | Aufbau im Kampf: 3 Runden wenn nur 1 Mann Besatzung: Nachladen als Main Action |
-|  Balliste  |         2          |         3          |     Tier 1      | Mittel |            Nachladen 1 Runde minimum, 2 Runden, wenn Besatzung \<2             |
-| Handkanone |         1          |         1          |     Tier 1      | Klein  |                               Nachladen 1 Runde                                |
-| Großkanone |         2          |         3          |     Tier 2      |  Groß  |            Nachladen 1 Runde minimum, 2 Runden, wenn Besatzung \<3             |
-|  Katapult  |         2          |         3          |     Tier 1      | Mittel |    Nachladen 1 Runde minimum, 2 Runden, wenn Besatzung \<3, Area Damage 2m     |
-| Trebouchet |         4          |         8          |     Tier 2      |  Groß  |    Nachladen 1 Runde minimum, 2 Runden, wenn Besatzung \<6 , Area Damage 8m    |
++------------+--------------------+--------------------+-----------------+--------+--------------------------------------------------------------------------------+
+| Artillerie | Minimale Besatzung | Maximale Besatzung | Negiert Deckung | Größe  | Zusatz                                                                         |
++:==========:+:==================:+:==================:+:===============:+:======:+:==============================================================================:+
+| Skorpion   | 1                  | 2                  | --              | Klein  | Aufbau im Kampf: 3 Runden wenn nur 1 Mann Besatzung: Nachladen als Main Action |
++------------+--------------------+--------------------+-----------------+--------+--------------------------------------------------------------------------------+
+| Balliste   | 2                  | 3                  | Tier 1          | Mittel | Nachladen 1 Runde minimum, 2 Runden, wenn Besatzung \<2                        |
++------------+--------------------+--------------------+-----------------+--------+--------------------------------------------------------------------------------+
+| Handkanone | 1                  | 1                  | Tier 1          | Klein  | Nachladen 1 Runde                                                              |
++------------+--------------------+--------------------+-----------------+--------+--------------------------------------------------------------------------------+
+| Großkanone | 2                  | 3                  | Tier 2          | Groß   | Nachladen 1 Runde minimum, 2 Runden, wenn Besatzung \<3                        |
++------------+--------------------+--------------------+-----------------+--------+--------------------------------------------------------------------------------+
+| Katapult   | 2                  | 3                  | Tier 1          | Mittel | Nachladen 1 Runde minimum, 2 Runden, wenn Besatzung \<3, Area Damage 2m        |
++------------+--------------------+--------------------+-----------------+--------+--------------------------------------------------------------------------------+
+| Trebouchet | 4                  | 8                  | Tier 2          | Groß   | Nachladen 1 Runde minimum, 2 Runden, wenn Besatzung \<6 , Area Damage 8m       |
++------------+--------------------+--------------------+-----------------+--------+--------------------------------------------------------------------------------+
 
 ### Die Schadensverrechnung
 
@@ -470,13 +484,19 @@ Die Aktion "Verbessern" erhöht den Damage-Wert eines Ausrüstungsgegenstandes u
 
 Thresholds und Kosten der Aktion Verbessern:
 
++------------+--------------+-----------+-----------------+---------------+----------------+
 | Verbessern | Standartwert | Threshold | Kosten Material | Höchster Wert | Kosten Schmied |
-|:----------:|:------------:|:---------:|:---------------:|:-------------:|:--------------:|
-|  Stufe 1   |      30      |     2     |      1500       |      +14      |      6000      |
-|  Stufe 2   |   42 \| 2    |  ,8 \| 6  |    750 \| +     |    8 \| 2     |      7000      |
-|  Stufe 3   |      48      |    3,8    |      27000      |      +6       |     108000     |
-|  Stufe 4   |      53      |    4,7    |      90000      |      +4       |     360000     |
-|  Stufe 5   |      --      |    --     |       --        |      --       |       --       |
++:==========:+:============:+:=========:+:===============:+:=============:+:==============:+
+| Stufe 1    | 30           | 2         | 1500            | +14           | 6000           |
++------------+--------------+-----------+-----------------+---------------+----------------+
+| Stufe 2    | 42 \| 2      | ,8 \| 6   | 750 \| +        | 8 \| 2        | 7000           |
++------------+--------------+-----------+-----------------+---------------+----------------+
+| Stufe 3    | 48           | 3,8       | 27000           | +6            | 108000         |
++------------+--------------+-----------+-----------------+---------------+----------------+
+| Stufe 4    | 53           | 4,7       | 90000           | +4            | 360000         |
++------------+--------------+-----------+-----------------+---------------+----------------+
+| Stufe 5    | --           | --        | --              | --            | --             |
++------------+--------------+-----------+-----------------+---------------+----------------+
 
 ### Modifizieren {#modifizieren}
 
