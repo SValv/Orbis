@@ -12,6 +12,7 @@ Die Highlights der Geschichte von Orbis Astea sind hier aufgeführt:
 * 08.08.20 Veröffentlichung Bookdown
 * 24.11.20 Orbis Astea 1.2
 * 15.04.21 Orbis Astea 2.0
+* 01.09.21 Orbis Astea 3.0
 
 ## Die Autoren {-}
 
@@ -29,7 +30,7 @@ Orbis Astea wurde vom folgendem Team geschrieben:
 
 * studiert Psychologie, Wirtschaftswissenschaften und Data Science in Salzburg
 * ursprünglich aus Deutschland
-* 24 Jahre alt
+* 25 Jahre alt
 * Gründungsmitglied von Orbis Astea
 * zockt viel zu viel
 

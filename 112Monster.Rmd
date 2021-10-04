@@ -304,13 +304,13 @@ Eventuell zur Verteidigung herbeistürmende Kinder, also die Ghule, sind mit Sch
 
 Alchemistisch ist keine Verwendung über Brutmutter Ingridientien bekannt.
 
-![Illustration einer schlafenden Brutmutter[^Taonavi]](Pictures/Flavor/Monster/by_taonavi_Brutmutter.jpg)
+![Illustration einer schlafenden Brutmutter[^1]](Pictures/Flavor/Monster/by_taonavi_Brutmutter.jpg)
 
-[^Taonavi]: "Abomination Knight (2019) Concept" von [Taonavi](https://www.deviantart.com/taonavi/art/Abomination-Knight-2019-Concept-800502298).Diese Conceptart steht unter einer Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 License zur Verfügung.
+[^1]: "Abomination Knight (2019) Concept" von [Taonavi](https://www.deviantart.com/taonavi/art/Abomination-Knight-2019-Concept-800502298).Diese Conceptart steht unter einer Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 License zur Verfügung.
 
-![Illustration eines Ghules[^pngegg]](Pictures/Flavor/Erwachte/pngegg_Guhl_Erwachter.png)
+![Illustration eines Ghules[^2]](Pictures/Flavor/Erwachte/pngegg_Guhl_Erwachter.png)
 
-[^pngegg]: Dieses PNG wurde der Seite [pngegg.com](https://www.pngegg.com/en/png-nbtay) entnommen und steht zur nichtkommerziellen Nutzung zur Verfügung.
+[^2]: Dieses PNG wurde der Seite [pngegg.com](https://www.pngegg.com/en/png-nbtay) entnommen und steht zur nichtkommerziellen Nutzung zur Verfügung.
 
 ## Würmer
 
@@ -470,9 +470,9 @@ Wagemutige können mit langen Lanzen oder Speeren ebenfalls gegen diese Tiere vo
 
 Vorsicht ist zu Vollmond geboten, da hier die Tiere teils zu Scharen aus dem Wasser kriechen, was schnell bedrohlich wirken kann, sofern man im Kampfe nicht profizient ist.
 
-![Eine Ausgewachsene Lagunenjungfer[^TreatsNinjatic]](Pictures/Flavor/Monster/treats_by_ninjatic.jpg)
+![Eine Ausgewachsene Lagunenjungfer[^3]](Pictures/Flavor/Monster/treats_by_ninjatic.jpg)
 
-[^TreatsNinjatic]: "Treats" von [Ninjatic](https://www.deviantart.com/ninjatic/art/Treats-712265465).Diese Conceptart steht unter einer Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 License zur Verfügung.
+[^3]: "Treats" von [Ninjatic](https://www.deviantart.com/ninjatic/art/Treats-712265465).Diese Conceptart steht unter einer Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 License zur Verfügung.
 
 Ein Detail am Rande, sind die Sammlungen der Lagunenjungfern für kriegerische Zwecke bzw zur Erpressung von Inseln oder Seefestungen, da diese Tiere schnell so hartnäckig wie Seepocken werden und quasi unmöglich auszurotten sind.
 
@@ -488,9 +488,9 @@ Die Nester sind äußerst widerstandsfähig und bestehen aus Knochenartigen Plat
 Diese Nester, sofern belästigt, setzten Seerollenpestwürmer frei, welche dann extrem aggressiv im Wasser alles angreifen, was sich in der Nähe befindet.
 Es ist nicht bekannt was die Nester Essen oder ob diese überhaupt eigene Organismen sind, oder vielmehr die Summe an Getier im Inneren.
 
-![Ein Nest der Seerollenpest - Darstellung von Traxinus Juvian[^TheFractalWaspTrollMandelwerk]](Pictures/Flavor/Monster/the_fractal_wasp_troll_by_mandelwerk.png)
+![Ein Nest der Seerollenpest - Darstellung von Traxinus Juvian[^4]](Pictures/Flavor/Monster/the_fractal_wasp_troll_by_mandelwerk.png)
 
-[^TheFractalWaspTrollMandelwerk]: "The Fractal Wasp Troll" von [Mandelwerk](https://www.deviantart.com/mandelwerk/art/The-Fractal-Wasp-Troll-195090947).Diese Conceptart steht unter einer Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 License zur Verfügung.
+[^4]: "The Fractal Wasp Troll" von [Mandelwerk](https://www.deviantart.com/mandelwerk/art/The-Fractal-Wasp-Troll-195090947).Diese Conceptart steht unter einer Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 License zur Verfügung.
 
 Die Nester setzen zusätzlich noch Hallizunogene ins Wasser ab, welche auf Menschen und Orks wie einfache Madnika wirken.
 Auf Elfen haben diese Drogen allerdings keine Effekte.
@@ -808,9 +808,9 @@ Das Wesen dieser Kreaturen ist schlicht.
 Sie fressen was sich im Schlamm oder am Land verbirgt und nicht mehr wegläuft, oder dumm genug ist, diese Tiere zu konfrontieren.
 Die Abscheulichkeiten des Nebelhains und von Silva Nacia scheinen allerdings hier ausreichend Nahrungs zur Verfügung zu stellen.
 
-![Schlammtrommler mit dem Größenvergleich zu einem Menschen[^Krebs000Fesbra000]](Pictures/Flavor/Monster/000Fesbra000_Krebs.jpg)
+![Schlammtrommler mit dem Größenvergleich zu einem Menschen[^5]](Pictures/Flavor/Monster/000Fesbra000_Krebs.jpg)
 
-[^Krebs000Fesbra000]: "Krebs" von [000Fesbra000](https://www.deviantart.com/000fesbra000/art/Krebs-375853600).
+[^5]: "Krebs" von [000Fesbra000](https://www.deviantart.com/000fesbra000/art/Krebs-375853600).
     Dieses Artwork steht unter einer Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 License zur Verfügung.
 
 > "Also standen wir, wissen sie, mit 10 Legionären, schwer bewaffnet an der Grenze zu diesem "Nebelhain". Jedenfalls sahen wir die Karawane kommen, und dachten, ja gut, die Vorhut, 2 Pferde und die Reiter drauf. Doch dann merkten wir, dass die Kutschen nicht dabei waren, und dass ein paar arme Socken hinter den 2 Pferden nachliefen. Naja ich orderte halt meine Männer denen entgegen zu laufen. Die Sicht war an dem Tag Verhältnismäßig gut für diese erbärmlichen Sümpfe vor Rintom. Vielleicht 400 Meter. Also liefen wir denen entgegen. Naja die schwere Rüstung, und der Regen der letzten Tage, Sie glauben nicht wie Weiberarsch dick es da unten regnen kann, machten das laufen nicht gerade leichter. Als die Reiter uns in gebrochenen Kaiserlich erklären wollten dass wir umkehren sollten. Ja, wissen sie, dass haben wir nich so ganz Verstanden. Was sollte 10 Legionären schon was anhaben? Naja wir liefen weiter den Händlern entgegen und im Nebel sahen wir dann dieses riesige Vieh. Hoch wie ein Turm. Man, das ding war breit wie die Villa vom alten Stadthalter von Wagenfurt. Wir sahen wie das Maul von dem Ding blutrot war und Rüstungsfetzen raushingen. Man wir nahmen die Beine in die Hand, ich kämpfte schon gegen eldrische Hhnterhältige Schweine. Aber da fiel mir echt das Herz in meinen Hintern. Scheiße, wir liefen und liefen und dieser Nebelhain nahm kein Ende. Da war ich echt froh meine Männer ständig in schwerer Rüstung laufen zu lassen. Flavius hats leider nicht geschafft wir hörten das quietschen von Rüstung wie wenn es dünnes Blech wär. Ein Schrei und es war still. Man wir liefen und liefen und dieses Ding wurde kleiner und kleiner. Ich sag euch. Selbst wenn der Kaiser persönlich hier aufkreuzt ich steck keinen Zeh mehr in den Nebelhain. Schlammtrommler hießen diese Dinger habe ich mir sagen lassen. Nein, nie wieder geh ich dort rein, wir wurden dann versetzt und da muss ich ihnen die Geschichte von meinem Neffen Maxian erzählen...."

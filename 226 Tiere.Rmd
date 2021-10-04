@@ -1,0 +1,65 @@
+# Das Tier-System
+
+Welche Tiere es gibt und was man mit ihnen so machen kann.
+
+Tiere können nicht nur nützlich im Sinne der Lebensmittelproduktion sein, sondern dienen auch als treue Wegbegleiter.
+
+Aus diesem Grund gibt es eine Liste an Fähigkeiten, die bestimmte Tiere erlernen können.
+
+
+## Fähigkeiten
+
+Nicht jedes Tier kann alle Fähigkeiten erlernen. Manche sind nur Flugtieren möglich, während andere nur von großen Tieren ausgeführt werden können. 
+
+
+Die Anzahl der erlernbaren Fähigkeiten hängt mit der Intelligenz des Tieres zusammen. 
+Pro Intelligenzpunkt ist es also möglich einem Tier eine Fähigkeit beizubringen.Ein Hund, der beispielsweise 3 Intelligenz hat, kann 3 Fähigkeiten erlernen.
+
+
+
+## Training und Taming 
+
+Der skill des Animal Handlings kommt hierbei ins Spiel. Ein Tier, welches eine Fähigkeit erlernen oder eine erlernte Fähigkeit ausführen soll, muss zuvor gezähmt werden.
+Value gewürfelt - Value wurde beim Tier eingetragen --> auf Schwierigkeit des Tieres in der Handhabung schauen und dann ermitteln, wie viele Punkte für Fähigkeiten zur Verfügung stehen. 
+Schwierigkeit des Tieres fungiert als Divisor - Beispiel: Man würfelt einen Value von 6 und das Tier hat eine Schwierigkeit von 3, so stehen einem drei Fähigkeitspunkte zur Verfügung.
+
+Der Trainingswert steht für die grundsätzliche Lernbereitschaft / Kooperationswillen des Tieres.
+Dieser kann über mehrere Sessions hinweg akkumuliert werden, sollte der Threshold nicht auf einmal überschritten werden.
+
+### Taming Prozess
+
+*Wie funktioniert der Taming-Prozess?*
+
+### Preis
+
+Aus Downtime Aktivität erworbene Punkte können hier eingetauscht werden gegen Fähigkeiten. 
+Die Punkte, die man erhält, hängen vom Animal Handling Skill ab.
+
+
+
+Es gibt also zwei Schwierigkeitsgrade:
+* Schwierigkeit des Tieres gibt an, wie schnell das Tier etwas lernt
+* Schwierigkeit der zu erlernenden Fähigkeit
+
+
+
+## Loyalität
+
+Ausführung der Fähigkeit hängt mit der Loyalität zusammen. Je loyaler ein Tier dem Befehlsgeber ist, desto leichter folgt dieses den Befehlen. 
+
+0 fremdes Tier
+
+
+Maximal 10 treu bis zum Tod. 
+
+*Wie bekommst du Loyalität?*
+
+## Ausführung
+
+Value, der fürs Ausführen erreicht werden muss - schon erlernt; - Loyalität = Fail oder Success
+
+## Pflege
+
+Braucht es einen Wert, der die Anzahl der Tiere begrenzt, die man maximal bei sich führen kann?
+
+
