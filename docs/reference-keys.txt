@@ -705,6 +705,7 @@ dual-wielding
 der-schildstoß
 andere-angriffe-während-single-actions
 schleichangriffe
+waffen-werfen
 called-shots
 objekte-während-des-kampfes
 Formation
@@ -847,7 +848,8 @@ titan-klasse-konstrukt-1
 bau-1
 aufbau-ingame
 akku
-batterien
+batterie-1
+vehicel-skill
 der-krieg-auf-see
 allgemeines-1
 kapern-und-versenken

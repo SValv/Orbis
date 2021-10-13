@@ -220,6 +220,10 @@ Beim Schleichen sind außerdem die <font color="green">[Modifikatoren durch Übe
 
 Wenn eine Sneak Attack mit einem Dolch stattfindet, wird es bei geringeren Gegnern zum Attentat. Das Attentat tötet den Gegner direkt. Sollte der DM da was dagegen haben, wird das normale Prozedere mit Advantage 5 geworfen. Dies trifft vor allem auf Monster und bestimmte Charaktere zu bei denen es nicht glaubhaft ist, dass ein Attentat ausreichend ist, um sie zu töten. Sollte der DM das Attentat verneinen, wird der Schaden der Versuche stattdessen kummuliert.
 
+### Waffen werfen
+
+Jede Waffe kann auch für ein wenig Schaden geworfen werdem. Hierbei wird der Schaden der Waffe mit dem Wurfwert multipliziert und als Waffenschaden verwendet. Werfen einer Waffe wird mit dem Skill throwing geworfen und kann gedodged oder geblockt werden.
+
 ### Called Shots
 
 Manchmal will man einen speziellen Teil des Gegners angreifen. Das nennt man einen Called Shot. Hierbei wird allerdings die Trefferwahrscheinlichkeit - und dadurch der Schaden - stark verringert, je nachdem was man zu treffen plant. Hierbei gibt es fünf Bereiche:
@@ -337,7 +341,7 @@ Dieses System mag am Anfang sehr kompliziert erscheinen, wird allerdings zu 100%
 
 Gift ist die Wildcard unter den Statuseffekten, oftmals wird eine Vergiftung erst bemerkt, wenn sie sich bereits durch einen Teil der Gesundheit des Ziels gefressen hat - denn jedes mal, wenn ein stack Gift wirkt, wird ein Perception-check gegen einen damageabhängigen Threshold geworfen - der geschafft werden muss, damit der Charakter seine Vergiftung merkt.
 
-Gift kann in 2 bis 9 Ladungen verabreicht werden und ein Stack Gift hält in der Regel 10 Runden. Der Schaden, der pro Runde gemacht wird hängt von der Stufe des Gifts ab, und kann über folgende Formel ermittelt werden: $$SchadenProRunde = Maxschaden:Ladungen \cdot ((Maxschaden:100) \cdot Ladungen \cdot 1,1)$$ Mehr Ladungen machen mehr Schaden insgesamt und auf möglicherweise mehrere Gegner, müssen allerdings öfter applied werden - sind daher also langsamer.
+Gift kann in 2 bis 9 Ladungen verabreicht werden und ein Stack Gift hält in der Regel 10 Runden. Der Schaden, der pro Runde gemacht wird hängt von der Stufe des Gifts ab, und kann über folgende Formel ermittelt werden: $$SchadenProRunde = Minschaden:Ladungen \cdot ((Minschaden:100) \cdot Ladungen \cdot 1,1)$$ Mehr Ladungen machen mehr Schaden insgesamt und auf möglicherweise mehrere Gegner, müssen allerdings öfter applied werden - sind daher also langsamer. (Der Minschaden für eine Stufe Gift ist <font color="green">[in der Trankliste einsehbar](#Tränke)</font>)
 
 ```{r,echo=F}
 library(ggplot2)

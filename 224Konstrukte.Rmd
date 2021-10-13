@@ -412,14 +412,13 @@ Konstrukt Kern gibt die Maximalen Stats die ein Konstrukt erreichen kann vor Akk
 
 ### Akku
 
-### Batterien
+### Batterie
 
-zum aufladen des Akkus ohne Pausen, one use consumable in verschiedenen Größen verfügbar
+Zum aufladen des Akkus ohne Pausen. Hierfür wird der Essenzsammler verwendet, Eine Ladung entspricht 10 Essenzen, jedoch ist es schwer abzuschätzen wann man die Sammler abziehen muss weshalb es öfter zu ungenauen Abzügen kommt,was im schlimmsten Fall zum Verlust aller gesammelten Seelen im Sammler führen kann. Aufgrund des hohen Preises dieser Anwedung wird diese nur im absoluten Notfall empfohlen.
 
-benötigt Material und Essenzen
 
-chassis / corpus stats, nicht lvl / austausch kern levelbar in downtime, max stats, skills batterie / akku nicht lvl / austausch attachments, nicht tauschbar, gliedmaßen konstrukt waffen verbrauch ladungen
 
-exponentiell steigende kosten
+### Vehicel Skill
+Dem Besitzer des Konstrutks ist es möglich kurzzeitig die Kontrolle über ein Konstukt zu übernehmen, dies äußert sich in einer zusätzlichen Aktion für das Konstrukt. Diese Aktion hängt von einem Vehicel Check ab dessen schwierigkeit auf dem Corpus und der Größe des Konstrukts basiert, je stärker das Konstrukt desto schwieriger die Kontrolle. Bei Erfolg wird die Main Action des Characters aufgebraucht, bei Misserfolg die Singleaction da weniger Zeit verbraucht wird.
 
-Vehicel Skill
+
