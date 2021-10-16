@@ -220,9 +220,11 @@ Beim Schleichen sind außerdem die <font color="green">[Modifikatoren durch Übe
 
 Wenn eine Sneak Attack mit einem Dolch stattfindet, wird es bei geringeren Gegnern zum Attentat. Das Attentat tötet den Gegner direkt. Sollte der DM da was dagegen haben, wird das normale Prozedere mit Advantage 5 geworfen. Dies trifft vor allem auf Monster und bestimmte Charaktere zu bei denen es nicht glaubhaft ist, dass ein Attentat ausreichend ist, um sie zu töten. Sollte der DM das Attentat verneinen, wird der Schaden der Versuche stattdessen kummuliert.
 
-### Waffen werfen
+### Waffen werfen und Wurfwaffen
 
 Jede Waffe kann auch für ein wenig Schaden geworfen werdem. Hierbei wird der Schaden der Waffe mit dem Wurfwert multipliziert und als Waffenschaden verwendet. Werfen einer Waffe wird mit dem Skill throwing geworfen und kann gedodged oder geblockt werden.
+
+Wurfwaffen funktionieren für gewöhnlich genauso. Im Notfall kann man sie als normale Nahkampfwaffen verwenden, allerdings bringt das kaum etwas. Ansonsten werden Wurfwaffen für eine single Action geworfen. Sie haben eine Chance gegnerische Aktionen zu unterbrechen, sie haben allerdings auch bei jeder Verwendung eine Chance, kaputtzugehen. Eine <font color="green">[Liste von Wurfwaffen ist hier](#Belastungsstufe)</font> einzusehen.
 
 ### Called Shots
 
@@ -285,20 +287,20 @@ Der unbewaffnete Kampf hat zwei Anwendungen - den Pugilismus und das Grappling. 
 
 Grapple läuft ebenso wie Pugilismus mit Unarmed - macht allerdings keinen Schaden sondern ist dazu da den Gegner umzuwerfen oder festzuhalten. Beim Grapple wird eine Differenzprobe im Skill unarmed geworfen und der Gewinner bringt den Gegner zu Boden oder hält ihn fest. Will man einen Gegner weiter Festhalten muss jede Runde ein weiterer Unarmed Check geworfen werden, mit Value - 1\*Runde die man den Gegner aktiv am Boden hält. Achtung: Grappling ist risikoreich, da man auch selbst niedergerungen werden kann. Auch andere Gegenmaßnahmen wie Dolche können sehr effektiv sein gegen einen Festhalteversuch.
 
-### Artillerie
+### Artillerie {#ArtillerieOverall}
 
 Gegner mit Artillerie anzugreifen ist immer eine gute Idee - sollte die Artillerie verfügbar sein. Artillerieproben funktionieren kummulativ - je nachdem wieviele Leute an dem Gerät Besatzung sind - wird der Value addiert. Des Weiteren wird der Damage im Ganzen beim Hit vollstreckt. Sollte die Besatzung den Threshold der Waffe nicht überschreiten, verfehlt der Schuss.
 
 Stats und Arten der Artillerie:
 
-| Artillerie | Schaden | Reichweite | Gewicht | Threshold |  Preis   | Preis/Schuss |
-|:----------:|:-------:|:----------:|:-------:|:---------:|:--------:|:------------:|
-|  Skorpion  |   300   |    100m    |  30 kg  |    2,3    |  90000   |     100      |
-|  Balliste  |  1000   |    250m    | 250 kg  |    3,3    | verboten |     300      |
-| Handkanone |   400   |    80m     |  50 kg  |     3     | verboten |     200      |
-| Großkanone |  3600   |    400m    | 900 kg  |    3,6    | verboten |     750      |
-|  Katapult  |   600   |    350m    | 300 kg  |     4     | verboten |     200      |
-| Trebouchet |  2900   |    350m    | 600 kg  |    4,7    | verboten |     600      |
+| Artillerie | Schaden | Reichweite | In Kästen | Gewicht | Threshold |  Preis   | Preis/Schuss |
+|:----------:|:-------:|:----------:|:---------:|:-------:|:---------:|:--------:|:------------:|
+|  Skorpion  |   300   |    150m    |     3     |  30 kg  |    2,3    |  90000   |     100      |
+|  Balliste  |  1000   |    300m    |     6     | 250 kg  |    3,3    | verboten |     300      |
+| Handkanone |   400   |    50m     |     1     |  50 kg  |     3     | verboten |     200      |
+| Großkanone |  3600   |    400m    |     8     | 900 kg  |    3,6    | verboten |     750      |
+|  Katapult  |   600   |    200m    |     4     | 300 kg  |     4     | verboten |     200      |
+| Trebouchet |  2900   |    350m    |     7     | 600 kg  |    4,7    | verboten |     600      |
 
 +------------+--------------------+--------------------+-----------------+--------+--------------------------------------------------------------------------------+
 | Artillerie | Minimale Besatzung | Maximale Besatzung | Negiert Deckung | Größe  | Zusatz                                                                         |

@@ -705,13 +705,13 @@ dual-wielding
 der-schildstoß
 andere-angriffe-während-single-actions
 schleichangriffe
-waffen-werfen
+waffen-werfen-und-wurfwaffen
 called-shots
 objekte-während-des-kampfes
 Formation
 kampf-vom-reittier
 der-unbewaffnete-kampf
-artillerie
+ArtillerieOverall
 die-schadensverrechnung
 damage-over-time
 Ausdauer
