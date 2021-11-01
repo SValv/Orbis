@@ -195,17 +195,45 @@ Dies sollte aber gerade bei guten Kenntnissen in die Backstory eingebaut werden.
 ### Kontakte
 
 Kontakte sind ein weiteres Stück der Welt - sozusagen das soziale Kapital des Spielers.
-Sie helfen an Aufträge, Informationen und andere Dinge zu kommen für die Vitamin B nun mal nützlich ist.
-Die Punkte, die man für Kontakte vergeben kann berechnen sich aus der Summe: Charisma + Instinct + Luck + Glaube.
+Sie helfen an Aufträge, Informationen und andere Dinge zu kommen, für die Vitamin B nun mal nützlich ist oder sein könnte.
+Die Punkte, die man für Kontakte vergeben kann berechnen sich aus der Summe: (4xCharisma) + Instinct.
 
-Diese Punkte können dann auf Loyalität eines Kontaktes und Einfluss eines Kontaktes verteilt werden.
+Diese Punkte können dann auf die Affection, die ein Kontakt gegenüber eines Charakter empfindet, und die Power, also den sozialen Stand und Einfluss, eines Kontaktes verteilt werden.
 
-Loyalität ist eine Skala, die von 1 bis 7 geht.
-Während eine Loyalität von 1-2 nützliche Geschäftskontakte darstellt würde man 5 als enge Freundschaft, 6 als Beziehung und 7 als liebende Familie/lebenslange Ehe Bezeichnen können.
-Gerade tiefere Kontakte müssen in der Backstory begründet sein.
+Die Kosten beschreiben, wie viele Punkte ein Spieler ausgeben muss, um sich einen Kontakt eintragen zu können.
+Diese stellen die Summe der jeweiligen Stufen dar.
+Möchte man eine Liebesbeziehung zu einer Person aus dem Hochadel führen, so sind insgesamt 60 Punkte zu entrichten.
+30 für die Stufe 7 Power und nochmal 30 Punkte für die Stufe 7 Affection.
 
-Bei Einfluss geht die Skala von 0 bis 12, wobei 0 den Penner auf der Straße darstellt und 12 der Kaiser höchstselbst ist.
-Werte über 7 müssen gut begründet werden, während Werte über 9 gänzlich unmöglich sind.
+Beide Parameter können auf einer Skala von jeweils 1 - 10 vergeben werden.
+Die inhaltliche Bedeutung der jeweiligen Skalen-Stufe zeigt die nachfolgende Tabelle:
+
++-------+----------------------------------------------------+----------------------------+--------+
+| Stufe | Power                                              | Affection                  | Kosten |
++=======+====================================================+============================+========+
+| 1     | Unterschicht                                       | Bekanntschaft              | 2      |
++-------+----------------------------------------------------+----------------------------+--------+
+| 2     | Normale Person                                     | Gute Bekanntschaft         | 4      |
++-------+----------------------------------------------------+----------------------------+--------+
+| 3     | Sozial gut vernetzte Person                        | Kollegen                   | 7      |
++-------+----------------------------------------------------+----------------------------+--------+
+| 4     | Stadtwache                                         | Gleicher Freundeskreis     | 10     |
++-------+----------------------------------------------------+----------------------------+--------+
+| 5     | Hohes Bürgertum                                    | Freunde                    | 15     |
++-------+----------------------------------------------------+----------------------------+--------+
+| 6     | Niederer Adel                                      | Familienmitglied           | 20     |
++-------+----------------------------------------------------+----------------------------+--------+
+| 7     | Adel/Militärkommandant/Unterweltboss/Hoher Beamter | Enge Freunde               | 25     |
++-------+----------------------------------------------------+----------------------------+--------+
+| 8     | Hochadel                                           | Liebesbeziehung            | 30     |
++-------+----------------------------------------------------+----------------------------+--------+
+| 9     | Höchste Beamte/Minister/Heerführer                 | Beste Freunde              | 40     |
++-------+----------------------------------------------------+----------------------------+--------+
+| 10    | Kaiser/Hohepriester/Fürst eines                    | Wie das eigene Kind        | 45     |
+|       | Staatenschiffs/etc.                                |                            |        |
++-------+----------------------------------------------------+----------------------------+--------+
+
+: Kontakte und was sie ausmacht.
 
 ## Der Bewegungsradius {#BewRadius}
 
@@ -353,7 +381,8 @@ Bei Interaktionen entscheidet der DM um wie viel die Sanity sinkt.
 
 #### Verfluchte Artefakte
 
-Es gibt ein paar sehr starke Artefakte (allesamt Tier 5), die ihren starken Effekt damit "bezahlen lassen" das man bei jeder Verwendung Sanity verliert. Dies sind meistens Blutkultrelikte und können von Waffen über Amulette mit gewissen Wirkungen alles sein was einem fähigen DM einfällt.
+Es gibt ein paar sehr starke Artefakte (allesamt Tier 5), die ihren starken Effekt damit "bezahlen lassen" das man bei jeder Verwendung Sanity verliert.
+Dies sind meistens Blutkultrelikte und können von Waffen über Amulette mit gewissen Wirkungen alles sein was einem fähigen DM einfällt.
 
 ### Lagern und Ruhen
 
