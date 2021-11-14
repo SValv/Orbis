@@ -748,14 +748,13 @@ hauptaktivitäten-umfassen
 nebenaktiväten-umfassen
 andere-aktvitäten-sich-mit-kontakten-und-npcs-austauschen
 training
-studieren
+Studieren
 Lebenserhaltungskosten
 wer-willst-du-sein
 die-charakter-creation
 rasse-und-startwerte
 level-und-skillverbesserungen
-wissen-skills
-sprachen
+Wissensskills
 kontakte
 BewRadius
 das-inventar

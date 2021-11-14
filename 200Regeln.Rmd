@@ -625,39 +625,37 @@ colnames(ll)[2]<-"Wahrscheinlichkeit in %"
 knitr::kable(ll,align = "cc")
 ```
 
-### Studieren
+### Studieren {#Studieren}
 
-Wie man Skills Trainieren kann, so kann man auch Wissen oder Sprachen lernen. Hierfür braucht man zuerst einmal ein Buch oder einen Lehrer - da man sich solche Inhalte nicht selbst erarbeiten kann. Natürlich sind Sachbücher oder Unterricht bei Gelehrten nicht billig.
+Wie man Skills Trainieren kann, so kann man auch Wissen oder Sprachen lernen. Hierfür braucht man zuerst einmal ein Buch oder einen Lehrer - da man sich solche Inhalte nicht selbst erarbeiten kann. Natürlich sind Sachbücher oder Unterricht bei Gelehrten nicht billig. Des weiteren Braucht man den Wissensskill Schriftlehre auf Stufe 1 um aus Büchern lernen zu können.
 
-Wie beim Training muss man zuerst spezifizieren was man studieren will - also in welchem Bereich man sich weiterbilden will.
+Wie beim Training muss man zuerst spezifizieren was man studieren will - also in welchem Bereich man sich weiterbilden will. Das studieren hängt eng mit dem Wissensskillsystem zusammen, welches man sich anschauen sollte.
 
-Studieren ist ein langwieriger Prozess. Man verbraucht beim studieren jedes Mal eine volle Downtime.
+Studieren ist ein langwieriger Prozess. Man verbraucht beim studieren jedes Mal eine volle Downtime. Studieren ist eng verbunden mit dem <font color="green">[Wissenssystem](#Wissensskills)</font>, welches man verstanden haben sollte.
 
-Studieren funktioniert folgendermaßen: Jeder Wissensskill braucht einen Wert von 50 um erworben zu werden - bei Sprachen ist es ähnlich, allerdings ein bisschen anders, da man Sprachen auch schlecht beherrschen kann. Hier sieht die Verteilung folgendermaßen aus:
-
-```{r, echo=F}
-Wert<-seq(0,50,5)
-Sprachkenntniss=0:10
-
-ll<-data.frame(Wert,Sprachkenntniss)
-knitr::kable(ll,align = "cc")
-```
-
-Was bedeutet nun dieser Wert von 50? in der Regel ist es ein kummulativer Threshold. Jede spezifizierte Downtime wird ein D20 geworfen. Ist der erreichte Wert über dem Intelligenzwert zählt das lernen als gescheitert. Ist er unter dem Intelligenzwert wird die Differenz zwischen Wurf und Intelligenz als Wert aufgerechnet.
+Jede spezifizierte Downtime wird ein D20 geworfen. Ist der erreichte Wert über dem Intelligenzwert zählt das lernen als gescheitert. Ist er unter dem Intelligenzwert wird die Differenz zwischen Wurf und Intelligenz als Wert aufgerechnet und mit den bereits vorhandenen Punkten in diesem Bereich addiert.
 
 > Ein Charakter mit Intelligenz 14 will elfisch lernen. Er wirft den D20 und bekommt eine 2. Die Differenz +1 beträgt 13. Also hat er seinen Wert in Elfisch von 0 auf 13 verbessert. Dies entspricht Elfisch 2. Würde er eine 15 werfen statt eine 2 hätte er bei dieser Sitzung nichts gelernt.
 >
 > --- Beispiel
 
-Eine (kleine) Werterhöhung in einem gewissen Wissens/Sprachskill kann der DM auch während der Session für "Durchbruchhandlungen" mit einem Skill geben. Des weiteren kann man auch mithilfe von "Mittelchen" lernen, die Einnahme von Intelligenztränken für einen Lernvorgang ist also vollkommen in Ordnung. Man braucht allerdings 2 Tränke statt einen, da eine Downtime zeitlich etwas länger ist. Der Wert der Intelligenztränke wird gemittelt.
+Wenn man genug addierte Punkte hat kann man seinen Wissensskill nach diesem kummulativen Schlüssel aufwerten:
 
-Mögliche Knowledge skills die erlernt werden können
++--------------------------------------------+----------------+----------------------------------+--------------------------------------------+
+| Niveau/Stufe der Sprache oder des Wissens: | Kosten Punkte: | Wissensniveau                    | Sprachniveau                               |
++:==========================================:+:==============:+:================================:+:==========================================:+
+| Stufe 0                                    | 0              | Kein Wissen im Bereich           | Keine Sprachfähigkeit                      |
++--------------------------------------------+----------------+----------------------------------+--------------------------------------------+
+| Stufe 1                                    | 5              | Grundwissen                      | sehr einfache Gespräche möglich            |
++--------------------------------------------+----------------+----------------------------------+--------------------------------------------+
+| Stufe 2                                    | 10             | Belesen & Erfahren im Fachgebiet | Verständigung umständlich aber vollständig |
++--------------------------------------------+----------------+----------------------------------+--------------------------------------------+
+| Stufe 3                                    | 10             | Ausgewiesener Fachmensch         | Gesetzestext- und Muttersprachenniveau     |
++--------------------------------------------+----------------+----------------------------------+--------------------------------------------+
 
-Common Knowledge: für jeden von Anfang an Verfügbar, muss nicht erlernt werden Religion, Völker, Großreiche, Karte
+Ein Upgrade von Stufe eins auf Stufe 2 würde also 10 solcher Punkte kosten, während ein Upgrade auf Stufe 1 nur 5 kosten würde.
 
-Vertiefte Knowledge: • Territorial Knowledge: gepflogenheiten, besonderheiten, wichtige personen, Heraldik • Völker vertieft: Gewohnheiten, Rituale, besondere Orte, • Geographie: Wissen um Städte, routen, • Taktik: Geteilt in Krieg und Schlacht. Schlacht: Vermutlich Taktik der Feinde, beste eigene Formation. Krieg: • Pflanzenkunde: Wissen um alternative effekte von Pflanzen (werwolf pille und co(quest relatet stuff)) • Handwerk: Materialkunde, Spezielle Waren? (Tranktasche) • Handel: In 3 Stufen jeweils vertieft: Handelswaren, Handelsrouten, Preise, Händlerwissen • Jagt: Spuren erkennen und lesen, vermutliche Beute sammelpunkte wie Wasserlöcher finden, bekannte beute Tiere der Region • Monster: Monster erkennen und deren stärken schwächen, Fährten und hinweise deuten • Tiere: Seltenere Tiere erkennen, den Zustand erkennen (erschöpft(relevant für reiten) , verängstigt) • Kriminalität: Gang members und kriminelle Strukturen schnell erkennen und analyisieren (botennetzwerke), mögliche Verstecke, übliche Verhaltensweisen • Diebstahl Einbruch: Gute ziele, mögliche wege in häuser • Survival: Wasser, Nahrung und Unterschlupf in =\> Untergruppen: Wüste, Wald, Steppe, Kälte, Berg • Architektur: Aufbau von Häusern (reginonal), schwachpunkte in mauern und gebäuden erkennen(verstärken, schwächen) • Seefahrt: Strömungen, Schiffs klassen+stärken+schwächen erkennen, Winde günstig erwischen, bedienung höher klassiger Schiffe
-
-Besondere Knowledge: Blutgötter: Stufe 1 bekanntere, Stufe 2 unbekanntere, special Eigener Blutgott
+Des weiteren kann man auch mithilfe von "Mittelchen" lernen, die Einnahme von Intelligenztränken für einen Lernvorgang ist also vollkommen in Ordnung. Man braucht allerdings 2 Tränke statt einen, da eine Downtime zeitlich etwas länger ist. Der Wert der Intelligenztränke wird gemittelt.
 
 ## Lebenshaltungskosten {#Lebenserhaltungskosten}
 

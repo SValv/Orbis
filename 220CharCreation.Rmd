@@ -70,11 +70,11 @@ mit diesen Base-Stats fängt man an:
 #### Rassenfähigkeiten {.unnumbered}
 
 -   Nachtsicht: Elfen können im Dunklen sehen.
--   Geldgeil: Zwerge bekommen bei Intimidation-Proben +3 Instinct wenn es um Geld geht.
+-   Gier nach Reichtum: Zwerge bekommen bei Intimidation-Proben +3 Instinct wenn es um Geld geht.
 -   Kurzsichtig: Die Kurzsichtigkeit von Orks macht es ihnen unmöglich Fernkampfwaffen zu verwenden
--   Thermo-sicht: Goblins sehen die Wärmestruktur von Körpern. Normalerweise ist dies ein riesenhafter Vorteil, da sie sowohl im Dunklen als auch durch Wände Bedrohungen ausmachen können. Manche gefährlichen Monster haben aber keine Wärmesignatur
+-   Thermo-sicht: Goblins sehen die Wärmestruktur von Körpern. Normalerweise ist dies ein riesenhafter Vorteil, da sie sowohl im Dunklen als auch durch Wände Bedrohungen ausmachen können. Manche gefährliche Monster haben aber keine Wärmesignatur
 -   Unverdächtig: Halblinge werden aufgrund ihres unauffälligen Verhaltens und ihrer Erscheinung meistens nicht verdächtigt gesetzeswidrig gehandelt zu haben.
--   Mutation: Die Mutation ist verbunden mit dem <font color="green">[Übergangsritual der Animali](#Mutation)</font> sie übernehmen physiologische Marker des ersten Monsters, das sie erjagt haben. Davon abhängig ob der Charakter ein Jungtier oder bereits mutiert ist steht die mutation noch aus, oder er hat mehrere individuelle Perks und schwächen, die zur erjagten Beute passen. Im Falle eines Jungtiers wird die Mutation noch ausgespielt.
+-   Mutation: Die Mutation ist verbunden mit dem <font color="green">[Übergangsritual der Animali](#Mutation)</font> sie übernehmen physiologische Marker des ersten Monsters, das sie erjagt haben. Davon abhängig ob der Charakter ein Jungtier oder bereits mutiert ist steht die Mutation noch aus, oder er hat mehrere individuelle Perks und schwächen, die zur erjagten Beute passen. Im Falle eines Jungtiers wird die Mutation noch ausgespielt.
 
 ### Level und Skillverbesserungen
 
@@ -164,33 +164,98 @@ Achtung: Gesundheit wird immer in 25er Chunks erhöht.
 | 60-80  |       6        |
 | 80-100 |       8        |
 
-### Wissen-Skills
+## Wissen und Sprachen {#Wissensskills}
 
-Zusätzlich zu den "harten" Eigenschaften gibt es noch sogenannte Wissens-Skills.
-Diese sollten mit der Backstory verknüpft sein und können in diesem Rahmen frei gewählt werden.
-Sie fließen eher als Hintergrund-Eigenschaften mit ein, da sie nicht direkt über Proben irgendeiner Art geprüft werden.
-Wenn der DM irgendwelch Hintergrund-infos hat die jemand mit entsprechendem Wissens-Skill wissen müsste, sollte der Spieler diese Infos auch haben.
-Manchmal - nach Entscheidung des DM - haben Wissens-Skills auch gewisse Boni für feste Werte (bspw beim Pflanzen suchen).
-Gewisse Wissensskills können auch zusammen wirken.
+Die Welt von Orbis Astea ist gekennzeichnet von Komplexität.
+Hierbei haben, so wie in der realen Welt, einzelne Menschen nicht das gesammelte Wissen der Welt.
+Besonders schlaue und erfahrene Charaktere haben natürlich auch den einen weiteren geistigen Horizont um mehr ihrer Umwelt zu verstehen.
 
-Wissens-Skills berechnen sich aus der Intelligenz der Person nach der Character-Creation.
-Bei Intelligenz 10 sind es drei Wissens-Skills, für abweichende Werte wird prozentuell auf oder abgerundet.
+Um bei der Erstellung eines Charakters auch die Fähigkeiten im Bereich "Wissen der Welt" und Sprachen zu berücksichtigen wird diese durch die Startattribute Intelligenz und Instinkt errechnet.
 
-### Sprachen
+Die Anzahl verfügbarer Punkte errechnet sich folgendermaßen:
 
-In Orbis Astea gibt es viele Sprachen.
-Die Menschen haben in jeder Fraktion unterschiedliche Sprachen, wobei die Sprache Eldrias und die des Rechs sehr ähnlich ist.
-Orks sprechen eine sehr einfache Sprache namens Orkisch - das noch Informationsärmer ist als das Gob der Goblins.
-Elfisch ist eine sehr hohe Sprache, die aber nur noch die Waldelfen wirklich sprechen.
-Ahnlich wie die Halblinge - die aber auch ihren eigenen Dialekt haben, der schwer verständlich sein kann wenn sie es wollen - sprechen Stadtelfen meistens die Sprache der Menschen.
+$$Intelligenz \cdot 4 + Instinkt$$
 
-Die Sprachfertigkeit kann von 1-10 gehen.
-10 ist das Niveau eines gebildeten Muttersprachlers, mit 6-7 kann man flüssige Gespräche führen, mit 3 kann man stockende Alltagsgespräche führen und mit 1 kann man nur einzelne Worte austauschen.
+**Beispiel Berechnung der Wissens- und Sprachpunkte:**
 
-Sprachen öffnen viele Türen und Tore und sollten vom DM gerade beim social play beachtet werden.
+Standardmensch: 10 Intelligenz & 10 Instinkt
 
-Jede Rasse hat ihre Startsprache und zusätzlich dazu Sprachpunkte in Höhe von (Intelligenz+Instinct)/4, die einfach auf Sprachen verteilt werden können.
-Dies sollte aber gerade bei guten Kenntnissen in die Backstory eingebaut werden.
+Berechnung der Verfügbaren Punkte: $10 \cdot 4 + 10 = 50$
+
+Folglich hat der Ersteller dieses Charakters 50 Punkte zur Verfügung.
+
+Diese können nun für Wissens- und/oder Sprachenstufen vergeben werden.
+
++--------------------------------------------+----------------+----------------------------------+--------------------------------------------+
+| Niveau/Stufe der Sprache oder des Wissens: | Kosten Punkte: | Wissensniveau                    | Sprachniveau                               |
++:==========================================:+:==============:+:================================:+:==========================================:+
+| Stufe 0                                    | 0              | Kein Wissen im Bereich           | Keine Sprachfähigkeit                      |
++--------------------------------------------+----------------+----------------------------------+--------------------------------------------+
+| Stufe 1                                    | 5              | Grundwissen                      | sehr einfache Gespräche möglich            |
++--------------------------------------------+----------------+----------------------------------+--------------------------------------------+
+| Stufe 2                                    | 15             | Belesen & Erfahren im Fachgebiet | Verständigung umständlich aber vollständig |
++--------------------------------------------+----------------+----------------------------------+--------------------------------------------+
+| Stufe 3                                    | 25             | Ausgewiesener Fachmensch         | Gesetzestext- und Muttersprachenniveau     |
++--------------------------------------------+----------------+----------------------------------+--------------------------------------------+
+
+Diese Werte sind absolute - keine kummulativen Kosten.\
+
++----------------------------------+----------------------------------------------------------------------------------------------------+
+| Auswahloptionen an Wissenskills: | Beschreibung                                                                                       |
++==================================+====================================================================================================+
+| Kriegstaktiken                   | Flankierungmanöver, Guerillakrieg, Sabotage, Formationen im Kampf                                  |
++----------------------------------+----------------------------------------------------------------------------------------------------+
+| Medizin                          | Erkennen und Behandlen von Krankheiten                                                             |
++----------------------------------+----------------------------------------------------------------------------------------------------+
+| Belebte Welt                     | Wissen über die natürliche Tier- und Pflanzenwelt                                                  |
++----------------------------------+----------------------------------------------------------------------------------------------------+
+| Religion                         | Riten, Bräuche, Traditionen etc.                                                                   |
++----------------------------------+----------------------------------------------------------------------------------------------------+
+| Monster                          | Schwächen und Stärken der Monster und Abscheulichkeiten                                            |
++----------------------------------+----------------------------------------------------------------------------------------------------+
+| Geschichte                       | Wissen über wie sich der rote Faden der Ereignisse, vermeintlich durch die Welt zieht              |
++----------------------------------+----------------------------------------------------------------------------------------------------+
+| Etiquette                        | Der soziale Kitt jeder Gesellschaft - Gesten, Bräuche, Traditionen                                 |
++----------------------------------+----------------------------------------------------------------------------------------------------+
+| Landwirtschaft                   | Unterjochung der Natur um dieser Nahrung oder Materialien abzugewinnen                             |
++----------------------------------+----------------------------------------------------------------------------------------------------+
+| Wirtschaft                       | Wissen wer was braucht und wie man soetwas bereitstellt                                            |
++----------------------------------+----------------------------------------------------------------------------------------------------+
+| Recht                            | Hilft dem Spieler den Mächtigen in Orbis Astea (nicht) auf die Füße zu treten.                     |
++----------------------------------+----------------------------------------------------------------------------------------------------+
+| Schwarzmarkt                     | Elfengesichter, Drogen und Sprengmittel bekommt man nur wenn man Jemanden kennt der Jemanden kennt |
++----------------------------------+----------------------------------------------------------------------------------------------------+
+| Seekunde                         | Leben auf dem offenen Meer ist erst möglich wenn man die See kennt                                 |
++----------------------------------+----------------------------------------------------------------------------------------------------+
+| Kartografie                      | Wissen wo was ist und wer wo sein könnte                                                           |
++----------------------------------+----------------------------------------------------------------------------------------------------+
+| Schriftlehre                     | Stufe 1: Lesen/Schreiben möglich                                                                   |
+|                                  |                                                                                                    |
+|                                  | Stufe 2: Lesen komplexer Literatur                                                                 |
+|                                  |                                                                                                    |
+|                                  | Stufe 3: Ermöglicht das Fälschen von Dokumenten                                                    |
++----------------------------------+----------------------------------------------------------------------------------------------------+
+
+| Auswahloptionen Sprachen:                     |
+|-----------------------------------------------|
+| Gob (Sprache der Goblins)                     |
+| Orkisch                                       |
+| Kaiserlich (Kaiserreich, Yondalla und Eldria) |
+| Rahkari                                       |
+| Zwergisch                                     |
+| Elfisch                                       |
+
+**Beispiel mit einem normalen Charakter mit 50 Punkten:**
+
+-   15 Punkte für die Sprache Rahkari auf Stufe 2
+-   15 Punkte für Medizin auf Stufe 2
+-   5 Punkte für Kartographie Stufe 1 der Gebiete der Rahkari Fraktion
+-   15 Punkte für Religionskenntnisse Stufe 2 der Gebiete der Rahkari Fraktion
+
+Wichtig ist es für DMs die Skills mit eigenem Gefühl einzubringen was realistisch ist.
+
+
+Auch nach der Character-Creation kann man seine Wissensskills verbessern. Dies geht über das <font color="green">[sogenannte Studieren](#Studieren)</font>.
 
 ### Kontakte
 

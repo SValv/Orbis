@@ -167,18 +167,30 @@ Sonstige Informationen:
 
 ### Stangenwaffen {#Stangenwaffen}
 
-Stangenwaffen können mit einem Kleinem Schild verwendet werden. Sie sind für das kämpfen in <font color="green">[Formation](#Formation)</font> gedacht und gebaut. Während sie im eigentlichen Kampf gegen Menschen eher unnütz sind, sind sie in <font color="green">[Formation](#Formation)</font>, gegen Große Gegner oder vom Reittier aus absolut tödlich. In einer solchen Situation machen sie doppelt so viel Schaden wie normalerweise. Außerhalb dieser Umstände ist ein Angriff gegen einen Gegner mit Stangenwaffe immer ad Atvantage, während die Verteidigung mit einer Stangenwaffe - egal ob blocken oder ausweichen - at Disatvantage ist.
+Stangenwaffen können mit einem Kleinem Schild verwendet werden. Sie sind für das kämpfen in <font color="green">[Formation](#Formation)</font> gedacht und gebaut. Während sie im eigentlichen Kampf gegen Menschen eher durchschnittlich sind, sind sie in <font color="green">[Formation](#Formation)</font>, gegen große Gegner oder gegen Reittiere absolut tödlich. In einer solchen Situation parieren sie nämlich mit ihrem normalen Schadenswert anstatt mit dem Parierwert und haben einen Schadensbonus von 50%.
+Auch bei angriffen vom Reittier bekommen Stangenwaffen einen Schadensbonus von 50%.
 
 Folgende Stangenwaffen sind verfügbar:
 
 <small>
 
-|   Waffe    |      Schaden       |        Preis        | Gewicht | Armor Penetration | Parierfaktor | Wurfwert |
-|:----------:|:------------------:|:-------------------:|:-------:|:-----------------:|:------------:|:--------:|
-|   Speer    | Standartwert x 0.8 | Standartpreis x 0.8 |  5 kg   |       nein        |     0.1      |   1,2    |
-| Hellebarde |    Standartwert    | Standartpreis x 1.4 |  7 kg   |       nein        |     0.1      |   0,5    |
++------------+--------------------+---------------------+---------+-------------------+--------------+----------+
+| Waffe      | Schaden            | Preis               | Gewicht | Armor Penetration | Parierfaktor | Wurfwert |
++:==========:+:==================:+:===================:+:=======:+:=================:+:============:+:========:+
+| Speer      | Standartwert x 0.8 | Standartpreis x 0.8 | 3 kg    | 10%               | 0,1          | 1,3      |
++------------+--------------------+---------------------+---------+-------------------+--------------+----------+
+| Großspeer/ | Standartwertx 1.1  | Standartpreis x 0.6 | 5 kg    | 30%               | 0,25         | 0,7      |
+|            |                    |                     |         |                   |              |          |
+| Pike       |                    |                     |         |                   |              |          |
++------------+--------------------+---------------------+---------+-------------------+--------------+----------+
+| Hellebarde | Standartwert x 1.3 | Standartpreis x 1.4 | 7 kg    | 25%               | 0,30         | 0,5      |
++------------+--------------------+---------------------+---------+-------------------+--------------+----------+
 
 </small>
+
+Besonderheiten:
+
+-   der kleine Speer ist eine Einhandwaffe und kann somit mit allen Schilden geführt werden
 
 ### Wurfwaffen {#WurfWaffen}
 
@@ -227,6 +239,10 @@ Sonstige Informationen:
 +--------------+-------+---------+-----------------------+-------------------------+
 | Stein        | 0     | 0       | 100%                  | 0                       |
 +--------------+-------+---------+-----------------------+-------------------------+
+
+Alle Wurfwaffen haben einen Wurfwert 2,5.
+
+Wurfwaffen können auch - wie normale Waffen - im Nahkampf verwendet werden. Allerdings sollte das der "letzte Ausweg" sein, da sie normalen Waffen im Nahkampf merklich unterlegen sind und schnell kaputt gehen.
 
 ### Faustwaffen {#Faustwaffen}
 
