@@ -1,26 +1,60 @@
+---
+editor_options: 
+  markdown: 
+    wrap: sentence
+---
+
 # Das Tier-System
 
-Welche Tiere es gibt und was man mit ihnen so machen kann.
-
-Tiere können nicht nur nützlich im Sinne der Lebensmittelproduktion sein, sondern dienen auch als treue Wegbegleiter.
+Tiere stellen nicht nur einen wichtigen Bestandteil des Ökosystems dar, sie können auch für die Charaktere von großem Nutzen sein, da sie nicht nur nützlich im Sinne der Lebensmittelproduktion sein können, sondern auch als treue Wegbegleiter dienen..
 
 Aus diesem Grund gibt es eine Liste an Fähigkeiten, die bestimmte Tiere erlernen können.
 
-
 ## Fähigkeiten
 
-Nicht jedes Tier kann alle Fähigkeiten erlernen. Manche sind nur Flugtieren möglich, während andere nur von großen Tieren ausgeführt werden können. 
+Nicht jedes Tier kann alle Fähigkeiten erlernen.
+Manche sind nur Flugtieren möglich, während andere nur von großen Tieren ausgeführt werden können.
 
+Die Anzahl der erlernbaren Fähigkeiten hängt mit der Intelligenz des Tieres zusammen.
+Pro Intelligenzpunkt ist es möglich einem Tier eine Fähigkeit beizubringen.Ein Hund, der beispielsweise 3 Intelligenz hat, kann somit 3 Fähigkeiten erlernen.
 
-Die Anzahl der erlernbaren Fähigkeiten hängt mit der Intelligenz des Tieres zusammen. 
-Pro Intelligenzpunkt ist es also möglich einem Tier eine Fähigkeit beizubringen.Ein Hund, der beispielsweise 3 Intelligenz hat, kann 3 Fähigkeiten erlernen.
+Je nach Tier können Fähigkeiten der folgenden Tabelle erlernt werden:
 
+|                                |
+|--------------------------------|
+| Angriff                        |
+| Taschendiebstahl               |
+| Ablenkung                      |
+| Alamieren, (Be)Wache           |
+| Botentätigkeiten               |
+| Suchen / Auskundschaften       |
+| Grappeln (bein festhalten /    
+ beißen)                         |
+| Interrupt (gesicht angreifen?) |
+| Fährtenlesen                   |
+| Sprechen (papagei)             |
+| Blocken / schützen             |
+| Flucht                         |
+| Todstellen                     |
+| Gift abmelken                  |
+| persuation                     |
+| Abhören                        |
+| Apportieren                    |
+| Blockieren                     |
+| Gegenstände werfen             |
+| Gift erkennen                  |
+| Graben / Buddeln / Fallen      
+ stellen                         |
+| Einschüchtern                  |
+| Versteck dich!                 |
+| Verfolgung aufnehmen           |
 
+## Training und Taming
 
-## Training und Taming 
+Der Skill des Animal Handlings kommt beim Umgang mit Tieren ins Spiel.
+Ein Tier, welches eine Fähigkeit erlernen oder eine erlernte Fähigkeit ausführen soll, muss zuvor gezähmt werden.
 
-Der skill des Animal Handlings kommt hierbei ins Spiel. Ein Tier, welches eine Fähigkeit erlernen oder eine erlernte Fähigkeit ausführen soll, muss zuvor gezähmt werden.
-Value gewürfelt - Value wurde beim Tier eingetragen --> auf Schwierigkeit des Tieres in der Handhabung schauen und dann ermitteln, wie viele Punkte für Fähigkeiten zur Verfügung stehen. 
+Value gewürfelt - Value wurde beim Tier eingetragen --\> auf Schwierigkeit des Tieres in der Handhabung schauen und dann ermitteln, wie viele Punkte für Fähigkeiten zur Verfügung stehen.
 Schwierigkeit des Tieres fungiert als Divisor - Beispiel: Man würfelt einen Value von 6 und das Tier hat eine Schwierigkeit von 3, so stehen einem drei Fähigkeitspunkte zur Verfügung.
 
 Der Trainingswert steht für die grundsätzliche Lernbereitschaft / Kooperationswillen des Tieres.
@@ -32,25 +66,20 @@ Dieser kann über mehrere Sessions hinweg akkumuliert werden, sollte der Thresho
 
 ### Preis
 
-Aus Downtime Aktivität erworbene Punkte können hier eingetauscht werden gegen Fähigkeiten. 
+Aus Downtime Aktivität erworbene Punkte können hier eingetauscht werden gegen Fähigkeiten.
 Die Punkte, die man erhält, hängen vom Animal Handling Skill ab.
 
-
-
 Es gibt also zwei Schwierigkeitsgrade:
-* Schwierigkeit des Tieres gibt an, wie schnell das Tier etwas lernt
-* Schwierigkeit der zu erlernenden Fähigkeit
 
+-   Schwierigkeit des Tieres gibt an, wie schnell das Tier etwas lernt
 
+-   Schwierigkeit der zu erlernenden Fähigkeit
 
 ## Loyalität
 
-Ausführung der Fähigkeit hängt mit der Loyalität zusammen. Je loyaler ein Tier dem Befehlsgeber ist, desto leichter folgt dieses den Befehlen. 
-
-0 fremdes Tier
-
-
-Maximal 10 treu bis zum Tod. 
+Ausführung der Fähigkeit hängt mit der Loyalität zusammen.
+Je loyaler ein Tier dem Befehlsgeber ist, desto leichter folgt dieses den Befehlen.
+Die Loyalität kann einem Wert von 0 bis 10 entsprechen, wobei 0 für ein fremdes Tier und 10 für Treue bis zum Tod steht.
 
 *Wie bekommst du Loyalität?*
 
@@ -60,6 +89,13 @@ Value, der fürs Ausführen erreicht werden muss - schon erlernt; - Loyalität =
 
 ## Pflege
 
-Braucht es einen Wert, der die Anzahl der Tiere begrenzt, die man maximal bei sich führen kann?
+Die Pflege stellt einen aktiven Part der Tiere in den Sessions dar.
+Sorgt der Spieler auch während der Sessions für Futter, oder beschäftigt sich mit den Tieren, so wird das Tier über die Zeit loyaler.
 
+Dies soll vor allem verhindern, dass Tiere als passives Asset eingesetzt und genutzt werden.
 
+## Maximale Tieranzahl
+
+Da es realistisch sein muss, wie viele Tiere ein Spieler besitzt, wird diese anhand des Intelligenzwertes bemessen und begrenzt.
+
+So kann ein Spieler maximl

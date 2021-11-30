@@ -4,19 +4,13 @@ to do: Grundtrage Kapazität (Faktoren größe und Stärke!)
 
 revive größen abhängig reperatur (1-3 kleine(nebenaktivität)downtimes)
 
-Vecehil skill entscheidungen (downtime und aktiv)
 
-Vecehicel skill schwierigkeitsfakor (größe und tier)
-
-oder alternativ ladungsrückgewinnung mit batterie?
 
 ## Allgemeines
 
 Diese Wunder Mechanischer Handwerkskunst stellen den Zenit der Zwergischen Innovation dar. Sie sind aufgrund ihrer Religösen Ansichten als einziges Volk in der Lage diese teils Tonnenschweren Kollosse zum Leben zu erwecken. Die Konstrukte existieren in allen Formen und Farben und decken jeden nur möglichen Arbeitsbereich ab. So stellen sie zum Beispiel einen der schlagkräftigsten Teile des Rah Akari Heeres dar, werden von Zwergenkarawanen zum Transport von tonnenschweren Waren benutzt und sind gleichzeitig mit schweren Ballisten bestückt. Fast jede Tätigkeit die ein Konstrukt übernimmt könnte genauso gut durch ein Tier, eine schlichte Mechanik oder einfach nur durch eine Person übernommen werden. Doch Konstrukte bieten neben vielen anderen Vorteilen einen bestimmten, bedinungslose Loyalität. Dies macht sie für Personen mit dem richtigen "kleingeld" im Beutel zu attraktiven begleitern.
 
 ## Kontrolle
-
-tattoo, gegenstand, Resonazkreise Wie viele Konstrukte
 
 Kein Konstrukt wird seinen Meister Willentlich hintergehen denn sie sind in ermangelung von eben diesem. Wer einem Konstrukt befehle geben kann wird klar geregelt durch einen so genannten Meisterstein dieser wird zusammen mit dem Konstruktkern erschaffen und erhält dabei ein einmaliges Muster. Dieses Muster steht in Resonanz mit dem Kern, der das gleiche Muster trägt. Die Reichweite dieser Resonanz ist dabei jedoch begrenzt, doch innerhalb dieser Reichweite führt das Konstrukt jeden Befehl aus der vom Besitzer des Meistersteins gegeben wird, dabei muss dieser Befehl nicht laut gesagt werden, ein explizieter Gedanke reicht bereits aus. So wichtig die Reichweite ist, als Meister sollte man sich da nichts so viele Sorgen machen, sollte ein Konstrukt die Reichweite verlassen so durchläuft das Konstrukt die aktuelle Routine fertig / den Befehl anschließend startet das Konstrukt automatisch eine vorher bestimmte "AFK Routine" die "Away From Konstruct Routine". Der Meisterstein trotz seines namens kann vielerlei Form haben, da das Muster erst bei der Erschaffung des Kerns aufgeprägt wird. Mögliche Meistersteine wären so zum Beispiel ein Amulett, Armreif oder tatsächlich ein verzierter Stein oder in seltenen Fällen kann von Meistern ihres Handwerks das Muster sogar auf die Haut als Tattoo aufgetragen werden. Solche Tattoos bringen Vorteile wie Nachteile, so ist es quasi unmöglich die Kontrolle über das Konstrukt zu übertragen im Gegenzug ist es jedoch auch quasi unmöglich den Meisterstein von seinem Besitzer zu entwenden, dies wird also nur von den Misstrauischten genutzt. Zu beachten ist jedoch das die Nutzung von Konstrukten pro Meister limitiert ist denn zu viele Meistersteine unter einem Meister stören sich bei der Resonanz gegenseitig.
 
@@ -64,7 +58,8 @@ und ist quasi noch eine einstigesgebühr in konstrukt system
 
 Konstrukte Modus Operandi: Ein Konstrukt führt den aktuellen Befehl solange aus bis es einen anderen erhält. Durch übermittlungszeit ist es nicht möglich reaktionär zu agieren (als Beispiel schütze mich vor diesem angriff) anders sieht es aus wenn der Befehl vorher schon geäußert wurde
 
-Die erste Möglichkeit einen Befehl zu äußern liegt vor sobald der Spieler Charakter initiative hat Die Aktion des Konstruktes erfolgt zeitlich parallel mit der des Spielers außer der Befehl tritt erst zeit versetzt in kraft Dem Konstrukt steht nur eine Anwendung die Ladungen verbraucht pro Runde zur Verfügung
+Die erste Möglichkeit einen Befehl zu äußern liegt vor sobald der Spieler Charakter initiative hat Die Aktion des Konstruktes erfolgt zeitlich parallel mit der des Spielers außer der Befehl tritt erst zeit versetzt in kraft.
+Dem Konstrukt stehen wie jedem Char zwei Aktionen zur Verfügung eine Anwendung die Ladungen verbraucht pro Runde zur Verfügung
 
 Beispiel Befehle: Im Grunde alle Aktionen die eine Ladung erfordern. Greif diesen Gegner an Beschütze mich / diesen Verbündeten Blockiere diesen Gegner Ansitzen(zielen) auf diese Deckung
 
@@ -219,7 +214,7 @@ Fokus nicht auf schaden sondern auf spezielle Anwendungen Spy Stun Transport (tr
 
 Jeder Stat standartmäßig auf 1 jeder weitere durch Corpus / Addons!
 
-durch Kern gelevelte attribute?? Inst (notwendig für perception??) int
+durch Kern automatisch  gelevelte attribute Inst und int
 
 Durch Gliedmaßen(addons) und corpus Str Agi Phys
 
@@ -330,6 +325,13 @@ Jedoch benötigen diese Reperaturen keine Materialien.
 
 ## Vehicle Skill
 
+Dem Besitzer des Konstrutks ist es möglich kurzzeitig die Kontrolle über ein Konstukt zu übernehmen, dies äußert sich in einer zusätzlichen Aktion für das Konstrukt. Diese Aktion hängt von einem Vehicel Check ab dessen schwierigkeit auf dem Kern und der Größe des Konstrukts basiert, je stärker das Konstrukt desto schwieriger die Kontrolle. Bei Erfolg wird die Main Action des Characters aufgebraucht, bei Misserfolg die Singleaction da weniger Zeit verbraucht wird.
+
+## Batterie in Session Aufladen
+Zum aufladen des Akkus ohne Pausen. Hierfür wird der Essenzsammler verwendet, Eine Ladung entspricht 10 Essenzen, jedoch ist es schwer abzuschätzen wann man die Sammler abziehen muss weshalb es öfter zu ungenauen Abzügen kommt,was im schlimmsten Fall zum Verlust aller gesammelten Seelen im Sammler führen kann. Aufgrund des hohen Preises dieser Anwedung wird diese nur im absoluten Notfall empfohlen.
+
+
+
 ## Wo zu finden und Typische Vertreter
 
 Zwerge
@@ -414,11 +416,9 @@ Konstrukt Kern gibt die Maximalen Stats die ein Konstrukt erreichen kann vor Akk
 
 ### Batterie
 
-Zum aufladen des Akkus ohne Pausen. Hierfür wird der Essenzsammler verwendet, Eine Ladung entspricht 10 Essenzen, jedoch ist es schwer abzuschätzen wann man die Sammler abziehen muss weshalb es öfter zu ungenauen Abzügen kommt,was im schlimmsten Fall zum Verlust aller gesammelten Seelen im Sammler führen kann. Aufgrund des hohen Preises dieser Anwedung wird diese nur im absoluten Notfall empfohlen.
 
 
 
 ### Vehicel Skill
-Dem Besitzer des Konstrutks ist es möglich kurzzeitig die Kontrolle über ein Konstukt zu übernehmen, dies äußert sich in einer zusätzlichen Aktion für das Konstrukt. Diese Aktion hängt von einem Vehicel Check ab dessen schwierigkeit auf dem Corpus und der Größe des Konstrukts basiert, je stärker das Konstrukt desto schwieriger die Kontrolle. Bei Erfolg wird die Main Action des Characters aufgebraucht, bei Misserfolg die Singleaction da weniger Zeit verbraucht wird.
 
 
