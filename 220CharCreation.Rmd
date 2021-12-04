@@ -261,7 +261,7 @@ Auch nach der Character-Creation kann man seine Wissensskills verbessern. Dies g
 
 Kontakte sind ein weiteres Stück der Welt - sozusagen das soziale Kapital des Spielers.
 Sie helfen an Aufträge, Informationen und andere Dinge zu kommen, für die Vitamin B nun mal nützlich ist oder sein könnte.
-Die Punkte, die man für Kontakte vergeben kann berechnen sich aus der Summe: (4xCharisma) + Instinct.
+Die Punkte, die man für Kontakte vergeben kann berechnen sich aus der Summe: $$(4 \cdot Charisma) + Instinct.$$
 
 Diese Punkte können dann auf die Affection, die ein Kontakt gegenüber eines Charakter empfindet, und die Power, also den sozialen Stand und Einfluss, eines Kontaktes verteilt werden.
 
