@@ -112,9 +112,9 @@ Kampfrelevante Informationen:
 +--------------+--------------------+-------------------+--------------+----------+--------------------------------+
 | Streitkolben | Standartwert x 0.7 | 60%               | 0.15         | 0,3      | 30% Betäubungschance           |
 +--------------+--------------------+-------------------+--------------+----------+--------------------------------+
-| Dolch        | Standartwert x 0.4 | 100%              | 0.2          | 0,5      | AP nur wenn Ziel Immobilisiert |
+| Dolch        | Standartwert x 0.5 | 100%              | 0.4          | 0,5      | AP nur wenn Ziel Immobilisiert |
 +--------------+--------------------+-------------------+--------------+----------+--------------------------------+
-| Knüppel      | Standartwert x 0.5 | nein              | 0.15         | 0,3      | 80% Betäubungschance           |
+| Knüppel      | Standartwert x 0.6 | nein              | 0.15         | 0,3      | 80% Betäubungschance           |
 +--------------+--------------------+-------------------+--------------+----------+--------------------------------+
 
 Sonstige Informationen:
@@ -167,8 +167,7 @@ Sonstige Informationen:
 
 ### Stangenwaffen {#Stangenwaffen}
 
-Stangenwaffen können mit einem Kleinem Schild verwendet werden. Sie sind für das kämpfen in <font color="green">[Formation](#Formation)</font> gedacht und gebaut. Während sie im eigentlichen Kampf gegen Menschen eher durchschnittlich sind, sind sie in <font color="green">[Formation](#Formation)</font>, gegen große Gegner oder gegen Reittiere absolut tödlich. In einer solchen Situation parieren sie nämlich mit ihrem normalen Schadenswert anstatt mit dem Parierwert und haben einen Schadensbonus von 50%.
-Auch bei angriffen vom Reittier bekommen Stangenwaffen einen Schadensbonus von 50%.
+Stangenwaffen können mit einem Kleinem Schild verwendet werden. Sie sind für das kämpfen in <font color="green">[Formation](#Formation)</font> gedacht und gebaut. Während sie im eigentlichen Kampf gegen Menschen eher durchschnittlich sind, sind sie in <font color="green">[Formation](#Formation)</font>, gegen große Gegner oder gegen Reittiere absolut tödlich. In einer solchen Situation parieren sie nämlich mit ihrem normalen Schadenswert anstatt mit dem Parierwert und haben einen Schadensbonus von 50%. Auch bei angriffen vom Reittier bekommen Stangenwaffen einen Schadensbonus von 50%.
 
 Folgende Stangenwaffen sind verfügbar:
 
@@ -255,14 +254,15 @@ Hier seht man eine Übersicht über die Faustwaffen:
 +:=============:+:==================:+:===================:+:=======:+:=========================================:+
 | Faust         | 5                  |                     |         | 50% Betäubungschance                      |
 +---------------+--------------------+---------------------+---------+-------------------------------------------+
-| Schlagring    | Standartwert x 0.3 | Standartpreis x 0.4 | 0.2 kg  | 90% versteckbar <br> 75% Betäubungschance |
+| Schlagring    | Standartwert x 0.5 | Standartpreis x 0.4 | 0.2 kg  | 90% versteckbar <br> 75% Betäubungschance |
 +---------------+--------------------+---------------------+---------+-------------------------------------------+
-| Faustmesser   | Standartwert x 0.4 | Standartpreis x 0.8 | 0.5 kg  | 50% versteckbar                           |
+| Faustmesser   | Standartwert x 0.6 | Standartpreis x 0.8 | 0.5 kg  | 50% versteckbar                           |
 +---------------+--------------------+---------------------+---------+-------------------------------------------+
-| Metallkrallen | Standartwert x 0.6 | Standartpreis x 1.3 | 1 kg    | nicht versteckbar                         |
+| Metallkrallen | Standartwert x 0.8 | Standartpreis x 1.3 | 1 kg    | nicht versteckbar                         |
 +---------------+--------------------+---------------------+---------+-------------------------------------------+
 
--   Besonderheiten Faustmesser: Attentat
+-   Schlagring 50% AP
+-   Metallkrallen 30% Parry
 -   Alle Faustwaffen haben einen Wurfwert von 0.1
 
 ## Rüstung {#Rüstung}
