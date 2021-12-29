@@ -831,6 +831,7 @@ bärenfalle-1
 krähenfüße-1
 konstrukte-1
 allgemeines
+erstellung-durch-spieler
 kontrolle
 essenzen
 im-kampf-befehle
@@ -857,7 +858,6 @@ konstruktarten-1
 utility-1
 transport-1
 kampf-1
-ornate-krieger-1
 titan-klasse-konstrukt-1
 bau-1
 aufbau-ingame

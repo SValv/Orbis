@@ -1,7 +1,7 @@
 --- 
 title: "Orbis Astea"
 date: "<center>Version vom: `r format(Sys.Date(),'%d.%m.%Y')`</center>"
-author: "<center>DM-App Version: 3.16</center>"
+author: "<center>DM-App Version: 3.2</center>"
 site: bookdown::bookdown_site
 favicon: "favicon.ico"
 ---
@@ -15,8 +15,10 @@ Der Große Krieg zwischen den Rah Kari und dem Kaiserreich liegt 5 Jahre zurück
 
 Sämtliche Karten in Orbis Astea sind nach Westen ausgerichtet, das bedeutet das der Süden auf der Karte links, der Norden rechts und der Osten unten liegt.
 
+
+
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE, warning = F,message = F)
+knitr::opts_chunk$set(echo = F, warning = F,message = F)
 library(leaflet)
 library(leafem)
 library(readxl)
@@ -36,6 +38,21 @@ dfNatur=dfGesamt %>% filter(Icons=="Wahrzeichen" | Icons == "Natur" | Icons == "
 dfRuins= dfGesamt %>% filter(Icons=="Ruine")
 
 ```
+
+```{css}
+.book .book-body .page-wrapper .page-inner section.normal .leaflet-control-layers-toggle {
+    background-image: url(images/layers.png);
+}
+.book .book-body .page-wrapper .page-inner section.normal .leaflet-bar a, .book .book-body .page-wrapper .page-inner section.normal .leaflet-control-layers-toggle {
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    display: block;
+}
+.book .book-body .page-wrapper .page-inner section.normal .leaflet-bar a, .book .book-body .page-wrapper .page-inner section.normal .leaflet-bar a:hover {
+    background-color: #fff;
+}
+```
+
 
 ```{r PolitPolygons, echo=FALSE}
 colvec=c("red","#CE5500","#9F13A8","#3B2B06","black")
