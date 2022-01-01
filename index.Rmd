@@ -184,7 +184,7 @@ RegionPolygons=SpatialPolygons(inputListRegionen,1:length(inputListRegionen))
 RegionPolygonsData=read_excel("Leaflet/DataRegionInfo.xlsx")
 
 RegionenLabels= sprintf(
-  "<strong>%s</strong><br/>Hauptstadt: %s<br>Herrscher: %s<br>Bevölkerungsdichte: %s pro Km^2",
+  "<strong>%s</strong><br/>Hauptstadt: %s<br>Herrscher: %s<br>Bevölkerungsdichte: %s pro Km<small><sup>2</sup></small>",
   RegionPolygonsData$Name, RegionPolygonsData$Hauptstadt, RegionPolygonsData$Herrscher, RegionPolygonsData$PopulationDensity
 ) %>% lapply(htmltools::HTML)
 
