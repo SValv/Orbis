@@ -3,7 +3,7 @@ title: "Orbis Astea"
 date: "<center>Version vom: `r format(Sys.Date(),'%d.%m.%Y')`</center>"
 author: "<center>DM-App Version: 3.25</center>"
 site: bookdown::bookdown_site
-favicon: "favicon.ico"
+favicon: "team_ECx_icon.ico"
 ---
 
 # (PART) Orbis Astea {-} 
@@ -14,6 +14,7 @@ Wir schreiben das Jahr 426 seit Gründung des Kaiserreichs.
 Der Große Krieg zwischen den Rah Kari und dem Kaiserreich liegt 5 Jahre zurück, seitdem befinden sich die beiden Großen Reiche im Krieg miteinander.
 
 Sämtliche Karten in Orbis Astea sind nach Westen ausgerichtet, das bedeutet das der Süden auf der Karte links, der Norden rechts und der Osten unten liegt.
+
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = F, warning = F,message = F)
