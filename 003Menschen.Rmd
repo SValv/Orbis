@@ -16,12 +16,12 @@ Was man allerdings weiß, ist, dass die Menschen wohl mit eine der älteren Rass
 
 Hier eine Auflistung von reinen Menschenkulturen bzw. Kulturen, in denen Menschen einen hohen Bevölkerungsanteil haben:
 
-* Das <font color="green">[Kaiserreich](#Kaiserreich)</font>
-* Die <font color="green">[Rah Kari](#RahKari)</font>
-* Das <font color="green">[Fürstentümer von Eldria](#EldriaFaction)</font>
-* Die <font color="green">[Skaen](#Skaen)</font>
-* Die <font color="green">[Kultisten des Berma-Tals](#BermaTal)</font>
-* Die <font color="green">[Seekulturen](#Seevolk)</font>
-* Die <font color="green">[Eisenrote Wüste](#EisenroteWueste)</font>
+* Das [Kaiserreich](#Kaiserreich)
+* Die [Rah Kari](#RahKari)
+* Das [Fürstentümer von Eldria](#EldriaFaction)
+* Die [Skaen](#Skaen)
+* Die [Kultisten des Berma-Tals](#BermaTal)
+* Die [Seekulturen](#Seevolk)
+* Die [Eisenrote Wüste](#EisenroteWueste)
 
 

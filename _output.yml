@@ -27,4 +27,4 @@ bookdown::gitbook:
     info: yes
   apple-touch-icon: "Pictures/Team/Team.jpg"
   apple-touch-icon-size: 120
-  favicon: "favicon.ico"
+  favicon: "team_ECx_icon.ico"
