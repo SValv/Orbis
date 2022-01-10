@@ -562,9 +562,9 @@ img[src*="#Profil"] {
 	}
 .book .book-body .page-wrapper .page-inner section.normal .leaflet-popup-content-wrapper,
 .book .book-body .page-wrapper .page-inner section.normal .leaflet-popup-tip {
-	background: #F3EACB;
-  color: #663300;
-  font-family: 'Times New Roman', serif;
+	background: #F3EACB!important;
+  color: #663300!important;
+  font-family: 'Times New Roman', serif!important;
 	box-shadow: 0 3px 14px rgba(0,0,0,0.4);
 	}
 .book .book-body .page-wrapper .page-inner section.normal .leaflet-container a.leaflet-popup-close-button {
