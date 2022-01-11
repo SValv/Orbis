@@ -574,7 +574,7 @@ m <- leaflet(width = w(), height = h()) %>%
   addFullscreenControl(position="bottomright") %>%
   addSearchFeatures(targetGroups=c("Großstädte","Städte","Militär","Sehenswürdigkeiten","Kleine Orte","Ruinen"),
                     options = searchFeaturesOptions( zoom=12, openPopup = TRUE, firstTipSubmit = TRUE, autoCollapse = TRUE, hideMarkerOnCollapse = TRUE)) %>%
-  
+  addDrawToolbar() %>%
   htmlwidgets::onRender("
       function(el, x) {
          var updateLegend = function () {
