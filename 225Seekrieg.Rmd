@@ -110,9 +110,6 @@ Auf größeren schiffen werden sie als Beiboote eingesetzt.
 
 #### Bireme {.unnumbered}
 
-![Modell einer Bireme[^seekrieg-1]](Pictures/Flavor/SchiffeBoote/pngegg_Bireme.png)
-
-[^seekrieg-1]: Diese Abbildung wurde der Seite [pngegg.com](https://www.pngegg.com/en/png-cilpm) entnommen und steht zur nichtkommerziellen Nutzung zur Verfügung.
 
 Eine Bireme ist ein Ruderboot mit zwei Ruderreihen.
 Es ist das kleinste Ruderboot dass wirklich eine Bedeutung hat.
@@ -159,9 +156,7 @@ Die Brigg ist das kleinste hochseefähige Schiff und kommt mit einem bis zwei Ma
 Je nach größe können verschiedene Mengen an Personen und Artillerie aufgenommen werden.
 Wärend auf kleine Briggs nur 1-2 Skorpione passen können auf größere Briggs sogar Katapulte oder Ballisten installiert werden.
 
-![Eine Brigg von der Seite[^seekrieg-4]](Pictures/Flavor/SchiffeBoote/pngegg_Brigg.png)
 
-[^seekrieg-4]: Diese Abbildung wurde der Seite [pngegg.com](https://www.pngegg.com/en/png-bupfc) entnommen und steht zur nichtkommerziellen Nutzung zur Verfügung.
 
 #### Langschiff {.unnumbered}
 
@@ -191,9 +186,7 @@ Die Karavelle ist das mittlere der großen Segelschiffe und ein nicht zu untersc
 Sie ist (obwohl sie an Beschleunigung nicht mit Ruderschiffen mithalten kann) die wahrscheinlich schnellste Schiffsklasse auf dem Meer und wird in Puncto Feuerkraft nur von der Galeone übertroffen.
 Ihr hohes Deck sorgt dafür dass hoher Wellengang und leichte Stürme ihr kaum was anhaben können.
 
-![Eine Karavelle auf Jungferfahrt[^seekrieg-6]](Pictures/Flavor/SchiffeBoote/pngegg_Caravel.png)
 
-[^seekrieg-6]: Diese Abbildung wurde der Seite [pngegg.com](https://www.pngegg.com/en/png-zcatn) entnommen und steht zur nichtkommerziellen Nutzung zur Verfügung.
 
 Bereits 35 Mann reichen aus um eine Karavelle voll Fahr- und Funktionsfähig zu halten, jedoch haben bis zu 140 Passagiere auf der Karavelle Platz.
 

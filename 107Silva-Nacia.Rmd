@@ -57,11 +57,12 @@ Eine der Waldelfen, die ein großes Vorbild für die Silva Nacia ist, ist der Wa
 ## Individuelle Eigenschaften (Umbennen für jew. Rasse)
 
 
-![Eine Vorfahrin, die bereits viel Leiden gesehen hat[^pngegg_AlteElfin]](Pictures\\Flavor\\Elfen\\pngegg_AlteElfin.png)
+![Eine Vorfahrin, die den Hass gegen andere Rasse verinnerlicht hat[^ElfArcherJLazarusEB]](Pictures\\Flavor\\Elfen\\ElfArcher_by_JLazarusEB.jpg)
 
 
 
 
 
 [^ErstwhileskySolaufeinPortrait]: "Solaufein Portrait" von [Erstwhilesky](https://www.deviantart.com/erstwhilesky/gallery). Dieses Portrait steht unter einer Creative Commons Attribution-Noncommercial-Share Alike 3.0 License zur Verfügung.
-[^pngegg_AlteElfin]: Dieses Artwork wurden auf [pngegg.com](https://www.pngegg.com/en/png-yuarq) gefunden und steht zur nichtkommerziellen Nutzung zur Verfügung.
+
+[^ElfArcherJLazarusEB]: "Elf Archer" von [JLazarusEB](https://www.deviantart.com/jlazaruseb/art/Elf-Archer-531525398). Dieses Portrait steht unter einer Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 License zur Verfügung.

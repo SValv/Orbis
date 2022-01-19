@@ -18,9 +18,9 @@ Wie man sieht, passiert es manchmal, dass einem Skill mehrere Attribute zugeordn
 
 ### Die einfache Probe
 
-Die einfache Probe ist zu Würfeln, wenn es keinen direkten Gegenspieler gibt. Sie ist meistens mit einem Threshold in Value[^regeln-1] oder Damage verknüpft, den der DM beliebig festlegt. Sollte man bspw. versuchen ein Schloss zu knacken, wird der DM festlegen, dass der Value über 3 sein soll, um das zu erreichen. Bei härteren/leichteren schlössern ist der Value natürlich anzupassen.
+Die einfache Probe ist zu Würfeln, wenn es keinen direkten Gegenspieler gibt. Sie ist meistens mit einem Threshold in Value[^1] oder Damage verknüpft, den der DM beliebig festlegt. Sollte man bspw. versuchen ein Schloss zu knacken, wird der DM festlegen, dass der Value über 3 sein soll, um das zu erreichen. Bei härteren/leichteren schlössern ist der Value natürlich anzupassen.
 
-[^regeln-1]: Value ist eine Form von Gütekriterium eines Wurfes - je höher der Value, desto besser der Wurf.
+[^1]: Value ist eine Form von Gütekriterium eines Wurfes - je höher der Value, desto besser der Wurf.
 
 Welche Werte hierbei welcher Größenordnung entsprechen findet sich <font color="green">[hier](#Abstufungen)</font>.
 
@@ -302,21 +302,14 @@ Stats und Arten der Artillerie:
 |  Katapult  |   600   |    200m    |     4     | 300 kg  |     4     | verboten |     200      |
 | Trebouchet |  2900   |    350m    |     7     | 600 kg  |    4,7    | verboten |     600      |
 
-+------------+--------------------+--------------------+-----------------+--------+--------------------------------------------------------------------------------+
-| Artillerie | Minimale Besatzung | Maximale Besatzung | Negiert Deckung | Größe  | Zusatz                                                                         |
-+:==========:+:==================:+:==================:+:===============:+:======:+:==============================================================================:+
-| Skorpion   | 1                  | 2                  | --              | Klein  | Aufbau im Kampf: 3 Runden wenn nur 1 Mann Besatzung: Nachladen als Main Action |
-+------------+--------------------+--------------------+-----------------+--------+--------------------------------------------------------------------------------+
-| Balliste   | 2                  | 3                  | Tier 1          | Mittel | Nachladen 1 Runde minimum, 2 Runden, wenn Besatzung \<2                        |
-+------------+--------------------+--------------------+-----------------+--------+--------------------------------------------------------------------------------+
-| Handkanone | 1                  | 1                  | Tier 1          | Klein  | Nachladen 1 Runde                                                              |
-+------------+--------------------+--------------------+-----------------+--------+--------------------------------------------------------------------------------+
-| Großkanone | 2                  | 3                  | Tier 2          | Groß   | Nachladen 1 Runde minimum, 2 Runden, wenn Besatzung \<3                        |
-+------------+--------------------+--------------------+-----------------+--------+--------------------------------------------------------------------------------+
-| Katapult   | 2                  | 3                  | Tier 1          | Mittel | Nachladen 1 Runde minimum, 2 Runden, wenn Besatzung \<3, Area Damage 2m        |
-+------------+--------------------+--------------------+-----------------+--------+--------------------------------------------------------------------------------+
-| Trebouchet | 4                  | 8                  | Tier 2          | Groß   | Nachladen 1 Runde minimum, 2 Runden, wenn Besatzung \<6 , Area Damage 8m       |
-+------------+--------------------+--------------------+-----------------+--------+--------------------------------------------------------------------------------+
+| Artillerie | Minimale Besatzung | Maximale Besatzung | Negiert Deckung | Größe  |                                     Zusatz                                     |
+|:----------:|:------------------:|:------------------:|:---------------:|:------:|:------------------------------------------------------------------------------:|
+|  Skorpion  |         1          |         2          |       --        | Klein  | Aufbau im Kampf: 3 Runden wenn nur 1 Mann Besatzung: Nachladen als Main Action |
+|  Balliste  |         2          |         3          |     Tier 1      | Mittel |            Nachladen 1 Runde minimum, 2 Runden, wenn Besatzung \<2             |
+| Handkanone |         1          |         1          |     Tier 1      | Klein  |                               Nachladen 1 Runde                                |
+| Großkanone |         2          |         3          |     Tier 2      |  Groß  |            Nachladen 1 Runde minimum, 2 Runden, wenn Besatzung \<3             |
+|  Katapult  |         2          |         3          |     Tier 1      | Mittel |    Nachladen 1 Runde minimum, 2 Runden, wenn Besatzung \<3, Area Damage 2m     |
+| Trebouchet |         4          |         8          |     Tier 2      |  Groß  |    Nachladen 1 Runde minimum, 2 Runden, wenn Besatzung \<6 , Area Damage 8m    |
 
 ### Die Schadensverrechnung
 
@@ -417,7 +410,7 @@ Umrechnungskurse:
 | Rah Kari      |    0,5     |        0,01         |     0,25      |      1       |   2    |
 | Thaler        |    0,25    |      kein Kurs      |     0,125     |     0,5      |   1    |
 
-## Einordnung der Größenverhältnisse von Geldbeträgen
+### Einordnung der Größenverhältnisse von Geldbeträgen
 
 Das Einkommen eines durchschnittlichen unqualifizierten Arbeiters beträgt 5.000 Reiks, dieses Einkommen reicht um eine drei Köpfige Familie für einen Monat zu ernähren. Ein Qualifizierter Arbeiter sei es ein Handwerksmeister oder Händler kann in etwa 7.500 Reiks am Ende des Monats erwarten.
 
@@ -490,19 +483,13 @@ Die Aktion "Verbessern" erhöht den Damage-Wert eines Ausrüstungsgegenstandes u
 
 Thresholds und Kosten der Aktion Verbessern:
 
-+------------+--------------+-----------+-----------------+---------------+----------------+
 | Verbessern | Standartwert | Threshold | Kosten Material | Höchster Wert | Kosten Schmied |
-+:==========:+:============:+:=========:+:===============:+:=============:+:==============:+
-| Stufe 1    | 30           | 2         | 1500            | +14           | 6000           |
-+------------+--------------+-----------+-----------------+---------------+----------------+
-| Stufe 2    | 42           | 2,8       | 6750            | +8            | 27000          |
-+------------+--------------+-----------+-----------------+---------------+----------------+
-| Stufe 3    | 48           | 3,8       | 27000           | +6            | 108000         |
-+------------+--------------+-----------+-----------------+---------------+----------------+
-| Stufe 4    | 53           | 4,7       | 90000           | +4            | 360000         |
-+------------+--------------+-----------+-----------------+---------------+----------------+
-| Stufe 5    | --           | --        | --              | --            | --             |
-+------------+--------------+-----------+-----------------+---------------+----------------+
+|:----------:|:------------:|:---------:|:---------------:|:-------------:|:--------------:|
+|  Stufe 1   |      30      |     2     |      1500       |      +14      |      6000      |
+|  Stufe 2   |      42      |    2,8    |      6750       |      +8       |     27000      |
+|  Stufe 3   |      48      |    3,8    |      27000      |      +6       |     108000     |
+|  Stufe 4   |      53      |    4,7    |      90000      |      +4       |     360000     |
+|  Stufe 5   |      --      |    --     |       --        |      --       |       --       |
 
 ### Modifizieren {#modifizieren}
 
@@ -529,6 +516,28 @@ Auch nicht-Waffen können modifiziert/erschaffen werden. Sollte ein Spieler auf 
 -   Haarspangendolch: Dieser nicht kampffähige Dolch verliert drei Zustand und kann nur für Attentate eingesetzt werden - dafür ist die Versteckchance bei 90% und es wird kein Holster zum tragen benötigt. Manchmal ist er auch zum Attentat im Kampf einsetzbar (Entscheidung des DM)
 -   Armbrustwinde: minus 3 Zustand, verringert die Chance die Single Action zu verlieren auf 25%.
 
+## Pause und Rast
+
+Wenn ein Charakter in einem Kampf oder durch andere Aktivitäten entweder Gesundheit oder Ausdauer verliert, ist es möglich, diese Werte bis zu einem bestimmten Punkt mit Hilfe des Pausensystems zu regenerieren. Dieses System umfasst 3 verschiedene Pausen, die verfügbar sind, nämlich:
+
+Kurze Pause: Lange Pause: Downtime:
+
+|    Länge    |                           Dauer                           |
+|:-----------:|:---------------------------------------------------------:|
+| Kurze Pause |                        3-4 Stunden                        |
+| Lange Pause |                        7-8 Stunden                        |
+|  Downtime   | Zeit zwischen 2 Sessions <br>(üblicherweise mehrere Tage) |
+
+Wenn sich Spieler zwischen zwei Sitzungen befinden (Downtime), regenerieren sich ihre Ausdauer und Gesundheit immer bis zu 100%, es sei denn, der Dungeon Master kündigt eine größere Wunde an, die von einem Profi behandelt werden muss oder streicht die Downtime vollständig. Bei kurzen oder langen Pausen ist wichtig zu beachten, dass der Dungeon Master entscheiden kann, wie lange die Pause dauern soll, jedoch sollten die angegebenen Zeiträume als allgemeines Maß für die Dauer der Pausen verwendet werden. Außerdem müssen die spielbaren Charaktere die gesamte Pause ohne anstrengende Aktivitäten oder Unterbrechungen beenden, sonst ist keine Regeneration möglich. Ein weiterer wichtiger Faktor sind die Umstände, in dem sich Spieler ausruhen, diese können schlecht, durchschnittlich oder gut sein. Als schlecht kann man eine Pause auf der Straße bei kaltem Wetter bezeichnen, als mittelmäßig, wenn man in einer Kutsche schläft, die für lange Reisen geeignet ist (Dach, windfeste Wände usw.), und als gut, wenn man in einer Taverne mit einem warmen Raum und einem gut vorbereiteten Zimmer ruht. Der Dungeon Master hat die Verantwortung zu entscheiden, in welchen Umständen sich die Spieler befinden, wenn sie versuchen, das Pausensystem zu nutzen. Die folgende Tabelle zeigt, wie der Zustand durch die Qualität der Pause beeinflusst wird:
+
+| Umstände | Kurz | Lang |
+|:--------:|:----:|:----:|
+| Schlecht | 10%  | 30%  |
+|  Mittel  | 20%  | 40%  |
+|   Gut    | 40%  | 60%  |
+
+Eine weitere Möglichkeit, den Wert einer Pause zu erhöhen, ist sich von einem fähigen Mitglied der Gruppe pflegen zu lassen - indem dieser Nahrung zubereitet und wunden versorgt. Hierzu hat der Spieler die Möglichkeit, einen Survival check durchzuführen. Es ist empfehlenswert, dass nur diejenigen, die tatsächlich in Überlebensexperten sind, dies versuchen, da ein schlechter Wert dazu führen kann, dass die Spieler während der Pause auch Gesundheit und Ausdauer verlieren - indem schlechtes essen serviert wird oder sich die Wunden durch falsche Versorgung infizieren. Der Survival check betrifft alle Spieler einer Gruppe und nicht nur eine einzelne Person.
+
 ## Downtime-Aktivitäten
 
 In der Downtime können Charaktere alles mögliche machen, die Klassiker sind:
@@ -554,25 +563,25 @@ Lernen entweder in Selbststudium, durch Lehrer oder Bücher
 
 *Diverse Verdienstmöglichkeiten diese umfassen zum Beispiel:*
 
-Diebstahl =\> zwei Optionen, hohes Risiko und niedriges Risiko jeweils mit der Basis 500 und 300 x Value mit hohem SD ( hohes Risiko SD=275, niedriges Risiko SD=)
+Diebstahl => zwei Optionen, hohes Risiko und niedriges Risiko jeweils mit der Basis 500 und 300 x Value mit hohem SD ( hohes Risiko SD=275, niedriges Risiko SD=)
 
 , sollte der Wert negativ werden bedeutet dass das der Dieb erwischt wurde und diese Strafzahlungen in Kauf nehmen muss, bei hohen Risiko Jobs besteht zusätzlich die möglichkeit anschließend für die Session Polizei bekannt zu sein.
 
-*Staßenauftritt =\> Basis 200 x Value hohe SD* (SD=65)
+*Staßenauftritt => Basis 200 x Value hohe SD* (SD=65)
 
-Handwerksdienste =\> Qulaifizierte Arbeiter Basis 250 x Value niedrige SD (SD=15)
+Handwerksdienste => Qulaifizierte Arbeiter Basis 250 x Value niedrige SD (SD=15)
 
-*Hilfsarbeiten =\> unqualifizierter Arbeiter Basis 200 x Value niedrige SD* (SD=15)
+*Hilfsarbeiten => unqualifizierter Arbeiter Basis 200 x Value niedrige SD* (SD=15)
 
-Wettkämpfe =\> Faustkämpfe, Armdrücken
+Wettkämpfe => Faustkämpfe, Armdrücken
 
-Würfelspiel =\> Einsatzabhängig Maximal Verlust Einsatz, Maximal Gewinn 2-fach
+Würfelspiel => Einsatzabhängig Maximal Verlust Einsatz, Maximal Gewinn 2-fach
 
 ### Nebenaktiväten umfassen:
 
 -   Einkaufen gehen und besorgungen erledigen
 -   Brauen von Tränken
--   Handwerks aktionen =\> Schmieden, Basteln
+-   Handwerks aktionen => Schmieden, Basteln
 -   Besuch von Tavernen und anderen Etablissments
 
 ### Andere Aktvitäten: \* Sich mit Kontakten und Npcs austauschen
@@ -641,17 +650,12 @@ Jede spezifizierte Downtime wird ein D20 geworfen. Ist der erreichte Wert über 
 
 Wenn man genug addierte Punkte hat kann man seinen Wissensskill nach diesem kummulativen Schlüssel aufwerten:
 
-+--------------------------------------------+----------------+----------------------------------+--------------------------------------------+
-| Niveau/Stufe der Sprache oder des Wissens: | Kosten Punkte: | Wissensniveau                    | Sprachniveau                               |
-+:==========================================:+:==============:+:================================:+:==========================================:+
-| Stufe 0                                    | 0              | Kein Wissen im Bereich           | Keine Sprachfähigkeit                      |
-+--------------------------------------------+----------------+----------------------------------+--------------------------------------------+
-| Stufe 1                                    | 5              | Grundwissen                      | sehr einfache Gespräche möglich            |
-+--------------------------------------------+----------------+----------------------------------+--------------------------------------------+
-| Stufe 2                                    | 10             | Belesen & Erfahren im Fachgebiet | Verständigung umständlich aber vollständig |
-+--------------------------------------------+----------------+----------------------------------+--------------------------------------------+
-| Stufe 3                                    | 10             | Ausgewiesener Fachmensch         | Gesetzestext- und Muttersprachenniveau     |
-+--------------------------------------------+----------------+----------------------------------+--------------------------------------------+
+| Niveau/Stufe der Sprache oder des Wissens: | Kosten Punkte: |          Wissensniveau           |                Sprachniveau                |
+|:------------------------------------------:|:--------------:|:--------------------------------:|:------------------------------------------:|
+|                  Stufe 0                   |       0        |      Kein Wissen im Bereich      |           Keine Sprachfähigkeit            |
+|                  Stufe 1                   |       5        |           Grundwissen            |      sehr einfache Gespräche möglich       |
+|                  Stufe 2                   |       10       | Belesen & Erfahren im Fachgebiet | Verständigung umständlich aber vollständig |
+|                  Stufe 3                   |       10       |     Ausgewiesener Fachmensch     |   Gesetzestext- und Muttersprachenniveau   |
 
 Ein Upgrade von Stufe eins auf Stufe 2 würde also 10 solcher Punkte kosten, während ein Upgrade auf Stufe 1 nur 5 kosten würde.
 

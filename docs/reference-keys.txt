@@ -244,6 +244,7 @@ wirtschaft-im-kaiserreich
 wirtschaft-im-land-der-rahkari
 wirtschaft-in-eldria
 wirtschaft-in-eisland
+wirtschaft-auf-den-skaen
 wirtschaft-der-zwerge
 wirtschaft
 die-lehre-des-allgottes
@@ -743,6 +744,7 @@ modifizieren
 herstellen
 waffenfremde-modifikationenschaffungen
 typische-modifikationen
+pause-und-rast
 downtime-aktivitäten
 hauptaktivitäten-umfassen
 nebenaktiväten-umfassen

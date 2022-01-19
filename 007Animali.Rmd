@@ -83,7 +83,6 @@ Diesen Prozess kann ein Jungtier nur einmal durchlaufen.
 
 Die Stämme der Animali konkurrieren aufgrund ihrer natürlichen Jagdgewohnheiten oft miteinander um die Oberhand, wenn es um Jagdgründe oder Ressourcen geht. Wenn sie jedoch auf ein höheres Problem stoßen oder wenn der Hauptschamane der Animali eine Vereinigung dieser fordert, wird ein gemeinsames Bündniss geschmiedet, um externe Bedrohungen aufzuhalten oder sehr große Beute zu jagen.
 
-![Während sich manche Animali eher auf ihren Körper verlassen greifen die meisten zu passender Ausrüstung[^pngegg_AnimalusBogen]](Pictures/Flavor/Animali/pngegg_AnimalusBogen.png)
 
 
 
@@ -130,4 +129,3 @@ Im letzten Teil des Rituals trinkt der Animalus den Trank und erlangt die Stärk
 [^FritzVicariBalticSea]: "Across the Frozen Baltic Sea, 1227" von [FritzVicari](https://www.deviantart.com/fritzvicari/art/Across-the-Frozen-Baltic-Sea-1227-853125129). Dieses Artwork steht unter einer Creative Commons Attribution-Noncommercial-Share Alike 3.0 License zur verfügung.
 [^EmnkunBearWarrior]: "Bear warrior" von [Emkun](https://www.deviantart.com/emkun/art/Bear-warrior-870124071). Dieses Artwork steht unter einer Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 License zur Verfügung.
 [^Pixaby_Jungtier]: von [pendleburyannette](https://pixabay.com/de/illustrations/kreatur-werwolf-stand-fu%C3%9F-3d-4955810/). Dieses Bild zur freien kommerziellen Nutzung zur Verfügung.
-[^pngegg_AnimalusBogen]: Dieses Artwork stammt von der Seite [pngegg](https://www.pngegg.com/en/png-zatee) und steht für nichtkommerzielle Nutzung zur Verfügung. 
