@@ -90,7 +90,7 @@ Wichtig ist allerdings, dass sowohl Luck als auch Glaube nicht aufgewertet werde
 
 Bei einem Level up bekommt man:
 
--   vier Attributpunkte
+-   drei Attributpunkte
 -   Skillpunkte abhängig von der Intelligenz des Charakters nach folgenden Schema:
 
 | Intelligenz | Skillpunkte |

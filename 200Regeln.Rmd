@@ -228,15 +228,16 @@ Wurfwaffen funktionieren für gewöhnlich genauso. Im Notfall kann man sie als n
 
 ### Called Shots
 
-Manchmal will man einen speziellen Teil des Gegners angreifen. Das nennt man einen Called Shot. Hierbei wird allerdings die Trefferwahrscheinlichkeit - und dadurch der Schaden - stark verringert, je nachdem was man zu treffen plant. Hierbei gibt es fünf Bereiche:
+Manchmal will man einen speziellen Teil des Gegners angreifen. Das nennt man einen Called Shot. Hierbei wird allerdings die Trefferwahrscheinlichkeit - und dadurch der Schaden - stark verringert, je nachdem was man zu treffen plant. Hierbei gibt es vier Bereiche:
 
 -   Kopf - Dies hat die Chance einen Gegner zu betäuben
 -   Torso - Innere Verletzungen nach Entscheidung des DM (empfohlen Luck/Glaube-Roll)
 -   Arme - Dies hat die Chance zu entwaffnen
 -   Beine - Dies hat die Chance einen Gegner umzuwerfen
--   Waffe - Dies hat die Chance zu entwaffnen
 
-Diese Bereiche haben jeweils auch eigene Health-Werte und können nach und nach runtergebracht werden, um die Effekte sicher zu erzielen.
+Diese Bereiche haben jeweils auch eigene Health-Werte und können nach und nach runtergebracht werden, um die Effekte sicher zu erzielen. Wird einem Teil schaden gemacht, sinkt auch die allgemeine Gesundheit eines Zieles.
+
+Es wird empfohlen einen Called Shot nur zu setzen, wenn der Gegner nicht garantiert Blocken, Parieren oder Ausweichen kann.
 
 ### Objekte während des Kampfes
 
@@ -302,14 +303,21 @@ Stats und Arten der Artillerie:
 |  Katapult  |   600   |    200m    |     4     | 300 kg  |     4     | verboten |     200      |
 | Trebouchet |  2900   |    350m    |     7     | 600 kg  |    4,7    | verboten |     600      |
 
-| Artillerie | Minimale Besatzung | Maximale Besatzung | Negiert Deckung | Größe  |                                     Zusatz                                     |
-|:----------:|:------------------:|:------------------:|:---------------:|:------:|:------------------------------------------------------------------------------:|
-|  Skorpion  |         1          |         2          |       --        | Klein  | Aufbau im Kampf: 3 Runden wenn nur 1 Mann Besatzung: Nachladen als Main Action |
-|  Balliste  |         2          |         3          |     Tier 1      | Mittel |            Nachladen 1 Runde minimum, 2 Runden, wenn Besatzung \<2             |
-| Handkanone |         1          |         1          |     Tier 1      | Klein  |                               Nachladen 1 Runde                                |
-| Großkanone |         2          |         3          |     Tier 2      |  Groß  |            Nachladen 1 Runde minimum, 2 Runden, wenn Besatzung \<3             |
-|  Katapult  |         2          |         3          |     Tier 1      | Mittel |    Nachladen 1 Runde minimum, 2 Runden, wenn Besatzung \<3, Area Damage 2m     |
-| Trebouchet |         4          |         8          |     Tier 2      |  Groß  |    Nachladen 1 Runde minimum, 2 Runden, wenn Besatzung \<6 , Area Damage 8m    |
++------------+--------------------+--------------------+-----------------+--------+--------------------------------------------------------------------------------+
+| Artillerie | Minimale Besatzung | Maximale Besatzung | Negiert Deckung | Größe  | Zusatz                                                                         |
++:==========:+:==================:+:==================:+:===============:+:======:+:==============================================================================:+
+| Skorpion   | 1                  | 2                  | --              | Klein  | Aufbau im Kampf: 3 Runden wenn nur 1 Mann Besatzung: Nachladen als Main Action |
++------------+--------------------+--------------------+-----------------+--------+--------------------------------------------------------------------------------+
+| Balliste   | 2                  | 3                  | Tier 1          | Mittel | Nachladen 1 Runde minimum, 2 Runden, wenn Besatzung \<2                        |
++------------+--------------------+--------------------+-----------------+--------+--------------------------------------------------------------------------------+
+| Handkanone | 1                  | 1                  | Tier 1          | Klein  | Nachladen 1 Runde                                                              |
++------------+--------------------+--------------------+-----------------+--------+--------------------------------------------------------------------------------+
+| Großkanone | 2                  | 3                  | Tier 2          | Groß   | Nachladen 1 Runde minimum, 2 Runden, wenn Besatzung \<3                        |
++------------+--------------------+--------------------+-----------------+--------+--------------------------------------------------------------------------------+
+| Katapult   | 2                  | 3                  | Tier 1          | Mittel | Nachladen 1 Runde minimum, 2 Runden, wenn Besatzung \<3, Area Damage 2m        |
++------------+--------------------+--------------------+-----------------+--------+--------------------------------------------------------------------------------+
+| Trebouchet | 4                  | 8                  | Tier 2          | Groß   | Nachladen 1 Runde minimum, 2 Runden, wenn Besatzung \<6 , Area Damage 8m       |
++------------+--------------------+--------------------+-----------------+--------+--------------------------------------------------------------------------------+
 
 ### Die Schadensverrechnung
 
@@ -483,13 +491,19 @@ Die Aktion "Verbessern" erhöht den Damage-Wert eines Ausrüstungsgegenstandes u
 
 Thresholds und Kosten der Aktion Verbessern:
 
++------------+--------------+-----------+-----------------+---------------+----------------+
 | Verbessern | Standartwert | Threshold | Kosten Material | Höchster Wert | Kosten Schmied |
-|:----------:|:------------:|:---------:|:---------------:|:-------------:|:--------------:|
-|  Stufe 1   |      30      |     2     |      1500       |      +14      |      6000      |
-|  Stufe 2   |      42      |    2,8    |      6750       |      +8       |     27000      |
-|  Stufe 3   |      48      |    3,8    |      27000      |      +6       |     108000     |
-|  Stufe 4   |      53      |    4,7    |      90000      |      +4       |     360000     |
-|  Stufe 5   |      --      |    --     |       --        |      --       |       --       |
++:==========:+:============:+:=========:+:===============:+:=============:+:==============:+
+| Stufe 1    | 30           | 2         | 1500            | +14           | 6000           |
++------------+--------------+-----------+-----------------+---------------+----------------+
+| Stufe 2    | 42           | 2,8       | 6750            | +8            | 27000          |
++------------+--------------+-----------+-----------------+---------------+----------------+
+| Stufe 3    | 48           | 3,8       | 27000           | +6            | 108000         |
++------------+--------------+-----------+-----------------+---------------+----------------+
+| Stufe 4    | 53           | 4,7       | 90000           | +4            | 360000         |
++------------+--------------+-----------+-----------------+---------------+----------------+
+| Stufe 5    | --           | --        | --              | --            | --             |
++------------+--------------+-----------+-----------------+---------------+----------------+
 
 ### Modifizieren {#modifizieren}
 
@@ -536,6 +550,8 @@ Wenn sich Spieler zwischen zwei Sitzungen befinden (Downtime), regenerieren sich
 |  Mittel  | 20%  | 40%  |
 |   Gut    | 40%  | 60%  |
 
+Bei den werten handelt es sich um eine Prozentuale Erholung gemessen an den Maximalwerten des Spielers. Beispiel: Eine kurze schlechte Rast stellt 10% der maximale Fehlenden Ausdauer und Leben wieder her. Die Werte werden im Zweifel aufgerundet.
+
 Eine weitere Möglichkeit, den Wert einer Pause zu erhöhen, ist sich von einem fähigen Mitglied der Gruppe pflegen zu lassen - indem dieser Nahrung zubereitet und wunden versorgt. Hierzu hat der Spieler die Möglichkeit, einen Survival check durchzuführen. Es ist empfehlenswert, dass nur diejenigen, die tatsächlich in Überlebensexperten sind, dies versuchen, da ein schlechter Wert dazu führen kann, dass die Spieler während der Pause auch Gesundheit und Ausdauer verlieren - indem schlechtes essen serviert wird oder sich die Wunden durch falsche Versorgung infizieren. Der Survival check betrifft alle Spieler einer Gruppe und nicht nur eine einzelne Person.
 
 ## Downtime-Aktivitäten
@@ -563,25 +579,25 @@ Lernen entweder in Selbststudium, durch Lehrer oder Bücher
 
 *Diverse Verdienstmöglichkeiten diese umfassen zum Beispiel:*
 
-Diebstahl => zwei Optionen, hohes Risiko und niedriges Risiko jeweils mit der Basis 500 und 300 x Value mit hohem SD ( hohes Risiko SD=275, niedriges Risiko SD=)
+Diebstahl =\> zwei Optionen, hohes Risiko und niedriges Risiko jeweils mit der Basis 500 und 300 x Value mit hohem SD ( hohes Risiko SD=275, niedriges Risiko SD=)
 
 , sollte der Wert negativ werden bedeutet dass das der Dieb erwischt wurde und diese Strafzahlungen in Kauf nehmen muss, bei hohen Risiko Jobs besteht zusätzlich die möglichkeit anschließend für die Session Polizei bekannt zu sein.
 
-*Staßenauftritt => Basis 200 x Value hohe SD* (SD=65)
+*Staßenauftritt =\> Basis 200 x Value hohe SD* (SD=65)
 
-Handwerksdienste => Qulaifizierte Arbeiter Basis 250 x Value niedrige SD (SD=15)
+Handwerksdienste =\> Qulaifizierte Arbeiter Basis 250 x Value niedrige SD (SD=15)
 
-*Hilfsarbeiten => unqualifizierter Arbeiter Basis 200 x Value niedrige SD* (SD=15)
+*Hilfsarbeiten =\> unqualifizierter Arbeiter Basis 200 x Value niedrige SD* (SD=15)
 
-Wettkämpfe => Faustkämpfe, Armdrücken
+Wettkämpfe =\> Faustkämpfe, Armdrücken
 
-Würfelspiel => Einsatzabhängig Maximal Verlust Einsatz, Maximal Gewinn 2-fach
+Würfelspiel =\> Einsatzabhängig Maximal Verlust Einsatz, Maximal Gewinn 2-fach
 
 ### Nebenaktiväten umfassen:
 
 -   Einkaufen gehen und besorgungen erledigen
 -   Brauen von Tränken
--   Handwerks aktionen => Schmieden, Basteln
+-   Handwerks aktionen =\> Schmieden, Basteln
 -   Besuch von Tavernen und anderen Etablissments
 
 ### Andere Aktvitäten: \* Sich mit Kontakten und Npcs austauschen
@@ -650,12 +666,17 @@ Jede spezifizierte Downtime wird ein D20 geworfen. Ist der erreichte Wert über 
 
 Wenn man genug addierte Punkte hat kann man seinen Wissensskill nach diesem kummulativen Schlüssel aufwerten:
 
-| Niveau/Stufe der Sprache oder des Wissens: | Kosten Punkte: |          Wissensniveau           |                Sprachniveau                |
-|:------------------------------------------:|:--------------:|:--------------------------------:|:------------------------------------------:|
-|                  Stufe 0                   |       0        |      Kein Wissen im Bereich      |           Keine Sprachfähigkeit            |
-|                  Stufe 1                   |       5        |           Grundwissen            |      sehr einfache Gespräche möglich       |
-|                  Stufe 2                   |       10       | Belesen & Erfahren im Fachgebiet | Verständigung umständlich aber vollständig |
-|                  Stufe 3                   |       10       |     Ausgewiesener Fachmensch     |   Gesetzestext- und Muttersprachenniveau   |
++--------------------------------------------+----------------+----------------------------------+--------------------------------------------+
+| Niveau/Stufe der Sprache oder des Wissens: | Kosten Punkte: | Wissensniveau                    | Sprachniveau                               |
++:==========================================:+:==============:+:================================:+:==========================================:+
+| Stufe 0                                    | 0              | Kein Wissen im Bereich           | Keine Sprachfähigkeit                      |
++--------------------------------------------+----------------+----------------------------------+--------------------------------------------+
+| Stufe 1                                    | 5              | Grundwissen                      | sehr einfache Gespräche möglich            |
++--------------------------------------------+----------------+----------------------------------+--------------------------------------------+
+| Stufe 2                                    | 10             | Belesen & Erfahren im Fachgebiet | Verständigung umständlich aber vollständig |
++--------------------------------------------+----------------+----------------------------------+--------------------------------------------+
+| Stufe 3                                    | 10             | Ausgewiesener Fachmensch         | Gesetzestext- und Muttersprachenniveau     |
++--------------------------------------------+----------------+----------------------------------+--------------------------------------------+
 
 Ein Upgrade von Stufe eins auf Stufe 2 würde also 10 solcher Punkte kosten, während ein Upgrade auf Stufe 1 nur 5 kosten würde.
 
