@@ -1,7 +1,7 @@
 --- 
 title: "Orbis Astea"
 date: "<center>Version vom: `r format(Sys.Date(),'%d.%m.%Y')`</center>"
-author: "<center>DM-App Version: 3.27</center>"
+author: "<center>DM-App Version: 3.272</center>"
 site: bookdown::bookdown_site
 favicon: "team_ECx_icon.ico"
 ---
@@ -25,6 +25,13 @@ library(sp)
 library(dplyr)
 library(leaflet.extras)
 library(htmltools)
+
+
+from <- "DownloadContainer"
+to   <- "docs/DownloadContainer"
+file.copy(list.files(from, full.names = TRUE), 
+          to, 
+          recursive = TRUE)
 
 dfGesamt=read_excel("Leaflet/DataCities.xlsx")
 options(scipen=999)
