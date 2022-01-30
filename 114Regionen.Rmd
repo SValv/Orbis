@@ -1,5 +1,5 @@
-# (PART) Regionen in Orbis Astera {-} 
+# (PART) Regionen in Orbis Astea {-} 
 
 # Übersicht
 
-![Die Regionen von Orbis Astera](Pictures/Maps/OrbisAstea.jpg)
+![Die Regionen von Orbis Astea](Pictures/Maps/OrbisAstea.jpg)

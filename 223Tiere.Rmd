@@ -4,13 +4,13 @@ editor_options:
     wrap: sentence
 ---
 
-# Das Tier-System
+# Tiere als Begleiter
 
 Tiere stellen nicht nur einen wichtigen Bestandteil des Ökosystems dar, sie können auch für die Charaktere von großem Nutzen sein, da sie nicht nur nützlich im Sinne der Lebensmittelproduktion sein können, sondern auch als treue Wegbegleiter dienen..
 
 Aus diesem Grund gibt es eine Liste an Fähigkeiten, die bestimmte Tiere erlernen können.
 
-## Fähigkeiten
+## Erlernbare Fähigkeiten
 
 Nicht jedes Tier kann alle Fähigkeiten erlernen.
 Manche sind nur Flugtieren möglich, während andere nur von großen Tieren ausgeführt werden können.
@@ -20,41 +20,41 @@ Pro Intelligenzpunkt ist es möglich einem Tier eine Fähigkeit beizubringen.Ein
 
 Je nach Tier können Fähigkeiten der folgenden Tabelle erlernt werden:
 
-|                                |
-|--------------------------------|
-| Angriff                        |
-| Taschendiebstahl               |
-| Ablenkung                      |
-| Alamieren, (Be)Wache           |
-| Botentätigkeiten               |
-| Suchen / Auskundschaften       |
-| Grappeln (bein festhalten /    
- beißen)                         |
-| Interrupt (gesicht angreifen?) |
-| Fährtenlesen                   |
-| Sprechen (papagei)             |
-| Blocken / schützen             |
-| Flucht                         |
-| Todstellen                     |
-| Gift abmelken                  |
-| persuation                     |
-| Abhören                        |
-| Apportieren                    |
-| Blockieren                     |
-| Gegenstände werfen             |
-| Gift erkennen                  |
-| Graben / Buddeln / Fallen      
- stellen                         |
-| Einschüchtern                  |
-| Versteck dich!                 |
-| Verfolgung aufnehmen           |
+|           Fähigkeit            | Beschreibung |
+|:------------------------------:|:------------:|
+|            Angriff             |              |
+|        Taschendiebstahl        |              |
+|           Ablenkung            |              |
+|      Alamieren, (Be)Wache      |              |
+|        Botentätigkeiten        |              |
+|    Suchen / Auskundschaften    |              |
+|  Grappeln (bein festhalten /   |              |
+|            beißen)             |              |
+| Interrupt (gesicht angreifen?) |              |
+|          Fährtenlesen          |              |
+|       Sprechen (papagei)       |              |
+|       Blocken / schützen       |              |
+|             Flucht             |              |
+|           Todstellen           |              |
+|         Gift abmelken          |              |
+|           persuation           |              |
+|            Abhören             |              |
+|          Apportieren           |              |
+|           Blockieren           |              |
+|       Gegenstände werfen       |              |
+|         Gift erkennen          |              |
+|   Graben / Buddeln / Fallen    |              |
+|            stellen             |              |
+|         Einschüchtern          |              |
+|         Versteck dich!         |              |
+|      Verfolgung aufnehmen      |              |
 
 ## Training und Taming
 
 Der Skill des Animal Handlings kommt beim Umgang mit Tieren ins Spiel.
 Ein Tier, welches eine Fähigkeit erlernen oder eine erlernte Fähigkeit ausführen soll, muss zuvor gezähmt werden.
 
-Value gewürfelt - Value wurde beim Tier eingetragen --\> auf Schwierigkeit des Tieres in der Handhabung schauen und dann ermitteln, wie viele Punkte für Fähigkeiten zur Verfügung stehen.
+Value gewürfelt - Value wurde beim Tier eingetragen --> auf Schwierigkeit des Tieres in der Handhabung schauen und dann ermitteln, wie viele Punkte für Fähigkeiten zur Verfügung stehen.
 Schwierigkeit des Tieres fungiert als Divisor - Beispiel: Man würfelt einen Value von 6 und das Tier hat eine Schwierigkeit von 3, so stehen einem drei Fähigkeitspunkte zur Verfügung.
 
 Der Trainingswert steht für die grundsätzliche Lernbereitschaft / Kooperationswillen des Tieres.
