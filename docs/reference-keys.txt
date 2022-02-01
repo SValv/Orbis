@@ -85,16 +85,16 @@ titan-klasse-konstrukt
 bau
 die-donnerwächter
 bekannte-zwerge-in-der-oberwelt
-die-halblinge
-die-geschichte-der-rasse-3
+halblinge
+gesellschaft
+religion
+section
 die-gesellschaft-der-rasse-3
 völkerbeziehungen
-die-religion-der-rasse-4
-totenkult-3
 die-legenden-der-rasse-4
 die-eigenbegriffe-der-rasse-4
 individuelle-eigenschaften-der-halblinge
-änderungen
+zeitpunkte
 mischlinge
 Kaiserreich
 GeschichteKaiser
@@ -111,7 +111,7 @@ der-kaiser
 die-allgemeinbevölkerung
 die-ekklesia
 die-inquisiton
-totenkult-4
+totenkult-3
 StadtElfen
 orks-im-kaiserreich
 die-kaiserliche-armee
@@ -162,7 +162,7 @@ militär-der-rah-kari
 die-waffengattungen-der-rah-kari
 besondere-einheiten
 die-religion-der-rah-kari
-totenkult-5
+totenkult-4
 die-legenden-der-rah-kari
 SilvaNacia
 die-geschichte-von-silva-nacia
@@ -174,7 +174,7 @@ herrschaftsystemorganisation-1
 die-beziehungen-von-silva-nacia
 militär-von-silva-nacia
 die-religion-von-silva-nacia
-totenkult-6
+totenkult-5
 die-legenden-von-silva-nacia
 individuelle-eigenschaften-umbennen-für-jew.-rasse-1
 die-orks-vom-grimgrod
@@ -187,7 +187,7 @@ herrschaftsystemorganisation-2
 die-beziehungen-der-fakion
 militär-der-faktion
 die-religion-der-fraktion
-totenkult-7
+totenkult-6
 die-legenden-der-fraktion
 individuelle-eigenschaften-umbennen-für-jew.-rasse-2
 Seevolk
@@ -210,7 +210,7 @@ herrschaftsystemorganisation-3
 die-beziehungen-der-fakion-1
 militär-der-faktion-1
 die-religion-der-fraktion-1
-totenkult-8
+totenkult-7
 die-legenden-des-seevolks
 die-piraten-des-sonnendreiecks
 familie-loka
@@ -229,7 +229,7 @@ herrschaftsystemorganisation-4
 die-beziehungen-der-fraktion
 militär-der-faktion-2
 die-religion-der-fraktion-2
-totenkult-9
+totenkult-8
 die-legenden-der-fraktion-1
 individuelle-eigenschaften-umbennen-für-jew.-rasse-4
 wirtschaft-in-orbis-astea
@@ -278,7 +278,7 @@ glaubenssätze
 gebote-und-verbote
 wichtige-orte
 riten
-totenkult-10
+totenkult-9
 symbolik-1
 die-lehre-des-lichts-von-darcy
 KircheDarcy
@@ -408,7 +408,7 @@ körperschwächen-der-lenden
 körperschwächen-der-innereien
 körperschwächen-der-knochen
 körperschwächen-des-kopfes
-section
+section-1
 übersicht
 das-eisland
 ortschaften-der-region
@@ -698,6 +698,8 @@ die-flora-und-fauna-18
 monster-in-der-region-19
 gerüchte-der-region-18
 sehenswürdigkeiten-19
+die-vorreiter
+das-ende-der-vorreiterkriege
 grundlagen-des-spiels
 checks-und-proben
 die-einfache-probe
@@ -744,6 +746,7 @@ herstellen
 waffenfremde-modifikationenschaffungen
 typische-modifikationen
 pause-und-rast
+reiseoptionen
 downtime-aktivitäten
 hauptaktivitäten-umfassen
 nebenaktiväten-umfassen

@@ -1,30 +1,114 @@
-# Die Halblinge
+# Halblinge
 
-> "Das erste, was mich die Halblinge gefragt haben, als ich stolz eine Großkanone präsentiert habe, ist, ob man sie auch umfunktionieren könnte, um Feuerwerke für verschiedene Feste abzufeuern."
+Als, neben den Goblins, die kleinste humanoide Rasse, besiedeln Halblinge vorwiegend das von den Nachtbergen eingekesselte Tal der Nachtberge. Damit bilden Halblinge und ihre Sippen nicht nur die östliche zivilisierte Grenze der bekannten Welt, sondern auch die vermutlich wenigste kriegerische Rasse.
+
+Die von kaiserlichen Soldaten, denunzierend als „Kinder" bezeichneten Humanoiden, können am besten als zwergwüchsige Menschen beschrieben werden. Ihr Kopf ist im Verhältnis mit Vertretern der Menschen groß. Daraus resultiert allerdings laut Gelehrtenmeinung keinerlei intellektueller Vorteil gegenüber den Menschen. Eine natürliche Eigenheit der Halblinge sind etwas größere Augen, garantierte volle und färbige Haarpracht bis ins hohe Alter, wie auch einen etwas übertriebenen Durst nach Alkohol und Pfeifenwaren.
+
+ 
+
+Halblinge, zum Leidwesen der Bürokraten des Kaiserreichs, sehen unauffällig aus, bewegen sich leichten Fußes und können aufgrund der Ähnlichkeit zu Kindern so manche kaiserliche Kontrolle schon mit bedenklichen Waren überstehen. Dies entspricht einer Art umgekehrten Diskriminierung der Elfen. Obwohl bei der Diskriminierung der Elfen die Gelehrtenmeinungen auseinander gehen, inwieweit diese diabolisch oder hinterlistig sind, ist die derzeit herrschende Meinung über die Halblinge, dass diese weniger Verbrechen begehen und aufrichtigere Bürger des Kaiserreiches sind.
+
+ 
+
+Ihr Alltag bestand vor der Eingliederung des Kaiserreichs als das Protektorat Yondalla um 190 n. Riga, vorwiegend aus Feldarbeit, Scharmützel mit Goblins und Orks, gelegentlichen Abwehren von Überfallen aus Eldria und dem Grenzland sowie dem Feiern, Trinken und den fürstlichen Fressereien.
+
+Bis jetzt ist nicht bekannt, ob Halblinge je an Übergewicht, Arthritis oder Gicht leiden können. Aufgrund der reichen und einfachen Ernten im Gebiet von Yondalla pflegen Halblinge sich eigene Freizeitbeschäftigungen zu suchen. Dies ist insbesondere seit der Eingliederung ins Kaiserreich und den Städten ein interessanter Anblick, da man auf der Straße dadurch zufällig Experten über historische Brücken, Elfendialekte oder der perfekten Mandelqualität für Marzipan trifft. Marzipan wird aus Nüssen aus den Reichen der Rah Kari hergestellt. Hierbei werden Zucker, aus den Zuckerrüben Yondallas, und rahkari'sche Nüsse gemahlen und vermischt.
+
+ 
+
+## Gesellschaft
+
+Wenn man in die kleineren Städte und Dörfer Yondallas kommt, merkt man, im Gegensatz zum Kaiserreich oder Eldria, wie wenig hier auf die Meinung höher Geborener, Vertreter der Ekklesia oder die Befehle aus Yonda, der Haupstadt Yondallas, gegeben wird. Man kann feststellen, dass die Halblinge ihre Entscheidungen meist in Dorfversammlungen diskutieren und beschließen, wo alle über zwei Dutzend Winter ein Stimmrecht besitzen.
+
+Der Ablauf ist hier meist ähnlich. Jeden Neumond, wenn nötig häufiger, treffen sich alle Stimmberechtigten in der Dorfhalle, eine weitere Besonderheit der Halblinge. Dort wird dann mit einer großen Anzahl an Speisen über allfällige Thematiken diskutiert. Seien es der Tausch von Gründen, der Viehverkauf, die meist ablehnende Haltung gegenüber neuen Dekreten aus Yonda und der Preis der verkauften Nahrung. Letzteres ist unheimlich wichtig, da hiermit gegenüber den Ertrags- und Preisschwankungen seitens der Felder und Yondas, eine finanzielle Absicherung besteht. Sind alle Punkte durchgeredet, und diese schriftlich festgehalten, wird dies meist mit mehr Völlerei und viel Alkohol besiegelt. Der nächste Tag gilt den Bewohnern Yondallas als Feiertag, und es ist dabei schwer irgendjemanden dann zu bewegen auch nur einen Schuh für einen Fremden zu reparieren, ohne dafür absurde Aufpreise zu bezahlen.
+
+Dadurch sind die kleineren Dörfer hervorragend organisiert und weisen einen sehr starken Zusammenhalt auf. Dies hilft auch zumindest gegen kleinere Überfälle von Orks im Norden und den Goblins an den Rändern zu den Nachtbergen.
+
+ 
+
+Vor der Eingliederung in die Arme des Kaiserreichs, versuchten die Halblinge die Probleme mit den halblingfressenden Orkstämmen und Goblins über Halblings-Söldnergruppen Herr zu werden. Dabei organisierten sich die Halblinge in den Dörfern, sandte Gesandte in die kleineren Städte von dort in die größeren Städte und so weiter. Daraus resultierte dann ein kohärenter Plan, um Orks und Goblins wieder aus den Gebieten zu jagen. Die Halblinge versuchten dabei ihre körperliche Schwäche gegenüber Orks oder ihre Nachtblindheit gegenüber Goblins mit einer schieren Übermacht anzugreifen. Das führte dazu, dass eine Söldnertruppe wie „die rollende Kompanie" aus rund 3000 Männern bestand, welche gut trainiert dann sehr koordiniert vorzugehen wussten. Dabei wurde Stamm, um Stamm der Orks und Goblins aus den Gebieten vertrieben. Halblinge bezeichnen dieses Vorgehen als „Trotteljagd". Diese Maßnahmen verhindern, dass Orkstämme oder Goblinstämme zu weit in das Herz Yondallas vordringen oder eine relevantere Bedrohung werden können. Dadurch wird rund alle 30 Winter das gesamte Gebiet Yondallas durchkämmt und sämtliche größere Stämme dabei ausgelöscht.
+
+ 
+
+Neben der „rollenden Kompanie" -- der Name kommt nicht von den mannschweren Käserädern welche als Proviant mitgerollt werden -- gibt es zwei weitere Kompanien an Halbling-Söldnern, welche so durch die Lande streichen. Die rollende Kompanie hat ihren Stützpunkt in Alla, der meist nur von Verwaltern und einer Handvoll Wachen besetzt war. Er deckt den Osten Yondallas ab. Ihr Gebiet geht von dem Fluss Grohde bis zur Vohra. Nördlich der Reik ist die Kompanie „die Orkhäuter" und südlich der Reik die „Schamanenkocherkompanie" unterwegs.
+
+ 
+
+Diese Art der Säuberung ermöglicht den Halblingen, insbesondere in den Jahren nach einer Trotteljagd ein absolutes Wonneleben. Diese Jahre sind auch meist sehr kinderreich und legen meist die maximale Ausdehnung eines Dorfes und seiner bewirtschafteten Fläche fest.
+
+ 
+
+Als das Kaiserreich, 60 Jahre nach der „Entdeckung" Yondallas um 190 n. Riga Yondalla „besetzte" änderte sich anfangs für die Halblinge genau nur die Tatsache, dass gelegentlich eine paar dutzend gelangweilter kaiserlicher Soldaten in den Dörfern rumsaßen und fett wurden. Vertreter der Ekklesia, welche im Schlepptau der kaiserlichen Armee herumreisten und die „Wilden Kinder" missionieren wollten lieferten nach kurzer Zeit ein ebenso erbärmliches Bild ab. Die Yondalesen hatten schlicht und ergreifend keine Verwendung für die Lehre des Allgotts. Manche schlossen sich ihr an. Viele ginge nur dann zu den heiligen Treffen, wenn Sie gezwungen wurden oder der Ruhehofbewahrer, der Pater, förmlich darum bettelte oder mit den übergewichtigen Kaiserlichen Soldaten zufällig zu Neumonden anfing zu beten, während die Halblinge ihre Belange weiterdiskutierten.
+
+Das besondere für diese widerstandslose Annexion waren die Zeitpunkte für die Entdeckung und Annexion. Yondalla war natürlich schon weitaus früher den Menschen bekannt und Handel wurde ebenso getrieben, vorwiegend mit Nahrung gegen Waffen. 130 n. Riga wurden offiziell die Handelsbeziehungen mit Vertretern Yondas und anschließend Allas aufgenommen.  Dabei stellte das Kaiserreich erst fest wie umfangreich die Ländereien Yondallas sind als die Brüder Travian und Zulian Lodian in einer bemerkenswerten Erkundungstour Yondalla komplett allein vermaßen und beschrieben und kartografierten. Dadurch wurde dem Kaiserreich bewusst, was in Yondalla zu holen wäre. Es vergingen noch rund 50 Winter an Observationen seitens des Kaiserreichs, bis eine Armee und ein Plan aufgestellt wurde.
+
+Der Einmarsch begann 188 n. Riga und führte entlang der Reik direkt Richtung Yonda und anschließend Alla. Da die Halblinge kaum schlechte Erfahrungen mit Menschen machten und häufig sogar erfreut waren schwer bewaffnete Menschen zu sehen, sofern diese keine eldrischen Wurzeln hatten, verbreiteten sich positive Gerüchte. Es hieß, das Kaiserreich helfe den Kompanien gegen die Orks und Goblins. Das Kaiserreich würde das Blutvergießen durch die Orks beenden und die Toten in den Gräbern halten. Allesamt Arbeiten, welche den Halblingen nicht besondere Freude bereiteten. So „eroberte" das Kaisereich Yonda 189 n. Riga, nachdem die Schneeschmelze zuerst den ganzen Versorgungstross der Kaiserlichen in der Reik ertränkt hat. Daraufhin wurden die Soldaten sogar noch von den Halblingen versorgt und im Kampf gegen die Goblins unterrichtet. Im Frühjahr mit Ende des Winters „fiel" schließlich Alla. Es waren kaum 10.000 Soldaten entsandt worden. Es rechnete auf beiden Seiten niemand mit Widerstand. Die 10.000 Soldaten wurden nach der Widerstandslosen Besetzung in die kleineren Städte und Dörfer aufgeteilt.
+
+Kaiser Justizian, erlangte dadurch kurzfristig eine hohe Beliebtheit beiderseits. Die kaiserlichen Soldaten konnten so nach und nach die Halbling-Söldnertruppen ergänzen und ersetzen. Dabei zeigten die Ergänzung um kaiserliche Soldaten und Waffen eine unheimliche Effektivität gegen Goblins und die Orks, welche sich nicht in die kaiserliche Armee integrieren wollten. Die Söldnerkompanien waren natürlich erfreut ihr Freunde, Brüder und Schwestern nicht halb aufgefressen als Knochentrophäe oder enthauptet an den Eingängen von Goblin Stammeshöhlen zu finden.
+
+ 
+
+Seit der „Eroberung" Yondallas sind 34 Winter vergangen und die Kompanien bestehen nunmehr aus hartgesottenen Kämpfern der Halblinge, welche Aufgrund des Traditionsverlustes ihrer Aufgabe, dem Kaiserreich die Schuld geben es unfair zu unterjochen. 224 n. Riga erlangte eine in eldrischer Kampfeskunst ausgebildete kleine Truppe den Kommandantenstatus der Halblings-Kompanien, welche langsam an Bedeutung verloren. Diese Truppe nannten sich „Sichelrache" und schwor Goblins und Orks ein für alle Mal auszulöschen. Diese rund 8000 Mann starke Vereinigung an Halbling-Söldnern, weckte allerdings den zu diesem Zeitpunkt bereits alten Kaiser Justizian dazu, die Auflösung der Truppe zu fordern, da die kaiserliche Armee alles unter Kontrolle hatte. Dies geschah allerdings nicht da die „Sichelrache" die Aufforderung ignorierte. Anfangs war das der Bevölkerung Yondallas egal, ob kleine oder große Hitzköpfe meinten die Lorbeeren für die Beseitigung von Orks oder Goblins einstreichen zu wollen.
+
+Allerdings entwuchs daraus über die Jahre, in welchen Justizian, bösen Zungen zu Folge, körperlich und geistig nicht mehr regieren hätte sollen, eine Verhärtung der Fronten und es meinte jeder im Zuständigkeitsbereich des anderen zu Wildern. Als es dann 235 n. Riga, neun Jahre nach der Gründung der „Sichelrache", zum Eklat in Alla kam, wobei rund zwei Dutzend kaiserliche Soldaten und nur ein Dutzend Halblinge getötet wurden, wollte das Kaiserreich die Daumenschrauben anlegen und Yondalla zeigen, wer den Ton im Protektorat angibt.
+
+Der neue Kaiser Gadion entsandte daraufhin 236 n. Riga rund 15.000 Soldaten, um die aufmüpfige „Kindertruppe" zu entwaffnen. Dies gelang allerdings nur beschränkt, da die Sichelrache beschloss ihre Truppen aufzuteilen. Daraufhin entbrannte bei den Yondalesen die bekannte „Heuhaufenjagd". Dabei durchkämmten die kaiserlichen Soldaten Dorf um Dorf in Yondalla, nur, um immer wieder mit Gastfreundschaft empfangen zu werden.
+
+Der Ablauf war meist ähnlich: Eine Truppe der Sichelrache marschierte durch ein Dorf, wurde herzlich empfangen, Aß, rastet, trank, drangsalierte und mobbte den ansässigen Priester, inhaftierte die ansässigen kaiserlichen Soldaten, ließ letztere beim Abzug frei und zog daraufhin weiter. Meist rund eine Woche später fanden dann die Jagdkompanie der kaiserlichen das Dorf voll, wurde von den Halblingen vor Ort ebenso versorgt und zog dann mit einer Rüge an die Bewohner, dass diese nicht die Aufständischen versorgen sollten, weiter.
+
+Wenn Truppen aufholten, auf den kurzen Strecken, wo man mit dem Pferd tatsächlich schneller war, wurden die Söldner der Sichelrache gestellt und inhaftiert, um nach Yonda abtransportiert zu werden. Das Problem, je mehr Halblinge das Kaiserreich inhaftierte umso stärker wuchs der Widerstand in der Bevölkerung. Dadurch wurde das Problem nie kleiner, während die Sichelrache die ganze Aktion dazu nutzte in der Bevölkerung Yondallas allseits beliebt zu werden.
+
+Nach mehreren Jahren in denen sich drei Kommandanten der kaiserlichen Armee lächerlich gemacht hatten, beschloss Kaiser Gadion schließlich 239 n. Riga die Aktion für „erfolgreich beendet" zu erklären. Daraufhin hatte die Sichelrache viele Niederlassungen und war wieder beliebter als die „fetten, glatzköpfigen Rüstungsmänner des Kaisers". Das Kaiserreich verstand sich darauf die Orks zu rekrutieren und somit das Problem der Menschenfresser zu lösen, oder zumindest zu minimieren, während die Sichelrache sich um Goblins kümmerte.
+
+Die Situation in Yondalla beruhigte sich daraufhin und es entstand eine blühende Zeit der Kooperationen welche bis zum Ableben Kaiser Gadions 321 n. Riga, der Kaiser welcher fast hundert Jahre regierte, bestand.
+
+Nach dieser Zeit änderte sich allerdings das Verhältnis. Aufgrund des langsamen Niederganges des Kaiserreiches, korrupter Bürokraten und Scharmützel mit Elfen, Rah Kari und eldrischen Fürsten wurden die Forderungen des Kaiserreiches sukzessive höher. Dies ließ zum ersten Mal in Jahrzehnten die Sichelrache wieder an Bedeutung gewinnen. Plötzlich stand die Sichelrache für die Bekämpfung der „Fettleibigkeit des Kaiserreiches, welches seine Felder nicht mehr bestellen kann". Korruption des Kaiserreichs wurde kritisiert und in der „Gleichheitsnovelle" 368 n. Riga schonungslos und akkurat offengelegt und direkt nach Civis Primae geschickt, um mit einem Tross Gesandter aus Yondalla vorzutragen. Die „Gleichheitsnovelle" wurde zwar vom Kaiser zur Kenntnis genommen und es wurde versprochen gegen die Korruption und Faulheit vorzugehen, jedoch geschah nichts. Es wird vermutet, dass das Kaiserreich, welches immer mehr Zeit und Ressourcen in kriegerischen Feldzügen steckte, nicht mehr die Ressourcen hatte, das Problem zu lösen.
+
+Daraufhin kam es zum Aufstand in Yondalla. Insbesondere die Großstädte Yonda und Alla zeigten sich empört und jagten kaiserlichen Bürokraten und unfähige Priester der Ekklesia aus den Dörfern. Dies betraf natürlich nur die korrupten, faulen und alle übergewichtigen.
+
+ 
+
+Weder die Ekklesia, welche das Beseitigen der Toten monopolistisch für sich beanspruchte und andere Formen der Leichenbeseitigung verboten hatte, noch das Kaiserreich waren über diesen Schritt erfreut. Es führte dazu, dass wieder neue kaiserliche Soldaten entsandt wurden. Eine große Charge von 5.000 Soldaten in Yonda und rund 2000 Soldaten in Alla. Diesmal wurde es von den Halblingen allerdings als Affront aufgefasst. Die Yondalesen sahen diese als Aufrechterhaltung eines dummen Systems, wenn nicht gegen die Korruption vorgegangen wird. Dies führte zum Unmut in den Dorfversammlungen. Die Ekklesia reagierte, typisch behäbig auf alles, was nicht nach Ketzerei schrie und wollte den Status Quo erhalten.
+
+Da allerdings die Vertreter des Kaiserreiches wie die Maden im Speck Yondallas lebten, war es äußerst schwer die Vertreter dort weg zu bekommen.
+
+Die Sichelrache nahm schlussendlich die Gerechtigkeit in die eigne Hand, und inhaftierte und selten tötete Vertreter der kaiserlichen Armee oder der Ekklesia. Das führte zur Spaltung der Unterstützung der Sichelrache in der Bevölkerung der Halblinge. Die kaiserlichen Bürokraten gaben die Schuld neben der Sichelrache, der „Verderbtheit" der Bewahrer der Ruhehöfe der Ekklesia. Die Pater wiederrum sahen die Sichelrache und die übergewichtigen Soldaten des Kaiserreiches, welche beschimpft wurden „die Disziplin von Stadtelfen aufzuweisen" als Ursprung der Probleme. Das Kaiserreich versuchte daraufhin die Sichelrache diesmal tatsächlich anzugreifen und erhängte Vertreter welchen Widerstand leisteten. Dies führte zu verbittertem Widerstand der Sichelrache und ein Absteigen in einen Guerillakrieg gegen Kaiserliche Gruppen, welche im krassen Widerspruch zur Autonomie der Dörfer und Städte standen.
+
+Gleichzeitig konnte zwar nicht die gesamte Bevölkerung von den Lehren des Allgotts überzeugt werden, jedoch vertrat, auch aufgrund der Beseitigung der Totenproblematik, rund 30% der Bevölkerung Yondallas die Ansicht, dass die Ekklesia wichtig und richtig sei.
+
+Diese Scharmützel und Streitereien ließen den Orks und Goblins, seit Jahrhunderten in der Bedeutungslosigkeit für die Stabilität Yondallas, Mut fassen und wieder Yondalesen stärker zu drangsalieren.
+
+Die Dörfer westlich des Flusses Odrian wurden ca. ab 380 n. Riga immer wieder von Orks überfallen. Dabei wurde das Dorf Odris mit mehreren hundert Bewohnern von einer koordinierten Attacke von Orks stark in Mitleidenschaft gezogen.
+
+> *„Wir feierten, wie üblich zu Neumond nach der Ratsversammlung und aßen all die Annehmlichkeiten. Wistian, der Dorfvorsteher brachte sogar Marzipan aus Yonda mit und wir tranken, wie es sich für anständige Halblinge gehört, auch ordentlich, und so manch einer der unseren trank vielleicht etwas zu viel. Aber das war nichts besonders. So waren wir, schließlich hatten wir bis mitten in der Nacht die Verträge ausgehandelt und niedergeschrieben. Alle machten sich danach auf, um wieder zurück in ihre Häuser zu kommen, unsere Frauen warten ja mit den Kindern auch nicht gerne ewig. Am nächsten Morgen, die Kinder und die jüngeren waren auf kamen dann die Orks. Am helllichten Tag! Diese Dreistigkeit. Früher zu Zeiten der rollenden Kompanie konnte man allein in der Nacht im Wald liegen und weder Ork noch Goblin war zu sehen oder hören. Sie kamen, es müssen an die 50 Orks gewesen sein. Ich mein, unser Dorf hatte zwar rund 900 Bewohner, aber etwas betrunken, ohne Kampferfahrung und sonstiges war es reines abschlachten von unseren Brüdern und Schwestern. Die kräftigen von uns, dank der Rachesichel hatten zumindest eine gewisse Ausbildung und die Armbrust lag noch unterm Bett von so manchen übervorsichtigen Brüdern. Aber ich schwörs' beim Allgott, keiner hat wirklich mit so Etwas gerechnet. Die Alten erzählten ja nur mehr die Schauergeschichten für die Kinder, dass diese brav und artig sind und zumindest vor dem Dunkelwerden zurück ins Haus kommen. Aber dann standen die da. Schlammbraune Fleischberge, garantiert 2 Meter hoch und jeder stark wie ein Ochse. Sie trugen Schwerter aus Eisen, und Schilder, auf denen sogar noch das Emblem des Kaiserreichs aufgemalt war. Die schlugen die Türen zu unseren Häusern mit den Hämmern ein und die dünneren Orks jagten, die welche durch die Hintertür fliehen wollten. Wir haben da mit unseren kurzen Beinen keine Chance, für das hat der Allgott uns nicht auf die Welt gesetzt. Jeder der sich wehrte und eine Bedrohung darstellte wurde kurzerhand erschlagen oder aufgeschlitzt. Ich konnte meine Familie und die Odsensen bei mir im Keller unter der Falltür unterbringen und mit dem Teppich und dem Tisch sahen Sie uns nicht. Aber Gott, die schreie der Kinder, Frauen und Väter als diese einfach wie Fische an Land erschlagen wurden. Innerhalb weniger Stunden war der Spuck vorbei, die Orks fort. Sie hinterließen keinen der ihren. Die nächsten Tage verließen wir alle das Dorf und versuchten in der nächsten Kleinstadt unterzukommen.*
 >
-> --- Strategoi der fünften Legion Alius Sulla
+> *Das schlimmste war aber nicht, dass die Orks, die unseren abschlachteten wie Vieh, sondern dass weder der Pater noch seine Totenwächter irgendetwas gegen die Orks machten. Und diese verdammten vollgefressenen kaiserlichen Soldaten. Die Orks sperrten Sie einfach in ihre Wachhütte, weil die wie üblich wieder am Fressen und Kartenspielen waren. „Es wird schon nichts passieren", „der Kaiser hat alles unter Kontrolle", „Reg dich ab Kind, es gibt hier keine Orks mehr".  Wenn ich könnte, hätte ich diese faulen Säcke rausgejagt aus unserem Dorf. Aber ich denke, dass weder der Pater noch die kaiserlichen Soldaten wirklich probiert, hätten für uns zu kämpfen.*
+>
+> *Wir kontaktierten die kaiserlichen Vertreter in Yonda und baten um eine Säuberung von Orks. Zwei Wochen passierte nichts. Nicht einmal eine Antwort, kein Vertreter auf Pferd oder zu Fuß. Nichts. Wir kontaktierten die Sichelrache dann nach 3 Wochen. 1 Woche später standen 400 ausgebildete Sichelrache Söldner da. Befragten die Überlebenden, organisierten Ersatz an ‚Nahrung und zerstörten und gestohlenem Gut und machten sich dann 5 Tage nach dem Eintreffen auf. Das hätten Sie sehen müssen, wie diese fetten kaiserlichen Nichtsnutze plötzlich sahen, wie eine Gruppe militärisch organisiert ist. 3 Tage später kam die Truppe, deutlich kleiner, aber mit 3 Säcken voll Orkköpfen zurück. Sie holten den Pater und seine Nichtsnützlinge und gingen wieder hin, begruben und bestatteten die Verstorbenen und kehrten zwei Tage darauf zurück.*
+>
+> *Und wie haben die kaiserlichen in Yonda reagiert? Haben UNSERE Leute inhaftiert, da diese vermeintliche Selbstjustiz übten, den Pater misshandelt, was Schwachsinn ist, und dann „Bürger des Kaiserreichs" angegriffen haben sollen.*
+>
+> *Daraufhin kamen weder neue Wachen der kaiserlichen Armee in unser Dorf, noch ein neuer Pater. Nur die Sichelrache wagte sich nicht mehr westlich des Odrianflusses, und unser Dorf war wieder allein. Genau deshalb hätten wir uns gegen die Annexion wehren sollen. Dieses Kaiserreich ist verfressen und wird an sich selbst zugrunde gehen und ich werde ein Teufel tun, wenn, selbst wenn der Kaiser hier persönlich aufkreuzt."*
+>
+> Bericht eines Halblings über den Orkangriff und dessen Folgen
 
-Die Halbinge von Orbis Astea sind ein eigentümliches Volk, das südlich des Herzlandes in Yondalla lebt. Diese kleinen Geschöpfe sind für ihre charismatischen Züge bekannt, da sie keine Schwierigkeiten haben, sich mit anderen Rassen anzufreunden. Einzige Ausnahme sind die Tiermenschen, denn jeder kultivierte Mensch sollte wissen, dass ein Tiermensch Stärke und einen guten rechten Handschlag mit über die meisten anderen Dinge stellt. Daher sollte es nicht überraschen, dass ein Halbling von der Größe eines Kindes einen schlechten ersten Eindruck hinterlässt. Halblinge haben jedoch keine allzu hohe Lebenserwartung, was dazu führt, dass sie häufig nervös sind und daher auch eine hektische Ausstrahlung haben können.
+ 
 
+Solche Geschichten mit ähnlichem Tenor häuften sich über die Jahre danach und das einst so friedliche Yondalla hatte dann mit solchen Problemen zu kämpfen.
 
+ 
 
-## Die Geschichte der Rasse
+Seit 368. n. Riga erstarkten derartige Konflikte immer wieder. Trotz der 58 Jahre seit der „Gleichheitsnovelle" konnte für dieses Problem keine Lösung mehr gefunden werden, da alle Seiten meinen bereits ihr Möglichstes zu tun und die andere Seite blockiere sie.
 
-Aufgrund der Tatsache, dass Halblinge dazu neigen im Moment zu leben und insgesamt nicht allzu lang auf der Welt verweilen, ist nur sehr wenig über ihre Geschichte bekannt. Erst nachdem die Menschen, um 130 nach der Schlacht von Riga, zum ersten Mal mit ihnen in Kontakt kamen, wurden systematische Aufzeichnungen über sie und ihre Kultur angefertigt. 
-Die einzigen Informationen vor dieser Zeit sind Gerüchte oder Geschichten, die mündlich von Halbling zu Halbling weitergegeben wurden. Wie immer bei Märchen ist es auch hier schwierig, verlässliche Informationen von erfundenen zu trennen. Eine Geschichte, die zumindest von vielen Ältesten Yondallas erzählt wird, ist die Geschichte, wie einige kleine Gruppen von Halblingen versuchten, die Gebiete nördlich von ihnen zu erkunden. Diese wurden jedoch nie wieder gesehen und diejenigen, die es zurückgeschafft haben, erzählten, wie ihre Brüder von den Orks als leckere Zwischenmahlzeit verspeist wurden. Diese Geschichten werden noch heute von Eltern als Schauermärchen an ihre Kinder weitergegeben, besonders, wenn sie sich nicht angemessen verhalten. 
+Heutzutage kann gesagt werden, dass die Stadt Yonda befriedet ist und man nachts weder als Mensch noch als Halbling etwas zu fürchten hat. In Alla sieht es hingegen anders aus, Goblins, Sichelrache, ein kleiner etablierter kaiserlicher Adel, die Fanatiker der Ekklesia und aufschwellende Gangkriminialität destabilisieren die Stadt. Südlich der Reik ist tendenziell mit Plünderungen kaiserlicher Versorgungszüge zu rechnen, nördlich der Reik mit Ork- und Goblinraubzügen und einer schlecht organisierten kaiserlichen Armee, die die Probleme nicht in den Griff bekommt, welche das Vertreiben der Sichelrache mit sich brachte.
 
-Die Landwirtschaft war schon immer ein großer Teil der Kultur der Halblinge, was sich - als der Kontakt mit dem Kaiserreich begann - für alle Beteiligten als sehr vorteilhaft herausgestellte. Da sich das Volk der Halblinge primär auf die Landwirtschaft konzentriert und anderen Bereichen, wie Schmiedekunst und Handwerk, weniger Bedeutung beimisst, kam es in der Vergangenheit weniger zu großartigen Innovationen, da ihnen schlichtweg die Mittel dazu fehlten. Hinzukommt, dass die Halblinge stets auf schnellen Erfolg abzielen, weshalb es nicht in ihrer Natur liegt langfristige Projekte zu beginnen, die einen technologischen Fortschritt hätten begünstigen können. 
-Mit Hilfe der Zusammenarbeit mit dem Kaiserreich wurden die Halblinge mit vielen neuen Technologien bekannt gemacht, die zu einer deutlich effizienteren Ernte führten. Daraus resultierend wurde eine neue Ära für Yondalla eingeleitet, welche auch als die Ära der Landwirtschaft beschrieben wird. 
-In dieser Zeit vereinte <font color="green">[Endeldra](#Endeldra)</font> die Dörfer Yondallas und setzte sich dafür ein, dass viele Ideen und Strukturen des Kaiserreichs eingeführt werden. Somit kam es zu einer Ausweitung der Felder und Dörfer. Darüber hinaus wurde auch die Hauptstadt Endeldor gegründet. 
+ 
+
+## Religion
+
+### 
 
 ![Ein Gemälder der Region Yondallas, wie es in den Häusern der kaiserlichen Adligen zu finden ist](Pictures/Flavor/Platzhalter/FruchtvolleFelder.jpg)
-
-Für die Halblinge schien sich alles optimal zu entwickeln, weshalb sich eine große Erleichterung innerhalb Yondallas ausbreitete. Aufgrund der neu gewonnenen wirtschaftlichen Stärke wurden manche Halblinge dazu motiviert ihr Dorf zu verlassen und ihre Fähigkeiten als Landwirt weiter im inneren des Herzlandes anzubieten. 
-
-
-Diese Idylle sollte den Halblingen jedoch nicht allzu lange vergönnt sein, da sich die Armeen Eldrias dazu entschlossen in Yondalla einzufallen. Ziel dieser Angriffe war es die Nahrungsmittelexporte an das Kaiserreich zu unterbinden. 
-Dieser Krieg, welcher zwischen dem Kaiserreich und Eldria ausgetragen wurde, hielt für lange Zeit an und sorgte dafür, dass der Ertrag Yondallas zunehmend vermindert wurde. 
-Auch, wenn den Halbligen selbst kaum Einbußen durch die Angriffe entstanden, schmerzte sie der Gedanke sehr, ihrem neuen Verbündeten nicht zur Seite stehen zu können, da ihre militärischen Fähigkeiten lediglich zum Jagen wirklich ausreichten. 
 
 ![Ein Versuch der Halblinge sich gegen die eldrischen Eindringlinge zu schützen](Pictures/Flavor/Platzhalter/HalblingKriegEldria.jpg)
 
@@ -32,16 +116,7 @@ Dennoch wurden einige Dörfer Yondallas von den Folgen des Krieges getroffen, da
 
 ![Halblinge, die nach der Invasion von Eldria gezwungen waren, ihr Land zu verlassen](Pictures/Flavor/Platzhalter/HalblingFlucht.jpg)
 
-Die Halblinge waren für die Zusammenarbeit mit dem Kaiserreich äußerst dankbar, da ihnen viele Neuerungen gebracht wurden. Diese Dankbarkeit drückte das Volk nicht nur durch Tauschgüter aus. Auch die Integration der kaiserlichen Gepflogenheiten in den eigenen Alltag war ein Zeichen der Anerkennung. 
-Aus diesem Grund fingen die Halblinge an den kaiserlichen Allgott anzubeten und vernachlässigten somit ihren Gott der Fruchtbarkeit. Diese Anpassung missfiel vielen Halblingen, da sie weiterhin für ihre Fruchtbarkeit danken und beten wollten. 
-Dieser Wunsch rührt daher, dass Halblinge aufgrund ihrer, vergleichsweise, kurzen Lebenserwartung viele Kinder bekamen, sodass die Felder anständig bestellt werden konnten und die Familien über ausreichend Güter verfügten, um große Feste feiern zu können. 
-Im Verlauf der Zeit blieben jedoch zunehmend die Erträge aus und viele Felder begannen brach zu liegen.
-
 ![Gemälde: Die große Dürre von Berengar Roper](Pictures/Flavor/Platzhalter/BrachliegendesFeld.jpg)
-
-Dieser Umstand überraschte die Halblinge sehr, da es bisher nie dazu kam, dass so viele Felder auf einmal nicht mehr bewirtschaftet werden konnten. 
-In einer kurzen Zusammenkunft beschlossen der Vertreter des Kaiserreichs, sowie die Ältesten der Dörfer Yondallas vorübergehend auf die Technologien der Halblinge zurückzugreifen, da angenommen wurde, dass es sich hierbei lediglich um eine Folge der neuen Technologien handele. Es schien naheliegend zu sein, dass sich im Umgang mit den neuen Technologien allgemein verschiedene Anpassungen in der Landwirtschaft ergeben müssten, dass der Prozess optimal verlaufen könnte. 
-Die erhofften Anpassungen blieben jedoch aus, sodass mehr und mehr skeptische Stimmen der Halblinge laut wurden, welche anmerkten, dass dies mit dem Verbot zusammenhängt ihren Gott der Fruchtbarkeit, Celedor, anzubeten. 
 
 ## Die Gesellschaft der Rasse
 
@@ -51,62 +126,48 @@ Die Bewohner Yondallas neigen dazu, sich in kleinen Dörfern niederzulassen, da 
 
 In den kleineren Dörfern von Yondalla ist es üblich, dass das Volk einen Vertreter wählt. Dieser wird "Ältester" genannt und ist für die Kommunikation und den Handel zwischen seinem Dorf und anderen Dörfern, bzw. der Hauptstadt Endeldor, zuständig. Außerdem koordiniert er eine kleine Bürgerwehr zur Verteidigung und deren Kooperation mit den kaiserlichen Truppen.
 
-
 Obwohl es in der Natur der Hablinge liegt, charismatische Züge und im Allgemeinen ein fröhliches Wesen zu zeigen, ist dies nicht bei allen in Yondalla der Fall. Manche Halblinge haben es auf sich genommen, das Land von Orbis Astea zu erkunden oder ihr Land vor Monstern und anderen bösen Kreaturen zu schützen. Diese Halblinge sind unter ihren Brüdern als "Griesgrämige" bekannt, da sich ihre Prioritäten von der sorglosen Standard-Kultur deutlich unterscheiden.
-
-![Darstellung griesgrämiger Halblinge](Pictures/Flavor/Platzhalter/GriesgraemigeHalblinge.jpg)
-
-
 
 ### Völkerbeziehungen
 
-Aufgrund der geographischen Lage von Yondalla waren die Halblinge nur sehr selten in irgendeine Art von Kriegsführung verwickelt. Dies liegt vor allem daran, dass nur zwei andere Rassen direkten geographischen Kontakt mit Yondalla haben - das Kaiserreich im Norden und einige Goblinstämme im Westen. Obwohl die Halblinge zunächst schlecht gegen die Goblinstämme ankamen, dauerte es nicht lange, bis sie erkannten, dass sie mit etwas charismatischen Witz die Spannung zwischen den beiden Rassen lockern konnten. Auch wenn Goblins als Geschöpfe bekannt sind, die nicht gut mit anderen fühlenden Wesen zurechtkommen, ist es den Halblingen gelungen fast hundert Jahre lang jährlich eine Feier zu veranstalten, um ihre Wertschätzung für das andere kleine Volk Aesteas zu zeigen. 
+Aufgrund der geographischen Lage von Yondalla waren die Halblinge nur sehr selten in irgendeine Art von Kriegsführung verwickelt. Dies liegt vor allem daran, dass nur zwei andere Rassen direkten geographischen Kontakt mit Yondalla haben - das Kaiserreich im Norden und einige Goblinstämme im Westen. Obwohl die Halblinge zunächst schlecht gegen die Goblinstämme ankamen, dauerte es nicht lange, bis sie erkannten, dass sie mit etwas charismatischen Witz die Spannung zwischen den beiden Rassen lockern konnten. Auch wenn Goblins als Geschöpfe bekannt sind, die nicht gut mit anderen fühlenden Wesen zurechtkommen, ist es den Halblingen gelungen fast hundert Jahre lang jährlich eine Feier zu veranstalten, um ihre Wertschätzung für das andere kleine Volk Aesteas zu zeigen.
 
-Das Kaiserreich fungiert seit Beginn des Handels zwischen den beiden Gruppen als der große Bruder von Yondalla. Als Zeichen der Anerkennung für den Schutz, den die Soldaten des Herzlandes den Halblingen von Yondalla vor wilden Kreaturen und anderen Bedrohungen gewährt haben, fand ein Handel mit feinsten Gewürzen und Kräutern statt, die direkt im Herzen von "Endeldor" angebaut wurden. Diese Zutaten werden von den Adligen, von Civis Primae und anderen großen Haushalten in den umliegenden Regionen gern konsumiert und sind bei anderen Rassen als wahrer Genuss bekannt, außerhalb des Herzlandes und Yondalla sind sie aber nur selten zu finden. 
+Das Kaiserreich fungiert seit Beginn des Handels zwischen den beiden Gruppen als der große Bruder von Yondalla. Als Zeichen der Anerkennung für den Schutz, den die Soldaten des Herzlandes den Halblingen von Yondalla vor wilden Kreaturen und anderen Bedrohungen gewährt haben, fand ein Handel mit feinsten Gewürzen und Kräutern statt, die direkt im Herzen von "Endeldor" angebaut wurden. Diese Zutaten werden von den Adligen, von Civis Primae und anderen großen Haushalten in den umliegenden Regionen gern konsumiert und sind bei anderen Rassen als wahrer Genuss bekannt, außerhalb des Herzlandes und Yondalla sind sie aber nur selten zu finden.
 
-Obwohl Halblinge als die fröhliche Rasse in Orbis Astea angesehen werden, gibt es die Griesgrämigen, die dafür sorgen, dass es auch bei den Halblingen Charaktere gibt, die einiges erleben. Dadurch, dass die Griesgrämigen nicht die unschuldigen Freuden des Lebens suchen, haben sie die Möglichkeit, das allgemeine Vertrauen, das viele andere Rassen in sie setzen, zu missbrauchen. Manche sehen dies als Chance und heuern sie für spezifische Aufgaben wie Infiltration oder Überzeugungsarbeit bei anderen Adelsfamilien oder Unternehmen an. 
+Obwohl Halblinge als die fröhliche Rasse in Orbis Astea angesehen werden, gibt es die Griesgrämigen, die dafür sorgen, dass es auch bei den Halblingen Charaktere gibt, die einiges erleben. Dadurch, dass die Griesgrämigen nicht die unschuldigen Freuden des Lebens suchen, haben sie die Möglichkeit, das allgemeine Vertrauen, das viele andere Rassen in sie setzen, zu missbrauchen. Manche sehen dies als Chance und heuern sie für spezifische Aufgaben wie Infiltration oder Überzeugungsarbeit bei anderen Adelsfamilien oder Unternehmen an.
 
-Aufgrund der Tatsache, dass Halblinge oft nicht verdächtig erscheinen, haben sich viele der Griesgrämigen in die Reihen des kaiserlichen Geheimdienstes und der Spione des Kaiserreiches eingereiht. Diese Halblinge haben das Kaiserreich schon häufig auf bedeutsame Weise zu unterstützt. Sie trugen beispielsweise dazu bei, die Armeen Eldrias davon zu überzeugen, dass die Hauptstreitmacht ihrer Feinde auf Austen marschierte. Durch diesen Akt der Überzeugungsarbeit verlor Eldria den Krieg, was auch dazu führte, dass manche eldrische Adelige Halblingen nicht besonders wohlgesonnen sind.  
-
-## Die Religion der Rasse
-
-Da die Halblinge ihren Fokus auf das Feiern und die Landwirtschaft legen... Gott der Fruchtbarkeit
-
-### Totenkult
-
-Aufgrund der langen Lebensdauer und der geringen Anzahl von Kämpfen, an denen das Rennen teilnimmt, ist es sehr ungewöhnlich, dass in Yondalla eine große Zahl von Halblinge gleichzeitig sterben. Für die Halblinge, die zufällig sterben, findet jedoch ein großes Fest statt, bei dem sich das ganze Dorf versammelt, um das lange Leben ihres verstorbenen Freundes zu feiern. Die Leichen werden in einem riesigen Feuer in Brand gesteckt, um das die Halblinge herumtanzen und ihre traditionellen Lieder singen. Somit ist der Tod eines Halblings für sein Dorf kein Grund zum Trauern, sondern wird als Anlass zum Feiern seines Lebens gesehen. 
+Aufgrund der Tatsache, dass Halblinge oft nicht verdächtig erscheinen, haben sich viele der Griesgrämigen in die Reihen des kaiserlichen Geheimdienstes und der Spione des Kaiserreiches eingereiht. Diese Halblinge haben das Kaiserreich schon häufig auf bedeutsame Weise zu unterstützt. Sie trugen beispielsweise dazu bei, die Armeen Eldrias davon zu überzeugen, dass die Hauptstreitmacht ihrer Feinde auf Austen marschierte. Durch diesen Akt der Überzeugungsarbeit verlor Eldria den Krieg, was auch dazu führte, dass manche eldrische Adelige Halblingen nicht besonders wohlgesonnen sind.
 
 ## Die Legenden der Rasse
 
-Endeldra war der Gründer von Endeldor und derjenige, der die anfängliche freundschaftliche Kommunikation mit dem Kaiserreich übernahm. Außerdem war er derjenige, der die meisten Dörfer von Yondalla vereinte. In Endeldor benutzen die Leute das Wort Endel, um "text"
-
-
+Endeldra war der Gründer von "Endeldor", dem Vorläufer Yondallas, und derjenige, der die anfängliche freundschaftliche Kommunikation mit dem Kaiserreich übernahm. Außerdem war er derjenige, der die meisten Dörfer von Yondalla vereinte.
 
 ## Die Eigenbegriffe der Rasse
 
-**ironvale**: Dorfvertreter
+**Ironvale**: Dorfvertreter, welche in die Städte entsandt werden um größere Dinge zu besprechen. Dienen als Repräsentanten.
 
 **Bror**: Übersetzt bedeutet dieses Wort großer Bruder, denn die menschliche Rasse weist viele physische Ähnlichkeiten mit den Halblingen auf, abgesehen von der größe. Aufgrund der Tatsache, dass das Kaiserreich sie vor den meisten Feinden beschützt hat, haben viele Halblinge begonnen, Menschen als ihre großen Brüder zu bezeichnen, um so ihre Wertschätzung für ihre Nachbarn zu zeigen.
 
-**Endel**: word for cheers, which Haflings use to show appreciation for Endeldra
-
-**Griesgrämig**: Haflings that have chosen an alternative and more aggressive lifestyle, such as fighting monsters or other races. 
+**Griesgrämige**: Halblinge, welche einen aggressiveren Lebenstil pflegen. Sie dienen in Söldnerkompanien, verdingen sich als bedienstete der kaiserlichen Armee, oder reisen durch die Welt um schlussendlich Abenteuergeschichten zu erzählen.
 
 ## Individuelle Eigenschaften der Halblinge
 
-Unsuspected: Aufgrund ihres unschuldigen und charismatischen Charakters und ihrer geringen Größe werden sie sehr oft von den meisten Menschen beaufsichtigt. Dies kann dazu benutzt werden, um andere zu beschleichen oder davon zu überzeugen, dass sie nichts Böses getan haben.
+Unaufällig: Aufgrund ihres unschuldigen und charismatischen Charakters und ihrer geringen Größe werden sie sehr oft von den meisten Menschen nicht verdächtigt. Dies kann dazu benutzt werden, um anderen unaufällig, deren Leben zu sabotieren, oder schlicht und ergreifend durch die Stadt zu folgen, ohne dass es auffällt.
 
+### Zeitpunkte:
 
-## Änderungen: 
+Entdeckung Yondallas: 130 n. Riga
 
-* Schnelllebig, hektisch
-* leben auf pump, alles auf kurzfristigen Erfolg ausgelegt
-* demokratische leader alle 1 jahre neuwahl machen viel kurzfristigen scheiß
-* Boden wird ausgebeutet, sodass es zu unfruchtbarem Boden kommt und hier nicht mehr gepflanzt werden kann
-* Nervös, weil wirklich kurzlebig --> schneller Stoffwechsel (work hard & play hard)
-* Gott der Fruchtbarkeit
-* Halblinge auch durch Glauben an den Gott der Fruchtbarkeit so hohe Geburtenrate, Verbot durch Kaiserreich führt zu Rückgang der Geburtenrate und zu unfruchtbaren Feldern --> Daher wurde der Gott der Fruchtbarkeit als Heiligen in den Glauben des Allgotts aufgenommen 
-* Felder schneller brach, da zum einen neue Technologien den Ertrag erhöhen konnten und zum anderen der Glaube an ihren Gott untersagt wurde, der ihnen die ertragreichen Ernten bescherte.
+130 -- 180 Planung des Kaissreichs der Besetzung Yondallas
 
-* Planting Kalender Hintergrund Pergament ändern
+Eroberung Yonda 188 n. R.
 
+Eroberung Alla 189 n. Riga.
+
+Annexion und Einstufung als Protektorat des Kaiserreichs 190. n. Riga   unter Kaiser Justizian
+
+224 n. Riga:  Gründung Sichelrache (Söldnergruppe 8.000 Mann)
+
+Kaiser Justizian:  148 n. Riga\* -- 227 n. Riga +
+
+Kaiser Gadion: 209 n. Riga\* - 321 n. Riga +

@@ -25,6 +25,7 @@ library(sp)
 library(dplyr)
 library(leaflet.extras)
 library(htmltools)
+library(tidyverse)
 
 
 from <- "DownloadContainer"

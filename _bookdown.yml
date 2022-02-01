@@ -59,6 +59,8 @@ rmd_files: ["index.Rmd",
   "153GraueOednis.Rmd",
   "154EndederWelt.Rmd",
 
+  "190Vorlaufer.Rmd",
+
   "200Regeln.Rmd",
   "220CharCreation.Rmd",
   "222Items.Rmd",
