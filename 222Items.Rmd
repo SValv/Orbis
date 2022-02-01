@@ -283,7 +283,7 @@ Diese Tabelle zeigt Werte für die einzelnen Rüstungsteile:
 |:-------:|:--------:|:---------:|:-------:|:-------------------:|:-------------------:|
 | Leicht  |  1 min   |   1 min   | 1.2 kg  | Standartwert x 0.2  | 0.4 x Standartpreis |
 | Mittel  |  5 min   |   1min    |  3 kg   | Standartwert x 0.35 | 0.6 x Standartpreis |
-| Schwer  |  10 min  |   5 min   |  6 kg   | Standartwert x 0.5  | 0.8 x Standartpreis |
+| Schwer  |  10 min  |   5 min   |  5 kg   | Standartwert x 0.5  | 0.8 x Standartpreis |
 
 Achtung: das an- und ausziehen bezieht sich auf eine vollständige Leichte/Mittlere/Schwere Rüstung.
 
