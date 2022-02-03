@@ -15,8 +15,7 @@ bookdown::gitbook:
       position: fixed
     edit : null
     download: [["DownloadContainer/CCrand.xlsx", "Character-Creation Sheet"],
-              ["DownloadContainer/OrbisDMApp.exe", "DM-App"],
-              ["DownloadContainer/OrbisGame.zip", "Game-Folder"],
+              ["DownloadContainer/OrbisGame.zip", "The Game"],
               ["DownloadContainer/RulebookDnD.pdf", "DnD Rulebook"]]
     fontsettings:
       theme: sepia
