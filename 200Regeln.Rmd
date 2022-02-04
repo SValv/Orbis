@@ -558,19 +558,30 @@ Eine weitere Möglichkeit, den Wert einer Pause zu erhöhen, ist sich von einem 
 
 Der reisenden Spielergruppe in der Downtime stehen stehts 2 Entscheidungsmöglichkeiten für ihre Reise offen. Zum einen die Überlandroute die durch kleine Dörfer und Natur führt und die Stadtroute entlang Hauptstraßen und durch ummauerte Städte mit Märkten. Beide Optionen haben vor und Nachteile, also sollte sich die Gruppe kurz überlegen welche Option sie vorzieht.
 
-+----------------------------+------------------------------------------------------------------+------------------------------------------------------------------------------------------------------+
-|                            | Überland / Dorf                                                  | Hauptstraße / Stadt                                                                                  |
-+============================+==================================================================+======================================================================================================+
-| Versorgung / Unterbringung | Camping, gegessen wird was gejagt und gesammelt wird             | Neben Zöllen fallen auch kosten für Herbergen und Essen an in Höhe von 350 Reiks                     |
-+----------------------------+------------------------------------------------------------------+------------------------------------------------------------------------------------------------------+
-| Markt                      | kleiner Dorfmarkt mit wenig Auswahl aber reichlich Blumenmädchen | Großer Markt mit exotischen Waren von Tierhändern zu Zwergischenkonstrukten ist hier alles zu finden |
-+----------------------------+------------------------------------------------------------------+------------------------------------------------------------------------------------------------------+
-| Schmiede                   | Ein Schmied zufälliger Qualität                                  | Drei verschiedene Schmiede zur Auswahl                                                               |
-+----------------------------+------------------------------------------------------------------+------------------------------------------------------------------------------------------------------+
-| Pflanzen                   | Reichlich                                                        | wenig und begrenzt auf Stadtauswahl                                                                  |
-+----------------------------+------------------------------------------------------------------+------------------------------------------------------------------------------------------------------+
-| Jobs                       | normal möglich                                                   | normal möglich                                                                                       |
-+----------------------------+------------------------------------------------------------------+------------------------------------------------------------------------------------------------------+
++----------------------------+------------------------------------------------------+----------------------------------------------------------------------------------+
+|                            | Überland / Dorf                                      | Hauptstraße / Stadt                                                              |
++============================+======================================================+==================================================================================+
+| Versorgung / Unterbringung | Camping, gegessen wird was gejagt und gesammelt wird | Neben Zöllen fallen auch kosten für Herbergen und Essen an in Höhe von 350 Reiks |
++----------------------------+------------------------------------------------------+----------------------------------------------------------------------------------+
+| Markt                      | kleiner Dorfmarkt\                                   | Großer Markt mit exotische Waren\                                                |
+|                            | Waffen T1, Material T2\                              | Waffen T2, Material T3\                                                          |
+|                            | viele Blumenmädchen                                  | Tiermarkt\                                                                       |
+|                            |                                                      | Konstrukte bis T2                                                                |
++----------------------------+------------------------------------------------------+----------------------------------------------------------------------------------+
+| Schmiede                   | Ein Schmied zufälliger Qualität                      | Drei verschiedene Schmiede zur Auswahl                                           |
++----------------------------+------------------------------------------------------+----------------------------------------------------------------------------------+
+| Pflanzen                   | Reichlich                                            | wenig und begrenzt auf Stadtauswahl                                              |
++----------------------------+------------------------------------------------------+----------------------------------------------------------------------------------+
+| Jobs                       | normal möglich                                       | normal möglich                                                                   |
++----------------------------+------------------------------------------------------+----------------------------------------------------------------------------------+
+
+Großstadt T4 Material, Alle Schmiede, Waffen T3, nur wenn in relativer Map nähe möglich, downside gleiche wie Stadt (im grunde upgrade zur stadt da nicht immer verfügbar denk ich okay wenn als eigetnlich immer als alternative zur stadt genommen wird = keine kosten erhöhung =\> macht sonst längere session in der stadt auch zu teuer (vllt mit sonderunterkunft erklärbar! (die letzten sätze müssen nicht hier ins bookdown sondern waren als anmerkung für dich gedacht)
+
+Sonderoption 1/3 Chance ermöglichen kauf bestimmter Waren ohne Begrenzung, eine der folgenden 4 Optionen wird nochmals zufällig bestimmt
+
+Zwergenenklave (Konstrukte), Waldelfenenklave(Tiere), Meisterschmied(Waffen), Zwergenkarawane (ALLES was das Herz begehrt)
+
+Gezieltes ansteuern der enklaven durch Knowledge skills möglich
 
 ## Downtime-Aktivitäten
 

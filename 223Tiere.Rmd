@@ -20,51 +20,87 @@ Pro Intelligenzpunkt ist es möglich einem Tier eine Fähigkeit beizubringen.Ein
 
 Je nach Tier können Fähigkeiten der folgenden Tabelle erlernt werden:
 
-|           Fähigkeit            | Beschreibung |
-|:------------------------------:|:------------:|
-|            Angriff             |              |
-|        Taschendiebstahl        |              |
-|           Ablenkung            |              |
-|      Alamieren, (Be)Wache      |              |
-|        Botentätigkeiten        |              |
-|    Suchen / Auskundschaften    |              |
-|  Grappeln (bein festhalten /   |              |
-|            beißen)             |              |
-| Interrupt (gesicht angreifen?) |              |
-|          Fährtenlesen          |              |
-|       Sprechen (papagei)       |              |
-|       Blocken / schützen       |              |
-|             Flucht             |              |
-|           Todstellen           |              |
-|         Gift abmelken          |              |
-|           persuation           |              |
-|            Abhören             |              |
-|          Apportieren           |              |
-|           Blockieren           |              |
-|       Gegenstände werfen       |              |
-|         Gift erkennen          |              |
-|   Graben / Buddeln / Fallen    |              |
-|            stellen             |              |
-|         Einschüchtern          |              |
-|         Versteck dich!         |              |
-|      Verfolgung aufnehmen      |              |
++--------------------------------+--------------------------+---------------------+-------------------+
+| Fähigkeit                      | Beschreibung             | Schwierigkeits-grad | Ausführungs-bonus |
++:==============================:+:========================:+=====================+===================+
+| Angriff                        |                          |                     |                   |
++--------------------------------+--------------------------+---------------------+-------------------+
+| Taschendiebstahl               |                          |                     |                   |
++--------------------------------+--------------------------+---------------------+-------------------+
+| Ablenkung                      |                          |                     |                   |
++--------------------------------+--------------------------+---------------------+-------------------+
+| Alamieren, (Be)Wache           |                          |                     |                   |
++--------------------------------+--------------------------+---------------------+-------------------+
+| Botentätigkeiten               |                          |                     |                   |
++--------------------------------+--------------------------+---------------------+-------------------+
+| Suchen / Auskundschaften       |                          |                     |                   |
++--------------------------------+--------------------------+---------------------+-------------------+
+| Grappeln (Bein festhalten /    |                          |                     |                   |
++--------------------------------+--------------------------+---------------------+-------------------+
+| beißen)                        |                          |                     |                   |
++--------------------------------+--------------------------+---------------------+-------------------+
+| Interrupt (gesicht angreifen?) |                          |                     |                   |
++--------------------------------+--------------------------+---------------------+-------------------+
+| Fährtenlesen                   |                          |                     |                   |
++--------------------------------+--------------------------+---------------------+-------------------+
+| Sprechen (papagei)             |                          |                     |                   |
++--------------------------------+--------------------------+---------------------+-------------------+
+| Blocken / schützen             |                          |                     |                   |
++--------------------------------+--------------------------+---------------------+-------------------+
+| Flucht                         |                          |                     |                   |
++--------------------------------+--------------------------+---------------------+-------------------+
+| Todstellen                     |                          |                     |                   |
++--------------------------------+--------------------------+---------------------+-------------------+
+| Gift abmelken                  |                          |                     |                   |
++--------------------------------+--------------------------+---------------------+-------------------+
+| persuation                     |                          |                     |                   |
++--------------------------------+--------------------------+---------------------+-------------------+
+| Abhören                        |                          |                     |                   |
++--------------------------------+--------------------------+---------------------+-------------------+
+| Apportieren                    |                          |                     |                   |
++--------------------------------+--------------------------+---------------------+-------------------+
+| Blockieren                     |                          |                     |                   |
++--------------------------------+--------------------------+---------------------+-------------------+
+| Gegenstände werfen             |                          |                     |                   |
++--------------------------------+--------------------------+---------------------+-------------------+
+| Gift erkennen                  |                          |                     |                   |
++--------------------------------+--------------------------+---------------------+-------------------+
+| Graben / Buddeln / Fallen      |                          |                     |                   |
++--------------------------------+--------------------------+---------------------+-------------------+
+| stellen                        |                          |                     |                   |
++--------------------------------+--------------------------+---------------------+-------------------+
+| Einschüchtern                  |                          |                     |                   |
++--------------------------------+--------------------------+---------------------+-------------------+
+| Versteck dich!                 |                          |                     |                   |
++--------------------------------+--------------------------+---------------------+-------------------+
+| Verfolgung aufnehmen           |                          |                     |                   |
++--------------------------------+--------------------------+---------------------+-------------------+
 
 ## Training und Taming
 
 Der Skill des Animal Handlings kommt beim Umgang mit Tieren ins Spiel.
-Ein Tier, welches eine Fähigkeit erlernen oder eine erlernte Fähigkeit ausführen soll, muss zuvor gezähmt werden.
+Er kann sowohl in der Downtime angewandt werden, um ein Tier zu trainieren, aber auch aktiv in der Session, um Tiere zu zähmen, oder ihnen gezähmten Tieren Befehle zu erteilen.
+Um einem Tier einen Befehl geben zu können, muss es vorher gezähmt werden.
+Dies funktioniert indem der DM vier Animal Handling Checks wirft, deren Values akkumuliert einen Festwert je nach Tier überschreiten müssen.
+Versucht ein PC ein Tier außerhalb des Kampfes zu zähmen, so werden die vier Checks aufeinanderfolgend geworfen.
+Es steht dem Spieler offen die eigenen Chancen zur erfolgreichen Zähmung zu erhöhen, wenn beispielsweise Köder ausgelegt werden, oder sich andere Ideen ausgedacht werden, um das Tier positiv einzustimmen.
+Befindet sich der Spieler im Kampf und möchte ein Tier zähmen, so können die vier Würfe nicht unmittelbar aufeinander folgen.
+Der Spieler hat nun die Möglichkeit zu wählen, ob er jede Runde jeweils die Main- und Side-Action für einen Check hergeben möchte, oder aber die Checks über mehrere Runden aufteilt.
+Es kann je ein Check pro Main- oder Side-Action geworfen werden, jedoch ist somit kein Angriff oder eine Verteidigung je nach Action Wahl mehr möglich.
 
-Value gewürfelt - Value wurde beim Tier eingetragen --> auf Schwierigkeit des Tieres in der Handhabung schauen und dann ermitteln, wie viele Punkte für Fähigkeiten zur Verfügung stehen.
-Schwierigkeit des Tieres fungiert als Divisor - Beispiel: Man würfelt einen Value von 6 und das Tier hat eine Schwierigkeit von 3, so stehen einem drei Fähigkeitspunkte zur Verfügung.
+Wurde ein Tier erfolgreich gezähmt, so kann es trainiert werden.
+Das Training erfolgt über eine Progressionbar, die so funktioniert, dass ein Animal Handling Check geworfen wird.
+Der erreichte Wert wird dem Tier in das Profil eingetragen.
+Jedes Tier ist gemäß seiner Natur unterschiedlich schwer in der Handhandung.
+Daraus ergibt sich der jeweilig festgelegte Wert, der pro Tier zu überschreiten ist, damit Tier und Trainer Fähigkeitspunkte erhalten können.
+Dieser Wert kann, bei guten Checks, direkt erreicht werden, oder aber auch über mehrere Downtime-Aktivitäten akkummuliert werden, sollte der Wert nicht beim ersten Versuch überschritten werden.
 
-Der Trainingswert steht für die grundsätzliche Lernbereitschaft / Kooperationswillen des Tieres.
-Dieser kann über mehrere Sessions hinweg akkumuliert werden, sollte der Threshold nicht auf einmal überschritten werden.
-
-### Taming Prozess
-
-*Wie funktioniert der Taming-Prozess?*
+Versucht ein Tier während des Taimingprozesses zu fliehen, haben die PCs die Möglichkeit den Versuch zu unterbrechen, indem sie eine Bola werfen, oder das Tier verwunden. 
 
 ### Preis
+
+Die erhaltenen Fähigkeitspunkte können nun für das Erlernen verschiedener Fähigkeiten eingetauscht werden.
+Die oben in der Tabelle dargestellten Fähigkeiten geben zugleich den Preis an Fähigkeitspunkten an, die dafür gezahlt werden müssen.
 
 Aus Downtime Aktivität erworbene Punkte können hier eingetauscht werden gegen Fähigkeiten.
 Die Punkte, die man erhält, hängen vom Animal Handling Skill ab.
@@ -78,24 +114,26 @@ Es gibt also zwei Schwierigkeitsgrade:
 ## Loyalität
 
 Ausführung der Fähigkeit hängt mit der Loyalität zusammen.
-Je loyaler ein Tier dem Befehlsgeber ist, desto leichter folgt dieses den Befehlen.
+Je loyaler ein Tier dem Befehlsgeber ist, desto leichter folgt dieses den Befehlen. Dies funktioniert so, dass die Schwierigkeit eines auszuführenden Befehls um den Wert der Loyalität reduziert wird, womit der Value des Checks lediglich den Differenzwert übersteigen muss. 
 Die Loyalität kann einem Wert von 0 bis 10 entsprechen, wobei 0 für ein fremdes Tier und 10 für Treue bis zum Tod steht.
 
 *Wie bekommst du Loyalität?*
+
+Trainingsloyalität: Für jedes Mal, das sich die Progressionbar füllt erhält das Trainer-Tier-Gespann einen Loyalitätspunkt. Dies funktioniert maximal sechs Mal, sodass sich die Beziehung aufgrund des reinen Trainings gut festigen kann.
+
+Kümmern sich, nebem dem Trainer, beispielsweise auch andere Spieler um die Tiere, ohne diese jedoch aktiv zu trainieren, so können diese über die Game-Play Loyalität ebenfalls bis zu vier Loyalitätspunkte erhalten. Diese kann der DM nach ermessen vergeben, wenn PCs die Tiere aktiv in das Game-Play einbeziehen, indem sie die Tiere füttern, sie explizit pflegen oder ihnen Zuwendung in der Downtime schenken. 
+
+
 
 ## Ausführung
 
 Value, der fürs Ausführen erreicht werden muss - schon erlernt; - Loyalität = Fail oder Success
 
-## Pflege
-
-Die Pflege stellt einen aktiven Part der Tiere in den Sessions dar.
-Sorgt der Spieler auch während der Sessions für Futter, oder beschäftigt sich mit den Tieren, so wird das Tier über die Zeit loyaler.
-
-Dies soll vor allem verhindern, dass Tiere als passives Asset eingesetzt und genutzt werden.
 
 ## Maximale Tieranzahl
 
-Da es realistisch sein muss, wie viele Tiere ein Spieler besitzt, wird diese anhand des Intelligenzwertes bemessen und begrenzt.
+Da es realistisch sein muss, wie viele Tiere ein Spieler besitzt, wird diese anhand des .... bemessen.
 
-So kann ein Spieler maximl
+## Tierschaden
+
+Macht die Größe des Tiers einen Unterschied für den Schaden, der erhalten wird?

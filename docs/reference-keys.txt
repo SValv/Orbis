@@ -806,12 +806,11 @@ typische-fallen
 tiere-als-begleiter
 erlernbare-fähigkeiten
 training-und-taming
-taming-prozess
 preis
 loyalität
 ausführung
-pflege
 maximale-tieranzahl
+tierschaden
 konstrukte-1
 allgemeines
 erstellung-durch-spieler
