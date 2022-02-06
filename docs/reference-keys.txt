@@ -866,16 +866,5 @@ was-machen-kritische-würfe
 queststufen
 installation-und-nutzung-des-programmes
 installation
-benutzung-von-jupyter-outdated-mit-3.0
-klassen-und-npcs-erstellen
-initialisierte-einen-npc-mit-gleichen-methoden-wie-char-oder-monster---klassen
-methoden
-waffen
-munitionsobjekt
-schnellfunktionen
-gruppenfähige-proben
-proben
-option-1
-übriges
-dot-bezogenes
+nutzung-der-dm-app
 zum-projekt

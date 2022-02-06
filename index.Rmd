@@ -28,15 +28,23 @@ library(htmltools)
 library(tidyverse)
 library(zip)
 
+pfad=str_remove(getwd(),"###Orbis")
+print(pfad)
 
-from <- "E:/Dropbox/Dropbox/OrbisAstea/Rpg/Container/Data"
+source(paste0(pfad,"Readme Hilfe Tools/Codes/KeyIndexErstellen.R"))
+
+file.copy(paste0(pfad,"Container/",c("CCSheetBlank.xlsx","CCrand.xlsx")), 
+          "DownloadContainer")
+
+
+from <- paste0(pfad,"Container/Data")
 to   <- "OrbisGame/Container/Data"
 file.copy(list.files(from, full.names = TRUE), 
           to, 
           recursive = TRUE)
 
 zip(
-  "DownloadContainer/OrbisGame.zip",
+  "DownloadContainer/OrbisAstea.zip",
   c("OrbisDMApp","OrbisGame"),
   recurse = TRUE,
   compression_level = 9,
@@ -50,8 +58,10 @@ to   <- "docs/DownloadContainer"
 file.copy(list.files(from, full.names = TRUE), 
           to, 
           recursive = TRUE)
+```
 
 
+```{r read Data leaflet, include=FALSE}
 dfGesamt=read_excel("Leaflet/DataCities.xlsx")
 options(scipen=999)
 

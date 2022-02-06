@@ -14,9 +14,9 @@ bookdown::gitbook:
     toolbar:
       position: fixed
     edit : null
-    download: [["DownloadContainer/CCrand.xlsx", "Character-Creation Sheet"],
-              ["DownloadContainer/OrbisGame.zip", "The Game"],
-              ["DownloadContainer/RulebookDnD.pdf", "DnD Rulebook"]]
+    download: [["DownloadContainer/OrbisAstea.zip", "The Game"],
+              ["DownloadContainer/CCSheetBlank.xlsx", "Character-Creation Sheet"],
+              ["DownloadContainer/CCrand.xlsx", "Character-Creation Sheet Example"]]
     fontsettings:
       theme: sepia
       family: serif
