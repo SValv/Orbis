@@ -1,6 +1,6 @@
-# (PART) Das Team hinter Orbis Astea {-} 
+# (PART) Zum Projekt Orbis Astea {-} 
 
-# Zum Projekt
+# Das Team hinter Orbis Astea
 
 Orbis Astea wurde am 4.12.2019 erfunden. Schon bald wurde die erstversion der Karte gezeichnet und alle arbeiteten fleißig an der Welt.
 Die Highlights der Geschichte von Orbis Astea sind hier aufgeführt:
@@ -124,4 +124,3 @@ Die Vergangenheit der Zwerge sind dabei ebenfalls ein großer Punkt, die seine Z
 Durch seinen Hintergrund als Biologe hat er viele Ideen für Pflanzen, die uns InGame auf unseren Reisen begleiten und viele neue Möglichkeiten schaffen, die weit über die Erstellung normaler Heiltränke hinausgehen. Gerne widmet er sich auch der Entwicklung von Monstern, dem Nebelhain und verschiedenen Orkstämmen, sowie deren Geschichte. Sein Motto könnte man nennen „Je abscheulicher die Kreatur, desto besser!“. 
 Bei Lore Sessions hält er sich mit Kritik und Ideen zu neuen Entscheidungen nicht zurück. Auch hier findet der biologische Hintergrund immer wieder Einzug, da es hier zum ein oder anderen Fact-Check kommt, der es der Gruppe ermöglicht einen gewissen Realitätsbezug zu wahren. 
 
-## Impressum und rechtliche Hinweise {-}

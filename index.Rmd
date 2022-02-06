@@ -29,7 +29,6 @@ library(tidyverse)
 library(zip)
 
 pfad=str_remove(getwd(),"###Orbis")
-print(pfad)
 
 source(paste0(pfad,"Readme Hilfe Tools/Codes/KeyIndexErstellen.R"))
 
