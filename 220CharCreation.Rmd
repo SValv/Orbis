@@ -257,7 +257,7 @@ Wichtig ist es für DMs die Skills mit eigenem Gefühl einzubringen was realisti
 
 Auch nach der Character-Creation kann man seine Wissensskills verbessern. Dies geht über das <font color="green">[sogenannte Studieren](#Studieren)</font>.
 
-### Kontakte
+## Kontakte
 
 Kontakte sind ein weiteres Stück der Welt - sozusagen das soziale Kapital des Spielers.
 Sie helfen an Aufträge, Informationen und andere Dinge zu kommen, für die Vitamin B nun mal nützlich ist oder sein könnte.
