@@ -44,12 +44,12 @@ file.copy(list.files(from, full.names = TRUE),
 
 zip(
   "DownloadContainer/OrbisAstea.zip",
-  c("OrbisDMApp","OrbisGame"),
+  c("../OrbisDMApp","OrbisGame"),
   recurse = TRUE,
   compression_level = 9,
   include_directories = TRUE,
   root = ".",
-  mode = c("mirror", "cherry-pick")
+  mode = c("cherry-pick")
 )
 
 from <- "DownloadContainer"
