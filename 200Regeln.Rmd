@@ -344,7 +344,7 @@ Dieses System mag am Anfang sehr kompliziert erscheinen, wird allerdings zu 100%
 
 Gift ist die Wildcard unter den Statuseffekten, oftmals wird eine Vergiftung erst bemerkt, wenn sie sich bereits durch einen Teil der Gesundheit des Ziels gefressen hat - denn jedes mal, wenn ein stack Gift wirkt, wird ein Perception-check gegen einen damageabhängigen Threshold geworfen - der geschafft werden muss, damit der Charakter seine Vergiftung merkt.
 
-Gift kann in 2 bis 9 Ladungen verabreicht werden und ein Stack Gift hält in der Regel 10 Runden. Der Schaden, der pro Runde gemacht wird hängt von der Stufe des Gifts ab, und kann über folgende Formel ermittelt werden: $$SchadenProRunde = Minschaden:Ladungen \cdot ((Minschaden:100) \cdot Ladungen \cdot 1,1)$$ Mehr Ladungen machen mehr Schaden insgesamt und auf möglicherweise mehrere Gegner, müssen allerdings öfter applied werden - sind daher also langsamer. (Der Minschaden für eine Stufe Gift ist <font color="green">[in der Trankliste einsehbar](#Tränke)</font>)
+Gift kann in 2 bis 9 Ladungen verabreicht werden und ein Stack Gift hält in der Regel 10 Runden. Der Schaden, der pro Runde gemacht wird hängt von der Stufe des Gifts ab, und kann über folgende Formel ermittelt werden: $$SchadenProRunde = \frac{Minschaden}{Ladungen}\cdot ((\frac{Minschaden}{100}) \cdot Ladungen \cdot 1,1)$$ Mehr Ladungen machen mehr Schaden insgesamt und auf möglicherweise mehrere Gegner, müssen allerdings öfter applied werden - sind daher also langsamer. (Der Minschaden für eine Stufe Gift ist <font color="green">[in der Trankliste einsehbar](#Tränke)</font>)
 
 ```{r,echo=F}
 library(ggplot2)

@@ -805,7 +805,8 @@ fallen
 typische-fallen
 tiere-als-begleiter
 erlernbare-fähigkeiten
-training-und-taming
+das-zähmen-eines-wildtiers
+training-1
 preis
 loyalität
 ausführung

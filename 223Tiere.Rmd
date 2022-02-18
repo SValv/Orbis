@@ -6,106 +6,108 @@ editor_options:
 
 # Tiere als Begleiter
 
-Tiere stellen nicht nur einen wichtigen Bestandteil des Ökosystems dar, sie können auch für die Charaktere von großem Nutzen sein, da sie nicht nur nützlich im Sinne der Lebensmittelproduktion sein können, sondern auch als treue Wegbegleiter dienen..
-
-Aus diesem Grund gibt es eine Liste an Fähigkeiten, die bestimmte Tiere erlernen können.
+Tiere stellen nicht nur einen wichtigen Bestandteil des Ökosystems dar, sie können auch für die Charaktere von großem Nutzen sein, da sie nicht nur nützlich im Sinne der Lebensmittelproduktion sein können, sondern auch treue Wegbegleiter werden können.
 
 ## Erlernbare Fähigkeiten
 
-Nicht jedes Tier kann alle Fähigkeiten erlernen.
-Manche sind nur Flugtieren möglich, während andere nur von großen Tieren ausgeführt werden können.
+Tierische Begleiter können in allerlei Situationen nützlich sein, anbei eine Liste möglichen von Kommandos.
+Da nicht alle möglichen Ereignisse abgedeckt werden können empfiehlt es sich für Kommandos außerhalb der Liste ein ähnliches zu wählen und den DM einen Schwierigkeitsgrad bestimmen zu lassen.
 
-Die Anzahl der erlernbaren Fähigkeiten hängt mit der Intelligenz des Tieres zusammen.
+Nicht jedes Tier kann alle Fähigkeiten erlernen, da dies ihnen gemäß ihrer Natur nicht immer möglich ist.
+So sind manche Aktionen beispielsweise nur fliegenden Tieren möglich, während andere lediglich von großen Tieren ausgeführt werden können.
+Zusätzlich gibt es auch noch besondere Fähigkeiten ausschließlich bestimmten Fabelwesen möglich sind.
+
+Die Anzahl der erlernbaren Fähigkeiten hängt von der Intelligenz des Tieres ab.
 Pro Intelligenzpunkt ist es möglich einem Tier eine Fähigkeit beizubringen.Ein Hund, der beispielsweise 3 Intelligenz hat, kann somit 3 Fähigkeiten erlernen.
 
 Je nach Tier können Fähigkeiten der folgenden Tabelle erlernt werden:
 
-+--------------------------------+--------------------------+---------------------+-------------------+
-| Fähigkeit                      | Beschreibung             | Schwierigkeits-grad | Ausführungs-bonus |
-+:==============================:+:========================:+=====================+===================+
-| Angriff                        |                          |                     |                   |
-+--------------------------------+--------------------------+---------------------+-------------------+
-| Taschendiebstahl               |                          |                     |                   |
-+--------------------------------+--------------------------+---------------------+-------------------+
-| Ablenkung                      |                          |                     |                   |
-+--------------------------------+--------------------------+---------------------+-------------------+
-| Alamieren, (Be)Wache           |                          |                     |                   |
-+--------------------------------+--------------------------+---------------------+-------------------+
-| Botentätigkeiten               |                          |                     |                   |
-+--------------------------------+--------------------------+---------------------+-------------------+
-| Suchen / Auskundschaften       |                          |                     |                   |
-+--------------------------------+--------------------------+---------------------+-------------------+
-| Grappeln (Bein festhalten /    |                          |                     |                   |
-+--------------------------------+--------------------------+---------------------+-------------------+
-| beißen)                        |                          |                     |                   |
-+--------------------------------+--------------------------+---------------------+-------------------+
-| Interrupt (gesicht angreifen?) |                          |                     |                   |
-+--------------------------------+--------------------------+---------------------+-------------------+
-| Fährtenlesen                   |                          |                     |                   |
-+--------------------------------+--------------------------+---------------------+-------------------+
-| Sprechen (papagei)             |                          |                     |                   |
-+--------------------------------+--------------------------+---------------------+-------------------+
-| Blocken / schützen             |                          |                     |                   |
-+--------------------------------+--------------------------+---------------------+-------------------+
-| Flucht                         |                          |                     |                   |
-+--------------------------------+--------------------------+---------------------+-------------------+
-| Todstellen                     |                          |                     |                   |
-+--------------------------------+--------------------------+---------------------+-------------------+
-| Gift abmelken                  |                          |                     |                   |
-+--------------------------------+--------------------------+---------------------+-------------------+
-| persuation                     |                          |                     |                   |
-+--------------------------------+--------------------------+---------------------+-------------------+
-| Abhören                        |                          |                     |                   |
-+--------------------------------+--------------------------+---------------------+-------------------+
-| Apportieren                    |                          |                     |                   |
-+--------------------------------+--------------------------+---------------------+-------------------+
-| Blockieren                     |                          |                     |                   |
-+--------------------------------+--------------------------+---------------------+-------------------+
-| Gegenstände werfen             |                          |                     |                   |
-+--------------------------------+--------------------------+---------------------+-------------------+
-| Gift erkennen                  |                          |                     |                   |
-+--------------------------------+--------------------------+---------------------+-------------------+
-| Graben / Buddeln / Fallen      |                          |                     |                   |
-+--------------------------------+--------------------------+---------------------+-------------------+
-| stellen                        |                          |                     |                   |
-+--------------------------------+--------------------------+---------------------+-------------------+
-| Einschüchtern                  |                          |                     |                   |
-+--------------------------------+--------------------------+---------------------+-------------------+
-| Versteck dich!                 |                          |                     |                   |
-+--------------------------------+--------------------------+---------------------+-------------------+
-| Verfolgung aufnehmen           |                          |                     |                   |
-+--------------------------------+--------------------------+---------------------+-------------------+
++-----------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------+---------------------+------------------------+
+| Fähigkeit                         | Beschreibung                                                                                                                              | Schwierigkeits-grad | Ausführ-ungs-threshold |
++:=================================:+:=========================================================================================================================================:+:===================:+========================+
+| Angriff                           | Schaden und Statuseffekte können verursacht werden                                                                                        | 1                   | 5                      |
++-----------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------+---------------------+------------------------+
+| Taschendiebstahl                  |                                                                                                                                           | 3,5                 | 7,5                    |
++-----------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------+---------------------+------------------------+
+| Ablenkung                         | Tier dient der Ablenkung einer Person durch Lärm, Chaosverursachung, oder anderen Aktionen, die die Aufmerksamkeit auf sich ziehen lassen | 1                   | 5                      |
++-----------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------+---------------------+------------------------+
+| Alamieren, (Be)Wache              |                                                                                                                                           | 1                   | 5                      |
++-----------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------+---------------------+------------------------+
+| Botentätigkeiten                  | Das Überbringen von Botschaften, wie man es von Brieftauben kennt                                                                         | 2                   | 6                      |
++-----------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------+---------------------+------------------------+
+| Suchen / Auskundschaften          | Spähertätigkeiten                                                                                                                         | 3                   | 7                      |
++-----------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------+---------------------+------------------------+
+| Grappeln                          | Ein Tier könnte das Bein des Gegners festhalten oder reinbeißen                                                                           | 2                   | 6                      |
++-----------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------+---------------------+------------------------+
+| Interrupt                         | Ein Tier springt gegen einen Gegner, oder schubst ihn, sodass er seine Aktion nicht ausführen kann.                                       | 2                   | 6                      |
++-----------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------+---------------------+------------------------+
+| Fährtenlesen                      |                                                                                                                                           | 1                   | 5                      |
++-----------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------+---------------------+------------------------+
+| Sprechen (papagei)                |                                                                                                                                           | 3                   | 7                      |
++-----------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------+---------------------+------------------------+
+| Blocken / schützen                | Tier blockt einen Angriff mit dem eigenen Körper                                                                                          | 3                   | 7                      |
++-----------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------+---------------------+------------------------+
+| Flucht                            | Wird die Situation brenzlich, so kann der Rückzug angeordnet werden, damit das Tier keinen Schaden nimmt                                  | 1                   | 5                      |
++-----------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------+---------------------+------------------------+
+| Todstellen                        |                                                                                                                                           | 2                   | 6                      |
++-----------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------+---------------------+------------------------+
+| Gift abmelken                     | Tiere, die aktiv Gift produzieren                                                                                                         | 2,5                 | 6,5                    |
++-----------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------+---------------------+------------------------+
+| Persuation                        | Besänftigung, Mitleid erregen;  niedlicher Welpe / Puppy eyes,                                                                            | 1                   | 5                      |
++-----------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------+---------------------+------------------------+
+| Abhören                           | Ein Papagei könnte wiederholen, was er gehört hat                                                                                         | 3                   | 7                      |
++-----------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------+---------------------+------------------------+
+| Apportieren                       | Herbeibringen des vom Befehlsgeber genannten Gegenstands; eine Person aus dem Gefecht ziehen, wenn bewusstlos                             | 1                   | 5                      |
++-----------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------+---------------------+------------------------+
+| Blockieren                        | Wege oder Durchgänge mit dem eigenen Leib einfach blockieren, sodass das Tier erstmal umgangen, oder beiseite geschoben werden muss       | 2                   | 6                      |
++-----------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------+---------------------+------------------------+
+| Gegenstände werfen                | Flugtiere können Gegenstände, wie Steine, etc., aus der Luft auf Gegner fallen lassen                                                     | 2                   | 6                      |
++-----------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------+---------------------+------------------------+
+| Gift erkennen                     | Feine Nasen können Gifte erschnuppern                                                                                                     | 3                   | 7                      |
++-----------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------+---------------------+------------------------+
+| Graben / Buddeln / Fallen stellen | Löcher buddeln, Spinne Netze spannen                                                                                                      | 1                   | 5                      |
++-----------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------+---------------------+------------------------+
+| Einschüchtern                     | Durch Lautstärke oder Größe eine einschüchterne Wirkung erschaffen                                                                        | 1                   | 5                      |
++-----------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------+---------------------+------------------------+
+| Versteck dich!                    | Wird ein Hinterhalt geplant, so muss auch das Tier wissen, wenn es sich verstecken muss                                                   | 1                   | 5                      |
++-----------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------+---------------------+------------------------+
+| Verfolgung aufnehmen              |                                                                                                                                           | 2                   | 6                      |
++-----------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------+---------------------+------------------------+
 
-## Training und Taming
+## Das Zähmen eines Wildtiers
 
-Der Skill des Animal Handlings kommt beim Umgang mit Tieren ins Spiel.
-Er kann sowohl in der Downtime angewandt werden, um ein Tier zu trainieren, aber auch aktiv in der Session, um Tiere zu zähmen, oder ihnen gezähmten Tieren Befehle zu erteilen.
+Trifft man ein Wildes Tier in der Natur, selbst wenn es einem feindlich gesonnen scheint, so muss das nicht schlecht sein, da ein guter Zähmer in dieser potenziell gefährlichen Situation stattdessen die Gelegenheit sieht einen neuen Verbündeten zu finden.
+
+Dabei kommt der Skill des Animal Handlings beim Umgang mit Tieren ins Spiel.
+Er kann sowohl in der Downtime angewandt werden, um ein Tier zu trainieren, als auch aktiv in der Session, um Tiere zu zähmen, oder gezähmten Tieren Befehle zu erteilen.
 Um einem Tier einen Befehl geben zu können, muss es vorher gezähmt werden.
-Dies funktioniert indem der DM vier Animal Handling Checks wirft, deren Values akkumuliert einen Festwert je nach Tier überschreiten müssen.
+Dies funktioniert indem der DM vier Mal (plus Bonus Chancen) Animal Handling Checks wirft, deren Values akkumuliert einen Festwert je nach Tier überschreiten müssen.
 Versucht ein PC ein Tier außerhalb des Kampfes zu zähmen, so werden die vier Checks aufeinanderfolgend geworfen.
 Es steht dem Spieler offen die eigenen Chancen zur erfolgreichen Zähmung zu erhöhen, wenn beispielsweise Köder ausgelegt werden, oder sich andere Ideen ausgedacht werden, um das Tier positiv einzustimmen.
-Befindet sich der Spieler im Kampf und möchte ein Tier zähmen, so können die vier Würfe nicht unmittelbar aufeinander folgen.
+Befindet sich der Spieler im Kampf und möchte ein Tier zähmen, so können die vier Würfe nicht in einer einzigen Kampfrunde rerfolgen.
 Der Spieler hat nun die Möglichkeit zu wählen, ob er jede Runde jeweils die Main- und Side-Action für einen Check hergeben möchte, oder aber die Checks über mehrere Runden aufteilt.
 Es kann je ein Check pro Main- oder Side-Action geworfen werden, jedoch ist somit kein Angriff oder eine Verteidigung je nach Action Wahl mehr möglich.
+Versucht ein Tier während des Taimingprozesses zu fliehen, haben die PCs die Möglichkeit den Versuch zu unterbrechen, indem sie eine Bola werfen, oder das Tier verwunden(called shots).
+
+Bei erfolgreichen Zähmen wird ein Tier Status(Profil) in das Profil des Besitzers eingetragen in dem die weitere Verwaltung des Tieres erfolgt.
+
+## Training
 
 Wurde ein Tier erfolgreich gezähmt, so kann es trainiert werden.
 Das Training erfolgt über eine Progressionbar, die so funktioniert, dass ein Animal Handling Check geworfen wird.
 Der erreichte Wert wird dem Tier in das Profil eingetragen.
-Jedes Tier ist gemäß seiner Natur unterschiedlich schwer in der Handhandung.
+Jedes Tier ist, gemäß seiner Natur, unterschiedlich schwer in der Handhandung.
 Daraus ergibt sich der jeweilig festgelegte Wert, der pro Tier zu überschreiten ist, damit Tier und Trainer Fähigkeitspunkte erhalten können.
 Dieser Wert kann, bei guten Checks, direkt erreicht werden, oder aber auch über mehrere Downtime-Aktivitäten akkummuliert werden, sollte der Wert nicht beim ersten Versuch überschritten werden.
 
-Versucht ein Tier während des Taimingprozesses zu fliehen, haben die PCs die Möglichkeit den Versuch zu unterbrechen, indem sie eine Bola werfen, oder das Tier verwunden. 
+Diese erreichten Punkte können anschließend gegen erlernte Kommandos getauscht werden die einen erheblichen Bonus auf die erfolgreiche Ausführung des spezifischen Spielerbefehls geben.
 
 ### Preis
 
 Die erhaltenen Fähigkeitspunkte können nun für das Erlernen verschiedener Fähigkeiten eingetauscht werden.
 Die oben in der Tabelle dargestellten Fähigkeiten geben zugleich den Preis an Fähigkeitspunkten an, die dafür gezahlt werden müssen.
 
-Aus Downtime Aktivität erworbene Punkte können hier eingetauscht werden gegen Fähigkeiten.
-Die Punkte, die man erhält, hängen vom Animal Handling Skill ab.
-
-Es gibt also zwei Schwierigkeitsgrade:
+Es gibt zwei also zwei zu beachtende Faktoren:
 
 -   Schwierigkeit des Tieres gibt an, wie schnell das Tier etwas lernt
 
@@ -113,27 +115,46 @@ Es gibt also zwei Schwierigkeitsgrade:
 
 ## Loyalität
 
-Ausführung der Fähigkeit hängt mit der Loyalität zusammen.
-Je loyaler ein Tier dem Befehlsgeber ist, desto leichter folgt dieses den Befehlen. Dies funktioniert so, dass die Schwierigkeit eines auszuführenden Befehls um den Wert der Loyalität reduziert wird, womit der Value des Checks lediglich den Differenzwert übersteigen muss. 
+Die Ausführung der Fähigkeit hängt mit der Loyalität zusammen.
+Je loyaler ein Tier dem Befehlsgeber ist, desto leichter folgt dieses den Befehlen.
+Dies funktioniert so, dass die Schwierigkeit eines auszuführenden Befehls um den Wert der Loyalität reduziert wird, womit der Value des Checks lediglich den Differenzwert übersteigen muss.
 Die Loyalität kann einem Wert von 0 bis 10 entsprechen, wobei 0 für ein fremdes Tier und 10 für Treue bis zum Tod steht.
 
 *Wie bekommst du Loyalität?*
 
-Trainingsloyalität: Für jedes Mal, das sich die Progressionbar füllt erhält das Trainer-Tier-Gespann einen Loyalitätspunkt. Dies funktioniert maximal sechs Mal, sodass sich die Beziehung aufgrund des reinen Trainings gut festigen kann.
+Trainingsloyalität: Für jedes Mal, das sich die Progressionbar füllt erhält das Trainer-Tier-Gespann einen Loyalitätspunkt.
+Dies funktioniert maximal sechs Mal, sodass sich die Beziehung aufgrund des reinen Trainings gut festigen kann.
 
-Kümmern sich, nebem dem Trainer, beispielsweise auch andere Spieler um die Tiere, ohne diese jedoch aktiv zu trainieren, so können diese über die Game-Play Loyalität ebenfalls bis zu vier Loyalitätspunkte erhalten. Diese kann der DM nach ermessen vergeben, wenn PCs die Tiere aktiv in das Game-Play einbeziehen, indem sie die Tiere füttern, sie explizit pflegen oder ihnen Zuwendung in der Downtime schenken. 
-
-
+Weiters können bis zu 4 Punkte durch Interaktion im Gameplay erreicht werden.
+Dies gilt jedoch nicht nur für den Trainer.
+Kümmern sich, nebem dem Trainer, beispielsweise auch andere Spieler um die Tiere, ohne diese jedoch aktiv zu trainieren, so können diese über die Game-Play Loyalität ebenfalls bis zu vier Loyalitätspunkte erhalten.
+Diese kann der DM nach ermessen vergeben, wenn PCs die Tiere aktiv in das Game-Play einbeziehen, indem sie die Tiere füttern, sie explizit pflegen oder ihnen Zuwendung in der Downtime schenken.
+Zu beachten ist die Loyalität jedes Tieres wird Spieler abhängig verfolgt (Im Status-Sheet des Tieres im jeweiligen Profil des Spielers, der mit dem Tier interagiert).
 
 ## Ausführung
 
-Value, der fürs Ausführen erreicht werden muss - schon erlernt; - Loyalität = Fail oder Success
+Jedem tierischen Begleiter kann jeder Befehl gegeben werden, jedoch haben Tiere ihren eigenen Kopf und nicht jeder Befehl wird ausgeführt.
+Je komplexer der Befehl, desto unwahrscheinlicher wird dieser verstanden.
+Jedoch gibt es einige Möglichkeiten die Chance zu erhöhen: Primär durch erhöhen des Animal Handling Skills des Spielers, sekundär kann das dir die Fähigkeit erlernen, sodass eine Ausführung durch den Trainer des Tiers schon bekannt ist, abschließend durch die Loyalität zu dem/den Begleiter(n) des Tieres.
 
+Als Formel dargestellt sieht die Ausführungswahrscheinlichkeit folgendermaßen aus:
+
+    Ausführungswahrscheinlichkeit = Schwierigkeit des Befehlschecks - erlernte Fähigkeit - Loyalität - Animal Handling Check
 
 ## Maximale Tieranzahl
 
-Da es realistisch sein muss, wie viele Tiere ein Spieler besitzt, wird diese anhand des .... bemessen.
+Die Anzahl der Tiere, die man mit sich führt, sollte realsitisch bleiben.
+Was dies genau bedeutet ist durch den DM in der jeweiligen Situation der Gruppe zu beurteilen.
+So fallen zum Beispiel eine Horde Hühner wenig, bis gar nicht ins Gewicht, jedoch wird es einem Spieler schwerfallen eine Herde Elefanten zu versorgen.
+
+Darüber hinaus ist die Anzahl der Tiere, die ein Spieler im Kampf benutzen kann ebenfalls begrenzt, da sowohl das Balancing berücktsichtigt werden muss, als auch die Tatsache, dass nur eine gewisse Anzahl an Kommandos im Kampfgeschehen gegeben werden können.
 
 ## Tierschaden
 
-Macht die Größe des Tiers einen Unterschied für den Schaden, der erhalten wird?
+`Macht die Größe des Tiers einen Unterschied für den Schaden, der erhalten wird?`
+
+`Hat das Element des Tieres (Luft, Erde, Wasser) einen Einfluss?`
+
+`Kleine Tiere weniger Schaden?`
+
+`Weichen Tiere automatisch immer aus - oder auch 2 Aktions? Hätte gesagt nur Main action aber defensiv aktion? vor allem für kleine tiere notwendig`
