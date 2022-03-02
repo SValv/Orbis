@@ -6,6 +6,10 @@ site: bookdown::bookdown_site
 favicon: "team_ECx_icon.ico"
 ---
 
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
 # (PART) Orbis Astea {-} 
 
 # Einführung in Orbis Astea
@@ -22,7 +26,6 @@ library(leaflet)
 library(leafem)
 library(readxl)
 library(sp)
-library(dplyr)
 library(leaflet.extras)
 library(htmltools)
 library(tidyverse)
@@ -257,6 +260,8 @@ icons=iconList(
 ```{r , echo=FALSE, fig.width=8,fig.height=6}
 rgvec=c("black","red","orange","green","blue")
 
+responsiveness = "\'<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\'"
+
 w <- function()
   with(knitr::opts_current$get(c("fig.width", "dpi", "fig.retina")),
        fig.width * dpi / fig.retina)
@@ -287,6 +292,13 @@ m <- leaflet(width = w(), height = h()) %>%
       }
       "
   ) %>%
+  
+  # add the javascript for responsivness
+  htmlwidgets::onRender(paste0("
+    function(el, x) {
+      $('head').append(",responsiveness,");
+    }")) %>%
+  
   setMaxBounds(
     lng1 = -3,
     lat1 = -3,

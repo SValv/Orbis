@@ -1,0 +1,728 @@
+# (PART) Regeln und Items {.unnumbered}
+
+# Grundlagen des Spiels
+
+Hier startet der technischere Teil des Buches. Im Folgenden wird erklärt wie gespielt wird, was wichtig ist und wie man sich das Spiel so angenehm wie möglich macht.
+
+## Checks und Proben
+
+In Orbis Aestea wird - wie in jedem anderen Pen and Paper Rpg - gewürfelt. Bei uns wird dies durch ein Programm übernommen, daher gibt es hier nichts selbst zu rechnen. Trotzdem ist es sehr relevant zu wissen wie welche Probe gewürfelt wird. Für jede Probe gibt es einen sogenannten Skill, der auf die Aktion passt - bspw. "armed" für das Zuschlagen mit einer Waffe oder "sneak" für das Schleichen. Die passende Probe zur Aktion wird dann mit dem Skill und dem verbundenen Attribut geworfen - für das Beispiel Schleichen wäre dieses "Agility".
+
+Attribute stellen hierbei immer körperliche Eigenschaften dar, z.B. hätte ein Spitzensportler einen Wert in seinem spezialisierten Attribut von 17-18, ein Attribut von 20 käme einem Halbgott gleich. Gleiches zählt auch bei den Skills, bei denen die "Besten" zwischen 75 und 85 liegen. Der Durchschnitt der Skills liegt bei 20 und der der Attribute bei 10.
+
+Hier eine schematische Darstellung über die Skills und die damit Verbundenen Attribute:
+
+![Zum schnelleren sehen einfach auf die Farben achten](Pictures/Rules/AttrSkills.png){width="697"}
+
+Wie man sieht, passiert es manchmal, dass einem Skill mehrere Attribute zugeordnet sind. In diesem Fall nimmt man den Durchschnitt der Attribute und rundet auf die nächste ganze Zahl auf.
+
+### Die einfache Probe
+
+Die einfache Probe ist zu Würfeln, wenn es keinen direkten Gegenspieler gibt. Sie ist meistens mit einem Threshold in Value[^1] oder Damage verknüpft, den der DM beliebig festlegt. Sollte man bspw. versuchen ein Schloss zu knacken, wird der DM festlegen, dass der Value über 3 sein soll, um das zu erreichen. Bei härteren/leichteren schlössern ist der Value natürlich anzupassen.
+
+[^1]: Value ist eine Form von Gütekriterium eines Wurfes - je höher der Value, desto besser der Wurf.
+
+Welche Werte hierbei welcher Größenordnung entsprechen findet sich <font color="green">[hier](#Abstufungen)</font>.
+
+### Die Differenzprobe
+
+Eine Differenzprobe ist zu werfen, wenn es einen direkten Gegenspieler gibt. Beispielsweise, wenn 2 Leute in einer Taverne anfangen Armzudrücken. Hier werden demnach die jeweiligen Skills und Attribute gegeneindander gewürfelt und die Differenz der Values wird interpretiert.
+
+Welche Werte hierbei welcher Größenordnung entsprechen findet sich <font color="green">[hier]()</font>.
+
+#### Untypische Proben {#UntypischeProben .unnumbered}
+
+Normalerweise werden Proben normal Skill und Attribut gegen die selbe Skill/Attribut-Kombination geworfen. Beim Armdrücken-Beispiel würde man z.b. Stärke und Unarmed der einen Person gegen Stärke und Unarmed der anderen Person werfen. Dieses Prinzip zählt jedoch nicht für alle Proben. Folgende Proben werden anders geworfen:
+
+-   Schleichen: Sneak gegen Perception
+-   Lügen/Persuation: Lying/Persuation gegen Insight
+-   Angriff: Armed/Unarmed/Ranged/throwing gegen Dodge/Block
+-   Einschüchtern: Intimidation gegen Insight mit Instinct als Attribut
+-   Taschendiebstahl: Taschendiebstahl gegen Perception
+-   Performance: Performance gegen Perception
+
+### Der Save
+
+Ein Save ist nochmal etwas anderes als eine Probe, auch er wird üblicherweise gegen einen Threshold geworfen und ist ein Weg sich vor etwas Schlimmen zu bewahren. Allerdings wird der Save nur mit den Attributen geworfen, Skills haben hierbei keinen Einfluss. Der Threshold ist üblicherweise 3, kann aber vom DM je nach Situation angepasst werden.
+
+### Advantage/disatvantage
+
+In manchen Situationen ist man at advantage oder at disatvantage, das bedeutet prinzipiell nur, dass derselbe Wurf mehrmals (üblicherweise 3 mal) geworfen wird. Ist der Spieler at atvantage wird das für den Spieler günstigste Ergebnis, at disatvantage wird das für den Spieler nachteiligste Ergebnis, ausgewählt.
+
+### Momentane Modifikatoren
+
+Manchmal gibt es Modifikatoren auf Attributes oder Skills, diese sind nur für kurze Zeit (Maximal die Session) aktiv und werden im Character-Sheet auf der Status Page bei Modifikator eingetragen. Sie sind für den Wert des Attributs/Skills zu addieren bzw. abzuziehen.
+
+### Kritische Werte {#Critical}
+
+Bei jedem Safe wird auch ein D20 geworfen - der sogenannte kritische Wurf (wie beinahe alles passiert dies automatisiert über das Programm). Wenn dieser eine 20 ist spricht man von einem Nat 20 - dem bestmöglichen Ergebnis, bei einer 1 spricht man von einer Nat 1 - dem schlechtesten möglichem Ergebnis. Des weiterem hat jeder Charakter eine positive und eine negative Kritische Grenze, die kritische Erfolge oder Fails wahrscheinlicher machen.
+
+## Typische Saves
+
+Diese Saves sind typisch und werden euch immer wieder begegnen:
+
+### Ausdauersave {#Ausdauersave}
+
+Der Ausdauersave passiert automatisch bei jeder Kampfrunde und bei jeder Aktion die körperliche Ausdauer verbraucht. Er wird mit dem Physical-Wert abgezogen dem <font color="green">[Aktiven Gewicht/5](#AktivesGewicht)</font> gewürfelt. Die negative Differenz wird der Ausdauer abgezogen. Warum Ausdauer und dieser Save wichtig sind steht <font color="green">[hier](#Ausdauer)</font>.
+
+### Toxikologie-Save
+
+Der Toxikologie-Safe wird mit den Würfeln der Attribute Physical, Instinct, Luck und Glaube gewürfelt - Achtung hierbei wird die Summe, nicht der Durchschnitt gebildet.
+
+Da jeder Trank toxisches Potential hat, wird immer, nachdem ein Trank konsumiert wird, ein Toxi-Save gegen den Threshold aus allen kummulierten Trankstufen der genommenen Tränke gewürfelt. Sollte man diesen nicht schaffen fällt man in <font color="green">[Ohnmacht](#Ohnmacht)</font>.
+
+### Glaube/Glück Save {#Lucksave}
+
+Dies ist mit Abstand der häufigste und wichtigste Save. Hierbei wird die Summe (wieder nicht der Durchschnitt) der Attribute Luck und Glaube als Threshold gebildet. Dieser Save wird immer geworfen, wenn der DM nicht sicher ist ob positive oder negative Folgen eintreten. Hierbei wirft der DM einen D20 Würfel, wenn der geworfene Wert unter dem Threshold liegt tritt die positive Folge ein, andernfalls die negative.
+
+Dieser Save kommt auch zum Tragen, falls ein Spieler seine gesamte Health verliert. Dann wird gegen den Threshold 3 geworfen. Wenn der Save bestanden wird fällt der Spieler nur in <font color="green">[Ohnmacht](#Ohnmacht)</font>, andernfalls stirbt der Charakter.
+
+## Das Reiten {#Reiten}
+
+Beim Reiten sind ein paar Dinge zu beachten. Neben der Tatsache, dass Reittiere extra <font color="green">[Unterhalt](#Lebenserhaltungskosten)</font> kosten sind zwei Skills notwendig um ihr volles Potential zu nutzen - Reiten und Animal Handling. Reiten determiniert wie gut man sich auf dem Reittier halten und agieren kann, bzw. das Reittier steuern kann. Animal Handling determiniert wozu man das Reittier sonst bringen kann. Dies kann vor allem für spezielle Aktionen notwendig sein. Nach einer Aktion, die ein Reittier erschreckt ist ein Reiten-Check notwendig, ob der jeweilige Charakter abgeworfen wird. Den Threshold entscheidet der DM. Auch andere Checks sind möglich, beispielsweise:
+
+-   Animal Handling gegen Fluchtreflex oder aggressive Natur des Tiers
+-   Reiten bei bestimmten besonderen Aktionen eines berittenen Spielers
+
+Bei Reittieren ist es wichtig, dass man einen minimalen Reiten-Wert überschreitet, um sie überhaupt besteigen zu können. Reisen sind mit Reittieren schneller und angenehmer, allerdings wird man mit teueren Reittieren (außer es sind angsteinflößende Tiere) auch öfter Überfallen. Tiere können auf Reisen sowohl Transportmittel als auch Träger für Gepäck sein.
+
+## Der Kampf
+
+Der Kampf ist wie in jedem Pen- and Paper-System einer der komplizierteren Vorgänge. In Orbis Astea läuft viel über ein Programm, was alles deutlich erleichtert und schneller macht. Im Allgemeinen versucht das System das Spiel so flüssig wie möglich zu halten.
+
+### Die Initiative {#Initiative}
+
+Am Anfang des Kampfes findet die Initiative statt, d.h. jeder wirft Initiative (Instinct + Physical)/2. Die Werte werden nach größe geordnet und der mit dem höchsten Wert darf angreifen, dann der mit dem zweithöchsten und so weiter. Manchmal legt der DM diese Reihenfolge sinngemäß fest (bspw. bei Schleichangriffen oder Distanz und Fernkämpfern). Im Allgemeinen bekommen Fernkämpfer +1 Würfel auf die Initiative-Probe. Bei Gleichstand in den Werten werden Armbrüste und Musketen vorgezogen, da sie einfach nur abdrücken müssen. Diese Vorteile fallen weg, falls die Distanz sehr gering ist.
+
+### Die Kampfrunde und die Kampfaktionen
+
+In jeder Kampfrunde gibt es 4 Aktionen:
+
+-   Die <font color="green">[Bewegung](#Bewegung)</font>
+-   Die <font color="green">[Single Action](#SingleAction)</font>
+-   Die <font color="green">[Main Action](#MainAction)</font>
+-   Die <font color="green">[Bonus Action](#BonusAction)</font>
+
+#### Die Bewegung {#Bewegung .unnumbered}
+
+Die Bewegung steht am Anfang einer Kampfphase, der Spieler kann sich seinen Bewegungsradius entsprechend bewegen, allerdings hat der DM hier das letzte Wort.
+
+#### Die Single Action {#SingleAction .unnumbered}
+
+Als Single Action zählen Aktionen, die klein genug sind um keine Main Action zu sein. Was genau als Single Action gilt entscheidet der Dm, aber einige Single/Main Actions sind fest definiert.
+
+Übersicht über Main und Single Actions:
+
+|       Main Actions        |             Single Actions             |
+|:-------------------------:|:--------------------------------------:|
+|          Angriff          |     Trank in Tranktasche Benutzen      |
+|    Verbündetem helfen     |      Blocken/Ausweichen/Parieren       |
+| Sache ausm Rucksack holen |               Aufstehen                |
+|    Instrument Spielen     |          Laden einer Armbrust          |
+|     Trank Herstellen      |           Sache Ausm Holster           |
+|      Mount/Dismount       |       Trank herstellen (Stufe 1)       |
+|  Improvisierte Handlung   |            Objekt benutzen             |
+|       Laden Muskete       |     Improvisierte kleine Handlung      |
+|   Laden der Artillerie    | Angriff Unarmed/Dual Wield/Zweite Hand |
+| Entwaffnen mancher Fallen |           In Deckung Hechten           |
+|                           |               Wurfwaffe                |
+|                           |               Schildstoß               |
+
+Die Single Action kann - genauso wie die Bonus Action - für die Runde des Gegners gespart und jederzeit eingesetzt werden. Meistens um zu blocken/auszuweichen oder für das Verwenden von Wurfwaffen.
+
+#### Die Main Action {#MainAction .unnumbered}
+
+In der Main Action kann jede Handlung durchgeführt werden, allerdings ist es empfohlen die Main Action gut zu verwenden, da dies der entscheidende Teil des Kampfes ist.
+
+#### Die Bonus Action {#BonusAction .unnumbered}
+
+Die Bonus Action ist eine weitere Single Action, diese ist jedoch normalerweise nicht verfügbar und wird nur selten durch gewisse Buffs oder den DM gewährt.
+
+Die Bonus Action kann - genauso wie die Single Action - für die Runde des Gegners gespart und jederzeit eingesetzt werden.
+
+#### Blocken, Parieren und Ausweichen {#BlockenAusweichen .unnumbered}
+
+Alle diese "Abwehrhandlungen" verringern den Schaden, den ein Charakter von gegnerischen Angriffen abbekommt, denn auf jeden Angriff kann mit Blocken, Parieren oder Ausweichen reagiert werden, es sei denn, man sieht den Angriff nicht kommen. Blocken ist dabei ohne Zweifel die stärkste Wahl, allerdings verliert man dabei eine Hand an einen Schild und kann keine Großwaffen mehr benutzen oder Dual Wielden, denn ohne einen Schild ist das Blocken nicht möglich.
+
+Das Parieren ist die schwächste Abwehrform und hat - neben der Tatsache, dass nur Nahkampfwaffen richtig parieren können - den zusätzlichen Nachteil, dass ein kritischer Treffer des Gegners oder ein eigener Kritischer Fail die Waffe um Zustand 1 verringert. Bei gegnerischem Nat 20/eigenem Nat 1 geht der Zustand sogar um 2 nach unten. Der Vorteil des Parierens liegt allerdings darin, dass man keine zusätzlichen Einbußen von Optionen hat (wie bspw beim Schild, wo man eine Hand auf den Schild verwendet). Das Parieren ist also dort eine "kostenfreie" Option, wo ein Block unmöglich wird. Allerdings kann nur ein Nahkampfangriff pariert werden.
+
+Obwohl das Parieren grundsätzlich nur für Nahkampfangriffe möglich ist und eine Nahkampfwaffe erfordert, können im Notfall auch Fernkämpfer mit ihrer Waffe parieren - allerdings zu einem höheren Preis. Die Fernkampfwaffe verliert immer 2 Zustand, bei kritischen Ereignissen 5 und bei einem Nat1 10. Diese hohen Kosten können allerdings mit der <font color="green">[Modifikation](#Modifizieren)</font> "Bayonett" verhindert werden, dann wird die Fernkampfwaffe bei der Parade wie eine Nahkampfwaffe behandelt.
+
+Parieren wird wie ein Angriff geworfen, als Shield Value gilt der Waffenschaden mal dem Parierwert der jeweiligen Waffe. Sollte der Schaden des Abwehrenden höher sein als der des Angreifers spricht man von einem "Konter". Ein Konter ermöglicht einen kostenfreien Gegenangriff - den sogenannten Konterschlag. Falls der Verteidiger (also derjenige der erfolgreich pariert hat und den Konter bekommen hat) <font color="green">[Dual Wielding](#Dual%20Wielding)</font> betreibt, hat er die Wahl auf einen direkten Gegenangriff at advantage. In sämtlichen anderen Fällen wirft der Verteidiger den Angreifer zu Boden und dieser muss in seiner nächsten Runde wieder aufstehen (Das kann auch beim Dual Wield passieren, dort hat man ein Wahlrecht).
+
+Wenn man noch eine Single/Bonus Action übrig hat, kann man einen Angriff mit einer Wahrscheinlichkeit von 100% blocken, parieren oder ausweichen.
+
+Wenn man keine Action mehr hat, kann man mit einer Wahrscheinlichkeit von 60% blocken, mit 40% parieren und von 20% ausweichen.
+
+![Schematische Übersicht über die Kampfrunde](Pictures/Rules/Attack.png)
+
+#### Deckung {.unnumbered}
+
+Die Deckung stellt eine Alternative zum Blocken/Ausweichen dar. Deckung kann nur Fernkampfangriffe abwehren, Nahkampfgegner werden von Deckung nicht berührt/berücksichtigt, da sie einfach außen herum gehen können. In Deckung gehen kostet eine Single Action. Sollte die Deckung vor dem feindlichen Angriff nicht deklariert sein, braucht man einen Acrobatics-Check, um in Deckung zu gelangen. Ansonsten tritt der normale Ablauf ein (Block/dodge, mit Chance bei keiner freien Action).
+
+Es gibt zwei Arten von Deckung - die natürliche und die aufbaubare Deckung. Jede aufbaubare Deckung braucht eine Single und eine Main Action.
+
+Die Deckung hat eine prozentuelle Chance den Angriff vollständig zu anulieren. Je umfangreicher die Deckung, desto höher diese Chance. Denn die Wahrscheinlichkeit nicht getroffen zu werden ist ungefähr wieviel % vom Körper durch die Deckung verdeckt wird mal 0.75. Damit haben kleinere Charaktere einen Vorteil, um diesen nicht allzusehr zu erhöhen wird dabei immer von einem normalgroßen Körper ausgegangen (Mensch) und kleine Rassen bekommen eine 5% höhere Wahrscheinlichkeit, während große Rassen eine 5% niedrigere bekommen.
+
+Sobald man in Deckung ist, hat man keinen direkten Überblick über das Schlachtfeld mehr, was einem das strategische Handeln durchaus erschweren kann. Der DM entscheidet wie genau das zu implementieren ist, empfehlenswert ist, davon auszugehen, dass der Spieler gewisse Infos nicht hat.
+
+Bei genügend Schaden, der auf die Deckung trifft, wird die Wirkung der Deckung aufgehoben. Die Schadensmenge ist abhängig vom Material und der Breite der Deckung. Im Regelfall gilt diese Tabelle:
+
+|        | Leben |                 Beispiele                 |
+|--------|:-----:|:-----------------------------------------:|
+| Tier 1 |  350  | Schlechte Holzdeckung/Dreckshaufen/Pavese |
+| Tier 2 | 3500  |     Steinhaufen/Bessere Holzdeckungen     |
+| Tier 3 | 9000  |        Massive Steinmauern/Felsen         |
+
+Werte können im Spezialfall auch abweichen
+
+Sollte der Schadenswert einer Deckung überschritten sein, gilt die Deckung als zerstört und ist damit nicht mehr wirkungsvoll. Angriffe "schlagen" durch.
+
+Deckung kann auch negiert werden. Dies findet entweder durch Artillerie statt, oder durch hinter die Deckung geworfene Explosivstoffe (Hierbei ist der Threshold an die Größe der Deckung und die Umstände anzupassen). Eine weitere Strategie gegen Deckung ist das "ansitzen". Hierbei deklariert ein Angreifer als Main Action eine Deckung und achtet genau auf sie. Dies führt dazu, dass er auf ein beliebiges Ziel, dass hinter der Deckung hervorkommt oder hervorschaut einen Angriff in der gegnerischen Runde ausführen kann, die Verteidigung wird at Disatvantage geworfen. Sollte ein Wesen während dem ansitzen allerdings einen anderen Check werfen müssen wirft es diesen ad Disatvantage und verliert den Fokus auf die Deckung (damit ist das ansitzen beendet). Während man ansitzt kann man nicht mithilfe einer single action eine Abwehraktion (Block,Dodge,Parieren) starten, sondern der Würfel entscheidet.
+
+### Instrumente und ihre Wirkung im Kampf {#InstrumenteRules}
+
+Mit einem guten Rhythmus kämpft man besser. Bestimmte Instrumente bringen Power Ups oder Debuffs im Kampf und können auf Gruppen und Einzelpersonen (Targets) angewandt werden.
+
+Instrumente haben Slots für Buffs und Debuffs. In jeden Slot passt ein Effekt. Ein Effekt hält zwei Runden an und muss dann erneuert werden. Zum Erneuern muss zuerst als Main Action eine Probe auf Performance gespielt werden, je nach Effekt ist der Threshold ein anderer.
+
+Das Instrument zu spielen ist auch wieder eine Main Action. Die möglichen Buffs der Instrumente <font color="green">[ist hier gelistet](#WirkungBuffs)</font>.
+
+In bessere Instrumente passen mehrere Buffs, diese können also direkt nacheinander eingesetzt werden, da der Buff - nicht das Instrument - einen Cooldown hat.
+
+### Dual Wielding
+
+Ganz mutige Wesen versuchen mit zwei Waffen zu kämpfen. Dies kann Vor- und Nachteile mit sich bringen. Ein Nachteil dabei ist, dass man nicht blocken kann. Ein Vorteil ist, dass man auch in der Single Action mit einer Waffe zuschlagen kann.
+
+Des weiteren gibt es die Chance auf einen Optionsangriff von 20% nach einem Angriff auf einen Zweithandangriff. Für diesen gilt: Der Schaden mit der Sekundärwaffe (außer Dolch und unbewaffnetem Angriff) wird nur zu 80% umgesetzt. Bei Dolchen kommt 90% des Schadens durch, bei unbewaffneten Angriffen sind es 100%. Sollte es zu einem Optionsangriff kommen, fällt die Option auf einen normalen Doppelangriff weg. Egal wie, man kann auch mit dual Wield nur maximal zwei Angriffe pro Runde werfen.
+
+### Der Schildstoß
+
+Charaktere mit Schilden können auch einen Schildstoß vollführen. Hierbei wird mit dem Blocken-Skill angegriffen und der Schildwert als Waffenwert verwendet (das Programm macht das automatisch). Wenn der Value dabei um 2 größer ist als jener der Verteidigungsaktion des anderen wird dieser umgeworfen und muss aufstehen (auch das zeigt das Programm an)
+
+### Andere Angriffe während Single Actions
+
+Auch andere Angriffe können als Single Action durchgeführt werden. Dazu zählen <font color="green">[kleine Wurfwaffen](#WurfWaffen)</font> und unbewaffnete Angriffe wie bspw. ein Faustschlag.
+
+### Schleichangriffe
+
+Unerwartete Angriffe können unheimlich effektiv sein und laufen nach einem gewissen Schema ab. Zuerst wirft man eine <font color="green">[Sneak-Probe](#UntypischeProben)</font> gegen das Ziel oder andere Personen, die einen sehen könnten. Wenn diese fehlschlägt wird normal <font color="green">[Initiative](#Initiative)</font> geworfen. Wenn nicht kommt es zum Schleichangriff. Dieser kann mit allem durchgeführt werden, was nicht als Großwaffe gilt.
+
+Beim Schleichangriff ist keine Abwehraktion des Gegners möglich, sonst läuft der Schleichangriff wie ein normaler Angriff. Außnahme davon ist der Dolch und die Armbrust - bei der Armbrust wird 4 mal gewürfelt, beim Dolch kommt es zum Attentat.
+
+Nach einem Schleichangriff wird eine weitere Sneak-Probe geworfen, um zu entscheiden, ob der Charakter entdeckt wurde oder nicht. Bei einem Schleichangriff mit einer Nahkampfwaffe bekommt man für die Probe einen -5 Modifyer auf das Attribut Agility, mit dem Schleichen geworfen wird. Bei einem Schleichangriff mit einer Fernkampfwaffe liegt dieser Modifyer nur bei -2, beziehungsweise bei -1 mit der Armbrust. Dieser Modifyer bleibt bestehen solange der Schleichvorgang andauert, und bei jedem weiteren Schleichangriff, der im Rahmen dieser Aktion durchgeführt wird, kommt ein weiterer Modifyer dazu, diese Modifyer verfallen bei Entdeckung oder Flucht sofort.
+
+Beispiel: Ein Charakter (mit 12 Agility und 43 Sneak) legt einen Hinterhalt mit einem Bogen. Er besteht den ersten Sneak-Check (mit 12 Agility und 43 Sneak) und kann einen Schleichangriff landen. Danach muss er einen weiteren Sneak-Check machen (mit 10 Agility und 43 Sneak - Aufgrund der Fernkampfwaffe bekommt er einen -2 Modifyer auf die Schleichprobe). Er besteht und macht einen zweiten Schleichangriff. Nun kommt ein weiterer Sneak-Check (mit 8 Agility und 43 Sneak - Aufgrund der Fernkampfwaffe bekommt er einen weiteren -2 Modifyer auf die Schleichprobe). Er besteht und macht einen zweiten Schleichangriff - dieses mal mit seinem Dolch. Nun kommt ein weiterer Sneak-Check (mit 3 Agility und 43 Sneak - Aufgrund der Nahkampfwaffe bekommt er einen -5 Modifyer auf die Schleichprobe). Dieses mal wird er entdeckt und die Ziele greifen ihn an, jetzt hat er wieder 12 Agility und 43 Sneak.
+
+Beim Schleichen sind außerdem die <font color="green">[Modifikatoren durch Überladung](#Belastungsstufe)</font> zu beachten.
+
+#### Das Attentat {.unnumbered}
+
+Wenn eine Sneak Attack mit einem Dolch stattfindet, wird es bei geringeren Gegnern zum Attentat. Das Attentat tötet den Gegner direkt. Sollte der DM da was dagegen haben, wird das normale Prozedere mit Advantage 5 geworfen. Dies trifft vor allem auf Monster und bestimmte Charaktere zu bei denen es nicht glaubhaft ist, dass ein Attentat ausreichend ist, um sie zu töten. Sollte der DM das Attentat verneinen, wird der Schaden der Versuche stattdessen kummuliert.
+
+### Waffen werfen und Wurfwaffen
+
+Jede Waffe kann auch für ein wenig Schaden geworfen werdem. Hierbei wird der Schaden der Waffe mit dem Wurfwert multipliziert und als Waffenschaden verwendet. Werfen einer Waffe wird mit dem Skill throwing geworfen und kann gedodged oder geblockt werden.
+
+Wurfwaffen funktionieren für gewöhnlich genauso. Im Notfall kann man sie als normale Nahkampfwaffen verwenden, allerdings bringt das kaum etwas. Ansonsten werden Wurfwaffen für eine single Action geworfen. Sie haben eine Chance gegnerische Aktionen zu unterbrechen, sie haben allerdings auch bei jeder Verwendung eine Chance, kaputtzugehen. Eine <font color="green">[Liste von Wurfwaffen ist hier](#Belastungsstufe)</font> einzusehen.
+
+### Called Shots
+
+Manchmal will man einen speziellen Teil des Gegners angreifen. Das nennt man einen Called Shot. Hierbei wird allerdings die Trefferwahrscheinlichkeit - und dadurch der Schaden - stark verringert, je nachdem was man zu treffen plant. Hierbei gibt es vier Bereiche:
+
+-   Kopf - Dies hat die Chance einen Gegner zu betäuben
+-   Torso - Innere Verletzungen nach Entscheidung des DM (empfohlen Luck/Glaube-Roll)
+-   Arme - Dies hat die Chance zu entwaffnen
+-   Beine - Dies hat die Chance einen Gegner umzuwerfen
+
+Diese Bereiche haben jeweils auch eigene Health-Werte und können nach und nach runtergebracht werden, um die Effekte sicher zu erzielen. Wird einem Teil schaden gemacht, sinkt auch die allgemeine Gesundheit eines Zieles.
+
+Es wird empfohlen einen Called Shot nur zu setzen, wenn der Gegner nicht garantiert Blocken, Parieren oder Ausweichen kann.
+
+### Objekte während des Kampfes
+
+Objekte können während des Kampfes als Single Action verwendet werden. Wichtig ist hierbei allerdings, dass man sie bereits in der Hand, im Holster (bei Waffen) oder in der Tranktasche (bei Tränken) trägt. Alles, was aus dem Rucksack - also dem übrigen Inventar - geholt werden muss, kostet eine Main Action.
+
+#### Holster {#Holster1 .unnumbered}
+
+es gibt 5 mögliche Holster:
+
+-   Hauptholster - Hier kann man eine Nahkampfwaffe, eine Fernwaffe oder einen Dolch platzieren
+-   Sekundärholster - Hier kann man eine Nahkampfwaffe, eine Fernwaffe oder einen Dolch platzieren
+-   Rückenholster - Hier ist Platz für eine Fernwaffe, eine Großwaffe oder eine Stangenwaffe
+-   Zusatzzlot - Hier kann man einen zusätzlichen Köcher oder seinen Schild tragen
+-   Köcher - dies ist der Standardköcher für Wurfwaffen/Spezialmunition den jeder haben kann
+
+Ein Holster erlaubt einem, Waffen mit einer Single Action zu ziehen bzw. zu tauschen.
+
+#### Köcher {.unnumbered}
+
+In einem Köcher kann entweder Spezialmunition oder Wurfwaffen mitgeführt werden. Dies hat den Vorteil, dass die Spezialmunition direkt in einem Ranged-angriff verwendet werden kann (dieser kostet wie ein normaler Ranged-angriff die Main Action), während Wurfwaffen im Köcher für die Side Action geworfen werden können.
+
+Diese Regel trifft allerdings nicht für Dual Wielder/Benutzer eines Turmschildes zu. Diese brauchen um ein Item aus dem Köcher zu verwenden die Main Action - da ihre Hände entweder voll sind oder der große Schild zu sperrig ist um gut hinzukommen.
+
+#### Tranktaschen {.unnumbered}
+
+Mit einer Tranktasche kann man Tränke und Bomben mit einer Single-Action verwenden, solange sie in der jeweiligen Tranktasche sind. Ein Charakter kann nur eine Tranktasche mitführen. Mehr über Tranktaschen kann man <font color="green">[hier lesen](#TranktascheItems)</font>.
+
+### Kämpfen in Formation {#Formation}
+
+Wenn man 5 Leute oder mehr zur Verfügung hat kann man in Formation kämpfen. Eine Formation hat mehrere Vorteile: Zum einen wird der Schaden von <font color="green">[Stangenwaffen](#Stangenwaffen)</font> nicht halbiert, zum anderen sind gewisse Aktionen - wie gemeinsames Blocken - möglich. Bei gemeinsamen Aktionen kann eine Person stellvertretend für die ganze Gruppe die Probe übernehmen. Eine Formation ist nur möglich, wenn das Terrain dies auch zulässt.
+
+#### Der gemeinsame Block {.unnumbered}
+
+Eine der stärksten Fähigkeiten für das Kämpfen in Formation ist der gemeinsame Block. Hierbei werden die Attribute des Charakters mit dem zweithöchsten Blocken-Wert der Formation und der Skill des Charakters mit dem höchsten Blocken-Wert in der Formation für den Check herangezogen. Es muss also nur einmal geworfen werden, dieser Check wird als Check für alle herangezogen.
+
+### Kampf vom Reittier
+
+Sollte man von einem Reittier kämpfen gibt es mehrere Besonderheiten:
+
+1.  Der <font color="green">[Bewegungsradius](#BewRadius)</font> ist nicht mehr der des Charakters, sondern der des Reitieres
+2.  Man zählt als großes Ziel, d.h. man sollte sich von <font color="green">[Stangenwaffen](#Stangenwaffen)</font> in Acht nehmen.
+3.  Vor dem Angriffswurf wird eine Probe auf Reiten geworfen, die entscheidet wieviel vom Mount-Multiplikator des Reittieres durchkommt.
+4.  Ansonsten Zählen die <font color="green">[Regeln des Reitens](#Reiten)</font>.
+
+### Der Unbewaffnete Kampf
+
+Der unbewaffnete Kampf hat zwei Anwendungen - den Pugilismus und das Grappling. Pugilismus beschreibt den "herkömmlichen" Kampf mit Fäusten oder Faustwaffen. Man bleibt in Verteidigungsposition, schlägt bedacht zu und macht Schaden. Der Pugilismus läuft wie der normale Kampf - nur eben mit dem Schaden der Faust oder Faustwaffe und mit dem Skill "Unarmed".
+
+Grapple läuft ebenso wie Pugilismus mit Unarmed - macht allerdings keinen Schaden sondern ist dazu da den Gegner umzuwerfen oder festzuhalten. Beim Grapple wird eine Differenzprobe im Skill unarmed geworfen und der Gewinner bringt den Gegner zu Boden oder hält ihn fest. Will man einen Gegner weiter Festhalten muss jede Runde ein weiterer Unarmed Check geworfen werden, mit Value - 1\*Runde die man den Gegner aktiv am Boden hält. Achtung: Grappling ist risikoreich, da man auch selbst niedergerungen werden kann. Auch andere Gegenmaßnahmen wie Dolche können sehr effektiv sein gegen einen Festhalteversuch.
+
+### Artillerie {#ArtillerieOverall}
+
+Gegner mit Artillerie anzugreifen ist immer eine gute Idee - sollte die Artillerie verfügbar sein. Artillerieproben funktionieren kummulativ - je nachdem wieviele Leute an dem Gerät Besatzung sind - wird der Value addiert. Des Weiteren wird der Damage im Ganzen beim Hit vollstreckt. Sollte die Besatzung den Threshold der Waffe nicht überschreiten, verfehlt der Schuss.
+
+Stats und Arten der Artillerie:
+
+| Artillerie | Schaden | Reichweite | In Kästen | Gewicht | Threshold |  Preis   | Preis/Schuss |
+|:----------:|:-------:|:----------:|:---------:|:-------:|:---------:|:--------:|:------------:|
+|  Skorpion  |   300   |    150m    |     3     |  30 kg  |    2,3    |  90000   |     100      |
+|  Balliste  |  1000   |    300m    |     6     | 250 kg  |    3,3    | verboten |     300      |
+| Handkanone |   400   |    50m     |     1     |  50 kg  |     3     | verboten |     200      |
+| Großkanone |  3600   |    400m    |     8     | 900 kg  |    3,6    | verboten |     750      |
+|  Katapult  |   600   |    200m    |     4     | 300 kg  |     4     | verboten |     200      |
+| Trebouchet |  2900   |    350m    |     7     | 600 kg  |    4,7    | verboten |     600      |
+
++------------+--------------------+--------------------+-----------------+--------+--------------------------------------------------------------------------------+
+| Artillerie | Minimale Besatzung | Maximale Besatzung | Negiert Deckung | Größe  | Zusatz                                                                         |
++:==========:+:==================:+:==================:+:===============:+:======:+:==============================================================================:+
+| Skorpion   | 1                  | 2                  | --              | Klein  | Aufbau im Kampf: 3 Runden wenn nur 1 Mann Besatzung: Nachladen als Main Action |
++------------+--------------------+--------------------+-----------------+--------+--------------------------------------------------------------------------------+
+| Balliste   | 2                  | 3                  | Tier 1          | Mittel | Nachladen 1 Runde minimum, 2 Runden, wenn Besatzung \<2                        |
++------------+--------------------+--------------------+-----------------+--------+--------------------------------------------------------------------------------+
+| Handkanone | 1                  | 1                  | Tier 1          | Klein  | Nachladen 1 Runde                                                              |
++------------+--------------------+--------------------+-----------------+--------+--------------------------------------------------------------------------------+
+| Großkanone | 2                  | 3                  | Tier 2          | Groß   | Nachladen 1 Runde minimum, 2 Runden, wenn Besatzung \<3                        |
++------------+--------------------+--------------------+-----------------+--------+--------------------------------------------------------------------------------+
+| Katapult   | 2                  | 3                  | Tier 1          | Mittel | Nachladen 1 Runde minimum, 2 Runden, wenn Besatzung \<3, Area Damage 2m        |
++------------+--------------------+--------------------+-----------------+--------+--------------------------------------------------------------------------------+
+| Trebouchet | 4                  | 8                  | Tier 2          | Groß   | Nachladen 1 Runde minimum, 2 Runden, wenn Besatzung \<6 , Area Damage 8m       |
++------------+--------------------+--------------------+-----------------+--------+--------------------------------------------------------------------------------+
+
+### Die Schadensverrechnung
+
+Schaden wird relativ einfach verrechnet:
+
+1.  Das Programm gibt den Schaden aus
+2.  Abzug von Block/Dodge - Wirkungen (Auch über das Programm bei nrun=2)
+3.  Abzug des Rüstungswertes
+4.  Damage von Leben abziehen
+
+### Damage Over Time
+
+Damage over Time - sogenannte Statuseffekte - können durch eine vielzahl von Dingen ausgelöst werden. Sowohl Waffenmods, als auch besondere Munitionstypen bis hin zu Monstern können für Gift, Blutungen oder Brennen sorgen. Hierbei gibt es mehrere Konzepte zu Verstehen: ein Dot wird über eine gewisse "Dauer" an Runden applied und verursacht jede Runde einen gewissen Debuff (fast immer "Schaden"). Des weiteren wird ein Dot nur mit einer gewissen "Wahrscheinlichkeit" ausgelöst und auch nur, wenn der Gegnet, der den Dot verursachen will, Schaden verursacht.
+
+Wenn ein Dot mit einer Nahkampfwaffe ausgelöst wird, geht üblicherweise eine "Ladung" verloren - bspw. verbraucht sich Gift oder die Zacken einer gezackten Klinge stumpfen ab.
+
+Dots können sich auch häufen, so verursacht jede erfolgreiche Applikation eines Dots einen "Stack" des jeweiligen Statuseffektes - womit sich der Damage natürlich mit der Anzahl der Stacks multipliziert.
+
+Gegen jeden Dot gibt es eine Kontermöglichkeit,
+
+Dieses System mag am Anfang sehr kompliziert erscheinen, wird allerdings zu 100% von unserem Programm übernommen.
+
+#### Gift {.unnumbered}
+
+Gift ist die Wildcard unter den Statuseffekten, oftmals wird eine Vergiftung erst bemerkt, wenn sie sich bereits durch einen Teil der Gesundheit des Ziels gefressen hat - denn jedes mal, wenn ein stack Gift wirkt, wird ein Perception-check gegen einen damageabhängigen Threshold geworfen - der geschafft werden muss, damit der Charakter seine Vergiftung merkt.
+
+Gift kann in 2 bis 9 Ladungen verabreicht werden und ein Stack Gift hält in der Regel 10 Runden. Der Schaden, der pro Runde gemacht wird hängt von der Stufe des Gifts ab, und kann über folgende Formel ermittelt werden: $$SchadenProRunde = Minschaden:Ladungen \cdot ((Minschaden:100) \cdot Ladungen \cdot 1,1)$$ Mehr Ladungen machen mehr Schaden insgesamt und auf möglicherweise mehrere Gegner, müssen allerdings öfter applied werden - sind daher also langsamer. (Der Minschaden für eine Stufe Gift ist <font color="green">[in der Trankliste einsehbar](#Tränke)</font>)
+
+```{r,echo=F}
+library(ggplot2)
+
+Maxschaden=200
+Ladungen=c(2:9)
+ll=data.frame(Maxschaden,Ladungen)
+ll$SchadenRunde=Maxschaden/Ladungen+((Maxschaden/100)*Ladungen*1.1)
+ll$SchadenGesamt=ll$SchadenRunde*c(2:9)
+
+ll=tidyr::pivot_longer(ll,c(-Ladungen,-Maxschaden))
+
+ggplot(ll,aes(x=Ladungen,y=value,col=name))+geom_line(size=1) + theme_bw() +
+  theme(panel.grid.major = element_line(linetype = "blank"), 
+    panel.grid.minor = element_line(linetype = "blank"), 
+    panel.background = element_rect(fill = "#F3EACB"), 
+    plot.background = element_rect(fill = "#F3EACB"),
+    legend.key = element_rect(fill = "#F3EACB"), 
+    legend.background = element_rect(fill = "#F3EACB"))+
+  labs(y="Schaden",title="Darstellung für Tier 1") + scale_colour_manual(name="",labels=c("Schaden insgesamt", "Schaden pro Ladung"),values=c("black","red"))
+
+```
+
+Als Gegenmaßnahme gegen Gift helfen leider nur andere Tränke - beispielsweise Gegengift.
+
+#### Bluten {.unnumbered}
+
+Beim Bluten verliert das Opfer für gewöhnlich jede Runde einen Prozentsatz seiner maximalen Gesundheit - üblicherweise 6% pro Stack - womit das Bluten sehr Effektiv gegen starke Einzelziele ist. Standartmäßig blutet man für 3 Runden und kann als Gegenmaßnahme gegen das Bluten mithilfe eines Survival-Checks die Wunden verbinden.
+
+#### Brennen {.unnumbered}
+
+Der Schaden eines Brennen Statuseffektes ist üblicherweise 50 pro Runde, jedoch kann die Dauer dieses Effekts variieren. Brennen kann gekontert werden, indem sich brennende Charaktere eine Runde auf dem Boden wälzen. Auch Wasser oder andere Mittel gegen Brände können dabei hilfreich sein.
+
+Sollte der Brand beispielsweise mit Öl entstanden sein, kann der DM gewisse Konteraktionen - wie auf dem Boden wälzen - für nicht möglich erklären.
+
+#### Andere Statuseffekte {.unnumbered}
+
+Andere Statuseffekte mit
+
+## Die Ausdauer {#Ausdauer}
+
+Ausdauer ist elementar für anstrengende Situationen. Sie verbraucht sich, wenn man die <font color="green">[Ausdauersaves](#Ausdauersave)</font> nicht schafft. Sobald man weniger als vier Punkte Ausdauer übrig hat werden sämtliche Attribute außer Glück und Glaube - und die Ausdauerwürfel - halbiert. Wenn man keinen Punkt Ausdauer mehr übrig hat und ein weiterer Ausdauersave missglückt fällt man in <font color="green">[Ohnmacht](#Ohnmacht)</font>.
+
+## Die Tiers (oder Stufen) {#Tiers}
+
+Sämtliche Ausrüstung, Tränke, Waffen, Instrumente, etc. kommen in Orbis Astea in sogenannten "Tiers" oder Stufen. Umso höher die Tier, desto besser und wertvoller die Ausrüstung. In einer Tier können Ausrüstungsstücke verschiedenen Materials sein, d.h. die Tier entscheidet darüber, was die Werte der Waffe sind, während das Aussehen und das Material, solange es Tier-konform ist, meistens vom Spieler bestimmt werden darf. Genauer wird dieses Konzept in <font color="green">[Items](#Items)</font> behandelt.
+
+Welche Materialien gehören zu welchen Tiers?
+
+| Tier 1 | Tier 2 |      Tier 3      |          Tier 4          |       Tier 5       |
+|:------:|:------:|:----------------:|:------------------------:|:------------------:|
+| Eisen  | Stahl  | Gehärteter Stahl |     Zwergenmaterial      | Vorreiter-Material |
+| Buche  | Lärche |      Esche       | Silva-Nacia-Spinnenseide |                    |
+| Stoff  | Leder  |  Kettenbeschlag  |                          |                    |
+
+Während Tier 1 recht verbreitet ist und Tier 2 dem erfahrenem oder reichem Abenteurer zur Verfügung steht ist Tier 3 bereits ausrüstung, die man sehr selten sieht und absoluten Eliteeinheiten vorbehalten ist. Tier 4 haben noch legendäre Krieger und prestigegeile Herrscher, die sich eine Garde leisten können die groß genug ist dass nicht jede Banditengruppe oder jeder Meuchelmörder und Dieb in einer Taverne versucht einem ein derart seltenes und mächtiges Objekt abzunehmen.
+
+Tier 5 ist eine Vollständig andere Liga, diese Items besitzen Gottgleiche Mächte und können entfesselt und kontrolliert ganze Armeen vernichten und wahre Drachen wie kleine Hunde aussehen lassen. Sie zu kontrollieren und zu bedienen ist allerdings noch schwieriger als sie zu finden oder zu erkennen. Sie haben vollständig eigenständige Effekte und jeder DM sollte sich genau überlegen was er tut bevor er sie einführt.
+
+## Geld und Wechselkurse {#Währung}
+
+In Orbis Astea gibt es verschiedene Währungen, während im Kaiserreich Reiks die bezeichnende Währung ist, sind es bei den Rah Kari die Tempelmünzen. Zwergenkronen ist selbstverständlich die normierte Währung der Zwerge. Das Seevolk und die Bürger der Skaen verwenden die Währung der Thaler.
+
+Umrechnungskurse:
+
+| Währung       | Kurs Reiks | DnD Silver (10s=1g) | Zwergenkronen | Tempelmünzen | Thaler |
+|---------------|:----------:|:-------------------:|:-------------:|:------------:|:------:|
+| Reiks         |     1      |        0,02         |      0,5      |      2       |   4    |
+| DnD Silver    |     50     |          1          |      25       |     100      |  200   |
+| Zwergenkronen |     2      |        0,04         |       1       |      4       |   8    |
+| Rah Kari      |    0,5     |        0,01         |     0,25      |      1       |   2    |
+| Thaler        |    0,25    |      kein Kurs      |     0,125     |     0,5      |   1    |
+
+### Einordnung der Größenverhältnisse von Geldbeträgen
+
+Das Einkommen eines durchschnittlichen unqualifizierten Arbeiters beträgt 5.000 Reiks, dieses Einkommen reicht um eine drei Köpfige Familie für einen Monat zu ernähren. Ein Qualifizierter Arbeiter sei es ein Handwerksmeister oder Händler kann in etwa 7.500 Reiks am Ende des Monats erwarten.
+
+Ein einfaches fleischloses Abendessen kostet in etwa 30 Reiks. Ein Stüch Fleisch hat den Luxeriösen Preis von 100 Reiks. Eine Übernachtung in einem Inn kostet zwischen 80 und 100 Reiks.
+
+## Die Alchemie {#Alchemie}
+
+Die Alchemie ist eine der Herstellungsdisziplinen. Mithilfe von zwei unterschiedlichen Pflanzen können Alchemisten hierbei verschiedenste Tränke brauen.
+
+### Herstellung von Tränken {#HerstellungTränke}
+
+Tränke müssen immer aus zwei Ingridienzien hergestellt werden. Hierbei ist die maximal entstehbare Stufe des Trankes die aufaddierten Effektgrößen der Pflanzen/2. Davon abgesehen werden die Tränke die stärkstmöglichen, die ein Threshold hergibt.
+
+Pflanzen haben bis zu vier Effekte, steht der Name eines Tranks in diesen Effekten dabei kann man den Trank mit dieser Zutat (und einer anderen mit passendem Effekt) brauen.
+
+Um Übersicht über die Pflanzen zu erlangen schau <font color="green">[hier](#App)</font> für die genauen <font color="green">[Wirkungen hier](#Tränke)</font>
+
+Hier sind die jeweiligen Thresholds und Informationen was die Stufen der Pflanzen angeht, die Abklingzeit beschreibt wie lange die Toxische Wirkung im Körper aktiv ist:
+
+|  Stufe  | Threshold |  Herstellung  | Abklingzeit | Toxikologie |
+|:-------:|:---------:|:-------------:|:-----------:|:-----------:|
+| Stufe 1 |    1,7    |  On the run   |   30 min    |      1      |
+| Stufe 2 |    2,4    |  On the run   |   90 min    |      2      |
+| Stufe 3 |    2,6    |     Lager     |     4h      |      3      |
+| Stufe 4 |    3,5    |     Lager     |     10h     |      4      |
+| Stufe 5 |    4,5    | Alchemietisch |    24 h     |      5      |
+| Stufe 6 |   4,75    | Alchemielabor |   3 Tage    |      6      |
+
+Sollte man zum Beispiel einen Ausdauertrank brauen, der von den Zutaten her Stufe 5 erreichen könnte, hat aber nur einen Threshold von 4 wird es ein Stufe 4 Trank. Des weiteren ist wichtig welche Tränke wo hergestellt werden können. Während Stufe 1 & Stufe 2 überall und spontan hergestellt werden können, braucht man für Tränke der Stufen 3 und 4 schon mehr Zeit und muss diese im Lager herstellen. Tränke der Stufe 5 brauchen einen Alchemietisch (einen solchen findet man bei den meisten Alchemisten) und Stufe 6 braucht eine Alchemielabor, welches nur in Großstädten verfügbar ist.
+
+Des weiteren braucht ein Alchemist eine Flasche, in die er sein Gebräu einfügen kann. Bei Bomben kommt dabei nur eine Bombshellflasche in betracht. Für sämtliche anderen Tränke kann man sich zwischen einer teueren Metall und einer billigen Glasflasche entscheiden - wobei Glasflaschen gerne mal bei Belastung kaputt gehen. Aber wann und wobei sie kaputt gehe Obliegt dem DM, wobei das schon begründbar sein sollte (verknüpfen mit einem Lucksafe und angepasstem Treshold).
+
+Hier die Preise für die verschiedenen Flaschen:
+
+|     Flaschen     | Preis |
+|:----------------:|:-----:|
+|   Glasflasche    |  50   |
+|  Metallflasche   |  200  |
+| Bombshellflasche | 1000  |
+
+### Inhibitoren
+
+Nicht immer will man, dass Trankwirkungen gleich einsetzen. Manchmal ist es sinnvoll lange aus dem Gebäude zu sein bevor das vergiftete Ziel stirbt. Für diesen Fall gibt es sogenannte Inhibitoren. Inhibitoren werden wie normale Tränke hergestellt und sorgen dafür, dass ein Spieler im vorhinein bestimmen kann mit welcher Verzögerung ein Trank wirkt.
+
+### Epinephrinika {#Epinephrin}
+
+Epinephrinika sind besondere Tränke. sie wecken einen Ohnmächtigen sofort aus (+100 Health falls die Health davor auf null war). Allerdings müssen Epinephrinika on the run hergestellt werden, weil es nach fünf Minuten seine Wirkung verliert. Kluge Gruppen haben daher die Zutaten für Epinephrinika immer dabei.
+
+## Das Handwerksystem
+
+Ein weiterer Herstellungsskill in Orbis Astea ist das Handwerk. Handwerk ist wichtig um Waffen zu pflegen, zu verbessern und zu Modifizieren. Das sind Dinge die man teuer vom Schmied machen lassen muss, oder eben selbst machen kann, wenn man die passenden Skills hat.
+
+Jede Aktion des Handwerkskills braucht ein Material des entsprechenden <font color="green">[Tiers](#Tiers)</font>, schlägt die versuchte Aktion fehl wird das Material verbraucht. Für jede dieser Aktionen braucht man einen Amboss oder eine Schmiede.
+
+### Reparieren
+
+Ausrüstung verliert über die Zeit Zustand. Mit der Aktion Reparieren stellt man den Zustand vollständig wieder her. Thresholds und Kosten der Aktion Reparieren:
+
+| Reparieren | Threshold | Materialkosten | Kosten Schmied |
+|:----------:|:---------:|:--------------:|:--------------:|
+|  Stufe 1   |    1,5    |      1500      |      4000      |
+|  Stufe 2   |    2,3    |      6750      |     14850      |
+|  Stufe 3   |     3     |     27000      |     60000      |
+|  Stufe 4   |     4     |     90000      |     200000     |
+|  Stufe 5   |     5     |     180000     |     400000     |
+
+### Verbessern
+
+Die Aktion "Verbessern" erhöht den Damage-Wert eines Ausrüstungsgegenstandes um 1.
+
+Thresholds und Kosten der Aktion Verbessern:
+
++------------+--------------+-----------+-----------------+---------------+----------------+
+| Verbessern | Standartwert | Threshold | Kosten Material | Höchster Wert | Kosten Schmied |
++:==========:+:============:+:=========:+:===============:+:=============:+:==============:+
+| Stufe 1    | 30           | 2         | 1500            | +14           | 6000           |
++------------+--------------+-----------+-----------------+---------------+----------------+
+| Stufe 2    | 42           | 2,8       | 6750            | +8            | 27000          |
++------------+--------------+-----------+-----------------+---------------+----------------+
+| Stufe 3    | 48           | 3,8       | 27000           | +6            | 108000         |
++------------+--------------+-----------+-----------------+---------------+----------------+
+| Stufe 4    | 53           | 4,7       | 90000           | +4            | 360000         |
++------------+--------------+-----------+-----------------+---------------+----------------+
+| Stufe 5    | --           | --        | --              | --            | --             |
++------------+--------------+-----------+-----------------+---------------+----------------+
+
+### Modifizieren {#modifizieren}
+
+Das modifizieren ist die kreative Komponente des Handwerks. Modifikationen sind grundsätzlich mit dem DM abzusprechen, dieser hat sich davor gut zu überlegen wie das Balancing möglich ist. Sollte sich das Objekt als zu stark erweisen muss es gegebenenfalls nachträglich genervt werden. Bei jeder Modifikation geht der maximale Zustand des Ausrüstungsgegenstandes herunter. Um wie viel er runtergeht entscheidet der DM.
+
+### Herstellen
+
+Das Herstellen von Waffen geht nach folgender Tabelle:
+
+| Herstellen | Standartwert | Threshold | Materialkosten |
+|:----------:|:------------:|:---------:|:--------------:|
+|  Stufe 1   |      30      |    2,4    |      1500      |
+|  Stufe 2   |      42      |    3,3    |      6750      |
+|  Stufe 3   |      48      |     4     |     27000      |
+|  Stufe 4   |      53      |     5     |     90000      |
+|  Stufe 5   |      --      |    --     |       --       |
+
+#### Waffenfremde Modifikationen/Schaffungen
+
+Auch nicht-Waffen können modifiziert/erschaffen werden. Sollte ein Spieler auf die Idee kommt ein eigenes Gadget oder ein eigenes Objekt herzustellen ist das wie im Oberkapitel Modifikationen zu prüfen.
+
+#### Typische Modifikationen
+
+-   Haarspangendolch: Dieser nicht kampffähige Dolch verliert drei Zustand und kann nur für Attentate eingesetzt werden - dafür ist die Versteckchance bei 90% und es wird kein Holster zum tragen benötigt. Manchmal ist er auch zum Attentat im Kampf einsetzbar (Entscheidung des DM)
+-   Armbrustwinde: minus 3 Zustand, verringert die Chance die Single Action zu verlieren auf 25%.
+
+## Pause und Rast
+
+Wenn ein Charakter in einem Kampf oder durch andere Aktivitäten entweder Gesundheit oder Ausdauer verliert, ist es möglich, diese Werte bis zu einem bestimmten Punkt mit Hilfe des Pausensystems zu regenerieren. Dieses System umfasst 3 verschiedene Pausen, die verfügbar sind, nämlich:
+
+Kurze Pause: Lange Pause: Downtime:
+
+|    Länge    |                           Dauer                           |
+|:-----------:|:---------------------------------------------------------:|
+| Kurze Pause |                        3-4 Stunden                        |
+| Lange Pause |                        7-8 Stunden                        |
+|  Downtime   | Zeit zwischen 2 Sessions <br>(üblicherweise mehrere Tage) |
+
+Wenn sich Spieler zwischen zwei Sitzungen befinden (Downtime), regenerieren sich ihre Ausdauer und Gesundheit immer bis zu 100%, es sei denn, der Dungeon Master kündigt eine größere Wunde an, die von einem Profi behandelt werden muss oder streicht die Downtime vollständig. Bei kurzen oder langen Pausen ist wichtig zu beachten, dass der Dungeon Master entscheiden kann, wie lange die Pause dauern soll, jedoch sollten die angegebenen Zeiträume als allgemeines Maß für die Dauer der Pausen verwendet werden. Außerdem müssen die spielbaren Charaktere die gesamte Pause ohne anstrengende Aktivitäten oder Unterbrechungen beenden, sonst ist keine Regeneration möglich. Ein weiterer wichtiger Faktor sind die Umstände, in dem sich Spieler ausruhen, diese können schlecht, durchschnittlich oder gut sein. Als schlecht kann man eine Pause auf der Straße bei kaltem Wetter bezeichnen, als mittelmäßig, wenn man in einer Kutsche schläft, die für lange Reisen geeignet ist (Dach, windfeste Wände usw.), und als gut, wenn man in einer Taverne mit einem warmen Raum und einem gut vorbereiteten Zimmer ruht. Der Dungeon Master hat die Verantwortung zu entscheiden, in welchen Umständen sich die Spieler befinden, wenn sie versuchen, das Pausensystem zu nutzen. Die folgende Tabelle zeigt, wie der Zustand durch die Qualität der Pause beeinflusst wird:
+
+| Umstände | Kurz | Lang |
+|:--------:|:----:|:----:|
+| Schlecht | 10%  | 30%  |
+|  Mittel  | 20%  | 40%  |
+|   Gut    | 40%  | 60%  |
+
+Bei den werten handelt es sich um eine Prozentuale Erholung gemessen an den Maximalwerten des Spielers. Beispiel: Eine kurze schlechte Rast stellt 10% der maximale Fehlenden Ausdauer und Leben wieder her. Die Werte werden im Zweifel aufgerundet.
+
+Eine weitere Möglichkeit, den Wert einer Pause zu erhöhen, ist sich von einem fähigen Mitglied der Gruppe pflegen zu lassen - indem dieser Nahrung zubereitet und wunden versorgt. Hierzu hat der Spieler die Möglichkeit, einen Survival check durchzuführen. Es ist empfehlenswert, dass nur diejenigen, die tatsächlich in Überlebensexperten sind, dies versuchen, da ein schlechter Wert dazu führen kann, dass die Spieler während der Pause auch Gesundheit und Ausdauer verlieren - indem schlechtes essen serviert wird oder sich die Wunden durch falsche Versorgung infizieren. Der Survival check betrifft alle Spieler einer Gruppe und nicht nur eine einzelne Person.
+
+## Reiseoptionen
+
+Der reisenden Spielergruppe in der Downtime stehen stehts 2 Entscheidungsmöglichkeiten für ihre Reise offen. Zum einen die Überlandroute die durch kleine Dörfer und Natur führt und die Stadtroute entlang Hauptstraßen und durch ummauerte Städte mit Märkten. Beide Optionen haben vor und Nachteile, also sollte sich die Gruppe kurz überlegen welche Option sie vorzieht.
+
++----------------------------+------------------------------------------------------+----------------------------------------------------------------------------------+
+|                            | Überland / Dorf                                      | Hauptstraße / Stadt                                                              |
++============================+======================================================+==================================================================================+
+| Versorgung / Unterbringung | Camping, gegessen wird was gejagt und gesammelt wird | Neben Zöllen fallen auch kosten für Herbergen und Essen an in Höhe von 350 Reiks |
++----------------------------+------------------------------------------------------+----------------------------------------------------------------------------------+
+| Markt                      | kleiner Dorfmarkt\                                   | Großer Markt mit exotische Waren\                                                |
+|                            | Waffen T1, Material T2\                              | Waffen T2, Material T3\                                                          |
+|                            | viele Blumenmädchen                                  | Tiermarkt\                                                                       |
+|                            |                                                      | Konstrukte bis T2                                                                |
++----------------------------+------------------------------------------------------+----------------------------------------------------------------------------------+
+| Schmiede                   | Ein Schmied zufälliger Qualität                      | Drei verschiedene Schmiede zur Auswahl                                           |
++----------------------------+------------------------------------------------------+----------------------------------------------------------------------------------+
+| Pflanzen                   | Reichlich                                            | wenig und begrenzt auf Stadtauswahl                                              |
++----------------------------+------------------------------------------------------+----------------------------------------------------------------------------------+
+| Jobs                       | normal möglich                                       | normal möglich                                                                   |
++----------------------------+------------------------------------------------------+----------------------------------------------------------------------------------+
+
+Als Dritte Reiseoption gibt es Großstädte. Ein Großstadt wird grundsätzlich sehr ähnlich wie ein
+normaler Stadt behandelt, nur gibt es hier die Möglichkeit T4 Material zu kaufen und alle Schmiede zu verwenden. Ein Großstadt kann aber nur erreicht warden, wenn die Spieler sich geographisch in der Nähe von ein Großstadt auf der Weltkarte befinden.
+
+Als Sonderoption beim Reisen gibt es auch ein 1/3 Chance, dass die Spieler ein bestimmten Enklave finden, wo besondere Gegenstände gekauft warden können, die man normalerweise nicht kaufen
+kann. Kommt dies tatsächlich vor, dann wird eins der Folgenden Enklaven zufällig ausgewählt: Zwergenenklave (Konstrukte), Waldelfenenklave (Tiere), Meisterschmied (Waffen) und Zwergenkarawane (alles was das Herz begehrt).
+
+Mit ein passendes knowledgeskill können spieler gezielt nach ein bestimmten Enklave bei der Reise
+suchen.
+
+## Downtime-Aktivitäten
+
+In der Downtime können Charaktere alles mögliche machen, die Klassiker sind:
+
+Diese Aktivitäten werden in zwei Kategorien unterteilt, Hauptaktvitäten die effektiv den Charakter bereichern und Nebenaktivitäten für alles andere.
+
+Jeder Charakter kann je eine Haupt und eine Nebenaktivität pro Downtime ausüben, ausgeschlossen sind dabei Gespräche mit anderen Charakteren und Organisatorische Aktionen diese sind unbegrenzt möglich.
+
+### Hauptaktivitäten umfassen:
+
+```{r , echo=F}
+library(readxl)
+
+DFActivity= read_excel("Container\\Data\\DowntimeData.xlsx")
+
+colnames(DFActivity)[1:3]=c("Tätigkeit","Mittelwert","Standardabweichung")
+knitr::kable(DFActivity)
+```
+
+*Das sammeln von Pflanzen (Dies wird am Anfang der Session über das Tool gewürfelt)*
+
+Lernen entweder in Selbststudium, durch Lehrer oder Bücher
+
+*Diverse Verdienstmöglichkeiten diese umfassen zum Beispiel:*
+
+Diebstahl =\> zwei Optionen, hohes Risiko und niedriges Risiko jeweils mit der Basis 500 und 300 x Value mit hohem SD ( hohes Risiko SD=275, niedriges Risiko SD=)
+
+, sollte der Wert negativ werden bedeutet dass das der Dieb erwischt wurde und diese Strafzahlungen in Kauf nehmen muss, bei hohen Risiko Jobs besteht zusätzlich die möglichkeit anschließend für die Session Polizei bekannt zu sein.
+
+*Staßenauftritt =\> Basis 200 x Value hohe SD* (SD=65)
+
+Handwerksdienste =\> Qulaifizierte Arbeiter Basis 250 x Value niedrige SD (SD=15)
+
+*Hilfsarbeiten =\> unqualifizierter Arbeiter Basis 200 x Value niedrige SD* (SD=15)
+
+Wettkämpfe =\> Faustkämpfe, Armdrücken
+
+Würfelspiel =\> Einsatzabhängig Maximal Verlust Einsatz, Maximal Gewinn 2-fach
+
+### Nebenaktiväten umfassen:
+
+-   Einkaufen gehen und besorgungen erledigen
+-   Brauen von Tränken
+-   Handwerks aktionen =\> Schmieden, Basteln
+-   Besuch von Tavernen und anderen Etablissments
+
+### Andere Aktvitäten: \* Sich mit Kontakten und Npcs austauschen
+
+Durch das verwenden von Skills in der Downtime gibt es (bei einem Skill) eine 5% Chance auf Verbesserung des relevanten Skills um 1. Bei mehreren Skills muss der Player einen auswählen.
+
+### Training
+
+Ein Character kann seine komplette Downtime auch opfern um einen dedizierten Skill zu verbessern dabei gibt es zwei formen: entweder das Training alleine oder das Training mit einer Lehrperson (Achtung auch die Lehrperson verliert ihre volle Downtime).
+
+Training funktioniert folgendermaßen:
+
+1.  Man wählt einen dezidierten Skill aus den man trainieren will (Natürlich müssen die äußeren Vorraussetzungen gegeben sein, man kann persuation nicht in voller Isolation trainieren)
+
+2.  Man entscheidet ob alleine oder mit Lehrperson
+
+3.  Man würfelt den Trainingserfolg aus und interpretiert ihn
+
+Das Interpretieren ist stark abhängig davon wie man lernt beziehungsweise wie gut der Lehrer ist. Lehrer kommen in verschiedenen Stufen. Dabei ist die Stufe des Lehrers an der Differenz zwischen Schüler und Lehrer im relevanten Skill festzumachen:
+
+```{r,echo=F}
+Differenz<-seq(10,70,20)
+Stufe<-c(1,2,3,4)
+ll<-data.frame(Differenz,Stufe)
+knitr::kable(ll,align = "cc")
+```
+
+Den Wurf interpretiert man nun folgendermaßen:
+
+Ohne Lehrperson:
+
+-   75% Fail-Chance (50% wenn Skill der Person unter 30)
+-   sonst +1 Skill
+-   +2 Skill bei Nat 20
+
+Mit Lehrperson:
+
+-   50% Fail-Chance
+-   bis 16: + Halbe Lehrerstufe Skill
+-   Ab 16: + Lehrerstufe Skill
+-   Nat 20: + Lehrerstufe\*1.5 Skill
+
+Da Lehren Zeitintensiv ist, wollen die meisten Charaktere eine Gegenleistung dafür. Dennoch haben auch Lehrer eine Chance beim Lehren selbst etwas zu lernen. Diese ist umso höher, desto kleiner die Differenz ist. Die Wahrscheinlichkeiten dafür sind in folgender Tabelle aufgeführt:
+
+```{r,echo=F}
+Differenz<-c(10,20,30,40,50)
+Wahrscheinlichkeit<-c(20,15,10,5,0)
+ll<-data.frame(Differenz,Wahrscheinlichkeit)
+colnames(ll)[2]<-"Wahrscheinlichkeit in %"
+knitr::kable(ll,align = "cc")
+```
+
+### Studieren {#Studieren}
+
+Wie man Skills Trainieren kann, so kann man auch Wissen oder Sprachen lernen. Hierfür braucht man zuerst einmal ein Buch oder einen Lehrer - da man sich solche Inhalte nicht selbst erarbeiten kann. Natürlich sind Sachbücher oder Unterricht bei Gelehrten nicht billig. Des weiteren Braucht man den Wissensskill Schriftlehre auf Stufe 1 um aus Büchern lernen zu können.
+
+Wie beim Training muss man zuerst spezifizieren was man studieren will - also in welchem Bereich man sich weiterbilden will. Das studieren hängt eng mit dem Wissensskillsystem zusammen, welches man sich anschauen sollte.
+
+Studieren ist ein langwieriger Prozess. Man verbraucht beim studieren jedes Mal eine volle Downtime. Studieren ist eng verbunden mit dem <font color="green">[Wissenssystem](#Wissensskills)</font>, welches man verstanden haben sollte.
+
+Jede spezifizierte Downtime wird ein D20 geworfen. Ist der erreichte Wert über dem Intelligenzwert zählt das lernen als gescheitert. Ist er unter dem Intelligenzwert wird die Differenz zwischen Wurf und Intelligenz als Wert aufgerechnet und mit den bereits vorhandenen Punkten in diesem Bereich addiert.
+
+> Ein Charakter mit Intelligenz 14 will elfisch lernen. Er wirft den D20 und bekommt eine 2. Die Differenz +1 beträgt 13. Also hat er seinen Wert in Elfisch von 0 auf 13 verbessert. Dies entspricht Elfisch 2. Würde er eine 15 werfen statt eine 2 hätte er bei dieser Sitzung nichts gelernt.
+>
+> --- Beispiel
+
+Wenn man genug addierte Punkte hat kann man seinen Wissensskill nach diesem kummulativen Schlüssel aufwerten:
+
++--------------------------------------------+----------------+----------------------------------+--------------------------------------------+
+| Niveau/Stufe der Sprache oder des Wissens: | Kosten Punkte: | Wissensniveau                    | Sprachniveau                               |
++:==========================================:+:==============:+:================================:+:==========================================:+
+| Stufe 0                                    | 0              | Kein Wissen im Bereich           | Keine Sprachfähigkeit                      |
++--------------------------------------------+----------------+----------------------------------+--------------------------------------------+
+| Stufe 1                                    | 5              | Grundwissen                      | sehr einfache Gespräche möglich            |
++--------------------------------------------+----------------+----------------------------------+--------------------------------------------+
+| Stufe 2                                    | 10             | Belesen & Erfahren im Fachgebiet | Verständigung umständlich aber vollständig |
++--------------------------------------------+----------------+----------------------------------+--------------------------------------------+
+| Stufe 3                                    | 10             | Ausgewiesener Fachmensch         | Gesetzestext- und Muttersprachenniveau     |
++--------------------------------------------+----------------+----------------------------------+--------------------------------------------+
+
+Ein Upgrade von Stufe eins auf Stufe 2 würde also 10 solcher Punkte kosten, während ein Upgrade auf Stufe 1 nur 5 kosten würde.
+
+Des weiteren kann man auch mithilfe von "Mittelchen" lernen, die Einnahme von Intelligenztränken für einen Lernvorgang ist also vollkommen in Ordnung. Man braucht allerdings 2 Tränke statt einen, da eine Downtime zeitlich etwas länger ist. Der Wert der Intelligenztränke wird gemittelt.
+
+## Lebenshaltungskosten {#Lebenserhaltungskosten}
+
+Sowohl in der Downtime als auch per Session sind die Lebenshaltungskosten bei Minimum 150 Reiks/Tag. In individuellen Fällen können diese auch höher sein und laufende Kosten beinhalten. Laufende Kosten sind beispielsweise:
+
+-   Reparatur Konstrukte/Atrillerie/Waffen
+-   Unterhalt für Reittiere
+-   Bezahlung für mögliche Bedienstete
+
+Was die laufenden Kosten sind legt der DM fest.
+
+Mit gewissen Aktionen können Kosten auch reduziert werden, hierbei sind die typischen:
+
+-   Jagen/Fischen
+-   Dienstleistungen für Tavernenbesitzer
