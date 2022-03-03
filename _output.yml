@@ -24,6 +24,6 @@ bookdown::gitbook:
       size: 2
     sharing: no
     info: yes
-  apple-touch-icon: "Pictures/Team/Team.jpg"
+  apple-touch-icon: "roundIco.ico"
   apple-touch-icon-size: 120
-  favicon: "team_ECx_icon.ico"
+  favicon: "roundIco.ico"
