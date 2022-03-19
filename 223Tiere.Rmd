@@ -139,7 +139,7 @@ Jedoch gibt es einige Möglichkeiten die Chance zu erhöhen: Primär durch erhö
 
 Als Formel dargestellt sieht die Ausführungswahrscheinlichkeit folgendermaßen aus:
 
-    Ausführungswahrscheinlichkeit = Schwierigkeit des Befehlschecks - erlernte Fähigkeit - Loyalität - Animal Handling Check
+$$Schwierigkeit < erlernte\; Fähigkeit - \frac{Loyalität}{2} - Animal\; Handling\; Check$$
 
 ## Maximale Tieranzahl
 

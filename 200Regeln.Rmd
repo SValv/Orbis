@@ -303,21 +303,14 @@ Stats und Arten der Artillerie:
 |  Katapult  |   600   |    200m    |     4     | 300 kg  |     4     | verboten |     200      |
 | Trebouchet |  2900   |    350m    |     7     | 600 kg  |    4,7    | verboten |     600      |
 
-+------------+--------------------+--------------------+-----------------+--------+--------------------------------------------------------------------------------+
-| Artillerie | Minimale Besatzung | Maximale Besatzung | Negiert Deckung | Größe  | Zusatz                                                                         |
-+:==========:+:==================:+:==================:+:===============:+:======:+:==============================================================================:+
-| Skorpion   | 1                  | 2                  | --              | Klein  | Aufbau im Kampf: 3 Runden wenn nur 1 Mann Besatzung: Nachladen als Main Action |
-+------------+--------------------+--------------------+-----------------+--------+--------------------------------------------------------------------------------+
-| Balliste   | 2                  | 3                  | Tier 1          | Mittel | Nachladen 1 Runde minimum, 2 Runden, wenn Besatzung \<2                        |
-+------------+--------------------+--------------------+-----------------+--------+--------------------------------------------------------------------------------+
-| Handkanone | 1                  | 1                  | Tier 1          | Klein  | Nachladen 1 Runde                                                              |
-+------------+--------------------+--------------------+-----------------+--------+--------------------------------------------------------------------------------+
-| Großkanone | 2                  | 3                  | Tier 2          | Groß   | Nachladen 1 Runde minimum, 2 Runden, wenn Besatzung \<3                        |
-+------------+--------------------+--------------------+-----------------+--------+--------------------------------------------------------------------------------+
-| Katapult   | 2                  | 3                  | Tier 1          | Mittel | Nachladen 1 Runde minimum, 2 Runden, wenn Besatzung \<3, Area Damage 2m        |
-+------------+--------------------+--------------------+-----------------+--------+--------------------------------------------------------------------------------+
-| Trebouchet | 4                  | 8                  | Tier 2          | Groß   | Nachladen 1 Runde minimum, 2 Runden, wenn Besatzung \<6 , Area Damage 8m       |
-+------------+--------------------+--------------------+-----------------+--------+--------------------------------------------------------------------------------+
+| Artillerie | Minimale Besatzung | Maximale Besatzung | Negiert Deckung | Größe  |                                     Zusatz                                     |
+|:----------:|:------------------:|:------------------:|:---------------:|:------:|:------------------------------------------------------------------------------:|
+|  Skorpion  |         1          |         2          |       --        | Klein  | Aufbau im Kampf: 3 Runden wenn nur 1 Mann Besatzung: Nachladen als Main Action |
+|  Balliste  |         2          |         3          |     Tier 1      | Mittel |            Nachladen 1 Runde minimum, 2 Runden, wenn Besatzung \<2             |
+| Handkanone |         1          |         1          |     Tier 1      | Klein  |                               Nachladen 1 Runde                                |
+| Großkanone |         2          |         3          |     Tier 2      |  Groß  |            Nachladen 1 Runde minimum, 2 Runden, wenn Besatzung \<3             |
+|  Katapult  |         2          |         3          |     Tier 1      | Mittel |    Nachladen 1 Runde minimum, 2 Runden, wenn Besatzung \<3, Area Damage 2m     |
+| Trebouchet |         4          |         8          |     Tier 2      |  Groß  |    Nachladen 1 Runde minimum, 2 Runden, wenn Besatzung \<6 , Area Damage 8m    |
 
 ### Die Schadensverrechnung
 
@@ -467,11 +460,23 @@ Nicht immer will man, dass Trankwirkungen gleich einsetzen. Manchmal ist es sinn
 
 Epinephrinika sind besondere Tränke. sie wecken einen Ohnmächtigen sofort aus (+100 Health falls die Health davor auf null war). Allerdings müssen Epinephrinika on the run hergestellt werden, weil es nach fünf Minuten seine Wirkung verliert. Kluge Gruppen haben daher die Zutaten für Epinephrinika immer dabei.
 
+Mod material shop
+
+Besondere Slots 2 Slots für besondere Ausrüstung
+
 ## Das Handwerksystem
 
-Ein weiterer Herstellungsskill in Orbis Astea ist das Handwerk. Handwerk ist wichtig um Waffen zu pflegen, zu verbessern und zu Modifizieren. Das sind Dinge die man teuer vom Schmied machen lassen muss, oder eben selbst machen kann, wenn man die passenden Skills hat.
+Ein weiterer Herstellungsskill in Orbis Astea ist das Handwerk. Handwerk ist wichtig um Waffen zu pflegen, zu verbessern und zu Modifizieren. Das sind Dinge die man teuer vom Schmied machen lassen muss, oder eben selbst machen kann, wenn man die passenden Skills und Material hat hat.
 
-Jede Aktion des Handwerkskills braucht ein Material des entsprechenden <font color="green">[Tiers](#Tiers)</font>, schlägt die versuchte Aktion fehl wird das Material verbraucht. Für jede dieser Aktionen braucht man einen Amboss oder eine Schmiede.
+Wie die Ausrüstung untergliedert sich das Material in Stufen, um eine beispielsweise eine Waffe der Stufe 1 zu verbessern benötigt man ebenfalls Material der Stufe 1.
+
+Material wird in Kilogramm bemessen und in Einheiten von je 1kg verkauft. Der Materialverbrauch hängt stets vom Kaufpreis der jeweiligen Waffe oder Rüstung ab so kostet Beispielsweise das herstellen eines Schwertes genau 1kg Material jedoch das herstellen eines Dolches nur 0,3kg. Gleich verhält es sich beim verbessern je niedriger der Preis der weniger Material wird benötigt.
+
+### Werkzeug
+
+Die meisten Anwendungen des Handwerkskills finden sich in der Downtime in der es möglich ist neue Gegenstände zu schaffen, zu verbessern, zu modifizieren, zu reparieren und zu Verwerten.
+
+Die Anzahl der möglichen Checks wird dabei vom Werkzeug des Handwerkers bestimmt, je besser das Werkzeug desto mehr Checks sind möglich. Ein Hobby Handwerker ohne Werkzeug schafft einen Handwerkscheck pro Downtime während ein Profi mit bestem Gerät in der gleichen Zeit bis zu 10 checks ausführen kann.
 
 ### Reparieren
 
@@ -479,56 +484,45 @@ Ausrüstung verliert über die Zeit Zustand. Mit der Aktion Reparieren stellt ma
 
 | Reparieren | Threshold | Materialkosten | Kosten Schmied |
 |:----------:|:---------:|:--------------:|:--------------:|
-|  Stufe 1   |    1,5    |      1500      |      4000      |
-|  Stufe 2   |    2,3    |      6750      |     14850      |
-|  Stufe 3   |     3     |     27000      |     60000      |
-|  Stufe 4   |     4     |     90000      |     200000     |
-|  Stufe 5   |     5     |     180000     |     400000     |
+|  Stufe 1   |    1,5    |      1500      |                |
+|  Stufe 2   |    2,3    |      6750      |                |
+|  Stufe 3   |     3     |     27000      |                |
+|  Stufe 4   |     4     |     90000      |                |
 
-### Verbessern
+eine Reperatur verbraucht pro reperierten Zustand 0,1 Material unabhängig von Wert der Ausrüstung.
 
-Die Aktion "Verbessern" erhöht den Damage-Wert eines Ausrüstungsgegenstandes um 1.
+### Modifizieren / Besondere Ausrüstung {#modifizieren}
 
-Thresholds und Kosten der Aktion Verbessern:
+Beim modifizieren sowie bei der Herstellung von Besonderer Ausrüstung handelt es sich um einen besonderen Teil des Handwerks da hierbei kein normales Material verbraucht wird sondern Statdessen Monstermaterialien. Diese können auf der Jagt oder von bestimmten Händlern erworben werden.
 
-+------------+--------------+-----------+-----------------+---------------+----------------+
-| Verbessern | Standartwert | Threshold | Kosten Material | Höchster Wert | Kosten Schmied |
-+:==========:+:============:+:=========:+:===============:+:=============:+:==============:+
-| Stufe 1    | 30           | 2         | 1500            | +14           | 6000           |
-+------------+--------------+-----------+-----------------+---------------+----------------+
-| Stufe 2    | 42           | 2,8       | 6750            | +8            | 27000          |
-+------------+--------------+-----------+-----------------+---------------+----------------+
-| Stufe 3    | 48           | 3,8       | 27000           | +6            | 108000         |
-+------------+--------------+-----------+-----------------+---------------+----------------+
-| Stufe 4    | 53           | 4,7       | 90000           | +4            | 360000         |
-+------------+--------------+-----------+-----------------+---------------+----------------+
-| Stufe 5    | --           | --        | --              | --            | --             |
-+------------+--------------+-----------+-----------------+---------------+----------------+
+Zu unterscheiden ist Monstermaterial einer bestimmten Stufe dass direkte herstellen einer Waffe höheren Tiers ohne vorherige verbesserung ermöglicht und den besonderen Monstermaterialien für Modifitation und Sonderausstattung.
 
-### Modifizieren {#modifizieren}
+In diese Rubrik fallen Beispielsweise die Verwendung eines Giftzahns um Beispielsweise einen Dolch endlos mit etwas gift zu versorgen um vergiftungen im Kampf zu ermöglichen ohne es jedesmal selbst auftragen zu müssen. Aber genauso gut könnte ein Tarnmantel hergestellt werden der anschließend vom Spieler in einen der beiden Besonderen Ausrüstungsslots im Profil eingetragen wird.
 
-Das modifizieren ist die kreative Komponente des Handwerks. Modifikationen sind grundsätzlich mit dem DM abzusprechen, dieser hat sich davor gut zu überlegen wie das Balancing möglich ist. Sollte sich das Objekt als zu stark erweisen muss es gegebenenfalls nachträglich genervt werden. Bei jeder Modifikation geht der maximale Zustand des Ausrüstungsgegenstandes herunter. Um wie viel er runtergeht entscheidet der DM.
+Es ist nur möglich Waffen zu modifizieren, Mods die in die Rubirk Rüstung fallen würden sind über die besondere Ausrüstung zu regelen.
 
-### Herstellen
+Neben der Jagt als übliche möglichkeit zum aquirieren von besonderem Monstermaterial ist es auch möglich auf kuriositäten Händler zu stoßen die ein sehr wechslendes Inventar zu noch wechselnderen Preisen bieten, jedoch unter anderem auch besondere Monstermaterialien. Wie bereits erwähnt wechseln die Preise für diese Produkte stark da es niemandem wirklich gelingen mag einen wirklichen Wert festzulegen da die Nachfrage schwer zu definieren und das Material manchmal schwer zu beschaffen manchmal auf Grund hoher Population massig vorhanden ist.
 
-Das Herstellen von Waffen geht nach folgender Tabelle:
+### Herstellen, verbessern und Stufe erhöhen
+
+Jede Ausrüstung wird auf Stufe 1 hergestellt und ab diesem Punkt weiter verbessert. (Mit der Ausnahme von Monstermaterial dies ermöglicht die herstellung einer Waffe direkt auf die Stufe des Materials). Jedes Ausrüstsungsteil hat zwei verbesserungen Stufen bevor es die nächst höhere Stufe erreicht, jede dieser Verbesserungen erhöht des Schaden um 25% der Differenz zur nächst höheren Stufe. Nach zwei verbesserungen ist ein neuschmieden möglich welches die Stufe der Ausrüstung erhöht, hierfür ist nicht das aktuelle Tier für den Materialverbrauch heranzuziehen sondern ein Material der nächsts höheren Stufe. Ein Beispiel: Stufe 1 Schwert mit zwei verbesserungen (die Material Stufe 1 benötigt haben) benötigt für den Aufstieg auf Stufe 2 ein Material der Stufe 2.
 
 | Herstellen | Standartwert | Threshold | Materialkosten |
 |:----------:|:------------:|:---------:|:--------------:|
-|  Stufe 1   |      30      |    2,4    |      1500      |
-|  Stufe 2   |      42      |    3,3    |      6750      |
-|  Stufe 3   |      48      |     4     |     27000      |
-|  Stufe 4   |      53      |     5     |     90000      |
-|  Stufe 5   |      --      |    --     |       --       |
+|  Stufe 1   |     2,4      |   1500    |                |
+|  Stufe 2   |     3,3      |   6750    |                |
+|  Stufe 3   |      4       |   27000   |                |
+|  Stufe 4   |      5       |   90000   |                |
 
-#### Waffenfremde Modifikationen/Schaffungen
+Bei Fehlschlag geht abhängig vom erfolgten Handwerkscheck Material verloren, so führen besonders schlechte Checks zum Verlust des ganzen Materials jedoch beinahe erfolgreiche Checks nur teile des Materials. Bestimmend dafür ist die Protzentuale erreichung des Zielwertes, erreicht der Spieler 90% des Wertes der für den Check notwendig war erhählt er auch 90% des Materials zurück. Zusätzlich wird der Zustand der Ausrüstung die Verbessert werden sollte um 1 reduziert.
 
-Auch nicht-Waffen können modifiziert/erschaffen werden. Sollte ein Spieler auf die Idee kommt ein eigenes Gadget oder ein eigenes Objekt herzustellen ist das wie im Oberkapitel Modifikationen zu prüfen.
+### Verwertung
 
-#### Typische Modifikationen
+ermöglicht das Zerlegen von Ausrüstung zu Material der jeweiligen Ausrüstungsstufe. Wie viel Material dabei gewonnen wird ist abhängig vom Preis der Ausrüstung. Beispiel Standartwert\*1,3 ergibt 1,3 Material.
 
--   Haarspangendolch: Dieser nicht kampffähige Dolch verliert drei Zustand und kann nur für Attentate eingesetzt werden - dafür ist die Versteckchance bei 90% und es wird kein Holster zum tragen benötigt. Manchmal ist er auch zum Attentat im Kampf einsetzbar (Entscheidung des DM)
--   Armbrustwinde: minus 3 Zustand, verringert die Chance die Single Action zu verlieren auf 25%.
+### Schmiede
+
+Neben der eigenen Tätigkeit ist es möglich für Spieler die Handwerkschecks an professionelle Schmiede auszulagern, für einen Preis versteht sich. Je Talentierter der Schmied desto höher der Preis aber auch seine Erfolgsaussicht. Es ist möglich einem Schmied direkt Material für den Anstehenden Check zu geben oder statdessen es bei ihm zu erwerben. In dörfern stehen weniger Schmiede als in Städten zur Auswahl.
 
 ## Pause und Rast
 
@@ -556,7 +550,7 @@ Eine weitere Möglichkeit, den Wert einer Pause zu erhöhen, ist sich von einem 
 
 ## Reiseoptionen
 
-Der reisenden Spielergruppe in der Downtime stehen stehts 2 Entscheidungsmöglichkeiten für ihre Reise offen. Zum einen die Überlandroute die durch kleine Dörfer und Natur führt und die Stadtroute entlang Hauptstraßen und durch ummauerte Städte mit Märkten. Beide Optionen haben vor und Nachteile, also sollte sich die Gruppe kurz überlegen welche Option sie vorzieht.
+Der reisenden Spielergruppe in der Downtime stehen stehts 3 Entscheidungsmöglichkeiten für ihre Reise offen. Zum einen die Überlandroute die durch kleine Dörfer und Natur führt und die Stadtroute entlang Hauptstraßen, durch ummauerte Städte mit Märkten und Großsädte. alle Optionen haben vor und Nachteile, also sollte sich die Gruppe kurz überlegen welche Option sie vorzieht.
 
 +----------------------------+------------------------------------------------------+----------------------------------------------------------------------------------+
 |                            | Überland / Dorf                                      | Hauptstraße / Stadt                                                              |
@@ -575,13 +569,13 @@ Der reisenden Spielergruppe in der Downtime stehen stehts 2 Entscheidungsmöglic
 | Jobs                       | normal möglich                                       | normal möglich                                                                   |
 +----------------------------+------------------------------------------------------+----------------------------------------------------------------------------------+
 
-Großstadt T4 Material, Alle Schmiede, Waffen T3, nur wenn in relativer Map nähe möglich, downside gleiche wie Stadt (im grunde upgrade zur stadt da nicht immer verfügbar denk ich okay wenn als eigetnlich immer als alternative zur stadt genommen wird = keine kosten erhöhung =\> macht sonst längere session in der stadt auch zu teuer (vllt mit sonderunterkunft erklärbar! (die letzten sätze müssen nicht hier ins bookdown sondern waren als anmerkung für dich gedacht)
+Großstadt T4 Material, Alle Schmiede, Waffen T3, nur wenn in relativer Map nähe möglich, downside gleiche wie Stadt (im grunde upgrade zur stadt da nicht immer verfügbar denk ich okay wenn als eigetnlich immer als alternative zur stadt genommen wird = keine kosten erhöhung => macht sonst längere session in der stadt auch zu teuer (vllt mit sonderunterkunft erklärbar! (die letzten sätze müssen nicht hier ins bookdown sondern waren als anmerkung für dich gedacht)
 
-Sonderoption 1/3 Chance ermöglichen kauf bestimmter Waren ohne Begrenzung, eine der folgenden 4 Optionen wird nochmals zufällig bestimmt
+Als Dritte Reiseoption gibt es Großstädte. Ein Großstadt wird grundsätzlich sehr ähnlich wie ein normaler Stadt behandelt, nur gibt es hier die Möglichkeit T4 Material zu kaufen und alle Schmiede zu verwenden. Ein Großstadt kann aber nur erreicht warden, wenn die Spieler sich geographisch in der Nähe von ein Großstadt auf der Weltkarte befinden.
 
-Zwergenenklave (Konstrukte), Waldelfenenklave(Tiere), Meisterschmied(Waffen), Zwergenkarawane (ALLES was das Herz begehrt)
+Als Sonderoption beim Reisen gibt es auch ein 1/3 Chance, dass die Spieler ein bestimmten Enklave finden, wo besondere Gegenstände gekauft warden können, die man normalerweise nicht kaufen kann. Kommt dies tatsächlich vor, dann wird eins der Folgenden Enklaven zufällig ausgewählt: Zwergenenklave (Konstrukte), Waldelfenenklave (Tiere), Meisterschmied (Waffen) und Zwergenkarawane (alles was das Herz begehrt).
 
-Gezieltes ansteuern der enklaven durch Knowledge skills möglich
+Mit ein passendes knowledgeskill können spieler gezielt nach ein bestimmten Enklave bei der Reise suchen.
 
 ## Downtime-Aktivitäten
 
@@ -608,25 +602,25 @@ Lernen entweder in Selbststudium, durch Lehrer oder Bücher
 
 *Diverse Verdienstmöglichkeiten diese umfassen zum Beispiel:*
 
-Diebstahl =\> zwei Optionen, hohes Risiko und niedriges Risiko jeweils mit der Basis 500 und 300 x Value mit hohem SD ( hohes Risiko SD=275, niedriges Risiko SD=)
+Diebstahl => zwei Optionen, hohes Risiko und niedriges Risiko jeweils mit der Basis 500 und 300 x Value mit hohem SD ( hohes Risiko SD=275, niedriges Risiko SD=)
 
 , sollte der Wert negativ werden bedeutet dass das der Dieb erwischt wurde und diese Strafzahlungen in Kauf nehmen muss, bei hohen Risiko Jobs besteht zusätzlich die möglichkeit anschließend für die Session Polizei bekannt zu sein.
 
-*Staßenauftritt =\> Basis 200 x Value hohe SD* (SD=65)
+*Staßenauftritt => Basis 200 x Value hohe SD* (SD=65)
 
-Handwerksdienste =\> Qulaifizierte Arbeiter Basis 250 x Value niedrige SD (SD=15)
+Handwerksdienste => Qulaifizierte Arbeiter Basis 250 x Value niedrige SD (SD=15)
 
-*Hilfsarbeiten =\> unqualifizierter Arbeiter Basis 200 x Value niedrige SD* (SD=15)
+*Hilfsarbeiten => unqualifizierter Arbeiter Basis 200 x Value niedrige SD* (SD=15)
 
-Wettkämpfe =\> Faustkämpfe, Armdrücken
+Wettkämpfe => Faustkämpfe, Armdrücken
 
-Würfelspiel =\> Einsatzabhängig Maximal Verlust Einsatz, Maximal Gewinn 2-fach
+Würfelspiel => Einsatzabhängig Maximal Verlust Einsatz, Maximal Gewinn 2-fach
 
 ### Nebenaktiväten umfassen:
 
 -   Einkaufen gehen und besorgungen erledigen
 -   Brauen von Tränken
--   Handwerks aktionen =\> Schmieden, Basteln
+-   Handwerks aktionen => Schmieden, Basteln
 -   Besuch von Tavernen und anderen Etablissments
 
 ### Andere Aktvitäten: \* Sich mit Kontakten und Npcs austauschen
@@ -695,17 +689,12 @@ Jede spezifizierte Downtime wird ein D20 geworfen. Ist der erreichte Wert über 
 
 Wenn man genug addierte Punkte hat kann man seinen Wissensskill nach diesem kummulativen Schlüssel aufwerten:
 
-+--------------------------------------------+----------------+----------------------------------+--------------------------------------------+
-| Niveau/Stufe der Sprache oder des Wissens: | Kosten Punkte: | Wissensniveau                    | Sprachniveau                               |
-+:==========================================:+:==============:+:================================:+:==========================================:+
-| Stufe 0                                    | 0              | Kein Wissen im Bereich           | Keine Sprachfähigkeit                      |
-+--------------------------------------------+----------------+----------------------------------+--------------------------------------------+
-| Stufe 1                                    | 5              | Grundwissen                      | sehr einfache Gespräche möglich            |
-+--------------------------------------------+----------------+----------------------------------+--------------------------------------------+
-| Stufe 2                                    | 10             | Belesen & Erfahren im Fachgebiet | Verständigung umständlich aber vollständig |
-+--------------------------------------------+----------------+----------------------------------+--------------------------------------------+
-| Stufe 3                                    | 10             | Ausgewiesener Fachmensch         | Gesetzestext- und Muttersprachenniveau     |
-+--------------------------------------------+----------------+----------------------------------+--------------------------------------------+
+| Niveau/Stufe der Sprache oder des Wissens: | Kosten Punkte: |          Wissensniveau           |                Sprachniveau                |
+|:------------------------------------------:|:--------------:|:--------------------------------:|:------------------------------------------:|
+|                  Stufe 0                   |       0        |      Kein Wissen im Bereich      |           Keine Sprachfähigkeit            |
+|                  Stufe 1                   |       5        |           Grundwissen            |      sehr einfache Gespräche möglich       |
+|                  Stufe 2                   |       10       | Belesen & Erfahren im Fachgebiet | Verständigung umständlich aber vollständig |
+|                  Stufe 3                   |       10       |     Ausgewiesener Fachmensch     |   Gesetzestext- und Muttersprachenniveau   |
 
 Ein Upgrade von Stufe eins auf Stufe 2 würde also 10 solcher Punkte kosten, während ein Upgrade auf Stufe 1 nur 5 kosten würde.
 
