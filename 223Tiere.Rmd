@@ -8,6 +8,12 @@ editor_options:
 
 Tiere stellen nicht nur einen wichtigen Bestandteil des Ökosystems dar, sie können auch für die Charaktere von großem Nutzen sein, da sie nicht nur nützlich im Sinne der Lebensmittelproduktion sein können, sondern auch treue Wegbegleiter werden können.
 
+## An Tieren zu beachten
+Was Tiere im System einmalig macht sind einige Werte und Funktionen die sonst nirgends im Spiel zu finden sind.
+So besitzten Tiere einen *Zähumgs/Tamingwert* dieser zeigt wie leicht sich ein Tier überzeugen lässt sich dem Spieler unterzuordnen und anzuschließen
+Dem *Trainingswert* dieser gibt an wie leicht es ist einem Tier neue Befehle beizubringen, was die Chance der Ausführung im chaotischen Schlachtengetümmel deutlich erhöht.
+Der *Loyalität* dieser Wert wird erst nach der Zähmung relevant und startet Anfangs bei Null und wächst mit der Zeit parallel steigt dadurch ebenfalls der Gehhorsam.
+
 ## Erlernbare Fähigkeiten
 
 Tierische Begleiter können in allerlei Situationen nützlich sein, anbei eine Liste möglichen von Kommandos.
@@ -93,25 +99,20 @@ Bei erfolgreichen Zähmen wird ein Tier Status(Profil) in das Profil des Besitze
 
 ## Training
 
-Wurde ein Tier erfolgreich gezähmt, so kann es trainiert werden.
-Das Training erfolgt über eine Progressionbar, die so funktioniert, dass ein Animal Handling Check geworfen wird.
-Der erreichte Wert wird dem Tier in das Profil eingetragen.
-Jedes Tier ist, gemäß seiner Natur, unterschiedlich schwer in der Handhandung.
-Daraus ergibt sich der jeweilig festgelegte Wert, der pro Tier zu überschreiten ist, damit Tier und Trainer Fähigkeitspunkte erhalten können.
-Dieser Wert kann, bei guten Checks, direkt erreicht werden, oder aber auch über mehrere Downtime-Aktivitäten akkummuliert werden, sollte der Wert nicht beim ersten Versuch überschritten werden.
+Nach der erfolgreichen Zähmung eines Tieres, sollten in den darauffolgenden Downtimes der Zähmer das Training des Tieres starten um optiomalen Nutzen aus dem Tier ziehen zu können.
+Durch das Training werden Fähigkeitspunkte gewonnen die gegen erlernte Befehle eingetauscht werden können desweiteren wird an Loyalität gewonnen beide Effekte sorgen dafür dass das Tier auch schwierige Befehle im Schlachtengetümmel bedingungslos ausführt.
 
-Diese erreichten Punkte können anschließend gegen erlernte Kommandos getauscht werden die einen erheblichen Bonus auf die erfolgreiche Ausführung des spezifischen Spielerbefehls geben.
+Für das verdienen von Trainingspunkten steht der Trainingswert des Tieres im Mittelpunkt dieser gibt an wie schnell das Tier bereit ist neue Befehle zu erlernen. Zum Beispiel lernt ein Hund sehr schnell eine Katze wird sich jedoch mehr streuben.
+Für das Training wird ein einfacher Animalhandling wurf vom DM geworfen und der Wert mitgeteilt, dieser Wert wird dann in das Profil des Tieres (im Spieler Profil) eingetragen und auf addiert (akkumulierter Wert) mit allen davor geworfnen Trainingswürfen wenn diese aufsummierten Werte den Traingswert erreichen wird ein Trainingspunkt verdient und die Loyalität steigt um 1 (bis zu einem Maximum von 6 durch Training). Anschließend wird das Training fortschritt gelöscht, jedoch alles was an erreichtem Wert über den Traingswert hinausging wird wieder hinzu gezählt.
+Die Trainingspunkte können also über mehrere Sessions langsam erworben werden und kein Check ist verschwendet.
+
 
 ### Preis
 
 Die erhaltenen Fähigkeitspunkte können nun für das Erlernen verschiedener Fähigkeiten eingetauscht werden.
 Die oben in der Tabelle dargestellten Fähigkeiten geben zugleich den Preis an Fähigkeitspunkten an, die dafür gezahlt werden müssen.
 
-Es gibt zwei also zwei zu beachtende Faktoren:
 
--   Schwierigkeit des Tieres gibt an, wie schnell das Tier etwas lernt
-
--   Schwierigkeit der zu erlernenden Fähigkeit
 
 ## Loyalität
 
@@ -151,10 +152,5 @@ Darüber hinaus ist die Anzahl der Tiere, die ein Spieler im Kampf benutzen kann
 
 ## Tierschaden
 
-`Macht die Größe des Tiers einen Unterschied für den Schaden, der erhalten wird?`
-
-`Hat das Element des Tieres (Luft, Erde, Wasser) einen Einfluss?`
-
-`Kleine Tiere weniger Schaden?`
-
-`Weichen Tiere automatisch immer aus - oder auch 2 Aktions? Hätte gesagt nur Main action aber defensiv aktion? vor allem für kleine tiere notwendig`
+Kleine und Mittlere Tiere weichen grundsätzlich jedem Angriff aus, grundsätzlich Gilt je kleiner das Tier desto höher der Ausweichwert aber auch geringer die Leben.
+Große Tiere hingegen haben aufgrund ihrer Schwerfälligkeit  wie Spieler 2 Aktionen aber auch entsprechend mehr Leben.

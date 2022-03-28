@@ -805,6 +805,7 @@ WirkungBuffs
 fallen
 typische-fallen
 tiere-als-begleiter
+an-tieren-zu-beachten
 erlernbare-fähigkeiten
 das-zähmen-eines-wildtiers
 training-1

@@ -460,23 +460,23 @@ Nicht immer will man, dass Trankwirkungen gleich einsetzen. Manchmal ist es sinn
 
 Epinephrinika sind besondere Tränke. sie wecken einen Ohnmächtigen sofort aus (+100 Health falls die Health davor auf null war). Allerdings müssen Epinephrinika on the run hergestellt werden, weil es nach fünf Minuten seine Wirkung verliert. Kluge Gruppen haben daher die Zutaten für Epinephrinika immer dabei.
 
-Mod material shop
-
-Besondere Slots 2 Slots für besondere Ausrüstung
 
 ## Das Handwerksystem
 
-Ein weiterer Herstellungsskill in Orbis Astea ist das Handwerk. Handwerk ist wichtig um Waffen zu pflegen, zu verbessern und zu Modifizieren. Das sind Dinge die man teuer vom Schmied machen lassen muss, oder eben selbst machen kann, wenn man die passenden Skills und Material hat hat.
+Ein weiterer Herstellungsskill in Orbis Astea ist das Handwerk. Handwerk ist wichtig um Waffen zu pflegen, zu verbessern und zu Modifizieren. Das sind Dinge die man teuer vom Schmied machen lassen muss, oder eben selbst machen kann, wenn man die passenden Skills und Material hat.
 
 Wie die Ausrüstung untergliedert sich das Material in Stufen, um eine beispielsweise eine Waffe der Stufe 1 zu verbessern benötigt man ebenfalls Material der Stufe 1.
 
-Material wird in Kilogramm bemessen und in Einheiten von je 1kg verkauft. Der Materialverbrauch hängt stets vom Kaufpreis der jeweiligen Waffe oder Rüstung ab so kostet Beispielsweise das herstellen eines Schwertes genau 1kg Material jedoch das herstellen eines Dolches nur 0,3kg. Gleich verhält es sich beim verbessern je niedriger der Preis der weniger Material wird benötigt.
+Material wird in Kilogramm bemessen und in Einheiten von je 1kg verkauft. Der Materialverbrauch hängt stets vom Kaufpreis der jeweiligen Waffe oder Rüstung ab so kostet Beispielsweise das herstellen eines Schwertes genau 1kg Material jedoch das herstellen eines Dolches nur 0,3kg. Gleich verhält es sich beim verbessern je niedriger der Preis desto weniger Material wird benötigt.
 
 ### Werkzeug
 
 Die meisten Anwendungen des Handwerkskills finden sich in der Downtime in der es möglich ist neue Gegenstände zu schaffen, zu verbessern, zu modifizieren, zu reparieren und zu Verwerten.
 
 Die Anzahl der möglichen Checks wird dabei vom Werkzeug des Handwerkers bestimmt, je besser das Werkzeug desto mehr Checks sind möglich. Ein Hobby Handwerker ohne Werkzeug schafft einen Handwerkscheck pro Downtime während ein Profi mit bestem Gerät in der gleichen Zeit bis zu 10 checks ausführen kann.
+
+
+**Fehlt: auflistung werkzeuge und Boni**
 
 ### Reparieren
 
@@ -493,9 +493,10 @@ eine Reperatur verbraucht pro reperierten Zustand 0,1 Material unabhängig von W
 
 ### Modifizieren / Besondere Ausrüstung {#modifizieren}
 
-Beim modifizieren sowie bei der Herstellung von Besonderer Ausrüstung handelt es sich um einen besonderen Teil des Handwerks da hierbei kein normales Material verbraucht wird sondern Statdessen Monstermaterialien. Diese können auf der Jagt oder von bestimmten Händlern erworben werden.
+Beim modifizieren sowie bei der Herstellung von Besonderer Ausrüstung handelt es sich um einen besonderen Teil des Handwerks da hierbei kein normales Material verbraucht wird sondern Stattdessen Monstermaterialien. Diese können auf der Jagd oder von bestimmten Händlern erworben werden.
 
-Zu unterscheiden ist Monstermaterial einer bestimmten Stufe dass direkte herstellen einer Waffe höheren Tiers ohne vorherige verbesserung ermöglicht und den besonderen Monstermaterialien für Modifitation und Sonderausstattung.
+**überarbeiten**
+Zu unterscheiden ist Monstermaterial einer bestimmten Stufe dass direkte herstellen einer Waffe höheren Tiers ohne vorherige Verbesserung ermöglicht und den besonderen Monstermaterialien für Modifitation und Sonderausstattung.
 
 In diese Rubrik fallen Beispielsweise die Verwendung eines Giftzahns um Beispielsweise einen Dolch endlos mit etwas gift zu versorgen um vergiftungen im Kampf zu ermöglichen ohne es jedesmal selbst auftragen zu müssen. Aber genauso gut könnte ein Tarnmantel hergestellt werden der anschließend vom Spieler in einen der beiden Besonderen Ausrüstungsslots im Profil eingetragen wird.
 
@@ -518,7 +519,7 @@ Bei Fehlschlag geht abhängig vom erfolgten Handwerkscheck Material verloren, so
 
 ### Verwertung
 
-ermöglicht das Zerlegen von Ausrüstung zu Material der jeweiligen Ausrüstungsstufe. Wie viel Material dabei gewonnen wird ist abhängig vom Preis der Ausrüstung. Beispiel Standartwert\*1,3 ergibt 1,3 Material.
+ermöglicht das Zerlegen von Ausrüstung zu Material der jeweiligen Ausrüstungsstufe. Wie viel Material dabei gewonnen wird ist abhängig vom Preis der Ausrüstung. Beispiel $Standartwert \cdot 1,3$ ergibt 1,3 Material.
 
 ### Schmiede
 
