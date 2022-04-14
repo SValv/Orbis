@@ -52,7 +52,7 @@ creatura-animali
 überlick-über-die-animali
 die-geschichte-der-animali
 herkunft-der-rasse
-der-erstkontakt-mit-dem-kaiserreich
+AnimaliKontaktKrieg
 die-große-jagd-auf-den-weltenwurm
 die-gesellschaft-der-animali
 Mutation
@@ -717,6 +717,7 @@ Reiten
 der-kampf
 Initiative
 die-kampfrunde-und-die-kampfaktionen
+schwerer-angriff
 InstrumenteRules
 dual-wielding
 der-schildstoß
@@ -739,6 +740,7 @@ Alchemie
 HerstellungTränke
 inhibitoren
 Epinephrin
+downtime-alchemieaktionen
 das-handwerksystem
 werkzeug
 reparieren
@@ -746,6 +748,7 @@ modifizieren
 herstellen-verbessern-und-stufe-erhöhen
 verwertung
 schmiede
+downtime-handwerksaktionen
 pause-und-rast
 reiseoptionen
 downtime-aktivitäten

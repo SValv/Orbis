@@ -20,20 +20,36 @@ Verglichen mit dem Imperium leben die Animali einen relativ konservativen Lebens
 
 ## Herkunft der Rasse 
 
-Die Animali waren eine gewöhnliche Gruppe von Menschen, die auf der Flucht vor jemandem oder etwas waren, das längst in Vergessenheit geraten ist. Sie flohen schließlich in die entlegenen Gebiete des Eislandes, wo sie die Höhle von Khazak fanden. In dieser Höhle fanden sie Texte und Wandmalereien der Vorläufer. Sie versuchten, diese Texte zu interpretieren und zu verstehen, aber sie scheiterten dabei völlig. Als Folge ihres Missverständnisses begannen sie an eine neue Religion zu glauben, was dazu führte, dass sie sich in die heutigen Animali verwandelten, die wir heute sehen.
-
-### Der Erstkontakt mit dem Kaiserreich
-
-In den goldenen Jahren des Kaiserreichs begann das Reich, seine Grenzen auszudehnen, wo immer es konnte und in dieser Zeit fanden die ersten Expeditionen ins Eisland statt. Vor dieser Zeit waren die Menschen, die in der als Herzland bekannten Region lebten, nicht daran interessiert, die kalte Einöde von Eisland zu erforschen, da sie dachten, dass man nichts durch die Besiedlung eines, für Menschen ungeeigneten, Lebensraums gewinnen könne. In der Region Nors jedoch, wo sich die Menschen an das Leben in einer kälteren Umgebung angepasst hatten, wurden mehrere Expeditionen ins Eisland unternommen. Diese waren jedoch alle nur von kurzer Dauer, da es keiner Expedition gelang, weit ins Eisland vorzudringen, bevor sie mit einem der gefährlichen Monster des Eislandes Bekanntschaft machten. Erst nach der Gründung des Kaiserreichs wurden Ressourcen in eine weitere Expedition des Eislands gesteckt, die von einem Abkömmling der Familie Thrax - Argenius - geleitet wurde. Viele Leute hielten den unerfahrenen Argenius für ungeeignet, die neu gegründete Expedition zu leiten, aber aufgrund der vielen militärischen Errungenschaften und des Einflusses der Familie Thrax wurde ihm die Erlaubnis erteilt, die Expedition ins Eisland zu leiten.
-
-![Argenius in Eisland[^FritzVicariBalticSea]](Pictures/Flavor/Animali/by_fritzvicari_ArgeniusImEisland.jpg)
+Die Animali waren eine gewöhnliche Gruppe von Menschen, die auf der Flucht vor jemandem oder etwas waren, das längst in Vergessenheit geraten ist. Sie flohen schließlich in die entlegenen Gebiete des Eislandes, wo sie in der Höhle von Khazak unterkamen. In dieser Höhle fanden sie Texte und Wandmalereien der Vorläufer. Sie versuchten, diese Texte zu übersetzen, interpretieren und zu verstehen, aber sie scheiterten dabei völlig. Als Folge ihres Missverständnisses formte sich eine neue Religion, die dazu führte, dass sie sich in die Kreaturen verwandelten, die wir heute sehen und als Creatura Animali, oder umgänglich Animali, bezeichnen.
 
 
-Im Gegensatz zu den vielen Expeditionen vor ihm, war Argenius mit genügend Ressourcen und Arbeitskraft ausgestattet, um weiter nach Eisland vorzudringen, als jeder Mann vor ihm. Nach Wochen und vielen getöteten Bestien hatte das Expeditionsteam schließlich die erste Begegnung mit den Animali. Diese erste Begegnung zwischen den beiden Rassen sollte jedoch nicht friedlich verlaufen, da die Arroganz und die Unerfahrenheit Argenius die Animali als nichts anderes sehen lies als eine unintelligente Gruppe von Monstern, die zwischen ihm und seinem Ruhm standen. Und alsbald er die Animali sah, gab er seinen Truppen das Signal zum Angriff. Infolge seiner Handlungen löste er den Beginn dessen aus, was wir heute als den <font color="green">[Animali-Kontaktkrieg](#AnimaliKontaktKrieg)</font> kennen. Obwohl die Animali zahlenmäßig unterlegen waren, hatten sie den Vorteil, auf eigenem Territorium zu kämpfen. Nicht lange nachdem die Kämpfe begonnen hatten, ordnete Argenius den Rückzug seiner Truppen an. Bei seiner Rückkehr ins Reich wurde Argenius - der seine Männer in den Tod geführt und seine Aufgabe, die Regionen von Eisland zu erforschen nicht erfüllt hatte  - degradiert und seiner militärischen Titel enthoben. 
 
-In den folgenden Jahren fanden viele Scharmützel zwischen Animali und den entferntesten Außenposten des Reiches statt, und erst nachdem der Animalus Valsak als führender Schamane gewählt hatte, kam es zu friedlichen Auflösungen zwischen den beiden Rassen. 
 
-Nach dem Ende des Kontaktkrieges der Animali wurde die Idee von Handelsabkommen als Lösung zur Stabilisierung der zerbrechlichen Beziehungen zwischen den Rassen ins Gespräch gebracht. Obwohl bei den ersten Handelsgeschäften zwischen Herzland und Eisland viel Unbehagen herrschte, führte dies zu einem Ende der Spannungen zwischen den Rassen und schließlich dazu, dass das Imperium mit den Animali gute Beziehungen schuf.
+### Der Erstkontakt mit dem Kaiserreich {#AnimaliKontaktKrieg}
+
+Dass andere Animali-Stämme existieren ist bekannt, da es oftmals zu territorialen Konflikten, oder kämpfen um Ressourcen kommt. Es ist daher auch nicht unüblich, dass nach einem Kampf zwischen zwei Stämmen, einer dem anderen angeschlossen wird, um ein Aussterben eines Stammes zu verhindern. 
+In der Welt der Animali gab es somit neben der Monster und Tiere des Eislandes ausschließlich andere Animali. 
+Vereinzelt gab es Geschichten zu anderen Wesen, die keiner dieser Gruppen angehörten, doch, da Animali oftmals nicht die Fortschrittlichsten Kreaturen waren, wurde diesen Geschichten nie geglaubt. 
+
+Eines Tages gingen ein paar Animali des Treprack Stammes der Spur eines großen Aufspießers nach als sie in einen heftigen Schneesturm gerieten. Da ihre Augen keine Wege mehr erkennen konnten, mussten sie sich auf andere Sinneswahrnehmungen wie das Hören und Riechen verlassen. 
+Während ihrer Verfolgungsjagd wurden sie plötzlich von vielen, vermutlich kleineren Wesen attakiert. Besonders daran war, dass diese gut zu koordiniert zu sein schienen und sich in einer anderen Sprache absprechen konnten. 
+Verwirrt von diesem unerwarteten Angriff, wussten die Animali nicht sofort, wie groß die Gefahr sein würde, die von dieser unbekannten Gruppe ausgehen würde. 
+So entschieden sie sich zu Beginn, den großen Aufspießer weiter zu verfolgen, da sie sich sicher waren, dass dieser die größere Bedrohung für sie und ihren Stamm darstellen würde. 
+Doch aufgrund des Lärms und der Bewegungen, ausgehend von der kleinen Gruppe, veränderte der große Aufspießer immer wieder seine Verhaltensmuster, indem er sich den Gruppen schnell näherte und sich wieder entfernte. 
+Das Ziel fest im Blick nutzten die Animali jeden Chance auf eine Attacke des großen Aufspießers und konnten diesen, über die Zeit, zu Boden ringen und unter Hilfe der unbekannten Wesen ohne weitere Verluste bezwingen. 
+
+Mit dem Tod des Monsters erkannten die Animali große Verluste auf Seiten der unbekannten Wesen. Waren sie doch sehr verwirrt, warum sie den Angriff auf das Monster unterstützten und die Attacken auf sie selbst einstellten. 
+Da Najare, eine junge Kämpferin des Treprack Clans, jedoch großes Interesse an allem hatte, was außerhalb ihrer Erkenntniswelt lag, überzeugte sie ihre Stammesmitglieder davon, dass diese unbekannten Wesen sicherlich keine bösen Absichten ihnen gegenüber zu haben scheinen. Sie entwaffneten die Gruppe, um mehr über ihre Waffen und Lebensweise zu erfahren, entschieden sich jedoch dazu, entgegen der üblichen Handhabung der Animali, die unbekannten Wesen, die ihnen gar nicht so unähnlich zu sein schienen, nicht zu töten.
+Ihr Ziel war es nun, eines der Wesen in Gefangenschaft zu nehmen, um mehr über sie erfahren zu können. Überraschenderweise trat einer der Unbekannten mehr oder weniger freiwillig aus der Gruppe hervir und ging mit ihnen mit. Über die Zeit entwickelte sich eine Art rudimentäre Kommunikation zwischen den beiden Völkern. Najare erkannte, in all ihrer Neugier, dass der Gefangene für sie eine Chance sein könnte, ihren Stamm verlassen und mehr über die Welt außerhalb ihres Lebensumfeldes erfahren zu können, wie ihre große Schwester dies bereits zuvor tat. 
+Der Rest des Treprack Clans entgegnete diesem Interesse mit Ablehnung und Missgunst gegenüber dem Gefangenen.So würde dieser Unheil über den Clan bringen und ihn in aller Böswilligkeit zerstören wollen. 
+
+Nachdem Najare alles von dem Gefangenen lernte, was sie kommunizieren konnten, entschied sie, ihn freizulassen und ein wiederholtes Treffen mit ihm zu vereinbaren. Sie konnte ihren Wunsch nicht aufgeben, mehr über diese Wesen zu erfahren. 
+So vereinbarten sie ein Treffen, welches 3 Monde später am Ort des Kampfes stattfinden sollte. 
+
+
+
+
+
 
 
 ### Die große Jagd auf den Weltenwurm
@@ -51,7 +67,7 @@ Der Kaiser selbst rief daher im Jahre 65 n. Riga eine <font color="green">[groß
 
 Bis zu diesem Zeitpunkt glaubte man, dass die Animali seit 80 Jahren kein einheitliches, von ihrem Hauptschamanen festgelegtes Ziel mehr hatten. Doch schon bald nachdem Manisiqus vom Stamm der Rakhuls entdeckt worden war, erhielt der damals auserwählte Schamane Rinsimikak eine Vision der Götter, in der er die vielen Stämme der Animali sah, die glorreich auf dem Kopf des getöteten Weltwums standen. Mit dieser Vision setzte sich Rinsimikak das Ziel, die Animali wieder zu vereinen und den Weltenwurm zu jagen.
 
-Nach vielen Wochen und Monaten der Vorbereitung traten die Animli schließlich in Aktion und jagten Manisiqus hinterher. Obwohl die Animali daran gewöhnt waren, im Untergrund zu überleben und die Abscheulichkeiten von Orbis Astea zu bekämpfen, soll die Jagdgruppe 36 % ihrer Mitglieder durch den Kampf gegen die anderen Kreaturen, die unter der Erde lebten, verloren haben. Laut den Schriften des verstorbenen Philip Bergsam heißt es außerdem, dass der Animalus Yukak - mit der Mutation des Riesenmaulwurfs - der einzige Grund dafür war, dass die Jagdgruppe Manisiqus über die Grenzen von Eisland hinaus verfolgen konnte. 
+Nach vielen Wochen und Monaten der Vorbereitung traten die Animali schließlich in Aktion und jagten Manisiqus hinterher. Obwohl die Animali daran gewöhnt waren, im Untergrund zu überleben und die Abscheulichkeiten von Orbis Astea zu bekämpfen, soll die Jagdgruppe 36 % ihrer Mitglieder durch den Kampf gegen die anderen Kreaturen, die unter der Erde lebten, verloren haben. Laut den Schriften des verstorbenen Philip Bergsam heißt es außerdem, dass der Animalus Yukak - mit der Mutation des Riesenmaulwurfs - der einzige Grund dafür war, dass die Jagdgruppe Manisiqus über die Grenzen von Eisland hinaus verfolgen konnte. 
 Allerdings waren die Jäger des Kaiserreichs - die dem Ruf der großen Jagd gefolgt waren - mehr als dankbar für die kompetente Unterstützung der Animali, da sie sich bisher absolut chancenlos gegen die Monstrosität erwiesen hatten. 
 
 ![Darstellung eines Eingangs in die Höhlen eines Weltenwurms](Pictures/Flavor/Platzhalter/Weltenwurmeingang.jpg)
@@ -126,6 +142,5 @@ Im letzten Teil des Rituals trinkt der Animalus den Trank und erlangt die Stärk
 
 
 [^JLazarusEBGoatman]: "Goatman" von [JLazarusEB](https://www.deviantart.com/jlazaruseb/art/Goatman-619607162). Dieses Artwork steht unter einer Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 License zur verfügung.
-[^FritzVicariBalticSea]: "Across the Frozen Baltic Sea, 1227" von [FritzVicari](https://www.deviantart.com/fritzvicari/art/Across-the-Frozen-Baltic-Sea-1227-853125129). Dieses Artwork steht unter einer Creative Commons Attribution-Noncommercial-Share Alike 3.0 License zur verfügung.
 [^EmnkunBearWarrior]: "Bear warrior" von [Emkun](https://www.deviantart.com/emkun/art/Bear-warrior-870124071). Dieses Artwork steht unter einer Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 License zur Verfügung.
 [^Pixaby_Jungtier]: von [pendleburyannette](https://pixabay.com/de/illustrations/kreatur-werwolf-stand-fu%C3%9F-3d-4955810/). Dieses Bild zur freien kommerziellen Nutzung zur Verfügung.
