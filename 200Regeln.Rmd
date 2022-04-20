@@ -77,6 +77,10 @@ Dies ist mit Abstand der häufigste und wichtigste Save. Hierbei wird die Summe 
 
 Dieser Save kommt auch zum Tragen, falls ein Spieler seine gesamte Health verliert. Dann wird gegen den Threshold 3 geworfen. Wenn der Save bestanden wird fällt der Spieler nur in <font color="green">[Ohnmacht](#Ohnmacht)</font>, andernfalls stirbt der Charakter.
 
+Bei der Charakter erstellung ist ein ungenaues Ziel des Charakters zu formulieren, bei Erfüllung steigt das Luck lvl. Dies hilft dem DM die Sessions langfristig zu planen. Diese Ziele können sich im Laufe der Kampange auch verändern.
+
+Auch allgemein können Ergebnisse die den Charakter langfristig glücklich machen den Glückwert steigern.
+
 ## Das Reiten {#Reiten}
 
 Beim Reiten sind ein paar Dinge zu beachten. Neben der Tatsache, dass Reittiere extra <font color="green">[Unterhalt](#Lebenserhaltungskosten)</font> kosten sind zwei Skills notwendig um ihr volles Potential zu nutzen - Reiten und Animal Handling. Reiten determiniert wie gut man sich auf dem Reittier halten und agieren kann, bzw. das Reittier steuern kann. Animal Handling determiniert wozu man das Reittier sonst bringen kann. Dies kann vor allem für spezielle Aktionen notwendig sein. Nach einer Aktion, die ein Reittier erschreckt ist ein Reiten-Check notwendig, ob der jeweilige Charakter abgeworfen wird. Den Threshold entscheidet der DM. Auch andere Checks sind möglich, beispielsweise:
