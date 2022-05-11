@@ -1,7 +1,7 @@
 --- 
 title: "<center>Orbis Astea</center>"
 date: "<center>Version vom: `r format(Sys.Date(),'%d.%m.%Y')`</center>"
-author: "<center>DM-App Version: 3.408</center>"
+author: "<center>DM-App Version: 3.45</center>"
 site: bookdown::bookdown_site
 favicon: "roundIco.ico"
 ---
@@ -33,6 +33,8 @@ library(zip)
 
 pfad=str_remove(getwd(),"###Orbis")
 
+print(getwd())
+
 source(paste0(pfad,"Readme Hilfe Tools/Codes/KeyIndexErstellen.R"))
 
 file.copy(paste0(pfad,"Container/",c("CCSheetBlank.xlsx","CCrand.xlsx")), 
@@ -47,7 +49,8 @@ file.copy(list.files(from, full.names = TRUE),
 
 zip(
   "DownloadContainer/OrbisAstea.zip",
-  c("../OrbisDMApp","OrbisGame"),
+  c(#"../OrbisDMApp",
+    "OrbisGame"),
   recurse = TRUE,
   compression_level = 9,
   include_directories = TRUE,

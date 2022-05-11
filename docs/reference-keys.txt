@@ -717,8 +717,8 @@ Reiten
 der-kampf
 Initiative
 die-kampfrunde-und-die-kampfaktionen
-schwerer-angriff
 InstrumenteRules
+fehlt-tier
 dual-wielding
 der-schildstoß
 andere-angriffe-während-single-actions
