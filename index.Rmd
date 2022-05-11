@@ -49,7 +49,7 @@ file.copy(list.files(from, full.names = TRUE),
 
 zip(
   "DownloadContainer/OrbisAstea.zip",
-  c(#"../OrbisDMApp",
+  c("../OrbisDMApp",
     "OrbisGame"),
   recurse = TRUE,
   compression_level = 9,
