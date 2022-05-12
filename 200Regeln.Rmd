@@ -193,8 +193,7 @@ Deckung kann auch negiert werden. Dies findet entweder durch Artillerie statt, o
 Mit einem guten Rhythmus kämpft man besser. Bestimmte Lieder bringen Power Ups oder Debuffs im Kampf und können auf Gruppen und Einzelpersonen angewandt werden.
 
 Um ein Lied im Kampf zu singen wird wie normalerweise ein Performace-Check gemacht. Die Wirkung hält vier Aktionen an und es kann nur ein Genre gleichzeitig auf eine Person wirken. Lieder können motivierend sein oder demotivierend sein, also als Buffs oder Debuffs wirken. Versucht man ein Lied auf eine Gruppe Ziele wirken zu lassen, ist es deutlich schwerer - der Theshold verdoppelt sich.
-
-## Fehlt Tier
+Lieder können - wie fast alles in unserem System - eine Stufe (Tier) von 1 bis 4 besitzen. Diese Stufe macht ein Lied zwar schwerer zu spielen, allerdings wird die Wirkung auch stärker.
 
 Lieder können - je nach Genre - von unterschiedlichen instrumenten begleitet und unterstützt werden, wobei das passende Hauptinstrument einen +6 Würfelmodifyer und das passende Nebeninstrument einen +3 Würfelmodifyer gibt. 
 
@@ -212,7 +211,7 @@ Hier sieht man eine Übersicht über die Genres:
 
 Angriffsziel bedeutet dass man von einem oder mehreren Zielen auswählen kann wer wen ihrer/seiner Gegner angreift. Bonus Action gibt den Zielen eine bonus Action.
 
-Lieder bekommt man indem man selbst viel Übt und spielt. Worum sich diese lieder drehen legt der spieler fest, wobei ihm aber Genre, Tier und ob es sich um ein motivierendes oder demotivierendes lied handelt vorgegeben wird. 
+Lieder bekommt man indem man selbst viel Übt und spielt. Worum sich diese lieder drehen legt der spieler fest, wobei ihm aber Genre, Tier und ob es sich um ein motivierendes oder demotivierendes lied handelt vorgegeben wird. Dies kann bei Performance-Checks oder beim [Training](#Training) passieren.
 
 ### Dual Wielding
 
@@ -710,7 +709,7 @@ Würfelspiel =\> Einsatzabhängig Maximal Verlust Einsatz, Maximal Gewinn 2-fach
 
 Durch das verwenden von Skills in der Downtime gibt es (bei einem Skill) eine 5% Chance auf Verbesserung des relevanten Skills um 1. Bei mehreren Skills muss der Player einen auswählen.
 
-### Training
+### Training {#Training}
 
 Ein Character kann seine komplette Downtime auch opfern um einen dedizierten Skill zu verbessern dabei gibt es zwei formen: entweder das Training alleine oder das Training mit einer Lehrperson (Achtung auch die Lehrperson verliert ihre volle Downtime).
 

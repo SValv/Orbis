@@ -718,7 +718,6 @@ der-kampf
 Initiative
 die-kampfrunde-und-die-kampfaktionen
 InstrumenteRules
-fehlt-tier
 dual-wielding
 der-schildstoß
 andere-angriffe-während-single-actions
@@ -755,7 +754,7 @@ downtime-aktivitäten
 hauptaktivitäten-umfassen
 nebenaktiväten-umfassen
 andere-aktvitäten-sich-mit-kontakten-und-npcs-austauschen
-training
+Training
 Studieren
 Lebenserhaltungskosten
 wer-willst-du-sein
@@ -811,7 +810,7 @@ tiere-als-begleiter
 an-tieren-zu-beachten
 erlernbare-fähigkeiten
 das-zähmen-eines-wildtiers
-training-1
+training
 preis
 loyalität
 ausführung
