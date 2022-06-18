@@ -30,6 +30,7 @@ library(leaflet.extras)
 library(htmltools)
 library(tidyverse)
 library(zip)
+library(reactable)
 
 pfad=str_remove(getwd(),"###Orbis")
 

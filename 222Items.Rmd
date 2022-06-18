@@ -176,7 +176,7 @@ Besonderheiten:
 
 -   der kleine Speer ist eine Einhandwaffe und kann somit mit allen Schilden geführt werden
 
-### Wurfwaffen {#WurfWaffen}
+### Wurfwaffen {#Wurfwaffen}
 
 Viele professionelle Soldaten benutzen Wurfwaffen als Ergänzung und Unterstützung für ihre Gruppe. Oftmals hat dies strategische Gründe. Besonders wichtig ist die interrupt-option, die jede Aktion außer Blocken/Ausweichen sofort unterbricht.
 
