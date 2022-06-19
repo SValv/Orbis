@@ -66,11 +66,45 @@ Zu den Drogen zählen:
 
 Drogen in Orbis Astera werden aus verschiednen Pflanzen gewonnen
 
-```{r, fig.width=10, echo=F}
-knitr::include_app("https://svalv.shinyapps.io/Testapp/", height = '900px')
-```
+```{r}
+gr=read_xlsx("Container/Data/AllaroundDataStorage.xlsx",sheet="Pflanzen")
 
-<font color="green">[zur App](https://svalv.shinyapps.io/Testapp/)</font>
+gr=gr[-c(1,nrow(gr)),-c(2,27)] %>% pivot_longer(2:25, names_to = "Region") %>% filter(value==1) %>% 
+  select(-c(value,Rarität,Häufigkeit)) %>% arrange(Region,Name)
+
+
+
+htmltools::browsable(
+  tagList(
+    div(
+      div(tags$label("Region: ", `for` = "region-filter")),
+      tags$select(
+        id = "region-filter",
+        onchange = "Reactable.setFilter('region-filter-table', 'Region', this.value)",
+        tags$option("Alle", value = ""),
+        lapply(unique(gr$Region), tags$option),
+        
+      )
+    ),
+    
+    #tags$hr("aria-hidden" = "false"),
+    
+    reactable(gr, searchable = T,
+              columns = list(
+                Kosten = colDef(format = colFormat(suffix = " Reiks")),
+                Region = colDef(show=F)
+              ), bordered = T, highlight = T, showPageSizeOptions = TRUE,
+              pageSizeOptions = c(5,10, 20, 50),
+              defaultPageSize = 10,  paginationType = "jump",
+              theme= overallThemeReactable, defaultColDef = colDef(
+                align = "center"
+              ),
+              elementId = "region-filter-table")
+  ), 
+)
+
+
+```
 
 ## Drogen in verschiedenen Zivilisationen
 
