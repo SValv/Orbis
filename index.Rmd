@@ -48,6 +48,12 @@ file.copy(list.files(from, full.names = TRUE),
           to, 
           recursive = TRUE,overwrite =T)
 
+from <- paste0(pfad,"Container/Data")
+to   <- "Container/Data"
+file.copy(list.files(from, full.names = TRUE), 
+          to, 
+          recursive = TRUE,overwrite =T)
+
 zip(
   "DownloadContainer/OrbisAstea.zip",
   c("../OrbisDMApp",

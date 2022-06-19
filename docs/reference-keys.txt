@@ -794,14 +794,10 @@ schiffe-im-gefecht
 reiserouten
 PauseRastsystem
 downtime-aktivitäten
-hauptaktivitäten-umfassen
-nebenaktiväten-umfassen
-andere-aktvitäten-sich-mit-kontakten-und-npcs-austauschen
+hauptaktivitäten
+nebenaktiväten
+andere-aktvitäten
 Training
-Studieren
-Tiers
-AlchemieSystem
-HerstellungTränke
 inhibitoren
 Epinephrin
 downtime-alchemieaktionen
