@@ -377,7 +377,7 @@ dftr %>% relocate(Tränke,Stufe,Wirkung) %>%
             defaultPageSize = 20,  paginationType = "jump",
             theme= overallThemeReactable, defaultColDef = colDef(
               align = "center"
-            ), outlined = T)
+            ), outlined =T)
   
 ```
 
@@ -560,6 +560,47 @@ Hier ist eine Liste aller Tiere einzufügen, die es im Spiel gibt und welche Aus
 
 ## Andere Gegenstände {#AndereGegenstände}
 
+Sämtliche bisher in Orbis Astea existierenden Gegenstände finden sich in der unten stehenden Tabelle - aufgespaltet nach Kategorien. Sollte ein Gegenstand nicht existieren kann der DM ihn natürlich nach eigenem Ermessen "erschaffen".
+
+```{r}
+dfag=read_xlsx("Container/Data/MiscItemListe.xlsx",sheet="Alle Gegenstände")
+
+dfag %>% select("Kategorie","Gegenstand","Preis",
+                "Gewicht","Händler","Beschreibung") %>% 
+  mutate(Händler=str_remove_all(Händler," ,")) %>% 
+  mutate(Händler=substring(Händler,1, nchar(Händler)-1)) %>% 
+  relocate(Kategorie, Gegenstand, Beschreibung, Gewicht, Preis) %>% 
+  arrange(Kategorie) %>% 
+  reactable(groupBy = "Kategorie",
+            columns = list(
+              
+              Preis = colDef(format=colFormat(suffix = " Reiks"),
+                                       filterable = FALSE),
+              Gewicht = colDef(format=colFormat(suffix = " Kg"),
+                             filterable = FALSE),
+              Kategorie = colDef(
+                # Render grouped cells without the row count
+                grouped = JS("function(cellInfo) {
+                            return cellInfo.value
+                          }"), align="left",
+                
+              )
+              
+              
+              
+            ), bordered = F,
+            highlight = T, showPageSizeOptions = T, filterable = T,
+            pageSizeOptions = c(5,10, 20, 50),
+            defaultPageSize = 20,  paginationType = "jump",
+            theme= overallThemeReactable, defaultColDef = colDef(
+              align = "center"
+            ), outlined = T,
+            striped=T)
+
+```
+
+
+
 ### Kleinode
 
 Kleinode sind religiöse Gegenstände, die zumeist von Kirchen verkauft werden oder durch Rituale hergestellt werden können. Diese Kleinode können konsumiert werden, was einem für eine Session +1 Glaube zusätzlich gibt. Diese Kleinode können beispielsweise sein:
@@ -577,19 +618,3 @@ Kleinode sind religiöse Gegenstände, die zumeist von Kirchen verkauft werden o
 +---------------------+----------------+-----------------------------+
 
 Ein Kleinod ist nur wirksam, wenn es zur Religion des Charakters passt. Nur eines pro Session kann konsumiert werden.
-
-### Sonstige
-
-Andere Gegenstände sind sämtliche Gegenstände die nicht nativ in Orbis Aestea vorliegen. Meistens sind das Alltagsgegenstände wie Seile, Fässer etc. diese sind Glücklicherweise im Rulebook von DnD 5e (welches direkt über den Download-link runtergeladen werden kann). Hierbei sind die Preise in DnD silber umzurechnen (1gp=10sp, 1sp=10cp) und anschließend über die <font color="green">[Umrechnungskurse in Reiks](#Währung)</font>. Dann kann man sie bezahlen und sich ins Inventar eintragen.
-
-Hier findet ihr das meiste:
-
-| PDF Seite | Seitenzahl |         Zeug         |
-|:---------:|:----------:|:--------------------:|
-|    141    |    150     |   Adventurer stuff   |
-|    145    |    154     | Handwerk/Instrumente |
-|    147    |    157     |     trade goods      |
-|    148    |    158     |      Lifestyle       |
-|    149    |    159     |       Services       |
-
-Bei Unsicherheiten und besonderen Ideen sollte man sich mit dem DM absprechen. Dies gilt auch für Objekte, die nicht im DnD-Rulebook stehen. Versuch de DM's sollte sein alles möglich zu machen.

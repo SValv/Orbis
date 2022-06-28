@@ -722,7 +722,7 @@ das-character-sheet
 Gesundheit
 Ausdauer
 Attribute
-Skills
+Fähigkeiten
 die-charaktererstellung
 rasse-und-startwerte
 level-und-skillverbesserungen
@@ -869,7 +869,6 @@ typische-fallen
 Mounts
 AndereGegenstände
 kleinode
-sonstige
 BesondereItems
 regeln
 waffen-mods

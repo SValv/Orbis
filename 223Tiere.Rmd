@@ -4,82 +4,93 @@ editor_options:
     wrap: sentence
 ---
 
-# Tiere als Begleiter  {#AnimalHandling}
+# Tiere als Begleiter {#AnimalHandling}
 
-Tiere stellen nicht nur einen wichtigen Bestandteil des Ökosystems dar, sie können auch für die Charaktere von großem Nutzen sein, da sie nicht nur nützlich im Sinne der Lebensmittelproduktion sein können, sondern auch treue Wegbegleiter werden können.
+Tiere stellen nicht nur einen wichtigen Bestandteil des Ökosystems dar, sie können auch für die Charaktere von großem Nutzen sein.
+Denn sie können nicht nur nützlich im Sinne der Lebensmittelproduktion sein , sondern auch treue Wegbegleiter werden.
 
 ## An Tieren zu beachten
 
-Was Tiere im System einmalig macht sind einige Werte und Funktionen die sonst nirgends im Spiel zu finden sind.
-So besitzten Tiere einen *Zähmungs-/Tamingwert* dieser zeigt wie leicht sich ein Tier überzeugen lässt sich dem Spieler unterzuordnen und anzuschließen Dem *Trainingswert* dieser gibt an wie leicht es ist einem Tier neue Befehle beizubringen, was die Chance der Ausführung im chaotischen Schlachtengetümmel deutlich erhöht.
-Der *Loyalität* dieser Wert wird erst nach der Zähmung relevant und startet Anfangs bei Null und wächst mit der Zeit parallel steigt dadurch ebenfalls der Gehhorsam.
+Was Tiere im System einmalig macht sind einige Werte und Funktionen, die sonst nirgends im Spiel zu finden sind.
+So besitzten Tiere einen *Zähmungs-/Tamingwert,* welcher zeigt wie leicht sich ein Tier überzeugen lässt sich dem Spieler unterzuordnen und anzuschließen.
+Dem *Trainingswert,* welcher angibt wie leicht es ist einem Tier neue Befehle beizubringen.
+Dieser ehöht die Chance der Ausführung im chaotischen Schlachtengetümmel deutlich.
+Der *Loyalität,* dieser Wert wird erst nach der Zähmung relevant und startet Anfangs bei Null und wächst mit der Zeit.
+Parallel steigt dadurch ebenfalls der Gehhorsam, welcher dem jeweiligen Spieler entgegengebracht wird.
 
 ## Erlernbare Fähigkeiten
 
-Tierische Begleiter können in allerlei Situationen nützlich sein, anbei eine Liste möglichen von Kommandos.
-Da nicht alle möglichen Ereignisse abgedeckt werden können empfiehlt es sich für Kommandos außerhalb der Liste ein ähnliches zu wählen und den DM einen Schwierigkeitsgrad bestimmen zu lassen.
+Tierische Begleiter können in allerlei Situationen nützlich sein, indem sie verschiedene Fähigkeiten erlernen, die ein Charakter gewinnbringend während einer Session einbringen kann.
+Die folgende Liste gibt einen Überblick über mögliche Kommandos.
+
+Da nicht alle möglichen Ereignisse abgedeckt werden können, empfiehlt es sich für Kommandos außerhalb der Liste eine ähnliche Verhaltensaufforderung zu wählen und den DM einen Schwierigkeitsgrad bestimmen zu lassen.
+Dies bietet die Möglichkeit neue und spannende Interaktionsmöglichkeiten mit Tieren während einer Kampagne, sei es beispielsweise im Kampf oder einer Rettungsmission, zu schaffen.
 
 Nicht jedes Tier kann alle Fähigkeiten erlernen, da dies ihnen gemäß ihrer Natur nicht immer möglich ist.
 So sind manche Aktionen beispielsweise nur fliegenden Tieren möglich, während andere lediglich von großen Tieren ausgeführt werden können.
 Zusätzlich gibt es auch noch besondere Fähigkeiten ausschließlich bestimmten Fabelwesen möglich sind.
 
 Die Anzahl der erlernbaren Fähigkeiten hängt von der Intelligenz des Tieres ab.
-Pro Intelligenzpunkt ist es möglich einem Tier eine Fähigkeit beizubringen.Ein Hund, der beispielsweise 3 Intelligenz hat, kann somit 3 Fähigkeiten erlernen.
+Pro Intelligenzpunkt ist es möglich einem Tier eine Fähigkeit beizubringen.
+Ein Hund, der beispielsweise 5 Intelligenz hat, kann somit 5 Fähigkeiten erlernen.
 
 Je nach Tier können Fähigkeiten der folgenden Tabelle erlernt werden:
 
-|             Fähigkeit             |                                                               Beschreibung                                                                | Schwierigkeits-grad | Ausführ-ungs-threshold |
-|:----------:|:-----------------------------------:|:----------:|------------|
-|              Angriff              |                                            Schaden und Statuseffekte können verursacht werden                                             |          1          | 5                      |
-|         Taschendiebstahl          |                                                                                                                                           |         3,5         | 7,5                    |
-|             Ablenkung             | Tier dient der Ablenkung einer Person durch Lärm, Chaosverursachung, oder anderen Aktionen, die die Aufmerksamkeit auf sich ziehen lassen |          1          | 5                      |
-|       Alamieren, (Be)Wache        |                                                                                                                                           |          1          | 5                      |
-|         Botentätigkeiten          |                                     Das Überbringen von Botschaften, wie man es von Brieftauben kennt                                     |          2          | 6                      |
-|     Suchen / Auskundschaften      |                                                             Spähertätigkeiten                                                             |          3          | 7                      |
-|             Grappeln              |                                      Ein Tier könnte das Bein des Gegners festhalten oder reinbeißen                                      |          2          | 6                      |
-|             Interrupt             |                    Ein Tier springt gegen einen Gegner, oder schubst ihn, sodass er seine Aktion nicht ausführen kann.                    |          2          | 6                      |
-|           Fährtenlesen            |                                                                                                                                           |          1          | 5                      |
-|        Sprechen (papagei)         |                                                                                                                                           |          3          | 7                      |
-|        Blocken / schützen         |                                             Tier blockt einen Angriff mit dem eigenen Körper                                              |          3          | 7                      |
-|              Flucht               |                 Wird die Situation brenzlich, so kann der Rückzug angeordnet werden, damit das Tier keinen Schaden nimmt                  |          1          | 5                      |
-|            Todstellen             |                                                                                                                                           |          2          | 6                      |
-|           Gift abmelken           |                                                     Tiere, die aktiv Gift produzieren                                                     |         2,5         | 6,5                    |
-|            Persuation             |                                      Besänftigung, Mitleid erregen;  niedlicher Welpe / Puppy eyes,                                       |          1          | 5                      |
-|              Abhören              |                                             Ein Papagei könnte wiederholen, was er gehört hat                                             |          3          | 7                      |
-|            Apportieren            |               Herbeibringen des vom Befehlsgeber genannten Gegenstands; eine Person aus dem Gefecht ziehen, wenn bewusstlos               |          1          | 5                      |
-|            Blockieren             |    Wege oder Durchgänge mit dem eigenen Leib einfach blockieren, sodass das Tier erstmal umgangen, oder beiseite geschoben werden muss    |          2          | 6                      |
-|        Gegenstände werfen         |                           Flugtiere können Gegenstände, wie Steine, etc., aus der Luft auf Gegner fallen lassen                           |          2          | 6                      |
-|           Gift erkennen           |                                                   Feine Nasen können Gifte erschnuppern                                                   |          3          | 7                      |
-| Graben / Buddeln / Fallen stellen |                                                   Löcher buddeln, Spinne Netze spannen                                                    |          1          | 5                      |
-|           Einschüchtern           |                                    Durch Lautstärke oder Größe eine einschüchterne Wirkung erschaffen                                     |          1          | 5                      |
-|          Versteck dich!           |                          Wird ein Hinterhalt geplant, so muss auch das Tier wissen, wenn es sich verstecken muss                          |          1          | 5                      |
-|       Verfolgung aufnehmen        |                                                                                                                                           |          2          | 6                      |
+|             Fähigkeit             |                                                               Beschreibung                                                                | Schwierigkeits-grad | Ausführungsgrenzwert |
+|:------------:|:-----------------------------:|:------------:|--------------|
+|              Angriff              |                                            Schaden und Statuseffekte können verursacht werden                                             |          1          | 5                    |
+|         Taschendiebstahl          |                                                                                                                                           |         3,5         | 7,5                  |
+|             Ablenkung             | Tier dient der Ablenkung einer Person durch Lärm, Chaosverursachung, oder anderen Aktionen, die die Aufmerksamkeit auf sich ziehen lassen |          1          | 5                    |
+|       Alamieren, (Be)Wache        |                                                                                                                                           |          1          | 5                    |
+|         Botentätigkeiten          |                                     Das Überbringen von Botschaften, wie man es von Brieftauben kennt                                     |          2          | 6                    |
+|     Suchen / Auskundschaften      |                                                             Spähertätigkeiten                                                             |          3          | 7                    |
+|             Grappeln              |                                      Ein Tier könnte das Bein des Gegners festhalten oder reinbeißen                                      |          2          | 6                    |
+|             Interrupt             |                    Ein Tier springt gegen einen Gegner, oder schubst ihn, sodass er seine Aktion nicht ausführen kann.                    |          2          | 6                    |
+|           Fährtenlesen            |                                                                                                                                           |          1          | 5                    |
+|        Sprechen (papagei)         |                                                                                                                                           |          3          | 7                    |
+|        Blocken / schützen         |                                             Tier blockt einen Angriff mit dem eigenen Körper                                              |          3          | 7                    |
+|              Flucht               |                 Wird die Situation brenzlich, so kann der Rückzug angeordnet werden, damit das Tier keinen Schaden nimmt                  |          1          | 5                    |
+|            Todstellen             |                                                                                                                                           |          2          | 6                    |
+|           Gift abmelken           |                                                     Tiere, die aktiv Gift produzieren                                                     |         2,5         | 6,5                  |
+|            Persuation             |                                      Besänftigung, Mitleid erregen;  niedlicher Welpe / Puppy eyes,                                       |          1          | 5                    |
+|              Abhören              |                                             Ein Papagei könnte wiederholen, was er gehört hat                                             |          3          | 7                    |
+|            Apportieren            |               Herbeibringen des vom Befehlsgeber genannten Gegenstands; eine Person aus dem Gefecht ziehen, wenn bewusstlos               |          1          | 5                    |
+|            Blockieren             |    Wege oder Durchgänge mit dem eigenen Leib einfach blockieren, sodass das Tier erstmal umgangen, oder beiseite geschoben werden muss    |          2          | 6                    |
+|        Gegenstände werfen         |                           Flugtiere können Gegenstände, wie Steine, etc., aus der Luft auf Gegner fallen lassen                           |          2          | 6                    |
+|           Gift erkennen           |                                                   Feine Nasen können Gifte erschnuppern                                                   |          3          | 7                    |
+| Graben / Buddeln / Fallen stellen |                                                   Löcher buddeln, Spinne Netze spannen                                                    |          1          | 5                    |
+|           Einschüchtern           |                                    Durch Lautstärke oder Größe eine einschüchterne Wirkung erschaffen                                     |          1          | 5                    |
+|          Versteck dich!           |                          Wird ein Hinterhalt geplant, so muss auch das Tier wissen, wenn es sich verstecken muss                          |          1          | 5                    |
+|       Verfolgung aufnehmen        |                                                                                                                                           |          2          | 6                    |
 
 ## Das Zähmen eines Wildtiers
 
-Trifft man ein Wildes Tier in der Natur, selbst wenn es einem feindlich gesonnen scheint, so muss das nicht schlecht sein, da ein guter Zähmer in dieser potenziell gefährlichen Situation stattdessen die Gelegenheit sieht einen neuen Verbündeten zu finden.
+Trifft man ein wildes Tier in der Natur, selbst wenn es einem feindlich gesonnen scheint, so muss das nicht schlecht sein, da ein guter Zähmer in dieser potenziell gefährlichen Situation stattdessen die Gelegenheit sieht einen neuen Verbündeten zu finden.
 
-Dabei kommt der Skill des Animal Handlings beim Umgang mit Tieren ins Spiel.
+Dabei kommt der Skill des [Animal Handlings](#AnimalHandling) beim Umgang mit Tieren ins Spiel.
 Er kann sowohl in der Downtime angewandt werden, um ein Tier zu trainieren, als auch aktiv in der Session, um Tiere zu zähmen, oder gezähmten Tieren Befehle zu erteilen.
+
 Um einem Tier einen Befehl geben zu können, muss es vorher gezähmt werden.
-Dies funktioniert indem der DM vier Mal (plus Bonus Chancen) Animal Handling Checks wirft, deren Values akkumuliert einen Festwert je nach Tier überschreiten müssen.
+Dies funktioniert indem der DM vier Mal (plus Bonus Chancen) Animal Handling Checks wirft, deren Values akkumuliert einen Festwert, je nach Tier, überschreiten müssen.
 Versucht ein PC ein Tier außerhalb des Kampfes zu zähmen, so werden die vier Checks aufeinanderfolgend geworfen.
-Es steht dem Spieler offen die eigenen Chancen zur erfolgreichen Zähmung zu erhöhen, wenn beispielsweise Köder ausgelegt werden, oder sich andere Ideen ausgedacht werden, um das Tier positiv einzustimmen.
+Es steht dem Spieler offen die eigenen Chancen zur erfolgreichen Zähmung zu erhöhen, wenn beispielsweise Köder ausgelegt werden, oder sich andere Ideen ausgedacht werden, um das Tier positiv auf einen Charakter einzustimmen.
 Befindet sich der Spieler im Kampf und möchte ein Tier zähmen, so können die vier Würfe nicht in einer einzigen Kampfrunde rerfolgen.
 Der Spieler hat nun die Möglichkeit zu wählen, ob er jede Runde jeweils die Main- und Side-Action für einen Check hergeben möchte, oder aber die Checks über mehrere Runden aufteilt.
-Es kann je ein Check pro Main- oder Side-Action geworfen werden, jedoch ist somit kein Angriff oder eine Verteidigung je nach Action Wahl mehr möglich.
-Versucht ein Tier während des Taimingprozesses zu fliehen, haben die PCs die Möglichkeit den Versuch zu unterbrechen, indem sie eine Bola werfen, oder das Tier verwunden(called shots).
+Es kann je ein Check pro Haupt- oder Nebenaktion geworfen werden, jedoch ist somit kein Angriff oder eine Verteidigung je nach Action Wahl mehr möglich.
+Versucht ein Tier während des Zähmungsprozesses zu fliehen, haben die Charaktere die Möglichkeit den Versuch zu unterbrechen, indem sie eine Bola werfen, oder das Tier verwunden [(gezielte Schüsse)](#CalledShots).
 
 Bei erfolgreichen Zähmen wird ein Tier Status(Profil) in das Profil des Besitzers eingetragen in dem die weitere Verwaltung des Tieres erfolgt.
+Dies funktioniert, indem das Standardprofil des Tieres aus der Tier-Excel-Datei als eigenes Tabellenblatt in das PC-Profil kopiert wird.
+Nun wird dem Tabellenblatt ein gewünschter Name gegeben und der DM kann das Tierprofil initialisieren.
 
 ## Training
 
-Nach der erfolgreichen Zähmung eines Tieres, sollten in den darauffolgenden Downtimes der Zähmer das Training des Tieres starten um optiomalen Nutzen aus dem Tier ziehen zu können.
+Nach der erfolgreichen Zähmung eines Tieres, sollte der Zähmer in den darauffolgenden Downtimes das Training des Tieres starten, um optiomalen Nutzen aus dem Tier ziehen zu können.
 Durch das Training werden Fähigkeitspunkte gewonnen die gegen erlernte Befehle eingetauscht werden können desweiteren wird an Loyalität gewonnen beide Effekte sorgen dafür dass das Tier auch schwierige Befehle im Schlachtengetümmel bedingungslos ausführt.
 
 Für das verdienen von Trainingspunkten steht der Trainingswert des Tieres im Mittelpunkt dieser gibt an wie schnell das Tier bereit ist neue Befehle zu erlernen.
-Zum Beispiel lernt ein Hund sehr schnell eine Katze wird sich jedoch mehr streuben.
-Für das Training wird ein einfacher Animalhandling wurf vom DM geworfen und der Wert mitgeteilt, dieser Wert wird dann in das Profil des Tieres (im Spieler Profil) eingetragen und auf addiert (akkumulierter Wert) mit allen davor geworfnen Trainingswürfen wenn diese aufsummierten Werte den Traingswert erreichen wird ein Trainingspunkt verdient und die Loyalität steigt um 1 (bis zu einem Maximum von 6 durch Training).
+Zum Beispiel lernt ein Hund sehr schnell eine Katze wird sich jedoch mehr sträuben.
+Für das Training wird ein einfacher Animal Handling wurf vom DM geworfen und der Wert mitgeteilt, dieser Wert wird dann in das Profil des Tieres (im Spieler Profil) eingetragen und auf addiert (akkumulierter Wert) mit allen davor geworfenen Trainingswürfen wenn diese aufsummierten Werte den Traingswert erreichen wird ein Trainingspunkt verdient und die Loyalität steigt um 1 (bis zu einem Maximum von 6 durch Training).
 Anschließend wird das Training fortschritt gelöscht, jedoch alles was an erreichtem Wert über den Traingswert hinausging wird wieder hinzu gezählt.
 Die Trainingspunkte können also über mehrere Sessions langsam erworben werden und kein Check ist verschwendet.
 
@@ -97,14 +108,14 @@ Die Loyalität kann einem Wert von 0 bis 10 entsprechen, wobei 0 für ein fremde
 
 *Wie bekommst du Loyalität?*
 
-Trainingsloyalität: Für jedes Mal, das sich die Progressionbar füllt erhält das Trainer-Tier-Gespann einen Loyalitätspunkt.
+Trainingsloyalität: Für jedes Mal, das sich die Progressionsbar füllt erhält das Trainer-Tier-Gespann einen Loyalitätspunkt.
 Dies funktioniert maximal sechs Mal, sodass sich die Beziehung aufgrund des reinen Trainings gut festigen kann.
 
 Weiters können bis zu 4 Punkte durch Interaktion im Gameplay erreicht werden.
 Dies gilt jedoch nicht nur für den Trainer.
 Kümmern sich, nebem dem Trainer, beispielsweise auch andere Spieler um die Tiere, ohne diese jedoch aktiv zu trainieren, so können diese über die Game-Play Loyalität ebenfalls bis zu vier Loyalitätspunkte erhalten.
 Diese kann der DM nach ermessen vergeben, wenn PCs die Tiere aktiv in das Game-Play einbeziehen, indem sie die Tiere füttern, sie explizit pflegen oder ihnen Zuwendung in der Downtime schenken.
-Zu beachten ist die Loyalität jedes Tieres wird Spieler abhängig verfolgt (Im Status-Sheet des Tieres im jeweiligen Profil des Spielers, der mit dem Tier interagiert).
+Zu beachten ist die Loyalität jedes Tieres wird Spieler abhängig verfolgt (Im Status-Tabellenblatt des Tieres im jeweiligen Profil des Spielers, der mit dem Tier interagiert).
 
 ## Ausführung
 
@@ -122,9 +133,66 @@ Die Anzahl der Tiere, die man mit sich führt, sollte realsitisch bleiben.
 Was dies genau bedeutet ist durch den DM in der jeweiligen Situation der Gruppe zu beurteilen.
 So fallen zum Beispiel eine Horde Hühner wenig, bis gar nicht ins Gewicht, jedoch wird es einem Spieler schwerfallen eine Herde Elefanten zu versorgen.
 
-Darüber hinaus ist die Anzahl der Tiere, die ein Spieler im Kampf benutzen kann ebenfalls begrenzt, da sowohl das Balancing berücktsichtigt werden muss, als auch die Tatsache, dass nur eine gewisse Anzahl an Kommandos im Kampfgeschehen gegeben werden können.
+Darüber hinaus ist die Anzahl der Tiere, die ein Spieler im Kampf einsetzen kann ebenfalls begrenzt, da sowohl das Ausgewogenheit berücktsichtigt werden muss, als auch die Tatsache, dass nur eine gewisse Anzahl an Kommandos im Kampfgeschehen gegeben werden können.
 
 ## Tierschaden
 
 Kleine und Mittlere Tiere weichen grundsätzlich jedem Angriff aus, grundsätzlich Gilt je kleiner das Tier desto höher der Ausweichwert aber auch geringer die Leben.
 Große Tiere hingegen haben aufgrund ihrer Schwerfälligkeit wie Spieler 2 Aktionen aber auch entsprechend mehr Leben.
+
+# Liste aller Tiere {#Tierliste}
+
+Die Liste aller Tiere, die in der Welt von Orbis zu finden sind, wächst stets weiter mit der neuen Lore, die entsteht.
+Da sie dennoch einen spannenden Bestandteil des Spiels darstellen können und besonders für diejenigen spannend sind, die sich das [Animal Handling](#AnimalHandling) zu nutze machen wollen, folgt eine Übersicht aller Tiere.
+Die Tiere lassen sich unterteilen in drei primäre Lebenswelten: Flugtiere, unter Wasser lebende Tiere und Tiere, die an Land leben.
+
+| Tier           | Besonderheit                                                              | Vorkommen | Unterhaltungskosten |
+|---------------|------------------------|-----------------|------------------|
+| Affe           | Ein sehr akrobatisches Tier, das einen guten Wegbegleiter darstellen kann |           |                     |
+| Braunbär       |                                                                           |           |                     |
+| Elefant        | Sehr effektiv im Kriegseinsatz                                            |           |                     |
+| Esel           | Hilfreiches Nutztier im Alltag                                            |           |                     |
+| Gans           |                                                                           |           |                     |
+| Giraffe        |                                                                           |           |                     |
+| Huhn           |                                                                           |           |                     |
+| Hund           | Treuer Wegbegleiter                                                       |           |                     |
+| Katze          |                                                                           |           |                     |
+| Kuh            | Ein wertvolles Nutztier                                                   |           |                     |
+| Nashorn        |                                                                           |           |                     |
+| Ochse          |                                                                           |           |                     |
+| RahKari Pferd  | Eine besondere Pferderasse, die von den RahKari gezüchtet wurde           |           |                     |
+| Ratte          | Kann als Bio-Waffe eingesetzt werden                                      |           |                     |
+| Schaf          |                                                                           |           |                     |
+| Schlange       |                                                                           |           |                     |
+| Skorpion       | Kann als Quelle für Gift genutzt werden                                   |           |                     |
+| Spinne         |                                                                           |           |                     |
+| Strauß         |                                                                           |           |                     |
+| Tiger          |                                                                           |           |                     |
+| Wildpferd      |                                                                           |           |                     |
+| Wildschwein    |                                                                           |           |                     |
+| Wolf           |                                                                           |           |                     |
+| Erwachtes Ross | Ein erwachtes Pferd                                                       |           |                     |
+|                |                                                                           |           |                     |
+
+: Eine Liste aller auf dem Land lebenden Tiere in Orbis Astea.
+
+| Tier    | Besonderheit                                         | Vorkommen | Unterhaltungskosten |
+|-----------|----------------------------|-------------|---------------------|
+| Taube   | Kann zur Übermittlung von Nachrichten genutzt werden |           |                     |
+| Papagei | Zeichnet sich durch seine Fähigkeit aus zu sprechen  |           |                     |
+| Phoenix |                                                      |           |                     |
+| Rabe    |                                                      |           |                     |
+| Falke   |                                                      |           |                     |
+| Greif   | Nützliches Flugtier im Kampf                         |           |                     |
+
+: Eine Liste aller fliegenden Tiere in Orbis Astea.
+
+| Tier        | Besonderheit           | Vorkommen | Unterhaltungskosten |
+|-------------|------------------------|-----------|---------------------|
+| Seeschlange |                        |           |                     |
+| Walross     |                        |           |                     |
+| Krake       | Nützlich auf hoher See |           |                     |
+| Krokodil    |                        |           |                     |
+|             |                        |           |                     |
+
+: Eine Liste aller im Wasser lebenden Tiere in Orbis Astea.

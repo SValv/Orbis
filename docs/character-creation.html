@@ -1317,7 +1317,7 @@ Orbis Astea
 <li class="chapter" data-level="50.1.0.1" data-path="character-creation.html"><a href="character-creation.html#Gesundheit"><i class="fa fa-check"></i><b>50.1.0.1</b> Gesundheit</a></li>
 <li class="chapter" data-level="50.1.0.2" data-path="character-creation.html"><a href="character-creation.html#Ausdauer"><i class="fa fa-check"></i><b>50.1.0.2</b> Ausdauer</a></li>
 <li class="chapter" data-level="50.1.1" data-path="character-creation.html"><a href="character-creation.html#Attribute"><i class="fa fa-check"></i><b>50.1.1</b> Attribute</a></li>
-<li class="chapter" data-level="50.1.2" data-path="character-creation.html"><a href="character-creation.html#Skills"><i class="fa fa-check"></i><b>50.1.2</b> Skills</a></li>
+<li class="chapter" data-level="50.1.2" data-path="character-creation.html"><a href="character-creation.html#Fähigkeiten"><i class="fa fa-check"></i><b>50.1.2</b> Fähigkeiten</a></li>
 </ul></li>
 <li class="chapter" data-level="50.2" data-path="character-creation.html"><a href="character-creation.html#die-charaktererstellung"><i class="fa fa-check"></i><b>50.2</b> Die Charaktererstellung</a>
 <ul>
@@ -1564,7 +1564,6 @@ Orbis Astea
 <li class="chapter" data-level="53.9" data-path="Items.html"><a href="Items.html#AndereGegenstände"><i class="fa fa-check"></i><b>53.9</b> Andere Gegenstände</a>
 <ul>
 <li class="chapter" data-level="53.9.1" data-path="Items.html"><a href="Items.html#kleinode"><i class="fa fa-check"></i><b>53.9.1</b> Kleinode</a></li>
-<li class="chapter" data-level="53.9.2" data-path="Items.html"><a href="Items.html#sonstige"><i class="fa fa-check"></i><b>53.9.2</b> Sonstige</a></li>
 </ul></li>
 </ul></li>
 <li class="chapter" data-level="54" data-path="BesondereItems.html"><a href="BesondereItems.html"><i class="fa fa-check"></i><b>54</b> Besondere Items und Modifikationen</a>
@@ -1672,7 +1671,7 @@ Daher sind manche Bereiche schreibgeschützt.</p>
 <p class="caption">Das Tabellenblatt “Character Sheet” zur Veranschaulichung der Skills und Attribute</p>
 </div>
 <p>Das CharacterSheet ist so aufgebaut, dass in Spalte A und B die <a href="character-creation.html#Attribute">Attribute</a> aufgeführt sind, die ein jeder Spieler in der Welt hat und weiterentwickeln kann.
-Ein jedes Attribut ist mit einer Farbe hinterlegt (B2:11), diese sind dafür da vereinfacht zu veranschaulichen, welche Attribute für das Ausführen eines <a href="character-creation.html#Skills">Skills</a> herangezogen werden.
+Ein jedes Attribut ist mit einer Farbe hinterlegt (B2:11), diese sind dafür da vereinfacht zu veranschaulichen, welche Attribute für das Ausführen eines <a href="#Skills">Skills</a> herangezogen werden.
 Somit ist beispielsweise leicht erkennbar, dass eine Person, die einen Nahkämpfer spielen möchte, unbedingt auf Stärke (Strength im CharacterSheet) leveln sollte.</p>
 <p>Ebenfalls findet man in Spalte A und B in Zeile 13, 15 und 16 den Namen des Character, sowie dessen <a href="character-creation.html#Gesundheit">Gesundheit</a> und <a href="character-creation.html#Ausdauer">Ausdauer</a>.
 Das Feld “Name” ist besonders für den DM wichtig, da dieser bei Ausführung der App angezeigt wird und der Zuordnung der Ergebnisse zu den Charakteren dient.
@@ -1775,15 +1774,15 @@ Luck und Glaube wird häufig als Hilfswerkzeug für den DM verwendet, bei dem ei
 </tbody>
 </table>
 </div>
-<div id="Skills" class="section level3" number="50.1.2">
-<h3><span class="header-section-number">50.1.2</span> Skills</h3>
+<div id="Fähigkeiten" class="section level3" number="50.1.2">
+<h3><span class="header-section-number">50.1.2</span> Fähigkeiten</h3>
 <p>Um den Charakterbogen und die Charaktererstellung zu vereinfachen, sind die Skills in verschiedene Gruppen eingeteilt.</p>
 <table>
-<caption>Diese Skills kann ein jeder Charakter beherrschen.</caption>
+<caption>Diese Fähigkeiten kann ein jeder Charakter beherrschen.</caption>
 <colgroup>
-<col width="18%" />
-<col width="54%" />
-<col width="27%" />
+<col width="20%" />
+<col width="53%" />
+<col width="26%" />
 </colgroup>
 <thead>
 <tr class="header">
@@ -1795,18 +1794,18 @@ Luck und Glaube wird häufig als Hilfswerkzeug für den DM verwendet, bei dem ei
 <tbody>
 <tr class="odd">
 <td></td>
-<td>Combat Skills</td>
+<td>Kampffähigkeiten</td>
 <td></td>
 </tr>
 <tr class="even">
 <td><h4 id="Reiten">Reiten</h4></td>
 <td>ermöglicht den <a href="grundlagen-des-spiels.html#KampfVomReittier">Kampf vom Reittier</a> und das Reiten von <a href="#AnimalHandling">Tieren</a>.</td>
-<td></td>
+<td>Ein Gegner reitet auf seinem Pferd davon.</td>
 </tr>
 <tr class="odd">
 <td><h4 id="Armed">Bewaffneter Nahkampf / Armed</h4></td>
 <td>beeinflusst den potenziellen Schaden von Kurz-, Groß- und Stangenwaffen.</td>
-<td></td>
+<td>Ein Angriff wird mit einem Großschwert ausgeführt.</td>
 </tr>
 <tr class="even">
 <td><h4 id="unbewaffneter-nahkampf-unarmed">Unbewaffneter Nahkampf / Unarmed</h4></td>
@@ -1816,7 +1815,7 @@ Luck und Glaube wird häufig als Hilfswerkzeug für den DM verwendet, bei dem ei
 <tr class="odd">
 <td><h4 id="blocken">Blocken</h4></td>
 <td>beeinflusst wie viel Schaden eines Angriffs durch eine <a href="grundlagen-des-spiels.html#BlockenAusweichen">Abwehrhandlung</a> geblockt wird.</td>
-<td></td>
+<td>Ein PC nutzt sein Schild, um einen Angriff abzuwehren.</td>
 </tr>
 <tr class="even">
 <td><h4 id="Artillerie">Artillerie</h4></td>
@@ -1839,9 +1838,9 @@ Luck und Glaube wird häufig als Hilfswerkzeug für den DM verwendet, bei dem ei
 <td>Ein PC versucht dem Angriff eines Bogenschützen auszuweichen.</td>
 </tr>
 <tr class="even">
-<td><h4 id="Acrobatics">Acrobatics</h4></td>
+<td><h4 id="Akrobatik">Acrobatics / Akrobatik</h4></td>
 <td>ermöglicht das Hochklettern von Gebäuden, ebenso wie andere akrobatische Handlungen.</td>
-<td></td>
+<td>Die Spieler möchten über eine Mauer flüchten.</td>
 </tr>
 <tr class="odd">
 <td><h4 id="Schleichen">Schleichen</h4></td>
@@ -1854,17 +1853,17 @@ Luck und Glaube wird häufig als Hilfswerkzeug für den DM verwendet, bei dem ei
 <td></td>
 </tr>
 <tr class="odd">
-<td><h4 id="Lying">Lying</h4></td>
+<td><h4 id="Lügen">Lying / Lügen</h4></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><h4 id="Persuation">Persuation</h4></td>
+<td><h4 id="Überzeugen">Persuation / Überzeugen</h4></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><h4 id="Performance">Performance</h4></td>
+<td><h4 id="Performanz">Performance / Performanz</h4></td>
 <td></td>
 <td></td>
 </tr>
@@ -1874,22 +1873,22 @@ Luck und Glaube wird häufig als Hilfswerkzeug für den DM verwendet, bei dem ei
 <td></td>
 </tr>
 <tr class="odd">
-<td><h4 id="Insight">Insight</h4></td>
-<td></td>
-<td></td>
+<td><h4 id="Einsicht">Insight / Einsicht</h4></td>
+<td><div class="line-block"></div></td>
+<td><div class="line-block"></div></td>
 </tr>
 <tr class="even">
-<td><h4 id="Intimidation">Intimidation</h4></td>
+<td><h4 id="Einschüchtern">Intimidation / Einschüchtern</h4></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><h4 id="Swimming">Swimming</h4></td>
-<td></td>
-<td></td>
+<td><h4 id="Schwimmen">Swimming / Schwimmen</h4></td>
+<td><div class="line-block"></div></td>
+<td><div class="line-block"></div></td>
 </tr>
 <tr class="even">
-<td><h4 id="Running">Running</h4></td>
+<td><h4 id="Laufen">Running / Laufen</h4></td>
 <td></td>
 <td></td>
 </tr>
@@ -1904,22 +1903,22 @@ Luck und Glaube wird häufig als Hilfswerkzeug für den DM verwendet, bei dem ei
 <td></td>
 </tr>
 <tr class="odd">
-<td><h4 id="Vehicles">Vehicles</h4></td>
+<td><h4 id="Fahrzeuge">Vehicles / Fahrzeuge</h4></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><h4 id="animal-handling">Animal Handling</h4></td>
+<td><h4 id="animal-handling-tierhandhabung">Animal Handling / Tierhandhabung</h4></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><h4 id="Survival">Survival</h4></td>
+<td><h4 id="Überlebenskunst">Survival /Überlebenskunst</h4></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><h4 id="Perception">Perception</h4></td>
+<td><h4 id="Wahrnehmung">Perception / Wahrnehmung</h4></td>
 <td></td>
 <td></td>
 </tr>
@@ -2012,10 +2011,10 @@ Des weiteren haben manche Rassen gewisse Fähigkeiten - wie zum Beispiel die THe
 <td align="center">10</td>
 <td align="center">10</td>
 <td align="center">14</td>
-<td align="center">8 | 9</td>
-<td align="center"><pre><code>     | 1</code></pre></td>
-<td align="center">0 | 1</td>
-<td align="center">0</td>
+<td align="center">8</td>
+<td align="center">9</td>
+<td align="center">10</td>
+<td align="center">10</td>
 </tr>
 <tr class="even">
 <td align="center">Instinct</td>
@@ -2700,6 +2699,14 @@ Es wird durch 5 geteilt und danach vom Physical-Wert abgezogen um die <font colo
 <div id="Belastungsstufe" class="section level5" number="50.2.8.1.1">
 <h5><span class="header-section-number">50.2.8.1.1</span> Die Belastungsstufen und ihre Debuffs</h5>
 <table>
+<colgroup>
+<col width="15%" />
+<col width="16%" />
+<col width="12%" />
+<col width="26%" />
+<col width="12%" />
+<col width="15%" />
+</colgroup>
 <thead>
 <tr class="header">
 <th>Belastung</th>
