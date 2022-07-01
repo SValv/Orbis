@@ -566,10 +566,10 @@ Sämtliche bisher in Orbis Astea existierenden Gegenstände finden sich in der u
 ```{r}
 dfag=read_xlsx("Container/Data/MiscItemListe.xlsx",sheet="Alle Gegenstände")
 
-dfag %>% select("Kategorie","Gegenstand","Preis",
-                "Gewicht","Händler","Beschreibung") %>% 
+dfag %>% select("Kategorie","Gegenstand","Preis","Gewicht","Händler","Beschreibung") %>% 
   mutate(Händler=str_remove_all(Händler," ,")) %>% 
-  mutate(Händler=substring(Händler,1, nchar(Händler)-1)) %>% 
+  mutate(Händler=ifelse(substring(dfag$Händler,1, 2)==", ",substring(Händler,3, nchar(Händler)-1),
+                        substring(Händler,1, nchar(Händler)-1))) %>% 
   relocate(Kategorie, Gegenstand, Beschreibung, Gewicht, Preis) %>% 
   arrange(Kategorie) %>% 
   reactable(groupBy = "Kategorie",
@@ -580,15 +580,11 @@ dfag %>% select("Kategorie","Gegenstand","Preis",
               Gewicht = colDef(format=colFormat(suffix = " Kg"),
                              filterable = FALSE),
               Kategorie = colDef(
-                # Render grouped cells without the row count
                 grouped = JS("function(cellInfo) {
                             return cellInfo.value
-                          }"), align="left",
+                          }"), align="left", minWidth= 150
                 
               )
-              
-              
-              
             ), bordered = F,
             highlight = T, showPageSizeOptions = T, filterable = T,
             pageSizeOptions = c(5,10, 20, 50),
@@ -596,7 +592,11 @@ dfag %>% select("Kategorie","Gegenstand","Preis",
             theme= overallThemeReactable, defaultColDef = colDef(
               align = "center"
             ), outlined = T,
-            striped=T)
+            striped=T, resizable = T)
+
+
+
+
 
 ```
 
