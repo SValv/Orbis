@@ -96,9 +96,12 @@ In jeder Kampfrunde gibt es 4 Aktionen:
 -   Die <font color="green">[Main Action](#MainAction)</font>
 -   Die <font color="green">[Bonus Action](#BonusAction)</font>
 
-#### Die Bewegung {#Bewegung .unnumbered}
+#### Die Bewegung und der Radius {#Bewegungsradius .unnumbered}
 
-Die Bewegung steht am Anfang einer Kampfphase, der Spieler kann sich seinen Bewegungsradius entsprechend bewegen, allerdings hat der DM hier das letzte Wort. Der Bewegungsradius berechnet sich durch den Agility-Wert durch 2 abgerundet. So kann sich eine normal agile Person 5 Meter pro Runde bewegen. Durch Reiten kann dieser Wert natürlich deutlich höher sein.
+Die Bewegung steht am Anfang einer Kampfphase. Der Spieler kann sich seinem Bewegungsradius entsprechend bewegen, allerdings hat der DM hier das letzte Wort. Der Bewegungsradius berechnet sich durch den Agilitäts-Wert durch 2 abgerundet. So kann sich eine normal agile Person 5 Meter pro Runde bewegen. Durch [Reiten](#Reiten) kann dieser Wert natürlich deutlich höher sein.
+
+Bei einem Laufen-check wird der Fähigkeitswert mal dem Bewegungsradius in einer Runde umgesetzt.
+Der Bewegungsradius von Tieren oder Monstern kann daher deutlich höher sein als der der Spieler.
 
 #### Die Single Action {#SingleAction .unnumbered}
 
@@ -237,9 +240,9 @@ Jede Waffe kann auch für ein wenig Schaden geworfen werdem. Hierbei wird der Sc
 
 Wurfwaffen funktionieren für gewöhnlich genauso. Im Notfall kann man sie als normale Nahkampfwaffen verwenden, allerdings bringt das kaum etwas. Ansonsten werden Wurfwaffen für eine single Action geworfen. Sie haben eine Chance gegnerische Aktionen zu unterbrechen, sie haben allerdings auch bei jeder Verwendung eine Chance, kaputtzugehen. Eine <font color="green">[Liste von Wurfwaffen ist hier](#Belastungsstufe)</font> einzusehen.
 
-### Called Shots {#CalledShots}
+### Gezielte Schüsse {#GezielterSchuss}
 
-Manchmal will man einen speziellen Teil des Gegners angreifen. Das nennt man einen Called Shot. Hierbei wird allerdings die Trefferwahrscheinlichkeit - und dadurch der Schaden - stark verringert, je nachdem was man zu treffen plant. Hierbei gibt es vier Bereiche:
+Manchmal will man einen speziellen Teil des Gegners angreifen. Das nennt man einen gezielten Schuss. Hierbei wird allerdings die Trefferwahrscheinlichkeit - und dadurch der Schaden - stark verringert, je nachdem was man zu treffen plant. Hierbei gibt es vier Bereiche:
 
 -   Kopf - Dies hat die Chance einen Gegner zu betäuben
 -   Torso - Innere Verletzungen nach Entscheidung des DM (empfohlen Luck/Glaube-Roll)
@@ -248,11 +251,11 @@ Manchmal will man einen speziellen Teil des Gegners angreifen. Das nennt man ein
 
 Diese Bereiche haben jeweils auch eigene Health-Werte und können nach und nach runtergebracht werden, um die Effekte sicher zu erzielen. Wird einem Teil schaden gemacht, sinkt auch die allgemeine Gesundheit eines Zieles.
 
-Es wird empfohlen einen Called Shot nur zu setzen, wenn der Gegner nicht garantiert Blocken, Parieren oder Ausweichen kann.
+Es wird empfohlen einen gezielten Schuss nur zu setzen, wenn der Gegner nicht garantiert Blocken, Parieren oder Ausweichen kann.
 
 ### Objekte während des Kampfes
 
-Objekte können während des Kampfes als Single Action verwendet werden. Wichtig ist hierbei allerdings, dass man sie bereits in der Hand, im Holster (bei Waffen) oder in der Tranktasche (bei Tränken) trägt. Alles, was aus dem Rucksack - also dem übrigen Inventar - geholt werden muss, kostet eine Main Action.
+Objekte können während des Kampfes als Nebenaktion verwendet werden. Wichtig ist hierbei allerdings, dass man sie bereits in der Hand, im Holster (bei Waffen) oder in der Tranktasche (bei Tränken) trägt. Alles, was aus dem Rucksack - also dem übrigen Inventar - geholt werden muss, kostet eine Hauptaktion.
 
 #### Holster {#Holster1 .unnumbered}
 
@@ -651,9 +654,9 @@ Zusätzlich kann ein Beschleunigungswurf gemacht werden um einen zusätzliches K
 
 Das Wetter spielt hierbei auch eine Rolle je nachdem woher der Wind weht. Gibt es keinen Wind, gelten die normalen Bewegungspunkte, wenn man sich gegen den Wind bewegt werden diese Punkte halbiert(minimum eins) - mit dem Wind werden sie verdoppelt.
 
-Ziel in diesen Seeschlachten ist es den Gegner zu versenken oder Kampfunfähig zu machen dies ist durch Called shots auf Masten oder Steuerruder möglich, da die Zerstörung des jeweiligen Teils die Kampffähigkeit des Schiffes stark einschränkt. Dies wird erreicht in dem man sein eigenes Schiff in möglichst klugen Taktischen Manövern in Position bringt und mit den Geschützen den Gegner attackiert. Alternativ kann das feindliche Schiff auch geentert werden um die Kontrolle zu übernehmen oder es zu sabotieren. Beispielsweise können die Geschützbatterien entzündet oder vielleicht der Pulvervorrat hochgejagt werden.
+Ziel in diesen Seeschlachten ist es den Gegner zu versenken oder Kampfunfähig zu machen dies ist durch gezielte Schüsse auf Masten oder Steuerruder möglich, da die Zerstörung des jeweiligen Teils die Kampffähigkeit des Schiffes stark einschränkt. Dies wird erreicht in dem man sein eigenes Schiff in möglichst klugen Taktischen Manövern in Position bringt und mit den Geschützen den Gegner attackiert. Alternativ kann das feindliche Schiff auch geentert werden um die Kontrolle zu übernehmen oder es zu sabotieren. Beispielsweise können die Geschützbatterien entzündet oder vielleicht der Pulvervorrat hochgejagt werden.
 
-Geschütze in den jeweiligen den Schiffsprofilen entsprechenden Slots können einer von vier Stellungen auf dem Schiff zugewiesen werden. Diese Stellungen sind Backbord vorne hinten und Steuerbord vorne hinten. Diese vier Stellungen können mit einem Called Shot anvisiert werden und besitzen Leben entsprechend der Anzahl der in der Stellung plazierten Geschütze, somit haben viel besetzte Stellungen mehr Leben als solche mit wenig bis keinem Geschütz. Desweiteren besitzen diese vier Stellungen Schussfelder die in etwa 180° groß sind, dies führt an den Seiten zu überlappenden Schussfeldern. Für die Vorder-und Rückseite gilt, nur jeweilse eine Seite kann gerade nach vorne oder hinten schießen, diese wird durch einen Luck Throw des Ziels bestimmt.
+Geschütze in den jeweiligen den Schiffsprofilen entsprechenden Slots können einer von vier Stellungen auf dem Schiff zugewiesen werden. Diese Stellungen sind Backbord vorne hinten und Steuerbord vorne hinten. Diese vier Stellungen können mit einem gezielten Schuss anvisiert werden und besitzen Leben entsprechend der Anzahl der in der Stellung plazierten Geschütze, somit haben viel besetzte Stellungen mehr Leben als solche mit wenig bis keinem Geschütz. Desweiteren besitzen diese vier Stellungen Schussfelder die in etwa 180° groß sind, dies führt an den Seiten zu überlappenden Schussfeldern. Für die Vorder-und Rückseite gilt, nur jeweilse eine Seite kann gerade nach vorne oder hinten schießen, diese wird durch einen Luck Throw des Ziels bestimmt.
 
 Durch schlaues platzieren der Geschütze auf dem Schiff sind verschiedene Taktiken möglich, so zum Beispiel eine Seite mit besonders vielen Geschützen zu versehen und den Gegner nur auf eine Seite zu lassen um ihn so mit überlegener Waffengewalt zu bewzingen, diese Strategien gehen aber mit einem gewissen Risiko einher.
 
@@ -688,7 +691,7 @@ Als Sonderoption beim Reisen gibt es auch ein 1/3 Chance, dass die Spieler ein b
 
 Mit ein passendes knowledgeskill können spieler gezielt nach ein bestimmten Enklave bei der Reise suchen.
 
-## Pause und Rast {#PauseRastsystem}
+## Pause und Rast {#PauseRastSystem}
 
 Wenn ein Charakter in einem Kampf oder durch andere Aktivitäten entweder Gesundheit oder Ausdauer verliert, ist es möglich, diese Werte bis zu einem bestimmten Punkt mit Hilfe des Pausensystems zu regenerieren. Dieses System umfasst 3 verschiedene Pausen, die verfügbar sind, nämlich:
 
@@ -887,7 +890,7 @@ Es ist nur möglich Waffen zu modifizieren, Mods die in die Rubirk Rüstung fall
 
 Neben der Jagt als übliche möglichkeit zum aquirieren von besonderem Monstermaterial ist es auch möglich auf kuriositäten Händler zu stoßen die ein sehr wechslendes Inventar zu noch wechselnderen Preisen bieten, jedoch unter anderem auch besondere Monstermaterialien. Wie bereits erwähnt wechseln die Preise für diese Produkte stark da es niemandem wirklich gelingen mag einen wirklichen Wert festzulegen da die Nachfrage schwer zu definieren und das Material manchmal schwer zu beschaffen manchmal auf Grund hoher Population massig vorhanden ist.
 
-### Herstellen, verbessern und Stufe erhöhen
+### Herstellen, verbessern und Stufe erhöhen {#Stufen}
 
 Jede Ausrüstung wird auf Stufe 1 hergestellt und ab diesem Punkt weiter verbessert. (Mit der Ausnahme von Monstermaterial dies ermöglicht die Herstellung einer Waffe direkt auf die Stufe des Materials). Jedes Ausrüstsungsteil hat zwei verbesserungen Stufen bevor es die nächst höhere Stufe erreicht, jede dieser Verbesserungen erhöht des Schaden um 25% der Differenz zur nächst höheren Stufe. Nach zwei verbesserungen ist ein neuschmieden möglich welches die Stufe der Ausrüstung erhöht, hierfür ist nicht das aktuelle Tier für den Materialverbrauch heranzuziehen sondern ein Material der nächsts höheren Stufe. Ein Beispiel: Stufe 1 Schwert mit zwei verbesserungen (die Material Stufe 1 benötigt haben) benötigt für den Aufstieg auf Stufe 2 ein Material der Stufe 2.
 
@@ -986,7 +989,7 @@ Jede aktive Anwendung verbraucht Ladungen des Akkus, je nach Art der Anwendung k
 
 ### Gliedmaßen / Schwachpunkt
 
-Konstrukt Teile: Jedes Konstrukt bestehlt aus 6 angreifbaren Teilen seinen 4 Gliedmaßen einer Kernabdeckung und dem Kernselbst. Der Kern für sich ist nahezu ungepanzert, kann jedoch erst angegriffen werden nach dem die Kernabdeckung zerstört wurde. Der Kern ersetzt beim Called shot angriff den Kopf und die Kernabdeckung den Torso.
+Konstrukt Teile: Jedes Konstrukt bestehlt aus 6 angreifbaren Teilen seinen 4 Gliedmaßen einer Kernabdeckung und dem Kernselbst. Der Kern für sich ist nahezu ungepanzert, kann jedoch erst angegriffen werden nach dem die Kernabdeckung zerstört wurde. Der Kern ersetzt beim gezielten Schussangriff den Kopf und die Kernabdeckung den Torso.
 
 ### Kern
 
@@ -1267,7 +1270,7 @@ Während die meisten Völker Zwerge nur als Fahrende Händler oder an deren Wohn
 
 ![Ein seltenes Konstrukt](Pictures/Flavor/Platzhalter/KonstruktRahKari.jpg)
 
-## Konstrukte {#konstrukte}
+## Einsatzfelder von Konstrukten {#KonstruktAnwendung}
 
 ### Kontrolle über Konstrukte
 

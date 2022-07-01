@@ -20,7 +20,7 @@ Diese Tabelle ist eine Übersicht über die Werte zum rechnen über die verschie
 
 Beim Auswählen der richtigen Rüstung und Waffen ist es sinnvoll, die die <font color="green">[Modifikatoren durch Überladung](#Belastungsstufe)</font> zu kennen, damit man nicht am Ende vollständig überladen in die Schlacht zieht.
 
-## Zustand
+## Zustand {#Zustand}
 
 Der Zustand ist ein Wert der Waffen und Rüstung zu eigen ist er bestimmt sowohl wie Hilfreich diese im Kampf sind wie auch deren Verkaufswert.
 
@@ -316,9 +316,10 @@ Hier sieht man die verfügbaren Schildtypen:
 | Turmschild     | 1                  | Standartwert x 0.75 | 0,3      | 8 kg     | 0.8 x Standartpreis |
 +----------------+--------------------+---------------------+----------+----------+---------------------+
 
-## Tranktaschen {#TranktascheItems}
+## Tranktaschen {#Tranktaschen}
 
-Tränke will man im Kampf schnellstmöglich verfügbar haben. Dafür wurde die Tranktasche entwickelt. Für viele Soldaten und Abenteurer ist die Tranktasche nicht wegzudenken: Bomben, Power ups und Heilungen einfach mit einer single Action zu verwenden ist auch ein gutes Argument, denn genau dies erlaubt die Tranktasche.
+Tränke will man im Kampf schnellstmöglich verfügbar haben. Dafür wurde die Tranktasche entwickelt. 
+Für viele Soldaten und Abenteurer ist die Tranktasche nicht wegzudenken: Bomben, Power ups und Heilungen einfach mit einer einfachen  Aktion zu verwenden ist auch ein gutes Argument, denn genau dies erlaubt die Tranktasche.
 
 Es gibt Tranktaschen mit verschiedenen Mengen an Slots:
 

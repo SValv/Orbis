@@ -97,6 +97,8 @@ Speziell erwähnt werden sollten Legenden.
 Diese Monster sind lediglich aus alten Überlieferungen von Orks, Zwerge oder Elfen belegt.
 Seit der Erstauflage dieses Werkes vor über dreizehn Jahrzehnten konnte von diesen Legenden kein Nachweis erbracht werden.
 
+-  Anomalien  - Anomalien sind Monster, die keiner der anderen Kategorien zugeordnet werden k?nnen. Sie sind alle einzigartig und verhalten sich anders als andere Monsterkategorien, in denen sich die Monster alle auf ?hnliche Weise verhalten.
+
 ## Höllenbrut
 
 ### Bermatalteufel
@@ -1132,6 +1134,10 @@ They will aggressively run to any creature that enters their territory.
 They are mostly found around rivers in Grenzland and the southern parts of the Herzland, where they will bath in the water to keep a neutral pH level.
 
 ## Legenden
+
+## Anomalien
+
+### Ricor
 
 ## Erwachte
 
