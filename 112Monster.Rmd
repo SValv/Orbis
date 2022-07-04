@@ -1053,7 +1053,7 @@ Prinzipiell wird geraten in den bekannten Gängen welche von den Ostbezirken von
 
 ## Vampiridae
 
-## Katakhan
+### Katakhan
 
 Katakhane gehören zu den schwächeren Vampiridae und treten meist als Einzelgänger auf.
 Sie erinnern in der Gestalt an hässliche Hybriden aus Fledermäusen und haarigen Goblins und sind in der Bevölkerung dementsprechend beliebt.
@@ -1066,7 +1066,7 @@ Ihre Anfälligkeit ist gegenüber Feuer und Narkotika.
 Falls es sich gerade nicht ziemt einen Forst nieder zu brennen wird empofhlen Schafe mit Honig eingeschmiert als Falle zu verwenden.
 Dies sollte diesen beschränkt Intelligenten bärtigen Vampiridae meist aus verstecken hervorlocken.
 
-## Fleischsauger
+### Fleischsauger
 
 Obwohl alle Vampiridae im eigentlich Sinne Blut "saugen", sind die Fleischsauger hier eine Sonderform.
 Ihr Habitus erinnert an einen breit gebauten Menschen, wobei der linke Arm in mehreren Tentakeln mündet.
@@ -1135,11 +1135,12 @@ They are mostly found around rivers in Grenzland and the southern parts of the H
 
 ## Legenden
 
+
 ## Anomalien
 
 ### Ricor
 
-## Erwachte
+# Die Erwachten
 
 Wie das ein mal eins weis jedes Kind auf Orbis das ein Toter nicht lange friedlich bleibt, in aller Regel hält dieser Frieden eines Toten 3 bis 4 Tage bis er erneut von unerklärlichem Tatendrang sich auf alles Humanoide stürzt und das ohne jedwege sorge für den Alten Leib und das neugewonnene Leben, was wenig wundert da diese in aller Regel über keinerlei Persönlichkeit oder Verstand verfügen sondern rein Instinktiv handeln.
 Auch verlieren sie dadurch einiges der Stärke die ihnen im Leben zu eigen war.

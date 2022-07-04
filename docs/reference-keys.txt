@@ -666,7 +666,7 @@ acid-raptors
 legenden
 anomalien
 ricor
-erwachte
+die-erwachten
 kampfverhalten
 subklassen-der-erwachten
 kopflose-mutierte-erwachte

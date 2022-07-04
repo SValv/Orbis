@@ -119,7 +119,7 @@ Durch die Unbekanntheit der Ländereien finden allerdings nur äußerst wenige M
 Zeujarden organisieren sich über Vereinigungfeste wo eine größere Anzahl der Zeujarden ihr gesammeltes Wissen austauschen und um Ressourcen für Rüstungen und Waffen zu organisieren.
 Technisch den Menschen deutlich überlegen, aber angewiesen auf die Unterstützung ihres Erschaffers, verlassen Sie die brennenden Länder nicht.
 
-# Was sind Blutgötter?
+## Was sind Blutgötter?
 
 Blutgötter sind die letzten Überlebenden der Vorläufer.
 Dies ist eine menschenartige Spezies, welche durch enormen technischen Fortschritt quasi gottgleiche Fähigkeiten erlangt, welche für die regulären Menschen nicht erklär- oder logisch verstehbar sind.
@@ -127,7 +127,7 @@ Darunter zählen beispielsweise die Fähigkeiten Visionen in den Köpfen von Hum
 
 Die Blutgötter und Vorläufer bekriegen sich primär gegenseitig und interagieren im Allgemeinen beiläufig mit Menschen.
 
-## Vorläufer und Blutötter: 
+### Vorläufer und Blutötter: 
 
 Technische weit fortgeschrittene Spezies an Humanoiden, welche durch die erlangte Macht verrückt wurden.
 Sie haben sich gegenseitig stark reduziert da jeder möglichst viel Kontrolle oder Macht haben wollte.

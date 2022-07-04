@@ -378,7 +378,7 @@ dftr %>% relocate(Tränke,Stufe,Wirkung) %>%
             defaultPageSize = 20,  paginationType = "jump",
             theme= overallThemeReactable, defaultColDef = colDef(
               align = "center"
-            ), outlined =T)
+            ), outlined =T, striped = T)
   
 ```
 
@@ -566,24 +566,25 @@ Sämtliche bisher in Orbis Astea existierenden Gegenstände finden sich in der u
 ```{r}
 dfag=read_xlsx("Container/Data/MiscItemListe.xlsx",sheet="Alle Gegenstände")
 
-dfag %>% select("Kategorie","Gegenstand","Preis","Gewicht","Händler","Beschreibung") %>% 
-  mutate(Händler=str_remove_all(Händler," ,")) %>% 
+
+dfag %>% select("Kategorie","Gegenstand","Preis","Gewicht","Händler","Beschreibung") %>%
+  mutate(Händler=str_remove_all(Händler," ,")) %>%
   mutate(Händler=ifelse(substring(dfag$Händler,1, 2)==", ",substring(Händler,3, nchar(Händler)-1),
-                        substring(Händler,1, nchar(Händler)-1))) %>% 
-  relocate(Kategorie, Gegenstand, Beschreibung, Gewicht, Preis) %>% 
-  arrange(Kategorie) %>% 
+                        substring(Händler,1, nchar(Händler)-1))) %>%
+  relocate(Kategorie, Gegenstand, Beschreibung, Gewicht, Preis) %>%
+  arrange(Kategorie) %>%
   reactable(groupBy = "Kategorie",
             columns = list(
-              
+
               Preis = colDef(format=colFormat(suffix = " Reiks"),
-                                       filterable = FALSE),
+                                       filterable = FALSE,minWidth= 75),
               Gewicht = colDef(format=colFormat(suffix = " Kg"),
-                             filterable = FALSE),
+                             filterable = FALSE,minWidth= 75),
               Kategorie = colDef(
                 grouped = JS("function(cellInfo) {
                             return cellInfo.value
                           }"), align="left", minWidth= 150
-                
+
               )
             ), bordered = F,
             highlight = T, showPageSizeOptions = T, filterable = T,
@@ -593,9 +594,6 @@ dfag %>% select("Kategorie","Gegenstand","Preis","Gewicht","Händler","Beschreib
               align = "center"
             ), outlined = T,
             striped=T, resizable = T)
-
-
-
 
 
 ```

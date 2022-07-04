@@ -71,7 +71,9 @@ file.copy(list.files(from, full.names = TRUE),
           to, 
           recursive = TRUE,overwrite =T)
 
-overallThemeReactable=reactableTheme(backgroundColor = "transparent", borderColor = "black")
+overallThemeReactable=reactableTheme(backgroundColor = "transparent", borderColor = "black",
+                                     stripedColor = "#FDF6E3", headerStyle=list(backgroundColor="#FDF6E3"),
+                                     filterInputStyle =list(backgroundColor="#FDF6E3"))
 
 ```
 
