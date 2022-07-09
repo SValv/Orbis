@@ -94,6 +94,7 @@ htmltools::browsable(
                 Kosten = colDef(format = colFormat(suffix = " Reiks")),
                 Region = colDef(show=F)
               ), bordered = T, highlight = T, showPageSizeOptions = TRUE,
+              striped=T,
               pageSizeOptions = c(5,10, 20, 50),
               defaultPageSize = 10,  paginationType = "jump",
               theme= overallThemeReactable, defaultColDef = colDef(

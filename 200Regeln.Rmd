@@ -803,7 +803,86 @@ Mit Lehrperson:
 
 Da Lehren Zeitintensiv ist, wollen die meisten Charaktere eine Gegenleistung dafür. Dennoch haben auch Lehrer eine Chance beim Lehren selbst etwas zu lernen. Diese ist umso höher, desto kleiner die Differenz ist. Die Wahrscheinlichkeiten dafür sind in folgender Tabelle aufgeführt:
 
-\`\`\`{r,echo=F} Differenz\<-c(10,20,30,40,50) Wahrscheinlichkeit\<-c(20,15,10,5,0) ll\<-data.frame(Differenz,Wahrscheinlichkeit) colnames(ll)\[2\]\<-"Wahrscheinlichkeit in %" chen findet man bei den meisten Alchemisten) und Stufe 6 braucht eine Alchemielabor, welches nur in Großstädten verfügbar ist.
+```{r,echo=F}
+Differenz<-c(10,20,30,40,50)
+Wahrscheinlichkeit<-c(20,15,10,5,0)
+ll<-data.frame(Differenz,Wahrscheinlichkeit)
+colnames(ll)[2]<-"Wahrscheinlichkeit in %"
+knitr::kable(ll,align = "cc")
+```
+
+### Studieren {#Studieren}
+
+Wie man Skills Trainieren kann, so kann man auch Wissen oder Sprachen lernen. Hierfür braucht man zuerst einmal ein Buch oder einen Lehrer - da man sich solche Inhalte nicht selbst erarbeiten kann. Natürlich sind Sachbücher oder Unterricht bei Gelehrten nicht billig. Des weiteren Braucht man den Wissensskill Schriftlehre auf Stufe 1 um aus Büchern lernen zu können.
+
+Wie beim Training muss man zuerst spezifizieren was man studieren will - also in welchem Bereich man sich weiterbilden will. Das studieren hängt eng mit dem Wissensskillsystem zusammen, welches man sich anschauen sollte.
+
+Studieren ist ein langwieriger Prozess. Man verbraucht beim studieren jedes Mal eine volle Downtime. Studieren ist eng verbunden mit dem <font color="green">[Wissenssystem](#Wissensskills)</font>, welches man verstanden haben sollte.
+
+Jede spezifizierte Downtime wird ein D20 geworfen. Ist der erreichte Wert über dem Intelligenzwert zählt das lernen als gescheitert. Ist er unter dem Intelligenzwert wird die Differenz zwischen Wurf und Intelligenz als Wert aufgerechnet und mit den bereits vorhandenen Punkten in diesem Bereich addiert.
+
+> Ein Charakter mit Intelligenz 14 will elfisch lernen. Er wirft den D20 und bekommt eine 2. Die Differenz +1 beträgt 13. Also hat er seinen Wert in Elfisch von 0 auf 13 verbessert. Dies entspricht Elfisch 2. Würde er eine 15 werfen statt eine 2 hätte er bei dieser Sitzung nichts gelernt.
+>
+> --- Beispiel
+
+Wenn man genug addierte Punkte hat kann man seinen Wissensskill nach diesem kummulativen Schlüssel aufwerten:
+
++--------------------------------------------+----------------+----------------------------------+--------------------------------------------+
+| Niveau/Stufe der Sprache oder des Wissens: | Kosten Punkte: | Wissensniveau                    | Sprachniveau                               |
++:==========================================:+:==============:+:================================:+:==========================================:+
+| Stufe 0                                    | 0              | Kein Wissen im Bereich           | Keine Sprachfähigkeit                      |
++--------------------------------------------+----------------+----------------------------------+--------------------------------------------+
+| Stufe 1                                    | 5              | Grundwissen                      | sehr einfache Gespräche möglich            |
++--------------------------------------------+----------------+----------------------------------+--------------------------------------------+
+| Stufe 2                                    | 10             | Belesen & Erfahren im Fachgebiet | Verständigung umständlich aber vollständig |
++--------------------------------------------+----------------+----------------------------------+--------------------------------------------+
+| Stufe 3                                    | 10             | Ausgewiesener Fachmensch         | Gesetzestext- und Muttersprachenniveau     |
++--------------------------------------------+----------------+----------------------------------+--------------------------------------------+
+
+Ein Upgrade von Stufe eins auf Stufe 2 würde also 10 solcher Punkte kosten, während ein Upgrade auf Stufe 1 nur 5 kosten würde.
+
+Des weiteren kann man auch mithilfe von "Mittelchen" lernen, die Einnahme von Intelligenztränken für einen Lernvorgang ist also vollkommen in Ordnung. Man braucht allerdings 2 Tränke statt einen, da eine Downtime zeitlich etwas länger ist. Der Wert der Intelligenztränke wird gemittelt.
+
+## Die Tiers (oder Stufen) {#Tiers}
+
+Sämtliche Ausrüstung, Tränke, Waffen, Instrumente, etc. kommen in Orbis Astea in sogenannten "Tiers" oder Stufen. Umso höher die Tier, desto besser und wertvoller die Ausrüstung. In einer Tier können Ausrüstungsstücke verschiedenen Materials sein, d.h. die Tier entscheidet darüber, was die Werte der Waffe sind, während das Aussehen und das Material, solange es Tier-konform ist, meistens vom Spieler bestimmt werden darf. Genauer wird dieses Konzept in <font color="green">[Items](#Items)</font> behandelt.
+
+Welche Materialien gehören zu welchen Tiers?
+
+| Tier 1 | Tier 2 |      Tier 3      |          Tier 4          |       Tier 5       |
+|:------:|:------:|:----------------:|:------------------------:|:------------------:|
+| Eisen  | Stahl  | Gehärteter Stahl |     Zwergenmaterial      | Vorreiter-Material |
+| Buche  | Lärche |      Esche       | Silva-Nacia-Spinnenseide |                    |
+| Stoff  | Leder  |  Kettenbeschlag  |                          |                    |
+
+Während Tier 1 recht verbreitet ist und Tier 2 dem erfahrenem oder reichem Abenteurer zur Verfügung steht ist Tier 3 bereits Ausrüstung, die man sehr selten sieht und absoluten Eliteeinheiten vorbehalten ist. Tier 4 haben noch legendäre Krieger und prestigegeile Herrscher, die sich eine Garde leisten können, die groß genug ist, dass nicht jede Banditengruppe oder jeder Meuchelmörder und Dieb in einer Taverne versucht einem ein derart seltenes und mächtiges Objekt abzunehmen.
+
+Tier 5 ist eine vollständig andere Liga, diese Items besitzen gottgleiche Mächte und können entfesselt und kontrolliert ganze Armeen vernichten und wahre Drachen wie kleine Hunde aussehen lassen. Sie zu kontrollieren und zu bedienen ist allerdings noch schwieriger als sie zu finden oder zu erkennen. Sie haben vollständig eigenständige Effekte und jeder DM sollte sich genau überlegen, was er tut bevor er sie einführt.
+
+## Die Alchemie {#AlchemieSystem}
+
+Die Alchemie ist eine der Herstellungsdisziplinen. Mithilfe von zwei unterschiedlichen Pflanzen können Alchemisten hierbei verschiedenste Tränke brauen.
+
+### Herstellung von Tränken {#HerstellungTränke}
+
+Tränke müssen immer aus zwei Ingridienzien hergestellt werden. Hierbei ist die maximal entstehbare Stufe des Trankes die aufaddierten Effektgrößen der Pflanzen/2. Davon abgesehen werden die Tränke die stärkstmöglichen, die ein Threshold hergibt.
+
+Pflanzen haben bis zu vier Effekte, steht der Name eines Tranks in diesen Effekten dabei kann man den Trank mit dieser Zutat (und einer anderen mit passendem Effekt) brauen.
+
+Um Übersicht über die Pflanzen zu erlangen schau <font color="green">[hier](#App)</font> für die genauen <font color="green">[Wirkungen hier](#Tränke)</font>
+
+Hier sind die jeweiligen Thresholds und Informationen was die Stufen der Pflanzen angeht, die Abklingzeit beschreibt wie lange die Toxische Wirkung im Körper aktiv ist:
+
+|  Stufe  | Threshold |  Herstellung  | Abklingzeit | Toxikologie |
+|:-------:|:---------:|:-------------:|:-----------:|:-----------:|
+| Stufe 1 |    1,7    |  On the run   |   30 min    |      1      |
+| Stufe 2 |    2,4    |  On the run   |   90 min    |      2      |
+| Stufe 3 |    2,6    |     Lager     |     4h      |      3      |
+| Stufe 4 |    3,5    |     Lager     |     10h     |      4      |
+| Stufe 5 |    4,5    | Alchemietisch |    24 h     |      5      |
+| Stufe 6 |   4,75    | Alchemielabor |   3 Tage    |      6      |
+
+Sollte man zum Beispiel einen Ausdauertrank brauen, der von den Zutaten her Stufe 5 erreichen könnte, hat aber nur einen Threshold von 4 wird es ein Stufe 4 Trank. Des weiteren ist wichtig welche Tränke wo hergestellt werden können. Während Stufe 1 & Stufe 2 überall und spontan hergestellt werden können, braucht man für Tränke der Stufen 3 und 4 schon mehr Zeit und muss diese im Lager herstellen. Tränke der Stufe 5 brauchen einen Alchemietisch (einen solchen findet man bei den meisten Alchemisten) und Stufe 6 braucht eine Alchemielabor, welches nur in Großstädten verfügbar ist.
 
 Des weiteren braucht ein Alchemist eine Flasche, in die er sein Gebräu einfügen kann. Bei Bomben kommt dabei nur eine Bombshellflasche in betracht. Für sämtliche anderen Tränke kann man sich zwischen einer teueren Metall und einer billigen Glasflasche entscheiden - wobei Glasflaschen gerne mal bei Belastung kaputt gehen. Aber wann und wobei sie kaputt gehe Obliegt dem DM, wobei das schon begründbar sein sollte (verknüpfen mit einem Lucksafe und angepasstem Treshold).
 

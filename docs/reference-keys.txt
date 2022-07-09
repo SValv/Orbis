@@ -730,9 +730,7 @@ Attribute
 Fähigkeiten
 Charaktererstellung
 RassenStartwerte
-Rassenfähigkeiten
 Fähigkeitsverbesserungen
-Fähigkeitsgruppen
 Wissensfähigkeiten
 Kontakte
 Rucksack
@@ -802,6 +800,10 @@ hauptaktivitäten
 nebenaktiväten
 andere-aktvitäten
 Training
+Studieren
+Tiers
+AlchemieSystem
+HerstellungTränke
 inhibitoren
 Epinephrin
 downtime-alchemieaktionen
