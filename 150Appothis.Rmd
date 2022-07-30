@@ -1,21 +1,58 @@
 # Appothis
 
+* Wüstendämonen erschaffen Sandstürme um reisende vom Weg abzubringen und zu fressen
+* Rebellen/Banditen meistens entflohene sklaven oder extrem arme menschen recht verteilt durch die wüste
+* Indigene Stämme in der Wüste, kopfgeld auf sie wegen eigener Religion und weil manche Stämme informationen über Asb' Kartes vermächtniss haben
+* Untotenarmee von rah kari bürgerkrieg - ca 100000 stark vlt mehr, Politikum zwischen kaiserlichem Geheimdienst und Inquisiton
+* Zwerge in den Bergen, sehr misstrauisch weil sie unter Rah Kari knochenräuberei leiden
+* Tunnelnetzwerk zwischen den Städten größer, weil wüste
+
 
 ## Ortschaften der Region 
 
+### Keshep
+
+Größte Stadt der Region, Hauptstadt und Militärischer Holdout
+
+### Quissa
+
+Oasenstadt, Außenposten vor der eisenroten wüste (querverweis hier)
+
+### Napnopet
+
+Zusammengesetzt aus Napno (Wurm) und Pet(stadt).
+
+Steinmenschen in den Bergen, Trading hub mit zwergen, Sehenswürdigkeit, ins skelett von weltenwurm gebaut, Palast von Statthalter im Kopf
+
+### Bokarun-Mine
+
+Größte Granit-Mine im Land der Rah' Kari, Grund für Atumpets Wachstum. 
+
+### Esunpet und Wisunpet
+
+Die beiden größeren Städte am Nebelhain, von großer militärischer und ökonomischer Bedeutung, beide gegründer um 100 nach Riga, Planstädte
+
 ### Infrastruktur
 
+Die Große Infrastuktur ist die Straße nach Atumpet, die vor allem von den Hütern maintaied wird. 
+
 ## Die Geschichte der Region
+
+Hauptschauplatz der Sklavenaufstände, weswegen die Armee der Untoten dort herrscht
 
 ## Wirtschaftliche Lage
 
 ### Die Ressourcen der Region
 
+Granit, Agrarnutzung an Setra und Atum, Keramik
+
 ## Soziopolitische Lage 
 
-### Herrschaftsystem/Organisation
+Keshep als Hauptmilitärstadt der Rah kari, Stadt des Sohns des Tarkus
 
 ## Klimatische Bedingungen
+
+Wüste im Hauptland, gemäßigtes Klima an den Ufern der Flüsse
 
 ### Die Flora und Fauna
 

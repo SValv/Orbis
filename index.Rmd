@@ -1,5 +1,6 @@
 --- 
-title: "<center>Orbis Astea</center>"
+title: |
+  <center>Orbis Astea</center>
 date: "<center>Version vom: `r format(Sys.Date(),'%d.%m.%Y')`</center>"
 author: "<center>DM-App Version: 3.453</center>"
 site: bookdown::bookdown_site
