@@ -6,7 +6,7 @@ editor_options:
 
 # (PART) Deep Lore {.unnumbered}
 
-# \# Vorläufer und Blutgötter
+# Vorläufer und Blutgötter
 
 <big> Achtung hierbei handelt es sich um nicht spiel- aber verständnisrelevante Deep-Lore.
 Während es für DM's sinnvoll ist sie zu verstehen, kann es für Spieler Hintergründe und Kausalitäten aufzeigen, welche den Spielspaß beeinträchtigen.
