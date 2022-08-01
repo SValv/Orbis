@@ -318,8 +318,7 @@ Hier sieht man die verfügbaren Schildtypen:
 
 ## Tranktaschen {#Tranktaschen}
 
-Tränke will man im Kampf schnellstmöglich verfügbar haben. Dafür wurde die Tranktasche entwickelt. 
-Für viele Soldaten und Abenteurer ist die Tranktasche nicht wegzudenken: Bomben, Power ups und Heilungen einfach mit einer einfachen  Aktion zu verwenden ist auch ein gutes Argument, denn genau dies erlaubt die Tranktasche.
+Tränke will man im Kampf schnellstmöglich verfügbar haben. Dafür wurde die Tranktasche entwickelt. Für viele Soldaten und Abenteurer ist die Tranktasche nicht wegzudenken: Bomben, Power ups und Heilungen einfach mit einer einfachen Aktion zu verwenden ist auch ein gutes Argument, denn genau dies erlaubt die Tranktasche.
 
 Es gibt Tranktaschen mit verschiedenen Mengen an Slots:
 
@@ -391,47 +390,22 @@ dftr %>% relocate(Tränke,Stufe,Wirkung) %>%
 
 ## Instrumente
 
-Instrumente kommen in drei Tiers, wie auch bei Waffen und Rüstungen darf sich der Charakter aussehen und Klang seines Instruments weitestgehend frei aussuchen, solange es nicht unpassend ist. Wie Instrumente in Orbis Aestea funktionieren <font color="green">[findet sich hier](#InstrumenteRules)</font>
+Bei Instrumenten, wie auch bei Waffen und Rüstungen darf sich der Charakter aussehen und Klang seines Instruments weitestgehend frei aussuchen, solange es nicht unpassend ist. Wie Instrumente in Orbis Aestea funktionieren <font color="green">[findet sich hier](#InstrumenteRules)</font>. Jedes Instrument kostet 5000 Reiks, obwohl besondere oder verzierte Instrumente extra kosten können, hier liegt die Handhabe beim DM.
 
-Übersicht über die Stufen:
+Übersicht über die Instrumente:
 
-| Instrumente | Slots | Price | Zustand |
-|:-----------:|:-----:|:-----:|:-------:|
-|    Tier1    |   1   | 2000  |    7    |
-|    Tier2    |   2   | 30000 |   13    |
-|    Tier3    |   3   | 50000 |   18    |
+```{r}
+df =read_xlsx("Container/Data/AllaroundDataStorage.xlsx",sheet="Musiksys")
 
-### Buffs durch Instrumente {#WirkungBuffs}
+df %>% select(Genrebezeichnung, Hauptinstrument, Begleitinstrument) %>% 
+  distinct() %>% 
+  pivot_longer(-Genrebezeichnung, values_to = "Instrument") %>% 
+  pivot_wider(names_from = name, values_from = Genrebezeichnung) %>% 
+  rename(Hauptgenre = Hauptinstrument , Begleitgenre =  Begleitinstrument) %>% 
+  knitr::kable()
 
-Folgende Buffs können in die Slots von Instrumenten gepackt werden:
+```
 
-|      Buffs      | Preis  | Treshold |   Wirkung   |
-|:---------------:|:------:|:--------:|:-----------:|
-|  Critmargin +1  |  2000  |   1,65   |   Target    |
-|  Critmargin +2  |  4000  |   2,4    |   Target    |
-|  Critmargin +3  |  9000  |   3,4    |   Target    |
-|  Critmargin +4  | 20000  |   3,8    |   Target    |
-|  Critmargin +1  |  2000  |   2,3    |     AoE     |
-|  Critmargin +2  |  4000  |   3,2    |     AoE     |
-|  Critmargin +3  |  9000  |   3,6    |     AoE     |
-|  Critmargin +4  | 20000  |   4,5    |     AoE     |
-|   Bonus Round   | 100000 |    5     |   Target    |
-|   Bonus Round   | 140000 |    6     |     AoE     |
-|  Attribute +1   |  6000  |   2,3    |   Target    |
-|  Attribute +2   | 12000  |   3,4    |   Target    |
-|  Attribute +3   | 24000  |    4     |   Target    |
-|  Attribute +4   | 42000  |   4,8    |   Target    |
-|  Attribute -1   |  6000  |   2,3    |   Target    |
-|  Attribute -2   | 12000  |   3,4    |   Target    |
-|  Attribute -3   | 24000  |    4     |   Target    |
-|  Attribute -4   | 42000  |   4,8    |   Target    |
-| Herausforderung | 20000  |   3,5    |    Self     |
-| Herausforderung | 40000  |   3,5    | Target ally |
-|   Entspannung   | 30000  |   3,5    |    Self     |
-|   Entspannung   | 70000  |   3,5    | Target ally |
-
--   Herausforderung: Ein Ziel bekommt die Aufmerksamkeit des Gegners und wird angegriffen, außer der Gegner besteht einen Instinct-Save gegen einen Threshold von 4
--   Entspannung: Ein Ziel verliert die Aufmerksamkeit des Gegners und wird nicht angegriffen, außer der Gegner besteht einen Instinct-Save gegen einen Threshold von 4
 
 ## Fallen
 
@@ -597,8 +571,6 @@ dfag %>% select("Kategorie","Gegenstand","Preis","Gewicht","Händler","Beschreib
 
 
 ```
-
-
 
 ### Kleinode
 

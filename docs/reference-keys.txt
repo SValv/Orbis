@@ -866,7 +866,6 @@ Tranktaschen
 Tränke
 wirkungen-von-tränken
 instrumente
-WirkungBuffs
 fallen
 typische-fallen
 Mounts

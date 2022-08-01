@@ -16,9 +16,9 @@ Wie man sieht, passiert es manchmal, dass einem Skill mehrere Attribute zugeordn
 
 ### Die einfache Probe
 
-Die einfache Probe ist zu Würfeln, wenn es keinen direkten Gegenspieler gibt. Sie ist meistens mit einem Threshold in Value[^200regeln-1] oder Damage verknüpft, den der DM beliebig festlegt. Sollte man bspw. versuchen ein Schloss zu knacken, wird der DM festlegen, dass der Value über 3 sein soll, um das zu erreichen. Bei härteren/leichteren schlössern ist der Value natürlich anzupassen.
+Die einfache Probe ist zu Würfeln, wenn es keinen direkten Gegenspieler gibt. Sie ist meistens mit einem Threshold in Value[^1] oder Damage verknüpft, den der DM beliebig festlegt. Sollte man bspw. versuchen ein Schloss zu knacken, wird der DM festlegen, dass der Value über 3 sein soll, um das zu erreichen. Bei härteren/leichteren schlössern ist der Value natürlich anzupassen.
 
-[^200regeln-1]: Value ist eine Form von Gütekriterium eines Wurfes - je höher der Value, desto besser der Wurf.
+[^1]: Value ist eine Form von Gütekriterium eines Wurfes - je höher der Value, desto besser der Wurf.
 
 Welche Werte hierbei welcher Größenordnung entsprechen findet sich <font color="green">[hier](#Abstufungen)</font>.
 
@@ -192,19 +192,19 @@ Hier sieht man eine Übersicht über die Genres:
 +---------------+---------------------+-----------------+-------------------+
 | Genre         | Wirkung             | Hauptinstrument | Begleitinstrument |
 +:=============:+:===================:+:===============:+:=================:+
-| Minnesang     | Charisma            | Laute           | Geige             |
+| Minnesang     | Charisma            | Geige           | Laute             |
 +---------------+---------------------+-----------------+-------------------+
-| Rock          | Kritische<br>Chance | Dudelsack       | Trommel           |
+| Rock          | Kritische<br>Chance | Trommel         | Dudelsack         |
 +---------------+---------------------+-----------------+-------------------+
-| Folk          | Physical            | Trompete        | Horn              |
+| Folk          | Physical            | Flöte           | Trommel           |
 +---------------+---------------------+-----------------+-------------------+
-| Tavernenmusik | Agilität            | Flöte           | Geige             |
+| Tavernenmusik | Agilität            | Laute           | Geige             |
 +---------------+---------------------+-----------------+-------------------+
-| Metal         | Stärke              | Trommel         | Horn              |
+| Metal         | Stärke              | Dudelsack       | Trompete          |
 +---------------+---------------------+-----------------+-------------------+
-| Polka         | Angriffsziel        | Laute           | Flöte             |
+| Polka         | Angriffsziel        | Horn            | Flöte             |
 +---------------+---------------------+-----------------+-------------------+
-| Hymne         | Bonus Action        | Dudelsack       | Trompete          |
+| Hymne         | Bonus Action        | Trompete        | Horn              |
 +---------------+---------------------+-----------------+-------------------+
 
 Angriffsziel bedeutet dass man von einem oder mehreren Zielen auswählen kann wer wen ihrer/seiner Gegner angreift. Bonus Action gibt den Zielen eine bonus Action.
@@ -410,7 +410,7 @@ ggplot(llm,aes(x=Ladungen,y=value,col=name))+geom_line(size=1) + theme_bw() +
 
 ```
 
-Wenn man selbst nicht rechnen will sind alle relevanten Werte in dieser Tabelle zu lesen: 
+Wenn man selbst nicht rechnen will sind alle relevanten Werte in dieser Tabelle zu lesen:
 
 ```{r}
 ll %>% arrange(Ladungen,Tier) %>% 
@@ -437,7 +437,6 @@ ll %>% arrange(Ladungen,Tier) %>%
             ), outlined = T,
             striped=T, resizable = T)
 ```
-
 
 Als Gegenmaßnahme gegen Gift helfen leider nur andere Tränke - beispielsweise Gegengift.
 
@@ -551,11 +550,11 @@ Biremen kommen sowohl mit offenem Deck, als auch mit einem geschlossenem Kampfde
 
 Galeeren haben ein breites, meist offenes Deck und sind eher auf Artillerie als auf Truppentransport ausgelegt. Da viele Galeeren umfunktionierte oder immer noch im Dienst seinende Handelsschiffe sind, haben sie auch häufiger Lagerräume und das typische - oft nachteillige offene Deck.
 
-![Eine umfunktionierte Handelsgaleere[^200regeln-2]](Pictures/Flavor/SchiffeBoote/Wikimedia_Galeere_Transparent.png)
+![Eine umfunktionierte Handelsgaleere[^2]](Pictures/Flavor/SchiffeBoote/Wikimedia_Galeere_Transparent.png)
 
-[^200regeln-2]: Diese Abbildung wurde der Seite [wikimedia](https://commons.wikimedia.org/wiki/File:Galley-knightshospitaller.jpg) entnommen und steht unter einer Creative Commons Attribution-Share Alike 3.0 Unported license zur Verfügung.
+[^2]: Diese Abbildung wurde der Seite [wikimedia](https://commons.wikimedia.org/wiki/File:Galley-knightshospitaller.jpg) entnommen und steht unter einer Creative Commons Attribution-Share Alike 3.0 Unported license zur Verfügung.
 
-[^200regeln-3]: Diese Abbildung wurde der Seite [wikimedia](https://commons.wikimedia.org/wiki/File:Galley-knightshospitaller.jpg) entnommen und steht unter einer Creative Commons Attribution-Share Alike 3.0 Unported license zur Verfügung.
+[^3]: Diese Abbildung wurde der Seite [wikimedia](https://commons.wikimedia.org/wiki/File:Galley-knightshospitaller.jpg) entnommen und steht unter einer Creative Commons Attribution-Share Alike 3.0 Unported license zur Verfügung.
 
 Dennoch sind Galeeren weit verbreitet und sowohl im zivilen als auch im militärischen Gebrauch üblich. Und sind vor allem durch ihre Vielseitigkeit charakterisiert. Kaum ein Schiffstyp ist so vielseitig und anpassungsfähig.
 
@@ -563,11 +562,11 @@ Dennoch sind Galeeren weit verbreitet und sowohl im zivilen als auch im militär
 
 Die Trireme ist mit 130 Ruderern und Platz für 150 Soldaten ein gefürchteter Anblick in jeder Seeschlacht. Ihre immense Beschleunigung macht sie zum idealen Schiff zum rammen und zum kapern anderer Schiffe, und so sind sie eigentlich nur im militärischen Gebrauch anzutreffen.
 
-![Eine Trireme auf Patroullie[^200regeln-4]](Pictures/Flavor/SchiffeBoote/wikimedia_Trireme.png)
+![Eine Trireme auf Patroullie[^4]](Pictures/Flavor/SchiffeBoote/wikimedia_Trireme.png)
 
-[^200regeln-4]: Diese Abbildung wurde der Seite [wikimedia](https://commons.wikimedia.org/wiki/File:Trireme_1.jpg) entnommen und steht unter einer Creative Commons Attribution-Share Alike 2.0 France license zur Verfügung.
+[^4]: Diese Abbildung wurde der Seite [wikimedia](https://commons.wikimedia.org/wiki/File:Trireme_1.jpg) entnommen und steht unter einer Creative Commons Attribution-Share Alike 2.0 France license zur Verfügung.
 
-[^200regeln-5]: Diese Abbildung wurde der Seite [wikimedia](https://commons.wikimedia.org/wiki/File:Trireme_1.jpg) entnommen und steht unter einer Creative Commons Attribution-Share Alike 2.0 France license zur Verfügung.
+[^5]: Diese Abbildung wurde der Seite [wikimedia](https://commons.wikimedia.org/wiki/File:Trireme_1.jpg) entnommen und steht unter einer Creative Commons Attribution-Share Alike 2.0 France license zur Verfügung.
 
 Obwohl Triremen eher teuer sind, sind sie aufgrung ihrer Kampfkraft und der Schnelligkeit, mit der neue Seefahrer eingearbeitet sind, weit verbreitet. Trieren haben außerdem Platz für Artillerie und sind standartmäßig mit einer Ramme ausgerüstet, sie werden immer mit einem geschlossenem Kampfdeck gebaut.
 
@@ -593,11 +592,11 @@ Ohne die Krieger ist das Langboot im Kampf jedoch relativ aufgeschmissen, da das
 
 Die Fregatte ist ein großes Segelschiff mit Platz für zwei bis drei Ballisten oder Katapulte. Sie braucht 25 Seemänner um gesteuert zu werden und kann in etwa 80 zusätzliche Personen Transportieren. Fregatten sind sowohl in ziviler als auch als militärischer Nutzung häufig - werden jedoch in beiden Fällen meist bewaffnet, da sie beliebte Ziele für Piraten sind. Sie können lange Zeit reisen und sind oft der Hauptteil maritimer Flotten.
 
-![Eine Fregatte kreuzt gegen den Wind[^200regeln-6]](Pictures/Flavor/SchiffeBoote/Fregatte_Pixaby.jpg)
+![Eine Fregatte kreuzt gegen den Wind[^6]](Pictures/Flavor/SchiffeBoote/Fregatte_Pixaby.jpg)
 
-[^200regeln-6]: Diese Abbildung wurde der Seite [Pixaby](https://pixabay.com/es/illustrations/vela-barco-mar-1506158/) entnommen und steht zur kommerziellen Nutzung zur Verfügung.
+[^6]: Diese Abbildung wurde der Seite [Pixaby](https://pixabay.com/es/illustrations/vela-barco-mar-1506158/) entnommen und steht zur kommerziellen Nutzung zur Verfügung.
 
-[^200regeln-7]: Diese Abbildung wurde der Seite [Pixaby](https://pixabay.com/es/illustrations/vela-barco-mar-1506158/) entnommen und steht zur kommerziellen Nutzung zur Verfügung.
+[^7]: Diese Abbildung wurde der Seite [Pixaby](https://pixabay.com/es/illustrations/vela-barco-mar-1506158/) entnommen und steht zur kommerziellen Nutzung zur Verfügung.
 
 Fregatten gelten als das kleinste der großen Segelschiffe.
 
@@ -759,15 +758,15 @@ Wenn ein Charakter in einem Kampf oder durch andere Aktivitäten entweder Gesund
 
 Kurze Pause: Lange Pause: Downtime:
 
-+--------------+-----------------------------------------------------------+
-| Länge        | Dauer                                                     |
-+:============:+:=========================================================:+
-| Kurze Pause  | 3-4 Stunden                                               |
-+--------------+-----------------------------------------------------------+
-| Lange Pause  | 7-8 Stunden                                               |
-+--------------+-----------------------------------------------------------+
-| Downtime     | Zeit zwischen 2 Sessions <br>(üblicherweise mehrere Tage) |
-+--------------+-----------------------------------------------------------+
++---------------+-----------------------------------------------------------+
+| Länge         | Dauer                                                     |
++:=============:+:=========================================================:+
+| Kurze Pause   | 3-4 Stunden                                               |
++---------------+-----------------------------------------------------------+
+| Lange Pause   | 7-8 Stunden                                               |
++---------------+-----------------------------------------------------------+
+| Downtime      | Zeit zwischen 2 Sessions <br>(üblicherweise mehrere Tage) |
++---------------+-----------------------------------------------------------+
 
 Wenn sich Spieler zwischen zwei Sitzungen befinden (Downtime), regenerieren sich ihre Ausdauer und Gesundheit immer bis zu 100%, es sei denn, der Dungeon Master kündigt eine größere Wunde an, die von einem Profi behandelt werden muss oder streicht die Downtime vollständig. Bei kurzen oder langen Pausen ist wichtig zu beachten, dass der Dungeon Master entscheiden kann, wie lange die Pause dauern soll, jedoch sollten die angegebenen Zeiträume als allgemeines Maß für die Dauer der Pausen verwendet werden. Außerdem müssen die spielbaren Charaktere die gesamte Pause ohne anstrengende Aktivitäten oder Unterbrechungen beenden, sonst ist keine Regeneration möglich. Ein weiterer wichtiger Faktor sind die Umstände, in dem sich Spieler ausruhen, diese können schlecht, durchschnittlich oder gut sein. Als schlecht kann man eine Pause auf der Straße bei kaltem Wetter bezeichnen, als mittelmäßig, wenn man in einer Kutsche schläft, die für lange Reisen geeignet ist (Dach, windfeste Wände usw.), und als gut, wenn man in einer Taverne mit einem warmen Raum und einem gut vorbereiteten Zimmer ruht. Der Dungeon Master hat die Verantwortung zu entscheiden, in welchen Umständen sich die Spieler befinden, wenn sie versuchen, das Pausensystem zu nutzen. Die folgende Tabelle zeigt, wie der Zustand durch die Qualität der Pause beeinflusst wird:
 
@@ -954,8 +953,7 @@ Hier sind die jeweiligen Thresholds und Informationen was die Stufen der Pflanze
 
 Sollte man zum Beispiel einen Ausdauertrank brauen, der von den Zutaten her Stufe 5 erreichen könnte, hat aber nur einen Threshold von 4 wird es ein Stufe 4 Trank. Des weiteren ist wichtig welche Tränke wo hergestellt werden können. Während Stufe 1 & Stufe 2 überall und spontan hergestellt werden können, braucht man für Tränke der Stufen 3 und 4 schon mehr Zeit und muss diese im Lager herstellen. Tränke der Stufe 5 brauchen einen Alchemietisch (einen solchen findet man bei den meisten Alchemisten) und Stufe 6 braucht eine Alchemielabor, welches nur in Großstädten verfügbar ist.
 
-Des weiteren braucht ein Alchemist eine Flasche, in die er sein Gebräu einfügen kann. Bei Bomben kommt dabei nur eine Bombshellflasche in betracht. Für sämtliche anderen Tränke braucht man Metallflaschen. 
-Hier die Preise für die verschiedenen Flaschen:
+Des weiteren braucht ein Alchemist eine Flasche, in die er sein Gebräu einfügen kann. Bei Bomben kommt dabei nur eine Bombshellflasche in betracht. Für sämtliche anderen Tränke braucht man Metallflaschen. Hier die Preise für die verschiedenen Flaschen:
 
 |     Flaschen     | Preis |
 |:----------------:|:-----:|
@@ -1226,45 +1224,45 @@ Klein=\> Preis \* 0,5 =\> Stats\**0,5*
 
 Groß(sehr groß)=\>Preis *2 =\> Stats\**1,5, Rüstung\*1,3
 
-+-----------+-----------+-----------+---------------+---------------+
-|           | Armor     | Attribute | Preis (Reiks) | Utility Preis |
-+===========+===========+===========+===============+===============+
-| Tier 1\   | 100       | 10        | 10.000        | 5000          |
-| klein     |           |           |               |               |
-+-----------+-----------+-----------+---------------+---------------+
-| Tier 2\   | 130       | 15        | 25.000        | 12.500        |
-| klein     |           |           |               |               |
-+-----------+-----------+-----------+---------------+---------------+
-| Tier 3\   | 145       | 20        | 40.000        | 20.000        |
-| klein     |           |           |               |               |
-+-----------+-----------+-----------+---------------+---------------+
-| Tier 4\   | 160       | 25        | 60.000        | 30.000        |
-| klein     |           |           |               |               |
-+-----------+-----------+-----------+---------------+---------------+
-| Tier 1\   | 100       | 20        | 20.000        | 15.000        |
-| mittel    |           |           |               |               |
-+-----------+-----------+-----------+---------------+---------------+
-| Tier 2\   | 130       | 30        | 50.000        | 37.500        |
-| mittel    |           |           |               |               |
-+-----------+-----------+-----------+---------------+---------------+
-| Tier 3\   | 145       | 40        | 80.000        | 60.000        |
-| mittel    |           |           |               |               |
-+-----------+-----------+-----------+---------------+---------------+
-| Tier 4\   | 160       | 50        | 120.000       | 90.000        |
-| mittel    |           |           |               |               |
-+-----------+-----------+-----------+---------------+---------------+
-| Tier 1\   | 130       | 30        | 40.000        | 30.000        |
-| groß      |           |           |               |               |
-+-----------+-----------+-----------+---------------+---------------+
-| Tier 2\   | 169       | 45        | 100.000       | 75.000        |
-| groß      |           |           |               |               |
-+-----------+-----------+-----------+---------------+---------------+
-| Tier 3\   | 189       | 60        | 160.000       | 120.000       |
-| groß      |           |           |               |               |
-+-----------+-----------+-----------+---------------+---------------+
-| Tier 4\   | 208       | 75        | 240.000       | 180.000       |
-| groß      |           |           |               |               |
-+-----------+-----------+-----------+---------------+---------------+
++------------+------------+------------+---------------+---------------+
+|            | Armor      | Attribute  | Preis (Reiks) | Utility Preis |
++============+============+============+===============+===============+
+| Tier 1\    | 100        | 10         | 10.000        | 5000          |
+| klein      |            |            |               |               |
++------------+------------+------------+---------------+---------------+
+| Tier 2\    | 130        | 15         | 25.000        | 12.500        |
+| klein      |            |            |               |               |
++------------+------------+------------+---------------+---------------+
+| Tier 3\    | 145        | 20         | 40.000        | 20.000        |
+| klein      |            |            |               |               |
++------------+------------+------------+---------------+---------------+
+| Tier 4\    | 160        | 25         | 60.000        | 30.000        |
+| klein      |            |            |               |               |
++------------+------------+------------+---------------+---------------+
+| Tier 1\    | 100        | 20         | 20.000        | 15.000        |
+| mittel     |            |            |               |               |
++------------+------------+------------+---------------+---------------+
+| Tier 2\    | 130        | 30         | 50.000        | 37.500        |
+| mittel     |            |            |               |               |
++------------+------------+------------+---------------+---------------+
+| Tier 3\    | 145        | 40         | 80.000        | 60.000        |
+| mittel     |            |            |               |               |
++------------+------------+------------+---------------+---------------+
+| Tier 4\    | 160        | 50         | 120.000       | 90.000        |
+| mittel     |            |            |               |               |
++------------+------------+------------+---------------+---------------+
+| Tier 1\    | 130        | 30         | 40.000        | 30.000        |
+| groß       |            |            |               |               |
++------------+------------+------------+---------------+---------------+
+| Tier 2\    | 169        | 45         | 100.000       | 75.000        |
+| groß       |            |            |               |               |
++------------+------------+------------+---------------+---------------+
+| Tier 3\    | 189        | 60         | 160.000       | 120.000       |
+| groß       |            |            |               |               |
++------------+------------+------------+---------------+---------------+
+| Tier 4\    | 208        | 75         | 240.000       | 180.000       |
+| groß       |            |            |               |               |
++------------+------------+------------+---------------+---------------+
 
 Tiers: 1-4 Je höher das Tier desto mehr Attribut Punkte können verteilt werden, entweder auf:\
 Str, Agi, Phys
@@ -1293,21 +1291,21 @@ Kann Verkauft werden oder umgetauscht
 
 Grundpreis: 5.000
 
-+---------------+--------------------------+-------------------------------+
-| Ladungsanzahl | Preis pro Ladung (Reiks) | Gesamt (inklusive Grundpreis) |
-+===============+==========================+===============================+
-| 1-5           | 2.000                    | 15.000                        |
-+---------------+--------------------------+-------------------------------+
-| 6-10          | 3.000                    | 30.000                        |
-+---------------+--------------------------+-------------------------------+
-| 11-15         | 4.000                    | 50.000                        |
-+---------------+--------------------------+-------------------------------+
-| 16-20         | 5.000                    | 75.000                        |
-+---------------+--------------------------+-------------------------------+
-| 21-30         | 7.500                    | 150.000                       |
-+---------------+--------------------------+-------------------------------+
-| 31-50         | 10.000                   | 350.000                       |
-+---------------+--------------------------+-------------------------------+
++----------------+--------------------------+-------------------------------+
+| Ladungsanzahl  | Preis pro Ladung (Reiks) | Gesamt (inklusive Grundpreis) |
++================+==========================+===============================+
+| 1-5            | 2.000                    | 15.000                        |
++----------------+--------------------------+-------------------------------+
+| 6-10           | 3.000                    | 30.000                        |
++----------------+--------------------------+-------------------------------+
+| 11-15          | 4.000                    | 50.000                        |
++----------------+--------------------------+-------------------------------+
+| 16-20          | 5.000                    | 75.000                        |
++----------------+--------------------------+-------------------------------+
+| 21-30          | 7.500                    | 150.000                       |
++----------------+--------------------------+-------------------------------+
+| 31-50          | 10.000                   | 350.000                       |
++----------------+--------------------------+-------------------------------+
 
 ### Preiskalkulation
 
