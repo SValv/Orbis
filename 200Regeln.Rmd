@@ -414,19 +414,22 @@ Wenn man selbst nicht rechnen will sind alle relevanten Werte in dieser Tabelle 
 
 ```{r}
 ll %>% arrange(Ladungen,Tier) %>% 
-  select(-Minschaden) %>% 
+  select(-c(Minschaden, Kosten)) %>% 
   relocate(Tier, Ladungen) %>% 
   reactable(groupBy = "Ladungen",
             columns = list(
               
               Ladungen = colDef(
+                filterable = TRUE,
                 grouped = JS("function(cellInfo) {
                             return cellInfo.value
                           }"), align="left", minWidth= 150
                 
-              )
+              ),
+              Tier = colDef(
+              filterable = TRUE)
             ), bordered = F,
-            highlight = T, showPageSizeOptions = T, filterable = T,
+            highlight = T, showPageSizeOptions = T, 
             pageSizeOptions = c(5,10, 20, 50),
             defaultPageSize = 20,  paginationType = "jump",
             theme= overallThemeReactable, defaultColDef = colDef(
@@ -951,13 +954,11 @@ Hier sind die jeweiligen Thresholds und Informationen was die Stufen der Pflanze
 
 Sollte man zum Beispiel einen Ausdauertrank brauen, der von den Zutaten her Stufe 5 erreichen könnte, hat aber nur einen Threshold von 4 wird es ein Stufe 4 Trank. Des weiteren ist wichtig welche Tränke wo hergestellt werden können. Während Stufe 1 & Stufe 2 überall und spontan hergestellt werden können, braucht man für Tränke der Stufen 3 und 4 schon mehr Zeit und muss diese im Lager herstellen. Tränke der Stufe 5 brauchen einen Alchemietisch (einen solchen findet man bei den meisten Alchemisten) und Stufe 6 braucht eine Alchemielabor, welches nur in Großstädten verfügbar ist.
 
-Des weiteren braucht ein Alchemist eine Flasche, in die er sein Gebräu einfügen kann. Bei Bomben kommt dabei nur eine Bombshellflasche in betracht. Für sämtliche anderen Tränke kann man sich zwischen einer teueren Metall und einer billigen Glasflasche entscheiden - wobei Glasflaschen gerne mal bei Belastung kaputt gehen. Aber wann und wobei sie kaputt gehe Obliegt dem DM, wobei das schon begründbar sein sollte (verknüpfen mit einem Lucksafe und angepasstem Treshold).
-
+Des weiteren braucht ein Alchemist eine Flasche, in die er sein Gebräu einfügen kann. Bei Bomben kommt dabei nur eine Bombshellflasche in betracht. Für sämtliche anderen Tränke braucht man Metallflaschen. 
 Hier die Preise für die verschiedenen Flaschen:
 
 |     Flaschen     | Preis |
 |:----------------:|:-----:|
-|   Glasflasche    |  50   |
 |  Metallflasche   |  200  |
 | Bombshellflasche | 1000  |
 
