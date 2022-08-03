@@ -63,6 +63,7 @@ rmd_files: ["index.Rmd",
 
   "220CharCreation.Rmd",
   "200Regeln.Rmd",
+  "221BesondereRegeln.Rmd",
   "222Items.Rmd",
   "223BesondereItems.Rmd",
   "230DMStuff.Rmd",

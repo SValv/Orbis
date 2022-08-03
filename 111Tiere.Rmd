@@ -1,3 +1,301 @@
 # Tiere und andere Fauna
 
+```{r}
+getTierTable = function(tier, pfad="Container/Data/Tiere.xlsx"){
+  df= read_xlsx(pfad, sheet= tier)
+  
+  df = df %>% select(AttributName, Attribut, Parthealth, Value)
+  
+  df2= data.frame(name= c(df$AttributName, df$Parthealth),
+                  value= c(df$Attribut, df$Value)) %>% 
+    filter(!is.na(name)) 
+  
+  rownames(df2) = df2$name
+  
+  givbak= c("Str",
+            "Agi",
+            "Cha",
+            "Phy",
+            "Int",
+            "Inst",
+            "Health",
+            "Ausdauer",
+            "Mount multyplier",
+            "Traglast",
+            "Bewegungsradius/turn",
+            "Benötigter Skill Reiten",
+            "TameWert",
+            "Trainingswert",
+            "Pflegeintensität")
+  
+  df= df2[givbak,]
+  rownames(df)= 1:nrow(df)
+  
+  df = df %>% mutate(Tier=tier) %>% 
+    relocate(Tier,name,value) %>% 
+    rename(Merkmal=name,Wert=value)
+  
+  tab= reactable(df,groupBy = "Tier",
+            columns = list(
+              
+              Tier = colDef(
+                grouped = JS("function(cellInfo) {
+                            return cellInfo.value
+                          }")
+                
+              )
+            ), bordered = F,
+            highlight = T, showPageSizeOptions = F,
+            defaultPageSize = 15,
+            theme= overallThemeReactable, 
+            defaultColDef = colDef(
+              align = "center"
+            ), outlined = T,
+            striped=T)
+  
+  return(tab)
+}
+```
 
+
+
+## Land
+
+### Klein
+
+#### Huhn {.unnumbered}
+
+```{r}
+getTierTable("Huhn")
+```
+
+#### Katze {.unnumbered}
+
+```{r}
+getTierTable("Katze")
+```
+
+#### Ratte {.unnumbered}
+
+```{r}
+getTierTable("Ratte")
+```
+
+#### Schlange {.unnumbered}
+
+```{r}
+getTierTable("Schlange")
+```
+
+### Mittel
+
+#### Affe {.unnumbered}
+
+```{r}
+getTierTable("Affe")
+```
+
+#### Esel {.unnumbered}
+
+```{r}
+getTierTable("Esel")
+```
+
+#### Hund {.unnumbered}
+
+```{r}
+getTierTable("Hund")
+```
+
+
+
+#### Wildschwein {.unnumbered}
+
+```{r}
+getTierTable("Wildschwein")
+```
+
+#### Schaf {.unnumbered}
+
+```{r}
+getTierTable("Schaf")
+```
+
+#### Wolf {.unnumbered}
+
+```{r}
+getTierTable("Wolf")
+```
+
+#### Starker Wolf {.unnumbered}
+
+```{r}
+getTierTable("Starker Wolf")
+```
+
+### Groß
+
+Große Tiere hauen ordentlich rein, sind allerdings Teuer in Anschaffung und Erhalt blabla
+
+#### Pferd {.unnumbered}
+
+```{r}
+getTierTable("Pferd")
+```
+
+#### Rah' Kari Pferd {.unnumbered}
+
+```{r}
+getTierTable("RahKariPferd")
+```
+
+#### Kuh {.unnumbered}
+
+```{r}
+getTierTable("Kuh")
+```
+
+#### Braunbär {.unnumbered}
+
+```{r}
+getTierTable("Braunbär")
+```
+
+#### Ochse {.unnumbered}
+
+```{r}
+getTierTable("Ochse")
+```
+
+#### Tiger {.unnumbered}
+
+```{r}
+getTierTable("Tiger")
+```
+
+
+#### Nashorn {.unnumbered}
+
+```{r}
+getTierTable("Nashorn")
+```
+
+#### Elefant {.unnumbered}
+
+Der Elefant hat große Ohren und einen langen.
+
+
+```{r}
+getTierTable("Elefant")
+```
+
+
+#### Giraffe {.unnumbered}
+
+```{r}
+getTierTable("Giraffe")
+```
+
+#### Strauß {.unnumbered}
+
+```{r}
+getTierTable("Strauß")
+```
+
+#### Reitspinne {.unnumbered}
+
+```{r}
+getTierTable("Reitspinne")
+```
+
+## Luft
+
+### Klein
+
+#### Falke {.unnumbered}
+
+```{r}
+getTierTable("Falke")
+```
+
+
+#### Gans {.unnumbered}
+
+```{r}
+getTierTable("Gans")
+```
+
+#### Taube {.unnumbered}
+
+```{r}
+getTierTable("Taube")
+```
+
+#### Papagei {.unnumbered}
+
+```{r}
+getTierTable("Papagei")
+```
+
+#### Rabe {.unnumbered}
+
+```{r}
+getTierTable("Rabe")
+```
+
+### Mittel
+
+#### Phoenix {.unnumbered}
+
+```{r}
+getTierTable("Phoenix")
+```
+
+### Groß
+
+#### Greif {.unnumbered}
+
+```{r}
+getTierTable("Greif")
+```
+
+## Wasser
+
+### Klein
+
+#### Seeschlange {.unnumbered}
+
+```{r}
+getTierTable("Seeschlange")
+```
+
+### Mittel
+
+#### Krake {.unnumbered}
+
+```{r}
+getTierTable("Krake")
+```
+
+### Groß
+
+#### Krokodil {.unnumbered}
+
+```{r}
+getTierTable("Krokodil")
+```
+
+
+#### Walross {.unnumbered}
+
+```{r}
+getTierTable("Walross")
+```
+
+
+
+
+### Noch nicht drin:
+
+* Skorpion
+* Erwachtes Ross

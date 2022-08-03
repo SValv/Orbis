@@ -1,0 +1,674 @@
+# Besondere Regeln
+
+Natürlich bildet der Regel-Artikel nicht jeder Besonderheit ab, daher finden sich in diesem Artikel seltenere charakter oder Kampagnenbedingte Anwendungsbereiche-
+
+## Der Krieg auf See
+
+Die Meere in Orbis Astea sind ein ebenso gefährliches und umkämpftes Gebiet wie das Land und so ist es nützlich sich mit dem Kampf auf See auszukennen.
+
+Da das Meer, die Seen und Flüsse sowohl für den Handel als auch für militärische Operationen essentiell sind, ist eine gute Flotte aus der Machtpolitik der Fraktionen kaum herauszudenken.
+
+### Allgemeines
+
+Der Kampf auf See unterscheidet sich signifikant vom Kampf auf dem Festland, während schwere Rüstungen auf dem Festland zu den mächtigsten Waffengattungen gehören, sieht man in Metall bekleidete Soldaten nur selten auf See. Egal wie gut man schwimmen kann, das enorme Gewicht einer Rüstung zieht einen in den sicheren Tod sollte man über Bord gehen.
+
+Stattdessen sieht man vor allem leichte Rüstung, da diese kaum beeinträchtigend ist, wenn man überleben will - wobei gute schwimmer sich auch in mittlerer Rüstung auf Schiffe begeben können ohne um ihr Leben fürchten zu müssen.
+
+Auch Fernkampfwaffen sind auf See deutlich häufiger vertreten - dabei allen vorran Armbrüste und Musketen, deren größter Nachteil, die Nachladezeit, von der Distanz von Schiff zu Schiff relativ gut negiert wird.
+
+#### Kapern und Versenken
+
+Es gibt zwei Möglichkeiten eine Auseinandersetzung mit einem anderen Schiff zu gewinnen: das Kapern und das Versenken.
+
+Beim Versenken wird dem Schiff genügend Schaden zugefügt, dass es untergeht (Also die Haltbarkeit auf Null sinkt). Beim Kapern übernimmt man das Schiff des Gegners, indem man die Crew gefangen nimmt oder tötet und die Steuerung über das Schiff übernimmt.
+
+Für jede dieser Optionen gibt es verschiedene Werkzeuge, die entwickelt wurden, um das Ziel besser zu erreichen.
+
+#### Schiffsarten
+
+Es gibt drei große Übertypen, in die sich Schiffe unterteilen lassen. Zwei dieser Schiffstypen sind relevant, da kaum wer ein Staatenschiff steuern oder bekämpfen wird. Die relevanten Schiffstypen sind Ruder und Segelschiffe.
+
+##### Ruderschiffe {#RuderGeneral .unnumbered}
+
+Ruderschiffe existieren deutlich länger als Segelschiffe und stellen, vor allem im Flussverkehr, die häufigste Schiffsart dar. Ihr niedriges Profil und ihr niedriger Schwerpunkt, in Verbindung mit der Manövrierbarkeit, macht sie zur perfekten Schiffsklasse für einen Kampfstil, der seinen Schwerpunkt aufs Rammen legt. Allerdings macht es das niedrige Profil auch schwerer Segelschiffe zu entern, sowie Personen auf Deck eines Schiffes mit niedrigen Profil wenig Chancen haben sich vor den Schützen auf einer vöher liegenden Anhöhe (beispielsweise ein höheres Schiff) zu decken.
+
+Die Crews auf Ruderschiffen sind aufgrund der Rudercrew meist größer und brauchen daher mehr Vorräte, weswegen lange Reisen nur in Küstennähe möglich sind, außer es liegt Unterstützung von Segelschiffen vor. Auch Ruderschiffe können für Reisen Segel haben, sind damit aber kaum Manöverfähig. So muss das Segel bei jedem Richtungswechsel eingeholt werden.
+
+Vorteile:
+
+-   Weniger bis keine Abhängigkeit von Wind
+-   Einfach manövrierbar
+-   Braucht wenig erfahrene Seemänner
+-   Schnelle Beschleunigung
+-   Niedriges Profil
+-   Billiger
+
+Nachteile:
+
+-   Brauchen mehr Versorgung
+-   Deutlich mehr Personen zur Fortbewegung
+-   Niedriges Profil
+-   Nur in Küstennähe alleine nutzbar
+-   Schlechter für große Distanzen
+-   Anfälliger für Stürme
+
+##### Segelschiffe {#SegelGeneral .unnumbered}
+
+Vorteile:
+
+-   Brauchen weniger Personen zur Fortbewegung
+-   Können viel Ladung und Vorräte mitnehmen
+-   Hohes Profil
+-   Hochseetauglich
+-   Schnell
+
+Nachteile:
+
+-   Windabhängig
+-   schwerer manövirierbar
+-   Braucht kompetente Seemänner
+-   Teuer
+-   Hohes Profil
+
+##### Staatenschiffe {.unnumbered}
+
+Niemand weiß so genau woher die Staatenschiffe kommen, aber diese maritimen Kolosse gelten als unbezwingbar. Die größe alleine reicht aus, um Flotten in den Schatten zu stellen und in die Flucht zu jagen, da ein Staatenschiff kleinere Schiffe, bei ausreichender Beschleunigung, mühelos überfahren kann. Staatenschiffe scheinen sich selbst wie durch Wunderhand mit allen möglichen zur Verfügung stehenden Materialien zu reparieren, sei es Treibgut oder andere Schiffe. Daher gibt es bis heute keinen bekannten Fall in dem ein Staatenschiff gesunken ist.
+
+Die schiere Größe, das riesenhafte Profil und die Widerstandskraft eines Staatenschiffs macht es zum idealen Objekt um massig Artillerie darauf zu stellen oder es als eine Maritime Stadt zu verwenden.
+
+Staatenschiffe haben eine komplexe zentrale Steuereinheit und nur wenige sind in der Lage ein Staatenschiff damit zu steuern - sollte man allerdings eine derartige steuerung gemeistert bekommen sind die Möglichkeiten enorm. Doch auch ohne geeignete Steuermänner haben die Bewohner dieser Kolosse Wege gefunden, um sie zu steuern. durch den Aufbau hunderter kleiner Segel sind die Staatenschiffe etwas steuerbar, obwohl es immernoch eine Herausforderung ist und um ein vielfaches weniger effektiv als die zentrale Steuerung. Eine gezielte Steuerung eines Staatenschiffs ohne Steuereinheit gilt als unmöglich.
+
+### Schiffstypen
+
+Verschiedenste Schiffstypen mit eigenen Charakteristiken, Vor. und Nachteilen, Besonderheiten und Verwendungszwecken können in Orbis Astea gefunden werden.
+
+#### Ruderschiffe
+
+##### Barke {.unnumbered}
+
+Barken sind meist kleine Boote ohne Mast, die bis zu 8 Leuten Platz bieten. Sie sind nicht hochseetauglich und werden meist für kleinere Transporte oder von Hafennahen Fischern eingesetzt. Eine Barke ist sehr billig, allerdings nur bedingt von Bedeutung. Auf größeren schiffen werden sie als Beiboote eingesetzt.
+
+##### Bireme {.unnumbered}
+
+Eine Bireme ist ein Ruderboot mit zwei Ruderreihen. Es ist das kleinste Ruderboot dass wirklich eine Bedeutung hat. Mit einer Mindestbesatzung von 40 Mann und Kapazität für 40 weitere Soldaten ist die Bireme eine kostengünstige Option, die fast überall Anwendung findet. Voll hochseetauglich wird sie alleine durch die Kapazität an Nahrung ausgebremst.
+
+Biremen kommen sowohl mit offenem Deck, als auch mit einem geschlossenem Kampfdeck.
+
+##### Galeeren {.unnumbered}
+
+Galeeren haben ein breites, meist offenes Deck und sind eher auf Artillerie als auf Truppentransport ausgelegt. Da viele Galeeren umfunktionierte oder immer noch im Dienst seinende Handelsschiffe sind, haben sie auch häufiger Lagerräume und das typische - oft nachteillige offene Deck.
+
+![Eine umfunktionierte Handelsgaleere[^2]](Pictures/Flavor/SchiffeBoote/Wikimedia_Galeere_Transparent.png)
+
+[^2]: Diese Abbildung wurde der Seite [wikimedia](https://commons.wikimedia.org/wiki/File:Galley-knightshospitaller.jpg) entnommen und steht unter einer Creative Commons Attribution-Share Alike 3.0 Unported license zur Verfügung.
+
+[^3]: Diese Abbildung wurde der Seite [wikimedia](https://commons.wikimedia.org/wiki/File:Galley-knightshospitaller.jpg) entnommen und steht unter einer Creative Commons Attribution-Share Alike 3.0 Unported license zur Verfügung.
+
+Dennoch sind Galeeren weit verbreitet und sowohl im zivilen als auch im militärischen Gebrauch üblich. Und sind vor allem durch ihre Vielseitigkeit charakterisiert. Kaum ein Schiffstyp ist so vielseitig und anpassungsfähig.
+
+##### Trireme {.unnumbered}
+
+Die Trireme ist mit 130 Ruderern und Platz für 150 Soldaten ein gefürchteter Anblick in jeder Seeschlacht. Ihre immense Beschleunigung macht sie zum idealen Schiff zum rammen und zum kapern anderer Schiffe, und so sind sie eigentlich nur im militärischen Gebrauch anzutreffen.
+
+![Eine Trireme auf Patroullie[^4]](Pictures/Flavor/SchiffeBoote/wikimedia_Trireme.png)
+
+[^4]: Diese Abbildung wurde der Seite [wikimedia](https://commons.wikimedia.org/wiki/File:Trireme_1.jpg) entnommen und steht unter einer Creative Commons Attribution-Share Alike 2.0 France license zur Verfügung.
+
+[^5]: Diese Abbildung wurde der Seite [wikimedia](https://commons.wikimedia.org/wiki/File:Trireme_1.jpg) entnommen und steht unter einer Creative Commons Attribution-Share Alike 2.0 France license zur Verfügung.
+
+Obwohl Triremen eher teuer sind, sind sie aufgrung ihrer Kampfkraft und der Schnelligkeit, mit der neue Seefahrer eingearbeitet sind, weit verbreitet. Trieren haben außerdem Platz für Artillerie und sind standartmäßig mit einer Ramme ausgerüstet, sie werden immer mit einem geschlossenem Kampfdeck gebaut.
+
+#### Segelschiffe
+
+##### Kutter {.unnumbered}
+
+Ein Kutter ist meist ein kleines Fischerboot, in das bis zu 8 Personen hineinpassen. Es ist weder hochseefähig, noch besonders geräumig und ist das Segelschiff-Gegenstück zur Barke mit dem Vorteil höherer Reichweite und Geschwindigkeit und das man nicht ständig rudern muss.
+
+##### Brigg {.unnumbered}
+
+Die Brigg ist das kleinste hochseefähige Schiff und kommt mit einem bis zwei Masten und Segeln. Je nach größe können verschiedene Mengen an Personen und Artillerie aufgenommen werden. Wärend auf kleine Briggs nur 1-2 Skorpione passen können auf größere Briggs sogar Katapulte oder Ballisten installiert werden.
+
+##### Langschiff {.unnumbered}
+
+Das Langschiff ist ein Design der Ska'en und ist mit kaum Artillerie oder einer Ramme ausgestattet, dennoch ist das Schiff aufgrund seiner Geschwindigkeit und Wendigkeit gefürchtet. Es kombiniert Vorteile aus beiden Welten der Schifffahrt damit dass es sowohl Segel als auch Ruder besitzt und schnell und zuverlässig eine große Menge Krieger transportieren kann, die sowohl fürs Kapern anderer Schiffe als auch für Landungen auf dem Festland eingesetzt werden können.
+
+![Das Langboot ist ein eher exotischer Schiffstyp](Pictures/Flavor/Platzhalter/Longboat.jpg)
+
+Ohne die Krieger ist das Langboot im Kampf jedoch relativ aufgeschmissen, da das niedrige Profil und die Abwesenheit von Artillerie das Schiff alleine kaum Aktionsfähig macht.
+
+##### Fregatte {.unnumbered}
+
+Die Fregatte ist ein großes Segelschiff mit Platz für zwei bis drei Ballisten oder Katapulte. Sie braucht 25 Seemänner um gesteuert zu werden und kann in etwa 80 zusätzliche Personen Transportieren. Fregatten sind sowohl in ziviler als auch als militärischer Nutzung häufig - werden jedoch in beiden Fällen meist bewaffnet, da sie beliebte Ziele für Piraten sind. Sie können lange Zeit reisen und sind oft der Hauptteil maritimer Flotten.
+
+![Eine Fregatte kreuzt gegen den Wind[^6]](Pictures/Flavor/SchiffeBoote/Fregatte_Pixaby.jpg)
+
+[^6]: Diese Abbildung wurde der Seite [Pixaby](https://pixabay.com/es/illustrations/vela-barco-mar-1506158/) entnommen und steht zur kommerziellen Nutzung zur Verfügung.
+
+[^7]: Diese Abbildung wurde der Seite [Pixaby](https://pixabay.com/es/illustrations/vela-barco-mar-1506158/) entnommen und steht zur kommerziellen Nutzung zur Verfügung.
+
+Fregatten gelten als das kleinste der großen Segelschiffe.
+
+##### Karavelle {.unnumbered}
+
+Die Karavelle ist das mittlere der großen Segelschiffe und ein nicht zu unterschätzendes Schiff. Sie ist (obwohl sie an Beschleunigung nicht mit Ruderschiffen mithalten kann) die wahrscheinlich schnellste Schiffsklasse auf dem Meer und wird in Puncto Feuerkraft nur von der Galeone übertroffen. Ihr hohes Deck sorgt dafür dass hoher Wellengang und leichte Stürme ihr kaum was anhaben können.
+
+Bereits 35 Mann reichen aus um eine Karavelle voll Fahr- und Funktionsfähig zu halten, jedoch haben bis zu 140 Passagiere auf der Karavelle Platz.
+
+##### Galeone {.unnumbered}
+
+![Eine Galeone](Pictures/Flavor/Platzhalter/Galeone.jpg)
+
+Galeonen sind oft die Flaggschiffe von Flotten. Diese enormen Kreutzer kosten ganze Vermögen und sind mit einer Menge an Artillerie und Soldaten ausgestattet. Die 60 Seemänner die es braucht um das Boot zu bemannen lassen noch Platz für bis zu 320 andere Passagiere - die meist die Leibgarde einer sehr reichen und mächtigen Person sind.
+
+Die Galeone fährt für gewöhnlich mit einer Begleitflotte und ist trotz ihrer größe ein bisschen langsamer als eine Fregatte.
+
+#### Werte und Übersicht
+
++------------+----------+-------------+-----------------+------------------+----------------+
+| Kampf      | Art      | Haltbarkeit | Bewegungspunkte | Manövrierbarkeit | Beschleunigung |
++:==========:+:========:+:===========:+:===============:+:================:+:==============:+
+| Barke      | Ruder    | 1500        | 2               | 20               | 10             |
++------------+----------+-------------+-----------------+------------------+----------------+
+| Kutter     | Segel    | 2000        | 1               | 18               | 6              |
++------------+----------+-------------+-----------------+------------------+----------------+
+| Bireme     | Ruder    | 10000       | 2               | 17               | 14             |
++------------+----------+-------------+-----------------+------------------+----------------+
+| Brigg      | Segel    | 8000        | 2               | 14               | 13             |
++------------+----------+-------------+-----------------+------------------+----------------+
+| Langschiff | Segel    | 15000       | 3               | 16               | 17             |
++------------+----------+-------------+-----------------+------------------+----------------+
+| Galeere    | Ruder    | 18000       | 3               | 13               | 15             |
++------------+----------+-------------+-----------------+------------------+----------------+
+| Fregatte   | Segel    | 15000       | 2               | 9                | 12             |
++------------+----------+-------------+-----------------+------------------+----------------+
+| Trireme    | Ruder    | 25000       | 4               | 10               | 20             |
++------------+----------+-------------+-----------------+------------------+----------------+
+| Karavelle  | Segel    | 18000       | 2               | 7                | 11             |
++------------+----------+-------------+-----------------+------------------+----------------+
+| Galeone    | Segel    | 30000       | 1               | 5                | 5              |
++------------+----------+-------------+-----------------+------------------+----------------+
+
+<small> <small>
+
++------------+-------+------------------+-----------+---------------+----------+-----------------+------------+
+| Fahrt      | Art   | Mannschaftsgröße | Vorrat    | Passagierzahl | Tiefgang | Geschwindigkeit | Profilhöhe |
++:==========:+:=====:+:================:+:=========:+:=============:+:========:+:===============:+:==========:+
+| Barke      | Ruder | 1                | 0 Tage    | 7             | 20 cm    | 7               | 40cm       |
++------------+-------+------------------+-----------+---------------+----------+-----------------+------------+
+| Kutter     | Segel | 1                | 1 Tag     | 9             | 40cm     | 9               | 70cm       |
++------------+-------+------------------+-----------+---------------+----------+-----------------+------------+
+| Bireme     | Ruder | 40               | 4 Tage    | 40            | 80cm     | 10              | 2m         |
++------------+-------+------------------+-----------+---------------+----------+-----------------+------------+
+| Brigg      | Segel | 10               | 2 Wochen  | 80            | 1.2 m    | 15              | 5m         |
++------------+-------+------------------+-----------+---------------+----------+-----------------+------------+
+| Langschiff | Segel | 40               | 8 Tage    | 110           | 80cm     | 17              | 3m         |
++------------+-------+------------------+-----------+---------------+----------+-----------------+------------+
+| Galeere    | Ruder | 80               | 5 Tage    | 90            | 1m       | 12              | 4m         |
++------------+-------+------------------+-----------+---------------+----------+-----------------+------------+
+| Fregatte   | Segel | 30               | 8 Wochen  | 80            | 3m       | 18              | 7m         |
++------------+-------+------------------+-----------+---------------+----------+-----------------+------------+
+| Trireme    | Ruder | 130              | 6 Tage    | 160           | 1.5m     | 14              | 5m         |
++------------+-------+------------------+-----------+---------------+----------+-----------------+------------+
+| Karavelle  | Segel | 45               | 10 Wochen | 140           | 4.5m     | 20              | 9m         |
++------------+-------+------------------+-----------+---------------+----------+-----------------+------------+
+| Galeone    | Segel | 60               | 8 Wochen  | 320           | 6m       | 16              | 20m        |
++------------+-------+------------------+-----------+---------------+----------+-----------------+------------+
+
+</small> </small>
+
+### Schiffsbewaffnung
+
+#### Artillerie {#SegelArtillerie}
+
+| Waffenslots | Klein | Mittel | Groß |
+|:-----------:|:-----:|:------:|:----:|
+|    Barke    |   0   |   0    |  0   |
+|   Kutter    |   1   |   0    |  0   |
+|   Bireme    |   2   |   0    |  0   |
+|    Brigg    |   2   |   1    |  0   |
+| Langschiff  |   2   |   0    |  0   |
+|   Galeere   |   4   |   1    |  0   |
+|  Fregatte   |   6   |   2    |  0   |
+|   Trireme   |   4   |   1    |  1   |
+|  Karavelle  |   6   |   2    |  2   |
+|   Galeone   |  10   |   6    |  4   |
+
+Welche <font color="green">[Artillerieoptionen es gibt kann man hier nachschauen](#ArtillerieOverall)</font>.
+
+#### Rammen
+
+Sämtliche Ruderboote können Rammen beesitzen. Um erfolgreich zu Rammen wird ein Vehicle-Check geworfen.
+
+#### Kaperequipment
+
+Um ein Schiff zu kapern gibt es folgende Hilfsmittel:
+
+-   Seile
+-   Wurfhaken
+-   Brücken
+
+#### Sonstige Waffen
+
+##### Saldisches Feuer {.unnumbered}
+
+Saldisches Feuer stammt von der Insel Saldis, auf der ein Erfinder einen Weg gefunden hat mithilfe eines entzündbaren Pulvers ein Flammenstrahl zu erzeugen, den man gerichtet aus einem Rohr feuern konnte. Schnell übernahmen die Kapitäne diese, auf See enorm nützliche, Erfindung und benutzten sie als Waffe gegen mit Soldaten gefüllte Oberdecks.
+
+Saldisches Feuer ist in der Lage in kürzester Zeit enormen Schaden an der Crew anzurichten, so ist diese einfach zu versteckende Waffe enorm gefürchtet.
+
+### Schiffe im Gefecht
+
+Eine Seeschlacht ab zwei beteiligten Schiffen findet auf einer speziellen "Battlemap" statt diese ist Karte ist in Kästchen untergliedert die bestimmte Längemaße angeben. Schiffe bewegen sich während der Schlacht abhängig von ihrer Beschleunigung, je höher diese ist desto mehr Felder können pro Runde zurück gelegt werden. Die Bewegung auf der Battlemap kann in 2 Aktionen unterteilt werden: das schiff fährt entweder nach vorne oder dreht sich in eine Richtung. Jede dieser Aktionen kostet einen Bewegungspunkt.
+
+Zusätzlich kann ein Beschleunigungswurf gemacht werden um einen zusätzliches Kästchen zurückzulegen. Die Chance hierfür hängt wiederum auch vom Beschleunigungswert ab, je höher desto besser. Auch spielt die Qualität des Kapitäns und der Mannschaft zu gleichen Teilen eine Rolle.
+
+Das Wetter spielt hierbei auch eine Rolle je nachdem woher der Wind weht. Gibt es keinen Wind, gelten die normalen Bewegungspunkte, wenn man sich gegen den Wind bewegt werden diese Punkte halbiert(minimum eins) - mit dem Wind werden sie verdoppelt.
+
+Ziel in diesen Seeschlachten ist es den Gegner zu versenken oder Kampfunfähig zu machen dies ist durch gezielte Schüsse auf Masten oder Steuerruder möglich, da die Zerstörung des jeweiligen Teils die Kampffähigkeit des Schiffes stark einschränkt. Dies wird erreicht in dem man sein eigenes Schiff in möglichst klugen Taktischen Manövern in Position bringt und mit den Geschützen den Gegner attackiert. Alternativ kann das feindliche Schiff auch geentert werden um die Kontrolle zu übernehmen oder es zu sabotieren. Beispielsweise können die Geschützbatterien entzündet oder vielleicht der Pulvervorrat hochgejagt werden.
+
+Geschütze in den jeweiligen den Schiffsprofilen entsprechenden Slots können einer von vier Stellungen auf dem Schiff zugewiesen werden. Diese Stellungen sind Backbord vorne hinten und Steuerbord vorne hinten. Diese vier Stellungen können mit einem gezielten Schuss anvisiert werden und besitzen Leben entsprechend der Anzahl der in der Stellung plazierten Geschütze, somit haben viel besetzte Stellungen mehr Leben als solche mit wenig bis keinem Geschütz. Desweiteren besitzen diese vier Stellungen Schussfelder die in etwa 180° groß sind, dies führt an den Seiten zu überlappenden Schussfeldern. Für die Vorder-und Rückseite gilt, nur jeweilse eine Seite kann gerade nach vorne oder hinten schießen, diese wird durch einen Luck Throw des Ziels bestimmt.
+
+Durch schlaues platzieren der Geschütze auf dem Schiff sind verschiedene Taktiken möglich, so zum Beispiel eine Seite mit besonders vielen Geschützen zu versehen und den Gegner nur auf eine Seite zu lassen um ihn so mit überlegener Waffengewalt zu bewzingen, diese Strategien gehen aber mit einem gewissen Risiko einher.
+
+Den Gegnerischen Artillerie beschuss wird automatisch ausgewichen, der erfolg dieser Aktion hängt von Manövrierfähigkeit des Schiffs, als auch von Käpitän und Mannschaft ab..
+
+
+# Konstrukte {#Konstrukte}
+
+## Allgemeines
+
+Diese Wunder mechanischer Handwerkskunst stellen den Zenit der zwergischen Innovation dar. Sie sind aufgrund ihrer religösen Ansichten als einziges Volk in der Lage diese teils tonnenschweren Kollosse zum Leben zu erwecken. Die Konstrukte existieren in allen Formen und Farben und decken jeden nur möglichen Arbeitsbereich ab. So stellen sie zum Beispiel einen der schlagkräftigsten Teile des Rahkari Heeres dar, werden von Zwergenkarawanen zum Transport von tonnenschweren Waren benutzt und sind gleichzeitig mit schweren Ballisten bestückt. Fast jede Tätigkeit die ein Konstrukt übernimmt könnte genauso gut durch ein Tier, eine schlichte Mechanik oder einfach nur durch eine Person übernommen werden. Doch Konstrukte bieten neben vielen anderen Vorteilen einen bestimmten, bedinungslose Loyalität. Dies macht sie für Personen mit dem richtigen "kleingeld" im Beutel zu attraktiven begleitern.
+
+## Erstellung durch Spieler
+
+Zum besseren und einfachen Verständnis der Erstellung eines Konstruktprofil ist ein Blick in die Excel empfohlen. Da mit nur wenigen Eingaben das Konstrukt Session ready ist. Zu beachten ist das die Linke seit des Profil
+
+## Kontrolle
+
+Kein Konstrukt wird seinen Meister Willentlich hintergehen denn sie sind in Ermangelung von eben diesem. Wer einem Konstrukt befehle geben kann wird klar geregelt durch einen so genannten Meisterstein dieser wird zusammen mit dem Konstruktkern erschaffen und erhält dabei ein einmaliges Muster. Dieses Muster steht in Resonanz mit dem Kern, der das gleiche Muster trägt. Die Reichweite dieser Resonanz ist dabei jedoch begrenzt, doch innerhalb dieser Reichweite führt das Konstrukt jeden Befehl aus der vom Besitzer des Meistersteins gegeben wird, dabei muss dieser Befehl nicht laut gesagt werden, ein explizieter Gedanke reicht bereits aus. So wichtig die Reichweite ist, als Meister sollte man sich da nichts so viele Sorgen machen, sollte ein Konstrukt die Reichweite verlassen so durchläuft das Konstrukt die aktuelle Routine fertig / den Befehl anschließend startet das Konstrukt automatisch eine vorher bestimmte Verhaltensroutine, wie Rückkehr zum Besitzer des Meistersteins, kämpfen oder Flucht. Der Meisterstein kann, trotz seines namens vielerlei Form haben, da das Muster erst bei der Erschaffung des Kerns aufgeprägt wird. Mögliche Meistersteine wären so zum Beispiel ein Amulett, Armreif oder tatsächlich ein verzierter Stein oder in seltenen Fällen kann von Meistern ihres Handwerks das Muster sogar auf die Haut als Tattoo aufgetragen werden. Solche Tattoos bringen Vorteile wie Nachteile, so ist es quasi unmöglich die Kontrolle über das Konstrukt zu übertragen im Gegenzug ist es jedoch auch quasi unmöglich den Meisterstein von seinem Besitzer zu entwenden, dies wird also nur von den Misstrauischten Zwergen genutzt. Zu beachten ist jedoch das die Nutzung von Konstrukten pro Meister limitiert ist denn zu viele Meistersteine unter einem Meister stören sich bei der Resonanz gegenseitig.
+
+## Essenzen
+
+Essenzen sind gewisse Extrakte aus vor kurzem verstorbenen Humanoiden. Die Herstellung dieser Essenzen ist allerdings aufwändig und die Lagerung nur mit speziellen sehr teuren Materialen, welche dem Preis von Zwergenstahl entsprechen, möglich.
+
+In diesen Gefäßen können dann die verbrannten Körper geschüttet werden, was in Realität ein komplizierter Vorgang ist und einige zusätzliche Stoffe benötigt.
+
+In diesem Gefäß, ermöglicht, mittels dem was die Zwerge als Resonanzkreise bezeichnen, dass sich plötzlich ein Öl-artige Substanz in dem Gefäß bildet. Diese Substanz wird vermutlich wie Wasserdampf aus der Luft gesogen. Menschliche Gelehrte betrachten diesen Vorgang, inklusive der Resonanzkreise als Blasphemie und Totenschändung und stehen somit in allen menschlichen Gebieten unter Strafe.
+
+Das besondere der substanz ist auch, dass diese brennbar ist allerdings dabei eine kalte Flamme entsteht, was eben von den geistlichen Gelehrten als "Werke eines Teufels" bezeichnet werden. Versuche von menschlichen Gelehrten und Alchemisten dies umzusetzen führten nie zum Erfolg sondern meist zu einem wütenden Mob an Menschen welchen diese Experimentatoren lynchten oder einkerkerten.
+
+Der zweite Resonanzkreis wird hierbei als der Vorgang bezeichnet, der die Asche des Verstorbenen an das Gefäß bindet. Ein Trennung davon ist zwar mit Gewalt möglich, führt jedoch zu giftigen Dämpfen und dem unwiderbringlichen Zerstören des Gefäßes.
+
+Leere Gefäße im kleinsten Format lassen sich von Zwergenhändlern, welche Außenstehende vertrauen zu einem Preis ab 10.000 Reiks erwerben. Der Besitz davon ist allerdings auf Drängen der Lehre das Allgotts als Blasphemie bestraftbar.
+
+Obwohl sich viele Zwerge rühmen Essenzen und Meistersteine herstellen zu können haben Zwerge auch eine geringe Erfolgsquote in der Herstellung dieser Gefäße und Meistersteine. Dadurch können die Kosten relativ unbezahlbar für Normalsterbliche werden.
+
+$$HIDDEN LORE$$
+
+Forerunner nutzten das Virus um Essenzen aus lebendem Gewebe zu extrahieren.
+
+## Im Kampf / Befehle
+
+Konstrukte Modus Operandi: Ein Konstrukt führt den aktuellen Befehl solange aus bis es einen anderen erhält. Durch Übermittlungszeit ist es nicht möglich reaktionär zu agieren (als Beispiel schütze mich vor diesem angriff) anders sieht es aus wenn der Befehl vorher schon geäußert wurde
+
+Die erste Möglichkeit einen Befehl zu äußern liegt vor sobald der Spieler Charakter initiative hat Die Aktion des Konstruktes erfolgt zeitlich parallel mit der des Spielers außer der Befehl tritt erst zeit versetzt in kraft. Dem Konstrukt stehen wie jedem Char zwei Aktionen zur Verfügung eine Anwendung die Ladungen verbraucht pro Runde zur Verfügung
+
+Beispiel Befehle: Im Grunde alle Aktionen die eine Ladung erfordern. Greif diesen Gegner an beschütze mich / diesen Verbündeten, blockiere diesen Gegner, ansitzen (zielen) auf diese Deckung etc.
+
+### Ladungen
+
+Jede aktive Anwendung verbraucht Ladungen des Akkus, je nach Art der Anwendung können auch mehrere Ladungen für eine Anwendung verbraucht werden.
+
+## Aufbau / Preiskatalog
+
+### Gliedmaßen / Schwachpunkt
+
+Konstrukt Teile: Jedes Konstrukt bestehlt aus 6 angreifbaren Teilen seinen 4 Gliedmaßen einer Kernabdeckung und dem Kernselbst. Der Kern für sich ist nahezu ungepanzert, kann jedoch erst angegriffen werden nach dem die Kernabdeckung zerstört wurde. Der Kern ersetzt beim gezielten Schussangriff den Kopf und die Kernabdeckung den Torso.
+
+### Kern
+
+Der Konstruktkern stellt sowohl das Herz als auch das Hirn eines jeden Konstruktsdar.\
+Das Level des Kern wird durch das Anwenden von Essenzen in einer kleinen Downtime erhöht.\
+Dieses Level beinflusst viele Bereiche des Konstrukts:
+
+-   Die maximalen Attribute die effektiv eingesetzt werden können, sollten mehr Punkte in ein Attribut geflossen sein als die Stufe des Kerns so werden nur die Attributspunkte bis zur Kernstufe angewendet.
+
+-   Neben der Begrenzung durch die Maximalattribute, leveln auch zwei Attribute direkt mit der Kernstufe nämlich Intelligenz im Faktor 1 zu 1 und Instinkt im Faktor 1 zu 0,75.
+
+-   Die Maximalen Leben des Konstrukts entsprechen der 15fachen Kernstufe und verteilen sich unter den Gliedmaßen folgendermaßen: 50% Kern(Kopf), 50% Kernabschiermung (Torso) Alle anderen teile je 30%
+
+-   Das Skillgrundlevel, mit jeder Kernstufe erhöht sich auch das Grundlevel eines jeden Skills. Sollte dieses höher sein als das geskillte Level des Skills wird für die Berechnung stadessen das Grundlevel herangezogen.
+
+-   Skilllevel, durch die Verwendung von Essenzen (unabhängig von der Stufe des Kerns) können einzelne Skills aufgelevelt werden.
+
+#### Skills {#skills}
+
+Nicht alle Skills können von Konstrukten gelevelt werden, da auch diese Grenzen haben.\
+Folgende Skills können erhöht werden.
+
+-   Block
+
+-   Armed
+
+-   Ranged
+
+-   Unarmed
+
+-   Running
+
+-   Sneak
+
+-   Perception
+
+-   Dodge
+
+-   Acrobatics
+
+-   *Artillerie =\> läuft über Ranged*
+
+#### Preis des Kerns
+
+**Grundpreis des Kerns: 10.000**
+
+weitere 500 Reiks Pro Essenz Investiert
+
+//alternativ (Essenz Investment) 10 (1-10) je 1\
+4 (11-12) je 2\
+8(13-14) je 4\
+12(15-16) je 6\
+16(17-18) je 8\
+20(19-20) je 10 (=70)\
+125(21-25) je 25 =195
+
+| Kernstufe | Preis je Level | Gesamtpreis (Essenzen) |
+|-----------|----------------|------------------------|
+| 1-10      | 1              | 10                     |
+| 11-12     | 2              | 14                     |
+| 13-14     | 3              | 20                     |
+| 15-16     | 4              | 28                     |
+| 17-18     | 5              | 38                     |
+| 19-20     | 6              | 50                     |
+| 21-30     | 15             | 200                    |
+| 31-40     | 30             | 500                    |
+
+// alternativ Skills (Essenz Investment) =\> Vergleich Skillpunkte 20 40 80 120 200 =460
+
+| Skilllevel | Preis je Level | Gesamtpreis (Essenzen) |
+|------------|----------------|------------------------|
+| 0-20       | 1              | 20                     |
+| 21-40      | 2              | 60                     |
+| 41-60      | 3              | 120                    |
+| 61-80      | 4              | 200                    |
+| 81-100     | 5              | 300                    |
+
+### Corpus
+
+Grundattribute Attribute Skills Rüstung Utility Größe Grundtragekapazität
+
+Corpus: Bestimmt zum Teil spätere Anwendung, kann nur gekauft werden / bei Zwergen geschmiedet, kann verkauft / umgetauscht werden
+
+Klein=\> Preis \* 0,5 =\> Stats\**0,5*
+
+*Mittel(groß)=\> Preis Standart =\> Stats\**1
+
+Groß(sehr groß)=\>Preis *2 =\> Stats\**1,5, Rüstung\*1,3
+
++------------+------------+------------+---------------+---------------+
+|            | Armor      | Attribute  | Preis (Reiks) | Utility Preis |
++============+============+============+===============+===============+
+| Tier 1\    | 100        | 10         | 10.000        | 5000          |
+| klein      |            |            |               |               |
++------------+------------+------------+---------------+---------------+
+| Tier 2\    | 130        | 15         | 25.000        | 12.500        |
+| klein      |            |            |               |               |
++------------+------------+------------+---------------+---------------+
+| Tier 3\    | 145        | 20         | 40.000        | 20.000        |
+| klein      |            |            |               |               |
++------------+------------+------------+---------------+---------------+
+| Tier 4\    | 160        | 25         | 60.000        | 30.000        |
+| klein      |            |            |               |               |
++------------+------------+------------+---------------+---------------+
+| Tier 1\    | 100        | 20         | 20.000        | 15.000        |
+| mittel     |            |            |               |               |
++------------+------------+------------+---------------+---------------+
+| Tier 2\    | 130        | 30         | 50.000        | 37.500        |
+| mittel     |            |            |               |               |
++------------+------------+------------+---------------+---------------+
+| Tier 3\    | 145        | 40         | 80.000        | 60.000        |
+| mittel     |            |            |               |               |
++------------+------------+------------+---------------+---------------+
+| Tier 4\    | 160        | 50         | 120.000       | 90.000        |
+| mittel     |            |            |               |               |
++------------+------------+------------+---------------+---------------+
+| Tier 1\    | 130        | 30         | 40.000        | 30.000        |
+| groß       |            |            |               |               |
++------------+------------+------------+---------------+---------------+
+| Tier 2\    | 169        | 45         | 100.000       | 75.000        |
+| groß       |            |            |               |               |
++------------+------------+------------+---------------+---------------+
+| Tier 3\    | 189        | 60         | 160.000       | 120.000       |
+| groß       |            |            |               |               |
++------------+------------+------------+---------------+---------------+
+| Tier 4\    | 208        | 75         | 240.000       | 180.000       |
+| groß       |            |            |               |               |
++------------+------------+------------+---------------+---------------+
+
+Tiers: 1-4 Je höher das Tier desto mehr Attribut Punkte können verteilt werden, entweder auf:\
+Str, Agi, Phys
+
+Panzerungsteil: 20, 26, 29, 32 pro Teil\
+im Durchschnitt In Prozent des Gesamt aufteilt: Helm 5% Brust 20% Arme 20% Gürtel 35% Beine 20%
+
+Nutzungskonstrukt: Billiger um Faktor 0,25 von Ursprungswert, Skill des Konstruktes: maximal 50
+
+Hierzu zählen beispielsweise: Transportkonstrukte, Spähkonstrukte, Landwirtschaftskonstrukte, Bergbaukonstrukte etc.\
+
+#### Attribute
+
+Jeder Stat standartmäßig auf 1 jeder weitere durch Corpus / Addons!
+
+durch Kern automatisch gelevelte Attribute: Instinkt und Intelligenz
+
+Durch Gliedmaßen(addons) und Corpus: Sträke, Agilität, Kondition (Physical)
+
+Konstrukte besitzen kein Charisma.
+
+### Batterie
+
+Batterie: Preis nach Ladungen gestaffelt. Wird bei Kauf bestimmt, keine nachträgliche Erhöhung\
+Kann Verkauft werden oder umgetauscht
+
+Grundpreis: 5.000
+
++----------------+--------------------------+-------------------------------+
+| Ladungsanzahl  | Preis pro Ladung (Reiks) | Gesamt (inklusive Grundpreis) |
++================+==========================+===============================+
+| 1-5            | 2.000                    | 15.000                        |
++----------------+--------------------------+-------------------------------+
+| 6-10           | 3.000                    | 30.000                        |
++----------------+--------------------------+-------------------------------+
+| 11-15          | 4.000                    | 50.000                        |
++----------------+--------------------------+-------------------------------+
+| 16-20          | 5.000                    | 75.000                        |
++----------------+--------------------------+-------------------------------+
+| 21-30          | 7.500                    | 150.000                       |
++----------------+--------------------------+-------------------------------+
+| 31-50          | 10.000                   | 350.000                       |
++----------------+--------------------------+-------------------------------+
+
+### Preiskalkulation
+
+Zusammensetzung aus Kern,
+
+### Addons / Waffen
+
+Upgrades / Funktionen / Addons: Begrenzte Anzahl auf 5\
+Bringen entweder Stats oder Funktionen
+
+Addons sind selbst herstellbar. Schaden richtet sich nach Tier des Materials\
+Stats richten sich nach Level/Tier des Materials
+
+Statboosts:
+
+Material Tiers 1-4 Stats 3, 5, 8, 12
+
+Panzerungsaufrüstung / Lebenspunkteaufrüstung
+
+Konstrukt Waffen:
+
+-Bohrer
+
+-Schwert
+
+-Fernwaffen
+
+| Stufe | Standartwert | Fernkampfwert | Großwaffenwert |
+|-------|--------------|---------------|----------------|
+| 1     | 30           | 23            | 40             |
+| 2     | 42           | 35            | 52             |
+| 3     | 48           | 41            | 58             |
+| 4     | 53           | 46            | 63             |
+
+Utlity:
+
+Transport :75, 125, 200, 300
+
+Panzermodus (Bonusrüstung nach tier (50,60,70,80)), blockiert die meisten anderen Anwendungen
+
+Wachmodus = Immer vorhanden, läuft über Perception
+
+Schützenplatz (1,2,3,4 Personen Platz)
+
+Verbaute Attilerie (nur durch Schützenplatz nutzbar) (Tier abhängig wie groß montierbare Waffe) (einklappbar)
+
+Attelerienachlader (automatisch, tiers entsprechend nutzbar für Tier der verbauten Attilerie
+
+Deckungsmodul
+
+Stun / Interrupt\
+
+Anwendungen für Ladungen:\
+Gratis: Gehen, Wachmodus, Panzermodus
+
+1 Ladung :
+
+Sprinten Blocken / Ausweichen / Schützen (für jemanden blocken) Angriff Nah Angriff Fern Sicht gewähren (gedanken) Rammen / umwerfen
+
+Verbaute Attilierienutzung durch Person
+
+Klettern
+
+Seilwerfer
+
+Rauchwerfer
+
+2 oder mehr Ladungen:
+
+Flammenwerfer (fester schaden pro tier, kein skill?)
+
+Schwerer Angriff / Lade Attacke / Atillerie Musketen / Schrappanel Attacke (multi hit mega attacke)
+
+## Wiederbelebung
+
+Natürlich kommt es vor das Konstrukte im Kampf zerstört werden, in diesem Fall muss es in Nebendowntime Aktivitäten repariert werden.
+
+Je nach größe des Konstrukts müssen zwischen eine bis drei Nebendowntime Aktivitäten aufgewendet werden.
+
+Der Schwierigkeitsgrad des Checks orientiert sich dabei an dem Tier des Corpus und den entsprechenden Reperatur Values des Materials
+
+Jedoch benötigen diese Reperaturen keine Materialien.
+
+| Reparieren | Threshold |
+|:----------:|:---------:|
+|  Stufe 1   |    1,5    |
+|  Stufe 2   |    2,3    |
+|  Stufe 3   |     3     |
+|  Stufe 4   |     4     |
+
+## Vehicle Skill {#Vehicleskills}
+
+Dem Besitzer des Konstrutks ist es möglich kurzzeitig die Kontrolle über ein Konstukt zu übernehmen, dies äußert sich in einer zusätzlichen Aktion für das Konstrukt. Diese Aktion hängt von einem Vehicel Check ab dessen schwierigkeit auf dem Kern und der Größe des Konstrukts basiert, je stärker das Konstrukt desto schwieriger die Kontrolle. Bei Erfolg wird die Main Action des Characters aufgebraucht, bei Misserfolg die Singleaction da weniger Zeit verbraucht wird.
+
+## Batterie in Session Aufladen
+
+Zum aufladen des Akkus ohne Pausen. Hierfür wird der Essenzsammler verwendet, Eine Ladung entspricht 10 Essenzen, jedoch ist es schwer abzuschätzen wann man die Sammler abziehen muss weshalb es öfter zu ungenauen Abzügen kommt,was im schlimmsten Fall zum Verlust aller gesammelten Seelen im Sammler führen kann. Aufgrund des hohen Preises dieser Anwedung wird diese nur im absoluten Notfall empfohlen.
+
+## Wo zu finden und Typische Vertreter
+
+Zwerge
+
+Rah Kari
+
+Wanderer
+
+Wandia
+
+![Ein Zwerg](Pictures/Flavor/PLatzhalter/Dwarf.jpg)
+
+### Die Völkerbeziehungen der Rasse
+
+Während die meisten Völker Zwerge nur als Fahrende Händler oder an deren Wohnsitzen als Marktplatz kennen, pflegen die Rah Akari einen besonderen Handel insofern das eine ihre Hauptverteidigungen ,die Konstrukte, von den Zwergen kommen.
+
+![Ein seltenes Konstrukt](Pictures/Flavor/Platzhalter/KonstruktRahKari.jpg)
+
+## Einsatzfelder von Konstrukten {#KonstruktAnwendung}
+
+### Kontrolle über Konstrukte
+
+### Die vielfalt der Möglichkeiten
+
+Konstrukte unterscheiden in vielerlei Art. dabei werden grundsätzlich nur Grenzen durch die Handwerkskunst und die Kreativität seines Erbauers gesetzt. Angefangen beim **Konstruktkern**, dieses Herzstück eines jeden Konstrukts bestimmt die späteren Anwendungsgebiete eines Konstrukts denn im gegensatz zu anderen Teilen des Konstrukts ist dieser später nicht mehr zu verändern. In die Kerne wird dabei nicht direkt ihre Aufgabe eingeprägt viel mehr stellt der Kern den möglichen Speicher und die Energiequelle dar, je besser der Kern desto mehr und Komplizierte Befehlte kann das spätere Konstrukt ausführen. Sogar selbst ständig mehrere Funktionen aneinander Reihen um den Befehl erfolgreich auszuführen. Konstruktkerne unterscheiden sich generell in ihrer Größe und ihrer Reinheit, generell gilt je größer ein Kern ist desto aufnahmerfähiger ist er benötigt aber auch entsprechend mehr Essenzen, sollte der Platz der für den Kern zur Verfügung steht limitiert sein so gäbe es ein weiterers Stellrad das bedient werden kann die Reinheit diese ermöglicht einen Kern bei gleicher Aufnahmefähigkeit zu verkleinern jedoch benötigt dieser Prozess deutlich mehr Essenz. Weiters existieren unterschiede in der Panzerung, wie man sich gut vorstellen kann ist ein Wesen dass auf Grund seiner Natur bereits ausschließlich aus Metallen besteht bereits gut gepanzert was bereits zu einem hohen Verteidigungswert führt, jedoch sind Teile des innenleben der Konstrukte aufgrund ihrer Filigranen und Präzisen Struktur leicht zu zerstören. Dies kann durch zusätzliche Panzerung an den Empfindlichen Stellen des Konstrukts verhindert werden, erhöht aber auch das Gewicht und den Preis. Neben diesen Merkmalen gibt es natürlich noch zwei Offensichtliche, die Ausstattung und der Grundaufbau. die Ausstattung ist maßgeblich dafür welche Aufgaben überhaupt vom Konstrukt erledigt werden können und diese wird weiter durch den Aufbau des Konstrukts unterstützt.
+
+### Konstruktarten
+
+Grundsätzlich werden Konstrukte in fünf Klassen sortiert.
+
+#### Utility:
+
+Konstrukte dieser Klasse sind hauptsächlich in Reichen Zwergen Haushalten anzutreffen, sie erfüllen Zwecke die auch ein Angestellter hätte verrichten können sind dabei aber deutlich Diskreter. Aufgabenfelder reichen hierbei von Handwerklichenaufgaben wie der Errichtung und Pfelge von Gebäuden bishin zu Verwaltungsaufgaben. Generell dienen sie zur Verbesserung der Lebensqualität. Die verwendenten Kerne sind meist nicht sehr groß und auch nicht sehr rein. Sie sind der Ausdruck purer Dekadenz. ![Konstrukte sind nicht nur auf dem Schlachtfeld von Nutzen - auch als Helferlein im Alltag sind sie einsetzbar](Pictures/Flavor/Platzhalter/KonstruktBibliothek.jpg)
+
+#### Transport:
+
+Sowohl über als auch unter der Erde müssen oft größere Menge Ware oder große Lasten bewegt werden, hier für gibt es allerlei Möglichkeiten, die beste stellt natürlich auch hier wieder ein Konstrukt dar, hier ein Beispiel wo würden sie ihr Bargeld lieber aufbewahren, in einer Satteltasche eines Tieres das bereits für seine Sturheit und widerwilligkeit bekannt ist oder im Tresor im inneren ihres Loyalen Gefährten der ihnen ohne zu zögern in den Wurmfall folgen würde. Diese Konstruktklasse unterscheidet sich stark in ihren Ausführungen obwohl sie doch alle das gleiche Ziel haben, von der Anzahl der Beine, Panzerung und nützliche Gadgets ist allen voran natürlich die mögliche Traglast ausschlaggebend. Diese Konstrukte werden oft von den Oberflächen Zwergenkarawanen genutzt, in ihnen kann alles von mystischen Bestien bis Edelsteinen alles sicher Transportiert werden, oft werden diese dabei neben nützlichen Gadgets auch mit Waffen ausgestattet die dann von der Besesatzung genutzt werden können.
+
+![Gerüstetes Transportkonstrukt](Pictures/Flavor/Platzhalter/Konstrukt_Transport.jpg)
+
+#### Kampf:
+
+> Ich dachte nach Jahren auf all den Schlachtfeldern hätte ich alles gesehen, doch als meine Jungs von diesen vierarmigen Teufeln zerrissen wurden lief mir ein Schauer über den Rücken, kein Zucker überkam dieses Ungetüm als der alte Joshua es mit dem Kriegshammerschlug und keiner als es ihn in der Mitte Teilte.
+>
+> --- Abiter Kox Söldner Kapitän über eine Vorstoß Schlacht gegen die Rah Kari
+
+Nichts ist auf einem Schlachtfeld effizienter als ein Nahkampf Konstrukt mit dem einfachen Befehl den Feind zu töten. Jeder weis nie ist der Mensch kreativer als im Krieg, die effektive zerstörung anderer scheint die Kreativität zu beflügeln und nichts ist effizienter als ein Konstrukt für diese Aufgabe. Die Panzerung scheint für viele Gegner oft undurchdringlich doch kaum ist man durch diese Panzerung gebrochen sind die meisten Konstrukte sehr zerbrechlich, doch dies stellt bereits eine Mammut Aufgabe dar. So hart der Kampf gegen sie ist so sehr kann sich die Belohnung auch sehen lassen, sollte der Konstruktkern unbeschädigt bleiben und der Meisterstein ergattert können beide auch ohne das Konstrukt zu einem hohen Preis an Zwergenclans verkauft werden, da diese ja wiederverwendbar sind.
+
+![Ein Konstrukt - geschaffen für den Kampf](Pictures/Flavor/Platzhalter/KonstruktSchlachtfeld.jpg)
+
+Ein Fernkampf Konstrupt ist weit weniger adaptiert für den Nahkampf jedoch nicht zu unterschätzen zwar langsamer aber immer noch schlagkräftig, bestückt mit Ballisten oder Armbrüsten sind sie selbst auf große entfernung Tödlich. Zu beachten ist das beim Fernkampf deutlich mehr Ressourcen des Konstruktkerns beansprucht werden als es beim Nahkampf der Fall ist, schlicht auf Grund der höheren Komplexität.
+
+![SchlachtKonstrukt](Pictures/Flavor/Platzhalter/SchlachtKonstrukt.jpg)
+
+![Fernkampf Konstrukt](Pictures/Flavor/Platzhalter/Konstrukt_Ballista.jpg)
+
+#### Titan klasse Konstrukt:
+
+Diese Klasse ist die seltenste von ihr existieren selbst in den Aufzeichnungen nur eine handvoll Modelle. Diese teils riesigen Schöpfungen Tragen Kerne unglaublicher Ausmaße und immenser Reinheit in sich. Man möchte sich nicht ausmalen wie viel Essenz in die Erschaffung eines solchen Kernes gefloßen sein müssen, ganze Völker vom Angesicht der Erde getilgt. Was diese Konstrukte Gefährlich macht ist nicht Primär ihre Größe, Schlagkraft oder "Intelligenz" von denen alles in Maße vorhanden ist sondern viel mehr die Ausdauer. Ein jeder Militärstratege weis das Konstrukte gefährlich sind aber auch zerstört werden können wenn man ihre Rüstung durch dringt, dass mag auch hier Wahr sein, doch haben die gewitzten Erfinder dafür eine Lösungen gefunden. Die Konstrukte werden von vielen kleinen Konstrukten bewohnt, alle mit nur einem einzigen permaneten Befehl programmiert das Titanklasse Artefakt zu reparieren. Doch selbst diese benötigen auf Grund ihrer geringen größe, Kerne von großer Reinheit zwar wird Kapazität gespart durch die permanent Installation des Befehls jedoch ist dieser immer noch hoch Komplex und erfordert stets mehrere Schritte.
+
+### Bau
+
+Was diese Konstrukte antreibt ist ein sogennanter Konstruktkern diese existieren in verschiedenen Größen und Reinheiten und werden mithilfe der Seelen von empfindsamen Wesen erschaffen. Je größer und reiner desto mehr Essenz wird benötigt, von diesen Stellschrauben hängt die spätere "Intelligenz" der Konstrukte ab da diese quasi die Speichergröße festlegen. Man munkelt die reinsten und größten Kerne können ein Bewusstsein entwickeln doch diese Theorie konnte bisher nicht bewiesen werden.
+
+Um die Seelen für die teure Schaffung von Konstrukten zu besorgen gibt es für Oberflächenzwerge ein besonderes Werkzeug -- den Seelenfänger -- im Prozess die Seelen einzufangen müssen die Körper verbrannt werden. Dies stellt in einer Zwergenstadt mit einem Vulkan oder einer Schmiede kein Problem dar, für unterwegs ist das allerdings eher schwer zu bewerkstelligen. Daher kommt der Seelenfänger mit einer Phiole gefüllt mit einem hochbrennbaren spezial Öl zur schnellen Einäscherung von Leichen. Dieses Öl wird von Enzymen des Feuerorgans der Linddrachen gewonnen, es produziert stetig neues Öl, diese verbrauchen sich jedoch auch mit der Zeit.
+
+![Die Schmieden der Zwerge](Pictures/Flavor/Platzhalter/ZwergenSchmiede2.jpg)
+
+Die Inspiration für diese Wunderwerke fanden die Zwerge in den Überbleibseln von Forrunner Technologie, jedoch können selbst ihre heutigen meisterwerke den damaligen nicht das Wasser reichen.
+
+## Aufbau Ingame
+
+Konstrukt Kern gibt die Maximalen Stats die ein Konstrukt erreichen kann vor Akku gibt die Ladungsmenge an die ein Konstrukt speichern kann Gließmaßen / Bauteile geben die tatsächlichen Stats an bis zum Cap durch den Kern Konstrukt waffen / Optionen diese sind die möglichkeiten des Konstrukts seine Akku Ladungen zu verbrauchen
+
+### Akku
+
+### Batterie
+
+### Vehicel Skill
+

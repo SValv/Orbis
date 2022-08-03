@@ -1,5 +1,7 @@
 # Der Nebelhain
 
+
+![Karte von Nebelhain](Pictures/Maps/Nebelhain.jpg)
 > "Wer durch den Nebelhain durch will der hat seinen Verstand schon verloren bevor ihn der Nebelhain holen konnte."
 >
 > --- Heiler Arhenius Kaltius
