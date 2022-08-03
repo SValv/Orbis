@@ -272,21 +272,21 @@ Durch schlaues platzieren der Geschütze auf dem Schiff sind verschiedene Taktik
 Den Gegnerischen Artillerie beschuss wird automatisch ausgewichen, der erfolg dieser Aktion hängt von Manövrierfähigkeit des Schiffs, als auch von Käpitän und Mannschaft ab..
 
 
-# Konstrukte {#Konstrukte}
+## Konstrukte {#Konstrukte}
 
-## Allgemeines
+### Allgemeines
 
 Diese Wunder mechanischer Handwerkskunst stellen den Zenit der zwergischen Innovation dar. Sie sind aufgrund ihrer religösen Ansichten als einziges Volk in der Lage diese teils tonnenschweren Kollosse zum Leben zu erwecken. Die Konstrukte existieren in allen Formen und Farben und decken jeden nur möglichen Arbeitsbereich ab. So stellen sie zum Beispiel einen der schlagkräftigsten Teile des Rahkari Heeres dar, werden von Zwergenkarawanen zum Transport von tonnenschweren Waren benutzt und sind gleichzeitig mit schweren Ballisten bestückt. Fast jede Tätigkeit die ein Konstrukt übernimmt könnte genauso gut durch ein Tier, eine schlichte Mechanik oder einfach nur durch eine Person übernommen werden. Doch Konstrukte bieten neben vielen anderen Vorteilen einen bestimmten, bedinungslose Loyalität. Dies macht sie für Personen mit dem richtigen "kleingeld" im Beutel zu attraktiven begleitern.
 
-## Erstellung durch Spieler
+### Erstellung durch Spieler
 
 Zum besseren und einfachen Verständnis der Erstellung eines Konstruktprofil ist ein Blick in die Excel empfohlen. Da mit nur wenigen Eingaben das Konstrukt Session ready ist. Zu beachten ist das die Linke seit des Profil
 
-## Kontrolle
+### Kontrolle
 
 Kein Konstrukt wird seinen Meister Willentlich hintergehen denn sie sind in Ermangelung von eben diesem. Wer einem Konstrukt befehle geben kann wird klar geregelt durch einen so genannten Meisterstein dieser wird zusammen mit dem Konstruktkern erschaffen und erhält dabei ein einmaliges Muster. Dieses Muster steht in Resonanz mit dem Kern, der das gleiche Muster trägt. Die Reichweite dieser Resonanz ist dabei jedoch begrenzt, doch innerhalb dieser Reichweite führt das Konstrukt jeden Befehl aus der vom Besitzer des Meistersteins gegeben wird, dabei muss dieser Befehl nicht laut gesagt werden, ein explizieter Gedanke reicht bereits aus. So wichtig die Reichweite ist, als Meister sollte man sich da nichts so viele Sorgen machen, sollte ein Konstrukt die Reichweite verlassen so durchläuft das Konstrukt die aktuelle Routine fertig / den Befehl anschließend startet das Konstrukt automatisch eine vorher bestimmte Verhaltensroutine, wie Rückkehr zum Besitzer des Meistersteins, kämpfen oder Flucht. Der Meisterstein kann, trotz seines namens vielerlei Form haben, da das Muster erst bei der Erschaffung des Kerns aufgeprägt wird. Mögliche Meistersteine wären so zum Beispiel ein Amulett, Armreif oder tatsächlich ein verzierter Stein oder in seltenen Fällen kann von Meistern ihres Handwerks das Muster sogar auf die Haut als Tattoo aufgetragen werden. Solche Tattoos bringen Vorteile wie Nachteile, so ist es quasi unmöglich die Kontrolle über das Konstrukt zu übertragen im Gegenzug ist es jedoch auch quasi unmöglich den Meisterstein von seinem Besitzer zu entwenden, dies wird also nur von den Misstrauischten Zwergen genutzt. Zu beachten ist jedoch das die Nutzung von Konstrukten pro Meister limitiert ist denn zu viele Meistersteine unter einem Meister stören sich bei der Resonanz gegenseitig.
 
-## Essenzen
+### Essenzen
 
 Essenzen sind gewisse Extrakte aus vor kurzem verstorbenen Humanoiden. Die Herstellung dieser Essenzen ist allerdings aufwändig und die Lagerung nur mit speziellen sehr teuren Materialen, welche dem Preis von Zwergenstahl entsprechen, möglich.
 
@@ -306,7 +306,7 @@ $$HIDDEN LORE$$
 
 Forerunner nutzten das Virus um Essenzen aus lebendem Gewebe zu extrahieren.
 
-## Im Kampf / Befehle
+### Im Kampf / Befehle
 
 Konstrukte Modus Operandi: Ein Konstrukt führt den aktuellen Befehl solange aus bis es einen anderen erhält. Durch Übermittlungszeit ist es nicht möglich reaktionär zu agieren (als Beispiel schütze mich vor diesem angriff) anders sieht es aus wenn der Befehl vorher schon geäußert wurde
 
@@ -314,17 +314,17 @@ Die erste Möglichkeit einen Befehl zu äußern liegt vor sobald der Spieler Cha
 
 Beispiel Befehle: Im Grunde alle Aktionen die eine Ladung erfordern. Greif diesen Gegner an beschütze mich / diesen Verbündeten, blockiere diesen Gegner, ansitzen (zielen) auf diese Deckung etc.
 
-### Ladungen
+#### Ladungen
 
 Jede aktive Anwendung verbraucht Ladungen des Akkus, je nach Art der Anwendung können auch mehrere Ladungen für eine Anwendung verbraucht werden.
 
-## Aufbau / Preiskatalog
+### Aufbau / Preiskatalog
 
-### Gliedmaßen / Schwachpunkt
+#### Gliedmaßen / Schwachpunkt
 
 Konstrukt Teile: Jedes Konstrukt bestehlt aus 6 angreifbaren Teilen seinen 4 Gliedmaßen einer Kernabdeckung und dem Kernselbst. Der Kern für sich ist nahezu ungepanzert, kann jedoch erst angegriffen werden nach dem die Kernabdeckung zerstört wurde. Der Kern ersetzt beim gezielten Schussangriff den Kopf und die Kernabdeckung den Torso.
 
-### Kern
+#### Kern
 
 Der Konstruktkern stellt sowohl das Herz als auch das Hirn eines jeden Konstruktsdar.\
 Das Level des Kern wird durch das Anwenden von Essenzen in einer kleinen Downtime erhöht.\
@@ -340,7 +340,7 @@ Dieses Level beinflusst viele Bereiche des Konstrukts:
 
 -   Skilllevel, durch die Verwendung von Essenzen (unabhängig von der Stufe des Kerns) können einzelne Skills aufgelevelt werden.
 
-#### Skills {#skills}
+##### Skills {#skills}
 
 Nicht alle Skills können von Konstrukten gelevelt werden, da auch diese Grenzen haben.\
 Folgende Skills können erhöht werden.
@@ -365,7 +365,7 @@ Folgende Skills können erhöht werden.
 
 -   *Artillerie =\> läuft über Ranged*
 
-#### Preis des Kerns
+##### Preis des Kerns
 
 **Grundpreis des Kerns: 10.000**
 
@@ -400,7 +400,7 @@ weitere 500 Reiks Pro Essenz Investiert
 | 61-80      | 4              | 200                    |
 | 81-100     | 5              | 300                    |
 
-### Corpus
+#### Corpus
 
 Grundattribute Attribute Skills Rüstung Utility Größe Grundtragekapazität
 
@@ -462,7 +462,7 @@ Nutzungskonstrukt: Billiger um Faktor 0,25 von Ursprungswert, Skill des Konstruk
 
 Hierzu zählen beispielsweise: Transportkonstrukte, Spähkonstrukte, Landwirtschaftskonstrukte, Bergbaukonstrukte etc.\
 
-#### Attribute
+##### Attribute
 
 Jeder Stat standartmäßig auf 1 jeder weitere durch Corpus / Addons!
 
@@ -472,7 +472,7 @@ Durch Gliedmaßen(addons) und Corpus: Sträke, Agilität, Kondition (Physical)
 
 Konstrukte besitzen kein Charisma.
 
-### Batterie
+#### Batterie
 
 Batterie: Preis nach Ladungen gestaffelt. Wird bei Kauf bestimmt, keine nachträgliche Erhöhung\
 Kann Verkauft werden oder umgetauscht
@@ -495,11 +495,11 @@ Grundpreis: 5.000
 | 31-50          | 10.000                   | 350.000                       |
 +----------------+--------------------------+-------------------------------+
 
-### Preiskalkulation
+#### Preiskalkulation
 
 Zusammensetzung aus Kern,
 
-### Addons / Waffen
+#### Addons / Waffen
 
 Upgrades / Funktionen / Addons: Begrenzte Anzahl auf 5\
 Bringen entweder Stats oder Funktionen
@@ -567,7 +567,7 @@ Flammenwerfer (fester schaden pro tier, kein skill?)
 
 Schwerer Angriff / Lade Attacke / Atillerie Musketen / Schrappanel Attacke (multi hit mega attacke)
 
-## Wiederbelebung
+### Wiederbelebung
 
 Natürlich kommt es vor das Konstrukte im Kampf zerstört werden, in diesem Fall muss es in Nebendowntime Aktivitäten repariert werden.
 
@@ -584,15 +584,15 @@ Jedoch benötigen diese Reperaturen keine Materialien.
 |  Stufe 3   |     3     |
 |  Stufe 4   |     4     |
 
-## Vehicle Skill {#Vehicleskills}
+### Vehicle Skill {#Vehicleskills}
 
 Dem Besitzer des Konstrutks ist es möglich kurzzeitig die Kontrolle über ein Konstukt zu übernehmen, dies äußert sich in einer zusätzlichen Aktion für das Konstrukt. Diese Aktion hängt von einem Vehicel Check ab dessen schwierigkeit auf dem Kern und der Größe des Konstrukts basiert, je stärker das Konstrukt desto schwieriger die Kontrolle. Bei Erfolg wird die Main Action des Characters aufgebraucht, bei Misserfolg die Singleaction da weniger Zeit verbraucht wird.
 
-## Batterie in Session Aufladen
+### Batterie in Session Aufladen
 
 Zum aufladen des Akkus ohne Pausen. Hierfür wird der Essenzsammler verwendet, Eine Ladung entspricht 10 Essenzen, jedoch ist es schwer abzuschätzen wann man die Sammler abziehen muss weshalb es öfter zu ungenauen Abzügen kommt,was im schlimmsten Fall zum Verlust aller gesammelten Seelen im Sammler führen kann. Aufgrund des hohen Preises dieser Anwedung wird diese nur im absoluten Notfall empfohlen.
 
-## Wo zu finden und Typische Vertreter
+### Wo zu finden und Typische Vertreter
 
 Zwerge
 
@@ -604,35 +604,35 @@ Wandia
 
 ![Ein Zwerg](Pictures/Flavor/PLatzhalter/Dwarf.jpg)
 
-### Die Völkerbeziehungen der Rasse
+#### Die Völkerbeziehungen der Rasse
 
 Während die meisten Völker Zwerge nur als Fahrende Händler oder an deren Wohnsitzen als Marktplatz kennen, pflegen die Rah Akari einen besonderen Handel insofern das eine ihre Hauptverteidigungen ,die Konstrukte, von den Zwergen kommen.
 
 ![Ein seltenes Konstrukt](Pictures/Flavor/Platzhalter/KonstruktRahKari.jpg)
 
-## Einsatzfelder von Konstrukten {#KonstruktAnwendung}
+### Einsatzfelder von Konstrukten {#KonstruktAnwendung}
 
-### Kontrolle über Konstrukte
+#### Kontrolle über Konstrukte
 
-### Die vielfalt der Möglichkeiten
+#### Die vielfalt der Möglichkeiten
 
 Konstrukte unterscheiden in vielerlei Art. dabei werden grundsätzlich nur Grenzen durch die Handwerkskunst und die Kreativität seines Erbauers gesetzt. Angefangen beim **Konstruktkern**, dieses Herzstück eines jeden Konstrukts bestimmt die späteren Anwendungsgebiete eines Konstrukts denn im gegensatz zu anderen Teilen des Konstrukts ist dieser später nicht mehr zu verändern. In die Kerne wird dabei nicht direkt ihre Aufgabe eingeprägt viel mehr stellt der Kern den möglichen Speicher und die Energiequelle dar, je besser der Kern desto mehr und Komplizierte Befehlte kann das spätere Konstrukt ausführen. Sogar selbst ständig mehrere Funktionen aneinander Reihen um den Befehl erfolgreich auszuführen. Konstruktkerne unterscheiden sich generell in ihrer Größe und ihrer Reinheit, generell gilt je größer ein Kern ist desto aufnahmerfähiger ist er benötigt aber auch entsprechend mehr Essenzen, sollte der Platz der für den Kern zur Verfügung steht limitiert sein so gäbe es ein weiterers Stellrad das bedient werden kann die Reinheit diese ermöglicht einen Kern bei gleicher Aufnahmefähigkeit zu verkleinern jedoch benötigt dieser Prozess deutlich mehr Essenz. Weiters existieren unterschiede in der Panzerung, wie man sich gut vorstellen kann ist ein Wesen dass auf Grund seiner Natur bereits ausschließlich aus Metallen besteht bereits gut gepanzert was bereits zu einem hohen Verteidigungswert führt, jedoch sind Teile des innenleben der Konstrukte aufgrund ihrer Filigranen und Präzisen Struktur leicht zu zerstören. Dies kann durch zusätzliche Panzerung an den Empfindlichen Stellen des Konstrukts verhindert werden, erhöht aber auch das Gewicht und den Preis. Neben diesen Merkmalen gibt es natürlich noch zwei Offensichtliche, die Ausstattung und der Grundaufbau. die Ausstattung ist maßgeblich dafür welche Aufgaben überhaupt vom Konstrukt erledigt werden können und diese wird weiter durch den Aufbau des Konstrukts unterstützt.
 
-### Konstruktarten
+#### Konstruktarten
 
 Grundsätzlich werden Konstrukte in fünf Klassen sortiert.
 
-#### Utility:
+##### Utility:
 
 Konstrukte dieser Klasse sind hauptsächlich in Reichen Zwergen Haushalten anzutreffen, sie erfüllen Zwecke die auch ein Angestellter hätte verrichten können sind dabei aber deutlich Diskreter. Aufgabenfelder reichen hierbei von Handwerklichenaufgaben wie der Errichtung und Pfelge von Gebäuden bishin zu Verwaltungsaufgaben. Generell dienen sie zur Verbesserung der Lebensqualität. Die verwendenten Kerne sind meist nicht sehr groß und auch nicht sehr rein. Sie sind der Ausdruck purer Dekadenz. ![Konstrukte sind nicht nur auf dem Schlachtfeld von Nutzen - auch als Helferlein im Alltag sind sie einsetzbar](Pictures/Flavor/Platzhalter/KonstruktBibliothek.jpg)
 
-#### Transport:
+##### Transport:
 
 Sowohl über als auch unter der Erde müssen oft größere Menge Ware oder große Lasten bewegt werden, hier für gibt es allerlei Möglichkeiten, die beste stellt natürlich auch hier wieder ein Konstrukt dar, hier ein Beispiel wo würden sie ihr Bargeld lieber aufbewahren, in einer Satteltasche eines Tieres das bereits für seine Sturheit und widerwilligkeit bekannt ist oder im Tresor im inneren ihres Loyalen Gefährten der ihnen ohne zu zögern in den Wurmfall folgen würde. Diese Konstruktklasse unterscheidet sich stark in ihren Ausführungen obwohl sie doch alle das gleiche Ziel haben, von der Anzahl der Beine, Panzerung und nützliche Gadgets ist allen voran natürlich die mögliche Traglast ausschlaggebend. Diese Konstrukte werden oft von den Oberflächen Zwergenkarawanen genutzt, in ihnen kann alles von mystischen Bestien bis Edelsteinen alles sicher Transportiert werden, oft werden diese dabei neben nützlichen Gadgets auch mit Waffen ausgestattet die dann von der Besesatzung genutzt werden können.
 
 ![Gerüstetes Transportkonstrukt](Pictures/Flavor/Platzhalter/Konstrukt_Transport.jpg)
 
-#### Kampf:
+##### Kampf:
 
 > Ich dachte nach Jahren auf all den Schlachtfeldern hätte ich alles gesehen, doch als meine Jungs von diesen vierarmigen Teufeln zerrissen wurden lief mir ein Schauer über den Rücken, kein Zucker überkam dieses Ungetüm als der alte Joshua es mit dem Kriegshammerschlug und keiner als es ihn in der Mitte Teilte.
 >
@@ -648,11 +648,11 @@ Ein Fernkampf Konstrupt ist weit weniger adaptiert für den Nahkampf jedoch nich
 
 ![Fernkampf Konstrukt](Pictures/Flavor/Platzhalter/Konstrukt_Ballista.jpg)
 
-#### Titan klasse Konstrukt:
+##### Titan klasse Konstrukt:
 
 Diese Klasse ist die seltenste von ihr existieren selbst in den Aufzeichnungen nur eine handvoll Modelle. Diese teils riesigen Schöpfungen Tragen Kerne unglaublicher Ausmaße und immenser Reinheit in sich. Man möchte sich nicht ausmalen wie viel Essenz in die Erschaffung eines solchen Kernes gefloßen sein müssen, ganze Völker vom Angesicht der Erde getilgt. Was diese Konstrukte Gefährlich macht ist nicht Primär ihre Größe, Schlagkraft oder "Intelligenz" von denen alles in Maße vorhanden ist sondern viel mehr die Ausdauer. Ein jeder Militärstratege weis das Konstrukte gefährlich sind aber auch zerstört werden können wenn man ihre Rüstung durch dringt, dass mag auch hier Wahr sein, doch haben die gewitzten Erfinder dafür eine Lösungen gefunden. Die Konstrukte werden von vielen kleinen Konstrukten bewohnt, alle mit nur einem einzigen permaneten Befehl programmiert das Titanklasse Artefakt zu reparieren. Doch selbst diese benötigen auf Grund ihrer geringen größe, Kerne von großer Reinheit zwar wird Kapazität gespart durch die permanent Installation des Befehls jedoch ist dieser immer noch hoch Komplex und erfordert stets mehrere Schritte.
 
-### Bau
+#### Bau
 
 Was diese Konstrukte antreibt ist ein sogennanter Konstruktkern diese existieren in verschiedenen Größen und Reinheiten und werden mithilfe der Seelen von empfindsamen Wesen erschaffen. Je größer und reiner desto mehr Essenz wird benötigt, von diesen Stellschrauben hängt die spätere "Intelligenz" der Konstrukte ab da diese quasi die Speichergröße festlegen. Man munkelt die reinsten und größten Kerne können ein Bewusstsein entwickeln doch diese Theorie konnte bisher nicht bewiesen werden.
 
@@ -662,13 +662,13 @@ Um die Seelen für die teure Schaffung von Konstrukten zu besorgen gibt es für 
 
 Die Inspiration für diese Wunderwerke fanden die Zwerge in den Überbleibseln von Forrunner Technologie, jedoch können selbst ihre heutigen meisterwerke den damaligen nicht das Wasser reichen.
 
-## Aufbau Ingame
+### Aufbau Ingame
 
 Konstrukt Kern gibt die Maximalen Stats die ein Konstrukt erreichen kann vor Akku gibt die Ladungsmenge an die ein Konstrukt speichern kann Gließmaßen / Bauteile geben die tatsächlichen Stats an bis zum Cap durch den Kern Konstrukt waffen / Optionen diese sind die möglichkeiten des Konstrukts seine Akku Ladungen zu verbrauchen
 
-### Akku
+#### Akku
 
-### Batterie
+#### Batterie
 
-### Vehicel Skill
+#### Vehicel Skill
 

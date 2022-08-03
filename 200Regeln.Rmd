@@ -406,10 +406,12 @@ ggplot(llm,aes(x=Ladungen,y=value,col=name))+geom_line(size=1) + theme_bw() +
         plot.background = element_rect(fill = "#F3EACB"),
         legend.key = element_rect(fill = "#F3EACB"), 
         legend.background = element_rect(fill = "#F3EACB"))+
-  labs(y="Schaden",title="Darstellung für Tier 1") + scale_colour_manual(name="",labels=c("Schaden insgesamt", "Schaden pro Ladung"),values=c("black","red"))
+  labs(y="Schaden",title="Darstellung für Tier 1") + scale_colour_manual(name="",labels=c("Schaden wenn alle Ladungen aufgetragen werden", "Schaden pro Ladung"),values=c("black","red"))
 
 ```
 
+Die Variable SchadenGesamt steht für den gesamten Schaden den ein Gift macht wenn man alle Ladungen
+aufgetragen werden.
 Wenn man selbst nicht rechnen will sind alle relevanten Werte in dieser Tabelle zu lesen:
 
 ```{r}
