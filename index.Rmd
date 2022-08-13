@@ -76,9 +76,10 @@ overallThemeReactable=reactableTheme(backgroundColor = "transparent", borderColo
 
 ```
 
-
 ```{r read Data leaflet, include=FALSE}
-dfGesamt=read_excel("Leaflet/DataCities.xlsx")
+leafletpfad= "BookdownData/LeafletData.xlsx"
+
+dfGesamt=read_excel(leafletpfad, sheet= "LandmarksData")
 options(scipen=999)
 
 dfCities=dfGesamt %>% filter(Icons=="Grosstadt")
@@ -125,7 +126,7 @@ VulkanPolygons=Polygons(list(VulkanPoly),"Vulkanzwerge")
 
 PolitPolygons = SpatialPolygons(list(KaisKernPolygons,KaisBesatzPolygons,RahKariPolygons,SilvaPolygons,VulkanPolygons),1:5)
 
-PolitPolygonsData=read_excel("Leaflet/PolitPolyData.xlsx")
+PolitPolygonsData=read_excel(leafletpfad, sheet = "GroßreicheDaten")
 
 PolitLabels= sprintf(
   "<strong>%s</strong><br/>ca %i Personen <br>unter %s",
@@ -133,11 +134,10 @@ PolitLabels= sprintf(
 ) %>% lapply(htmltools::HTML)
 ```
 
-
 ```{r RegionPolygons, echo=F}
 
 
-dfRegionPolyValues=read_excel("Leaflet/PolygoneRegion.xlsx")
+dfRegionPolyValues=read_excel(leafletpfad, sheet= "RegionenPolygone")
 
 GrenzlandPoly=Polygon(cbind(na.omit(dfRegionPolyValues$LongGrenz),na.omit(dfRegionPolyValues$LatGrenz)))
 GrenzlandPolygons=Polygons(list(GrenzlandPoly),"Grenzland")
@@ -217,7 +217,7 @@ inputListRegionen=list(GrenzlandPolygons,BermaPolygons,EisenPolygons,WurmfallPol
 
 RegionPolygons=SpatialPolygons(inputListRegionen,1:length(inputListRegionen))
 
-RegionPolygonsData=read_excel("Leaflet/DataRegionInfo.xlsx")
+RegionPolygonsData=read_excel(leafletpfad, sheet= "DatenRegionenInfo")
 
 RegionenLabels= sprintf(
   "<strong>%s</strong><br/>Hauptstadt: %s<br>Herrscher: %s<br>Bevölkerungsdichte: %s pro Km<small><sup>2</sup></small>",
@@ -250,26 +250,21 @@ givecols=function(x,ausvec ,colorvec ){
 
 ```
 
-
-
-
 ```{r Icons, echo=F}
 icons=iconList(
-  Ausenposten = makeIcon("Leaflet/Marker/Außenposten.png","", 20, 20),
-  Grosstadt = makeIcon("Leaflet/Marker/Großstadt.png","", 20, 20),
-  Stadt = makeIcon("Leaflet/Marker/Stadt.png","", 20, 20),
-  Dorf = makeIcon("Leaflet/Marker/Dorf.png","", 20, 20),
-  Farm = makeIcon("Leaflet/Marker/Farm.png","", 20, 20),
-  Milizstadt = makeIcon("Leaflet/Marker/Milizstadt.png","", 20, 20),
-  Minenstadt = makeIcon("Leaflet/Marker/Minenstadt.png","", 20, 20),
-  Natur = makeIcon("Leaflet/Marker/Natur.png","", 20, 20),
-  Ruine = makeIcon("Leaflet/Marker/Ruine.png","", 20, 20),
-  Schlacht = makeIcon("Leaflet/Marker/Schlacht.png","", 20, 20),
-  Wahrzeichen= makeIcon("Leaflet/Marker/Wahrzeichen.png","", 20, 20)
+  Ausenposten = makeIcon("BookdownData/Marker/Außenposten.png","", 20, 20),
+  Grosstadt = makeIcon("BookdownData/Marker/Großstadt.png","", 20, 20),
+  Stadt = makeIcon("BookdownData/Marker/Stadt.png","", 20, 20),
+  Dorf = makeIcon("BookdownData/Marker/Dorf.png","", 20, 20),
+  Farm = makeIcon("BookdownData/Marker/Farm.png","", 20, 20),
+  Milizstadt = makeIcon("BookdownData/Marker/Milizstadt.png","", 20, 20),
+  Minenstadt = makeIcon("BookdownData/Marker/Minenstadt.png","", 20, 20),
+  Natur = makeIcon("BookdownData/Marker/Natur.png","", 20, 20),
+  Ruine = makeIcon("BookdownData/Marker/Ruine.png","", 20, 20),
+  Schlacht = makeIcon("BookdownData/Marker/Schlacht.png","", 20, 20),
+  Wahrzeichen= makeIcon("BookdownData/Marker/Wahrzeichen.png","", 20, 20)
 )
 ```
-
-
 
 ```{r , echo=FALSE, fig.width=8,fig.height=6}
 rgvec=c("black","red","orange","green","blue")
@@ -652,8 +647,82 @@ m <- leaflet(width = w(), height = h()) %>%
   )
 ```
 
-
 ```{r}
 m
+```
+
+
+```{r functiondump}
+getTierTable = function(tier, pfad="Container/Data/Tiere.xlsx"){
+  df= read_xlsx(pfad, sheet= tier)
+  
+  df = df %>% select(AttributName, Attribut, Parthealth, Value)
+  
+  df2= data.frame(name= c(df$AttributName, df$Parthealth),
+                  value= c(df$Attribut, df$Value)) %>% 
+    filter(!is.na(name)) 
+  
+  rownames(df2) = df2$name
+  
+  givbak= c("Str",
+            "Agi",
+            "Cha",
+            "Phy",
+            "Int",
+            "Inst",
+            "Health",
+            "Ausdauer",
+            "Mount multyplier",
+            "Traglast",
+            "Bewegungsradius/turn",
+            "Benötigter Skill Reiten",
+            "TameWert",
+            "Trainingswert",
+            "Pflegeintensität")
+  
+  df= df2[givbak,]
+  rownames(df)= 1:nrow(df)
+  
+  df = df %>% mutate(Tier=tier) %>% 
+    relocate(Tier,name,value) %>% 
+    rename(Merkmal=name,Wert=value)
+  
+  tab= reactable(df,groupBy = "Tier",
+            columns = list(
+              
+              Tier = colDef(
+                grouped = JS("function(cellInfo) {
+                            return cellInfo.value
+                          }")
+                
+              )
+            ), bordered = F,
+            highlight = T, showPageSizeOptions = F,
+            defaultPageSize = 15,
+            theme= overallThemeReactable, 
+            defaultColDef = colDef(
+              align = "center"
+            ), outlined = T,
+            striped=T)
+  
+  return(tab)
+}
+
+getFeiertag = function(wherees){
+  if (wheres %in% RegionPolygonsData$Name){
+    df = Feiertagdf %>% filter(wherees %in% Relevanz)
+  } else if(wheres %in% RegionPolygonsData$Reich){
+    joindf = RegionPolygonsData %>% select(Reich,Name) %>% filter(wherees == Reich)
+    df= Feiertagdf %>% filter(any(joindf$Name %in% Relevanz))
+  }
+  df= knitr::kable(df)
+  return(df)
+}
+```
+
+```{r}
+bookdownallgdatapfad="BookdownData/BookdownAllgemeinData.xlsx"
+
+Feiertagdf = read_excel(bookdownallgdatapfad,sheet="Feiertage")
 ```
 

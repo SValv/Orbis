@@ -72,6 +72,24 @@ Orbis Astea
 <script src="libs/lfx-draw-1.0.2/lfx-draw-prod.js"></script>
 <script src="libs/lfx-draw-1.0.2/lfx-draw-bindings.js"></script>
 <script src="libs/lfx-draw-drag-1.0.2/lfx-draw-drag-prod.js"></script>
+<link href="libs/visjs-7.4.9/vis-timeline-graph2d.min.css" rel="stylesheet" />
+<script src="libs/visjs-7.4.9/vis-timeline-graph2d.min.js"></script>
+<link href="libs/timeline-0.4/timevis.css" rel="stylesheet" />
+<script src="libs/timevis-binding-2.0.0/timevis.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
+<script src="libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
 <script src="libs/core-js-2.5.3/shim.min.js"></script>
 <script src="libs/react-17.0.0/react.min.js"></script>
 <script src="libs/react-17.0.0/react-dom.min.js"></script>
@@ -101,7 +119,7 @@ Orbis Astea
 <ul>
 <li class="chapter" data-level="2.1" data-path="Allgemeines.html"><a href="Allgemeines.html#das-erwachen"><i class="fa fa-check"></i><b>2.1</b> Das Erwachen</a></li>
 <li class="chapter" data-level="2.2" data-path="Allgemeines.html"><a href="Allgemeines.html#die-rolle-der-religion"><i class="fa fa-check"></i><b>2.2</b> Die Rolle der Religion</a></li>
-<li class="chapter" data-level="2.3" data-path="Allgemeines.html"><a href="Allgemeines.html#die-geschichte-orbis-asteras"><i class="fa fa-check"></i><b>2.3</b> Die Geschichte Orbis Asteras</a></li>
+<li class="chapter" data-level="2.3" data-path="Allgemeines.html"><a href="Allgemeines.html#die-geschichte-orbis-asteas"><i class="fa fa-check"></i><b>2.3</b> Die Geschichte Orbis Asteas</a></li>
 </ul></li>
 <li class="part"><span><b>II Die Rassen in Orbis Astea</b></span></li>
 <li class="chapter" data-level="3" data-path="menschen.html"><a href="menschen.html"><i class="fa fa-check"></i><b>3</b> Menschen</a>
@@ -324,14 +342,14 @@ Orbis Astea
 <li class="chapter" data-level="13.1.7" data-path="RahKari.html"><a href="RahKari.html#die-suche-nach-dem-schlüssel"><i class="fa fa-check"></i><b>13.1.7</b> Die Suche nach dem Schlüssel</a></li>
 <li class="chapter" data-level="13.1.8" data-path="RahKari.html"><a href="RahKari.html#der-tod-eines-traumes"><i class="fa fa-check"></i><b>13.1.8</b> Der Tod eines Traumes</a></li>
 <li class="chapter" data-level="13.1.9" data-path="RahKari.html"><a href="RahKari.html#das-reich-des-südens"><i class="fa fa-check"></i><b>13.1.9</b> Das Reich des Südens</a></li>
-<li class="chapter" data-level="13.1.10" data-path="RahKari.html"><a href="RahKari.html#der-krieg-der-unteren-wüste"><i class="fa fa-check"></i><b>13.1.10</b> Der Krieg der unteren Wüste</a></li>
+<li class="chapter" data-level="13.1.10" data-path="RahKari.html"><a href="RahKari.html#KriegDerUnterenWueste"><i class="fa fa-check"></i><b>13.1.10</b> Der Krieg der unteren Wüste</a></li>
 <li class="chapter" data-level="13.1.11" data-path="RahKari.html"><a href="RahKari.html#die-expeditionen"><i class="fa fa-check"></i><b>13.1.11</b> Die Expeditionen</a>
 <ul>
 <li class="chapter" data-level="" data-path="RahKari.html"><a href="RahKari.html#die-expeditionen-in-die-eisenrote-wüste"><i class="fa fa-check"></i>Die Expeditionen in die eisenrote Wüste</a></li>
 <li class="chapter" data-level="" data-path="RahKari.html"><a href="RahKari.html#die-expedition-ins-himmelsspitzen-gebirge"><i class="fa fa-check"></i>Die Expedition ins Himmelsspitzen-Gebirge</a></li>
 <li class="chapter" data-level="" data-path="RahKari.html"><a href="RahKari.html#andere-expeditionen"><i class="fa fa-check"></i>Andere Expeditionen</a></li>
 </ul></li>
-<li class="chapter" data-level="13.1.12" data-path="RahKari.html"><a href="RahKari.html#der-aufstand-der-sklaven"><i class="fa fa-check"></i><b>13.1.12</b> Der Aufstand der Sklaven</a></li>
+<li class="chapter" data-level="13.1.12" data-path="RahKari.html"><a href="RahKari.html#SklavenaufstandRahKari"><i class="fa fa-check"></i><b>13.1.12</b> Der Aufstand der Sklaven</a></li>
 <li class="chapter" data-level="13.1.13" data-path="RahKari.html"><a href="RahKari.html#der-große-krieg"><i class="fa fa-check"></i><b>13.1.13</b> Der große Krieg</a></li>
 </ul></li>
 <li class="chapter" data-level="13.2" data-path="RahKari.html"><a href="RahKari.html#die-gesellschaft-der-rah-kari"><i class="fa fa-check"></i><b>13.2</b> Die Gesellschaft der Rah Kari</a></li>
@@ -799,6 +817,7 @@ Orbis Astea
 <ul>
 <li class="chapter" data-level="29.7.1" data-path="die-region-eldria.html"><a href="die-region-eldria.html#ulias-spooners-taverne"><i class="fa fa-check"></i><b>29.7.1</b> Ulias Spooners Taverne</a></li>
 </ul></li>
+<li class="chapter" data-level="29.8" data-path="die-region-eldria.html"><a href="die-region-eldria.html#notizen"><i class="fa fa-check"></i><b>29.8</b> Notizen</a></li>
 </ul></li>
 <li class="chapter" data-level="30" data-path="Wandia.html"><a href="Wandia.html"><i class="fa fa-check"></i><b>30</b> Wandia</a>
 <ul>
@@ -880,10 +899,7 @@ Orbis Astea
 <ul>
 <li class="chapter" data-level="33.3.1" data-path="der-nebelhain.html"><a href="der-nebelhain.html#die-ressourcen-der-region-11"><i class="fa fa-check"></i><b>33.3.1</b> Die Ressourcen der Region</a></li>
 </ul></li>
-<li class="chapter" data-level="33.4" data-path="der-nebelhain.html"><a href="der-nebelhain.html#soziopolitische-lage-17"><i class="fa fa-check"></i><b>33.4</b> Soziopolitische Lage</a>
-<ul>
-<li class="chapter" data-level="33.4.1" data-path="der-nebelhain.html"><a href="der-nebelhain.html#herrschaftsystemorganisation-17"><i class="fa fa-check"></i><b>33.4.1</b> Herrschaftsystem/Organisation</a></li>
-</ul></li>
+<li class="chapter" data-level="33.4" data-path="der-nebelhain.html"><a href="der-nebelhain.html#soziopolitische-lage-17"><i class="fa fa-check"></i><b>33.4</b> Soziopolitische Lage</a></li>
 <li class="chapter" data-level="33.5" data-path="der-nebelhain.html"><a href="der-nebelhain.html#klimatische-bedingungen-13"><i class="fa fa-check"></i><b>33.5</b> Klimatische Bedingungen</a>
 <ul>
 <li class="chapter" data-level="33.5.1" data-path="der-nebelhain.html"><a href="der-nebelhain.html#die-flora-und-fauna-12"><i class="fa fa-check"></i><b>33.5.1</b> Die Flora und Fauna</a>
@@ -895,16 +911,11 @@ Orbis Astea
 <li class="chapter" data-level="33.6" data-path="der-nebelhain.html"><a href="der-nebelhain.html#gerüchte-der-region-12"><i class="fa fa-check"></i><b>33.6</b> Gerüchte der Region</a>
 <ul>
 <li class="chapter" data-level="33.6.1" data-path="der-nebelhain.html"><a href="der-nebelhain.html#ernter-der-seelen"><i class="fa fa-check"></i><b>33.6.1</b> Ernter der Seelen</a></li>
+<li class="chapter" data-level="33.6.2" data-path="der-nebelhain.html"><a href="der-nebelhain.html#der-drudarn-clan"><i class="fa fa-check"></i><b>33.6.2</b> Der Drudarn-Clan</a></li>
+<li class="chapter" data-level="33.6.3" data-path="der-nebelhain.html"><a href="der-nebelhain.html#die-bande-der-schwarzfeder"><i class="fa fa-check"></i><b>33.6.3</b> Die Bande der Schwarzfeder</a></li>
+<li class="chapter" data-level="33.6.4" data-path="der-nebelhain.html"><a href="der-nebelhain.html#der-stöhnende-baum"><i class="fa fa-check"></i><b>33.6.4</b> Der stöhnende Baum</a></li>
 </ul></li>
 <li class="chapter" data-level="33.7" data-path="der-nebelhain.html"><a href="der-nebelhain.html#sehenswürdigkeiten-13"><i class="fa fa-check"></i><b>33.7</b> Sehenswürdigkeiten</a></li>
-<li class="chapter" data-level="33.8" data-path="der-nebelhain.html"><a href="der-nebelhain.html#ab-hier-veraltetes-lore"><i class="fa fa-check"></i><b>33.8</b> AB hier veraltetes Lore</a></li>
-<li class="chapter" data-level="33.9" data-path="der-nebelhain.html"><a href="der-nebelhain.html#NebelhainHintergrund"><i class="fa fa-check"></i><b>33.9</b> Wissenswertes über den Nebelhain</a></li>
-<li class="chapter" data-level="33.10" data-path="der-nebelhain.html"><a href="der-nebelhain.html#die-sumpfbewohner"><i class="fa fa-check"></i><b>33.10</b> Die Sumpfbewohner</a></li>
-<li class="chapter" data-level="33.11" data-path="der-nebelhain.html"><a href="der-nebelhain.html#flora-und-fauna"><i class="fa fa-check"></i><b>33.11</b> Flora und Fauna</a>
-<ul>
-<li class="chapter" data-level="33.11.1" data-path="der-nebelhain.html"><a href="der-nebelhain.html#swamp-turtle"><i class="fa fa-check"></i><b>33.11.1</b> Swamp turtle</a></li>
-<li class="chapter" data-level="33.11.2" data-path="der-nebelhain.html"><a href="der-nebelhain.html#cornelius"><i class="fa fa-check"></i><b>33.11.2</b> Cornelius</a></li>
-</ul></li>
 </ul></li>
 <li class="chapter" data-level="34" data-path="BermaTal.html"><a href="BermaTal.html"><i class="fa fa-check"></i><b>34</b> Das Berma-Tal</a>
 <ul>
@@ -919,7 +930,7 @@ Orbis Astea
 </ul></li>
 <li class="chapter" data-level="34.4" data-path="BermaTal.html"><a href="BermaTal.html#soziopolitische-lage-18"><i class="fa fa-check"></i><b>34.4</b> Soziopolitische Lage</a>
 <ul>
-<li class="chapter" data-level="34.4.1" data-path="BermaTal.html"><a href="BermaTal.html#herrschaftsystemorganisation-18"><i class="fa fa-check"></i><b>34.4.1</b> Herrschaftsystem/Organisation</a></li>
+<li class="chapter" data-level="34.4.1" data-path="BermaTal.html"><a href="BermaTal.html#herrschaftsystemorganisation-17"><i class="fa fa-check"></i><b>34.4.1</b> Herrschaftsystem/Organisation</a></li>
 </ul></li>
 <li class="chapter" data-level="34.5" data-path="BermaTal.html"><a href="BermaTal.html#klimatische-bedingungen-14"><i class="fa fa-check"></i><b>34.5</b> Klimatische Bedingungen</a>
 <ul>
@@ -940,14 +951,29 @@ Orbis Astea
 <li class="chapter" data-level="35.1.3" data-path="appothis.html"><a href="appothis.html#napnopet"><i class="fa fa-check"></i><b>35.1.3</b> Napnopet</a></li>
 <li class="chapter" data-level="35.1.4" data-path="appothis.html"><a href="appothis.html#bokarun-mine"><i class="fa fa-check"></i><b>35.1.4</b> Bokarun-Mine</a></li>
 <li class="chapter" data-level="35.1.5" data-path="appothis.html"><a href="appothis.html#esunpet-und-wisunpet"><i class="fa fa-check"></i><b>35.1.5</b> Esunpet und Wisunpet</a></li>
-<li class="chapter" data-level="35.1.6" data-path="appothis.html"><a href="appothis.html#infrastruktur-14"><i class="fa fa-check"></i><b>35.1.6</b> Infrastruktur</a></li>
+<li class="chapter" data-level="35.1.6" data-path="appothis.html"><a href="appothis.html#ahmes"><i class="fa fa-check"></i><b>35.1.6</b> Ahmes</a></li>
+<li class="chapter" data-level="35.1.7" data-path="appothis.html"><a href="appothis.html#infrastruktur-14"><i class="fa fa-check"></i><b>35.1.7</b> Infrastruktur</a></li>
 </ul></li>
-<li class="chapter" data-level="35.2" data-path="appothis.html"><a href="appothis.html#die-geschichte-der-region-14"><i class="fa fa-check"></i><b>35.2</b> Die Geschichte der Region</a></li>
+<li class="chapter" data-level="35.2" data-path="appothis.html"><a href="appothis.html#die-geschichte-der-region-14"><i class="fa fa-check"></i><b>35.2</b> Die Geschichte der Region</a>
+<ul>
+<li class="chapter" data-level="35.2.1" data-path="appothis.html"><a href="appothis.html#frühgeschichte-von-appothis"><i class="fa fa-check"></i><b>35.2.1</b> Frühgeschichte von Appothis</a></li>
+<li class="chapter" data-level="35.2.2" data-path="appothis.html"><a href="appothis.html#die-zeit-vor-den-rah-kari"><i class="fa fa-check"></i><b>35.2.2</b> Die Zeit vor den Rah’ Kari</a></li>
+<li class="chapter" data-level="35.2.3" data-path="appothis.html"><a href="appothis.html#der-einmarsch-der-rah-kari"><i class="fa fa-check"></i><b>35.2.3</b> Der Einmarsch der Rah’ Kari</a></li>
+<li class="chapter" data-level="35.2.4" data-path="appothis.html"><a href="appothis.html#die-sklavenaufstände"><i class="fa fa-check"></i><b>35.2.4</b> Die Sklavenaufstände</a></li>
+</ul></li>
 <li class="chapter" data-level="35.3" data-path="appothis.html"><a href="appothis.html#wirtschaftliche-lage-17"><i class="fa fa-check"></i><b>35.3</b> Wirtschaftliche Lage</a>
 <ul>
 <li class="chapter" data-level="35.3.1" data-path="appothis.html"><a href="appothis.html#die-ressourcen-der-region-13"><i class="fa fa-check"></i><b>35.3.1</b> Die Ressourcen der Region</a></li>
 </ul></li>
-<li class="chapter" data-level="35.4" data-path="appothis.html"><a href="appothis.html#soziopolitische-lage-19"><i class="fa fa-check"></i><b>35.4</b> Soziopolitische Lage</a></li>
+<li class="chapter" data-level="35.4" data-path="appothis.html"><a href="appothis.html#soziopolitische-lage-19"><i class="fa fa-check"></i><b>35.4</b> Soziopolitische Lage</a>
+<ul>
+<li class="chapter" data-level="35.4.1" data-path="appothis.html"><a href="appothis.html#verloreneArmee"><i class="fa fa-check"></i><b>35.4.1</b> Die verlorene Armee</a></li>
+<li class="chapter" data-level="35.4.2" data-path="appothis.html"><a href="appothis.html#weitere-gruppierungen-in-appothis"><i class="fa fa-check"></i><b>35.4.2</b> Weitere Gruppierungen in Appothis</a>
+<ul>
+<li class="chapter" data-level="35.4.2.1" data-path="appothis.html"><a href="appothis.html#rebellen-und-banditen"><i class="fa fa-check"></i><b>35.4.2.1</b> Rebellen und Banditen</a></li>
+<li class="chapter" data-level="35.4.2.2" data-path="appothis.html"><a href="appothis.html#die-meth-hu"><i class="fa fa-check"></i><b>35.4.2.2</b> Die Meth-Hu</a></li>
+</ul></li>
+</ul></li>
 <li class="chapter" data-level="35.5" data-path="appothis.html"><a href="appothis.html#klimatische-bedingungen-15"><i class="fa fa-check"></i><b>35.5</b> Klimatische Bedingungen</a>
 <ul>
 <li class="chapter" data-level="35.5.1" data-path="appothis.html"><a href="appothis.html#die-flora-und-fauna-14"><i class="fa fa-check"></i><b>35.5.1</b> Die Flora und Fauna</a>
@@ -955,8 +981,12 @@ Orbis Astea
 <li class="chapter" data-level="35.5.1.1" data-path="appothis.html"><a href="appothis.html#monster-in-der-region-15"><i class="fa fa-check"></i><b>35.5.1.1</b> Monster in der Region</a></li>
 </ul></li>
 </ul></li>
-<li class="chapter" data-level="35.6" data-path="appothis.html"><a href="appothis.html#gerüchte-der-region-14"><i class="fa fa-check"></i><b>35.6</b> Gerüchte der Region</a></li>
-<li class="chapter" data-level="35.7" data-path="appothis.html"><a href="appothis.html#sehenswürdigkeiten-15"><i class="fa fa-check"></i><b>35.7</b> Sehenswürdigkeiten</a></li>
+<li class="chapter" data-level="35.6" data-path="appothis.html"><a href="appothis.html#gerüchte-der-region-14"><i class="fa fa-check"></i><b>35.6</b> Gerüchte der Region</a>
+<ul>
+<li class="chapter" data-level="35.6.1" data-path="appothis.html"><a href="appothis.html#die-sandschildkröten"><i class="fa fa-check"></i><b>35.6.1</b> Die Sandschildkröten</a></li>
+<li class="chapter" data-level="35.6.2" data-path="appothis.html"><a href="appothis.html#ol-talib"><i class="fa fa-check"></i><b>35.6.2</b> Ol Talib</a></li>
+<li class="chapter" data-level="35.6.3" data-path="appothis.html"><a href="appothis.html#die-sumpfzähne"><i class="fa fa-check"></i><b>35.6.3</b> Die Sumpfzähne</a></li>
+</ul></li>
 </ul></li>
 <li class="chapter" data-level="36" data-path="eid-rah-kari.html"><a href="eid-rah-kari.html"><i class="fa fa-check"></i><b>36</b> Eid’ Rah Kari</a>
 <ul>
@@ -971,7 +1001,7 @@ Orbis Astea
 </ul></li>
 <li class="chapter" data-level="36.4" data-path="eid-rah-kari.html"><a href="eid-rah-kari.html#soziopolitische-lage-20"><i class="fa fa-check"></i><b>36.4</b> Soziopolitische Lage</a>
 <ul>
-<li class="chapter" data-level="36.4.1" data-path="eid-rah-kari.html"><a href="eid-rah-kari.html#herrschaftsystemorganisation-19"><i class="fa fa-check"></i><b>36.4.1</b> Herrschaftsystem/Organisation</a></li>
+<li class="chapter" data-level="36.4.1" data-path="eid-rah-kari.html"><a href="eid-rah-kari.html#herrschaftsystemorganisation-18"><i class="fa fa-check"></i><b>36.4.1</b> Herrschaftsystem/Organisation</a></li>
 </ul></li>
 <li class="chapter" data-level="36.5" data-path="eid-rah-kari.html"><a href="eid-rah-kari.html#klimatische-bedingungen-16"><i class="fa fa-check"></i><b>36.5</b> Klimatische Bedingungen</a>
 <ul>
@@ -981,7 +1011,7 @@ Orbis Astea
 </ul></li>
 </ul></li>
 <li class="chapter" data-level="36.6" data-path="eid-rah-kari.html"><a href="eid-rah-kari.html#gerüchte-der-region-15"><i class="fa fa-check"></i><b>36.6</b> Gerüchte der Region</a></li>
-<li class="chapter" data-level="36.7" data-path="eid-rah-kari.html"><a href="eid-rah-kari.html#sehenswürdigkeiten-16"><i class="fa fa-check"></i><b>36.7</b> Sehenswürdigkeiten</a></li>
+<li class="chapter" data-level="36.7" data-path="eid-rah-kari.html"><a href="eid-rah-kari.html#sehenswürdigkeiten-15"><i class="fa fa-check"></i><b>36.7</b> Sehenswürdigkeiten</a></li>
 </ul></li>
 <li class="chapter" data-level="37" data-path="EisenroteWueste.html"><a href="EisenroteWueste.html"><i class="fa fa-check"></i><b>37</b> Die Eisenrote Wüste</a>
 <ul>
@@ -998,7 +1028,7 @@ Orbis Astea
 <li class="chapter" data-level="37.5" data-path="EisenroteWueste.html"><a href="EisenroteWueste.html#eroberungszüge-der-rah-kari"><i class="fa fa-check"></i><b>37.5</b> Eroberungszüge der Rah Kari</a></li>
 <li class="chapter" data-level="37.6" data-path="EisenroteWueste.html"><a href="EisenroteWueste.html#soziopolitische-lage-21"><i class="fa fa-check"></i><b>37.6</b> Soziopolitische Lage</a>
 <ul>
-<li class="chapter" data-level="37.6.1" data-path="EisenroteWueste.html"><a href="EisenroteWueste.html#herrschaftsystemorganisation-20"><i class="fa fa-check"></i><b>37.6.1</b> Herrschaftsystem/Organisation</a></li>
+<li class="chapter" data-level="37.6.1" data-path="EisenroteWueste.html"><a href="EisenroteWueste.html#herrschaftsystemorganisation-19"><i class="fa fa-check"></i><b>37.6.1</b> Herrschaftsystem/Organisation</a></li>
 </ul></li>
 <li class="chapter" data-level="37.7" data-path="EisenroteWueste.html"><a href="EisenroteWueste.html#klimatische-bedingungen-17"><i class="fa fa-check"></i><b>37.7</b> Klimatische Bedingungen</a>
 <ul>
@@ -1008,7 +1038,7 @@ Orbis Astea
 </ul></li>
 </ul></li>
 <li class="chapter" data-level="37.8" data-path="EisenroteWueste.html"><a href="EisenroteWueste.html#gerüchte-der-region-16"><i class="fa fa-check"></i><b>37.8</b> Gerüchte der Region</a></li>
-<li class="chapter" data-level="37.9" data-path="EisenroteWueste.html"><a href="EisenroteWueste.html#sehenswürdigkeiten-17"><i class="fa fa-check"></i><b>37.9</b> Sehenswürdigkeiten</a></li>
+<li class="chapter" data-level="37.9" data-path="EisenroteWueste.html"><a href="EisenroteWueste.html#sehenswürdigkeiten-16"><i class="fa fa-check"></i><b>37.9</b> Sehenswürdigkeiten</a></li>
 </ul></li>
 <li class="chapter" data-level="38" data-path="die-graue-ödnis.html"><a href="die-graue-ödnis.html"><i class="fa fa-check"></i><b>38</b> Die Graue Ödnis</a>
 <ul>
@@ -1023,7 +1053,7 @@ Orbis Astea
 </ul></li>
 <li class="chapter" data-level="38.4" data-path="die-graue-ödnis.html"><a href="die-graue-ödnis.html#soziopolitische-lage-22"><i class="fa fa-check"></i><b>38.4</b> Soziopolitische Lage</a>
 <ul>
-<li class="chapter" data-level="38.4.1" data-path="die-graue-ödnis.html"><a href="die-graue-ödnis.html#herrschaftsystemorganisation-21"><i class="fa fa-check"></i><b>38.4.1</b> Herrschaftsystem/Organisation</a></li>
+<li class="chapter" data-level="38.4.1" data-path="die-graue-ödnis.html"><a href="die-graue-ödnis.html#herrschaftsystemorganisation-20"><i class="fa fa-check"></i><b>38.4.1</b> Herrschaftsystem/Organisation</a></li>
 </ul></li>
 <li class="chapter" data-level="38.5" data-path="die-graue-ödnis.html"><a href="die-graue-ödnis.html#klimatische-bedingungen-18"><i class="fa fa-check"></i><b>38.5</b> Klimatische Bedingungen</a>
 <ul>
@@ -1033,7 +1063,7 @@ Orbis Astea
 </ul></li>
 </ul></li>
 <li class="chapter" data-level="38.6" data-path="die-graue-ödnis.html"><a href="die-graue-ödnis.html#gerüchte-der-region-17"><i class="fa fa-check"></i><b>38.6</b> Gerüchte der Region</a></li>
-<li class="chapter" data-level="38.7" data-path="die-graue-ödnis.html"><a href="die-graue-ödnis.html#sehenswürdigkeiten-18"><i class="fa fa-check"></i><b>38.7</b> Sehenswürdigkeiten</a></li>
+<li class="chapter" data-level="38.7" data-path="die-graue-ödnis.html"><a href="die-graue-ödnis.html#sehenswürdigkeiten-17"><i class="fa fa-check"></i><b>38.7</b> Sehenswürdigkeiten</a></li>
 </ul></li>
 <li class="chapter" data-level="39" data-path="die-grenze-der-welt.html"><a href="die-grenze-der-welt.html"><i class="fa fa-check"></i><b>39</b> Die Grenze der Welt</a>
 <ul>
@@ -1048,7 +1078,7 @@ Orbis Astea
 </ul></li>
 <li class="chapter" data-level="39.4" data-path="die-grenze-der-welt.html"><a href="die-grenze-der-welt.html#soziopolitische-lage-23"><i class="fa fa-check"></i><b>39.4</b> Soziopolitische Lage</a>
 <ul>
-<li class="chapter" data-level="39.4.1" data-path="die-grenze-der-welt.html"><a href="die-grenze-der-welt.html#herrschaftsystemorganisation-22"><i class="fa fa-check"></i><b>39.4.1</b> Herrschaftsystem/Organisation</a></li>
+<li class="chapter" data-level="39.4.1" data-path="die-grenze-der-welt.html"><a href="die-grenze-der-welt.html#herrschaftsystemorganisation-21"><i class="fa fa-check"></i><b>39.4.1</b> Herrschaftsystem/Organisation</a></li>
 </ul></li>
 <li class="chapter" data-level="39.5" data-path="die-grenze-der-welt.html"><a href="die-grenze-der-welt.html#klimatische-bedingungen-19"><i class="fa fa-check"></i><b>39.5</b> Klimatische Bedingungen</a>
 <ul>
@@ -1058,7 +1088,7 @@ Orbis Astea
 </ul></li>
 </ul></li>
 <li class="chapter" data-level="39.6" data-path="die-grenze-der-welt.html"><a href="die-grenze-der-welt.html#gerüchte-der-region-18"><i class="fa fa-check"></i><b>39.6</b> Gerüchte der Region</a></li>
-<li class="chapter" data-level="39.7" data-path="die-grenze-der-welt.html"><a href="die-grenze-der-welt.html#sehenswürdigkeiten-19"><i class="fa fa-check"></i><b>39.7</b> Sehenswürdigkeiten</a></li>
+<li class="chapter" data-level="39.7" data-path="die-grenze-der-welt.html"><a href="die-grenze-der-welt.html#sehenswürdigkeiten-18"><i class="fa fa-check"></i><b>39.7</b> Sehenswürdigkeiten</a></li>
 </ul></li>
 <li class="part"><span><b>V Religionen</b></span></li>
 <li class="chapter" data-level="40" data-path="die-lehre-des-allgottes.html"><a href="die-lehre-des-allgottes.html"><i class="fa fa-check"></i><b>40</b> Die Lehre des Allgottes</a>
@@ -1709,6 +1739,7 @@ Orbis Astea
 <li class="chapter" data-level="" data-path="das-team-hinter-orbis-astea.html"><a href="das-team-hinter-orbis-astea.html#simon-valverde"><i class="fa fa-check"></i>Simon Valverde</a></li>
 <li class="chapter" data-level="" data-path="das-team-hinter-orbis-astea.html"><a href="das-team-hinter-orbis-astea.html#lena-pfeiffer"><i class="fa fa-check"></i>Lena Pfeiffer</a></li>
 <li class="chapter" data-level="" data-path="das-team-hinter-orbis-astea.html"><a href="das-team-hinter-orbis-astea.html#emil-mortensen"><i class="fa fa-check"></i>Emil Mortensen</a></li>
+<li class="chapter" data-level="" data-path="das-team-hinter-orbis-astea.html"><a href="das-team-hinter-orbis-astea.html#kasper-mortensen"><i class="fa fa-check"></i>Kasper Mortensen</a></li>
 <li class="chapter" data-level="" data-path="das-team-hinter-orbis-astea.html"><a href="das-team-hinter-orbis-astea.html#florian-berger"><i class="fa fa-check"></i>Florian Berger</a></li>
 <li class="chapter" data-level="" data-path="das-team-hinter-orbis-astea.html"><a href="das-team-hinter-orbis-astea.html#andreas-fellner"><i class="fa fa-check"></i>Andreas Fellner</a></li>
 </ul></li>
@@ -1735,11 +1766,12 @@ Orbis Astea
 <link rel="shortcut icon" href="E:\\User\\icn.png" />
 <div id="appothis" class="section level1 hasAnchor" number="35">
 <h1><span class="header-section-number">Kapitel 35</span> Appothis<a href="appothis.html#appothis" class="anchor-section" aria-label="Anchor link to header"></a></h1>
+<p>Appothis ist der östliche Teil des Rah Kari Territoriums und die zweitgrößte Region, die zu den Rah Kari gehört. Diese Region hat viel Geschichte erlebt und auch einiges davon verloren, da sie vor langer Zeit die Region war, die mit Eldria verbunden war, aber der Felssturz von Istval, der sowohl Appothis als auch Eldria verwüstete und die neue Region schuf, die heute als Nebelhain bekannt ist, trennte Rah Kari von den anderen Menschenreichen. Appothis besteht aus einer großen Wüste und zahlreichen Bergen, die sich sowohl im Norden als auch im Süden der Region befinden. Darüber hinaus grenzt es an die Setra, an der viele Siedlungen liegen, die von dem durch den Fluss geschaffenen Ökosystem profitieren. Appothis grenzt an viele andere Regionen wie die bereits erwähnten Nebelhain, Wurmfall, Bermatal und Atumpet.</p>
+<div class="figure">
+<img src="Pictures/Maps/Appothis.jpg" alt="" />
+<p class="caption">Karte von Appothis</p>
+</div>
 <ul>
-<li>Wüstendämonen erschaffen Sandstürme um reisende vom Weg abzubringen und zu fressen</li>
-<li>Rebellen/Banditen meistens entflohene sklaven oder extrem arme menschen recht verteilt durch die wüste</li>
-<li>Indigene Stämme in der Wüste, kopfgeld auf sie wegen eigener Religion und weil manche Stämme informationen über Asb’ Kartes vermächtniss haben</li>
-<li>Untotenarmee von rah kari bürgerkrieg - ca 100000 stark vlt mehr, Politikum zwischen kaiserlichem Geheimdienst und Inquisiton</li>
 <li>Zwerge in den Bergen, sehr misstrauisch weil sie unter Rah Kari knochenräuberei leiden</li>
 <li>Tunnelnetzwerk zwischen den Städten größer, weil wüste</li>
 </ul>
@@ -1747,44 +1779,110 @@ Orbis Astea
 <h2><span class="header-section-number">35.1</span> Ortschaften der Region<a href="appothis.html#ortschaften-der-region-14" class="anchor-section" aria-label="Anchor link to header"></a></h2>
 <div id="keshep" class="section level3 hasAnchor" number="35.1.1">
 <h3><span class="header-section-number">35.1.1</span> Keshep<a href="appothis.html#keshep" class="anchor-section" aria-label="Anchor link to header"></a></h3>
-<p>Größte Stadt der Region, Hauptstadt und Militärischer Holdout</p>
+<blockquote>
+<p>In Keshep währt sich die Bindung des Kah’ Fan und Tarkus Rah auf ewig, da es eine Stadt der Handwerker und Soldaten ist und wohl auch immer bleiben wird</p>
+<p>— Sprichwort der Rah’ Kari</p>
+</blockquote>
+<p>Keshep ist die älteste Siedlung der Rah Kari in Appothis und war seit ihrer Gründung die Hochburg der militärischen Macht der Rah Kari. Die Stadt liegt in der Mitte der Region und verfügt über Straßen, die nach Nebelhain und ins untere Appothis führen. Man sagt, dass Keshep die sicherste Stadt neben Atumpet ist, da Keshep dem großteil der Streitkräfte der Rah Kari beherbergt. Es heißt, dass jede andere Fraktion, die von Norden in das Gebiet der Rah Kari einmarschieren würde, beim ersten Anblick von Kesheps Mauern und ihren Streitkräften erzittern würde. Kesheps Mauern sind die massivsten der Welt und schon an sich eine der eindrucksvollsten Sehenswürdigkeiten, die die Welt zu bieten hat. Die einzigen Male, in der Kesheps Macht auf die Probe gestellt wurde, war während des Sklavenaufstandes, allerdings wurde auch währenddessen Keshep nie ernsthaft bedroht.</p>
+<p>Keshep ist nicht nur für seine militärische Stärke bekannt. Es beherbergt auch die besten und spezialisierten Handwerker in Rah Kari. Fast alle Materialien, die in Nebelhain gewonnen werden, werden durch Keshep transportiert oder verbleiben in Keshep. Aus diesem Grund halten sich viele Handwerker in der Stadt auf, da sie hier den besten Zugang zu diesen Ressourcen haben. Auf der anderen Seite bilden viele Reisende und Händler ihre Karawanen oder Reisegruppen in der Stadt, bevor sie zu ihren Expeditionen aufbrechen.</p>
 </div>
 <div id="quissa" class="section level3 hasAnchor" number="35.1.2">
 <h3><span class="header-section-number">35.1.2</span> Quissa<a href="appothis.html#quissa" class="anchor-section" aria-label="Anchor link to header"></a></h3>
-<p>Oasenstadt, Außenposten vor der eisenroten wüste (querverweis hier)</p>
+<p>Quissa soll die schönste Stadt in Appothis sein. Die Stadt ist von einer Oase umgeben und ist der letzte Fleck Zivilisation vor dem Wurmfall. Sie ist der Hotspot für Reisende, die versuchen, die geheimnisvolle Eisen rote Wüste zu erreichen. Viele Reisende beschreiben die Stadt als voll von Unterhaltung und Aufregung, genug, um selbst den Durst der größten Abenteurer zu stillen.</p>
+<p>Quissa mag zwar schön sein, aber seine Schönheit überschattet die vielen Gefahren, die es umgeben. Sie ist umgeben von sengender Wüste, Bergen voller Gefahren, Monster und dem sich ständig verändernden Wurmfall. Die Stadt ist mit 230 Jahren relativ jung, aber eine der am schnellsten wachsenden Städte in der gesamten Region.</p>
 </div>
 <div id="napnopet" class="section level3 hasAnchor" number="35.1.3">
 <h3><span class="header-section-number">35.1.3</span> Napnopet<a href="appothis.html#napnopet" class="anchor-section" aria-label="Anchor link to header"></a></h3>
-<p>Zusammengesetzt aus Napno (Wurm) und Pet(stadt).</p>
-<p>Steinmenschen in den Bergen, Trading hub mit zwergen, Sehenswürdigkeit, ins skelett von weltenwurm gebaut, Palast von Statthalter im Kopf</p>
+<p>Napnopet ist eines der größten Wunder von Appothis. Es ist eine Stadt, die in und um das Skelett eines mächtigen Weltwurms und vieler anderer Würmer gebaut wurde.</p>
+<p>Die Stadt fungiert als Handelsplatz zwischen den Rah Kari und den Zwergen im Süden und als eine der Raststätten vor Quissa. Die Stadt ist auch einer der einzigen touristischen Orte in Appothis und viele Menschen strömen in die Stadt, um all ihre Wunder zu sehen, vor allen den prächtigen Palast, der in den Kopf des Weltwurms gebaut wurde.</p>
+<p>Allerdings ist die Stadt nicht frei von Problemen, denn sie beherbergt viele Banden, die die Einwohner von Napnopet belästigen und bestehlen. Napnopet ist einer der größten Umschlagplätze für Illegale Substanzen in Appothis.</p>
 </div>
 <div id="bokarun-mine" class="section level3 hasAnchor" number="35.1.4">
 <h3><span class="header-section-number">35.1.4</span> Bokarun-Mine<a href="appothis.html#bokarun-mine" class="anchor-section" aria-label="Anchor link to header"></a></h3>
-<p>Größte Granit-Mine im Land der Rah’ Kari, Grund für Atumpets Wachstum.</p>
+<p>Die Bokarun-Mine befindet sich im Süden der Region und ist der wichtigste Dreh- und Angelpunkt für Baumaterial der Region. In der Bokarun-Mine werden Granit und einige andere Erze abgebaut, Atumpet wurde beispielsweise hauptsächlich vom Granit erbaut, der in der Mine gewonnen wird.</p>
+<p>Bokarun-Granit ist über die Zeit sündhaft teuer geworden, da er ein Statussymbol für die Prachtbauten der oberen Rah Kari geworden ist und mittlerweile wird er durch das ganze Reich der Rah Kari transportiert.</p>
 </div>
 <div id="esunpet-und-wisunpet" class="section level3 hasAnchor" number="35.1.5">
 <h3><span class="header-section-number">35.1.5</span> Esunpet und Wisunpet<a href="appothis.html#esunpet-und-wisunpet" class="anchor-section" aria-label="Anchor link to header"></a></h3>
-<p>Die beiden größeren Städte am Nebelhain, von großer militärischer und ökonomischer Bedeutung, beide gegründer um 100 nach Riga, Planstädte</p>
+<p>Esunpet und Wisunpet sind die einzigen größeren Städte, die an der Grenze zum Nebelhain liegen. Sie dienen beide als Kontrollpunkt und militärischer Außenposten für Appothis. Beide Städte wurden 100 Jahre vor Riga erbaut und haben seitdem nur an Bedeutung gewonnen. Ursprünglich wurden die Städte als Außenposten gebaut, um alle Aktivitäten in und aus dem Nebelhain zu überwachen und dienten als Ausgangspunkt für alle Expeditionen nach Nebelhain.</p>
+<p>Seitdem haben die Städte an wirtschaftlichem Wert gewonnen, da alle Waren und Gegenstände, die aus dem Nebelhain kommen, die Städte passieren müssen. Diese Waren gehören zu den wichtigsten Importen der Region, und viele Menschen wollen sie in die Hände bekommen. Esunpet und Wisunpet sind jedoch nicht die sichersten Orte in Appothis. Viele Gefahren gehen vom Nebelhain aus, weswegen in beiden Städten starke militärische Kräfte stationiert sind, falls sich Gefahren den Städten nähern sollten. Oftmals gibt es bedrohungen durch Monster, weswegen sich in diesen Städten oft Monsterjäger tummeln. Eine weitere Bedrohung sind die Schwarzmärkte in den Randgebieten der Stadt, wo viele illegale Waren an die Meistbietenden verkauft werden. Derartige Märkte haben immer die Angewohnheit kriminellen Abschaum anzuziehen der für Blut in den Straßen sorgt.</p>
 </div>
-<div id="infrastruktur-14" class="section level3 hasAnchor" number="35.1.6">
-<h3><span class="header-section-number">35.1.6</span> Infrastruktur<a href="appothis.html#infrastruktur-14" class="anchor-section" aria-label="Anchor link to header"></a></h3>
-<p>Die Große Infrastuktur ist die Straße nach Atumpet, die vor allem von den Hütern maintaied wird.</p>
+<div id="ahmes" class="section level3 hasAnchor" number="35.1.6">
+<h3><span class="header-section-number">35.1.6</span> Ahmes<a href="appothis.html#ahmes" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<p>Zwischen Keshep und den Bergen in der Nähe der Setra liegt eine alte Ruine namens Ahmes. Es wird angenommen, dass Ahmes die Stätte einer alten Zivilisation aus vergangenen Zeiten ist, in der Gelehrte die Worte der Götter entschlüsselten. Obwohl die Ruinen an der Oberfläche außergewöhnlich sind, sind es die Ruinen unter der Oberfläche, die den wahren Schatz von Ahmes darstellen.</p>
+<p>Unter der Oberfläche der Wüste erstreckt sich Ahmes tief in die Erde. In den endlosen Gängen von Ahmes findet sich eine unvorstellbare Menge an Text, und es heißt, dass es den Menschen noch nicht gelungen ist, die gesamte Ruine zu erforschen. Der berühmte Gelehrte Murdus sagte sogar, dass die Ruinen endlos sind. Die Gelehrten von heute haben immer wieder versucht, die Texte von Ahmes zu entziffern, jedoch ohne Erfolg. Die Texte können von keinem Menschen gelesen werden, und die Rah Kari haben sogar versucht, Forscher aus der ganzen Welt zu holen, um die Texte zu interpretieren, aber bisher ist es keinem gelungen. Jeder Mensch würde glauben, dass Ahmes schon mit genug Schwierigkeiten gefüllt ist, aber eine der größten Herausforderungen ist es, nach Ahmes zu gelangen, da die Ruinen manchmal in der Wüste verschwinden. Das hat dazu geführt, dass viele Menschen in den Ruinen gefangen waren und umgekommen sind. Die einzige Möglichkeit, die Ruinen zu finden, besteht darin, den Stamm der Hubasa zu finden und ihr Vertrauen zu gewinnen. Viele Gelehrte versuchen dies, aber der Stamm ist schwer zu finden, da sie die meiste Zeit unterwegs sind und nicht jeden für würdig erachten, Ahmes Geheimnisse zu erfahren.</p>
+</div>
+<div id="infrastruktur-14" class="section level3 hasAnchor" number="35.1.7">
+<h3><span class="header-section-number">35.1.7</span> Infrastruktur<a href="appothis.html#infrastruktur-14" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<p>Die sichersten und besten Straßen in Appothis sind die, die von und nach Keshep führen. Sie werden von den Händlern am meisten genutzt und häufig vom Militär patrouilliert.</p>
+<p>An zweiter Stelle nach den Straßen von Keshep stehen die Straßen rund um die Setra. Diese Straßen sind voll von Dorfbewohnern, die ihre Waren in die umliegenden größeren Städte verkaufen, und Karawanen, die all diese Waren nach Atumpet bringen. Die einzigen Straßen, die noch übrig sind, sind die nach Wurmfall. Diese Straßen sind bei weitem die gefährlichsten, da sie oft von Monstern und Banditen gesäumt werden.</p>
 </div>
 </div>
 <div id="die-geschichte-der-region-14" class="section level2 hasAnchor" number="35.2">
 <h2><span class="header-section-number">35.2</span> Die Geschichte der Region<a href="appothis.html#die-geschichte-der-region-14" class="anchor-section" aria-label="Anchor link to header"></a></h2>
-<p>Hauptschauplatz der Sklavenaufstände, weswegen die Armee der Untoten dort herrscht</p>
+<div id="frühgeschichte-von-appothis" class="section level3 hasAnchor" number="35.2.1">
+<h3><span class="header-section-number">35.2.1</span> Frühgeschichte von Appothis<a href="appothis.html#frühgeschichte-von-appothis" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<p>Die Geschichte von Appothis beginnt mit den Hu. Glücklicherweise ist von ihrer Geschichte aufgrund ihrer zahlreichen mündlichen Erzähler viel bekannt, obwohl sie im großen Spiel der Weltgeschichte eher un-ereignisreich erscheint. Die Hu waren ein Nomadenvolk welches sich vor allem der Reiterei und der Aufzucht von Pferden verschrieb. Noch heute lebt diese Tradition in Appothis und im Volk der Meth-Hu.</p>
+<p>Die Hu waren keine friedliebenden Nomaden sondern in vielen Fällen Hirten und Viehtreiber, die ihre Herden hin und wieder mal zum Räubern und Plündern verließen. So gibt es eine lange Reihe geschichten, welcher Hu-Stamm nun welchen Hu-Stamm nicht mochte oder welche Blutfehden die umfangsreichsten waren.</p>
+<p>Nach einiger Zeit entdeckten die Hu die Siedlungen an der Atum, welche Außenposten von Appothis waren und plünderten diese. Nach einiger Zeit schickte Atumpet Truppen, die allerings gegen die geübte Kavallerie der Hu wenig auszurichten vermochten. Die ausgesendeten Truppen führten die Hu allerdings nach Atumpet - eine Stadt, die die Hu in noch nie gesehenes Staunen versetzte, so war ihre Größe und ihre Pracht, vor allem für die Hu, die in ihrem Leben nicht mehr als Siedlungen von vielleicht 150 Mann gesehen hatten.</p>
+<p>Schnell begannen erste Hu-Stämme Atumpet anzugreifen um ihre unendlichen Reichtümer zu plündern. Nicht ein einziger Hu-Krieger konnte die Mauern Atumpets bezwingen.</p>
+<blockquote>
+<p>Wir wussten nicht wohin, unsere Pferde - im Feld ungeschlagen - wurden wie die Vögel geschossen von ihren Pfeilwerfern auf den Mauern. Wir kannten diese Art Kampf nicht.</p>
+<p>– Erzähler der Hu, Orenlan</p>
+</blockquote>
+<p>Der Gier der Hu, die auf die Reichtümer von Atumpet nicht verzichten wollten, wagten das Undenkbare - die Hu schlossen eine Allianz von über 120 Stämmen. Ein derartiges Truppenaufkommen hatten die Hu noch nie gesehen, über 11000 Mann, davon knapp 7000 Reiter - eine ihrer Meinung nach unschlagbar große Streitmacht.
+Die Hu-Allianz griff mit geeinten Kräften an - weniger als 1400 Krieger kehrten zurück, die Mauern Atumpets wurden nicht gebrochen.</p>
+<p>Diese Niederlage brach den Willen der Hu, und viele Stämme versammelten sich zwei Monde danach um die Lage zu beraten. Ein junger Stammesführer namens Kesh schaffte es den Großteil der Hu-Stämme davon zu überzeugen dass die einzige Möglichkeit in die Zukunft zu gehen war, es den Menschen aus Atumpet gleichzutun und selbst sesshaft zu werden.</p>
+<blockquote>
+<p>Wenn ihr leben wollt wie die Reichen aus Atumpet müsst ihr auch so handeln wie die Reichen aus Atumpet. Verlasst die alten Sippen und baut. Baut Häuser, Mauern, Felder und verlasst die Wege unserer Vorfahren</p>
+<p>– Kesh von den Hu</p>
+</blockquote>
+<p>Dieses Event wird allgemeinhin als das Ende der Hu gesehen. Sie spalteten sich auf in die Keshen, die sesshaft wurden und nach denen auch Keshep benannt wurde - und in die “wahren” Hu, die Meth-Hu, die bis heute als Nomaden in den Wüsten leben und geschichtlich bedeutungslos sind.</p>
+</div>
+<div id="die-zeit-vor-den-rah-kari" class="section level3 hasAnchor" number="35.2.2">
+<h3><span class="header-section-number">35.2.2</span> Die Zeit vor den Rah’ Kari<a href="appothis.html#die-zeit-vor-den-rah-kari" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<p>Die Keshen gründeten Keshep, die bis heute zweitgrößte Stadt im Süden, ebenso wie viele andere Siedlungen in Appothis, alles als voneinander unabhängige Stadtstaaten mit losen Bündnissen und Feindschaften. Sie behielten noch immer ihre Vorliebe für die Pferdezucht, sollten darin allerdings nie wieder so gut werden wie die Hu es waren oder die Meth-Hu es noch heute sind.
+Diese Zeit der Geschichte wird heute vor allem als Aufbauzeit gesehen, über die allerdings nicht so viel bekannt ist, da die Erzähler-Tradition der Hu dem kulturellen Wandel der Keshen zum Opfer fiel und die institution der Geschichtsschreibung erst mit den Rah’ Kari wieder nach Appothis zurückkehrte. Funden nach zu urteilen allerdings versuchten die Keshen noch häufiger erfolglos Atumpet anzugreifen, ein Vorhaben dem viele junge Keshen zum Opfer fielen.</p>
+<p>Als die Rah’ Kari Atumpet vom Westen her einnahmen merkten die Keshen, dass sie gegen die große Macht der Rah’ Kari eine geeinte Armee brauchten, so versammelten sie sich wieder, wobei sich der Sharif von Quissa - Amair - als Anführer durchsetzen konnte.</p>
+</div>
+<div id="der-einmarsch-der-rah-kari" class="section level3 hasAnchor" number="35.2.3">
+<h3><span class="header-section-number">35.2.3</span> Der Einmarsch der Rah’ Kari<a href="appothis.html#der-einmarsch-der-rah-kari" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<p>Dieses Kapitel deckt sich mit dem <a href="RahKari.html#KriegDerUnterenWueste">Krieg der unteren Wüste der Rah’ Kari</a> und ist dort nachzulesen. Nach einem langen hin und her wurden die Streitkräfte der Keshen geschlagen und die Keshen lösten sich nach und nach in die Rah’ Kari auf. Das Schlachtfeld ist der Geburtsort der <a href="appothis.html#verloreneArmee">verlorenen Armee</a></p>
+</div>
+<div id="die-sklavenaufstände" class="section level3 hasAnchor" number="35.2.4">
+<h3><span class="header-section-number">35.2.4</span> Die Sklavenaufstände<a href="appothis.html#die-sklavenaufstände" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<p>Ähnlich wie beim <a href="RahKari.html#SklavenaufstandRahKari">größeren Aufstand in Eid’ Rah’ Kari</a> entkamen auch in Atumpet viele Sklaven und flohen in die Wüste, wo sie viel Unterstützung von den Meth-Hu bekamen - eine Tat weswegen die Meth-Hu auch heute noch bei vielen der Rah’ Kari verhasst sind. Viele Sklavengruppierungen wurden von den Hütern gefunden und ausgelöscht, wieder andere schlossen sich den Meth-Hu an.</p>
+<p>Die größte Sklavenarmee unter einem Sklaven namens Kah’Leih wurde mit klugen Manövern der Hüter in die <a href="appothis.html#verloreneArmee">verlorene Armee</a> gelockt, wo sie ein grausames Ende fanden und die Armee der untoten nochmals verstärkt haben.</p>
+</div>
 </div>
 <div id="wirtschaftliche-lage-17" class="section level2 hasAnchor" number="35.3">
 <h2><span class="header-section-number">35.3</span> Wirtschaftliche Lage<a href="appothis.html#wirtschaftliche-lage-17" class="anchor-section" aria-label="Anchor link to header"></a></h2>
 <div id="die-ressourcen-der-region-13" class="section level3 hasAnchor" number="35.3.1">
 <h3><span class="header-section-number">35.3.1</span> Die Ressourcen der Region<a href="appothis.html#die-ressourcen-der-region-13" class="anchor-section" aria-label="Anchor link to header"></a></h3>
-<p>Granit, Agrarnutzung an Setra und Atum, Keramik</p>
+<p>Die größte und wichtigste Ressource in Appothis ist Granit aus der Bokarun-Mine. Der Granit wird hauptsächlich für den Bau in Appothis und anderen Städten wie Keshep verwendet. Auch andere Erze und Mineralien werden aus der Mine gewonnen, jedoch nicht in der Menge wie Granit.
+Ein weiteres Exportgut der Region ist Keramik. Keramik wird in vielen kleineren Städten hergestellt, aber die besten und elegantesten Exemplare werden in Keshep hergestellt und verkauft. Zu den anderen Produkten gehören Lebensmittel, die in allen Dörfern in der Nähe von Setra geerntet werden, sowie Monstermaterial und kleinere Konstrukte von den Zwergen im Süden. Nicht zuletzt werden in dieser Region auch viele Sklaven gefangen, geboren und verkauft.</p>
 </div>
 </div>
 <div id="soziopolitische-lage-19" class="section level2 hasAnchor" number="35.4">
 <h2><span class="header-section-number">35.4</span> Soziopolitische Lage<a href="appothis.html#soziopolitische-lage-19" class="anchor-section" aria-label="Anchor link to header"></a></h2>
-<p>Keshep als Hauptmilitärstadt der Rah kari, Stadt des Sohns des Tarkus</p>
+<p>Das politische Umfeld von Appothis dreht sich zu einem großen Teil um Keshep und seine Bedrohungen. Einige dieser Bedrohungen ist die verlorenen Armee, eine Armee von 100.000 Untoten, die die Wüsten durchstreift. Kesheps Truppen müssen die Armee ständig im Auge behalten, um sie von allen Siedlungen fernzuhalten.
+Eine weitere Bedrohung sind die Rebellen des 9. Kultes. Es heißt, dass die größten Rebellengruppen in dieser Region zu finden sind und es nicht ungewöhnlich ist, dass sie Siedlungen überfallen.</p>
+<p>Außerdem halten sich der Sohn von Tarkus Rah und der Sohn von Kah’ Fan traditionell meist in Keshep auf, wodurch deren Sicherheit und Vorhaben an hoher Stele stehen.</p>
+<div id="verloreneArmee" class="section level3 hasAnchor" number="35.4.1">
+<h3><span class="header-section-number">35.4.1</span> Die verlorene Armee<a href="appothis.html#verloreneArmee" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<p>In Appothis gibt es eine Armee von circa. 100.000 Untoten. Diese Schar entstand während des Sklavenaufstandes und ist dem Staat seither ein Dorn im Auge, da er ständig Ressourcen aufwenden muss, um die Armee davon abzuhalten, in seine Städte und Dörfer einzudringen. Bislang ist der Staat von Katastrophen im Zusammenhang mit der Armee verschont geblieben, doch der Geheimdienst und die Inquisition des Reiches tappen stets im Dunkeln und versuchen, die Armee als Waffe gegen die Rah Kari einzusetzen.</p>
+</div>
+<div id="weitere-gruppierungen-in-appothis" class="section level3 hasAnchor" number="35.4.2">
+<h3><span class="header-section-number">35.4.2</span> Weitere Gruppierungen in Appothis<a href="appothis.html#weitere-gruppierungen-in-appothis" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<div id="rebellen-und-banditen" class="section level4 hasAnchor" number="35.4.2.1">
+<h4><span class="header-section-number">35.4.2.1</span> Rebellen und Banditen<a href="appothis.html#rebellen-und-banditen" class="anchor-section" aria-label="Anchor link to header"></a></h4>
+<p>Appothis beherbergt im Vergleich zu den Regionen von Rah Kari außergewöhnlich viele Banditen und Rebellen. Die Wüste erweist sich oft als natürliches Versteck für diese Leute, da es oft unmöglich ist, sie über eine große Entfernung zu verfolgen. Die meisten von ihnen sind entweder entlaufene Sklaven oder extrem arme Menschen, die nirgendwo anders hin können und versuchen, ein besseres Leben zu finden, indem sie sich dem Banditentum zuwenden.</p>
+</div>
+<div id="die-meth-hu" class="section level4 hasAnchor" number="35.4.2.2">
+<h4><span class="header-section-number">35.4.2.2</span> Die Meth-Hu<a href="appothis.html#die-meth-hu" class="anchor-section" aria-label="Anchor link to header"></a></h4>
+<p>Die Meth-Hu sind das einheimische Volk von Appothis, das heute nur noch aus Nomadenstämmen besteht, die über Appothis verstreut leben. Dieses Volk ist gegenüber Außenstehenden äußerst vorsichtig und versucht, jeden zu meiden, den es nicht kennt. Die Meth-Hu teilen nicht dieselbe Religion wie der Rest von Rah Kari. Sie glauben an andere Götter, was sie zu einer ständigen Zielscheibe macht und dazu führt, dass Kopfgeldjäger oft versuchen, sie zu jagen, um die Belohnung für jeden Meth-Hu-Kopf zu erhalten. Außerdem glaubt man, dass die Meth-Hu das Wissen um Asb’ Kartes’ Vermächtnis in sich tragen, und deshalb suchen viele Menschen nach ihnen, um diese Informationen zu erhalten. Sei es von Leuten, die sie unterstützen, oder von Leuten, die wegen ihres Wissens hinter ihnen her sind.</p>
+</div>
+</div>
 </div>
 <div id="klimatische-bedingungen-15" class="section level2 hasAnchor" number="35.5">
 <h2><span class="header-section-number">35.5</span> Klimatische Bedingungen<a href="appothis.html#klimatische-bedingungen-15" class="anchor-section" aria-label="Anchor link to header"></a></h2>
@@ -1793,15 +1891,29 @@ Orbis Astea
 <h3><span class="header-section-number">35.5.1</span> Die Flora und Fauna<a href="appothis.html#die-flora-und-fauna-14" class="anchor-section" aria-label="Anchor link to header"></a></h3>
 <div id="monster-in-der-region-15" class="section level4 hasAnchor" number="35.5.1.1">
 <h4><span class="header-section-number">35.5.1.1</span> Monster in der Region<a href="appothis.html#monster-in-der-region-15" class="anchor-section" aria-label="Anchor link to header"></a></h4>
+<div id="sanddämonen" class="section level5 unnumbered hasAnchor">
+<h5>Sanddämonen<a href="appothis.html#sanddämonen" class="anchor-section" aria-label="Anchor link to header"></a></h5>
+<p>In Appothis gibt es viele Raubtiere, die sich auf die Menschen stürzen, aber eines der berüchtigtsten sind die Sanddämonen. Diese Kreaturen lauern in Sandstürmen, die sie irgendwie kontrollieren und erzeugen können, eine Tat, die bisher kein Gelehrter erklären konnte. Sie nutzen die Sandstürme, um die Menschen von ihrem Weg abzubringen, und arbeiten dann mit anderen Raubtieren zusammen, um die Menschen zu töten.</p>
+</div>
 </div>
 </div>
 </div>
 <div id="gerüchte-der-region-14" class="section level2 hasAnchor" number="35.6">
 <h2><span class="header-section-number">35.6</span> Gerüchte der Region<a href="appothis.html#gerüchte-der-region-14" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<div id="die-sandschildkröten" class="section level3 hasAnchor" number="35.6.1">
+<h3><span class="header-section-number">35.6.1</span> Die Sandschildkröten<a href="appothis.html#die-sandschildkröten" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<p>Man sagt, dass Sand mit der Zeit alles verflacht und dass das Einzige, was nach Hunderten von Jahren noch übrig ist, die Legenden der Vergangenheit sind. Eine dieser Legenden ist die Geschichte von der Sandschildkröte. Die Menschen glauben, dass es irgendwo in der Wüste, in der Nähe der Eisernen Roten Wüste, eine riesige Sandschildkröte gibt. Gelingt es einem Reisenden, 3 Fragen zu erraten, so kann er von den Tränen der Schildkröte trinken. Man sagt, wenn jemand die Tränen dieses Tieres trinkt, sieht er Visionen von einem sicheren Weg durch den Wurmfall. Viele Menschen glauben, dass die ersten Reisenden, denen es gelang, in die Eiserne Rote Würste zu gelangen, diese Methode benutzten, um lebendig zurückzukehren, und noch heute suchen die Menschen nach der Sandschildkröte, um einen Weg in das rote Paradies der Wüste zu finden.</p>
+<p>Viele vorherrschende Völker haben versucht, die Sandschildkröte aufzuspüren, um sichere Reisewege und Handelsrouten in die Eisen Rote Wütse zu erhalten. Einer dieser Männer war Fesri vom Handelsweg, der für seinen Handel zwischen Eid’ Tanis und Eid Rah Kari berühmt war. Fesri investierte eine große Summe seines Vermögens in dieses Unterfangen und hunderte von Männern begannen, an dieser Aufgabe zu arbeiten. Doch diese Aufgabe wurde dem großen Händler schließlich zum Verhängnis, da es sich als unmöglich erwies, die Sandschildkröte zu finden. Viele Menschen starben in der Wüste und viele andere verschwanden nahe der Grenze des Wurmfalls und es dauerte nicht lange, bis Fesri keine Leute mehr fand, die für ihn arbeiteten und nach einigen Jahren wurde das Projekt aufgegeben.</p>
 </div>
-<div id="sehenswürdigkeiten-15" class="section level2 hasAnchor" number="35.7">
-<h2><span class="header-section-number">35.7</span> Sehenswürdigkeiten<a href="appothis.html#sehenswürdigkeiten-15" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<div id="ol-talib" class="section level3 hasAnchor" number="35.6.2">
+<h3><span class="header-section-number">35.6.2</span> Ol Talib<a href="appothis.html#ol-talib" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<p>Legenden erzählen von einem geheimnisvollen alten Mann, der Reisenden hilft, die Wüste zu durchqueren. Dieser Mann ist nur wenige Male in der Geschichte erwähnt worden, aber alle Berichte sagen dasselbe. Dieser Mann hat ein Schiff, mit dem er die Wüste durchqueren kann, und in den Aufzeichnungen heißt es, dass der Wind ihn überall hin begleitete. Außerdem nennt sich der Mann Ole Talib und wurde zuletzt im Jahr 1900 gesehen, als er einer Gruppe von Reisenden half, die sich auf dem Weg zur “Oasenstadt” verirrt hatten.</p>
+</div>
+<div id="die-sumpfzähne" class="section level3 hasAnchor" number="35.6.3">
+<h3><span class="header-section-number">35.6.3</span> Die Sumpfzähne<a href="appothis.html#die-sumpfzähne" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<p>Der gesamte Handel aus Nebelhain ist in Appothis stark reglementiert. Viele Krankheiten können durch Gegenstände und Waren aus dem Nebelhain nach Appothis eingeschleppt werden, so dass es äußerst schwierig geworden ist, Waren von dort zu erwerben. Eine Gruppe von Schmugglern hat es jedoch immer wieder geschafft, sich an den Sicherheitskräften von Rah Kari vorbeizuschleichen und Waren auf den Schwarzmarkt des Landes zu bringen. Diese Gruppe nennt sich die Sumpfzähne und wird von dem berüchtigten Anführer Set-em-ash angeführt. Set-em-ash war früher ein legendärer Bogenschütze in der Armee von Rah Kari und die Leute sagten, dass er als Pferdebogenschütze unübertroffen sei. Nachdem sein General ihn und seine Einheit jedoch blindlings in eine Schlacht schickte, die nur er und drei andere überlebten, verlor er seinen Glauben an das Militär. Danach wurde er ein Räuber und Bandit, der dank seiner militärischen Kenntnisse viel Erfolg hatte, aber erst als er begann, seine Mannschaft nach Nebelhain zu führen, erlangte er Berühmtheit. Set-em-ash wagte sich in die Ruinen von Nebelhain und seine verlorenen Städte und erwarb dort verschiedene Wertgegenstände. Außerdem heuerten die Leute ihn und seine Mannschaft an, um andere Waren und Materialien ins Land zu schmuggeln, die sonst nicht zu bekommen gewesen wären. Einige reiche und einflussreiche Familien setzten ihn sogar ein, um Familienerbstücke und andere wichtige Gegenstände von einflussreichen Familien zurückzuholen, die früher dort lebten, wo sich heute Nebelhain befindet. Viele Menschen glaubten, Set-em-ash habe sich mit dem Stamm der Animali verbündet, um die Sümpfe von Nebelhain zu erobern. Das Kopfgeld, das auf die Sumpfzähne ausgesetzt ist, ist enorm, doch bis jetzt ist es keinem Kopfgeldjäger, Abenteurer oder gar dem Militär gelungen, die Gruppe zu fangen, und bis dahin werden sie eine der legendärsten Gruppen von Gesetzlosen bleiben, die die Ebenen von Appothis durchstreifen.</p>
 
+</div>
 </div>
 </div>
             </section>

@@ -205,11 +205,11 @@ Sie entschieden, dass Tote - wie Kha'fan von den Schlüsseln und wie unter Asb'K
 Die Rah Kari begannen daran zu glauben, dass die Schlüssel nun auf dem H'Abunaptra als Götter weilten und dort über sie richteten und die Toten im nachleben leiteten und schützten.
 
 
-### Der Krieg der unteren Wüste
+### Der Krieg der unteren Wüste {#KriegDerUnterenWueste}
 
 Nachdem die Rah Kari sich nach dem Verschwinden der Schlüssel neu formiert hatten sahen sie die Notwendigkeit die strategische Position Atumpets zu sichern. Anhand der Tatsache, dass die Steppen sehr weitläufig und gut zugängig waren musste eine Pufferzone zwischen möglichen Bedrohungen und der Hauptstadt Atumpet geschaffen werden. 
 
-So zogen die Rah Kari in den Krieg in die ewige Steppe Appothis, wo sich die Nomadenstämme unter einem Sharifen namens Amair geeint hatten. 
+So zogen die Rah Kari in den Krieg in die ewige Steppe Appothis, wo sich die ehemaligen Nomadenstämme unter einem Sharifen namens Amair geeint hatten. 
 Beide Fraktionen waren ungefähr gleich stark und der daraus folgende Konflikt sollte die Frage, welches Reich im Süden langfristig dominieren würde, entscheiden.
 
 Die Armee Amairs bestand fast ausschließlich aus Kavallerie, während die Rah Kari eine gleich große, aber infanterielastigere Armee hatten.
@@ -219,7 +219,7 @@ Die Armee Amairs bestand fast ausschließlich aus Kavallerie, während die Rah K
 In den folgenden Monaten nutzten die Rah Kari Informationen der Hüter um Nachschublinien und Wasservorräte ihrer Gegner gezielt anzugreifen und den Bewegungsradius der mobileren Armee Anairs zu verringern. Ansonsten scheuten die Rah Kari das offene Gefecht außer wenn sie im Vorteil waren - eine Strategie die sie heutzutage perfektioniert haben.
 Nach mehreren Monaten des Katz und Maus spielens kam es schließlich zu einer größeren Konfrontation. Die Armee des Amair leidete schon seit Wochen durch die Aktionen der Rah Kari an einem Mangel an Vorräten, des weiteren hatten sie dir schlechtere Geographische Position.  Diese Vorteile nutzten die Rah Kari aus und fielen über die schwächere Armee her. Amair kapitulierte 6 Stunden nach Beginn der Schlacht.
 
-Da der Transport von Leichen durch die Wüste nicht allzu einfach ist ist das Schlachtfeld bis heute ein Platz, an dem es von Erwachten nur so wimmelt. Da es allerdings weit von allen wichtigen Städten und Straßen der Rah Kari entfernt ist wird diese Ansammlung lebender Leichen weitestgehend ignoriert. 
+Da der Transport von Leichen durch die Wüste nicht allzu einfach ist ist das Schlachtfeld bis heute ein Platz, an dem es von Erwachten nur so wimmelt und das heute als Ursprung [der verlorenen Armee](#verloreneArmee) gesehen wird. Da es allerdings weit von allen wichtigen Städten und Straßen der Rah Kari entfernt ist wird diese Ansammlung lebender Leichen weitestgehend ignoriert. 
 
 ![Die Mauern von Keshep](Pictures/Flavor/Platzhalter/Keshep.jpg)
 
@@ -243,7 +243,7 @@ Das Gebiet gewann durch den Felsensturz, der die Knochenfeld-Schlucht schaffte n
 Auch in den Nebelhain und damit nach Eldria wurden einige Expeditionen gestartet. Allerdings waren die Rohstoffe, die dadurch extrahiert werden konnten das Risiko nicht Wert, das die Reise durch den Nebelhain darstellte. Bei der ersten Expedition brachen über 800 Soldaten, Händler und Forscher von Keshep in Richtung Nebelhain auf. Von diesen 800 Menschen kamen gerade mal 120 in Eldria an - und das meiste was sie an Proviant und Waren mit sich hatten ist im Nebelhain verschollen. 
 Obwohl die Rah Kari weiterhin oft versuchten, regelmäßige Handelsbeziehungen mit Eldria aufzubauen machte der Nebelhain dies weitestgehend unmöglich, und nur die mutigsten privaten Händler versuchen den Nebelhain als Transportweg zu nutzen.
 
-### Der Aufstand der Sklaven
+### Der Aufstand der Sklaven {#SklavenaufstandRahKari}
 
 Wie die meisten bisherigen Leser wissen gibt es bei den Rah Kari acht Gottheiten, diese sind die Schlüssel mit Ausnahme des Asb'Kartes. Doch in ihrem Hass auf das Regime der Rah Kari und ihren Stand in der Gesellschaft stilisierten mehr und mehr der gesellscchaftlich niedrigen Bürger - vor allem der Sklaven - Asb'Kartes zum heroischen Feind der Ordnung der Rah Kari herauf, und so wurde aus einem Verräter ien Symbol für Freiheit, die Herrschaft über sich selbst und eine System frei von religiösen Regularien und den Zwängen des Pfades. Diese interpretation des Asb'Kartes gewann immer mehr und mehr Zuspruch und wurde weitläufig als Gott verehrt. 
 Die Hüter sahen die Gefahr als erstes, schlugen früh Alarm und begannen, die Kulte des Asb'Kartes zu finden und auszumerzen, doch waren sie schnell zu zahlreich als dass sie der Hüterkult in seiner damaligen Form hätte aufhalten können. 
@@ -259,7 +259,7 @@ Damals hatten Kämpfer noch relativ freien Zugang zu Waffen, weswegen es ihnen e
 Bald hatte die Gruppe unter dem Eldrier - der zu einem Held der Sklaven wurde - sämtliche Sklaven Nusrains befreit. Mehr und mehr erfolgreiche wie unerfolgreiche Sklavenaufstände durchzogen das Reich der Rah Kari.
 Und so kam es, dass die entflohenen Sklaven eine Armee aufstellen konnten, die über 50000 Bewaffnete zählte. Sie besiegten drei kleinere Armeen der Rah Kari im Feld, jedoch verfügten weder sie, noch die Armeen der Rah Kari mit denen Jagd auf sie gemacht wurde, über größere Kontingente berittener Krieger.
 
-Dies sollte sich ändern, als der neue Großprimarch - der Hohepriester des Kultes des Tarkus Rah - eine eigene Armee speziell für die Sklavenjagd aufstellte. Diese Armee war eine enorm mobile Einsatztruppe, hauptsächlich aus Kavallerie und besonders schnellen Kampfkonstrukten zusammengesetzt. Als Infanterieunterstützung wurden die Reste der besiegten Armeen zusammengezogen. Sie stellten die Sklavenarmee erneut und fungierten als Köder, damit die mobilen Kräfte der Sklavenarmee in die Flanken oder den Rücken fallen konnten.
+Dies sollte sich ändern, als der neue Sohn des Tarkus - der Hohepriester des Kultes des Tarkus Rah - eine eigene Armee speziell für die Sklavenjagd aufstellte. Diese Armee war eine enorm mobile Einsatztruppe, hauptsächlich aus Kavallerie und besonders schnellen Kampfkonstrukten zusammengesetzt. Als Infanterieunterstützung wurden die Reste der besiegten Armeen zusammengezogen. Sie stellten die Sklavenarmee erneut und fungierten als Köder, damit die mobilen Kräfte der Sklavenarmee in die Flanken oder den Rücken fallen konnten.
 Die Sklavenarmee verlor bereits nach wenigen gezielten angriffen jede Koordination. Panik brach aus und die vorher siegreichen Sklaven gaben jede Formation auf und versuchten in alle möglichen Himmelsrichtungen zu fliehen. Doch die mobileren Kräfte der Rah Kari setzten ihnen nach und töteten jeden einzelnen. Von den Sklaven überlebten diese Schlacht nur in etwa 8000. Weitere 2000 erlagen Verletzungen und weiterer Verfolgung durch die Rah Kari, doch einige schafften es in die Graue Ödnis zu fliehen, wo es noch heute Nachkommen entflohener Sklaven oder frische entflohene Sklaven gibt.
 
 ![Ein Kämpfer für den Pfad des Amdju in kunstvoller Rüstung](Pictures/Flavor/Platzhalter/GladiatorRahKari.jpg)
@@ -273,7 +273,7 @@ Durch den Fokus wurden die Hüter für die Rah Kari staatstragend und sind ihre 
 Nach knapp 200 Jahren des Friedens - wenn auch eines Friedens der durch die Hüter und deren Verfolgung andersdenkender oppressiv aufrechterhalten wurde - kam es zu dem Konflikt der als der "große Krieg" bekannt wurde. 
 Die Höchsten der Rah Kari waren nach der Eroberung Eldrias durch das Kaiserreich sehr beunruhigt darüber, wie aggressiv und expansiv das Kaiserreich sich verhielt. So entschlossen sie sich einen Präventivschlag gegen wichtige militärische kaiserliche Infrastruktur vorzunehmen und damit das Potential des Kaiserreichs Kriege zu führen für lange Zeit zu verringern.
 
-Die Rah Kari begannen den Krieg gleichzeitig an zwei Fronten, sowohl in Eldria als auch durch die Knochenfeld-Schlucht griffen sie das Kaiserreich an. Allerdings wurde der Angriff in Nors durch das Kaiserreich hart zurückgeschlagen. Der genaue Ablauf des Krieges wird in der <font color="green">[Geschichte des Kaiserreichs genauer beschrieben und findet sich hier](#KaisGroKrieg)</font>. Ein Kaiserlicher Gegenangriff konnte allerdings durch die starke Befestigung der Knochenfeld-Schlucht zu Seiten der Rah Kari abgewehrt werden.
+Die Rah Kari begannen den Krieg gleichzeitig an zwei Fronten, sowohl in Eldria als auch durch die Knochenfeld-Schlucht griffen sie das Kaiserreich an. Allerdings wurde der Angriff in Nors durch das Kaiserreich hart zurückgeschlagen. Der genaue Ablauf des Krieges wird in der [Geschichte des Kaiserreichs genauer beschrieben und findet sich hier](#KaisGroKrieg). Ein Kaiserlicher Gegenangriff konnte allerdings durch die starke Befestigung der Knochenfeld-Schlucht zu Seiten der Rah Kari abgewehrt werden.
 
 ![Die Kavallerie der Rah Kari](Pictures/Flavor/Platzhalter/RahKavallerie.jpg)
 

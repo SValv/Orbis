@@ -22,8 +22,130 @@ Die besondere Rolle der Religion sorgt auch dafür, dass religiöse Institutione
 
 ![eine Priesterin der Rah Kari bei der Salbung eines Toten](Pictures\\Flavor\\Platzhalter\\Platzhalter_RhaKariPriesterin.jpg)
 
-## Die Geschichte Orbis Asteras
+## Die Geschichte Orbis Asteas
 
-![Ein Zeitstrahl über die Geschehnisse von Orbis Astera](Pictures\\Flavor\\Timeline.png)
+```{css , echo= F}
+
+
+.vis-timeline {
+  border: 2px solid grey;
+  font-size: 13pt;
+  background: #FDF6E3;
+}
+
+.vis-item {
+  border-color: darkgrey;
+  background-color: #FDF6E3;
+  font-size: 11pt;
+  color: black;
+  box-shadow: 3px 3px 12px rgba(128,128,128, 0.5);
+}
+
+ .vis-item,
+ .vis-item.vis-line {
+  border-width: 2px;
+}
+
+ .vis-item.vis-dot {
+  border-width: 6px;
+  border-radius: 6px;
+}
+
+ .vis-item.vis-selected {
+  border-color: black;
+  background-color: darkred;
+  color: black;
+}
+
+ .vis-background .vis-minor.vis-odd {
+  background: blue;
+}
+
+ .vis-time-axis .vis-text {
+  color: darkred;
+  padding-top: 10px;
+  padding-left: 10px;
+}
+
+ .vis-time-axis .vis-grid.vis-minor {
+  border-width: 1.5px;
+  border-color: grey;
+}
+
+ .vis-time-axis .vis-grid.vis-major {
+  border-width: 3px;
+  border-color: black;
+}
+```
+
+
+```{r cars, echo=FALSE}
+library(lubridate)
+library(timevis)
+
+
+df = read_xlsx(bookdownallgdatapfad, sheet="TimelineData")
+
+timeLinePrep = function(df) {
+  df$Start = as.character(as.Date(df$Start, format = "%d.%m.%Y"))
+  for (i in 1:nrow(df)) {
+    if (df$RichtungStart[i] == "VR") {
+      df$Start[i] = paste0("-00", df$Start[i])
+    }
+  }
+  
+  df$Ende = as.character(as.Date(df$Ende, format = "%d.%m.%Y"))
+  for (i in 1:nrow(df)) {
+    if (!is.na(df$Ende[i])) {
+      if (df$RichtungEnde[i] == "VR") {
+        df$Ende[i] = paste0("-00", df$Ende[i])
+      }
+    } else {
+      df$Ende[i] = NA
+    }
+  }
+  
+  df = df %>% select(-c(RichtungStart, RichtungEnde)) %>%
+    rename(
+      start = Start,
+      content = Ereignisname,
+      end = Ende,
+      title = Kurzerklärung,
+      group = Relevanzgruppe
+    ) 
+  
+  dfg = df %>% select(group) %>%
+    distinct() %>% mutate(id = group) %>%
+    rename(content = group)
+  
+  return(list(df, dfg))
+}
+
+stylecap= "background-color: brown;"
+
+df = timeLinePrep(df)
+
+config <- list(
+      editable = F,
+      align = "center",
+      orientation = "both",
+      snap = NULL
+      #margin = list(item = 30, axis = 50)
+    )
+
+tva = df[[1]] %>% timevis(df[[2]], options = config) %>%
+  fitWindow() %>%
+  setCurrentTime("0426-1-1")
+```
+
+
+```{r, fig.width= 8}
+tva
+```
+
+
+
+
+![Ein Zeitstrahl über die Geschehnisse von Orbis Astea](Pictures\\Flavor\\Timeline.png)
 
 [^JimmyNijsLich]: "Lich" von [JimmyNijs](https://www.deviantart.com/jimmynijs/art/Lich-634417921). Dieses Artwork steht unter einer Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 License.

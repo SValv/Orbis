@@ -72,6 +72,24 @@ Orbis Astea
 <script src="libs/lfx-draw-1.0.2/lfx-draw-prod.js"></script>
 <script src="libs/lfx-draw-1.0.2/lfx-draw-bindings.js"></script>
 <script src="libs/lfx-draw-drag-1.0.2/lfx-draw-drag-prod.js"></script>
+<link href="libs/visjs-7.4.9/vis-timeline-graph2d.min.css" rel="stylesheet" />
+<script src="libs/visjs-7.4.9/vis-timeline-graph2d.min.js"></script>
+<link href="libs/timeline-0.4/timevis.css" rel="stylesheet" />
+<script src="libs/timevis-binding-2.0.0/timevis.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
+<script src="libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
 <script src="libs/core-js-2.5.3/shim.min.js"></script>
 <script src="libs/react-17.0.0/react.min.js"></script>
 <script src="libs/react-17.0.0/react-dom.min.js"></script>
@@ -101,7 +119,7 @@ Orbis Astea
 <ul>
 <li class="chapter" data-level="2.1" data-path="Allgemeines.html"><a href="Allgemeines.html#das-erwachen"><i class="fa fa-check"></i><b>2.1</b> Das Erwachen</a></li>
 <li class="chapter" data-level="2.2" data-path="Allgemeines.html"><a href="Allgemeines.html#die-rolle-der-religion"><i class="fa fa-check"></i><b>2.2</b> Die Rolle der Religion</a></li>
-<li class="chapter" data-level="2.3" data-path="Allgemeines.html"><a href="Allgemeines.html#die-geschichte-orbis-asteras"><i class="fa fa-check"></i><b>2.3</b> Die Geschichte Orbis Asteras</a></li>
+<li class="chapter" data-level="2.3" data-path="Allgemeines.html"><a href="Allgemeines.html#die-geschichte-orbis-asteas"><i class="fa fa-check"></i><b>2.3</b> Die Geschichte Orbis Asteas</a></li>
 </ul></li>
 <li class="part"><span><b>II Die Rassen in Orbis Astea</b></span></li>
 <li class="chapter" data-level="3" data-path="menschen.html"><a href="menschen.html"><i class="fa fa-check"></i><b>3</b> Menschen</a>
@@ -324,14 +342,14 @@ Orbis Astea
 <li class="chapter" data-level="13.1.7" data-path="RahKari.html"><a href="RahKari.html#die-suche-nach-dem-schlüssel"><i class="fa fa-check"></i><b>13.1.7</b> Die Suche nach dem Schlüssel</a></li>
 <li class="chapter" data-level="13.1.8" data-path="RahKari.html"><a href="RahKari.html#der-tod-eines-traumes"><i class="fa fa-check"></i><b>13.1.8</b> Der Tod eines Traumes</a></li>
 <li class="chapter" data-level="13.1.9" data-path="RahKari.html"><a href="RahKari.html#das-reich-des-südens"><i class="fa fa-check"></i><b>13.1.9</b> Das Reich des Südens</a></li>
-<li class="chapter" data-level="13.1.10" data-path="RahKari.html"><a href="RahKari.html#der-krieg-der-unteren-wüste"><i class="fa fa-check"></i><b>13.1.10</b> Der Krieg der unteren Wüste</a></li>
+<li class="chapter" data-level="13.1.10" data-path="RahKari.html"><a href="RahKari.html#KriegDerUnterenWueste"><i class="fa fa-check"></i><b>13.1.10</b> Der Krieg der unteren Wüste</a></li>
 <li class="chapter" data-level="13.1.11" data-path="RahKari.html"><a href="RahKari.html#die-expeditionen"><i class="fa fa-check"></i><b>13.1.11</b> Die Expeditionen</a>
 <ul>
 <li class="chapter" data-level="" data-path="RahKari.html"><a href="RahKari.html#die-expeditionen-in-die-eisenrote-wüste"><i class="fa fa-check"></i>Die Expeditionen in die eisenrote Wüste</a></li>
 <li class="chapter" data-level="" data-path="RahKari.html"><a href="RahKari.html#die-expedition-ins-himmelsspitzen-gebirge"><i class="fa fa-check"></i>Die Expedition ins Himmelsspitzen-Gebirge</a></li>
 <li class="chapter" data-level="" data-path="RahKari.html"><a href="RahKari.html#andere-expeditionen"><i class="fa fa-check"></i>Andere Expeditionen</a></li>
 </ul></li>
-<li class="chapter" data-level="13.1.12" data-path="RahKari.html"><a href="RahKari.html#der-aufstand-der-sklaven"><i class="fa fa-check"></i><b>13.1.12</b> Der Aufstand der Sklaven</a></li>
+<li class="chapter" data-level="13.1.12" data-path="RahKari.html"><a href="RahKari.html#SklavenaufstandRahKari"><i class="fa fa-check"></i><b>13.1.12</b> Der Aufstand der Sklaven</a></li>
 <li class="chapter" data-level="13.1.13" data-path="RahKari.html"><a href="RahKari.html#der-große-krieg"><i class="fa fa-check"></i><b>13.1.13</b> Der große Krieg</a></li>
 </ul></li>
 <li class="chapter" data-level="13.2" data-path="RahKari.html"><a href="RahKari.html#die-gesellschaft-der-rah-kari"><i class="fa fa-check"></i><b>13.2</b> Die Gesellschaft der Rah Kari</a></li>
@@ -799,6 +817,7 @@ Orbis Astea
 <ul>
 <li class="chapter" data-level="29.7.1" data-path="die-region-eldria.html"><a href="die-region-eldria.html#ulias-spooners-taverne"><i class="fa fa-check"></i><b>29.7.1</b> Ulias Spooners Taverne</a></li>
 </ul></li>
+<li class="chapter" data-level="29.8" data-path="die-region-eldria.html"><a href="die-region-eldria.html#notizen"><i class="fa fa-check"></i><b>29.8</b> Notizen</a></li>
 </ul></li>
 <li class="chapter" data-level="30" data-path="Wandia.html"><a href="Wandia.html"><i class="fa fa-check"></i><b>30</b> Wandia</a>
 <ul>
@@ -880,10 +899,7 @@ Orbis Astea
 <ul>
 <li class="chapter" data-level="33.3.1" data-path="der-nebelhain.html"><a href="der-nebelhain.html#die-ressourcen-der-region-11"><i class="fa fa-check"></i><b>33.3.1</b> Die Ressourcen der Region</a></li>
 </ul></li>
-<li class="chapter" data-level="33.4" data-path="der-nebelhain.html"><a href="der-nebelhain.html#soziopolitische-lage-17"><i class="fa fa-check"></i><b>33.4</b> Soziopolitische Lage</a>
-<ul>
-<li class="chapter" data-level="33.4.1" data-path="der-nebelhain.html"><a href="der-nebelhain.html#herrschaftsystemorganisation-17"><i class="fa fa-check"></i><b>33.4.1</b> Herrschaftsystem/Organisation</a></li>
-</ul></li>
+<li class="chapter" data-level="33.4" data-path="der-nebelhain.html"><a href="der-nebelhain.html#soziopolitische-lage-17"><i class="fa fa-check"></i><b>33.4</b> Soziopolitische Lage</a></li>
 <li class="chapter" data-level="33.5" data-path="der-nebelhain.html"><a href="der-nebelhain.html#klimatische-bedingungen-13"><i class="fa fa-check"></i><b>33.5</b> Klimatische Bedingungen</a>
 <ul>
 <li class="chapter" data-level="33.5.1" data-path="der-nebelhain.html"><a href="der-nebelhain.html#die-flora-und-fauna-12"><i class="fa fa-check"></i><b>33.5.1</b> Die Flora und Fauna</a>
@@ -895,16 +911,11 @@ Orbis Astea
 <li class="chapter" data-level="33.6" data-path="der-nebelhain.html"><a href="der-nebelhain.html#gerüchte-der-region-12"><i class="fa fa-check"></i><b>33.6</b> Gerüchte der Region</a>
 <ul>
 <li class="chapter" data-level="33.6.1" data-path="der-nebelhain.html"><a href="der-nebelhain.html#ernter-der-seelen"><i class="fa fa-check"></i><b>33.6.1</b> Ernter der Seelen</a></li>
+<li class="chapter" data-level="33.6.2" data-path="der-nebelhain.html"><a href="der-nebelhain.html#der-drudarn-clan"><i class="fa fa-check"></i><b>33.6.2</b> Der Drudarn-Clan</a></li>
+<li class="chapter" data-level="33.6.3" data-path="der-nebelhain.html"><a href="der-nebelhain.html#die-bande-der-schwarzfeder"><i class="fa fa-check"></i><b>33.6.3</b> Die Bande der Schwarzfeder</a></li>
+<li class="chapter" data-level="33.6.4" data-path="der-nebelhain.html"><a href="der-nebelhain.html#der-stöhnende-baum"><i class="fa fa-check"></i><b>33.6.4</b> Der stöhnende Baum</a></li>
 </ul></li>
 <li class="chapter" data-level="33.7" data-path="der-nebelhain.html"><a href="der-nebelhain.html#sehenswürdigkeiten-13"><i class="fa fa-check"></i><b>33.7</b> Sehenswürdigkeiten</a></li>
-<li class="chapter" data-level="33.8" data-path="der-nebelhain.html"><a href="der-nebelhain.html#ab-hier-veraltetes-lore"><i class="fa fa-check"></i><b>33.8</b> AB hier veraltetes Lore</a></li>
-<li class="chapter" data-level="33.9" data-path="der-nebelhain.html"><a href="der-nebelhain.html#NebelhainHintergrund"><i class="fa fa-check"></i><b>33.9</b> Wissenswertes über den Nebelhain</a></li>
-<li class="chapter" data-level="33.10" data-path="der-nebelhain.html"><a href="der-nebelhain.html#die-sumpfbewohner"><i class="fa fa-check"></i><b>33.10</b> Die Sumpfbewohner</a></li>
-<li class="chapter" data-level="33.11" data-path="der-nebelhain.html"><a href="der-nebelhain.html#flora-und-fauna"><i class="fa fa-check"></i><b>33.11</b> Flora und Fauna</a>
-<ul>
-<li class="chapter" data-level="33.11.1" data-path="der-nebelhain.html"><a href="der-nebelhain.html#swamp-turtle"><i class="fa fa-check"></i><b>33.11.1</b> Swamp turtle</a></li>
-<li class="chapter" data-level="33.11.2" data-path="der-nebelhain.html"><a href="der-nebelhain.html#cornelius"><i class="fa fa-check"></i><b>33.11.2</b> Cornelius</a></li>
-</ul></li>
 </ul></li>
 <li class="chapter" data-level="34" data-path="BermaTal.html"><a href="BermaTal.html"><i class="fa fa-check"></i><b>34</b> Das Berma-Tal</a>
 <ul>
@@ -919,7 +930,7 @@ Orbis Astea
 </ul></li>
 <li class="chapter" data-level="34.4" data-path="BermaTal.html"><a href="BermaTal.html#soziopolitische-lage-18"><i class="fa fa-check"></i><b>34.4</b> Soziopolitische Lage</a>
 <ul>
-<li class="chapter" data-level="34.4.1" data-path="BermaTal.html"><a href="BermaTal.html#herrschaftsystemorganisation-18"><i class="fa fa-check"></i><b>34.4.1</b> Herrschaftsystem/Organisation</a></li>
+<li class="chapter" data-level="34.4.1" data-path="BermaTal.html"><a href="BermaTal.html#herrschaftsystemorganisation-17"><i class="fa fa-check"></i><b>34.4.1</b> Herrschaftsystem/Organisation</a></li>
 </ul></li>
 <li class="chapter" data-level="34.5" data-path="BermaTal.html"><a href="BermaTal.html#klimatische-bedingungen-14"><i class="fa fa-check"></i><b>34.5</b> Klimatische Bedingungen</a>
 <ul>
@@ -940,14 +951,29 @@ Orbis Astea
 <li class="chapter" data-level="35.1.3" data-path="appothis.html"><a href="appothis.html#napnopet"><i class="fa fa-check"></i><b>35.1.3</b> Napnopet</a></li>
 <li class="chapter" data-level="35.1.4" data-path="appothis.html"><a href="appothis.html#bokarun-mine"><i class="fa fa-check"></i><b>35.1.4</b> Bokarun-Mine</a></li>
 <li class="chapter" data-level="35.1.5" data-path="appothis.html"><a href="appothis.html#esunpet-und-wisunpet"><i class="fa fa-check"></i><b>35.1.5</b> Esunpet und Wisunpet</a></li>
-<li class="chapter" data-level="35.1.6" data-path="appothis.html"><a href="appothis.html#infrastruktur-14"><i class="fa fa-check"></i><b>35.1.6</b> Infrastruktur</a></li>
+<li class="chapter" data-level="35.1.6" data-path="appothis.html"><a href="appothis.html#ahmes"><i class="fa fa-check"></i><b>35.1.6</b> Ahmes</a></li>
+<li class="chapter" data-level="35.1.7" data-path="appothis.html"><a href="appothis.html#infrastruktur-14"><i class="fa fa-check"></i><b>35.1.7</b> Infrastruktur</a></li>
 </ul></li>
-<li class="chapter" data-level="35.2" data-path="appothis.html"><a href="appothis.html#die-geschichte-der-region-14"><i class="fa fa-check"></i><b>35.2</b> Die Geschichte der Region</a></li>
+<li class="chapter" data-level="35.2" data-path="appothis.html"><a href="appothis.html#die-geschichte-der-region-14"><i class="fa fa-check"></i><b>35.2</b> Die Geschichte der Region</a>
+<ul>
+<li class="chapter" data-level="35.2.1" data-path="appothis.html"><a href="appothis.html#frühgeschichte-von-appothis"><i class="fa fa-check"></i><b>35.2.1</b> Frühgeschichte von Appothis</a></li>
+<li class="chapter" data-level="35.2.2" data-path="appothis.html"><a href="appothis.html#die-zeit-vor-den-rah-kari"><i class="fa fa-check"></i><b>35.2.2</b> Die Zeit vor den Rah’ Kari</a></li>
+<li class="chapter" data-level="35.2.3" data-path="appothis.html"><a href="appothis.html#der-einmarsch-der-rah-kari"><i class="fa fa-check"></i><b>35.2.3</b> Der Einmarsch der Rah’ Kari</a></li>
+<li class="chapter" data-level="35.2.4" data-path="appothis.html"><a href="appothis.html#die-sklavenaufstände"><i class="fa fa-check"></i><b>35.2.4</b> Die Sklavenaufstände</a></li>
+</ul></li>
 <li class="chapter" data-level="35.3" data-path="appothis.html"><a href="appothis.html#wirtschaftliche-lage-17"><i class="fa fa-check"></i><b>35.3</b> Wirtschaftliche Lage</a>
 <ul>
 <li class="chapter" data-level="35.3.1" data-path="appothis.html"><a href="appothis.html#die-ressourcen-der-region-13"><i class="fa fa-check"></i><b>35.3.1</b> Die Ressourcen der Region</a></li>
 </ul></li>
-<li class="chapter" data-level="35.4" data-path="appothis.html"><a href="appothis.html#soziopolitische-lage-19"><i class="fa fa-check"></i><b>35.4</b> Soziopolitische Lage</a></li>
+<li class="chapter" data-level="35.4" data-path="appothis.html"><a href="appothis.html#soziopolitische-lage-19"><i class="fa fa-check"></i><b>35.4</b> Soziopolitische Lage</a>
+<ul>
+<li class="chapter" data-level="35.4.1" data-path="appothis.html"><a href="appothis.html#verloreneArmee"><i class="fa fa-check"></i><b>35.4.1</b> Die verlorene Armee</a></li>
+<li class="chapter" data-level="35.4.2" data-path="appothis.html"><a href="appothis.html#weitere-gruppierungen-in-appothis"><i class="fa fa-check"></i><b>35.4.2</b> Weitere Gruppierungen in Appothis</a>
+<ul>
+<li class="chapter" data-level="35.4.2.1" data-path="appothis.html"><a href="appothis.html#rebellen-und-banditen"><i class="fa fa-check"></i><b>35.4.2.1</b> Rebellen und Banditen</a></li>
+<li class="chapter" data-level="35.4.2.2" data-path="appothis.html"><a href="appothis.html#die-meth-hu"><i class="fa fa-check"></i><b>35.4.2.2</b> Die Meth-Hu</a></li>
+</ul></li>
+</ul></li>
 <li class="chapter" data-level="35.5" data-path="appothis.html"><a href="appothis.html#klimatische-bedingungen-15"><i class="fa fa-check"></i><b>35.5</b> Klimatische Bedingungen</a>
 <ul>
 <li class="chapter" data-level="35.5.1" data-path="appothis.html"><a href="appothis.html#die-flora-und-fauna-14"><i class="fa fa-check"></i><b>35.5.1</b> Die Flora und Fauna</a>
@@ -955,8 +981,12 @@ Orbis Astea
 <li class="chapter" data-level="35.5.1.1" data-path="appothis.html"><a href="appothis.html#monster-in-der-region-15"><i class="fa fa-check"></i><b>35.5.1.1</b> Monster in der Region</a></li>
 </ul></li>
 </ul></li>
-<li class="chapter" data-level="35.6" data-path="appothis.html"><a href="appothis.html#gerüchte-der-region-14"><i class="fa fa-check"></i><b>35.6</b> Gerüchte der Region</a></li>
-<li class="chapter" data-level="35.7" data-path="appothis.html"><a href="appothis.html#sehenswürdigkeiten-15"><i class="fa fa-check"></i><b>35.7</b> Sehenswürdigkeiten</a></li>
+<li class="chapter" data-level="35.6" data-path="appothis.html"><a href="appothis.html#gerüchte-der-region-14"><i class="fa fa-check"></i><b>35.6</b> Gerüchte der Region</a>
+<ul>
+<li class="chapter" data-level="35.6.1" data-path="appothis.html"><a href="appothis.html#die-sandschildkröten"><i class="fa fa-check"></i><b>35.6.1</b> Die Sandschildkröten</a></li>
+<li class="chapter" data-level="35.6.2" data-path="appothis.html"><a href="appothis.html#ol-talib"><i class="fa fa-check"></i><b>35.6.2</b> Ol Talib</a></li>
+<li class="chapter" data-level="35.6.3" data-path="appothis.html"><a href="appothis.html#die-sumpfzähne"><i class="fa fa-check"></i><b>35.6.3</b> Die Sumpfzähne</a></li>
+</ul></li>
 </ul></li>
 <li class="chapter" data-level="36" data-path="eid-rah-kari.html"><a href="eid-rah-kari.html"><i class="fa fa-check"></i><b>36</b> Eid’ Rah Kari</a>
 <ul>
@@ -971,7 +1001,7 @@ Orbis Astea
 </ul></li>
 <li class="chapter" data-level="36.4" data-path="eid-rah-kari.html"><a href="eid-rah-kari.html#soziopolitische-lage-20"><i class="fa fa-check"></i><b>36.4</b> Soziopolitische Lage</a>
 <ul>
-<li class="chapter" data-level="36.4.1" data-path="eid-rah-kari.html"><a href="eid-rah-kari.html#herrschaftsystemorganisation-19"><i class="fa fa-check"></i><b>36.4.1</b> Herrschaftsystem/Organisation</a></li>
+<li class="chapter" data-level="36.4.1" data-path="eid-rah-kari.html"><a href="eid-rah-kari.html#herrschaftsystemorganisation-18"><i class="fa fa-check"></i><b>36.4.1</b> Herrschaftsystem/Organisation</a></li>
 </ul></li>
 <li class="chapter" data-level="36.5" data-path="eid-rah-kari.html"><a href="eid-rah-kari.html#klimatische-bedingungen-16"><i class="fa fa-check"></i><b>36.5</b> Klimatische Bedingungen</a>
 <ul>
@@ -981,7 +1011,7 @@ Orbis Astea
 </ul></li>
 </ul></li>
 <li class="chapter" data-level="36.6" data-path="eid-rah-kari.html"><a href="eid-rah-kari.html#gerüchte-der-region-15"><i class="fa fa-check"></i><b>36.6</b> Gerüchte der Region</a></li>
-<li class="chapter" data-level="36.7" data-path="eid-rah-kari.html"><a href="eid-rah-kari.html#sehenswürdigkeiten-16"><i class="fa fa-check"></i><b>36.7</b> Sehenswürdigkeiten</a></li>
+<li class="chapter" data-level="36.7" data-path="eid-rah-kari.html"><a href="eid-rah-kari.html#sehenswürdigkeiten-15"><i class="fa fa-check"></i><b>36.7</b> Sehenswürdigkeiten</a></li>
 </ul></li>
 <li class="chapter" data-level="37" data-path="EisenroteWueste.html"><a href="EisenroteWueste.html"><i class="fa fa-check"></i><b>37</b> Die Eisenrote Wüste</a>
 <ul>
@@ -998,7 +1028,7 @@ Orbis Astea
 <li class="chapter" data-level="37.5" data-path="EisenroteWueste.html"><a href="EisenroteWueste.html#eroberungszüge-der-rah-kari"><i class="fa fa-check"></i><b>37.5</b> Eroberungszüge der Rah Kari</a></li>
 <li class="chapter" data-level="37.6" data-path="EisenroteWueste.html"><a href="EisenroteWueste.html#soziopolitische-lage-21"><i class="fa fa-check"></i><b>37.6</b> Soziopolitische Lage</a>
 <ul>
-<li class="chapter" data-level="37.6.1" data-path="EisenroteWueste.html"><a href="EisenroteWueste.html#herrschaftsystemorganisation-20"><i class="fa fa-check"></i><b>37.6.1</b> Herrschaftsystem/Organisation</a></li>
+<li class="chapter" data-level="37.6.1" data-path="EisenroteWueste.html"><a href="EisenroteWueste.html#herrschaftsystemorganisation-19"><i class="fa fa-check"></i><b>37.6.1</b> Herrschaftsystem/Organisation</a></li>
 </ul></li>
 <li class="chapter" data-level="37.7" data-path="EisenroteWueste.html"><a href="EisenroteWueste.html#klimatische-bedingungen-17"><i class="fa fa-check"></i><b>37.7</b> Klimatische Bedingungen</a>
 <ul>
@@ -1008,7 +1038,7 @@ Orbis Astea
 </ul></li>
 </ul></li>
 <li class="chapter" data-level="37.8" data-path="EisenroteWueste.html"><a href="EisenroteWueste.html#gerüchte-der-region-16"><i class="fa fa-check"></i><b>37.8</b> Gerüchte der Region</a></li>
-<li class="chapter" data-level="37.9" data-path="EisenroteWueste.html"><a href="EisenroteWueste.html#sehenswürdigkeiten-17"><i class="fa fa-check"></i><b>37.9</b> Sehenswürdigkeiten</a></li>
+<li class="chapter" data-level="37.9" data-path="EisenroteWueste.html"><a href="EisenroteWueste.html#sehenswürdigkeiten-16"><i class="fa fa-check"></i><b>37.9</b> Sehenswürdigkeiten</a></li>
 </ul></li>
 <li class="chapter" data-level="38" data-path="die-graue-ödnis.html"><a href="die-graue-ödnis.html"><i class="fa fa-check"></i><b>38</b> Die Graue Ödnis</a>
 <ul>
@@ -1023,7 +1053,7 @@ Orbis Astea
 </ul></li>
 <li class="chapter" data-level="38.4" data-path="die-graue-ödnis.html"><a href="die-graue-ödnis.html#soziopolitische-lage-22"><i class="fa fa-check"></i><b>38.4</b> Soziopolitische Lage</a>
 <ul>
-<li class="chapter" data-level="38.4.1" data-path="die-graue-ödnis.html"><a href="die-graue-ödnis.html#herrschaftsystemorganisation-21"><i class="fa fa-check"></i><b>38.4.1</b> Herrschaftsystem/Organisation</a></li>
+<li class="chapter" data-level="38.4.1" data-path="die-graue-ödnis.html"><a href="die-graue-ödnis.html#herrschaftsystemorganisation-20"><i class="fa fa-check"></i><b>38.4.1</b> Herrschaftsystem/Organisation</a></li>
 </ul></li>
 <li class="chapter" data-level="38.5" data-path="die-graue-ödnis.html"><a href="die-graue-ödnis.html#klimatische-bedingungen-18"><i class="fa fa-check"></i><b>38.5</b> Klimatische Bedingungen</a>
 <ul>
@@ -1033,7 +1063,7 @@ Orbis Astea
 </ul></li>
 </ul></li>
 <li class="chapter" data-level="38.6" data-path="die-graue-ödnis.html"><a href="die-graue-ödnis.html#gerüchte-der-region-17"><i class="fa fa-check"></i><b>38.6</b> Gerüchte der Region</a></li>
-<li class="chapter" data-level="38.7" data-path="die-graue-ödnis.html"><a href="die-graue-ödnis.html#sehenswürdigkeiten-18"><i class="fa fa-check"></i><b>38.7</b> Sehenswürdigkeiten</a></li>
+<li class="chapter" data-level="38.7" data-path="die-graue-ödnis.html"><a href="die-graue-ödnis.html#sehenswürdigkeiten-17"><i class="fa fa-check"></i><b>38.7</b> Sehenswürdigkeiten</a></li>
 </ul></li>
 <li class="chapter" data-level="39" data-path="die-grenze-der-welt.html"><a href="die-grenze-der-welt.html"><i class="fa fa-check"></i><b>39</b> Die Grenze der Welt</a>
 <ul>
@@ -1048,7 +1078,7 @@ Orbis Astea
 </ul></li>
 <li class="chapter" data-level="39.4" data-path="die-grenze-der-welt.html"><a href="die-grenze-der-welt.html#soziopolitische-lage-23"><i class="fa fa-check"></i><b>39.4</b> Soziopolitische Lage</a>
 <ul>
-<li class="chapter" data-level="39.4.1" data-path="die-grenze-der-welt.html"><a href="die-grenze-der-welt.html#herrschaftsystemorganisation-22"><i class="fa fa-check"></i><b>39.4.1</b> Herrschaftsystem/Organisation</a></li>
+<li class="chapter" data-level="39.4.1" data-path="die-grenze-der-welt.html"><a href="die-grenze-der-welt.html#herrschaftsystemorganisation-21"><i class="fa fa-check"></i><b>39.4.1</b> Herrschaftsystem/Organisation</a></li>
 </ul></li>
 <li class="chapter" data-level="39.5" data-path="die-grenze-der-welt.html"><a href="die-grenze-der-welt.html#klimatische-bedingungen-19"><i class="fa fa-check"></i><b>39.5</b> Klimatische Bedingungen</a>
 <ul>
@@ -1058,7 +1088,7 @@ Orbis Astea
 </ul></li>
 </ul></li>
 <li class="chapter" data-level="39.6" data-path="die-grenze-der-welt.html"><a href="die-grenze-der-welt.html#gerüchte-der-region-18"><i class="fa fa-check"></i><b>39.6</b> Gerüchte der Region</a></li>
-<li class="chapter" data-level="39.7" data-path="die-grenze-der-welt.html"><a href="die-grenze-der-welt.html#sehenswürdigkeiten-19"><i class="fa fa-check"></i><b>39.7</b> Sehenswürdigkeiten</a></li>
+<li class="chapter" data-level="39.7" data-path="die-grenze-der-welt.html"><a href="die-grenze-der-welt.html#sehenswürdigkeiten-18"><i class="fa fa-check"></i><b>39.7</b> Sehenswürdigkeiten</a></li>
 </ul></li>
 <li class="part"><span><b>V Religionen</b></span></li>
 <li class="chapter" data-level="40" data-path="die-lehre-des-allgottes.html"><a href="die-lehre-des-allgottes.html"><i class="fa fa-check"></i><b>40</b> Die Lehre des Allgottes</a>
@@ -1709,6 +1739,7 @@ Orbis Astea
 <li class="chapter" data-level="" data-path="das-team-hinter-orbis-astea.html"><a href="das-team-hinter-orbis-astea.html#simon-valverde"><i class="fa fa-check"></i>Simon Valverde</a></li>
 <li class="chapter" data-level="" data-path="das-team-hinter-orbis-astea.html"><a href="das-team-hinter-orbis-astea.html#lena-pfeiffer"><i class="fa fa-check"></i>Lena Pfeiffer</a></li>
 <li class="chapter" data-level="" data-path="das-team-hinter-orbis-astea.html"><a href="das-team-hinter-orbis-astea.html#emil-mortensen"><i class="fa fa-check"></i>Emil Mortensen</a></li>
+<li class="chapter" data-level="" data-path="das-team-hinter-orbis-astea.html"><a href="das-team-hinter-orbis-astea.html#kasper-mortensen"><i class="fa fa-check"></i>Kasper Mortensen</a></li>
 <li class="chapter" data-level="" data-path="das-team-hinter-orbis-astea.html"><a href="das-team-hinter-orbis-astea.html#florian-berger"><i class="fa fa-check"></i>Florian Berger</a></li>
 <li class="chapter" data-level="" data-path="das-team-hinter-orbis-astea.html"><a href="das-team-hinter-orbis-astea.html#andreas-fellner"><i class="fa fa-check"></i>Andreas Fellner</a></li>
 </ul></li>
@@ -1735,10 +1766,14 @@ Orbis Astea
 <link rel="shortcut icon" href="E:\\User\\icn.png" />
 <div id="der-nebelhain" class="section level1 hasAnchor" number="33">
 <h1><span class="header-section-number">Kapitel 33</span> Der Nebelhain<a href="der-nebelhain.html#der-nebelhain" class="anchor-section" aria-label="Anchor link to header"></a></h1>
-<p><img src="Pictures/Maps/Nebelhain.jpg" alt="Karte von Nebelhain" />
-&gt; “Wer durch den Nebelhain durch will der hat seinen Verstand schon verloren bevor ihn der Nebelhain holen konnte.”
-&gt;
-&gt; — Heiler Arhenius Kaltius</p>
+<div class="figure">
+<img src="Pictures/Maps/Nebelhain.jpg" alt="" />
+<p class="caption">Karte von Nebelhain</p>
+</div>
+<blockquote>
+<p>“Wer durch den Nebelhain durch will der hat seinen Verstand schon verloren bevor ihn der Nebelhain holen konnte.”</p>
+<p>— Heiler Arhenius Kaltius</p>
+</blockquote>
 <p>Die Geschichten über den Nebelhain reichen weit zurück. Die Entstehungsgeschichte ist unklar. Mündlichen Sagen von Orks und Zwergen zufolge war einst eine risiege Zwergenmetropole mit Sitz über den Ebenen des Nebelhains. Als die Zwerge zu tief schürften Schmolz ihnen zuerst das Gold in den Kammern zu großen Klumpen und danach Verschlang ein Vulkan alle Lebenden in der Zwergenstatt, was von Forschern als Humbug abgetan wird. Von den Forscher wird allerdings klar dargestellt, dass eine Zwergenstadt, welche sich auf das Gießen und Testen von Kanonen verstand. Durch die Explosion wurden allerdings unter Tage fließende Flüsse derart umgeleitet, dass die ehemaligen Weiten geflutet wurden.</p>
 <p>Seit nunmehr 700 Jahren, als dieses Ereignis stattfand haben sich die einstiegen Ebenen mit teils Dichten Wäldern in ein riesiges sumpfartiges Gebiet verwandelt.</p>
 <p>Die Wassertiefe ist teils unvorhersehbar und ermöglicht nur leichten Booten mit niedriegen Tiefgang das passieren.</p>
@@ -1813,15 +1848,14 @@ Orbis Astea
 <div id="die-ressourcen-der-region-11" class="section level3 hasAnchor" number="33.3.1">
 <h3><span class="header-section-number">33.3.1</span> Die Ressourcen der Region<a href="der-nebelhain.html#die-ressourcen-der-region-11" class="anchor-section" aria-label="Anchor link to header"></a></h3>
 <p>Holz wird aus den Grenzregionen gewonnen. Hierbei gewinnen Appothis, Haag und Rintom das Material für den Bau von Ballisten, Katapulten und Häusern.</p>
+<p>Viele neue Arten von Bäumen und Tieren können in Nebalhain gefunden werden und Gelehrte zahlen oftmals Abenteurer, um diese unbekannten Arten zu ihnen zu bringen.
+Nebelhain ist auch die Heimat verschiedener Monster, und viele Handwerker und Alchemisten zahlen viel Geld für Monstermaterialien aus dieser Region.</p>
+<p>Und schlussendlich ist Nebelhaim auch eine Fundgrube für verlorene Städte und Relikte und viele reisen nach Nebelhaim, um diese Städte ihrer verlorenen Relikte und Reichtümer zu berauben - auch wenn die meisten dieser Glücksritter niemals heimkehren.</p>
 </div>
 </div>
 <div id="soziopolitische-lage-17" class="section level2 hasAnchor" number="33.4">
 <h2><span class="header-section-number">33.4</span> Soziopolitische Lage<a href="der-nebelhain.html#soziopolitische-lage-17" class="anchor-section" aria-label="Anchor link to header"></a></h2>
 <p>Rechtlich war vor dem Verfall jede Region sich selbst beherrschend. Seit dem Felststurz von Istval, erhebt zwar das Reich der Rah-Kari wie auch, seit neuestem das Kaiserreich Anspruch auf den Nebelhain, jedoch gelingt es keiner Macht dort Grenzposten oder gar Städte zu errichten womit ide Ansprüche Totes-Recht in einer gestorbenen Region sind.</p>
-<div id="herrschaftsystemorganisation-17" class="section level3 hasAnchor" number="33.4.1">
-<h3><span class="header-section-number">33.4.1</span> Herrschaftsystem/Organisation<a href="der-nebelhain.html#herrschaftsystemorganisation-17" class="anchor-section" aria-label="Anchor link to header"></a></h3>
-<p>Recht des Stärkeren -es gibt keine Rechte durchsetzende Instanz im Nebelhain</p>
-</div>
 </div>
 <div id="klimatische-bedingungen-13" class="section level2 hasAnchor" number="33.5">
 <h2><span class="header-section-number">33.5</span> Klimatische Bedingungen<a href="der-nebelhain.html#klimatische-bedingungen-13" class="anchor-section" aria-label="Anchor link to header"></a></h2>
@@ -1834,8 +1868,8 @@ Orbis Astea
 <h3><span class="header-section-number">33.5.1</span> Die Flora und Fauna<a href="der-nebelhain.html#die-flora-und-fauna-12" class="anchor-section" aria-label="Anchor link to header"></a></h3>
 <div id="monster-in-der-region-13" class="section level4 hasAnchor" number="33.5.1.1">
 <h4><span class="header-section-number">33.5.1.1</span> Monster in der Region<a href="der-nebelhain.html#monster-in-der-region-13" class="anchor-section" aria-label="Anchor link to header"></a></h4>
-<div id="gemeiner-mooshügel" class="section level5 hasAnchor" number="33.5.1.1.1">
-<h5><span class="header-section-number">33.5.1.1.1</span> Gemeiner Mooshügel<a href="der-nebelhain.html#gemeiner-mooshügel" class="anchor-section" aria-label="Anchor link to header"></a></h5>
+<div id="gemeiner-mooshügel" class="section level5 unnumbered hasAnchor">
+<h5>Gemeiner Mooshügel<a href="der-nebelhain.html#gemeiner-mooshügel" class="anchor-section" aria-label="Anchor link to header"></a></h5>
 <p>Zu den vielleicht harmlosesten Monstern zählen Gemeine Mosshügel. Diese zeichnen sich durch rühiges Gemüt aus und folgen Häufig einsamen Wanderern durch den Nebelhain und bewahren diese des öfteren vor dem Ertrinken. Warum genau das der Gemeine Mosshügel macht ist unklar, womöglich verwechselt das Monster den Menschen mit einem großen Fisch lässt aber dann bei den schreienden Menschen von ihm ab. Generell können Mooshügel leicht durch lautes schreien verscheucht werden. Mosshügel stellen nur dann eine Bedrohung dar wenn sich die Männchen auf Partnersuche begeben. Dies merkt man an den nach Schwefel stinkenden Geruch un dem Knall Gelb gefärbten Rücken der Tiere. Mooshügel können hier von einer Handvoll bewaffneter Söldner mühelos überwältigt werden. Lediglich einzelne Kämpfer sollten sich vor ihnen in Acht nehmen.</p>
 <p>Sie kommen in den Randbereichen des Nebelwaldes vor und sind meist für Holzfäller und Fischer das Omen zum umkehren um nicht zu tief in den Nebelhain vorzudringen. <img src="Pictures/Flavor/Platzhalter/nebelhainmonster.JPG" alt="Gemeiner Mooshügel" /></p>
 <p>Im eigentlichen Sinne kennt jeder Bürger erwachte. Wiedergänger, welche nicht in die ewigen Reiche kehren durften und so zahllosen Wanderern und Abenteurer bereits den Tod bescherten. Es wird empfohlen des Nachts die Lager mit Zäunen zu umgrenzen - hierbei reichen meist schon auf unterschiedlichen Höhen gespannte Schnüre um die Zurückgekehrten Fern zu halten. Hierbei sollte beachtet werden möglichst leise zu sein, da sonst weitaus mehr dieser Erwachten angelockt werden und man sich dann schnell in brenzligen Situationen wieder findet.</p>
@@ -1850,10 +1884,6 @@ Orbis Astea
 <p>Vermutlich mehr im Bereich der Legenden ist der Häuter von Eiden. Ehemals benannt nach der Gehäutete von Eiden handelt es sich angeblich um eine Monströsität welche vom Turm der Gelehrten geschaffen wurde um genug Muskelkraft zu besitzen um die Dämme höher zu bauen. Diese Anmaßung konnte jedoch nie bestätigt werden. Dadurch gilt es die Gebäude des Turm der Gelehrten zu meiden, denn sicher ist sicher.</p>
 <div class="figure">
 <img src="Pictures/Flavor/Platzhalter/nebelhainblutgottchampion.JPG" alt="" />
-<p class="caption">Der Häuter von Eiden</p>
-</div>
-<div class="figure">
-<img src="Pictures/Flavor/Platzhalter/blutgottxchampionleichenhaufen.JPG" alt="" />
 <p class="caption">Der Häuter von Eiden</p>
 </div>
 </div>
@@ -1872,42 +1902,29 @@ Orbis Astea
 <p>Dann bietet der Ernter der Seelen ihnen an sie zurück an den Ort ihrer Geburt zu bringen um dort ihre eigene Seele oder die eines weiteren Menschen ihm als Sold zu überlassen. Überlässt der Verirrte seine eigene Seele, so kommt er frei. Wird hingegen die Seele eines anderen geopfert, holt sich der Ernter der Seelen die Seele des genannten und schlägt den Kopf des Verirrten ab, woraufhin der Kopflose, Verirrte arme Glücksritter als Erwachter auf Ewig durch den Nebelhain streifen muss.</p>
 <p>Worauf genau die Geschichte basiert, oder ob es diese Gestalt tatsächlich gibt, kann nicht zweifelsfrei gesagt werden. Zum einen ist diese Legende klassisch für allerlei Religionen, welche Selbstlosigkeit predigen, andererseits berichteten schon eine hand voll von diesen Begnungen, obwohl geschworen wurde nichts von der Geschichte zu kennen.</p>
 </div>
+<div id="der-drudarn-clan" class="section level3 hasAnchor" number="33.6.2">
+<h3><span class="header-section-number">33.6.2</span> Der Drudarn-Clan<a href="der-nebelhain.html#der-drudarn-clan" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<p>Eine aus den Ländern südlich von Nebelhain stammende Seuche wurde in die Sümpfe transportiert. Diese Krankheit hatte eine hohe Sterblichkeitsrate und tötete viele Kreaturen, Tiere und Animali, die mit ihr in Berührung kamen. Ein Animali-Clan namens Drudarn fand heraus, dass eines seiner Mitglieder aufgrund seiner Mutation immun war.
+Nachdem sie mit der spezifischen Mutation, die von einem der örtlichen Insekten stammte, experimentiert hatten, begannen sie, weitere Animali das Insekt besiegen zu lassen und es für ihre eigene Mutation zu verwenden. Nach vielen Generationen ist dieser Clan nun dafür bekannt, dass er die Mutation des Insekts besitzt, die ihn immun gegen die Krankheit macht.</p>
+<p>Die Krankheit selbst wirkt sich auf die Lungen des Kranken aus. Das bedeutet, dass die Kreatur langsam ihre Lungenkapazität verliert, bis sie schließlich überhaupt nicht mehr atmen kann.</p>
+<p>Die Krankheit ist immer noch sehr verbreitet im Gebiet des des Drudarn-Clans, was andere Clans dazu veranlasst, Abstand zu halten.</p>
+</div>
+<div id="die-bande-der-schwarzfeder" class="section level3 hasAnchor" number="33.6.3">
+<h3><span class="header-section-number">33.6.3</span> Die Bande der Schwarzfeder<a href="der-nebelhain.html#die-bande-der-schwarzfeder" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<p>Viele sagen, Nebelhain sei die personifizierte Hölle, da es unzählige Krankheiten und Monstrositäten beherbergt, die den Menschen unbekannt sind. Aus diesem Grund verbreiten die Menschen Gerüchte über diese Region wie ein Lauffeuer.
+Ein solches Gerücht ist das über die schrecklichen Ritter von Nebelhaim: Die Menschen glauben, dass es eine Gruppe dämonischer schwarzer Ritter gibt, die durch die Sümpfe von Nebelhaim streifen. Reisende behaupten, es handele sich um die Ritter von Eldria, die bei der Erschaffung des Nebelhains ausgesandt wurden und starben. Andere glauben, dass sie die Manifestation des Sumpfes sind und dass sie nur existieren, um die Menschen zu töten, die es wagen, den Nebelhain zu betreten. Ein Reisender, der das Glück hatte, diese Ritter zu sehen und überlebte, sagte jedoch, dass er sich an das Symbol auf der Rüstung der Ritter erinnern konnte, und er behauptete, dass es zur Bande der Schwarzfeder gehörte, einer Bande von Rittern, die in Eiden umherstreiften, bevor es zerstört wurde.</p>
+</div>
+<div id="der-stöhnende-baum" class="section level3 hasAnchor" number="33.6.4">
+<h3><span class="header-section-number">33.6.4</span> Der stöhnende Baum<a href="der-nebelhain.html#der-stöhnende-baum" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<p>Mehrere Reisende und Händler, die durch Nebelhain reisten, erzählen Geschichten über den gleichen Vorfall. Sie alle berichten, dass sie während ihrer Reise plötzlich in der Ferne eine Person stöhnen hörten. Manchmal war es ein Mann, manchmal eine Frau und manchmal ein Kind. Die Reisenden schickten fast immer jemanden aus, um das Geräusch zu untersuchen, aber niemand kehrte jemals zurück. Einige Reisende versuchten, die Richtung, aus der das Geräusch kam, zu meiden, doch in manchen Fällen kamen die Geräusche näher an die Zeit heran.
+Die Reisenden konnten das Stöhnen tagelang hören, bis sie schließlich den Sumpf verließen. Es heißt, dass die meisten Menschen durch die Geräusche, die sie in Nebelhaim hörten, verrückt wurden und dass viele noch immer Ängste von der Zeit dort haben. Manche Leute sagen, dass es fast ein Todesurteil ist, wenn man die Geräusche hört, und dass man am besten so schnell wie möglich dorthin zurücklaufen sollte, wo man herkommt.
+Ein Reisender namens Thomas Jeckmann konnte jedoch sehen, woher die Geräusche kamen und überlebte. Er erzählt von einer Geschichte, in der seine Karawane durch Nebelhaim reiste als sie plötzlich einen Mann stöhnen hörten. Ein paar Wachen gingen der Sache nach, kehrten aber nicht zurück. Nach einer Stunde untersuchte Jeckmann die Situation selbst, und als er schließlich am Ursprung des Geräusches ankam, sah er einen seiner Kameraden mit Holzspießen aufgespießt. Vor Schreck fiel er um und schlug mit dem Gesicht nach unten auf den Boden. Als er wieder aufblickte, konnte er endlich sehen, was die Geräusche verursacht hatte. Es war ein riesiger Baum mit dem Gesicht eines Dämons, der ihn und seine Männer angelockt hatte. Jeckmann rannte, so schnell er konnte, und wie durch ein Wunder überlebte er. Bis heute konnte kein anderer Mensch seine Geschichte bestätigen, aber wann immer Reisende in Nebelhaim Stöhnen hören, wissen sie sofort, dass sie in großer Gefahr sind.</p>
+</div>
 </div>
 <div id="sehenswürdigkeiten-13" class="section level2 hasAnchor" number="33.7">
 <h2><span class="header-section-number">33.7</span> Sehenswürdigkeiten<a href="der-nebelhain.html#sehenswürdigkeiten-13" class="anchor-section" aria-label="Anchor link to header"></a></h2>
-<p>Die Überreste von Alt-Haag, Eiden &amp; ### Ash-Main-Tahp / Hejning</p>
-</div>
-<div id="ab-hier-veraltetes-lore" class="section level2 hasAnchor" number="33.8">
-<h2><span class="header-section-number">33.8</span> AB hier veraltetes Lore<a href="der-nebelhain.html#ab-hier-veraltetes-lore" class="anchor-section" aria-label="Anchor link to header"></a></h2>
-</div>
-<div id="NebelhainHintergrund" class="section level2 hasAnchor" number="33.9">
-<h2><span class="header-section-number">33.9</span> Wissenswertes über den Nebelhain<a href="der-nebelhain.html#NebelhainHintergrund" class="anchor-section" aria-label="Anchor link to header"></a></h2>
-</div>
-<div id="die-sumpfbewohner" class="section level2 hasAnchor" number="33.10">
-<h2><span class="header-section-number">33.10</span> Die Sumpfbewohner<a href="der-nebelhain.html#die-sumpfbewohner" class="anchor-section" aria-label="Anchor link to header"></a></h2>
-<p>Viele verschiedene Rassen und Gruppen haben sich im Nebelhein häuslich eingerichtet, Menschen, Orks und andere unbekannte Wesen richten dort primitive behausungen ein und leben und Sterben wie die Fliegen.</p>
-</div>
-<div id="flora-und-fauna" class="section level2 hasAnchor" number="33.11">
-<h2><span class="header-section-number">33.11</span> Flora und Fauna<a href="der-nebelhain.html#flora-und-fauna" class="anchor-section" aria-label="Anchor link to header"></a></h2>
-<div id="swamp-turtle" class="section level3 hasAnchor" number="33.11.1">
-<h3><span class="header-section-number">33.11.1</span> Swamp turtle<a href="der-nebelhain.html#swamp-turtle" class="anchor-section" aria-label="Anchor link to header"></a></h3>
-<p>These creatures, as their names imply, look like giant green turtles with elements of elephants as well. Many travelers who see them often mistake them for walking trees due to the size and quiet nature. They are mostly found in pacts around swamps and will only attack when provoked.</p>
-<div class="figure">
-<img src="Pictures/Flavor/Platzhalter/swamp%20turtle%20depiction.JPG" alt="" />
-<p class="caption">swamp turtle depiction</p>
-</div>
-</div>
-<div id="cornelius" class="section level3 hasAnchor" number="33.11.2">
-<h3><span class="header-section-number">33.11.2</span> Cornelius<a href="der-nebelhain.html#cornelius" class="anchor-section" aria-label="Anchor link to header"></a></h3>
-<p>Cornelius sind friedliche Herbivoren, die die lichteren Gegenden des Nebelhain und die Vorläufe von Appothis bewohnen. Sie sind Rudeltiere, die in festen Familienverbänden aufwachsen, reisen und sich gegenseitig verteidigen. Sollten sie sich verteidigen, verwenden sie ihren Kopf - dank der verstärkten Schädelplatte - als überraschend effektiven Rammbock.</p>
-<p>Durch ihre beeindruckende größe und ihrem langen Hals sehen sie mögliche Bedrohungen meistens sehr früh. Sie erreichen eine Hohe von bis zu drei Meter, und ihr Hals wird bis zu zwei Meter lang.</p>
-<div class="figure">
-<img src="Pictures/Flavor/Platzhalter/cornelius.JPG" alt="" />
-<p class="caption">Cornelius depiction</p>
-</div>
-<p>Um diese Kreaturen zu bekämpfen, ist es empfehlenswert, ihre größe zum eigenen Vorteil zu nutzen. Aufgrund des langen Halses des Cornelius und seiner geringen Intelligenz ist es nicht schwer sie mit Hilfe von Fallen auszuschalten.</p>
+<p>Die Überreste von Alt-Haag, Eiden &amp; Ash-Main-Tahp / Hejning</p>
 
-</div>
 </div>
 </div>
 <div class="footnotes">

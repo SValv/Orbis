@@ -337,7 +337,7 @@ Tränke haben eine Wirkung im Kampf und außerhalb vom Kampf. Die Wirkung außer
 Die Wirkungen im Kampf sind in der unten stehenden Tabelle ersichtlich.
 
 ```{r}
-dftr=read_xlsx("Container/Data/AllaroundDataStorage.xlsx",sheet="TrankeBookdown")
+dftr=read_xlsx("BookdownData/BookdownAllgemeinData.xlsx",sheet="TrankeBookdown")
 
 dftr %>% relocate(Tränke,Stufe,Wirkung) %>% 
   mutate(

@@ -72,6 +72,24 @@ Orbis Astea
 <script src="libs/lfx-draw-1.0.2/lfx-draw-prod.js"></script>
 <script src="libs/lfx-draw-1.0.2/lfx-draw-bindings.js"></script>
 <script src="libs/lfx-draw-drag-1.0.2/lfx-draw-drag-prod.js"></script>
+<link href="libs/visjs-7.4.9/vis-timeline-graph2d.min.css" rel="stylesheet" />
+<script src="libs/visjs-7.4.9/vis-timeline-graph2d.min.js"></script>
+<link href="libs/timeline-0.4/timevis.css" rel="stylesheet" />
+<script src="libs/timevis-binding-2.0.0/timevis.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
+<script src="libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
 <script src="libs/core-js-2.5.3/shim.min.js"></script>
 <script src="libs/react-17.0.0/react.min.js"></script>
 <script src="libs/react-17.0.0/react-dom.min.js"></script>
@@ -101,7 +119,7 @@ Orbis Astea
 <ul>
 <li class="chapter" data-level="2.1" data-path="Allgemeines.html"><a href="Allgemeines.html#das-erwachen"><i class="fa fa-check"></i><b>2.1</b> Das Erwachen</a></li>
 <li class="chapter" data-level="2.2" data-path="Allgemeines.html"><a href="Allgemeines.html#die-rolle-der-religion"><i class="fa fa-check"></i><b>2.2</b> Die Rolle der Religion</a></li>
-<li class="chapter" data-level="2.3" data-path="Allgemeines.html"><a href="Allgemeines.html#die-geschichte-orbis-asteras"><i class="fa fa-check"></i><b>2.3</b> Die Geschichte Orbis Asteras</a></li>
+<li class="chapter" data-level="2.3" data-path="Allgemeines.html"><a href="Allgemeines.html#die-geschichte-orbis-asteas"><i class="fa fa-check"></i><b>2.3</b> Die Geschichte Orbis Asteas</a></li>
 </ul></li>
 <li class="part"><span><b>II Die Rassen in Orbis Astea</b></span></li>
 <li class="chapter" data-level="3" data-path="menschen.html"><a href="menschen.html"><i class="fa fa-check"></i><b>3</b> Menschen</a>
@@ -324,14 +342,14 @@ Orbis Astea
 <li class="chapter" data-level="13.1.7" data-path="RahKari.html"><a href="RahKari.html#die-suche-nach-dem-schlüssel"><i class="fa fa-check"></i><b>13.1.7</b> Die Suche nach dem Schlüssel</a></li>
 <li class="chapter" data-level="13.1.8" data-path="RahKari.html"><a href="RahKari.html#der-tod-eines-traumes"><i class="fa fa-check"></i><b>13.1.8</b> Der Tod eines Traumes</a></li>
 <li class="chapter" data-level="13.1.9" data-path="RahKari.html"><a href="RahKari.html#das-reich-des-südens"><i class="fa fa-check"></i><b>13.1.9</b> Das Reich des Südens</a></li>
-<li class="chapter" data-level="13.1.10" data-path="RahKari.html"><a href="RahKari.html#der-krieg-der-unteren-wüste"><i class="fa fa-check"></i><b>13.1.10</b> Der Krieg der unteren Wüste</a></li>
+<li class="chapter" data-level="13.1.10" data-path="RahKari.html"><a href="RahKari.html#KriegDerUnterenWueste"><i class="fa fa-check"></i><b>13.1.10</b> Der Krieg der unteren Wüste</a></li>
 <li class="chapter" data-level="13.1.11" data-path="RahKari.html"><a href="RahKari.html#die-expeditionen"><i class="fa fa-check"></i><b>13.1.11</b> Die Expeditionen</a>
 <ul>
 <li class="chapter" data-level="" data-path="RahKari.html"><a href="RahKari.html#die-expeditionen-in-die-eisenrote-wüste"><i class="fa fa-check"></i>Die Expeditionen in die eisenrote Wüste</a></li>
 <li class="chapter" data-level="" data-path="RahKari.html"><a href="RahKari.html#die-expedition-ins-himmelsspitzen-gebirge"><i class="fa fa-check"></i>Die Expedition ins Himmelsspitzen-Gebirge</a></li>
 <li class="chapter" data-level="" data-path="RahKari.html"><a href="RahKari.html#andere-expeditionen"><i class="fa fa-check"></i>Andere Expeditionen</a></li>
 </ul></li>
-<li class="chapter" data-level="13.1.12" data-path="RahKari.html"><a href="RahKari.html#der-aufstand-der-sklaven"><i class="fa fa-check"></i><b>13.1.12</b> Der Aufstand der Sklaven</a></li>
+<li class="chapter" data-level="13.1.12" data-path="RahKari.html"><a href="RahKari.html#SklavenaufstandRahKari"><i class="fa fa-check"></i><b>13.1.12</b> Der Aufstand der Sklaven</a></li>
 <li class="chapter" data-level="13.1.13" data-path="RahKari.html"><a href="RahKari.html#der-große-krieg"><i class="fa fa-check"></i><b>13.1.13</b> Der große Krieg</a></li>
 </ul></li>
 <li class="chapter" data-level="13.2" data-path="RahKari.html"><a href="RahKari.html#die-gesellschaft-der-rah-kari"><i class="fa fa-check"></i><b>13.2</b> Die Gesellschaft der Rah Kari</a></li>
@@ -799,6 +817,7 @@ Orbis Astea
 <ul>
 <li class="chapter" data-level="29.7.1" data-path="die-region-eldria.html"><a href="die-region-eldria.html#ulias-spooners-taverne"><i class="fa fa-check"></i><b>29.7.1</b> Ulias Spooners Taverne</a></li>
 </ul></li>
+<li class="chapter" data-level="29.8" data-path="die-region-eldria.html"><a href="die-region-eldria.html#notizen"><i class="fa fa-check"></i><b>29.8</b> Notizen</a></li>
 </ul></li>
 <li class="chapter" data-level="30" data-path="Wandia.html"><a href="Wandia.html"><i class="fa fa-check"></i><b>30</b> Wandia</a>
 <ul>
@@ -880,10 +899,7 @@ Orbis Astea
 <ul>
 <li class="chapter" data-level="33.3.1" data-path="der-nebelhain.html"><a href="der-nebelhain.html#die-ressourcen-der-region-11"><i class="fa fa-check"></i><b>33.3.1</b> Die Ressourcen der Region</a></li>
 </ul></li>
-<li class="chapter" data-level="33.4" data-path="der-nebelhain.html"><a href="der-nebelhain.html#soziopolitische-lage-17"><i class="fa fa-check"></i><b>33.4</b> Soziopolitische Lage</a>
-<ul>
-<li class="chapter" data-level="33.4.1" data-path="der-nebelhain.html"><a href="der-nebelhain.html#herrschaftsystemorganisation-17"><i class="fa fa-check"></i><b>33.4.1</b> Herrschaftsystem/Organisation</a></li>
-</ul></li>
+<li class="chapter" data-level="33.4" data-path="der-nebelhain.html"><a href="der-nebelhain.html#soziopolitische-lage-17"><i class="fa fa-check"></i><b>33.4</b> Soziopolitische Lage</a></li>
 <li class="chapter" data-level="33.5" data-path="der-nebelhain.html"><a href="der-nebelhain.html#klimatische-bedingungen-13"><i class="fa fa-check"></i><b>33.5</b> Klimatische Bedingungen</a>
 <ul>
 <li class="chapter" data-level="33.5.1" data-path="der-nebelhain.html"><a href="der-nebelhain.html#die-flora-und-fauna-12"><i class="fa fa-check"></i><b>33.5.1</b> Die Flora und Fauna</a>
@@ -895,16 +911,11 @@ Orbis Astea
 <li class="chapter" data-level="33.6" data-path="der-nebelhain.html"><a href="der-nebelhain.html#gerüchte-der-region-12"><i class="fa fa-check"></i><b>33.6</b> Gerüchte der Region</a>
 <ul>
 <li class="chapter" data-level="33.6.1" data-path="der-nebelhain.html"><a href="der-nebelhain.html#ernter-der-seelen"><i class="fa fa-check"></i><b>33.6.1</b> Ernter der Seelen</a></li>
+<li class="chapter" data-level="33.6.2" data-path="der-nebelhain.html"><a href="der-nebelhain.html#der-drudarn-clan"><i class="fa fa-check"></i><b>33.6.2</b> Der Drudarn-Clan</a></li>
+<li class="chapter" data-level="33.6.3" data-path="der-nebelhain.html"><a href="der-nebelhain.html#die-bande-der-schwarzfeder"><i class="fa fa-check"></i><b>33.6.3</b> Die Bande der Schwarzfeder</a></li>
+<li class="chapter" data-level="33.6.4" data-path="der-nebelhain.html"><a href="der-nebelhain.html#der-stöhnende-baum"><i class="fa fa-check"></i><b>33.6.4</b> Der stöhnende Baum</a></li>
 </ul></li>
 <li class="chapter" data-level="33.7" data-path="der-nebelhain.html"><a href="der-nebelhain.html#sehenswürdigkeiten-13"><i class="fa fa-check"></i><b>33.7</b> Sehenswürdigkeiten</a></li>
-<li class="chapter" data-level="33.8" data-path="der-nebelhain.html"><a href="der-nebelhain.html#ab-hier-veraltetes-lore"><i class="fa fa-check"></i><b>33.8</b> AB hier veraltetes Lore</a></li>
-<li class="chapter" data-level="33.9" data-path="der-nebelhain.html"><a href="der-nebelhain.html#NebelhainHintergrund"><i class="fa fa-check"></i><b>33.9</b> Wissenswertes über den Nebelhain</a></li>
-<li class="chapter" data-level="33.10" data-path="der-nebelhain.html"><a href="der-nebelhain.html#die-sumpfbewohner"><i class="fa fa-check"></i><b>33.10</b> Die Sumpfbewohner</a></li>
-<li class="chapter" data-level="33.11" data-path="der-nebelhain.html"><a href="der-nebelhain.html#flora-und-fauna"><i class="fa fa-check"></i><b>33.11</b> Flora und Fauna</a>
-<ul>
-<li class="chapter" data-level="33.11.1" data-path="der-nebelhain.html"><a href="der-nebelhain.html#swamp-turtle"><i class="fa fa-check"></i><b>33.11.1</b> Swamp turtle</a></li>
-<li class="chapter" data-level="33.11.2" data-path="der-nebelhain.html"><a href="der-nebelhain.html#cornelius"><i class="fa fa-check"></i><b>33.11.2</b> Cornelius</a></li>
-</ul></li>
 </ul></li>
 <li class="chapter" data-level="34" data-path="BermaTal.html"><a href="BermaTal.html"><i class="fa fa-check"></i><b>34</b> Das Berma-Tal</a>
 <ul>
@@ -919,7 +930,7 @@ Orbis Astea
 </ul></li>
 <li class="chapter" data-level="34.4" data-path="BermaTal.html"><a href="BermaTal.html#soziopolitische-lage-18"><i class="fa fa-check"></i><b>34.4</b> Soziopolitische Lage</a>
 <ul>
-<li class="chapter" data-level="34.4.1" data-path="BermaTal.html"><a href="BermaTal.html#herrschaftsystemorganisation-18"><i class="fa fa-check"></i><b>34.4.1</b> Herrschaftsystem/Organisation</a></li>
+<li class="chapter" data-level="34.4.1" data-path="BermaTal.html"><a href="BermaTal.html#herrschaftsystemorganisation-17"><i class="fa fa-check"></i><b>34.4.1</b> Herrschaftsystem/Organisation</a></li>
 </ul></li>
 <li class="chapter" data-level="34.5" data-path="BermaTal.html"><a href="BermaTal.html#klimatische-bedingungen-14"><i class="fa fa-check"></i><b>34.5</b> Klimatische Bedingungen</a>
 <ul>
@@ -940,14 +951,29 @@ Orbis Astea
 <li class="chapter" data-level="35.1.3" data-path="appothis.html"><a href="appothis.html#napnopet"><i class="fa fa-check"></i><b>35.1.3</b> Napnopet</a></li>
 <li class="chapter" data-level="35.1.4" data-path="appothis.html"><a href="appothis.html#bokarun-mine"><i class="fa fa-check"></i><b>35.1.4</b> Bokarun-Mine</a></li>
 <li class="chapter" data-level="35.1.5" data-path="appothis.html"><a href="appothis.html#esunpet-und-wisunpet"><i class="fa fa-check"></i><b>35.1.5</b> Esunpet und Wisunpet</a></li>
-<li class="chapter" data-level="35.1.6" data-path="appothis.html"><a href="appothis.html#infrastruktur-14"><i class="fa fa-check"></i><b>35.1.6</b> Infrastruktur</a></li>
+<li class="chapter" data-level="35.1.6" data-path="appothis.html"><a href="appothis.html#ahmes"><i class="fa fa-check"></i><b>35.1.6</b> Ahmes</a></li>
+<li class="chapter" data-level="35.1.7" data-path="appothis.html"><a href="appothis.html#infrastruktur-14"><i class="fa fa-check"></i><b>35.1.7</b> Infrastruktur</a></li>
 </ul></li>
-<li class="chapter" data-level="35.2" data-path="appothis.html"><a href="appothis.html#die-geschichte-der-region-14"><i class="fa fa-check"></i><b>35.2</b> Die Geschichte der Region</a></li>
+<li class="chapter" data-level="35.2" data-path="appothis.html"><a href="appothis.html#die-geschichte-der-region-14"><i class="fa fa-check"></i><b>35.2</b> Die Geschichte der Region</a>
+<ul>
+<li class="chapter" data-level="35.2.1" data-path="appothis.html"><a href="appothis.html#frühgeschichte-von-appothis"><i class="fa fa-check"></i><b>35.2.1</b> Frühgeschichte von Appothis</a></li>
+<li class="chapter" data-level="35.2.2" data-path="appothis.html"><a href="appothis.html#die-zeit-vor-den-rah-kari"><i class="fa fa-check"></i><b>35.2.2</b> Die Zeit vor den Rah’ Kari</a></li>
+<li class="chapter" data-level="35.2.3" data-path="appothis.html"><a href="appothis.html#der-einmarsch-der-rah-kari"><i class="fa fa-check"></i><b>35.2.3</b> Der Einmarsch der Rah’ Kari</a></li>
+<li class="chapter" data-level="35.2.4" data-path="appothis.html"><a href="appothis.html#die-sklavenaufstände"><i class="fa fa-check"></i><b>35.2.4</b> Die Sklavenaufstände</a></li>
+</ul></li>
 <li class="chapter" data-level="35.3" data-path="appothis.html"><a href="appothis.html#wirtschaftliche-lage-17"><i class="fa fa-check"></i><b>35.3</b> Wirtschaftliche Lage</a>
 <ul>
 <li class="chapter" data-level="35.3.1" data-path="appothis.html"><a href="appothis.html#die-ressourcen-der-region-13"><i class="fa fa-check"></i><b>35.3.1</b> Die Ressourcen der Region</a></li>
 </ul></li>
-<li class="chapter" data-level="35.4" data-path="appothis.html"><a href="appothis.html#soziopolitische-lage-19"><i class="fa fa-check"></i><b>35.4</b> Soziopolitische Lage</a></li>
+<li class="chapter" data-level="35.4" data-path="appothis.html"><a href="appothis.html#soziopolitische-lage-19"><i class="fa fa-check"></i><b>35.4</b> Soziopolitische Lage</a>
+<ul>
+<li class="chapter" data-level="35.4.1" data-path="appothis.html"><a href="appothis.html#verloreneArmee"><i class="fa fa-check"></i><b>35.4.1</b> Die verlorene Armee</a></li>
+<li class="chapter" data-level="35.4.2" data-path="appothis.html"><a href="appothis.html#weitere-gruppierungen-in-appothis"><i class="fa fa-check"></i><b>35.4.2</b> Weitere Gruppierungen in Appothis</a>
+<ul>
+<li class="chapter" data-level="35.4.2.1" data-path="appothis.html"><a href="appothis.html#rebellen-und-banditen"><i class="fa fa-check"></i><b>35.4.2.1</b> Rebellen und Banditen</a></li>
+<li class="chapter" data-level="35.4.2.2" data-path="appothis.html"><a href="appothis.html#die-meth-hu"><i class="fa fa-check"></i><b>35.4.2.2</b> Die Meth-Hu</a></li>
+</ul></li>
+</ul></li>
 <li class="chapter" data-level="35.5" data-path="appothis.html"><a href="appothis.html#klimatische-bedingungen-15"><i class="fa fa-check"></i><b>35.5</b> Klimatische Bedingungen</a>
 <ul>
 <li class="chapter" data-level="35.5.1" data-path="appothis.html"><a href="appothis.html#die-flora-und-fauna-14"><i class="fa fa-check"></i><b>35.5.1</b> Die Flora und Fauna</a>
@@ -955,8 +981,12 @@ Orbis Astea
 <li class="chapter" data-level="35.5.1.1" data-path="appothis.html"><a href="appothis.html#monster-in-der-region-15"><i class="fa fa-check"></i><b>35.5.1.1</b> Monster in der Region</a></li>
 </ul></li>
 </ul></li>
-<li class="chapter" data-level="35.6" data-path="appothis.html"><a href="appothis.html#gerüchte-der-region-14"><i class="fa fa-check"></i><b>35.6</b> Gerüchte der Region</a></li>
-<li class="chapter" data-level="35.7" data-path="appothis.html"><a href="appothis.html#sehenswürdigkeiten-15"><i class="fa fa-check"></i><b>35.7</b> Sehenswürdigkeiten</a></li>
+<li class="chapter" data-level="35.6" data-path="appothis.html"><a href="appothis.html#gerüchte-der-region-14"><i class="fa fa-check"></i><b>35.6</b> Gerüchte der Region</a>
+<ul>
+<li class="chapter" data-level="35.6.1" data-path="appothis.html"><a href="appothis.html#die-sandschildkröten"><i class="fa fa-check"></i><b>35.6.1</b> Die Sandschildkröten</a></li>
+<li class="chapter" data-level="35.6.2" data-path="appothis.html"><a href="appothis.html#ol-talib"><i class="fa fa-check"></i><b>35.6.2</b> Ol Talib</a></li>
+<li class="chapter" data-level="35.6.3" data-path="appothis.html"><a href="appothis.html#die-sumpfzähne"><i class="fa fa-check"></i><b>35.6.3</b> Die Sumpfzähne</a></li>
+</ul></li>
 </ul></li>
 <li class="chapter" data-level="36" data-path="eid-rah-kari.html"><a href="eid-rah-kari.html"><i class="fa fa-check"></i><b>36</b> Eid’ Rah Kari</a>
 <ul>
@@ -971,7 +1001,7 @@ Orbis Astea
 </ul></li>
 <li class="chapter" data-level="36.4" data-path="eid-rah-kari.html"><a href="eid-rah-kari.html#soziopolitische-lage-20"><i class="fa fa-check"></i><b>36.4</b> Soziopolitische Lage</a>
 <ul>
-<li class="chapter" data-level="36.4.1" data-path="eid-rah-kari.html"><a href="eid-rah-kari.html#herrschaftsystemorganisation-19"><i class="fa fa-check"></i><b>36.4.1</b> Herrschaftsystem/Organisation</a></li>
+<li class="chapter" data-level="36.4.1" data-path="eid-rah-kari.html"><a href="eid-rah-kari.html#herrschaftsystemorganisation-18"><i class="fa fa-check"></i><b>36.4.1</b> Herrschaftsystem/Organisation</a></li>
 </ul></li>
 <li class="chapter" data-level="36.5" data-path="eid-rah-kari.html"><a href="eid-rah-kari.html#klimatische-bedingungen-16"><i class="fa fa-check"></i><b>36.5</b> Klimatische Bedingungen</a>
 <ul>
@@ -981,7 +1011,7 @@ Orbis Astea
 </ul></li>
 </ul></li>
 <li class="chapter" data-level="36.6" data-path="eid-rah-kari.html"><a href="eid-rah-kari.html#gerüchte-der-region-15"><i class="fa fa-check"></i><b>36.6</b> Gerüchte der Region</a></li>
-<li class="chapter" data-level="36.7" data-path="eid-rah-kari.html"><a href="eid-rah-kari.html#sehenswürdigkeiten-16"><i class="fa fa-check"></i><b>36.7</b> Sehenswürdigkeiten</a></li>
+<li class="chapter" data-level="36.7" data-path="eid-rah-kari.html"><a href="eid-rah-kari.html#sehenswürdigkeiten-15"><i class="fa fa-check"></i><b>36.7</b> Sehenswürdigkeiten</a></li>
 </ul></li>
 <li class="chapter" data-level="37" data-path="EisenroteWueste.html"><a href="EisenroteWueste.html"><i class="fa fa-check"></i><b>37</b> Die Eisenrote Wüste</a>
 <ul>
@@ -998,7 +1028,7 @@ Orbis Astea
 <li class="chapter" data-level="37.5" data-path="EisenroteWueste.html"><a href="EisenroteWueste.html#eroberungszüge-der-rah-kari"><i class="fa fa-check"></i><b>37.5</b> Eroberungszüge der Rah Kari</a></li>
 <li class="chapter" data-level="37.6" data-path="EisenroteWueste.html"><a href="EisenroteWueste.html#soziopolitische-lage-21"><i class="fa fa-check"></i><b>37.6</b> Soziopolitische Lage</a>
 <ul>
-<li class="chapter" data-level="37.6.1" data-path="EisenroteWueste.html"><a href="EisenroteWueste.html#herrschaftsystemorganisation-20"><i class="fa fa-check"></i><b>37.6.1</b> Herrschaftsystem/Organisation</a></li>
+<li class="chapter" data-level="37.6.1" data-path="EisenroteWueste.html"><a href="EisenroteWueste.html#herrschaftsystemorganisation-19"><i class="fa fa-check"></i><b>37.6.1</b> Herrschaftsystem/Organisation</a></li>
 </ul></li>
 <li class="chapter" data-level="37.7" data-path="EisenroteWueste.html"><a href="EisenroteWueste.html#klimatische-bedingungen-17"><i class="fa fa-check"></i><b>37.7</b> Klimatische Bedingungen</a>
 <ul>
@@ -1008,7 +1038,7 @@ Orbis Astea
 </ul></li>
 </ul></li>
 <li class="chapter" data-level="37.8" data-path="EisenroteWueste.html"><a href="EisenroteWueste.html#gerüchte-der-region-16"><i class="fa fa-check"></i><b>37.8</b> Gerüchte der Region</a></li>
-<li class="chapter" data-level="37.9" data-path="EisenroteWueste.html"><a href="EisenroteWueste.html#sehenswürdigkeiten-17"><i class="fa fa-check"></i><b>37.9</b> Sehenswürdigkeiten</a></li>
+<li class="chapter" data-level="37.9" data-path="EisenroteWueste.html"><a href="EisenroteWueste.html#sehenswürdigkeiten-16"><i class="fa fa-check"></i><b>37.9</b> Sehenswürdigkeiten</a></li>
 </ul></li>
 <li class="chapter" data-level="38" data-path="die-graue-ödnis.html"><a href="die-graue-ödnis.html"><i class="fa fa-check"></i><b>38</b> Die Graue Ödnis</a>
 <ul>
@@ -1023,7 +1053,7 @@ Orbis Astea
 </ul></li>
 <li class="chapter" data-level="38.4" data-path="die-graue-ödnis.html"><a href="die-graue-ödnis.html#soziopolitische-lage-22"><i class="fa fa-check"></i><b>38.4</b> Soziopolitische Lage</a>
 <ul>
-<li class="chapter" data-level="38.4.1" data-path="die-graue-ödnis.html"><a href="die-graue-ödnis.html#herrschaftsystemorganisation-21"><i class="fa fa-check"></i><b>38.4.1</b> Herrschaftsystem/Organisation</a></li>
+<li class="chapter" data-level="38.4.1" data-path="die-graue-ödnis.html"><a href="die-graue-ödnis.html#herrschaftsystemorganisation-20"><i class="fa fa-check"></i><b>38.4.1</b> Herrschaftsystem/Organisation</a></li>
 </ul></li>
 <li class="chapter" data-level="38.5" data-path="die-graue-ödnis.html"><a href="die-graue-ödnis.html#klimatische-bedingungen-18"><i class="fa fa-check"></i><b>38.5</b> Klimatische Bedingungen</a>
 <ul>
@@ -1033,7 +1063,7 @@ Orbis Astea
 </ul></li>
 </ul></li>
 <li class="chapter" data-level="38.6" data-path="die-graue-ödnis.html"><a href="die-graue-ödnis.html#gerüchte-der-region-17"><i class="fa fa-check"></i><b>38.6</b> Gerüchte der Region</a></li>
-<li class="chapter" data-level="38.7" data-path="die-graue-ödnis.html"><a href="die-graue-ödnis.html#sehenswürdigkeiten-18"><i class="fa fa-check"></i><b>38.7</b> Sehenswürdigkeiten</a></li>
+<li class="chapter" data-level="38.7" data-path="die-graue-ödnis.html"><a href="die-graue-ödnis.html#sehenswürdigkeiten-17"><i class="fa fa-check"></i><b>38.7</b> Sehenswürdigkeiten</a></li>
 </ul></li>
 <li class="chapter" data-level="39" data-path="die-grenze-der-welt.html"><a href="die-grenze-der-welt.html"><i class="fa fa-check"></i><b>39</b> Die Grenze der Welt</a>
 <ul>
@@ -1048,7 +1078,7 @@ Orbis Astea
 </ul></li>
 <li class="chapter" data-level="39.4" data-path="die-grenze-der-welt.html"><a href="die-grenze-der-welt.html#soziopolitische-lage-23"><i class="fa fa-check"></i><b>39.4</b> Soziopolitische Lage</a>
 <ul>
-<li class="chapter" data-level="39.4.1" data-path="die-grenze-der-welt.html"><a href="die-grenze-der-welt.html#herrschaftsystemorganisation-22"><i class="fa fa-check"></i><b>39.4.1</b> Herrschaftsystem/Organisation</a></li>
+<li class="chapter" data-level="39.4.1" data-path="die-grenze-der-welt.html"><a href="die-grenze-der-welt.html#herrschaftsystemorganisation-21"><i class="fa fa-check"></i><b>39.4.1</b> Herrschaftsystem/Organisation</a></li>
 </ul></li>
 <li class="chapter" data-level="39.5" data-path="die-grenze-der-welt.html"><a href="die-grenze-der-welt.html#klimatische-bedingungen-19"><i class="fa fa-check"></i><b>39.5</b> Klimatische Bedingungen</a>
 <ul>
@@ -1058,7 +1088,7 @@ Orbis Astea
 </ul></li>
 </ul></li>
 <li class="chapter" data-level="39.6" data-path="die-grenze-der-welt.html"><a href="die-grenze-der-welt.html#gerüchte-der-region-18"><i class="fa fa-check"></i><b>39.6</b> Gerüchte der Region</a></li>
-<li class="chapter" data-level="39.7" data-path="die-grenze-der-welt.html"><a href="die-grenze-der-welt.html#sehenswürdigkeiten-19"><i class="fa fa-check"></i><b>39.7</b> Sehenswürdigkeiten</a></li>
+<li class="chapter" data-level="39.7" data-path="die-grenze-der-welt.html"><a href="die-grenze-der-welt.html#sehenswürdigkeiten-18"><i class="fa fa-check"></i><b>39.7</b> Sehenswürdigkeiten</a></li>
 </ul></li>
 <li class="part"><span><b>V Religionen</b></span></li>
 <li class="chapter" data-level="40" data-path="die-lehre-des-allgottes.html"><a href="die-lehre-des-allgottes.html"><i class="fa fa-check"></i><b>40</b> Die Lehre des Allgottes</a>
@@ -1709,6 +1739,7 @@ Orbis Astea
 <li class="chapter" data-level="" data-path="das-team-hinter-orbis-astea.html"><a href="das-team-hinter-orbis-astea.html#simon-valverde"><i class="fa fa-check"></i>Simon Valverde</a></li>
 <li class="chapter" data-level="" data-path="das-team-hinter-orbis-astea.html"><a href="das-team-hinter-orbis-astea.html#lena-pfeiffer"><i class="fa fa-check"></i>Lena Pfeiffer</a></li>
 <li class="chapter" data-level="" data-path="das-team-hinter-orbis-astea.html"><a href="das-team-hinter-orbis-astea.html#emil-mortensen"><i class="fa fa-check"></i>Emil Mortensen</a></li>
+<li class="chapter" data-level="" data-path="das-team-hinter-orbis-astea.html"><a href="das-team-hinter-orbis-astea.html#kasper-mortensen"><i class="fa fa-check"></i>Kasper Mortensen</a></li>
 <li class="chapter" data-level="" data-path="das-team-hinter-orbis-astea.html"><a href="das-team-hinter-orbis-astea.html#florian-berger"><i class="fa fa-check"></i>Florian Berger</a></li>
 <li class="chapter" data-level="" data-path="das-team-hinter-orbis-astea.html"><a href="das-team-hinter-orbis-astea.html#andreas-fellner"><i class="fa fa-check"></i>Andreas Fellner</a></li>
 </ul></li>

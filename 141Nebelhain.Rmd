@@ -2,6 +2,7 @@
 
 
 ![Karte von Nebelhain](Pictures/Maps/Nebelhain.jpg)
+
 > "Wer durch den Nebelhain durch will der hat seinen Verstand schon verloren bevor ihn der Nebelhain holen konnte."
 >
 > --- Heiler Arhenius Kaltius
@@ -90,13 +91,15 @@ Die Wirtschaftliche Lage ist unbedeutend. Lediglich wenige waghalsige Händler d
 
 Holz wird aus den Grenzregionen gewonnen. Hierbei gewinnen Appothis, Haag und Rintom das Material für den Bau von Ballisten, Katapulten und Häusern.
 
+Viele neue Arten von Bäumen und Tieren können in Nebalhain gefunden werden und Gelehrte zahlen oftmals Abenteurer, um diese unbekannten Arten zu ihnen zu bringen. 
+Nebelhain ist auch die Heimat verschiedener Monster, und viele Handwerker und Alchemisten zahlen viel Geld für Monstermaterialien aus dieser Region. 
+
+Und schlussendlich ist Nebelhaim auch eine Fundgrube für verlorene Städte und Relikte und viele reisen nach Nebelhaim, um diese Städte ihrer verlorenen Relikte und Reichtümer zu berauben - auch wenn die meisten dieser Glücksritter niemals heimkehren.
+
 ## Soziopolitische Lage
 
 Rechtlich war vor dem Verfall jede Region sich selbst beherrschend. Seit dem Felststurz von Istval, erhebt zwar das Reich der Rah-Kari wie auch, seit neuestem das Kaiserreich Anspruch auf den Nebelhain, jedoch gelingt es keiner Macht dort Grenzposten oder gar Städte zu errichten womit ide Ansprüche Totes-Recht in einer gestorbenen Region sind.
 
-### Herrschaftsystem/Organisation
-
-Recht des Stärkeren -es gibt keine Rechte durchsetzende Instanz im Nebelhain
 
 ## Klimatische Bedingungen
 
@@ -108,7 +111,7 @@ Seit dem Felssturz wurden die mild-Temperaten Bedingungen durch großteils kühl
 
 #### Monster in der Region
 
-##### Gemeiner Mooshügel
+##### Gemeiner Mooshügel {.unnumbered}
 
 Zu den vielleicht harmlosesten Monstern zählen Gemeine Mosshügel. Diese zeichnen sich durch rühiges Gemüt aus und folgen Häufig einsamen Wanderern durch den Nebelhain und bewahren diese des öfteren vor dem Ertrinken. Warum genau das der Gemeine Mosshügel macht ist unklar, womöglich verwechselt das Monster den Menschen mit einem großen Fisch lässt aber dann bei den schreienden Menschen von ihm ab. Generell können Mooshügel leicht durch lautes schreien verscheucht werden. Mosshügel stellen nur dann eine Bedrohung dar wenn sich die Männchen auf Partnersuche begeben. Dies merkt man an den nach Schwefel stinkenden Geruch un dem Knall Gelb gefärbten Rücken der Tiere. Mooshügel können hier von einer Handvoll bewaffneter Söldner mühelos überwältigt werden. Lediglich einzelne Kämpfer sollten sich vor ihnen in Acht nehmen.
 
@@ -124,7 +127,6 @@ Vermutlich mehr im Bereich der Legenden ist der Häuter von Eiden. Ehemals benan
 
 ![Der Häuter von Eiden](Pictures/Flavor/Platzhalter/nebelhainblutgottchampion.jpg)
 
-![Der Häuter von Eiden](Pictures/Flavor/Platzhalter/blutgottxchampionleichenhaufen.jpg)
 
 ## Gerüchte der Region
 
@@ -143,32 +145,27 @@ Dann bietet der Ernter der Seelen ihnen an sie zurück an den Ort ihrer Geburt z
 
 Worauf genau die Geschichte basiert, oder ob es diese Gestalt tatsächlich gibt, kann nicht zweifelsfrei gesagt werden. Zum einen ist diese Legende klassisch für allerlei Religionen, welche Selbstlosigkeit predigen, andererseits berichteten schon eine hand voll von diesen Begnungen, obwohl geschworen wurde nichts von der Geschichte zu kennen.
 
+### Der Drudarn-Clan
+
+Eine aus den Ländern südlich von Nebelhain stammende Seuche wurde in die Sümpfe transportiert. Diese Krankheit hatte eine hohe Sterblichkeitsrate und tötete viele Kreaturen, Tiere und Animali, die mit ihr in Berührung kamen. Ein Animali-Clan namens Drudarn fand heraus, dass eines seiner Mitglieder aufgrund seiner Mutation immun war. 
+Nachdem sie mit der spezifischen Mutation, die von einem der örtlichen Insekten stammte, experimentiert hatten, begannen sie, weitere Animali das Insekt besiegen zu lassen und es für ihre eigene Mutation zu verwenden. Nach vielen Generationen ist dieser Clan nun dafür bekannt, dass er die Mutation des Insekts besitzt, die ihn immun gegen die Krankheit macht. 
+
+Die Krankheit selbst wirkt sich auf die Lungen des Kranken aus. Das bedeutet, dass die Kreatur langsam ihre Lungenkapazität verliert, bis sie schließlich überhaupt nicht mehr atmen kann.
+
+Die Krankheit ist immer noch sehr verbreitet im Gebiet des des Drudarn-Clans, was andere Clans dazu veranlasst, Abstand zu halten.
+
+### Die Bande der Schwarzfeder
+Viele sagen, Nebelhain sei die personifizierte Hölle, da es unzählige Krankheiten und Monstrositäten beherbergt, die den Menschen unbekannt sind. Aus diesem Grund verbreiten die Menschen Gerüchte über diese Region wie ein Lauffeuer. 
+Ein solches Gerücht ist das über die schrecklichen Ritter von Nebelhaim: Die Menschen glauben, dass es eine Gruppe dämonischer schwarzer Ritter gibt, die durch die Sümpfe von Nebelhaim streifen. Reisende behaupten, es handele sich um die Ritter von Eldria, die bei der Erschaffung des Nebelhains ausgesandt wurden und starben. Andere glauben, dass sie die Manifestation des Sumpfes sind und dass sie nur existieren, um die Menschen zu töten, die es wagen, den Nebelhain zu betreten. Ein Reisender, der das Glück hatte, diese Ritter zu sehen und überlebte, sagte jedoch, dass er sich an das Symbol auf der Rüstung der Ritter erinnern konnte, und er behauptete, dass es zur Bande der Schwarzfeder gehörte, einer Bande von Rittern, die in Eiden umherstreiften, bevor es zerstört wurde. 
+
+### Der stöhnende Baum
+Mehrere Reisende und Händler, die durch Nebelhain reisten, erzählen Geschichten über den gleichen Vorfall. Sie alle berichten, dass sie während ihrer Reise plötzlich in der Ferne eine Person stöhnen hörten. Manchmal war es ein Mann, manchmal eine Frau und manchmal ein Kind. Die Reisenden schickten fast immer jemanden aus, um das Geräusch zu untersuchen, aber niemand kehrte jemals zurück. Einige Reisende versuchten, die Richtung, aus der das Geräusch kam, zu meiden, doch in manchen Fällen kamen die Geräusche näher an die Zeit heran. 
+Die Reisenden konnten das Stöhnen tagelang hören, bis sie schließlich den Sumpf verließen. Es heißt, dass die meisten Menschen durch die Geräusche, die sie in Nebelhaim hörten, verrückt wurden und dass viele noch immer Ängste von der Zeit dort haben. Manche Leute sagen, dass es fast ein Todesurteil ist, wenn man die Geräusche hört, und dass man am besten so schnell wie möglich dorthin zurücklaufen sollte, wo man herkommt.
+Ein Reisender namens Thomas Jeckmann konnte jedoch sehen, woher die Geräusche kamen und überlebte. Er erzählt von einer Geschichte, in der seine Karawane durch Nebelhaim reiste als sie plötzlich einen Mann stöhnen hörten. Ein paar Wachen gingen der Sache nach, kehrten aber nicht zurück. Nach einer Stunde untersuchte Jeckmann die Situation selbst, und als er schließlich am Ursprung des Geräusches ankam, sah er einen seiner Kameraden mit Holzspießen aufgespießt. Vor Schreck fiel er um und schlug mit dem Gesicht nach unten auf den Boden. Als er wieder aufblickte, konnte er endlich sehen, was die Geräusche verursacht hatte. Es war ein riesiger Baum mit dem Gesicht eines Dämons, der ihn und seine Männer angelockt hatte. Jeckmann rannte, so schnell er konnte, und wie durch ein Wunder überlebte er. Bis heute konnte kein anderer Mensch seine Geschichte bestätigen, aber wann immer Reisende in Nebelhaim Stöhnen hören, wissen sie sofort, dass sie in großer Gefahr sind. 
+
+
 ## Sehenswürdigkeiten
 
-Die Überreste von Alt-Haag, Eiden & \#\#\# Ash-Main-Tahp / Hejning
+Die Überreste von Alt-Haag, Eiden &  Ash-Main-Tahp / Hejning
 
-## AB hier veraltetes Lore
 
-## Wissenswertes über den Nebelhain {#NebelhainHintergrund}
-
-## Die Sumpfbewohner
-
-Viele verschiedene Rassen und Gruppen haben sich im Nebelhein häuslich eingerichtet, Menschen, Orks und andere unbekannte Wesen richten dort primitive behausungen ein und leben und Sterben wie die Fliegen.
-
-## Flora und Fauna
-
-### Swamp turtle
-
-These creatures, as their names imply, look like giant green turtles with elements of elephants as well. Many travelers who see them often mistake them for walking trees due to the size and quiet nature. They are mostly found in pacts around swamps and will only attack when provoked.
-
-![swamp turtle depiction](Pictures/Flavor/Platzhalter/swamp%20turtle%20depiction.jpg)
-
-### Cornelius
-
-Cornelius sind friedliche Herbivoren, die die lichteren Gegenden des Nebelhain und die Vorläufe von Appothis bewohnen. Sie sind Rudeltiere, die in festen Familienverbänden aufwachsen, reisen und sich gegenseitig verteidigen. Sollten sie sich verteidigen, verwenden sie ihren Kopf - dank der verstärkten Schädelplatte - als überraschend effektiven Rammbock.
-
-Durch ihre beeindruckende größe und ihrem langen Hals sehen sie mögliche Bedrohungen meistens sehr früh. Sie erreichen eine Hohe von bis zu drei Meter, und ihr Hals wird bis zu zwei Meter lang.
-
-![Cornelius depiction](Pictures/Flavor/Platzhalter/cornelius.jpg)
-
-Um diese Kreaturen zu bekämpfen, ist es empfehlenswert, ihre größe zum eigenen Vorteil zu nutzen. Aufgrund des langen Halses des Cornelius und seiner geringen Intelligenz ist es nicht schwer sie mit Hilfe von Fallen auszuschalten.
