@@ -357,7 +357,7 @@ Investiert man mehr Punkte in Söldner, bleibt bewaffneter Nahkampf auf 40, die 
 Eine Übersicht über die möglichen Fähigkeitsgruppen findet sich hier:
 
 ```{r}
-dfskillgruppe=read_xlsx("BookdownData/BookdownAllgemeinData.xlsx", sheet="Gruppenskills")
+dfskillgruppe=read_xlsx(bookdownallgdatapfad, sheet="Gruppenskills")
 
 dfskillgruppe = dfskillgruppe %>%
   unite("Skills",Skill1,Skill2, Skill3, Skill4,

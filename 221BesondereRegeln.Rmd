@@ -706,32 +706,17 @@ Ein Hund, der beispielsweise 5 Intelligenz hat, kann somit 5 Fähigkeiten erlern
 
 Je nach Tier können Fähigkeiten der folgenden Tabelle erlernt werden:
 
-|             Fähigkeit             |                                                               Beschreibung                                                                | Schwierigkeits-grad | Ausführungsgrenzwert |
-|:---------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------:|:-------------------:|----------------------|
-|              Angriff              |                                            Schaden und Statuseffekte können verursacht werden                                             |          1          | 5                    |
-|         Taschendiebstahl          |                                                                                                                                           |         3,5         | 7,5                  |
-|             Ablenkung             | Tier dient der Ablenkung einer Person durch Lärm, Chaosverursachung, oder anderen Aktionen, die die Aufmerksamkeit auf sich ziehen lassen |          1          | 5                    |
-|       Alamieren, (Be)Wache        |                                                                                                                                           |          1          | 5                    |
-|         Botentätigkeiten          |                                     Das Überbringen von Botschaften, wie man es von Brieftauben kennt                                     |          2          | 6                    |
-|     Suchen / Auskundschaften      |                                                             Spähertätigkeiten                                                             |          3          | 7                    |
-|             Grappeln              |                                      Ein Tier könnte das Bein des Gegners festhalten oder reinbeißen                                      |          2          | 6                    |
-|             Interrupt             |                    Ein Tier springt gegen einen Gegner, oder schubst ihn, sodass er seine Aktion nicht ausführen kann.                    |          2          | 6                    |
-|           Fährtenlesen            |                                                                                                                                           |          1          | 5                    |
-|        Sprechen (papagei)         |                                                                                                                                           |          3          | 7                    |
-|        Blocken / schützen         |                                             Tier blockt einen Angriff mit dem eigenen Körper                                              |          3          | 7                    |
-|              Flucht               |                 Wird die Situation brenzlich, so kann der Rückzug angeordnet werden, damit das Tier keinen Schaden nimmt                  |          1          | 5                    |
-|            Todstellen             |                                                                                                                                           |          2          | 6                    |
-|           Gift abmelken           |                                                     Tiere, die aktiv Gift produzieren                                                     |         2,5         | 6,5                  |
-|            Persuation             |                                      Besänftigung, Mitleid erregen;  niedlicher Welpe / Puppy eyes,                                       |          1          | 5                    |
-|              Abhören              |                                             Ein Papagei könnte wiederholen, was er gehört hat                                             |          3          | 7                    |
-|            Apportieren            |               Herbeibringen des vom Befehlsgeber genannten Gegenstands; eine Person aus dem Gefecht ziehen, wenn bewusstlos               |          1          | 5                    |
-|            Blockieren             |    Wege oder Durchgänge mit dem eigenen Leib einfach blockieren, sodass das Tier erstmal umgangen, oder beiseite geschoben werden muss    |          2          | 6                    |
-|        Gegenstände werfen         |                           Flugtiere können Gegenstände, wie Steine, etc., aus der Luft auf Gegner fallen lassen                           |          2          | 6                    |
-|           Gift erkennen           |                                                   Feine Nasen können Gifte erschnuppern                                                   |          3          | 7                    |
-| Graben / Buddeln / Fallen stellen |                                                   Löcher buddeln, Spinne Netze spannen                                                    |          1          | 5                    |
-|           Einschüchtern           |                                    Durch Lautstärke oder Größe eine einschüchterne Wirkung erschaffen                                     |          1          | 5                    |
-|          Versteck dich!           |                          Wird ein Hinterhalt geplant, so muss auch das Tier wissen, wenn es sich verstecken muss                          |          1          | 5                    |
-|       Verfolgung aufnehmen        |                                                                                                                                           |          2          | 6                    |
+```{r}
+dft = read_excel(allgdatapfad, sheet = "Tierfähigkeiten")
+
+colnames(dft) = c("Fähigkeit","Schwierigkeitsgrad", "Ausführungsgrenzwert","Beschreibung","Check", "Zusatz")
+
+dft %>% relocate("Fähigkeit", "Beschreibung", "Schwierigkeitsgrad","Ausführungsgrenzwert") %>% 
+  select("Fähigkeit", "Beschreibung", "Schwierigkeitsgrad","Ausführungsgrenzwert") %>% 
+  replace_na(list(Beschreibung="")) %>% 
+  knitr::kable(align = c('c', 'c', 'c',"c"))
+```
+
 
 ### Das Zähmen eines Wildtiers
 

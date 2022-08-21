@@ -722,6 +722,7 @@ getFeiertag = function(wherees){
 
 ```{r}
 bookdownallgdatapfad="BookdownData/BookdownAllgemeinData.xlsx"
+allgdatapfad= "Container/Data/AllaroundDataStorage.xlsx"
 
 Feiertagdf = read_excel(bookdownallgdatapfad,sheet="Feiertage")
 ```
