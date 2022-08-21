@@ -969,7 +969,7 @@ Hierbei sollten die nicht als "Beute" ausgelegten Personen sich visuell tarnen u
 Sobald die Znitins herauskommen und in Sichtweite sind sollte auf diese geschossen werden da der Nahkämpfer unter Umständen sehr rasch überwältigt werden kann.
 Vor allem wenn keine Schilder verwendet werden.
 
-Das Gift der Znitins lähmt extrem lange und lediglich die Elfen haben Gegenmittel.
+Das Gift der Znitins lähmt extrem lange und lediglich die Elfen haben bekanntes Gegenmittel.
 Diese Mittel werden allerdings aus religiösen Gründen nur an andere Elfen weitergegeben.
 
 Die Spinnen sind primär Tagsüber aktiv, sehen jedoch nachts noch immer besser als die meisten Elfen, wodurch das erledigen der Znitins am Tag die sichere Variante ist.
@@ -977,6 +977,41 @@ Die Spinnen sind primär Tagsüber aktiv, sehen jedoch nachts noch immer besser 
 Die Spinnen sind überraschend intelligent und ziehen sich häufig einfach zurück sobald die Situation ihnen nicht geheuer erscheint.
 
 ![Darstellung zweier Znitins Spinnen in Silva Nacia.](Pictures/Flavor/Platzhalter/znitins_spider2.jpg)
+
+### Die Grawä Spinne
+
+Die Grawäspinne, von Menschen und Zwergen Reitspinne genannt, ist eine natürlich vorkommende Art von Spinnen, welche die Wälder nördlich und westlich der Himmelsspitzengebirge bewohnen.
+
+Die Spinnen leben in monogamen Paaren, wo die Weibchen die Partner auswählen. Obwohl die Männchen früher für eine eigene Spezies gehalten wurden, konnte das Beobachtung der Paarung als auch die einige Monate später erfolgende Eiablage von Andrian von Bergfäll beschrieben werden. (hier vlt ein Zitat)
+Die Färbung ist charakteristisch braun-grau mit dotierten Streifen am nicht gepanzerten Hinterkörper der Spinne. Der Bereich um die Kieferklauen, welche parallel zueinander arbeiten sind pechschwarz und von einem gelb-roten Haarsaum umgeben.
+Wie alle Spinnen, besitzt auch die Grawäspinne 8 Beine und ist eine formidable Sprinterin. Die Fähigkeit zum Sprinten wird allerdings durch den mangel an allgemeiner Ausdauer kompensiert. Dadurch ist es Spinnen im offenen Gelände schwer möglich an ihre Nahrung – alles was kleiner und langsamer ist als sie – heranzukommen.
+Der Biss der Spinne ist selbst bei kleinen Exemplaren in hundsgröße extrem schmerzhaft und führt unbehandelt häufig zum Tode durch Vergiftung. Die Spinnenart wächst ihr lebenslang, was dazu führt das Matriarchinnen von Stämmen auf teils 10 Meter umspannenden Spinnen reiten. Legenden zufolge soll die größte Spinne von Üräid der Weisen so groß gewesen sein, wie alle 600 Mitglieder des Stammes Schulter-an-Schulter aneinandergereiht.
+
+Die Spinne selbst ist natürlicherweise ein aktiver Jäger. Abgesehen von einem Sicherungsspinnfaden, produzieren die Grawäspinnen keine Netze. Dementsprechend sind Elfen in Spinnseidenrüstung meist von anderen wilden Spinnennetzen entnommen.
+Die Spinne ist in der Nachtsicht eingeschränkt, kann sich allerdings langsam und grob auf ihren exzellenten Tast- und Vibrationssinn verlassen.
+Das Gift der Spinne, weder formidabel noch zu verachten, wird von geübten Tierpflegern entnommen, um so Pfeile und Fallen der Elfen zu vergiften. Dies wird selbstverständlich nicht zur Jagd verwendet, da das Fleisch dann selbst für Orks ungenießbar wäre.
+
+Die Aufzucht der Jungen erfolgt von beiden Elternteilen. Die männliche Spinne ist meist mit der Verteidigung der Jungspinnen während der Jagd der Mutter beschäftigt, was nach wenigen Monaten allerdings weniger bedeutungsvoll wird, da die Jungspinnen dann beginnen selbst zu Jagen. 
+
+Die Bezeichnung der Grawäspinne als Reitspinne rührt daher, dass Waldelfen diese Spinne über lange Zeit bereits gezielt züchten und damit domestizieren. Die kurze Generationszeit der Spinnen, meist liegen nur 3 Jahren zwischen den Eiablagen, das rasche Erwachsenwerden der Spinnen, wie auch die monogame Partnerschaft zwischen den geschlechtsreifen Tieren führt zu einer idealen Bedingung zum Anpassen der Verhaltensmuster der Tiere.
+Die Elfen, welche häufig in Stämmen leben und dort streng geteilte „Pfade“ haben, passen so die Spinnen den Aufgaben des jeweiligen Pfades an.
+So sind Spinnen der Jäger- und Kriegerkaste Silva Nacias ausgelegt zum Springen und Kämpfen, während die der „Naturhüter“ mehr auf Tragfähigkeit ausgelegt ist.
+
+
+Da es, laut elfischen Erzählungen natürlicherweise häufig vorkommt, dass Spinnenmännchen bei der Verteidigung der Brut häufig versterben, ersetzten die Spinnenreiter der Elfen dieses Männchen. Dadurch kann der Elf mit der Zeit eine blasphemisch enge Beziehung zu diesen Tieren aufbauen. 
+
+Spinnen welche aus unterschiedlichen Gründen ihren elfischen oder Artgleichen Partner verlieren, zeigen immer das gleiche Verhaltensmuster. Für etwa ein Jahr wachen sie am Grabesplatz ihres Partners und verwildern nach und nach. Daraufhin suchen sie sich neue Jagdgebiete. Von den Waldelfen werden solche halb-verwilderten Spinnen als Vöroäa’s beschrieben, was so viel bedeutet wie „Beschützer des Waldes“, obwohl sie zumeist sowohl Elfen als auch Menschen angreifen.
+
+Zu den natürlichen Feinden dieser Spinne gehören die, von Grotad von Kreuzberg zum ersten Mal ausführlich beschriebenen, Grotad-Wespen. Diese Jagen Spinnen ab einer „reitbaren“ Größe jeglicher Art und überwältigen mittels ihres beweglichen Hinterkörpers und dem rund 1,5 Meter langen Stachel mittels Lähmungsgift die Spinne. In die gelähmte Spinne wird anschließend ein Ei in den Hinterkörper gelegt. Von dort aus ernährt sich die schlüpfende Larve von der gelähmten, aber weiter lebendigen Spinne. Elfen probieren immer wieder die einzelgängerisch lebenden Wespen sofort zu töten, was sich als schwieriges Unterfangen erweist, da diese Wespen nur in der Nacht die Grawä-Spinnen jagt und sich ansonsten häufig in Erdhöhlen zurückzzieht.
+
+Da die Grawäspinne sich regelmäßig häuten muss, um zu wachsen, nutzen Elfen die zurückgelassenen Chitinpanzer als Rüstung und die Kieferklauen als Waffen. Es werden allerdings etliche Häute benötigt um ein volles Set an Rüstung, welcher von der Widerstandsfähigkeit mit schlechtem Eisenkettenhemd hin zu herausragendem Stahlekettenhemd mithalten kann. So ist für die Waldelfen Silva Nacias, ein besonderer Tag, wenn ein Spinnenreiter nach mehreren Jahren eine vollständige Rüstung aus seiner „Partnerin“ trägt.
+
+Die Bekämpfung dieser achtbeinigen Ungetümer, sollte tunlichst NICHT in einem Wald erfolgen, da dadurch Angriffe von allen Seiten erfolgen können.
+Es empfiehlt sich, berittene Spinnen zu Tags in offenen Flächen zu bekämpfen und dabei auf den Weichen Hinterkörper zu zielen. Unberittene Spinnen sollten ebenfalls auf offenen Flächen und in der Nacht bekämpft werden.
+Es wird explizit von Bärenfallen abgeraten, da diese sehr selten ausgelöst werden, bedingt durch die Stelzenartigen Beine der Spinne.
+Zu befürworten ist Feuer und ein Licht des Allgottes um die Spinnen zu blenden und auf Abstand zu halten. Der Trick mit der großen Fackel in der Hand eignet sich meist ausreichend gut um natürliche Grawäspinnen auf Distanz zu halten. Ab einer gewissen größe verlieren allerdings die berittenen Kampf-Grawäspinnen der Elfen ihre natürliche Scheu vor Feuer.
+
+
 
 ## Schleimer
 

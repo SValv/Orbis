@@ -16,6 +16,7 @@ orits
 reitspinnen
 relgion
 das-leben-der-unterworfenen-stadtelfen
+das-leben-der-elfen-im-zumtobelwald
 verhältnis-zu-den-anderen-rassen
 orte
 deus-arbor
@@ -409,6 +410,7 @@ der-kampf-der-kolosse
 klimatische-bedingungen-10
 die-flora-und-fauna-10
 monster-in-der-region-10
+die-legende-von-üräid-der-weisen
 sehenswürdigkeiten-10
 RegionSilvaNacia
 ortschaften-der-region-10
@@ -673,6 +675,7 @@ blauer-merkantolith
 Skrogan
 silurian-skorpion
 znitins
+die-grawä-spinne
 schleimer
 fungalit
 knochenschädler
@@ -871,6 +874,16 @@ aufbau-ingame
 akku
 batterie-1
 vehicel-skill
+AnimalHandling
+an-tieren-zu-beachten
+erlernbare-fähigkeiten
+das-zähmen-eines-wildtiers
+TierTraining
+preis
+loyalität
+ausführung
+maximale-tieranzahl
+tierschaden
 Items
 Zustand
 Waffen

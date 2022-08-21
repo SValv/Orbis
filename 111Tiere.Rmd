@@ -21,6 +21,8 @@ Diese haben den Vorteil, dass sie schwerer zu treffen sind, aber dafür auch mei
 
 #### Huhn {.unnumbered}
 
+![Ein Huhn, wie es aus jedem Dorf bekannt ist.](Pictures\\Flavor\\Tiere\\Huhn_Pixabay.jpg)
+
 Das Huhn gilt als das häufigste Haustier in Orbis.
 Dies liegt nicht nur daran, dass sie sich schnell vermehren, sondern hängt auch damit zusammen, dass sie sehr nützlich im Alltag sind.
 Sie liefern Federn für die Verarbeitung und lassen sich äußerst gut verzehren.
@@ -31,6 +33,9 @@ getTierTable("Huhn")
 ```
 
 #### Katze {.unnumbered}
+
+![Eine Katze, wie sie in jedem Dorf mindestens vierfach vertreten ist.](Pictures\\Flavor\\Tiere\\Katze_Pixabay.png)
+
 
 Oft als leichfüßig und egoistisch beschrieben, sind Katzen dennoch sehr gute Jäger, was besonders in rattenreichen Umgebungen hilfreich sein kann.
 Sie sind sehr eigen und lassen sich wenig von ihren "Besitzern" sagen.
@@ -58,9 +63,15 @@ getTierTable("Ratte")
 
 #### Schlange {.unnumbered}
 
-Schlangen sind seltenere Zeitgenossen.
-Jeder hat vielleicht mal eine gesehen, jedoch werden sie seltener als Haustier gehalten.
-Insgesamt ist zu unterscheiden zwischen giftigen und ungiftigen Schlangen.
+![Eine Schlange, wie sie womöglich jeder einmal gesehen hat.](Pictures\\Flavor\\Tiere\\Schlange_Pixabay.png)
+
+
+Der Kontakt mit Schlangen ist eher selten. Jeder hat vielleicht mal eine gesehen, jedoch werden sie seltener als Haustier gehalten. Insgesamt ist zu unterscheiden zwischen giftigen und ungiftigen Schlangen.
+
+Giftige Schlangen gehen eher einmal in eine Angriffshaltung.
+![Eine Schlange, die sich angriffsbereit macht.](Pictures\\Flavor\\Tiere\\Schlange_Pixabay3.png)
+
+
 Findet man ein giftiges Exemplar, so kann es sich durchaus lohnen zu versuchen das Gift abzuzapfen - hierzu ist jedoch eine gute [Handhabung von Tieren](#AnimalHandling) an den Tag bringen.
 
 ```{r}
@@ -157,6 +168,9 @@ Große Tiere sind sehr teuer in der Unterhaltung und stehen daher meistens nur d
 
 #### Esel {.unnumbered}
 
+![Der Esel, das treue Arbeitstier.](Pictures\\Flavor\\Tiere\\Esel_Pixabay.png)
+
+
 Der Ruf des sturen Esels wird den friedfertigen Wesen in den meisten Fällen nicht gerecht.
 Sie sind unglaublich nützlich, wenn es um das transportieren von landwirtschaftlichen Gütern oder Handelswaren geht.
 Sie können auch als [Reittiere](#Reiten) hergenommen werden.
@@ -174,6 +188,9 @@ Dabei sind sie nicht nur für den Transport geeignet, sondern bringen auch einen
 Sie sind recht teuer in der Erhaltung, werden gerne gestohlen und sich tatsächlich auch sehr anfällig dafür nutzlos zu werden, wenn sie sich verletzten.
 Pferde müssen regelmäßig bewegt und trainiert werden.
 
+![Pferde und Esel kommen durchaus gut miteinander zurecht.](Pictures\\Flavor\\Tiere\\PferdEsel_Pixabay.jpg)
+
+
 ```{r}
 getTierTable("Pferd")
 ```
@@ -190,6 +207,9 @@ getTierTable("RahKariPferd")
 ```
 
 #### Kuh {.unnumbered}
+
+![Das weiche Gesicht einer Milchkuh.](Pictures\\Flavor\\Tiere\\Kuh_Pixabay.png)
+
 
 Kühe sind ein absolutes Muss für jeden Landwirt.
 Sie liefern Nahrungsmittel und Materialien, produzieren Dünger und sind wenig aufwendig in der Haltung.
@@ -292,7 +312,7 @@ getTierTable("Giraffe")
 
 #### Strauß {.unnumbered}
 
-![Die Zeichnung des überdimensioniert aussehenden Vogel-Strauß.](Pictures\\\\Flavor\\\\Tiere\\\\Ostrich_Pixabay.png)
+![Die Zeichnung des überdimensioniert aussehenden Vogel-Strauß.](Pictures\\Flavor\\Tiere\\Ostrich_Pixabay.png)
 
 
 Manche fragen sich vielleicht, warum ein Strauß ein Landlebewesen ist, obwohl er doch Flügel hat und Eier legt, wie andere Vögel?
@@ -349,6 +369,9 @@ getTierTable("Gans")
 
 #### Taube {.unnumbered}
 
+![Die allgemein bekannte Straßentaube.](Pictures\\Flavor\\Tiere\\Taube_Pixabay.png)
+
+
 Tauben sind sehr nützlich in der Kommunikationsinfrastrutkur.
 Sie werden als Kurrier eingesetzt, um Distanzen schneller als mit der Kutsche zurückzulegen.
 Ihren Orientierungssinn verdanken sie dabei den magnetischen Feldern der Erde.
@@ -361,11 +384,19 @@ getTierTable("Taube")
 
 #### Papagei {.unnumbered}
 
+![Dieser bunte Vogel mit all seinen Farben und Fähigkeiten ist ein absoluter Hingucker.](Pictures\\Flavor\\Tiere\\Papagei_Pixabay.png)
+
+
 Papageie sind kluge Vögel, die sich durch andere Werkezeuge zu helfen wissen, wenn sie mit ihren Schnäbeln nicht weiterkommen.
 Sie sind wunderschön anzusehen und dazu in der Lage, gehörte Laute zu reproduzieren.
 Dabei sind sie in der Lage bis zu 100 Wörter zu "erlernen" und zu wiederholen.
 Diese Fähigkeit ist für die Menschen, Elfen, Zwerge, etc. kaum vorstellbar und stößt auch auf viel Skepsis.
 Viele sagen den Besitzern der Vögel nach, sie würden mit Bauchrednerei ihre Vögel zum "sprechen" bringen.
+
+Aufgrund ihrer Schönheit, sind diese Vögel jedenfalls sehr begehrt unter jenen wenigen, die einen Papagei sehen und erleben konnten. Um ihre Bekanntheit und somit ihren Marktwert zu steigern, kusieren daher auch Gemälde dieses Tieres.
+
+![Gemälde wie dieses vom Künstler Yusef Anwar erlangen zunehmende Popularität.](Pictures\\Flavor\\Tiere\\PapageiGemälde_Pixabay.jpg)
+
 
 ```{r}
 getTierTable("Papagei")
@@ -373,7 +404,7 @@ getTierTable("Papagei")
 
 #### Rabe {.unnumbered}
 
-Raben sind überaus intelligente Vögel!
+Raben sind überaus intelligente und eigentlich auch schöne Vögel!
 Sie sind durchaus kreativ in der Lösungsfindung und sind fast überall zu finden.
 Sie sind soziale Wesen, die sich auch gerne gegenseitig trösten oder miteinander spielen.
 Geht ein Rabe eine Freundschaft mit einem anderen Raben ein, so beklaut er diesen weniger wahrscheinlich.
@@ -434,7 +465,8 @@ getTierTable("Seeschlange")
 #### Krake {.unnumbered}
 
 Kraken sind schalenlos, skelettlose Wesen, die die Unterwasserwelt zu ihren Spielplatz machen.
-Aufgrund ihres weichen Körpers, können sie auch durch die engsten Zwischenräume schlüpfen und somit geniale Hinterhalte planen.
+Aufgrund ihres weichen Körpers, können sie auch durch die engsten Zwischenräume schlüpfen und somit geniale Hinterhalte planen. Das Aussehen eines Kraken könnte auch der Beschreibung eines Fantasietieres entsprechen.
+
 Der Krake hat ein hervorragendes Gedächtnis und ist überaus klug!
 Wird es für ihn zu gefährlich, so stößt er eine tintenähnliche Flüssigkeit aus, welche nicht nur die Sicht des Angreifers vernebelt, sondern auch seinen Geruchssinn betäubt.
 Bis der Angreifer seine Sinne zurückerlangt hat, ist der Krake längst geflohen.
@@ -447,7 +479,7 @@ getTierTable("Krake")
 
 #### Krokodil {.unnumbered}
 
-![Ein Warnbild für schwimmfreudige Personen nahe krokodillastiger Gewässer.](Pictures\\\\Flavor\\\\Tiere\\\\Alligator_Pixabay.png)
+![Ein Warnbild für schwimmfreudige Personen nahe krokodillastiger Gewässer.](Pictures\\Flavor\\Tiere\\Alligator_Pixabay.png)
 
 
 Krokodile wirken wie gemütliche und träge Tiere.
@@ -462,6 +494,8 @@ getTierTable("Krokodil")
 ```
 
 #### Walross {.unnumbered}
+
+![Die Zeichnung einer Walrossmutter mit ihrem Neugeborenen.](Pictures\\Flavor\\Tiere\\Walrossmama_Pixabay.png)
 
 Wer einem Walross mal bei der Jagd zugeschaut hat, wird sich fragen, warum sie dabei so oft auf dem Rücken schwimmen.
 Die Antwort liegt in ihrer Anatomie: sie können ihre Augen nicht so drehen, dass sie sehen können, was unter ihnen passiert.
