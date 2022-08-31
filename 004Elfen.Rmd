@@ -44,7 +44,7 @@ Elfen, welche sich unterordneten und zu Stadtelfen wurden, lebten offiziell als 
 ## Das heutige Leben der Elfen
 
 
-Waldelfen leben, wenig überraschend in Wäldern. Die Stämme haben meist lose, zerbrechliche Bande untereinander. Typische Stammgrößen sind 500-800 Personen. In Silva Nacia, das größte noch zusammenhängende Waldgebiet, lebt allerdings eine weitaus größere Menge. Geschätzt werden knapp 500.000 bis 1.000.000 Elfen im gesamten Gebiet von Silva Nacia.
+Waldelfen leben, wenig überraschend, in Wäldern. Die Stämme haben meist lose, zerbrechliche Bande untereinander. Typische Stammgrößen sind 500-800 Personen. In Silva Nacia, das größte noch zusammenhängende Waldgebiet, lebt allerdings eine weitaus größere Menge. Geschätzt werden knapp 500.000 bis 1.000.000 Elfen im gesamten Gebiet von Silva Nacia.
 
 Die höchste Dichte an Elfen, was allerdings mit einer Stadt gleichzusetzen ist, findet sich in Sildrem Ird, welche östlich durch die alte Verbindungsstraße zwischen Agiontum und Calvert führt.
 Lose, teils eng aneinander liegende Stämme an Waldelfen leben hier in relativen Frieden zueinander, abgesehen von üblichen kleineren Blutfehden.
@@ -53,17 +53,17 @@ Geführt werden Elfenstämme immer von einer Matriarchin. Sie entscheidet als ob
 
 Gesandte selbst übernehmen oftmals die Funktion von Diplomaten, daher die naheliegende Übersetzung.
 
-Prinzipiell haben alle Stämme sehr idente Arbeitsaufteilungen mit jeweils vier „Stufen“.
+Prinzipiell haben alle Stämme sehr idente Arbeitsaufteilungen mit jeweils vier „Stufen“:
 
-Jüngling - Jungelfen bevor diese sich für einen Pfad entschieden haben.
+* Jüngling - Jungelfen bevor diese sich für einen Pfad entschieden haben.
 
-Lernender – Elfen nach Abschluss ihrer Reifeprüfung mit gewähltem Pfad und eigener Reitspinne.
+* Lernender – Elfen nach Abschluss ihrer Reifeprüfung mit gewähltem Pfad und eigener Reitspinne.
 
-Aufrechter – Vollerwachsene Elfen eines Pfades, in der Regel zwischen 25 und 50 Winter alt.
+* Aufrechter – Vollerwachsene Elfen eines Pfades, in der Regel zwischen 25 und 50 Winter alt.
 
-Gesandter – Häufig älteste des Pfades mit der meisten Erfahrung oder dem größten Geschick.
+* Gesandter – Häufig älteste des Pfades mit der meisten Erfahrung oder dem größten Geschick.
 
-Matriarchin - Weiblicher Elf, welcher von den Gesandten der Pfade vorgeschlagen wird und am Heiligen Plateauberg von Deus Arbor vereidigt wird. Oberste Entscheiderin für stammliche Belange. Wird von den Elfen selbst Mirän genannt.
+* Matriarchin - Weiblicher Elf, welcher von den Gesandten der Pfade vorgeschlagen wird und am Heiligen Plateauberg von Deus Arbor vereidigt wird. Oberste Entscheiderin für stammliche Belange. Wird von den Elfen selbst Mirän genannt.
 
 
 

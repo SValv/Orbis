@@ -2,10 +2,15 @@
 
 # Für DM's und die, die es werden Wollen
 
+Das wichtigste für gutes DM-sein ist eine tiefe Kenntnis der Regeln und das richtige Interpretieren der Values. Natürlich gehören auch viele andere Qualitäten dazu, allerdings sind diese zwei für unser System spezifisch. 
+
 ## Wie intepretiere ich Values und Würfe {#Abstufungen}
 
+Ein Value ist ein Gütekriterium von einem Wurf - egal ob Probe, Save oder anderes - und wird von der DM-App für fast alle Aktionen zurückgemeldet. Das interpretieren von Values ist gerade am Anfang nicht sonderlich leicht, ein Value von 2 beispielsweise spricht dafür dass die Aktion durchschnittlich war. Um Values einfach interpretieren zu können, muss man ein Gefühl dafür entwickeln. Dafür gibt es den [Value Estimator](https://svalv.shinyapps.io/ValueEstimator/), eine Online-App in der mit verschiedenen Attributen und Skilleveln über 20 Millionen Würfe simuliert sind, damit ihr schneller und besser einen Überblick über das Value-System bekommen könnt. Wählt hierbei zuerst den richtigen Datensatz aus, wenn ihr die weniger tödliche Variante mit Damage-Cap bei 550 und Value-Cap bei 13 spielt, müsst ihr unter settings "begrenzte Values" auswählen. Ansonsten die unbegrenzten. Für den seltenen Fall dass euch Monster wichtig sind, gibt es den Datensatz Monstervalues, bei denen mit Attributen bis zu 80 simuliert wurde.
 
 ### Was machen kritische Würfe
+
+Bei kritischen Erfolgen/Misserfolgen wird im Hintergrund ein D20-Würfel geworfen. Die DM-App meldet euch kritische Erfolge mit roter (bei Nat 20s) oder gelber Schrift zurück. Kritische Misserfolge werden mit blau (Nat 1) oder grün zurückgemeldet. Bei derartigen Modifyern hat man als DM oft die Möglichkeit zusätzliche Belohnungen/Strafen einzuführen. 
 
 ## Queststufen
 

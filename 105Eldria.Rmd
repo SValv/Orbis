@@ -11,7 +11,7 @@ Die größten und mächtigsten Fürstentümer sind <font color="green">[Aerlham]
 Einschätzungen zufolge besteht Eldria aus über 300 Fürstentümern, wobei nur die größten 6-10 relevant sind. Manche der Fürstentümer sind nur Unterfürstentümer wichtigerer Fürstentümer, denen sie Treue und Loyalität schulden, andere sind eigenständige Kleinfürstentümer, die sich - um nicht von den anderen, größeren, Fürstentümern übernommen zu werden - in Allianzen zusammenschließen.
 
 
-## Die Geschichte von Eldria
+## Die Geschichte von Eldria {#Die Geschichte von Eldria} 
 
 ### Das Königreich Eldrias
 
@@ -27,7 +27,7 @@ Das Königreich Eldria war wenig expansiv und hatte außerhalb von Handel mit de
 
 Der Fall des Königreichs kam mit dem Fall von Wandia. Als im Jahre [] ein ungewöhnlich großer und mächtiger wahrer Drache über Wandia herfiel und die Stadt in einen Trümmerhaufen verwandelte. Auch die Tiefstadt wurde von ihm vernichtet, wobei viele Donnerwächter und das gesamte Königshaus Eldrias ihre Leben verloren.
 
-### Die Aufsplitterung
+### Die Aufsplitterung {#Die Aufsplitterung}
 
 Ohne die Macht Wandias und die Führung des Königshausen brachen die Fürstentümer Eldrias beinahe direkt außeinander und der erste eldrische Bürgerkrieg um Macht, Territorium und Ressourcen brach aus. Die Unruhen wurden weiter verstärkt von dem wahren Drachen, der alles einäscherte, was sich Wandia zu sehr näherte und den Elfen des Silva Nacia, die den Eldriern den Verlust des Baumsätzlings nicht verzeihen konnten und mit ihren eigenen Truppen nun regelmäßig in Eldria einfielen.
 
@@ -52,7 +52,7 @@ Dadurch übernahm Aerlham die Führungsrolle unter den Fürstentümern - wobei m
 
 Allerdings besetzte Aerlham kurzzeitig die Heimat der Halblinge - Yondalla - im Jahre 190 nach Riga.
 
-### Die kaiserliche Besatzung
+### Die kaiserliche Besatzung {#Die kaiserliche Besatzung}
 
 Seit nunmehr 8 Jahren ist Eldria von den Kaiserlichen besetzt. In der Schlacht um Aerlham ging die eldrische Großarmee verloren, eine Art zusammengerufene Armee sämtlicher Fürstentümer. 
 Obwohl sich Eldria nicht allzu bald von diesem Schlag erholen können wird ist der Widerstand gegen das Kaiserreich allgegenwärtig spürbar. Während manche Teile Eldrias in offener Rebellion stehen, sind in den meisten Guerilliaorganisationen unterwegs, welche versuchen die Kaiserlichen aufzuhalten oder zu behindern. Wieder andere Fürsten stellen sich aktiv auf die Seite des Kaiserreichs in der Hoffnung die eigene Position und Macht zu erweitern.
@@ -121,7 +121,7 @@ Aufgrund der zentralen Lage Gents ist es eines der einkommensreichsten Fürstent
 
 Gent ist zudem jenes Fürstentum, welches religiös am wenigsten von der Kirche Darcys berührt wurde. Obwohl es einige Anhänger des Lichts gibt, sind die meisten Menschen in Gent Anhänger einer polytheistischen Urreligion, die an den Kampf der grauen Götter glaubt.
 
-### Austen
+### Austen {#Austen}
 
 > "Wenn es in Austen nicht wächst, dann wächst es nirgendwo."
 >
@@ -131,11 +131,11 @@ Austen ist das landwirtschaftlich nutzbarste Gebiet in Eldria, weswegen der Gro�
 
 In Austen gibt es keinen herkömmlichen Fürsten, sondern nur die Vorherrschaft des Großbauernverbandes, in dem die Bauern mit den 10 größten Höfen ein Stimmrecht haben.
 
-### Hasting
+### Hasting {#Hasting}
 
 Hasting ist das Fürstentum, welches am nähesten an Silva Nacia liegt und daher auch am meisten Probleme mit den Elfen dort hat. Daher sind die Ritter und die jungen Männer Hastings oft auf Elfenjagd, irrelevant, ob es sich um Elfen des Silva Nacia oder arme Stadtelfen handelt.
 
-### Darcy
+### Darcy  {#Darcy}
 
 In Darcy ist die größte Kathedrale Eldrias, die Chromatia Narista, beheimatet. Die Chromatia Narista wird von den meisten, die Darcy einmal besucht haben, als eines der beeindruckensten Wunder der Welt bezeichnet. Sie ist Mittelpunkt der Religion der "", die an die Göttlichkeit in der Einhaltung des ritterlichen Ehrenkodex glauben. 
 Darcy hat die größten Schulen für junge Geistliche und wird im Gegensatz zu den üblichen Fürstentümern Eldrias nicht von einem Adeligen beherrscht, sondern von einem geistlichen Herrscher, der von allen Priester der Chromatia Narista gewählt wird.
@@ -148,7 +148,7 @@ Darcy versucht den Verkauf dieses Mittels zu verwenden, um andere Fürstentümer
 
 Die meisten Adeligen schicken ihre Zweitgeborenen als symbolischen Akt zur Ausbildung nach Darcy. Zum einen ist es ein Zeichen des Friedens und der Verständigung der Fürstentümer untereinander - zum anderen stellen die Zweitgeborenen dann gebildete loyale und gute Berater für ihre großen Brüder dar. 
 
-### Calvert 
+### Calvert {#Calvert}
 
 Das Fürstentum Calvert ist das älteste Kleinfürstentum in ganz Eldria und wird nach wie vor von der Familie Calvert beherrscht, die seit über 1000 Jahren über Calvert herrscht.
 Die Calverts wurden damals von der Königsfamilie als Schutzfürstentum Wandias instituiert und sind bis heute an einen Eid zum Schutz der Königsfamilie gebunden, der bei der Erhebung zum Fürsten geschworen werden muss. 
@@ -158,7 +158,7 @@ Diese lange Blutlinie und Tradition - ebenso wie der geschworene Eid - sorgen au
 
 
 
-### Rintom und Haag
+### Rintom und Haag {#Rintom und Haag}
 
 Obwohl Rintom und Haag an sich zwei unterschiedliche Fürstenrümer sind, sind sie sich sehr verwandt, weswegen sie in diesem Buch gemeinsam behandelt werden. Beide Stadtstaaten liegen direkt am Nebelhain, dieser hat über die Zeit die Psyche und Gesellschaft der Bewohner, ebenso wie die Politik der Stadtstaaten, stark beeinflusst. Während im übrigen Eldria das Gastrecht eine wichtige Tugend ist, ist es in Rinton oder Haag sehr unwahrscheinlich, dass man als Gast freundlich aufgenommen wird. Die Macht der Sicherheitkräfte ist beinahe unendlich und Durchsuchungen von Passanten sind an der Tagesordnung. Die Paranoia innerhalb der Städte wird nur noch von der fanatischen Anhängerschaft der "Wahrer des Hains" übertroffen, die tägliche und verpflichtende Messen zur Läuterung abhält, die vor den Ausdünstungen des Hains schützen sollen. 
 

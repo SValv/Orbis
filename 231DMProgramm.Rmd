@@ -1,21 +1,52 @@
-
 # Installation und Nutzung des Programmes
 
 ## Installation
 
-Die installation von Orbis ist an sich eine leichte Sache. Ladet einfach die "The" oben links über den Download-Button herunter. Ihr solltet eine Zip-Datei erhalten, die ihr an den Ort an eurem PC an dem ihr das Spiel haben wollt extrahieren könnt. 
+Die installation von Orbis ist an sich eine leichte Sache. Ladet einfach die "The" oben links über den Download-Button herunter. Ihr solltet eine Zip-Datei erhalten, die ihr an den Ort an eurem PC an dem ihr das Spiel haben wollt extrahieren könnt.
 
 Innerhalb der Datei sollten sich zwei Ordner befinden: Der DM-App Ordner indem auch die "OrbisDMApp.exe" liegt und der Game Folder.
 
 Danach sollte folgendermaßen vorgegangen werden:
 
-1. Es ist empfohlen den Game Folder lohnt sich den (oder nur den Ordner "ZZZ Character Sheets") per Cloud an die anderen Spieler freizugeben, da diese dann automatisch ihre Char-sheets dort hinein synchronisieren können und Neuerungen damit immer aktuell sind.
+1.  Es ist empfohlen den Game Folder lohnt sich den (oder nur den Ordner "ZZZ Character Sheets") per Cloud an die anderen Spieler freizugeben, da diese dann automatisch ihre Char-sheets dort hinein synchronisieren können und Neuerungen damit immer aktuell sind.
 
-2. Character Sheets sollten in den Order "ZZZ Character Sheets" gespeichert werden,
+2.  Character Sheets sollten in den Order "ZZZ Character Sheets" gespeichert werden,
 
-3. Es lohnt sich eine Verknüpfung zur Datei "OrbisDMApp.exe" zu erstellen und wo abzulegen wo es für einen selbst gemütlich ist, damit kann die App einfach per Doppelklick geöffnet werden.
+3.  Es lohnt sich eine Verknüpfung zur Datei "OrbisDMApp.exe" zu erstellen und wo abzulegen wo es für einen selbst gemütlich ist, damit kann die App einfach per Doppelklick geöffnet werden.
 
-4. Wenn man die App startet muss man den Game Folder per in einem Dialog der sich öffnet auswählen.
-
+4.  Wenn man die App startet muss man den Game Folder per in einem Dialog der sich öffnet auswählen.
 
 ## Nutzung der DM-App
+
+### Mein Fenster ist verschwunden
+
+Das ist ein Problem das aufgrund der Implementation vorkommen kann. Mit der Taste *F11* auf der Tastatur wird das Fenster automatisch auf deinen Hauptbildschirm zentriert, danach kann man es wieder verschieben wie man will.
+
+### Wie Initialisiert man Objekte
+
+Damit Ritter, Orks und Riesenspinnen gegeneinander kämpfen oder miteinander tanzen können, müssen sie erstmal in die DM-App eingelesen werden. Dies kann im Tab "Initialisation" gemacht werden. 
+
+### Optionen der DM-App
+
+| Option                             | Auswirkung                                                                                                                                 | Standard |
+|------------------|------------------------------------|------------------|
+| Reset Called/Advantage after Throw | Soll nach dem Angriff das Feld für Called Shots und Advantage zurückgesetzt werden?                                                        | Ja       |
+| Reset heavy Attack after Throw     | Soll nach dem schweren Angriff die Option schwerer Angriff auf nein zurückgesetzt werden?                                                  | Ja       |
+| Reset init-counter                 | Soll nach dem Initialisieren von mehr als einem Objekt gleichzeitig der Anzahl-Counter für das nächste Objekt wieder auf 1 gesetzt werden? | Ja       |
+| Limit Value and Damage             | Soll der Damage bei 550 und der Value bei 13 nach oben begrenzt werden? Das ist sozusagen der "safety-mode"                                | Nein     |
+| Maximale Rundenbackups             | Wieviele Aktionen soll man ein Objekt zurücksetzen können? Höhere Anzahl braucht minimal mehr Arbeitsspeicher                              | 6        |
+| Design                             | welches Design soll verwendet werden                                                                                                       | Arcade   |
+
+: Optionen und ihre Bedeutung
+
+## Eigene Profile, Monster und andere Schöpfungen
+
+Bei den Resistenzen kann man Dots eintragen, die keine Wirkung oder die doppelte Wirkung haben. Wenn der Dot ein minus davor trägt, beispielsweise bei "-brennen" ist es eine Empfindlichkeit. Ansonsten handelt es sich um eine Resistenz.
+
+### Eigene Profile
+
+### Eigene Monster
+
+### Eigene Waffen
+
+### Eigene Munition und Artillerie

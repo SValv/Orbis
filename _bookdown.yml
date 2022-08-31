@@ -66,7 +66,6 @@ rmd_files: ["index.Rmd",
   "220Regeln.Rmd",
   "221BesondereRegeln.Rmd",
   "222Items.Rmd",
-  "223BesondereItems.Rmd",
   "230DMStuff.Rmd",
   "231DMProgramm.Rmd",
   "400Autoren.Rmd"

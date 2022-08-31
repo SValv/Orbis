@@ -71,3 +71,19 @@ Schlussendlich sollte auch erwähnt werden, dass viele Händler und Handelsunter
 ## Gerüchte der Region
 
 ## Sehenswürdigkeiten
+
+## Feiertage der Region
+
+```{r}
+getFeiertage("Nors")
+```
+
+### Kether-Tag
+
+Es gibt kein einziges Kind in Nors, das nicht um die kulturelle Bedeutung der Kether weiß. Mit der Kraft, gegen die mächtigsten Männer zu kämpfen, erweist sich dieser Fisch selbst für die erfahrensten Angler als würdige Herausforderung. 
+
+Der Kether nimmt einen besonderen Platz in der Gesellschaft von Nors ein der so weit geht dass er sogar einen eigenen Feiertag hat, da er in Zeiten schlechter Ernten den Bauch vieler Menschen gefüllt hat. 
+Jeden zehnten Monat des Jahres kehren die Kether an den Ufer von Nors und in die Reik - bis Tief in den Reiksee zurück, wo sie circa 6 Wochen bleiben. Experten zufolge machen sich ausgewachsene Kehter, wenn die Paarungszeit kommt, auf den Weg zurück zu ihrem Geburtsort. Mit einem Gewich, der meistens nahe der Reik liegt.
+Da diese Fische schnell 35-50 kg wiegen, reicht oft ein einziger Fang aus, um ein kleines Dorf für einen Tag zu ernähren. Daher feiern viele in Nors den Anfang des zehnten Monats und das eintreffen der Kether - und damit auch den Höhepunkt der Fischerei im Jahre. Gerade in kleineren Dörfern ist das Fangen eines Kethers ein Statussymbol und gerade unter jungen Männern eine der wichtigsten Chancen sich als guter Fischer zu profilieren und den größten Fisch zu fangen.
+
+Während diese Feierlichkeit früher eins der größten Feste war ist aufgrund der Nahrungsimporte aus dem Herzland der Fluss von Nahrungsmitteln jedoch stabiler geworden, was dazu geführt hat, dass der Kether heute hauptsächlich in kleineren Dörfern traditionell gefeiert wird und nicht mehr so sehr in den größeren Städten, wo der Kethertag mehr zu einem Saufgelage verkommen ist als zu einem Fest des Fischens. Egal wie, wer in Nors aufgewachsen ist weiß um den Kether und seine Bedeutung, und noch heute tragen so manche Menschen in Nors zeichen dieses Fisches als Kette, auf der Kleidung oder verzieren damit ihre Häuser.

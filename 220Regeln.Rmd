@@ -61,7 +61,7 @@ Diese Saves sind typisch und werden euch immer wieder begegnen:
 
 ### Ausdauersave {#Ausdauersave}
 
-Der Ausdauersave passiert automatisch bei jeder Kampfrunde und bei jeder Aktion die körperliche Ausdauer verbraucht. Er wird mit dem Physical-Wert abgezogen dem <font color="green">[Aktiven Gewicht/5](#AktivesGewicht)</font> gewürfelt. Die negative Differenz wird der Ausdauer abgezogen. Warum Ausdauer und dieser Save wichtig sind steht <font color="green">[hier](#Ausdauer)</font>.
+Der Ausdauersave passiert automatisch bei jeder Aktion die die körperliche Ausdauer belastet. Er wird mit dem Physical-Wert abgezogen dem <font color="green">[Aktiven Gewicht/5](#AktivesGewicht)</font> gewürfelt. Die negative Differenz wird der Ausdauer abgezogen. Warum Ausdauer und dieser Save wichtig sind steht <font color="green">[hier](#Ausdauer)</font>.
 
 ### Toxikologie-Save
 
@@ -89,7 +89,7 @@ Am Anfang des Kampfes findet die Initiative statt, d.h. jeder wirft Initiative (
 
 ### Die Kampfrunde und die Kampfaktionen
 
-In jeder Kampfrunde gibt es 4 Aktionen:
+In einer Kampfrunde sind bis zu 4 Aktionen möglich:
 
 -   Die <font color="green">[Bewegung](#Bewegung)</font>
 -   Die <font color="green">[Single Action](#SingleAction)</font>
@@ -139,7 +139,7 @@ Die Bonus Action kann - genauso wie die Single Action - für die Runde des Gegne
 
 Alle diese "Abwehrhandlungen" verringern den Schaden, den ein Charakter von gegnerischen Angriffen abbekommt, denn auf jeden Angriff kann mit Blocken, Parieren oder Ausweichen reagiert werden, es sei denn, man sieht den Angriff nicht kommen. Blocken ist dabei ohne Zweifel die stärkste Wahl, allerdings verliert man dabei eine Hand an einen Schild und kann keine Großwaffen mehr benutzen oder Dual Wielden, denn ohne einen Schild ist das Blocken nicht möglich.
 
-Das Parieren ist die schwächste Abwehrform und hat - neben der Tatsache, dass nur Nahkampfwaffen richtig parieren können - den zusätzlichen Nachteil, dass ein kritischer Treffer des Gegners oder ein eigener Kritischer Fail die Waffe um Zustand 1 verringert. Bei gegnerischem Nat 20/eigenem Nat 1 geht der Zustand sogar um 2 nach unten. Der Vorteil des Parierens liegt allerdings darin, dass man keine zusätzlichen Einbußen von Optionen hat (wie bspw beim Schild, wo man eine Hand auf den Schild verwendet). Das Parieren ist also dort eine "kostenfreie" Option, wo ein Block unmöglich wird. Allerdings kann nur ein Nahkampfangriff pariert werden.
+Das Parieren ist die schwächste Abwehrform und hat - neben der Tatsache, dass nur Nahkampfwaffen parieren können - den zusätzlichen Nachteil, dass ein kritischer Treffer des Gegners oder ein eigener Kritischer Fail die Waffe um Zustand 1 verringert. Bei gegnerischem Nat 20/eigenem Nat 1 geht der Zustand sogar um 2 nach unten. Der Vorteil des Parierens liegt allerdings darin, dass man keine zusätzlichen Einbußen von Optionen hat (wie bspw beim Schild, wo man eine Hand auf den Schild verwendet). Das Parieren ist also dort eine "kostenfreie" Option, wo ein Block unmöglich wird. Allerdings kann nur ein Nahkampfangriff pariert werden.
 
 Obwohl das Parieren grundsätzlich nur für Nahkampfangriffe möglich ist und eine Nahkampfwaffe erfordert, können im Notfall auch Fernkämpfer mit ihrer Waffe parieren - allerdings zu einem höheren Preis. Die Fernkampfwaffe verliert immer 2 Zustand, bei kritischen Ereignissen 5 und bei einem Nat1 10. Diese hohen Kosten können allerdings mit der <font color="green">[Modifikation](#Modifizieren)</font> "Bayonett" verhindert werden, dann wird die Fernkampfwaffe bei der Parade wie eine Nahkampfwaffe behandelt.
 
@@ -151,9 +151,13 @@ Wenn man keine Action mehr hat, kann man mit einer Wahrscheinlichkeit von 60% bl
 
 ![Schematische Übersicht über die Kampfrunde](Pictures/Rules/Attack.png)
 
+#### Für andere Blocken
+
+Defensiv Aktionen für andere Personen sind nur ausschließlich mit single action und durch Blocken möglich.
+
 #### Schwerer Angriff {.unnumbered}
 
-Anstelle die Single Action für eine weitere Aktion einzusetzen ist es möglich einen einzigen schweren Nahkampfangriff zu kosten der Main und der Single action einzusetzten. Diese besondere Art des Angriffs erhöht des Dice Pool aus den Attributen für einen Armed angriff um 50%, erhöht also die Attribute des Spielers für diese Aktion um 50%. Diese Aktion ist nicht parallel zum Reiten möglich.
+Anstelle die Single Action für eine weitere Aktion einzusetzen ist es möglich einen einzigen "schweren Nahkampfangriff" zu kosten der Main und der Single action einzusetzten. Diese besondere Art des Angriffs erhöht des Dice Pool aus den Attributen für einen "Armed" angriff um 50%, erhöht also die Attribute des Spielers für diese Aktion um 50%. Diese Aktion ist nicht parallel zum Reiten möglich.
 
 #### Deckung {.unnumbered}
 
@@ -189,33 +193,27 @@ Lieder können - je nach Genre - von unterschiedlichen instrumenten begleitet un
 
 Hier sieht man eine Übersicht über die Genres:
 
-+---------------+---------------------+-----------------+-------------------+
-| Genre         | Wirkung             | Hauptinstrument | Begleitinstrument |
-+:=============:+:===================:+:===============:+:=================:+
-| Minnesang     | Charisma            | Geige           | Laute             |
-+---------------+---------------------+-----------------+-------------------+
-| Rock          | Kritische<br>Chance | Trommel         | Dudelsack         |
-+---------------+---------------------+-----------------+-------------------+
-| Folk          | Physical            | Flöte           | Trommel           |
-+---------------+---------------------+-----------------+-------------------+
-| Tavernenmusik | Agilität            | Laute           | Geige             |
-+---------------+---------------------+-----------------+-------------------+
-| Metal         | Stärke              | Dudelsack       | Trompete          |
-+---------------+---------------------+-----------------+-------------------+
-| Polka         | Angriffsziel        | Horn            | Flöte             |
-+---------------+---------------------+-----------------+-------------------+
-| Hymne         | Bonus Action        | Trompete        | Horn              |
-+---------------+---------------------+-----------------+-------------------+
+|     Genre     |       Wirkung       | Hauptinstrument | Begleitinstrument |
+|:-------------:|:-------------------:|:---------------:|:-----------------:|
+|   Minnesang   |      Charisma       |      Geige      |       Laute       |
+|     Rock      | Kritische<br>Chance |     Trommel     |     Dudelsack     |
+|     Folk      |      Physical       |      Flöte      |      Trommel      |
+| Tavernenmusik |      Agilität       |      Laute      |       Geige       |
+|     Metal     |       Stärke        |    Dudelsack    |     Trompete      |
+|     Polka     |    Angriffsziel     |      Horn       |       Flöte       |
+|     Hymne     |    Bonus Action     |    Trompete     |       Horn        |
 
 Angriffsziel bedeutet dass man von einem oder mehreren Zielen auswählen kann wer wen ihrer/seiner Gegner angreift. Bonus Action gibt den Zielen eine bonus Action.
 
-Lieder bekommt man indem man selbst viel Übt und spielt. Worum sich diese lieder drehen legt der spieler fest, wobei ihm aber Genre, Tier und ob es sich um ein motivierendes oder demotivierendes lied handelt vorgegeben wird. Dies kann bei Performance-Checks oder beim [Training](#Training) passieren.
+Lieder bekommt man indem man selbst viel Übt und spielt. Worum sich diese lieder drehen legt der spieler fest, wobei ihm aber Genre, Tier und ob es sich um ein motivierendes oder demotivierendes lied handelt vorgegeben wird. Dies kann bei Performance-Checks oder beim [Training](#Training) passieren. Zusätzlich können lieder ab und zu in der lokalen Taverne gegen eine Aufwandsentschädigung erlernt werden.
+
+***Motivation / Demotivation***
 
 ### Dual Wielding
 
 Ganz mutige Wesen versuchen mit zwei Waffen zu kämpfen. Dies kann Vor- und Nachteile mit sich bringen. Ein Nachteil dabei ist, dass man nicht blocken kann. Ein Vorteil ist, dass man auch in der Single Action mit einer Waffe zuschlagen kann.
 
-Des weiteren gibt es die Chance auf einen Optionsangriff von 20% nach einem Angriff auf einen Zweithandangriff. Für diesen gilt: Der Schaden mit der Sekundärwaffe (außer Dolch und unbewaffnetem Angriff) wird nur zu 80% umgesetzt. Bei Dolchen kommt 90% des Schadens durch, bei unbewaffneten Angriffen sind es 100%. Sollte es zu einem Optionsangriff kommen, fällt die Option auf einen normalen Doppelangriff weg. Egal wie, man kann auch mit dual Wield nur maximal zwei Angriffe pro Runde werfen.
+***Optionsangriff raus, kein scaling***
 
 ### Der Schildstoß
 
@@ -223,15 +221,17 @@ Charaktere mit Schilden können auch einen Schildstoß vollführen. Hierbei wird
 
 ### Andere Angriffe während Single Actions
 
-Auch andere Angriffe können als Single Action durchgeführt werden. Dazu zählen <font color="green">[kleine Wurfwaffen](#WurfWaffen)</font> und unbewaffnete Angriffe wie bspw. ein Faustschlag.
+Auch andere Angriffe können als Single Action durchgeführt werden. Dazu zählen <font color="green">[kleine Wurfwaffen](#WurfWaffen)</font> und unbewaffnete Angriffe wie bspw. ein Faustschlag, sowie Bogen und Schleuder fernangriffe.
 
 ### Schleichangriffe {#Schleichangriffe}
 
 Unerwartete Angriffe können unheimlich effektiv sein und laufen nach einem gewissen Schema ab. Zuerst wirft man eine <font color="green">[Sneak-Probe](#UntypischeProben)</font> gegen das Ziel oder andere Personen, die einen sehen könnten. Wenn diese fehlschlägt wird normal <font color="green">[Initiative](#Initiative)</font> geworfen. Wenn nicht kommt es zum Schleichangriff. Dieser kann mit allem durchgeführt werden, was nicht als Großwaffe gilt.
 
-Beim Schleichangriff ist keine Abwehraktion des Gegners möglich, sonst läuft der Schleichangriff wie ein normaler Angriff. Außnahme davon ist der Dolch und die Armbrust - bei der Armbrust wird 4 mal gewürfelt, beim Dolch kommt es zum Attentat.
+Beim Schleichangriff ist keine Abwehraktion des Gegners möglich, sonst läuft der Schleichangriff wie ein normaler Angriff. Außnahme davon ist der Dolch dieser ermöglicht ein direktes Attentat =\> also eine direkte tötung des Ziels.
 
-Nach einem Schleichangriff wird eine weitere Sneak-Probe geworfen, um zu entscheiden, ob der Charakter entdeckt wurde oder nicht. Bei einem Schleichangriff mit einer Nahkampfwaffe bekommt man für die Probe einen -5 Modifyer auf das Attribut Agility, mit dem Schleichen geworfen wird. Bei einem Schleichangriff mit einer Fernkampfwaffe liegt dieser Modifyer nur bei -2, beziehungsweise bei -1 mit der Armbrust. Dieser Modifyer bleibt bestehen solange der Schleichvorgang andauert, und bei jedem weiteren Schleichangriff, der im Rahmen dieser Aktion durchgeführt wird, kommt ein weiterer Modifyer dazu, diese Modifyer verfallen bei Entdeckung oder Flucht sofort.
+***Attentat***
+
+"Nach einem Schleichangriff wird eine weitere Sneak-Probe geworfen, um zu entscheiden, ob der Charakter entdeckt wurde oder nicht. Bei einem Schleichangriff mit einer Nahkampfwaffe bekommt man für die Probe einen -5 Modifyer auf das Attribut Agility, mit dem Schleichen geworfen wird. Bei einem Schleichangriff mit einer Fernkampfwaffe liegt dieser Modifyer nur bei -2, beziehungsweise bei -1 mit der Armbrust. Dieser Modifyer bleibt bestehen solange der Schleichvorgang andauert, und bei jedem weiteren Schleichangriff, der im Rahmen dieser Aktion durchgeführt wird, kommt ein weiterer Modifyer dazu, diese Modifyer verfallen bei Entdeckung oder Flucht sofort."
 
 Beispiel: Ein Charakter (mit 12 Agility und 43 Sneak) legt einen Hinterhalt mit einem Bogen. Er besteht den ersten Sneak-Check (mit 12 Agility und 43 Sneak) und kann einen Schleichangriff landen. Danach muss er einen weiteren Sneak-Check machen (mit 10 Agility und 43 Sneak - Aufgrund der Fernkampfwaffe bekommt er einen -2 Modifyer auf die Schleichprobe). Er besteht und macht einen zweiten Schleichangriff. Nun kommt ein weiterer Sneak-Check (mit 8 Agility und 43 Sneak - Aufgrund der Fernkampfwaffe bekommt er einen weiteren -2 Modifyer auf die Schleichprobe). Er besteht und macht einen zweiten Schleichangriff - dieses mal mit seinem Dolch. Nun kommt ein weiterer Sneak-Check (mit 3 Agility und 43 Sneak - Aufgrund der Nahkampfwaffe bekommt er einen -5 Modifyer auf die Schleichprobe). Dieses mal wird er entdeckt und die Ziele greifen ihn an, jetzt hat er wieder 12 Agility und 43 Sneak.
 
@@ -255,6 +255,8 @@ Manchmal will man einen speziellen Teil des Gegners angreifen. Das nennt man ein
 -   Torso - Innere Verletzungen nach Entscheidung des DM (empfohlen Luck/Glaube-Roll)
 -   Arme - Dies hat die Chance zu entwaffnen
 -   Beine - Dies hat die Chance einen Gegner umzuwerfen
+
+Gliedmaßen sind natürlich jeweils in paaren vorhanden.s
 
 Diese Bereiche haben jeweils auch eigene Health-Werte und können nach und nach runtergebracht werden, um die Effekte sicher zu erzielen. Wird einem Teil schaden gemacht, sinkt auch die allgemeine Gesundheit eines Zieles.
 
@@ -325,21 +327,14 @@ Stats und Arten der Artillerie:
 
 <small>
 
-+------------+---------+------------+-----------+---------+-----------+----------+--------------+
-| Artillerie | Schaden | Reichweite | In Kästen | Gewicht | Threshold | Preis    | Preis/Schuss |
-+:==========:+:=======:+:==========:+:=========:+:=======:+:=========:+:========:+:============:+
-| Skorpion   | 300     | 150m       | 3         | 30 kg   | 2,3       | 90000    | 100          |
-+------------+---------+------------+-----------+---------+-----------+----------+--------------+
-| Balliste   | 1000    | 300m       | 6         | 250 kg  | 3,3       | verboten | 300          |
-+------------+---------+------------+-----------+---------+-----------+----------+--------------+
-| Handkanone | 400     | 50m        | 1         | 50 kg   | 3         | verboten | 200          |
-+------------+---------+------------+-----------+---------+-----------+----------+--------------+
-| Großkanone | 3600    | 400m       | 8         | 900 kg  | 3,6       | verboten | 750          |
-+------------+---------+------------+-----------+---------+-----------+----------+--------------+
-| Katapult   | 600     | 200m       | 4         | 300 kg  | 4         | verboten | 200          |
-+------------+---------+------------+-----------+---------+-----------+----------+--------------+
-| Trebouchet | 2900    | 350m       | 7         | 600 kg  | 4,7       | verboten | 600          |
-+------------+---------+------------+-----------+---------+-----------+----------+--------------+
+| Artillerie | Schaden | Reichweite | In Kästen | Gewicht | Threshold |  Preis   | Preis/Schuss |
+|:----------:|:-------:|:----------:|:---------:|:-------:|:---------:|:--------:|:------------:|
+|  Skorpion  |   300   |    150m    |     3     |  30 kg  |    2,3    |  90000   |     100      |
+|  Balliste  |  1000   |    300m    |     6     | 250 kg  |    3,3    | verboten |     300      |
+| Handkanone |   400   |    50m     |     1     |  50 kg  |     3     | verboten |     200      |
+| Großkanone |  3600   |    400m    |     8     | 900 kg  |    3,6    | verboten |     750      |
+|  Katapult  |   600   |    200m    |     4     | 300 kg  |     4     | verboten |     200      |
+| Trebouchet |  2900   |    350m    |     7     | 600 kg  |    4,7    | verboten |     600      |
 
 </small>
 
@@ -370,15 +365,11 @@ Schaden wird relativ einfach verrechnet:
 
 ### Damage Over Time
 
-Damage over Time - sogenannte Statuseffekte - können durch eine vielzahl von Dingen ausgelöst werden. Sowohl Waffenmods, als auch besondere Munitionstypen bis hin zu Monstern können für Gift, Blutungen oder Brennen sorgen. Hierbei gibt es mehrere Konzepte zu Verstehen: ein Dot wird über eine gewisse "Dauer" an Runden applied und verursacht jede Runde einen gewissen Debuff (fast immer "Schaden"). Des weiteren wird ein Dot nur mit einer gewissen "Wahrscheinlichkeit" ausgelöst und auch nur, wenn der Gegnet, der den Dot verursachen will, Schaden verursacht.
+Damage over Time - sogenannte Statuseffekte - können durch eine vielzahl von Dingen ausgelöst werden. Sowohl Waffenmods, als auch besondere Munitionstypen bis hin zu Monstern können für Gift, Blutungen oder Brennen sorgen. Hierbei gibt es mehrere Konzepte zu Verstehen: ein Dot wird über eine gewisse "Dauer" an Runden applied und verursacht jede Runde einen gewissen Debuff (fast immer "Schaden"). Des weiteren wird ein Dot nur mit einer gewissen "Wahrscheinlichkeit" ausgelöst und auch nur, wenn der Gegner, der den Dot verursachen will, Schaden verursacht.
 
-Wenn ein Dot mit einer Nahkampfwaffe ausgelöst wird, geht üblicherweise eine "Ladung" verloren - bspw. verbraucht sich Gift oder die Zacken einer gezackten Klinge stumpfen ab.
+Wenn ein Dot mit einer Nahkampfwaffe ausgelöst wird, geht bei Gift eine "Ladung" verloren. Dots können sich auch häufen, so verursacht jede erfolgreiche Applikation eines Dots einen "Stack" des jeweiligen Statuseffektes - womit sich der Damage natürlich mit der Anzahl der Stacks multipliziert. Gegen jeden Dot gibt es eine Kontermöglichkeit, Dieses System mag am Anfang sehr kompliziert erscheinen, wird allerdings zu 100% von unserem Programm übernommen.
 
-Dots können sich auch häufen, so verursacht jede erfolgreiche Applikation eines Dots einen "Stack" des jeweiligen Statuseffektes - womit sich der Damage natürlich mit der Anzahl der Stacks multipliziert.
-
-Gegen jeden Dot gibt es eine Kontermöglichkeit,
-
-Dieses System mag am Anfang sehr kompliziert erscheinen, wird allerdings zu 100% von unserem Programm übernommen.
+DoTs werden nur wirksam, wenn eine Person eine Aktion macht, die entweder eine Single oder Main Action braucht. Sollte eine Person auf beides verzichten, wird der DoT nicht wirksam. Die Person kann sich also nur mit Move-Aktionen bspw. aus dem Kampf entfernen, wo sein Schicksal unter Berücksichtigung der DoTs vom DM entschieden wird.
 
 #### Gift {.unnumbered}
 
@@ -410,9 +401,7 @@ ggplot(llm,aes(x=Ladungen,y=value,col=name))+geom_line(size=1) + theme_bw() +
 
 ```
 
-Die Variable SchadenGesamt steht für den gesamten Schaden den ein Gift macht wenn man alle Ladungen
-aufgetragen werden.
-Wenn man selbst nicht rechnen will sind alle relevanten Werte in dieser Tabelle zu lesen:
+Die Variable SchadenGesamt steht für den gesamten Schaden den ein Gift macht wenn man alle Ladungen aufgetragen werden. Wenn man selbst nicht rechnen will sind alle relevanten Werte in dieser Tabelle zu lesen:
 
 ```{r}
 ll %>% arrange(Ladungen,Tier) %>% 
@@ -448,14 +437,13 @@ Beim Bluten verliert das Opfer für gewöhnlich jede Runde einen Prozentsatz sei
 
 #### Brennen {.unnumbered}
 
-Der Schaden eines Brennen Statuseffektes ist üblicherweise 50 pro Runde, jedoch kann die Dauer dieses Effekts variieren. Brennen kann gekontert werden, indem sich brennende Charaktere eine Runde auf dem Boden wälzen. Auch Wasser oder andere Mittel gegen Brände können dabei hilfreich sein.
+Der Schaden eines Brennen Statuseffektes ist üblicherweise 50 pro Runde, jedoch kann die Dauer dieses Effekts variieren. Brennen kann gekontert werden, indem sich brennende Charaktere eine Runde auf dem Boden wälzen. Auch Wasser oder andere Mittel gegen Brände können dabei hilfreich sein. Dies verbraucht in der Regel eine Main Aktion.
 
 Sollte der Brand beispielsweise mit Öl entstanden sein, kann der DM gewisse Konteraktionen - wie auf dem Boden wälzen - für nicht möglich erklären.
 
 #### Andere Statuseffekte {.unnumbered}
 
 Andere Statuseffekte mit
-
 
 ## Reiserouten
 
@@ -492,15 +480,11 @@ Wenn ein Charakter in einem Kampf oder durch andere Aktivitäten entweder Gesund
 
 Kurze Pause: Lange Pause: Downtime:
 
-+---------------+-----------------------------------------------------------+
-| Länge         | Dauer                                                     |
-+:=============:+:=========================================================:+
-| Kurze Pause   | 3-4 Stunden                                               |
-+---------------+-----------------------------------------------------------+
-| Lange Pause   | 7-8 Stunden                                               |
-+---------------+-----------------------------------------------------------+
-| Downtime      | Zeit zwischen 2 Sessions <br>(üblicherweise mehrere Tage) |
-+---------------+-----------------------------------------------------------+
+|    Länge    |                           Dauer                           |
+|:-----------:|:---------------------------------------------------------:|
+| Kurze Pause |                        3-4 Stunden                        |
+| Lange Pause |                        7-8 Stunden                        |
+|  Downtime   | Zeit zwischen 2 Sessions <br>(üblicherweise mehrere Tage) |
 
 Wenn sich Spieler zwischen zwei Sitzungen befinden (Downtime), regenerieren sich ihre Ausdauer und Gesundheit immer bis zu 100%, es sei denn, der Dungeon Master kündigt eine größere Wunde an, die von einem Profi behandelt werden muss oder streicht die Downtime vollständig. Bei kurzen oder langen Pausen ist wichtig zu beachten, dass der Dungeon Master entscheiden kann, wie lange die Pause dauern soll, jedoch sollten die angegebenen Zeiträume als allgemeines Maß für die Dauer der Pausen verwendet werden. Außerdem müssen die spielbaren Charaktere die gesamte Pause ohne anstrengende Aktivitäten oder Unterbrechungen beenden, sonst ist keine Regeneration möglich. Ein weiterer wichtiger Faktor sind die Umstände, in dem sich Spieler ausruhen, diese können schlecht, durchschnittlich oder gut sein. Als schlecht kann man eine Pause auf der Straße bei kaltem Wetter bezeichnen, als mittelmäßig, wenn man in einer Kutsche schläft, die für lange Reisen geeignet ist (Dach, windfeste Wände usw.), und als gut, wenn man in einer Taverne mit einem warmen Raum und einem gut vorbereiteten Zimmer ruht. Der Dungeon Master hat die Verantwortung zu entscheiden, in welchen Umständen sich die Spieler befinden, wenn sie versuchen, das Pausensystem zu nutzen. Die folgende Tabelle zeigt, wie der Zustand durch die Qualität der Pause beeinflusst wird:
 
@@ -516,53 +500,41 @@ Eine weitere Möglichkeit, den Wert einer Pause zu erhöhen, ist sich von einem 
 
 ## Downtime-Aktivitäten
 
-In der Downtime können Charaktere alles mögliche machen, die Klassiker sind:
+In der Downtime können Charaktere alles mögliche machen, dabei wird jedoch zwischen Kategorisiert, so ist nur eine Aktivität möglich die einen charakterlichen Vorteil bringt, wie zum Beispiel einen Job auzüben oder eine Fähigkeit zu trainieren. Andere Aktivitäten die evenutell einen spielerrischen Vorteil bringen wie mit NPCs reden, Briefe schreiben oder auch einkaufen sind unbegrenzt möglich.
 
-Diese Aktivitäten werden in zwei Kategorien unterteilt, Hauptaktvitäten die effektiv den Charakter bereichern und Nebenaktivitäten für alles andere.
+### Jobs und andere Aktivitäten
 
-Jeder Charakter kann je eine Haupt und eine Nebenaktivität pro Downtime ausüben, ausgeschlossen sind dabei Gespräche mit anderen Charakteren und Organisatorische Aktionen diese sind unbegrenzt möglich.
 
-### Hauptaktivitäten
+* Das sammeln von Pflanzen (Dies wird am Anfang der Session über das Tool gewürfelt)
 
-```{r , echo=F}
-library(readxl)
+* Diverse Verdienstmöglichkeiten diese umfassen zum Beispiel:
 
+```{r DowntimeActs}
 DFActivity= read_excel(allgdatapfad, sheet="DowntimeActs")
 
 colnames(DFActivity)[1:3]=c("Tätigkeit","Mittelwert","Standardabweichung")
-knitr::kable(DFActivity)
+
+riskeinschätzung= function(x){
+  vec=c()
+  for (i in x){
+    if (i > 0.5){
+      vec=c(vec,"groß")
+   }else if (i>0.3){
+     vec=c(vec,"mittel")
+   }else{
+     vec=c(vec,"klein")
+   }
+ }
+ return(vec)
+}
+
+DFActivity %>% select(Tätigkeit,Mittelwert,Standardabweichung) %>% 
+  mutate(Risiko = riskeinschätzung(Standardabweichung / Mittelwert)) %>% 
+  select(-Standardabweichung) %>% 
+  knitr::kable(align = c("c","c","c"))
 ```
 
-*Das sammeln von Pflanzen (Dies wird am Anfang der Session über das Tool gewürfelt)*
-
-Lernen entweder in Selbststudium, durch Lehrer oder Bücher
-
-*Diverse Verdienstmöglichkeiten diese umfassen zum Beispiel:*
-
-Diebstahl =\> zwei Optionen, hohes Risiko und niedriges Risiko jeweils mit der Basis 500 und 300 x Value mit hohem SD ( hohes Risiko SD=275, niedriges Risiko SD=)
-
-, sollte der Wert negativ werden bedeutet dass das der Dieb erwischt wurde und diese Strafzahlungen in Kauf nehmen muss, bei hohen Risiko Jobs besteht zusätzlich die möglichkeit anschließend für die Session Polizei bekannt zu sein.
-
-*Staßenauftritt =\> Basis 200 x Value hohe SD* (SD=65)
-
-Handwerksdienste =\> Qulaifizierte Arbeiter Basis 250 x Value niedrige SD (SD=15)
-
-*Hilfsarbeiten =\> unqualifizierter Arbeiter Basis 200 x Value niedrige SD* (SD=15)
-
-Wettkämpfe =\> Faustkämpfe, Armdrücken
-
-Würfelspiel =\> Einsatzabhängig Maximal Verlust Einsatz, Maximal Gewinn 2-fach
-
-### Nebenaktiväten
-
--   Einkaufen gehen und besorgungen erledigen
--   Brauen von Tränken
--   Handwerks aktionen =\> Schmieden, Basteln
--   Besuch von Tavernen und anderen Etablissments
-
-### Andere Aktvitäten
-
-Sich mit Kontakten und Npcs austauschen oder andere Tätigkeiten in Absprache mit dem DM sind auch möglich, hierbei gibt der DM die Möglichkeiten, die Kosten und den Nutzen vor.
+Der Mittelwert beschreibt hierbei das Durchschnittliche Einkommen in Reiks, das Risiko sagt aus, wie sehr das tatsächliche Einkommen vom Mittelwert abweicht. Dies kann positiv sowie negativ sein - manchmal sorgt ein hohes Risiko auch dafür, dass man Geld verliert. Besonderes ist dies bei Illegalen Aktivitäten: sollte das Einkommen negativ werden bedeutet dass das der Dieb erwischt wurde und dieser Strafzahlungen in Kauf nehmen muss, desweiteren könnte er auch in der Session als Krimineller den Sicherheitskräften bekannt sein.
 
 ### Training {#Training}
 
@@ -648,15 +620,11 @@ Sämtliche Ausrüstung, Tränke, Waffen, Instrumente, etc. kommen in Orbis Astea
 
 Welche Materialien gehören zu welchen Tiers?
 
-+------------+------------+------------------+--------------------------+--------------------+
-| Tier 1     | Tier 2     | Tier 3           | Tier 4                   | Tier 5             |
-+:==========:+:==========:+:================:+:========================:+:==================:+
-| Eisen      | Stahl      | Gehärteter Stahl | Zwergenmaterial          | Vorreiter-Material |
-+------------+------------+------------------+--------------------------+--------------------+
-| Buche      | Lärche     | Esche            | Silva-Nacia-Spinnenseide |                    |
-+------------+------------+------------------+--------------------------+--------------------+
-| Stoff      | Leder      | Kettenbeschlag   |                          |                    |
-+------------+------------+------------------+--------------------------+--------------------+
+| Tier 1 | Tier 2 |      Tier 3      |          Tier 4          |       Tier 5       |
+|:------:|:------:|:----------------:|:------------------------:|:------------------:|
+| Eisen  | Stahl  | Gehärteter Stahl |     Zwergenmaterial      | Vorreiter-Material |
+| Buche  | Lärche |      Esche       | Silva-Nacia-Spinnenseide |                    |
+| Stoff  | Leder  |  Kettenbeschlag  |                          |                    |
 
 Während Tier 1 recht verbreitet ist und Tier 2 dem erfahrenem oder reichem Abenteurer zur Verfügung steht ist Tier 3 bereits Ausrüstung, die man sehr selten sieht und absoluten Eliteeinheiten vorbehalten ist. Tier 4 haben noch legendäre Krieger und prestigegeile Herrscher, die sich eine Garde leisten können, die groß genug ist, dass nicht jede Banditengruppe oder jeder Meuchelmörder und Dieb in einer Taverne versucht einem ein derart seltenes und mächtiges Objekt abzunehmen.
 
@@ -818,26 +786,21 @@ Die Anzahl an Handwerkschecks pro Downtime wird durch die Effektivität des Hand
 
 : Werkzeuge des Handwerks
 
-
 ## Geld und Wechselkurse {#Währung}
 
 In Orbis Astea gibt es verschiedene Währungen, während im Kaiserreich Reiks die bezeichnende Währung ist, sind es bei den Rah Kari die Tempelmünzen. Zwergenkronen ist selbstverständlich die normierte Währung der Zwerge. Das Seevolk und die Bürger der Skaen verwenden die Währung der Thaler.
 
 Umrechnungskurse:
 
-+---------------+------------+---------------------+---------------+--------------+----------+
-| Währung       | Kurs Reiks | DnD Silver (10s=1g) | Zwergenkronen | Tempelmünzen | Thaler   |
-+===============+:==========:+:===================:+:=============:+:============:+:========:+
-| Reiks         | 1          | 0,02                | 0,5           | 2            | 4        |
-+---------------+------------+---------------------+---------------+--------------+----------+
-| DnD Silver    | 50         | 1                   | 25            | 100          | 200      |
-+---------------+------------+---------------------+---------------+--------------+----------+
-| Zwergenkronen | 2          | 0,04                | 1             | 4            | 8        |
-+---------------+------------+---------------------+---------------+--------------+----------+
-| Rah Kari      | 0,5        | 0,01                | 0,25          | 1            | 2        |
-+---------------+------------+---------------------+---------------+--------------+----------+
-| Thaler        | 0,25       | kein Kurs           | 0,125         | 0,5          | 1        |
-+---------------+------------+---------------------+---------------+--------------+----------+
+| Währung       | Kurs Reiks | DnD Silver (10s=1g) | Zwergenkronen | Tempelmünzen | Thaler |
+|---------------|:----------:|:-------------------:|:-------------:|:------------:|:------:|
+| Reiks         |     1      |        0,02         |      0,5      |      2       |   4    |
+| DnD Silver    |     50     |          1          |      25       |     100      |  200   |
+| Zwergenkronen |     2      |        0,04         |       1       |      4       |   8    |
+| Rah Kari      |    0,5     |        0,01         |     0,25      |      1       |   2    |
+| Thaler        |    0,25    |      kein Kurs      |     0,125     |     0,5      |   1    |
+
+Reiks, Ras und Zwergenkronen. Alle mit Wechselkurs 1 zu 1.
 
 ### Einordnung der Größenverhältnisse von Geldbeträgen
 

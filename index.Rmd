@@ -1,7 +1,7 @@
 --- 
 title: "<center>Orbis Astea</center>"
 date: "<center>Version vom: `r format(Sys.Date(),'%d.%m.%Y')`</center>"
-author: "<center>DM-App Version: 3.4531</center>"
+author: "<center>DM-App Version: 3.4532</center>"
 site: bookdown::bookdown_site
 favicon: "roundIco.ico"
 ---
@@ -18,7 +18,6 @@ Wir schreiben das Jahr 426 seit Gründung des Kaiserreichs.
 Der Große Krieg zwischen den Rah Kari und dem Kaiserreich liegt 5 Jahre zurück, seitdem befinden sich die beiden Großen Reiche im Krieg miteinander.
 
 Sämtliche Karten in Orbis Astea sind nach Westen ausgerichtet, das bedeutet das der Süden auf der Karte links, der Norden rechts und der Osten unten liegt.
-
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = F, warning = F,message = F)
@@ -69,6 +68,10 @@ from <- "DownloadContainer"
 to   <- "docs/DownloadContainer"
 file.copy(list.files(from, full.names = TRUE), 
           to, 
+          recursive = TRUE,overwrite =T)
+
+file.copy("Pictures/Maps/OrbisAstea.jpg", 
+          "docs", 
           recursive = TRUE,overwrite =T)
 
 overallThemeReactable=reactableTheme(backgroundColor = "transparent", borderColor = "black",
@@ -708,16 +711,30 @@ getTierTable = function(tier, pfad="Container/Data/Tiere.xlsx"){
   return(tab)
 }
 
-getFeiertag = function(wherees){
-  if (wheres %in% RegionPolygonsData$Name){
-    df = Feiertagdf %>% filter(wherees %in% Relevanz)
-  } else if(wheres %in% RegionPolygonsData$Reich){
-    joindf = RegionPolygonsData %>% select(Reich,Name) %>% filter(wherees == Reich)
-    df= Feiertagdf %>% filter(any(joindf$Name %in% Relevanz))
+getFeiertage = function(regio){
+  dfrR = RegionPolygonsData %>% select(Name,Reich) %>% 
+    mutate(Reich = str_split(Reich, ",")) %>% unnest(Reich) %>%
+    mutate(Reich = str_trim(Reich)) %>% filter(Name == regio) %>% select(Reich)
+  reich=dfrR$Reich
+  
+  df = Feiertagdf %>% 
+    unnest(Relevanz) %>% mutate(Relevanz = str_trim(Relevanz)) %>% 
+    filter(Relevanz %in% c(regio, reich)) %>% 
+    distinct(Name, .keep_all = T) %>% 
+    mutate(Art = factor(ifelse(Relevanz == regio, "Regionaler <br>Feiertag", Relevanz),
+                        levels = c("Regionaler <br>Feiertag",reich))) %>% 
+    select(-Relevanz) %>% 
+    arrange(Art)
+  
+  if (nrow(df) > 0){
+    df= knitr::kable(df, align = c(rep("c",4)))
+    return(df)  
+  } else{
+    return()
   }
-  df= knitr::kable(df)
-  return(df)
 }
+
+
 ```
 
 ```{r}
@@ -725,5 +742,7 @@ bookdownallgdatapfad="BookdownData/BookdownAllgemeinData.xlsx"
 allgdatapfad= "Container/Data/AllaroundDataStorage.xlsx"
 
 Feiertagdf = read_excel(bookdownallgdatapfad,sheet="Feiertage")
+Feiertagdf$Relevanz = str_split(Feiertagdf$Relevanz, ",")
+
 ```
 
