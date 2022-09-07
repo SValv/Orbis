@@ -98,11 +98,9 @@ Biremen kommen sowohl mit offenem Deck, als auch mit einem geschlossenem Kampfde
 
 Galeeren haben ein breites, meist offenes Deck und sind eher auf Artillerie als auf Truppentransport ausgelegt. Da viele Galeeren umfunktionierte oder immer noch im Dienst seinende Handelsschiffe sind, haben sie auch häufiger Lagerräume und das typische - oft nachteillige offene Deck.
 
-![Eine umfunktionierte Handelsgaleere[^2]](Pictures/Flavor/SchiffeBoote/Wikimedia_Galeere_Transparent.png)
+![Eine umfunktionierte Handelsgaleere[^1]](Pictures/Flavor/SchiffeBoote/Wikimedia_Galeere_Transparent.png)
 
-[^2]: Diese Abbildung wurde der Seite [wikimedia](https://commons.wikimedia.org/wiki/File:Galley-knightshospitaller.jpg) entnommen und steht unter einer Creative Commons Attribution-Share Alike 3.0 Unported license zur Verfügung.
-
-[^3]: Diese Abbildung wurde der Seite [wikimedia](https://commons.wikimedia.org/wiki/File:Galley-knightshospitaller.jpg) entnommen und steht unter einer Creative Commons Attribution-Share Alike 3.0 Unported license zur Verfügung.
+[^1]: Diese Abbildung wurde der Seite [wikimedia](https://commons.wikimedia.org/wiki/File:Galley-knightshospitaller.jpg) entnommen und steht unter einer Creative Commons Attribution-Share Alike 3.0 Unported license zur Verfügung.
 
 Dennoch sind Galeeren weit verbreitet und sowohl im zivilen als auch im militärischen Gebrauch üblich. Und sind vor allem durch ihre Vielseitigkeit charakterisiert. Kaum ein Schiffstyp ist so vielseitig und anpassungsfähig.
 
@@ -110,11 +108,9 @@ Dennoch sind Galeeren weit verbreitet und sowohl im zivilen als auch im militär
 
 Die Trireme ist mit 130 Ruderern und Platz für 150 Soldaten ein gefürchteter Anblick in jeder Seeschlacht. Ihre immense Beschleunigung macht sie zum idealen Schiff zum rammen und zum kapern anderer Schiffe, und so sind sie eigentlich nur im militärischen Gebrauch anzutreffen.
 
-![Eine Trireme auf Patroullie[^4]](Pictures/Flavor/SchiffeBoote/wikimedia_Trireme.png)
+![Eine Trireme auf Patroullie[^2]](Pictures/Flavor/SchiffeBoote/wikimedia_Trireme.png)
 
-[^4]: Diese Abbildung wurde der Seite [wikimedia](https://commons.wikimedia.org/wiki/File:Trireme_1.jpg) entnommen und steht unter einer Creative Commons Attribution-Share Alike 2.0 France license zur Verfügung.
-
-[^5]: Diese Abbildung wurde der Seite [wikimedia](https://commons.wikimedia.org/wiki/File:Trireme_1.jpg) entnommen und steht unter einer Creative Commons Attribution-Share Alike 2.0 France license zur Verfügung.
+[^2]: Diese Abbildung wurde der Seite [wikimedia](https://commons.wikimedia.org/wiki/File:Trireme_1.jpg) entnommen und steht unter einer Creative Commons Attribution-Share Alike 2.0 France license zur Verfügung.
 
 Obwohl Triremen eher teuer sind, sind sie aufgrung ihrer Kampfkraft und der Schnelligkeit, mit der neue Seefahrer eingearbeitet sind, weit verbreitet. Trieren haben außerdem Platz für Artillerie und sind standartmäßig mit einer Ramme ausgerüstet, sie werden immer mit einem geschlossenem Kampfdeck gebaut.
 
@@ -140,11 +136,9 @@ Ohne die Krieger ist das Langboot im Kampf jedoch relativ aufgeschmissen, da das
 
 Die Fregatte ist ein großes Segelschiff mit Platz für zwei bis drei Ballisten oder Katapulte. Sie braucht 25 Seemänner um gesteuert zu werden und kann in etwa 80 zusätzliche Personen Transportieren. Fregatten sind sowohl in ziviler als auch als militärischer Nutzung häufig - werden jedoch in beiden Fällen meist bewaffnet, da sie beliebte Ziele für Piraten sind. Sie können lange Zeit reisen und sind oft der Hauptteil maritimer Flotten.
 
-![Eine Fregatte kreuzt gegen den Wind[^6]](Pictures/Flavor/SchiffeBoote/Fregatte_Pixaby.jpg)
+![Eine Fregatte kreuzt gegen den Wind[^3]](Pictures/Flavor/SchiffeBoote/Fregatte_Pixaby.jpg)
 
-[^6]: Diese Abbildung wurde der Seite [Pixaby](https://pixabay.com/es/illustrations/vela-barco-mar-1506158/) entnommen und steht zur kommerziellen Nutzung zur Verfügung.
-
-[^7]: Diese Abbildung wurde der Seite [Pixaby](https://pixabay.com/es/illustrations/vela-barco-mar-1506158/) entnommen und steht zur kommerziellen Nutzung zur Verfügung.
+[^3]: Diese Abbildung wurde der Seite [Pixaby](https://pixabay.com/es/illustrations/vela-barco-mar-1506158/) entnommen und steht zur kommerziellen Nutzung zur Verfügung.
 
 Fregatten gelten als das kleinste der großen Segelschiffe.
 
@@ -164,29 +158,29 @@ Die Galeone fährt für gewöhnlich mit einer Begleitflotte und ist trotz ihrer 
 
 #### Werte und Übersicht
 
-+------------+----------+-------------+-----------------+------------------+----------------+
-| Kampf      | Art      | Haltbarkeit | Bewegungspunkte | Manövrierbarkeit | Beschleunigung |
-+:==========:+:========:+:===========:+:===============:+:================:+:==============:+
-| Barke      | Ruder    | 1500        | 2               | 20               | 10             |
-+------------+----------+-------------+-----------------+------------------+----------------+
-| Kutter     | Segel    | 2000        | 1               | 18               | 6              |
-+------------+----------+-------------+-----------------+------------------+----------------+
-| Bireme     | Ruder    | 10000       | 2               | 17               | 14             |
-+------------+----------+-------------+-----------------+------------------+----------------+
-| Brigg      | Segel    | 8000        | 2               | 14               | 13             |
-+------------+----------+-------------+-----------------+------------------+----------------+
-| Langschiff | Segel    | 15000       | 3               | 16               | 17             |
-+------------+----------+-------------+-----------------+------------------+----------------+
-| Galeere    | Ruder    | 18000       | 3               | 13               | 15             |
-+------------+----------+-------------+-----------------+------------------+----------------+
-| Fregatte   | Segel    | 15000       | 2               | 9                | 12             |
-+------------+----------+-------------+-----------------+------------------+----------------+
-| Trireme    | Ruder    | 25000       | 4               | 10               | 20             |
-+------------+----------+-------------+-----------------+------------------+----------------+
-| Karavelle  | Segel    | 18000       | 2               | 7                | 11             |
-+------------+----------+-------------+-----------------+------------------+----------------+
-| Galeone    | Segel    | 30000       | 1               | 5                | 5              |
-+------------+----------+-------------+-----------------+------------------+----------------+
++------------+-------+-------------+-----------------+------------------+----------------+
+| Kampf      | Art   | Haltbarkeit | Bewegungspunkte | Manövrierbarkeit | Beschleunigung |
++:==========:+:=====:+:===========:+:===============:+:================:+:==============:+
+| Barke      | Ruder | 1500        | 2               | 20               | 10             |
++------------+-------+-------------+-----------------+------------------+----------------+
+| Kutter     | Segel | 2000        | 1               | 18               | 6              |
++------------+-------+-------------+-----------------+------------------+----------------+
+| Bireme     | Ruder | 10000       | 2               | 17               | 14             |
++------------+-------+-------------+-----------------+------------------+----------------+
+| Brigg      | Segel | 8000        | 2               | 14               | 13             |
++------------+-------+-------------+-----------------+------------------+----------------+
+| Langschiff | Segel | 15000       | 3               | 16               | 17             |
++------------+-------+-------------+-----------------+------------------+----------------+
+| Galeere    | Ruder | 18000       | 3               | 13               | 15             |
++------------+-------+-------------+-----------------+------------------+----------------+
+| Fregatte   | Segel | 15000       | 2               | 9                | 12             |
++------------+-------+-------------+-----------------+------------------+----------------+
+| Trireme    | Ruder | 25000       | 4               | 10               | 20             |
++------------+-------+-------------+-----------------+------------------+----------------+
+| Karavelle  | Segel | 18000       | 2               | 7                | 11             |
++------------+-------+-------------+-----------------+------------------+----------------+
+| Galeone    | Segel | 30000       | 1               | 5                | 5              |
++------------+-------+-------------+-----------------+------------------+----------------+
 
 <small> <small>
 
@@ -271,13 +265,11 @@ Durch schlaues platzieren der Geschütze auf dem Schiff sind verschiedene Taktik
 
 Den Gegnerischen Artillerie beschuss wird automatisch ausgewichen, der erfolg dieser Aktion hängt von Manövrierfähigkeit des Schiffs, als auch von Käpitän und Mannschaft ab..
 
-
 ## Konstrukte {#Konstrukte}
 
 ### Allgemeines
 
 Diese Wunder mechanischer Handwerkskunst stellen den Zenit der zwergischen Innovation dar. Sie sind aufgrund ihrer religösen Ansichten als einziges Volk in der Lage diese teils tonnenschweren Kollosse zum Leben zu erwecken. Die Konstrukte existieren in allen Formen und Farben und decken jeden nur möglichen Arbeitsbereich ab. So stellen sie zum Beispiel einen der schlagkräftigsten Teile des Rahkari Heeres dar, werden von Zwergenkarawanen zum Transport von tonnenschweren Waren benutzt und sind gleichzeitig mit schweren Ballisten bestückt. Fast jede Tätigkeit die ein Konstrukt übernimmt könnte genauso gut durch ein Tier, eine schlichte Mechanik oder einfach nur durch eine Person übernommen werden. Doch Konstrukte bieten neben vielen anderen Vorteilen einen bestimmten, bedinungslose Loyalität. Dies macht sie für Personen mit dem richtigen "kleingeld" im Beutel zu attraktiven begleitern.
-
 
 ### Kontrolle
 
@@ -289,15 +281,11 @@ Diese Mysteriöse Energiequelle wird durch die Extration mit einem Nadelähnlich
 
 Mit ihr können Konstruktkerne Konstruiert werden und sogar weiterverbessert. Desweiteren nutzen Konstrukte sie je nach Anwendung als Antrieb sei es Langfristig in Batterien oder als Kurzfristiger Ladungsboost.
 
-Das "Absaugen" aus den Leichen noch nicht Erwachter macht die Leichen 
-
-
-
+Das "Absaugen" aus den Leichen noch nicht Erwachter, ermöglicht das enthaupten der Verstorbenen ohne ein Erwachen fürchten zu müssen. Da dass enthaupten von verstorbenen jedoch als in vielen Reichen als Kapitalsünde angesehen wird, geht damit nur beschränkter nutzen einher.
 
 $$HIDDEN LORE$$
 
 Forerunner nutzten das Virus um Essenzen aus lebendem Gewebe zu extrahieren.
-
 
 ![Ein Zwerg](Pictures/Flavor/PLatzhalter/Dwarf.jpg)
 
@@ -309,9 +297,6 @@ Während die meisten Völker Zwerge nur als Fahrende Händler oder an deren Wohn
 
 ### Einsatzfelder von Konstrukten {#KonstruktAnwendung}
 
-
-#### Die vielfalt der Möglichkeiten
-
 Konstrukte unterscheiden in vielerlei Art. dabei werden grundsätzlich nur Grenzen durch die Handwerkskunst und die Kreativität seines Erbauers gesetzt. Angefangen beim **Konstruktkern**, dieses Herzstück eines jeden Konstrukts bestimmt die späteren Anwendungsgebiete eines Konstrukts denn im gegensatz zu anderen Teilen des Konstrukts ist dieser später nicht mehr zu verändern. In die Kerne wird dabei nicht direkt ihre Aufgabe eingeprägt viel mehr stellt der Kern den möglichen Speicher und die Energiequelle dar, je besser der Kern desto mehr und Komplizierte Befehlte kann das spätere Konstrukt ausführen. Sogar selbst ständig mehrere Funktionen aneinander Reihen um den Befehl erfolgreich auszuführen. Konstruktkerne unterscheiden sich generell in ihrer Größe und ihrer Reinheit, generell gilt je größer ein Kern ist desto aufnahmerfähiger ist er benötigt aber auch entsprechend mehr Essenzen, sollte der Platz der für den Kern zur Verfügung steht limitiert sein so gäbe es ein weiterers Stellrad das bedient werden kann die Reinheit diese ermöglicht einen Kern bei gleicher Aufnahmefähigkeit zu verkleinern jedoch benötigt dieser Prozess deutlich mehr Essenz. Weiters existieren unterschiede in der Panzerung, wie man sich gut vorstellen kann ist ein Wesen dass auf Grund seiner Natur bereits ausschließlich aus Metallen besteht bereits gut gepanzert was bereits zu einem hohen Verteidigungswert führt, jedoch sind Teile des innenleben der Konstrukte aufgrund ihrer Filigranen und Präzisen Struktur leicht zu zerstören. Dies kann durch zusätzliche Panzerung an den Empfindlichen Stellen des Konstrukts verhindert werden, erhöht aber auch das Gewicht und den Preis. Neben diesen Merkmalen gibt es natürlich noch zwei Offensichtliche, die Ausstattung und der Grundaufbau. die Ausstattung ist maßgeblich dafür welche Aufgaben überhaupt vom Konstrukt erledigt werden können und diese wird weiter durch den Aufbau des Konstrukts unterstützt.
 
 #### Konstruktarten
@@ -320,7 +305,7 @@ Grundsätzlich werden Konstrukte in fünf Klassen sortiert.
 
 ##### Utility:
 
-Konstrukte dieser Klasse sind hauptsächlich in Reichen Zwergen Haushalten anzutreffen, sie erfüllen Zwecke die auch ein Angestellter hätte verrichten können sind dabei aber deutlich Diskreter. Aufgabenfelder reichen hierbei von Handwerklichenaufgaben wie der Errichtung und Pfelge von Gebäuden bishin zu Verwaltungsaufgaben. Generell dienen sie zur Verbesserung der Lebensqualität. Die verwendenten Kerne sind meist nicht sehr groß und auch nicht sehr rein. Sie sind der Ausdruck purer Dekadenz.
+Konstrukte dieser Klasse sind hauptsächlich in Reichen Zwergen Haushalten anzutreffen, sie erfüllen Zwecke die auch ein Angestellter hätte verrichten können sind dabei aber deutlich Diskreter. Aufgabenfelder reichen hierbei von Handwerklichenaufgaben wie der Errichtung und Pfelge von Gebäuden bishin zu Verwaltungsaufgaben. Generell dienen sie zur Verbesserung der Lebensqualität. Sie sind der Ausdruck purer Dekadenz.
 
 ![Konstrukte sind nicht nur auf dem Schlachtfeld von Nutzen - auch als Helferlein im Alltag sind sie einsetzbar](Pictures/Flavor/Platzhalter/KonstruktBibliothek.jpg)
 
@@ -329,8 +314,6 @@ Konstrukte dieser Klasse sind hauptsächlich in Reichen Zwergen Haushalten anzut
 Sowohl über als auch unter der Erde müssen oft größere Menge Ware oder große Lasten bewegt werden, hier für gibt es allerlei Möglichkeiten, die beste stellt natürlich auch hier wieder ein Konstrukt dar, hier ein Beispiel wo würden sie ihr Bargeld lieber aufbewahren, in einer Satteltasche eines Tieres das bereits für seine Sturheit und widerwilligkeit bekannt ist oder im Tresor im inneren ihres Loyalen Gefährten der ihnen ohne zu zögern in den Wurmfall folgen würde. Diese Konstruktklasse unterscheidet sich stark in ihren Ausführungen obwohl sie doch alle das gleiche Ziel haben, von der Anzahl der Beine, Panzerung und nützliche Gadgets ist allen voran natürlich die mögliche Traglast ausschlaggebend. Diese Konstrukte werden oft von den Oberflächen Zwergenkarawanen genutzt, in ihnen kann alles von mystischen Bestien bis Edelsteinen alles sicher Transportiert werden, oft werden diese dabei neben nützlichen Gadgets auch mit Waffen ausgestattet die dann von der Besesatzung genutzt werden können.
 
 ![Gerüstetes Transportkonstrukt](Pictures/Flavor/Platzhalter/Konstrukt_Transport.jpg)
-
-##### Kampf:
 
 > Ich dachte nach Jahren auf all den Schlachtfeldern hätte ich alles gesehen, doch als meine Jungs von diesen vierarmigen Teufeln zerrissen wurden lief mir ein Schauer über den Rücken, kein Zucker überkam dieses Ungetüm als der alte Joshua es mit dem Kriegshammerschlug und keiner als es ihn in der Mitte Teilte.
 >
@@ -343,7 +326,6 @@ Nichts ist auf einem Schlachtfeld effizienter als ein Nahkampf Konstrukt mit dem
 Ein Fernkampf Konstrukt ist weit weniger adaptiert für den Nahkampf jedoch nicht zu unterschätzen zwar langsamer aber immer noch schlagkräftig, bestückt mit Ballisten oder Armbrüsten sind sie selbst auf große entfernung Tödlich. Zu beachten ist das beim Fernkampf deutlich mehr Ressourcen des Konstruktkerns beansprucht werden als es beim Nahkampf der Fall ist, schlicht auf Grund der höheren Komplexität.
 
 ![SchlachtKonstrukt](Pictures/Flavor/Platzhalter/SchlachtKonstrukt.jpg)
-
 
 ![Fernkampf Konstrukt](Pictures/Flavor/Platzhalter/Konstrukt_Ballista.jpg)
 
@@ -361,21 +343,13 @@ Um die Seelen für die teure Schaffung von Konstrukten zu besorgen gibt es für 
 
 Die Inspiration für diese Wunderwerke fanden die Zwerge in den Überbleibseln von Forrunner Technologie, jedoch können selbst ihre heutigen meisterwerke den damaligen nicht das Wasser reichen.
 
-
 ### Verbreitung von Konstrukten
 
-Zwerge
-
-Rah Kari
-
-Wanderer
-
-Wandia
-
+Aus vielerlei Gründen sind Konstrukte eher selten Anzutreffen, dann jedoch meist in der Begleitung von Zwergen, Rah Kari oder einigen gewieften Geschäftsmännern und Handwerkern anzutreffen. In seltenen Fällen trifft man aber auch auf allein herumsträunende Konstrukte, sogenannte Wanderer diese durchstreifen das Land oft schon seit Jahrhunderten mit dem einzigen Ziel den letzten Befehl ihrer jeweiligen Meister zu folgen, welche diese sind ist jedoch unbekannt. Besonders gehäuft trifft man Wanderer in der unterirdischen Stadt Wandia und in vergessenen Zwergenstädten an.
 
 ### Im Kampf / Befehle
 
-Konstrukte Modus Operandi: Ein Konstrukt führt den aktuellen Befehl solange aus bis es einen anderen erhält. Durch Übermittlungszeit ist es nicht möglich reaktionär zu agieren (als Beispiel schütze mich vor diesem angriff) anders sieht es aus wenn der Befehl vorher schon geäußert wurde
+Der Modus Operandi: Ein Konstrukt führt den aktuellen Befehl solange aus bis es einen anderen erhält. Durch Übermittlungszeit ist es nicht möglich reaktionär zu agieren (als Beispiel schütze mich vor diesem angriff) anders sieht es aus wenn der Befehl vorher schon geäußert wurde
 
 Die erste Möglichkeit einen Befehl zu äußern liegt vor sobald der Spieler Charakter initiative hat. Die Aktion des Konstruktes erfolgt zeitlich parallel mit der des Spielers außer der Befehl tritt erst zeit versetzt in kraft. Dem Konstrukt stehen wie jedem Char zwei Aktionen zur Verfügung. Nach der ersten Runde folgt das Konstrukt der normalen Initativtabelle.
 
@@ -383,36 +357,37 @@ Beispiel Befehle: Im Grunde alle Aktionen die eine Ladung erfordern. Greif diese
 
 #### Ladungen
 
-Jede aktive Anwendung verbraucht Ladungen des Akkus, je nach Art der Anwendung können auch mehrere Ladungen für eine Anwendung verbraucht werden.
-
-
-### Erstellung durch Spieler
-
-Zum besseren und einfachen Verständnis der Erstellung eines Konstruktprofil ist ein Blick in die Excel empfohlen. Da mit nur wenigen Eingaben das Konstrukt Session ready ist. Zu beachten ist das die Linke seit des Profil
-
-### Aufbau / Preiskatalog
-
-Ein Konstrukt besteht aus Corpus, Kern und Batterie. Alle müssen für ein funktionierendes Konstrukt vorhanden sein können jedoch auch beliebig zwischen ihnen getauscht werden.
-
-Konstrukt Kern gibt die Maximalen Stats die ein Konstrukt erreichen kann vor Akku gibt die Ladungsmenge an die ein Konstrukt speichern kann Gließmaßen / Bauteile geben die tatsächlichen Stats an bis zum Cap durch den Kern Konstrukt waffen / Optionen diese sind die möglichkeiten des Konstrukts seine Akku Ladungen zu verbrauchen
-
-Der Corpus gibt die Verfügbaren Attribute.
+Jede aktive Anwendung verbraucht Ladungen der Batterie, je nach Art der Anwendung können auch mehrere Ladungen für eine Anwendung verbraucht werden.
 
 #### Gliedmaßen / Schwachpunkt
 
-Konstrukt Teile: Jedes Konstrukt bestehlt aus 6 angreifbaren Teilen seinen 4 Gliedmaßen einer Kernabdeckung und dem Kern selbst. Der Kern für sich ist nahezu ungepanzert, kann jedoch erst angegriffen werden *nachdem* die Kernabdeckung zerstört wurde. Der Kern ersetzt beim gezielten Schussangriff den Kopf und die Kernabdeckung den Torso.
+Konstrukt Teile: Jedes Konstrukt bestehlt aus 6 angreifbaren Teilen seinen 4 Gliedmaßen einer Kernabdeckung und dem Kern selbst. Der Kern für sich ist nahezu ungepanzert, kann jedoch erst angegriffen werden *nachdem* die Kernabdeckung zerstört wurde. Der Kern ersetzt beim gezieltenangriff den Kopf und die Kernabdeckung den Torso.
+
+### Erstellung durch Spieler
+
+Zum besseren und einfachen Verständnis der Erstellung eines Konstruktprofil ist ein Blick in die Excel empfohlen. Da mit nur wenigen Eingaben das Konstrukt Session ready ist. Zu beachten ist das die Linke seit des Profil nicht bearbeitet werden sollte da sich diese Werte selbst vervollständigen.
+
+### Aufbau / Preiskatalog
+
+Ein Konstrukt besteht aus:
+
+-   Konstrukt Kern gibt die Maximalen Stats die ein Konstrukt erreichen kann vor
+
+-   Akku gibt die Ladungsmenge an die ein Konstrukt speichern kann
+
+-   Corpus gibt die Verfügbaren Attribute.
+
+Alle müssen für ein funktionierendes Konstrukt vorhanden sein, können jedoch auch beliebig zwischen ihnen getauscht werden.
 
 #### Kern
 
-Der Konstruktkern stellt sowohl das Herz als auch das Hirn eines jeden Konstruktsdar
-Das Level des Kern wird durch das Anwenden von Essenzen in der nebenbei Downtime erhöht
-Dieses Level beinflusst viele Bereiche des Konstrukts:
+Der Konstruktkern stellt sowohl das Herz als auch das Hirn eines jeden Konstruktsdar Das Level des Kern wird durch das Anwenden von Essenzen in der nebenbei Downtime erhöht Dieses Level beinflusst viele Bereiche des Konstrukts:
 
 -   Die maximalen Attribute die effektiv eingesetzt werden können, sollten mehr Punkte in ein Attribut geflossen sein als die Stufe des Kerns so werden nur die Attributspunkte bis zur Kernstufe angewendet.
 
 -   Neben der Begrenzung durch die Maximalattribute, leveln auch zwei Attribute direkt mit der Kernstufe nämlich Intelligenz im Faktor 1 zu 1 und Instinkt im Faktor 1 zu 0,75.
 
--   Die Maximalen Leben des Konstrukts entsprechen der 15fachen Kernstufe und verteilen sich unter den Gliedmaßen folgendermaßen: 50% Kern(Kopf), 50% Kernabschiermung (Torso) Alle anderen teile je 30%
+-   Die Maximalen Leben des Konstrukts entsprechen der 15-fachen Kernstufe und verteilen sich unter den Gliedmaßen folgendermaßen: 50% Kern(Kopf), 50% Kernabschiermung (Torso) Alle anderen teile je 30%
 
 -   Das Skillgrundlevel, mit jeder Kernstufe erhöht sich auch das Grundlevel eines jeden Skills. Sollte dieses höher sein als das geskillte Level des Skills wird für die Berechnung stadessen das Grundlevel herangezogen.
 
@@ -421,7 +396,7 @@ Dieses Level beinflusst viele Bereiche des Konstrukts:
 ##### Skills {#skills}
 
 Nicht alle Skills können von Konstrukten gelevelt werden, da auch diese Grenzen haben.\
-Folgende Skills können erhöht werden.
+Folgende Skills können erhöht werden:
 
 -   Block
 
@@ -443,17 +418,9 @@ Folgende Skills können erhöht werden.
 
 ##### Preis des Kerns
 
-**Grundpreis des Kerns: 10.000**
+*Grundpreis des Kerns: 10.000*
 
 weitere 500 Reiks Pro Essenz Investiert
-
-//alternativ (Essenz Investment) 10 (1-10) je 1\
-4 (11-12) je 2\
-8(13-14) je 4\
-12(15-16) je 6\
-16(17-18) je 8\
-20(19-20) je 10 (=70)\
-125(21-25) je 25 =195
 
 | Kernstufe | Preis je Level | Gesamtpreis (Essenzen) |
 |-----------|----------------|------------------------|
@@ -466,7 +433,7 @@ weitere 500 Reiks Pro Essenz Investiert
 | 21-30     | 15             | 200                    |
 | 31-40     | 30             | 500                    |
 
-// alternativ Skills (Essenz Investment) =\> Vergleich Skillpunkte 20 40 80 120 200 =460
+Skill Level erhöhen:
 
 | Skilllevel | Preis je Level | Gesamtpreis (Essenzen) |
 |------------|----------------|------------------------|
@@ -478,15 +445,17 @@ weitere 500 Reiks Pro Essenz Investiert
 
 #### Corpus
 
-Grundattribute Attribute Skills Rüstung Utility Größe Grundtragekapazität
+Der Corpus bestimmt folgende Eigenschaften eines Konstrukts.
 
-Corpus: Bestimmt zum Teil spätere Anwendung, kann nur gekauft werden / bei Zwergen geschmiedet, kann verkauft / umgetauscht werden
+-   Größe: Klein, Mittel Groß
 
-Klein=\> Preis \* 0,5 =\> Stats\**0,5*
+-   Attributhöhe: je höher die Stufe desto mehr Attribute können auf Str, Agi, Phys verteilt werden
 
-*Mittel(groß)=\> Preis Standart =\> Stats\**1
+-   Rüstungswert 20/ 26/ 29/ 32 pro Teil im Durchschnitt In Prozent des Gesamt aufteilt: Kern 5%, Kernabdeckung 20% Arme 20%, Gürtel 35%, Beine 20%
 
-Groß(sehr groß)=\>Preis *2 =\> Stats\**1,5, Rüstung\*1,3
+-   Grundtragekapazität
+
+-   Skill Maximum: die Eigenschaft Utility Konstrukt reduziert den Preis um den Faktor 0,25 jedoch limitiert das Skilllevel auf 50
 
 +------------+------------+------------+---------------+---------------+
 |            | Armor      | Attribute  | Preis (Reiks) | Utility Preis |
@@ -528,61 +497,48 @@ Groß(sehr groß)=\>Preis *2 =\> Stats\**1,5, Rüstung\*1,3
 | groß       |            |            |               |               |
 +------------+------------+------------+---------------+---------------+
 
-Tiers: 1-4 Je höher das Tier desto mehr Attribut Punkte können verteilt werden, entweder auf:
-Str, Agi, Phys
-
-Panzerungsteil: 20, 26, 29, 32 pro Teil
-im Durchschnitt In Prozent des Gesamt aufteilt: Helm 5% Brust 20% Arme 20% Gürtel 35% Beine 20%
-
-Nutzungskonstrukt: Billiger um Faktor 0,25 von Ursprungswert, Skill des Konstruktes: maximal 50
-
-Hierzu zählen beispielsweise: Transportkonstrukte, Spähkonstrukte, Landwirtschaftskonstrukte, Bergbaukonstrukte etc.
-
 ##### Attribute
 
-Jeder Stat standartmäßig auf 1 jeder weitere durch Corpus / Addons!
-
-durch Kern automatisch gelevelte Attribute: Instinkt und Intelligenz
-
-Durch Gliedmaßen(addons) und Corpus: Sträke, Agilität, Kondition (Physical)
-
-Konstrukte besitzen kein Charisma.
+Jedes Attribut startet Standartmäßig auf 1 und kann durch den Corpus oder durch Addons erhöht werden. Addons sind jedoch auf Stärke, Agilität und Physical beschränkt. Mit dem aufsteigen des Konstruktkernlevels erhöht sich außerdem der Wert von Instinkt und Intelligenz.
 
 #### Batterie
 
-Batterie: Preis nach Ladungen gestaffelt. Wird bei Kauf bestimmt, keine nachträgliche Erhöhung\
-Kann Verkauft werden oder umgetauscht
+Der Preis einer Batterie erhöht sich mit der Anzahl der Ladungen und kann nach dem Kauf nicht weiter erhöht werden, jedoch können Batterien gebraucht verkauft werden, wenn ein Upgrade gewünscht ist.
 
-Grundpreis: 5.000
+*Grundpreis: 5.000*
 
-+----------------+--------------------------+-------------------------------+
-| Ladungsanzahl  | Preis pro Ladung (Reiks) | Gesamt (inklusive Grundpreis) |
-+================+==========================+===============================+
-| 1-5            | 2.000                    | 15.000                        |
-+----------------+--------------------------+-------------------------------+
-| 6-10           | 3.000                    | 30.000                        |
-+----------------+--------------------------+-------------------------------+
-| 11-15          | 4.000                    | 50.000                        |
-+----------------+--------------------------+-------------------------------+
-| 16-20          | 5.000                    | 75.000                        |
-+----------------+--------------------------+-------------------------------+
-| 21-30          | 7.500                    | 150.000                       |
-+----------------+--------------------------+-------------------------------+
-| 31-50          | 10.000                   | 350.000                       |
-+----------------+--------------------------+-------------------------------+
++---------------+--------------------------+-------------------------------+
+| Ladungsanzahl | Preis pro Ladung (Reiks) | Gesamt (inklusive Grundpreis) |
++===============+==========================+===============================+
+| 1-5           | 2.000                    | 15.000                        |
++---------------+--------------------------+-------------------------------+
+| 6-10          | 3.000                    | 30.000                        |
++---------------+--------------------------+-------------------------------+
+| 11-15         | 4.000                    | 50.000                        |
++---------------+--------------------------+-------------------------------+
+| 16-20         | 5.000                    | 75.000                        |
++---------------+--------------------------+-------------------------------+
+| 21-30         | 7.500                    | 150.000                       |
++---------------+--------------------------+-------------------------------+
+| 31-50         | 10.000                   | 350.000                       |
++---------------+--------------------------+-------------------------------+
 
+#### Erweiterungen: Addons / Waffen / Upgrades
 
-#### Addons / Waffen / Upgrades
+Ein Konstrukt kann bis zu 5 erweiterungen gleichzeitig ausrüsten.
 
-Begrenzte Anzahl auf 5 pro Konstrukt
-
-Addons sind selbst durch Handwerkherstellbar. Die Attribut erhöhung sowie der Waffenschaden sind dabei Abhängig vom verwendeten Material Tier.
+Diese können entweder Käuflich erworben werden oder sogar selbst hergestellt werden.
 
 ##### Upgrades:
 
-Material Tiers 1-4 Stats 3, 5, 8, 12
+Upgrades erhöhen die Attribute eines Konstrukts solange diese ausgerüstet sind.
 
-Panzerungsaufrüstung / Lebenspunkteaufrüstung
+| Stufe | Attribute | Lebenspunkte | Panzerung |
+|-------|-----------|--------------|-----------|
+| 1     | 3         | 30           | 5         |
+| 2     | 5         | 50           | 10        |
+| 3     | 8         | 70           | 15        |
+| 4     | 12        | 90           | 20        |
 
 ##### Konstrukt Waffen:
 
@@ -592,60 +548,55 @@ Panzerungsaufrüstung / Lebenspunkteaufrüstung
 
 -Fernwaffen
 
-| Stufe | Standartwert | Fernkampfwert | Großwaffenwert |
-|-------|--------------|---------------|----------------|
-| 1     | 30           | 23            | 40             |
-| 2     | 42           | 35            | 52             |
-| 3     | 48           | 41            | 58             |
-| 4     | 53           | 46            | 63             |
-
-
 ##### Addons:
 
-Transport :75, 125, 200, 300 KG zusätzliich
+-   Transport : erhöht die Belastungsgrenze von Konstrukten für Transportgewicht
 
-Panzermodus 100%  Block Chance; Tiers erhöhen den Schildblockwert
+-   Panzermodus 100% Block Chance; Tiers erhöhen den Schildblockwert
 
-Wachmodus = Standartmäßig vorhanden benötigt dennoch Platz, läuft über Perception
+-   Wachmodus = Standartmäßig vorhanden benötigt dennoch Platz, läuft über Perception
 
-Schützenplatz (1,2,3,4 Personen Platz)
+-   Schützenplatz
 
-Verbaute Attilerie (nur durch Schützenplatz nutzbar) (Tier abhängig wie groß montierbare Waffe) (einklappbar)
+-   Pilotensitz
 
-Attelerienachlader (automatisch, tiers entsprechend nutzbar für Tier der verbauten Attilerie
+-   Verbaute Attilerie (nur durch Schützenplatz nutzbar) (Tier abhängig wie groß montierbare Waffe) (einklappbar)
 
-Deckungsmodul 
+-   Attelerienachlader (automatisch
 
-Bolawerfer: Wirft Bolas
+-   Deckungsmodul
 
-Werfer: Seil oder Rauch
+-   Bolawerfer: Wirft Bolas
 
+-   Werfer: Seil oder Rauch
+
+| Addons      | Stufe 1      | Stufe 2      | Stufe 3      | Stufe 4      |
+|-------------|--------------|--------------|--------------|--------------|
+| Transport   | +75KG        | +125KG       | +200KG       | +300KG       |
+| Panzermodus | Schildwert + | Schildwert + | Schildwert + | Schildwert + |
+| Pilotensitz |              |              |              |              |
 
 #### Anwendungen für Ladungen
 
-##### Gratis: 
-
-Gehen, Wachmodus, Panzermodus aktivieren
-
 ##### 1 Ladung :
 
-Sprinten Blocken / Ausweichen / Schützen (für jemanden blocken) Angriff Nah Angriff Fern Sicht gewähren (gedanken) Rammen / umwerfen
+-   Sprinten Blocken / Ausweichen / Schützen (für jemanden blocken) Angriff Nah Angriff Fern Sicht gewähren (gedanken) Rammen / umwerfen
 
-Verbaute Attilierienutzung durch Person
+-   Verbaute Attilierienutzung durch Person
 
-Klettern
+-   Klettern
 
-Seilwerfer
+-   Seilwerfer
 
-Rauchwerfer
+-   Rauchwerfer
 
-Bolawerfer
+-   Bolawerfer
 
 ##### 2 Ladungen
 
-Besondere Waffentypen (Flammenwerfer)
+-   Besondere Waffentypen (Flammenwerfer)
 
-Schwerer Angriff mit jeder Nahkampfwaffe erlaubt
+-   Schwerer Angriff mit jeder Nahkampfwaffe erlaubt
 
 ### Wiederbelebung
 
@@ -666,45 +617,31 @@ Jedoch benötigen diese Reperaturen keine Materialien.
 
 ### Vehicle Skill {#Vehicleskills}
 
-Dem Besitzer des Konstrutks ist es möglich kurzzeitig die Kontrolle über ein Konstukt auch aus der Entfernung zu übernehmen, dies äußert sich in einer zusätzlichen Aktion für das Konstrukt. Diese Aktion hängt von einem Vehicel Check ab dessen schwierigkeit auf dem Kern und der Größe des Konstrukts basiert, je stärker das Konstrukt desto schwieriger die Kontrolle. Bei Erfolg wird die Main Action des Characters aufgebraucht, bei Misserfolg die Singleaction da weniger Zeit verbraucht wird. 
+Dem Besitzer des Konstrukts ist es möglich kurzzeitig die Kontrolle über ein Konstukt auch aus der Entfernung zu übernehmen, dies äußert sich in einer zusätzlichen Aktion für das Konstrukt. Diese Aktion hängt von einem Vehicel Check ab dessen schwierigkeit auf dem Kern und der Größe des Konstrukts basiert, je stärker das Konstrukt desto schwieriger die Kontrolle. Bei Erfolg wird die Main Action des Characters aufgebraucht, bei Misserfolg die Singleaction da weniger Zeit verbraucht wird.
 
-Die Schwierigkeit des Checks wird im Konstruktprofil automatisch berechnet.
-Die Schwierigkeit kann durch einen Pilotensitz im Konstrukt halbiert werden.
+Die Schwierigkeit des Checks wird im Konstruktprofil automatisch berechnet. Die Schwierigkeit kann durch einen Pilotensitz im Konstrukt halbiert werden.
 
 ### Batterie in Session Aufladen
 
 Zum aufladen des Akkus ohne Pausen. Hierfür wird der Essenzsammler verwendet, Eine Ladung entspricht 10 Essenzen, jedoch ist es schwer abzuschätzen wann man die Sammler abziehen muss weshalb es öfter zu ungenauen Abzügen kommt,was im schlimmsten Fall zum Verlust aller gesammelten Seelen im Sammler führen kann. Aufgrund des hohen Preises dieser Anwedung wird diese nur im absoluten Notfall empfohlen.
 
-
 ## Tiere als Begleiter {#AnimalHandling}
 
-Tiere stellen nicht nur einen wichtigen Bestandteil des Ökosystems dar, sie können auch für die Charaktere von großem Nutzen sein.
-Denn sie können nicht nur nützlich im Sinne der Lebensmittelproduktion sein , sondern auch treue Wegbegleiter werden.
+Tiere stellen nicht nur einen wichtigen Bestandteil des Ökosystems dar, sie können auch für die Charaktere von großem Nutzen sein. Denn sie können nicht nur nützlich im Sinne der Lebensmittelproduktion sein , sondern auch treue Wegbegleiter werden.
 
 ### An Tieren zu beachten
 
-Was Tiere im System einmalig macht sind einige Werte und Funktionen, die sonst nirgends im Spiel zu finden sind.
-So besitzten Tiere einen *Zähmungs-/Tamingwert,* welcher zeigt wie leicht sich ein Tier überzeugen lässt sich dem Spieler unterzuordnen und anzuschließen.
-Dem *Trainingswert,* welcher angibt wie leicht es ist einem Tier neue Befehle beizubringen.
-Dieser ehöht die Chance der Ausführung im chaotischen Schlachtengetümmel deutlich.
-Der *Loyalität,* dieser Wert wird erst nach der Zähmung relevant und startet Anfangs bei Null und wächst mit der Zeit.
-Parallel steigt dadurch ebenfalls der Gehhorsam, welcher dem jeweiligen Spieler entgegengebracht wird.
+Was Tiere im System einmalig macht sind einige Werte und Funktionen, die sonst nirgends im Spiel zu finden sind. So besitzten Tiere einen *Zähmungs-/Tamingwert,* welcher zeigt wie leicht sich ein Tier überzeugen lässt sich dem Spieler unterzuordnen und anzuschließen. Dem *Trainingswert,* welcher angibt wie leicht es ist einem Tier neue Befehle beizubringen. Dieser ehöht die Chance der Ausführung im chaotischen Schlachtengetümmel deutlich. Der *Loyalität,* dieser Wert wird erst nach der Zähmung relevant und startet Anfangs bei Null und wächst mit der Zeit. Parallel steigt dadurch ebenfalls der Gehhorsam, welcher dem jeweiligen Spieler entgegengebracht wird.
 
 ### Erlernbare Fähigkeiten
 
-Tierische Begleiter können in allerlei Situationen nützlich sein, indem sie verschiedene Fähigkeiten erlernen, die ein Charakter gewinnbringend während einer Session einbringen kann.
-Die folgende Liste gibt einen Überblick über mögliche Kommandos.
+Tierische Begleiter können in allerlei Situationen nützlich sein, indem sie verschiedene Fähigkeiten erlernen, die ein Charakter gewinnbringend während einer Session einbringen kann. Die folgende Liste gibt einen Überblick über mögliche Kommandos.
 
-Da nicht alle möglichen Ereignisse abgedeckt werden können, empfiehlt es sich für Kommandos außerhalb der Liste eine ähnliche Verhaltensaufforderung zu wählen und den DM einen Schwierigkeitsgrad bestimmen zu lassen.
-Dies bietet die Möglichkeit neue und spannende Interaktionsmöglichkeiten mit Tieren während einer Kampagne, sei es beispielsweise im Kampf oder einer Rettungsmission, zu schaffen.
+Da nicht alle möglichen Ereignisse abgedeckt werden können, empfiehlt es sich für Kommandos außerhalb der Liste eine ähnliche Verhaltensaufforderung zu wählen und den DM einen Schwierigkeitsgrad bestimmen zu lassen. Dies bietet die Möglichkeit neue und spannende Interaktionsmöglichkeiten mit Tieren während einer Kampagne, sei es beispielsweise im Kampf oder einer Rettungsmission, zu schaffen.
 
-Nicht jedes Tier kann alle Fähigkeiten erlernen, da dies ihnen gemäß ihrer Natur nicht immer möglich ist.
-So sind manche Aktionen beispielsweise nur fliegenden Tieren möglich, während andere lediglich von großen Tieren ausgeführt werden können.
-Zusätzlich gibt es auch noch besondere Fähigkeiten ausschließlich bestimmten Fabelwesen möglich sind.
+Nicht jedes Tier kann alle Fähigkeiten erlernen, da dies ihnen gemäß ihrer Natur nicht immer möglich ist. So sind manche Aktionen beispielsweise nur fliegenden Tieren möglich, während andere lediglich von großen Tieren ausgeführt werden können. Zusätzlich gibt es auch noch besondere Fähigkeiten ausschließlich bestimmten Fabelwesen möglich sind.
 
-Die Anzahl der erlernbaren Fähigkeiten hängt von der Intelligenz des Tieres ab.
-Pro Intelligenzpunkt ist es möglich einem Tier eine Fähigkeit beizubringen.
-Ein Hund, der beispielsweise 5 Intelligenz hat, kann somit 5 Fähigkeiten erlernen.
+Die Anzahl der erlernbaren Fähigkeiten hängt von der Intelligenz des Tieres ab. Pro Intelligenzpunkt ist es möglich einem Tier eine Fähigkeit beizubringen. Ein Hund, der beispielsweise 5 Intelligenz hat, kann somit 5 Fähigkeiten erlernen.
 
 Je nach Tier können Fähigkeiten der folgenden Tabelle erlernt werden:
 
@@ -719,66 +656,39 @@ dft %>% relocate("Fähigkeit", "Beschreibung", "Schwierigkeitsgrad","Ausführung
   knitr::kable(align = c('c', 'c', 'c',"c"))
 ```
 
-
 ### Das Zähmen eines Wildtiers
 
 Trifft man ein wildes Tier in der Natur, selbst wenn es einem feindlich gesonnen scheint, so muss das nicht schlecht sein, da ein guter Zähmer in dieser potenziell gefährlichen Situation stattdessen die Gelegenheit sieht einen neuen Verbündeten zu finden.
 
-Dabei kommt der Skill des [Animal Handlings](#AnimalHandling) beim Umgang mit Tieren ins Spiel.
-Er kann sowohl in der Downtime angewandt werden, um ein Tier zu trainieren, als auch aktiv in der Session, um Tiere zu zähmen, oder gezähmten Tieren Befehle zu erteilen.
+Dabei kommt der Skill des [Animal Handlings](#AnimalHandling) beim Umgang mit Tieren ins Spiel. Er kann sowohl in der Downtime angewandt werden, um ein Tier zu trainieren, als auch aktiv in der Session, um Tiere zu zähmen, oder gezähmten Tieren Befehle zu erteilen.
 
-Um einem Tier einen Befehl geben zu können, muss es vorher gezähmt werden.
-Dies funktioniert indem der DM vier Mal (plus Bonus Chancen) Animal Handling Checks wirft, deren Values akkumuliert einen Festwert, je nach Tier, überschreiten müssen.
-Versucht ein PC ein Tier außerhalb des Kampfes zu zähmen, so werden die vier Checks aufeinanderfolgend geworfen.
-Es steht dem Spieler offen die eigenen Chancen zur erfolgreichen Zähmung zu erhöhen, wenn beispielsweise Köder ausgelegt werden, oder sich andere Ideen ausgedacht werden, um das Tier positiv auf einen Charakter einzustimmen.
-Befindet sich der Spieler im Kampf und möchte ein Tier zähmen, so können die vier Würfe nicht in einer einzigen Kampfrunde rerfolgen.
-Der Spieler hat nun die Möglichkeit zu wählen, ob er jede Runde jeweils die Main- und Side-Action für einen Check hergeben möchte, oder aber die Checks über mehrere Runden aufteilt.
-Es kann je ein Check pro Haupt- oder Nebenaktion geworfen werden, jedoch ist somit kein Angriff oder eine Verteidigung je nach Action Wahl mehr möglich.
-Versucht ein Tier während des Zähmungsprozesses zu fliehen, haben die Charaktere die Möglichkeit den Versuch zu unterbrechen, indem sie eine Bola werfen, oder das Tier verwunden [(gezielte Schüsse)](#CalledShots).
+Um einem Tier einen Befehl geben zu können, muss es vorher gezähmt werden. Dies funktioniert indem der DM vier Mal (plus Bonus Chancen) Animal Handling Checks wirft, deren Values akkumuliert einen Festwert, je nach Tier, überschreiten müssen. Versucht ein PC ein Tier außerhalb des Kampfes zu zähmen, so werden die vier Checks aufeinanderfolgend geworfen. Es steht dem Spieler offen die eigenen Chancen zur erfolgreichen Zähmung zu erhöhen, wenn beispielsweise Köder ausgelegt werden, oder sich andere Ideen ausgedacht werden, um das Tier positiv auf einen Charakter einzustimmen. Befindet sich der Spieler im Kampf und möchte ein Tier zähmen, so können die vier Würfe nicht in einer einzigen Kampfrunde rerfolgen. Der Spieler hat nun die Möglichkeit zu wählen, ob er jede Runde jeweils die Main- und Side-Action für einen Check hergeben möchte, oder aber die Checks über mehrere Runden aufteilt. Es kann je ein Check pro Haupt- oder Nebenaktion geworfen werden, jedoch ist somit kein Angriff oder eine Verteidigung je nach Action Wahl mehr möglich. Versucht ein Tier während des Zähmungsprozesses zu fliehen, haben die Charaktere die Möglichkeit den Versuch zu unterbrechen, indem sie eine Bola werfen, oder das Tier verwunden [(gezielte Schüsse)](#CalledShots).
 
-Bei erfolgreichen Zähmen wird ein Tier Status(Profil) in das Profil des Besitzers eingetragen in dem die weitere Verwaltung des Tieres erfolgt.
-Dies funktioniert, indem das Standardprofil des Tieres aus der Tier-Excel-Datei als eigenes Tabellenblatt in das PC-Profil kopiert wird.
-Nun wird dem Tabellenblatt ein gewünschter Name gegeben und der DM kann das Tierprofil initialisieren.
+Bei erfolgreichen Zähmen wird ein Tier Status(Profil) in das Profil des Besitzers eingetragen in dem die weitere Verwaltung des Tieres erfolgt. Dies funktioniert, indem das Standardprofil des Tieres aus der Tier-Excel-Datei als eigenes Tabellenblatt in das PC-Profil kopiert wird. Nun wird dem Tabellenblatt ein gewünschter Name gegeben und der DM kann das Tierprofil initialisieren.
 
 ### Training {#TierTraining}
 
-Nach der erfolgreichen Zähmung eines Tieres, sollte der Zähmer in den darauffolgenden Downtimes das Training des Tieres starten, um optiomalen Nutzen aus dem Tier ziehen zu können.
-Durch das Training werden Fähigkeitspunkte gewonnen die gegen erlernte Befehle eingetauscht werden können desweiteren wird an Loyalität gewonnen beide Effekte sorgen dafür dass das Tier auch schwierige Befehle im Schlachtengetümmel bedingungslos ausführt.
+Nach der erfolgreichen Zähmung eines Tieres, sollte der Zähmer in den darauffolgenden Downtimes das Training des Tieres starten, um optiomalen Nutzen aus dem Tier ziehen zu können. Durch das Training werden Fähigkeitspunkte gewonnen die gegen erlernte Befehle eingetauscht werden können desweiteren wird an Loyalität gewonnen beide Effekte sorgen dafür dass das Tier auch schwierige Befehle im Schlachtengetümmel bedingungslos ausführt.
 
-Für das verdienen von Trainingspunkten steht der Trainingswert des Tieres im Mittelpunkt dieser gibt an wie schnell das Tier bereit ist neue Befehle zu erlernen.
-Zum Beispiel lernt ein Hund sehr schnell eine Katze wird sich jedoch mehr sträuben.
-Für das Training wird ein einfacher Animal Handling wurf vom DM geworfen und der Wert mitgeteilt, dieser Wert wird dann in das Profil des Tieres (im Spieler Profil) eingetragen und auf addiert (akkumulierter Wert) mit allen davor geworfenen Trainingswürfen wenn diese aufsummierten Werte den Traingswert erreichen wird ein Trainingspunkt verdient und die Loyalität steigt um 1 (bis zu einem Maximum von 6 durch Training).
-Anschließend wird das Training fortschritt gelöscht, jedoch alles was an erreichtem Wert über den Traingswert hinausging wird wieder hinzu gezählt.
-Die Trainingspunkte können also über mehrere Sessions langsam erworben werden und kein Check ist verschwendet.
+Für das verdienen von Trainingspunkten steht der Trainingswert des Tieres im Mittelpunkt dieser gibt an wie schnell das Tier bereit ist neue Befehle zu erlernen. Zum Beispiel lernt ein Hund sehr schnell eine Katze wird sich jedoch mehr sträuben. Für das Training wird ein einfacher Animal Handling wurf vom DM geworfen und der Wert mitgeteilt, dieser Wert wird dann in das Profil des Tieres (im Spieler Profil) eingetragen und auf addiert (akkumulierter Wert) mit allen davor geworfenen Trainingswürfen wenn diese aufsummierten Werte den Traingswert erreichen wird ein Trainingspunkt verdient und die Loyalität steigt um 1 (bis zu einem Maximum von 6 durch Training). Anschließend wird das Training fortschritt gelöscht, jedoch alles was an erreichtem Wert über den Traingswert hinausging wird wieder hinzu gezählt. Die Trainingspunkte können also über mehrere Sessions langsam erworben werden und kein Check ist verschwendet.
 
 #### Preis
 
-Die erhaltenen Fähigkeitspunkte können nun für das Erlernen verschiedener Fähigkeiten eingetauscht werden.
-Die oben in der Tabelle dargestellten Fähigkeiten geben zugleich den Preis an Fähigkeitspunkten an, die dafür gezahlt werden müssen.
+Die erhaltenen Fähigkeitspunkte können nun für das Erlernen verschiedener Fähigkeiten eingetauscht werden. Die oben in der Tabelle dargestellten Fähigkeiten geben zugleich den Preis an Fähigkeitspunkten an, die dafür gezahlt werden müssen.
 
 ### Loyalität
 
-Die Ausführung der Fähigkeit hängt mit der Loyalität zusammen.
-Je loyaler ein Tier dem Befehlsgeber ist, desto leichter folgt dieses den Befehlen.
-Dies funktioniert so, dass die Schwierigkeit eines auszuführenden Befehls um den Wert der Loyalität reduziert wird, womit der Value des Checks lediglich den Differenzwert übersteigen muss.
-Die Loyalität kann einem Wert von 0 bis 10 entsprechen, wobei 0 für ein fremdes Tier und 10 für Treue bis zum Tod steht.
+Die Ausführung der Fähigkeit hängt mit der Loyalität zusammen. Je loyaler ein Tier dem Befehlsgeber ist, desto leichter folgt dieses den Befehlen. Dies funktioniert so, dass die Schwierigkeit eines auszuführenden Befehls um den Wert der Loyalität reduziert wird, womit der Value des Checks lediglich den Differenzwert übersteigen muss. Die Loyalität kann einem Wert von 0 bis 10 entsprechen, wobei 0 für ein fremdes Tier und 10 für Treue bis zum Tod steht.
 
 *Wie bekommst du Loyalität?*
 
-Trainingsloyalität: Für jedes Mal, das sich die Progressionsbar füllt erhält das Trainer-Tier-Gespann einen Loyalitätspunkt.
-Dies funktioniert maximal sechs Mal, sodass sich die Beziehung aufgrund des reinen Trainings gut festigen kann.
+Trainingsloyalität: Für jedes Mal, das sich die Progressionsbar füllt erhält das Trainer-Tier-Gespann einen Loyalitätspunkt. Dies funktioniert maximal sechs Mal, sodass sich die Beziehung aufgrund des reinen Trainings gut festigen kann.
 
-Weiters können bis zu 4 Punkte durch Interaktion im Gameplay erreicht werden.
-Dies gilt jedoch nicht nur für den Trainer.
-Kümmern sich, nebem dem Trainer, beispielsweise auch andere Spieler um die Tiere, ohne diese jedoch aktiv zu trainieren, so können diese über die Game-Play Loyalität ebenfalls bis zu vier Loyalitätspunkte erhalten.
-Diese kann der DM nach ermessen vergeben, wenn PCs die Tiere aktiv in das Game-Play einbeziehen, indem sie die Tiere füttern, sie explizit pflegen oder ihnen Zuwendung in der Downtime schenken.
-Zu beachten ist die Loyalität jedes Tieres wird Spieler abhängig verfolgt (Im Status-Tabellenblatt des Tieres im jeweiligen Profil des Spielers, der mit dem Tier interagiert).
+Weiters können bis zu 4 Punkte durch Interaktion im Gameplay erreicht werden. Dies gilt jedoch nicht nur für den Trainer. Kümmern sich, nebem dem Trainer, beispielsweise auch andere Spieler um die Tiere, ohne diese jedoch aktiv zu trainieren, so können diese über die Game-Play Loyalität ebenfalls bis zu vier Loyalitätspunkte erhalten. Diese kann der DM nach ermessen vergeben, wenn PCs die Tiere aktiv in das Game-Play einbeziehen, indem sie die Tiere füttern, sie explizit pflegen oder ihnen Zuwendung in der Downtime schenken. Zu beachten ist die Loyalität jedes Tieres wird Spieler abhängig verfolgt (Im Status-Tabellenblatt des Tieres im jeweiligen Profil des Spielers, der mit dem Tier interagiert).
 
 ### Ausführung
 
-Jedem tierischen Begleiter kann jeder Befehl gegeben werden, jedoch haben Tiere ihren eigenen Kopf und nicht jeder Befehl wird ausgeführt.
-Je komplexer der Befehl, desto unwahrscheinlicher wird dieser verstanden.
-Jedoch gibt es einige Möglichkeiten die Chance zu erhöhen: Primär durch erhöhen des Animal Handling Skills des Spielers, sekundär kann das dir die Fähigkeit erlernen, sodass eine Ausführung durch den Trainer des Tiers schon bekannt ist, abschließend durch die Loyalität zu dem/den Begleiter(n) des Tieres.
+Jedem tierischen Begleiter kann jeder Befehl gegeben werden, jedoch haben Tiere ihren eigenen Kopf und nicht jeder Befehl wird ausgeführt. Je komplexer der Befehl, desto unwahrscheinlicher wird dieser verstanden. Jedoch gibt es einige Möglichkeiten die Chance zu erhöhen: Primär durch erhöhen des Animal Handling Skills des Spielers, sekundär kann das dir die Fähigkeit erlernen, sodass eine Ausführung durch den Trainer des Tiers schon bekannt ist, abschließend durch die Loyalität zu dem/den Begleiter(n) des Tieres.
 
 Als Formel dargestellt sieht die Ausführungswahrscheinlichkeit folgendermaßen aus:
 
@@ -786,13 +696,10 @@ $$Schwierigkeit < erlernte\; Fähigkeit - \frac{Loyalität}{2} - Animal\; Handli
 
 ### Maximale Tieranzahl
 
-Die Anzahl der Tiere, die man mit sich führt, sollte realsitisch bleiben.
-Was dies genau bedeutet ist durch den DM in der jeweiligen Situation der Gruppe zu beurteilen.
-So fallen zum Beispiel eine Horde Hühner wenig, bis gar nicht ins Gewicht, jedoch wird es einem Spieler schwerfallen eine Herde Elefanten zu versorgen.
+Die Anzahl der Tiere, die man mit sich führt, sollte realsitisch bleiben. Was dies genau bedeutet ist durch den DM in der jeweiligen Situation der Gruppe zu beurteilen. So fallen zum Beispiel eine Horde Hühner wenig, bis gar nicht ins Gewicht, jedoch wird es einem Spieler schwerfallen eine Herde Elefanten zu versorgen.
 
 Darüber hinaus ist die Anzahl der Tiere, die ein Spieler im Kampf einsetzen kann ebenfalls begrenzt, da sowohl das Ausgewogenheit berücktsichtigt werden muss, als auch die Tatsache, dass nur eine gewisse Anzahl an Kommandos im Kampfgeschehen gegeben werden können.
 
 ### Tierschaden
 
-Kleine und Mittlere Tiere weichen grundsätzlich jedem Angriff aus, grundsätzlich Gilt je kleiner das Tier desto höher der Ausweichwert aber auch geringer die Leben.
-Große Tiere hingegen haben aufgrund ihrer Schwerfälligkeit wie Spieler 2 Aktionen aber auch entsprechend mehr Leben.
+Kleine und Mittlere Tiere weichen grundsätzlich jedem Angriff aus, grundsätzlich Gilt je kleiner das Tier desto höher der Ausweichwert aber auch geringer die Leben. Große Tiere hingegen haben aufgrund ihrer Schwerfälligkeit wie Spieler 2 Aktionen aber auch entsprechend mehr Leben.

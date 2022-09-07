@@ -1,36 +1,19 @@
 # Die Region Eldria
-[Eldria ](EldriaFaction)
 
 ![Karte von Eldria](Pictures/Maps/Eldria.jpg)
 
-## Ortschaften der Region 
-### Aerlham
-1
-[Aearlha ](#Aerlham)
+## Ortschaften der Region
 
-### Gent
-1
-[Gent](#Gent)
+Da auf die meisten Fürstentümer bereits im [Eldria Atikel](#EldriaFaction) eingegangen wurde sind hier die Verknüpfungen zu den jeweiligen Füstentümern. Die, die noch nicht näher beschrieben wurden sind im folgenden beschrieben:
 
-### Darcy
-1
-[Darcy](#Darcy)
+* [Aearlham](#Aerlham)
+* [Gent](#Gent)
+* [Darcy](#Darcy)
+* [Calvert](#Calvert)
+* [Austen](#Austen)
+* [Hasting](#Hasting)
+* [Rintom und Haag](#Rintom und Haag)
 
-### Calvert
-1
-[Calvert](#Calvert)
-
-### Austen
-1
-[Austen](#Austen)
-
-### Hasting
-1
-[Hasting](#Hasting)
-
-### Rintom und Haag 
-
-[Rintom und Haag](#Rintom und Haag)
 ### Statton
 
 Statton used to be its own Führstentum however 500 years ago it was conquered by Aerlham and ever since Statton and its surrounding areas is under Aerlhams control. The Area around Statton used to be counted among the most peacefully areas in Eldria, were most people flourish, however after the empire attacked Eldria it saw a turn for the first. Prostitutes became very common und other crimes such as drug dealing and gangfights as well. Another important aspect of Statton is the massive empire Fort "". Here many new soldiers are trained and it is known for being one of the biggest recruit places for eldrian citizens. However there are 3 factions. The soldiers loyal to the empire, the soldiers loyal to Eldira and additional mercenaries from Grenzland that are brought into the cities to help with its various problems. These mercenaries are supposed to protect the city but are actually extremly corrupt. This doesn't help with the fact that the latter two groups often clash with each other in and around Statton, which in turn create negative efects for its citizens. SIMON: 6 groups that clash. Eldira drunkards, imperial Drunkards, City guards, Prositution and drug gangs, imperial petrol
@@ -39,7 +22,7 @@ Statton used to be its own Führstentum however 500 years ago it was conquered b
 
 Eldria is known for being one of the most well connected regions in the world. Almost each city and town is connected to a road that leads to one of the major cities and each city has a road leading to another one. The biggest and most maintained road is the road from Aerlham leading to Gent. These two principalities are the most important and strongest in Eldria and as such many people and goods travel between them all year around. The next most safest and heavily guarded road is the one leading from Aerlham to ""(the city at the border of Eldria and Grenzland). Many Kaiserliche soldiers travel this road and they often accompany transporters carrying goods or people to the region. Another important destionation with many roads leading to it is Wandia. Wandia is a central part of ELdria and many people and armies travel to it. While Eldria is said to have many roads, they are not always the most safest for there are often wars being waged between the many principalities and they often cause a lot disarray. Futhermore many bandits and other unsavoury groups often roam eldria and attack people on the roads
 
-## Die Geschichte der Region]
+## Die Geschichte der Region
 
 [Die Geschichte von Eldria](#Die Geschichte von Eldria)
 Simon hat gedanken dazu - We have to distinguish between North and South Eldria
@@ -77,6 +60,14 @@ Eldria is probably one of if not the region with the most monster in it. However
 
 ## Gerüchte der Region
 
+### The green knight and the man Beast
+
+throughout Eldria there exists a legend of two people who roam the land hunting down monsters that no other fighter is able to beat. This is the legend of the green knight whose real name is unknown and a animali called Satra Kra. These two fighters have been spotted around all the corners of Eldria and have been observed to fight the mightiest beast of Eldria. It is said that both of them are able to kill a werewolf in one shot. One time a peasant spotted them fighting Katakhan were Satra Kra had had his weapon stuck in its back as it was on fire. Satra Kra kept staying on its back even as it was furiously swinging side to side, tree to tree until it finally dropped dead on the ground. Another story tell of them killing a Gravis by themselves by lurking the monster into a cunning trap. Many people believe that these two people are the mightiest monster hunters in all of Eldria
+
+### The Red Death knight
+
+Almost everyone who has ever thought the undead are aware of how frighting they can be, especially if the undead happens to be a knight and it is well known that undead knights from Eldria are among the strongest undead that a person can face. Yet even among the undead knights there is one that stands out from the rest. Legends has it that a towering undead roams the land of Eldria since 107 years now. People believe that this knight used to be a man called Soloman Schwertun. Soloman used to belong to one of the old noble families of Eldria, however it fell to ruin along with Soloman himself. Rumors from over a hundred years ago said that the family and Soloman gto involved with the dark arts and with the bloodgods in order to gain more power. The family suddenly rose in wealth and influence but just as quickly as they gained it, it disappeared. Many people caught a wiff of their involvment with the blood gods and soon they were disregarded and disowned by the other families. While there power disappeared, one thing didn't and that was the strenght of Soloman. in the last few years before his death, he grew tremendously in strength and size and became a gruesome warrior that was said to have no regard for human life and after his family fell from power he swore revenge on all the people that had disowned his family. he soon began to hunt these people for their treachery. He managed to kill many people but finally after a few years the famous knight Joan Fraquis and his band managed to kill him, however Soloman killed every single person along with him. Sadly no one was able to bury their bodies and not after long Soloman became an undead knight. Ever since then his dead body has roamed the lands appearing randomly and killing mercilessly and until today no person has been able to rid the world of him
+
 ## Sehenswürdigkeiten
 
 ### Harschell
@@ -87,7 +78,6 @@ Harschell used to be one of the greatest cities to the east of Eldria ever since
 
 Austen lays next to a very peculiar forest of yellow, orange and red trees. People say that entiring the forest is like entering a fairytale. The trees are like nothing most people have ever seen before and many people travel there just for this sight
 
-###
 
 ### Ulias Spooners Taverne 
 

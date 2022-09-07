@@ -389,6 +389,65 @@ reactable(dfskillgruppe,
 
 Zwei Punkte Ausdauer kann man auf jedem Ausdauerlevel für einen Attributpunkt kaufen.
 
+### Eigenheiten
+
+#### Positive Eigenheiten
+
+Positive Eigenschaften bringem dem Charakter meist Vorteile, kosten allerdings Attributpunkte. Bei der Charaktererstellung sind diese Eigenschaften günstiger zu kaufen, wenn man sie Nachkauft werden sie ein wenig teurer.
+
+```{r}
+dfeigenheiten=read_xlsx(bookdownallgdatapfad, sheet="Eigenschaften")
+
+dfeigenheiten %>% 
+  filter(str_to_lower(Valenz)=="p") %>% 
+  select(-Valenz) %>% 
+  relocate(Eigenschaft, Beschreibung, Regeln) %>% 
+  reactable(
+    columns = list(
+      
+      Eigenschaft = colDef(
+        filterable = TRUE,
+        # Filter by case-sensitive text match
+        filterMethod = JS("function(rows, columnId, filterValue) {
+                                return rows.filter(function(row) {
+                                return row.values[columnId].indexOf(filterValue) !== -1
+                                })}")
+      )
+    ), bordered = T, highlight = T, showPageSizeOptions = TRUE,
+    striped=T, searchable = T,
+    pageSizeOptions = c(5,10, 20, 50),
+    defaultPageSize = 10,  paginationType = "jump",
+    theme= overallThemeReactable)
+```
+
+#### Negative Eigenheiten
+
+Negative Eigenheiten schränken den Charakter ein, gewährem ihm allerdings Attributpunkte die er in andere Eigenheiten oder in Attribute investieren kann. 
+
+```{r}
+dfeigenheiten %>% 
+  filter(str_to_lower(Valenz)=="n") %>% 
+  select(-Valenz) %>% 
+  relocate(Eigenschaft, Beschreibung, Regeln) %>% 
+  reactable(
+    columns = list(
+      
+      Eigenschaft = colDef(
+        filterable = TRUE,
+        # Filter by case-sensitive text match
+        filterMethod = JS("function(rows, columnId, filterValue) {
+                                return rows.filter(function(row) {
+                                return row.values[columnId].indexOf(filterValue) !== -1
+                                })}")
+      )
+    ), bordered = T, highlight = T, showPageSizeOptions = TRUE,
+    striped=T, searchable = T,
+    pageSizeOptions = c(5,10, 20, 50),
+    defaultPageSize = 10,  paginationType = "jump",
+    theme= overallThemeReactable)
+```
+
+
 ### Wissen und Sprachen {#Wissensfähigkeiten}
 
 Die Welt von Orbis Astea ist gekennzeichnet von Komplexität.
@@ -480,7 +539,7 @@ Diese Werte sind absolute - keine kummulativen Kosten.\
 Wichtig ist es für DMs die Skills mit eigenem Gefühl einzubringen, was realistisch sein könnte.
 
 Auch nach der Charaktererstellung kann man seine Wissensskills verbessern.
-Dies geht über das <font color="green">[sogenannte Studieren](#Studieren)</font>.
+Dies geht über das [sogenannte Studieren](#Studieren).
 
 ### Kontakte {#Kontakte}
 
@@ -539,7 +598,7 @@ Sollte man sich allerdings nicht im Kampf/unter Zeitdruck befinden, kann man pro
 Da man Waffen in gefährlichen Umgebungen schnell zur Hand haben will, und diese nicht erstmal ewig aus dem [Rucksack](#Rucksack) kramen will, wurden Holster erfunden.
 Diese Kosten pro Holster bei der Erstellung eines Charakters 1250 Reiks und man kann maximal über 5 davon verfügen.
 In verschiedene Holster passen nur bestimmte Waffentypen.
-Mehr dazu <font color="green">[hier](#Holster1)</font>.
+Mehr dazu [hier](#Holster1).
 
 ### Ausrüstung
 
@@ -548,11 +607,11 @@ Was ein Abenteurer unbedingt besitzen sollte ist eine Waffe, eine Tranktasche un
 
 Ausrüstung zum kaufen findet man hier:
 
--   Hier findet ihr <font color="green">[Waffen](#Waffen)</font>
--   Hier findet ihr <font color="green">[Rüstung](#Rüstung)</font>
--   Hier findet ihr <font color="green">[Reittiere](#Mounts)</font>
--   Hier findet ihr <font color="green">[Übrige Gegenstände](#AndereGegenstände)</font>
--   Hier findet ihr <font color="green">[Tränke](#Tränke)</font>
+-   Hier findet ihr [Waffen](#Waffen)
+-   Hier findet ihr [Rüstung](#Rüstung)
+-   Hier findet ihr [Reittiere](#Mounts)
+-   Hier findet ihr [Übrige Gegenstände](#AndereGegenstände)
+-   Hier findet ihr [Tränke](#Tränke)
 
 Denkt beim Einkaufen aber daran, dass es sinnvoll sein kann sich etwas Geld überzuhalten.
 Schließlich bringt das Leben in Orbis Aestea <font color="green">[Lebenshaltungskosten](#Lebenshaltungskosten)</font> mit sich, und auch für Quests ist es immer sinnvoll etwas Geld übrig zu haben.
