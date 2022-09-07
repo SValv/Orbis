@@ -395,10 +395,13 @@ ortschaften-der-region-9
 statton
 infrastruktur-9
 die-geschichte-der-region-8
+das-königreich-eldrias-1
+die-aufsplitterung-die-aufsplitterung-1
+die-wirkung-des-felssturzes-1
+die-kaiserliche-besatzung-die-kaiserliche-besatzung-1
 wirtschaftliche-lage-12
 die-ressourcen-der-region-8
 soziopolitische-lage-14
-herrschaftsystemorganisation-14
 klimatische-bedingungen-9
 die-flora-und-fauna-9
 monster-in-der-region-9
@@ -407,7 +410,7 @@ the-green-knight-and-the-man-beast
 the-red-death-knight
 sehenswürdigkeiten-9
 harschell
-the-forest-of-austen
+the-forest-of-austen-and-its-regions
 ulias-spooners-taverne
 notizen
 Wandia
@@ -426,7 +429,7 @@ die-geschichte-der-region-10
 wirtschaftliche-lage-13
 die-ressourcen-der-region-9
 soziopolitische-lage-15
-herrschaftsystemorganisation-15
+herrschaftsystemorganisation-14
 klimatische-bedingungen-11
 SilvaNaciaWald
 monster-in-der-region-11
@@ -439,7 +442,7 @@ die-geschichte-der-region-11
 wirtschaftliche-lage-14
 die-ressourcen-der-region-10
 soziopolitische-lage-16
-herrschaftsystemorganisation-16
+herrschaftsystemorganisation-15
 klimatische-bedingungen-12
 die-flora-und-fauna-11
 monster-in-der-region-12
@@ -472,7 +475,7 @@ die-geschichte-der-region-13
 wirtschaftliche-lage-16
 die-ressourcen-der-region-12
 soziopolitische-lage-18
-herrschaftsystemorganisation-17
+herrschaftsystemorganisation-16
 klimatische-bedingungen-14
 die-flora-und-fauna-13
 monster-in-der-region-14
@@ -513,7 +516,7 @@ die-geschichte-der-region-15
 wirtschaftliche-lage-18
 die-ressourcen-der-region-14
 soziopolitische-lage-20
-herrschaftsystemorganisation-18
+herrschaftsystemorganisation-17
 klimatische-bedingungen-16
 die-flora-und-fauna-15
 monster-in-der-region-16
@@ -528,7 +531,7 @@ wirtschaftliche-lage-19
 die-ressourcen-der-region-15
 eroberungszüge-der-rah-kari
 soziopolitische-lage-21
-herrschaftsystemorganisation-19
+herrschaftsystemorganisation-18
 klimatische-bedingungen-17
 die-flora-und-fauna-16
 monster-in-der-region-17
@@ -541,7 +544,7 @@ die-geschichte-der-region-17
 wirtschaftliche-lage-20
 die-ressourcen-der-region-16
 soziopolitische-lage-22
-herrschaftsystemorganisation-20
+herrschaftsystemorganisation-19
 klimatische-bedingungen-18
 die-flora-und-fauna-17
 monster-in-der-region-18
@@ -554,7 +557,7 @@ die-geschichte-der-region-18
 wirtschaftliche-lage-21
 die-ressourcen-der-region-17
 soziopolitische-lage-23
-herrschaftsystemorganisation-21
+herrschaftsystemorganisation-20
 klimatische-bedingungen-19
 die-flora-und-fauna-18
 monster-in-der-region-19
@@ -776,7 +779,6 @@ glaube
 glück
 Sanity
 verfluchte-artefakte
-lagern-und-ruhen
 längerfristige-verletzungen
 Ohnmacht
 grundlagen-des-spiels
@@ -795,7 +797,7 @@ der-kampf
 Initiative
 die-kampfrunde-und-die-kampfaktionen
 für-andere-blocken
-InstrumenteRules
+schwerer-angriff
 dual-wielding
 der-schildstoß
 andere-angriffe-während-single-actions
@@ -834,6 +836,7 @@ einordnung-der-größenverhältnisse-von-geldbeträgen
 Handelssystem
 Lebenserhaltungskosten
 besondere-regeln
+InstrumenteRules
 der-krieg-auf-see
 allgemeines
 kapern-und-versenken
