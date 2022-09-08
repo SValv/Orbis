@@ -120,7 +120,7 @@ Die Kirchen reagierten unterschiedlich: Während die Ekklesia eine Privatarmee -
 
 ## Bekannte Blutgötzen
 
-### Sakessa
+### Sakessa {#Sakessa}
 
 Sakessa ist eine Blutgöttin, die sich vor allem durch ihre Eifersucht auszeichnet.
 Ihr ruf gilt fast immer attraktiven jungen Frauen, die sie ob ihrer Schönheit beneidet.
@@ -154,7 +154,7 @@ In den Märchen des gemeinen Volkes ist Sakessa eine alte Frau, die zu eitle Mä
 
 Iwie sowas, menschen schlafen und dann leid oder tomate
 
-### Jiraad der brennende Gott
+### Jiraad der brennende Gott {#Jiraad}
 
 Jiraad ist im Allgemeinen als Blutgott des Feuers und der Zerstörung bekannt.
 Anhänger, Auserwählte oder Opfer, je nach Ansicht, von Jiraad Interferenzen mit den Menschen enden, wie üblich bei Blutgöttern, in das Abdriften in den Wahnsinn und selbstzerstörerischem Verhalten.
@@ -250,7 +250,7 @@ So wurde effektiv die Aktivitäten Jiraads mittelfristig unterbunden.
 Seit diesem Vorfällen wurde die Ekklesia auf diese Gruppe aufmerksam, welche sich allerdings erst mehrere Jahrunderte später durch Alfred Grimand dezidiert der Auslöschung des Blutgkultes und seiner Abwandlungen widmten.
 Dadurch wurden die Aktivitäten der Jünger Jiraads auch deutlich reduziert und nebenbei eine günstige Quelle an Moltovika erschlossen.
 
-### Pux-Haik Herrscher der Pestilenz
+### Pux-Haik Herrscher der Pestilenz {#PuxHaik}
 
 Jeder kennt die erkrankten in den Armenvierteln der Städte.
 Die Armen leiden an allen möglichen Plagen welche der Allgott den weniger Frommen schickt.
@@ -292,7 +292,7 @@ Da die Tätigkeit der Gedärme allerdings nach der rund einwöchigen Phase seine
 
 Die regelrechten Hexenjagden welchen durchgeführt werden, wo meist Unschuldige ihre Leben lassen, zahlen sich aber tatsächlich aus da ein derartig Gerufener rund 200-300 Personen anstecken kann.
 
-### Saath Valar
+### Saath Valar {#SaathValar}
 
 Saath Valar ist für viele ein Rätsel, im allgemeinen wird davon ausgegangen dass er die Inferata geschrieben hat, und dass er der Vater oder Erschaffer sämtlicher anderer Blutgötter ist.
 Nur diejenigen, die am tiefsten in der Forschung der Inferata stecken und schon kurz vor dem Wahn stehen wissen überhaupt irgendetwas von Saath Valar, er scheint der mächtigste der Blutgötter zu sein, doch sieht man ihn nirgendwo in der Welt aktiv handeln.
@@ -308,11 +308,11 @@ Er bedroht weder Städte noch Menschen, erschafft keine Gefahren und das einzige
 
 Durch die erkennbare Abwesenheit Saath Valars in der Welt wird oft davon ausgegangen dass Saath Valar entweder tot oder machtlos ist, und die Inferata in diesem Punkt falsch übersetzt wurde.
 
-### Ciresh - Herrin der Illusionen
+### Ciresh - Herrin der Illusionen {#Ciresh}
 
 ![Illusionsgott](Pictures/Flavor/Platzhalter/Illusionsgott.jpg)
 
-### Hartemus der Sammler
+### Hartemus der Sammler {#Hartemus}
 
 Hartemus ist ein kleinerer Blutgott ohne tatsächlichen Wirkungsbereich.
 Er wird der Sammler genannt, da er bekannt dafür ist, Mörder und Soldaten zu rufen, die er verwendet um gegen andere Blutgötter vorzugehen.
@@ -363,7 +363,7 @@ Manchmal geht der Ruf so weit dass sich Menschen - reversibel und irreversibel -
 Ga'ar ist eine höchst destruktive Göttin, die versucht die Zivilisationen der Menschen weitgehend zu zerstören, dabei hat sie eher einen "mit dem Kopf durch die Wand"-Ansatz, weswegen die meisten ihrer gerufenen Wesen, bei denen es zu Mutationen kommt, an ebenjenen sterben.
 Sie und ihre gerufenen sind die Gruppe, die von Hartemus und seinen Anhängern am meisten gejagt wird.
 
-### Tunis - der Verderber der Innovation:
+### Tunis - der Verderber der Innovation {#Tunis}
 
 Nur jene die in ihrem Handwerk blühen vermögen dieses leise und schwache flüstern dieses Rufs zu hören, den der Drang nach neuen Ideen lässt sie tief in sich horchen doch was sie dort finden ist nicht immer das was sie erwarten und stammt auch nicht immer von ihnen.
 Tunis pflanzt den Schatten einer Idee in die Köpfe der unglücklichen.
@@ -390,7 +390,7 @@ Glücklicherweise ruft Tunis sehr selten Personen, aber die die er ruft sind in 
 > --- Earl Hammond, Graf von Cerdem ca 60.
 > nach Riga
 
-### Marak - Erschaffer des Glaubens:
+### Marak - Erschaffer des Glaubens {#Marak}
 
 Der Blutgott Marak sah die Jahrtausende dauernden Konflikte und beschloss einfach weder für die eine Seite, noch die andere Gruppe noch großartig für sich selbst zu kämpfen,
 

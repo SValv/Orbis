@@ -265,7 +265,7 @@ Orks sind im Kaiserreich eher selten anzutreffen. Zumindest außerhalb der Armee
 
 ![Die meisten Orks dienen dem Kaiserreich als schwere Infanterie](Pictures\\Flavor\\Platzhalter\\OrkHeavyInfKais.jpg)
 
-## Die Kaiserliche Armee
+## Die Kaiserliche Armee {#KaisArmee}
 
 > Andere Nationen haben eine Armee für ihren Staat, wir haben einen Staat für unsere Armee!
 >
