@@ -132,11 +132,9 @@ Biremen kommen sowohl mit offenem Deck, als auch mit einem geschlossenem Kampfde
 
 Galeeren haben ein breites, meist offenes Deck und sind eher auf Artillerie als auf Truppentransport ausgelegt. Da viele Galeeren umfunktionierte oder immer noch im Dienst seinende Handelsschiffe sind, haben sie auch häufiger Lagerräume und das typische - oft nachteillige offene Deck.
 
-![Eine umfunktionierte Handelsgaleere[^221besondereregeln-1]](Pictures/Flavor/SchiffeBoote/Wikimedia_Galeere_Transparent.png)
+![Eine umfunktionierte Handelsgaleere[^1]](Pictures/Flavor/SchiffeBoote/Wikimedia_Galeere_Transparent.png)
 
-[^221besondereregeln-1]: Diese Abbildung wurde der Seite [wikimedia](https://commons.wikimedia.org/wiki/File:Galley-knightshospitaller.jpg) entnommen und steht unter einer Creative Commons Attribution-Share Alike 3.0 Unported license zur Verfügung.
-
-[^221besondereregeln-2]: Diese Abbildung wurde der Seite [wikimedia](https://commons.wikimedia.org/wiki/File:Galley-knightshospitaller.jpg) entnommen und steht unter einer Creative Commons Attribution-Share Alike 3.0 Unported license zur Verfügung.
+[^1]: Diese Abbildung wurde der Seite [wikimedia](https://commons.wikimedia.org/wiki/File:Galley-knightshospitaller.jpg) entnommen und steht unter einer Creative Commons Attribution-Share Alike 3.0 Unported license zur Verfügung.
 
 Dennoch sind Galeeren weit verbreitet und sowohl im zivilen als auch im militärischen Gebrauch üblich. Und sind vor allem durch ihre Vielseitigkeit charakterisiert. Kaum ein Schiffstyp ist so vielseitig und anpassungsfähig.
 
@@ -144,11 +142,9 @@ Dennoch sind Galeeren weit verbreitet und sowohl im zivilen als auch im militär
 
 Die Trireme ist mit 130 Ruderern und Platz für 150 Soldaten ein gefürchteter Anblick in jeder Seeschlacht. Ihre immense Beschleunigung macht sie zum idealen Schiff zum rammen und zum kapern anderer Schiffe, und so sind sie eigentlich nur im militärischen Gebrauch anzutreffen.
 
-![Eine Trireme auf Patroullie[^221besondereregeln-3]](Pictures/Flavor/SchiffeBoote/wikimedia_Trireme.png)
+![Eine Trireme auf Patroullie[^2]](Pictures/Flavor/SchiffeBoote/wikimedia_Trireme.png)
 
-[^221besondereregeln-3]: Diese Abbildung wurde der Seite [wikimedia](https://commons.wikimedia.org/wiki/File:Trireme_1.jpg) entnommen und steht unter einer Creative Commons Attribution-Share Alike 2.0 France license zur Verfügung.
-
-[^221besondereregeln-4]: Diese Abbildung wurde der Seite [wikimedia](https://commons.wikimedia.org/wiki/File:Trireme_1.jpg) entnommen und steht unter einer Creative Commons Attribution-Share Alike 2.0 France license zur Verfügung.
+[^2]: Diese Abbildung wurde der Seite [wikimedia](https://commons.wikimedia.org/wiki/File:Trireme_1.jpg) entnommen und steht unter einer Creative Commons Attribution-Share Alike 2.0 France license zur Verfügung.
 
 Obwohl Triremen eher teuer sind, sind sie aufgrung ihrer Kampfkraft und der Schnelligkeit, mit der neue Seefahrer eingearbeitet sind, weit verbreitet. Trieren haben außerdem Platz für Artillerie und sind standartmäßig mit einer Ramme ausgerüstet, sie werden immer mit einem geschlossenem Kampfdeck gebaut.
 
@@ -174,11 +170,9 @@ Ohne die Krieger ist das Langboot im Kampf jedoch relativ aufgeschmissen, da das
 
 Die Fregatte ist ein großes Segelschiff mit Platz für zwei bis drei Ballisten oder Katapulte. Sie braucht 25 Seemänner um gesteuert zu werden und kann in etwa 80 zusätzliche Personen Transportieren. Fregatten sind sowohl in ziviler als auch als militärischer Nutzung häufig - werden jedoch in beiden Fällen meist bewaffnet, da sie beliebte Ziele für Piraten sind. Sie können lange Zeit reisen und sind oft der Hauptteil maritimer Flotten.
 
-![Eine Fregatte kreuzt gegen den Wind[^221besondereregeln-5]](Pictures/Flavor/SchiffeBoote/Fregatte_Pixaby.jpg)
+![Eine Fregatte kreuzt gegen den Wind[^3]](Pictures/Flavor/SchiffeBoote/Fregatte_Pixaby.jpg)
 
-[^221besondereregeln-5]: Diese Abbildung wurde der Seite [Pixaby](https://pixabay.com/es/illustrations/vela-barco-mar-1506158/) entnommen und steht zur kommerziellen Nutzung zur Verfügung.
-
-[^221besondereregeln-6]: Diese Abbildung wurde der Seite [Pixaby](https://pixabay.com/es/illustrations/vela-barco-mar-1506158/) entnommen und steht zur kommerziellen Nutzung zur Verfügung.
+[^3]: Diese Abbildung wurde der Seite [Pixaby](https://pixabay.com/es/illustrations/vela-barco-mar-1506158/) entnommen und steht zur kommerziellen Nutzung zur Verfügung.
 
 Fregatten gelten als das kleinste der großen Segelschiffe.
 
@@ -198,29 +192,29 @@ Die Galeone fährt für gewöhnlich mit einer Begleitflotte und ist trotz ihrer 
 
 #### Werte und Übersicht
 
-+------------+----------+-------------+-----------------+------------------+----------------+
-| Kampf      | Art      | Haltbarkeit | Bewegungspunkte | Manövrierbarkeit | Beschleunigung |
-+:==========:+:========:+:===========:+:===============:+:================:+:==============:+
-| Barke      | Ruder    | 1500        | 2               | 20               | 10             |
-+------------+----------+-------------+-----------------+------------------+----------------+
-| Kutter     | Segel    | 2000        | 1               | 18               | 6              |
-+------------+----------+-------------+-----------------+------------------+----------------+
-| Bireme     | Ruder    | 10000       | 2               | 17               | 14             |
-+------------+----------+-------------+-----------------+------------------+----------------+
-| Brigg      | Segel    | 8000        | 2               | 14               | 13             |
-+------------+----------+-------------+-----------------+------------------+----------------+
-| Langschiff | Segel    | 15000       | 3               | 16               | 17             |
-+------------+----------+-------------+-----------------+------------------+----------------+
-| Galeere    | Ruder    | 18000       | 3               | 13               | 15             |
-+------------+----------+-------------+-----------------+------------------+----------------+
-| Fregatte   | Segel    | 15000       | 2               | 9                | 12             |
-+------------+----------+-------------+-----------------+------------------+----------------+
-| Trireme    | Ruder    | 25000       | 4               | 10               | 20             |
-+------------+----------+-------------+-----------------+------------------+----------------+
-| Karavelle  | Segel    | 18000       | 2               | 7                | 11             |
-+------------+----------+-------------+-----------------+------------------+----------------+
-| Galeone    | Segel    | 30000       | 1               | 5                | 5              |
-+------------+----------+-------------+-----------------+------------------+----------------+
++------------+-------+-------------+-----------------+------------------+----------------+
+| Kampf      | Art   | Haltbarkeit | Bewegungspunkte | Manövrierbarkeit | Beschleunigung |
++:==========:+:=====:+:===========:+:===============:+:================:+:==============:+
+| Barke      | Ruder | 1500        | 2               | 20               | 10             |
++------------+-------+-------------+-----------------+------------------+----------------+
+| Kutter     | Segel | 2000        | 1               | 18               | 6              |
++------------+-------+-------------+-----------------+------------------+----------------+
+| Bireme     | Ruder | 10000       | 2               | 17               | 14             |
++------------+-------+-------------+-----------------+------------------+----------------+
+| Brigg      | Segel | 8000        | 2               | 14               | 13             |
++------------+-------+-------------+-----------------+------------------+----------------+
+| Langschiff | Segel | 15000       | 3               | 16               | 17             |
++------------+-------+-------------+-----------------+------------------+----------------+
+| Galeere    | Ruder | 18000       | 3               | 13               | 15             |
++------------+-------+-------------+-----------------+------------------+----------------+
+| Fregatte   | Segel | 15000       | 2               | 9                | 12             |
++------------+-------+-------------+-----------------+------------------+----------------+
+| Trireme    | Ruder | 25000       | 4               | 10               | 20             |
++------------+-------+-------------+-----------------+------------------+----------------+
+| Karavelle  | Segel | 18000       | 2               | 7                | 11             |
++------------+-------+-------------+-----------------+------------------+----------------+
+| Galeone    | Segel | 30000       | 1               | 5                | 5              |
++------------+-------+-------------+-----------------+------------------+----------------+
 
 <small> <small>
 
@@ -337,7 +331,7 @@ Während die meisten Völker Zwerge nur als Fahrende Händler oder an deren Wohn
 
 ### Einsatzfelder von Konstrukten {#KonstruktAnwendung}
 
-Konstrukte unterscheiden in vielerlei Art. dabei werden grundsätzlich nur Grenzen durch die Handwerkskunst und die Kreativität seines Erbauers gesetzt. Angefangen beim **Konstruktkern**, dieses Herzstück eines jeden Konstrukts bestimmt die späteren Anwendungsgebiete eines Konstrukts denn im gegensatz zu anderen Teilen des Konstrukts ist dieser später nicht mehr zu verändern. In die Kerne wird dabei nicht direkt ihre Aufgabe eingeprägt viel mehr stellt der Kern den möglichen Speicher und die Energiequelle dar, je besser der Kern desto mehr und Komplizierte Befehlte kann das spätere Konstrukt ausführen. Sogar selbst ständig mehrere Funktionen aneinander Reihen um den Befehl erfolgreich auszuführen. Konstruktkerne unterscheiden sich generell in ihrer Größe und ihrer Reinheit, generell gilt je größer ein Kern ist desto aufnahmerfähiger ist er benötigt aber auch entsprechend mehr Essenzen, sollte der Platz der für den Kern zur Verfügung steht limitiert sein so gäbe es ein weiterers Stellrad das bedient werden kann die Reinheit diese ermöglicht einen Kern bei gleicher Aufnahmefähigkeit zu verkleinern jedoch benötigt dieser Prozess deutlich mehr Essenz. Weiters existieren unterschiede in der Panzerung, wie man sich gut vorstellen kann ist ein Wesen dass auf Grund seiner Natur bereits ausschließlich aus Metallen besteht bereits gut gepanzert was bereits zu einem hohen Verteidigungswert führt, jedoch sind Teile des innenleben der Konstrukte aufgrund ihrer Filigranen und Präzisen Struktur leicht zu zerstören. Dies kann durch zusätzliche Panzerung an den Empfindlichen Stellen des Konstrukts verhindert werden, erhöht aber auch das Gewicht und den Preis. Neben diesen Merkmalen gibt es natürlich noch zwei Offensichtliche, die Ausstattung und der Grundaufbau. die Ausstattung ist maßgeblich dafür welche Aufgaben überhaupt vom Konstrukt erledigt werden können und diese wird weiter durch den Aufbau des Konstrukts unterstützt.
+Konstrukte unterscheiden in vielerlei Art. dabei werden grundsätzlich nur Grenzen durch die Handwerkskunst und die Kreativität seines Erbauers gesetzt. Angefangen beim **Konstruktkern**, dieses Herzstück eines jeden Konstrukts, mit der beschädigung von diesem endet auch die aktivität. In die Kerne wird dabei nicht direkt ihre Aufgabe eingeprägt viel mehr stellt der Kern den möglichen Speicher und die Energiequelle dar, je besser der Kern desto mehr und Komplizierte Befehlte kann das spätere Konstrukt ausführen. Sogar selbstständig mehrere Funktionen aneinander Reihen um den Befehl erfolgreich auszuführen. Weiters existieren unterschiede in der Panzerung, wie man sich gut vorstellen kann ist ein Wesen dass auf Grund seiner Natur bereits ausschließlich aus Metallen besteht bereits gut gepanzert was bereits zu einem hohen Verteidigungswert führt, jedoch sind Teile des innenleben der Konstrukte aufgrund ihrer Filigranen und Präzisen Struktur leicht zu zerstören.
 
 #### Konstruktarten
 
@@ -497,45 +491,45 @@ Der Corpus bestimmt folgende Eigenschaften eines Konstrukts.
 
 -   Skill Maximum: die Eigenschaft Utility Konstrukt reduziert den Preis um den Faktor 0,25 jedoch limitiert das Skilllevel auf 50
 
-+-------------+-------------+-------------+---------------+---------------+
-|             | Armor       | Attribute   | Preis (Reiks) | Utility Preis |
-+=============+=============+=============+===============+===============+
-| Tier 1\     | 100         | 10          | 10.000        | 5000          |
-| klein       |             |             |               |               |
-+-------------+-------------+-------------+---------------+---------------+
-| Tier 2\     | 130         | 15          | 25.000        | 12.500        |
-| klein       |             |             |               |               |
-+-------------+-------------+-------------+---------------+---------------+
-| Tier 3\     | 145         | 20          | 40.000        | 20.000        |
-| klein       |             |             |               |               |
-+-------------+-------------+-------------+---------------+---------------+
-| Tier 4\     | 160         | 25          | 60.000        | 30.000        |
-| klein       |             |             |               |               |
-+-------------+-------------+-------------+---------------+---------------+
-| Tier 1\     | 100         | 20          | 20.000        | 15.000        |
-| mittel      |             |             |               |               |
-+-------------+-------------+-------------+---------------+---------------+
-| Tier 2\     | 130         | 30          | 50.000        | 37.500        |
-| mittel      |             |             |               |               |
-+-------------+-------------+-------------+---------------+---------------+
-| Tier 3\     | 145         | 40          | 80.000        | 60.000        |
-| mittel      |             |             |               |               |
-+-------------+-------------+-------------+---------------+---------------+
-| Tier 4\     | 160         | 50          | 120.000       | 90.000        |
-| mittel      |             |             |               |               |
-+-------------+-------------+-------------+---------------+---------------+
-| Tier 1\     | 130         | 30          | 40.000        | 30.000        |
-| groß        |             |             |               |               |
-+-------------+-------------+-------------+---------------+---------------+
-| Tier 2\     | 169         | 45          | 100.000       | 75.000        |
-| groß        |             |             |               |               |
-+-------------+-------------+-------------+---------------+---------------+
-| Tier 3\     | 189         | 60          | 160.000       | 120.000       |
-| groß        |             |             |               |               |
-+-------------+-------------+-------------+---------------+---------------+
-| Tier 4\     | 208         | 75          | 240.000       | 180.000       |
-| groß        |             |             |               |               |
-+-------------+-------------+-------------+---------------+---------------+
++------------+------------+------------+---------------+---------------+
+|            | Armor      | Attribute  | Preis (Reiks) | Utility Preis |
++============+============+============+===============+===============+
+| Tier 1\    | 100        | 10         | 10.000        | 5000          |
+| klein      |            |            |               |               |
++------------+------------+------------+---------------+---------------+
+| Tier 2\    | 130        | 15         | 25.000        | 12.500        |
+| klein      |            |            |               |               |
++------------+------------+------------+---------------+---------------+
+| Tier 3\    | 145        | 20         | 40.000        | 20.000        |
+| klein      |            |            |               |               |
++------------+------------+------------+---------------+---------------+
+| Tier 4\    | 160        | 25         | 60.000        | 30.000        |
+| klein      |            |            |               |               |
++------------+------------+------------+---------------+---------------+
+| Tier 1\    | 100        | 20         | 20.000        | 15.000        |
+| mittel     |            |            |               |               |
++------------+------------+------------+---------------+---------------+
+| Tier 2\    | 130        | 30         | 50.000        | 37.500        |
+| mittel     |            |            |               |               |
++------------+------------+------------+---------------+---------------+
+| Tier 3\    | 145        | 40         | 80.000        | 60.000        |
+| mittel     |            |            |               |               |
++------------+------------+------------+---------------+---------------+
+| Tier 4\    | 160        | 50         | 120.000       | 90.000        |
+| mittel     |            |            |               |               |
++------------+------------+------------+---------------+---------------+
+| Tier 1\    | 130        | 30         | 40.000        | 30.000        |
+| groß       |            |            |               |               |
++------------+------------+------------+---------------+---------------+
+| Tier 2\    | 169        | 45         | 100.000       | 75.000        |
+| groß       |            |            |               |               |
++------------+------------+------------+---------------+---------------+
+| Tier 3\    | 189        | 60         | 160.000       | 120.000       |
+| groß       |            |            |               |               |
++------------+------------+------------+---------------+---------------+
+| Tier 4\    | 208        | 75         | 240.000       | 180.000       |
+| groß       |            |            |               |               |
++------------+------------+------------+---------------+---------------+
 
 ##### Attribute
 
@@ -547,21 +541,21 @@ Der Preis einer Batterie erhöht sich mit der Anzahl der Ladungen und kann nach 
 
 *Grundpreis: 5.000*
 
-+----------------+--------------------------+-------------------------------+
-| Ladungsanzahl  | Preis pro Ladung (Reiks) | Gesamt (inklusive Grundpreis) |
-+================+==========================+===============================+
-| 1-5            | 2.000                    | 15.000                        |
-+----------------+--------------------------+-------------------------------+
-| 6-10           | 3.000                    | 30.000                        |
-+----------------+--------------------------+-------------------------------+
-| 11-15          | 4.000                    | 50.000                        |
-+----------------+--------------------------+-------------------------------+
-| 16-20          | 5.000                    | 75.000                        |
-+----------------+--------------------------+-------------------------------+
-| 21-30          | 7.500                    | 150.000                       |
-+----------------+--------------------------+-------------------------------+
-| 31-50          | 10.000                   | 350.000                       |
-+----------------+--------------------------+-------------------------------+
++---------------+--------------------------+-------------------------------+
+| Ladungsanzahl | Preis pro Ladung (Reiks) | Gesamt (inklusive Grundpreis) |
++===============+==========================+===============================+
+| 1-5           | 2.000                    | 15.000                        |
++---------------+--------------------------+-------------------------------+
+| 6-10          | 3.000                    | 30.000                        |
++---------------+--------------------------+-------------------------------+
+| 11-15         | 4.000                    | 50.000                        |
++---------------+--------------------------+-------------------------------+
+| 16-20         | 5.000                    | 75.000                        |
++---------------+--------------------------+-------------------------------+
+| 21-30         | 7.500                    | 150.000                       |
++---------------+--------------------------+-------------------------------+
+| 31-50         | 10.000                   | 350.000                       |
++---------------+--------------------------+-------------------------------+
 
 #### Erweiterungen: Addons / Waffen / Upgrades
 
@@ -592,17 +586,17 @@ Upgrades erhöhen die Attribute eines Konstrukts solange diese ausgerüstet sind
 
 -   Transport : erhöht die Belastungsgrenze von Konstrukten für Transportgewicht
 
--   Panzermodus 100% Block Chance; Tiers erhöhen den Schildblockwert
+-   Panzermodus: 100% Block Chance; Tiers erhöhen den Schildblockwert; deaktiviert Angriffs funktion
 
 -   Wachmodus = Standartmäßig vorhanden benötigt dennoch Platz, läuft über Perception
 
--   Schützenplatz
+-   Schützenplatz: Zur bedienung der Montierten Attelerie
 
--   Pilotensitz
+-   Pilotensitz: ermöglicht den Vehicel Check mit halben Schwierigkeitsgrad
 
 -   Verbaute Attilerie (nur durch Schützenplatz nutzbar) (Tier abhängig wie groß montierbare Waffe) (einklappbar)
 
--   Attelerienachlader (automatisch
+-   Attelerienachlader: automatisch Nachladen 1 mal pro Runde der Attelerie
 
 -   Deckungsmodul
 
@@ -610,15 +604,15 @@ Upgrades erhöhen die Attribute eines Konstrukts solange diese ausgerüstet sind
 
 -   Werfer: Seil oder Rauch
 
-+-------------+--------------+--------------+--------------+--------------+
-| Addons      | Stufe 1      | Stufe 2      | Stufe 3      | Stufe 4      |
-+=============+==============+==============+==============+==============+
-| Transport   | +75KG        | +125KG       | +200KG       | +300KG       |
-+-------------+--------------+--------------+--------------+--------------+
-| Panzermodus | Schildwert + | Schildwert + | Schildwert + | Schildwert + |
-+-------------+--------------+--------------+--------------+--------------+
-| Pilotensitz |              |              |              |              |
-+-------------+--------------+--------------+--------------+--------------+
++-------------+---------------+----------------+----------------+----------------+
+| Addons      | Stufe 1       | Stufe 2        | Stufe 3        | Stufe 4        |
++=============+===============+================+================+================+
+| Transport   | +75KG         | +125KG         | +200KG         | +300KG         |
++-------------+---------------+----------------+----------------+----------------+
+| Panzermodus | Schildwert +5 | Schildwert +10 | Schildwert +15 | Schildwert +20 |
++-------------+---------------+----------------+----------------+----------------+
+|             |               |                |                |                |
++-------------+---------------+----------------+----------------+----------------+
 
 #### Anwendungen für Ladungen
 

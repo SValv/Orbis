@@ -1,7 +1,7 @@
 --- 
 title: "<center>Orbis Astea</center>"
 date: "<center>Version vom: `r format(Sys.Date(),'%d.%m.%Y')`</center>"
-author: "<center>DM-App Version: 3.4532</center>"
+author: "<center>DM-App Version: 3.5</center>"
 site: bookdown::bookdown_site
 favicon: "roundIco.ico"
 ---
@@ -654,7 +654,6 @@ m <- leaflet(width = w(), height = h()) %>%
 m
 ```
 
-
 ```{r functiondump}
 getTierTable = function(tier, pfad="Container/Data/Tiere.xlsx"){
   df= read_xlsx(pfad, sheet= tier)
@@ -745,4 +744,3 @@ Feiertagdf = read_excel(bookdownallgdatapfad,sheet="Feiertage")
 Feiertagdf$Relevanz = str_split(Feiertagdf$Relevanz, ",")
 
 ```
-
