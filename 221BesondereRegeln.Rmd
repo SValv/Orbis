@@ -8,7 +8,7 @@ Mit einem guten Rhythmus kämpft man besser. Bestimmte Lieder bringen Power-Ups 
 
 Um ein Lied im Kampf zu singen wird wie normalerweise ein Performace-Check gemacht. Die Wirkung hält vier Aktionen an und es kann nur ein Genre gleichzeitig auf eine Person wirken. Lieder können motivierend sein oder demotivierend sein, also als Buffs oder Debuffs wirken - mit einem Lied des Genres Folk kann man also den Physical-Wert einer Person steigern wenn es motivierend ist und senken wenn es demotivierend ist. Versucht man ein Lied auf eine Gruppe Ziele wirken zu lassen, ist es deutlich schwerer - der Theshold verdoppelt sich. Lieder können - wie fast alles in unserem System - eine Stufe (Tier) von 1 bis 4 besitzen. Diese Stufe macht ein Lied zwar schwerer zu spielen, allerdings wird die Wirkung auch stärker.
 
-Lieder können - je nach Genre - von unterschiedlichen instrumenten begleitet und unterstützt werden, wobei das passende Hauptinstrument einen +6 Würfelmodifyer und das passende Nebeninstrument einen +3 Würfelmodifyer gibt.
+Lieder können - je nach Genre - von unterschiedlichen instrumenten begleitet und unterstützt werden, wobei das passende Hauptinstrument einen +6 Würfelmodifyer und das passende Nebeninstrument einen +3 Würfelmodifyer gibt. Ein Lied kann mit einem Instrument, welches sich in einem [Holster](#Holster1) befindet für eine main Action gespielt werden.
 
 Hier sieht man eine Übersicht über die Genres:
 

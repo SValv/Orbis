@@ -803,7 +803,7 @@ andere-angriffe-während-single-actions
 Schleichangriffe
 waffen-werfen-und-wurfwaffen
 GezielterSchuss
-objekte-während-des-kampfes
+FreieHand
 Formation
 KampfVomReittier
 UnbewaffneterKampf
