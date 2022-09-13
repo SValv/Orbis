@@ -13,7 +13,7 @@ Die wichtigste Frage für die Erstellung eines Charakters ist "Worauf hast du Lu
 
 ## Die Excel-Datei
 
-Orbis Astea ist eine Welt, in der die [Charaktererstellung](#Charaktererstellung), sowie das Verfolgen der Entwicklung eines Charakters in einem Excel Sheet festgehalten wird.
+Orbis Astea ist ein System, in der der Charakter, sowie das Verfolgen der Entwicklung ebenjenes Charakters in einem Excel Sheet festgehalten wird.
 Dieses ist auf dieser Website unter "Download" in einer leeren Version herunterladbar.
 Im Folgenden wird erklärt, wie dieses Character Sheet aufgebaut ist, welche Attribute und Fähigkeiten in dieser Welt wie verstanden werden und daraus folgend, welche Aktionen mit welcher Fähigkeit möglich und nicht möglich sind.
 
