@@ -763,8 +763,6 @@ Charaktererstellung
 RassenStartwerte
 Fähigkeitsverbesserungen
 eigenheiten
-positive-eigenheiten
-negative-eigenheiten
 Wissensfähigkeiten
 Kontakte
 Rucksack

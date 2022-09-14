@@ -241,7 +241,7 @@ Es wird empfohlen einen gezielten Schuss nur zu setzen, wenn der Gegner nicht ga
 
 Objekte können während des Kampfes als Nebenaktion verwendet werden. Wichtig ist hierbei allerdings, dass man sie bereits in der Hand, im Holster (bei Waffen) oder in der Tranktasche (bei Tränken) trägt. Alles, was aus dem Rucksack - also dem übrigen Inventar - geholt werden muss, kostet eine Hauptaktion.
 
-Um die meisten Objekte schnell verwenden zu können braucht es die sogenannte "freie Hand" - also eine Hand, die zur benutzung des Objekts verwendet werden kann. Diese hat man wenn man eine einhändige oder zweihändige Waffe (Stangenwaffe oder Großwaffe) führt. Führt man zwei einhändige Waffen oder einen Schild hat man keine Hand frei und kann daher den [Köcher](#Koecher) weniger gut verwenden.
+Um die meisten Objekte schnell verwenden zu können braucht es die sogenannte "freie Hand" - also eine Hand, die zur benutzung des Objekts verwendet werden kann. Diese hat man wenn man eine einhändige oder zweihändige Waffe (Stangenwaffe oder Großwaffe) führt. Führt man zwei einhändige Waffen oder einen Schild hat man keine Hand frei und kann daher den [Köcher](#Koecher) weniger gut verwenden. Das führen von Faustwaffen zählt immer als "freie Hand".
 
 #### Holster {#Holster1 .unnumbered}
 
