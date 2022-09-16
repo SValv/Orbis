@@ -468,17 +468,16 @@ die-bande-der-schwarzfeder
 der-stöhnende-baum
 sehenswürdigkeiten-13
 BermaTal
-the-mutations-of-berma-tal
+die-mutationen-von-berma-tal
 ortschaften-der-region-13
-section-3
-section-4
-section-5
+ulugda
+rola-akthir
+vogalta
 infrastruktur-13
 die-geschichte-der-region-13
 wirtschaftliche-lage-16
 die-ressourcen-der-region-12
 soziopolitische-lage-18
-klimatische-bedingungen-14
 die-flora-und-fauna-13
 monster-in-der-region-14
 gerüchte-der-region-12
@@ -504,7 +503,7 @@ verloreneArmee
 weitere-gruppierungen-in-appothis
 rebellen-und-banditen
 die-meth-hu
-klimatische-bedingungen-15
+klimatische-bedingungen-14
 die-flora-und-fauna-14
 monster-in-der-region-15
 gerüchte-der-region-13
@@ -519,7 +518,7 @@ wirtschaftliche-lage-18
 die-ressourcen-der-region-14
 soziopolitische-lage-20
 herrschaftsystemorganisation-16
-klimatische-bedingungen-16
+klimatische-bedingungen-15
 die-flora-und-fauna-15
 monster-in-der-region-16
 gerüchte-der-region-14
@@ -534,7 +533,7 @@ die-ressourcen-der-region-15
 eroberungszüge-der-rah-kari
 soziopolitische-lage-21
 herrschaftsystemorganisation-17
-klimatische-bedingungen-17
+klimatische-bedingungen-16
 die-flora-und-fauna-16
 monster-in-der-region-17
 gerüchte-der-region-15
@@ -547,7 +546,7 @@ wirtschaftliche-lage-20
 die-ressourcen-der-region-16
 soziopolitische-lage-22
 herrschaftsystemorganisation-18
-klimatische-bedingungen-18
+klimatische-bedingungen-17
 die-flora-und-fauna-17
 monster-in-der-region-18
 gerüchte-der-region-16
@@ -560,7 +559,7 @@ wirtschaftliche-lage-21
 die-ressourcen-der-region-17
 soziopolitische-lage-23
 herrschaftsystemorganisation-19
-klimatische-bedingungen-19
+klimatische-bedingungen-18
 die-flora-und-fauna-18
 monster-in-der-region-19
 gerüchte-der-region-17
@@ -739,7 +738,7 @@ körperschwächen-der-lenden
 körperschwächen-der-innereien
 körperschwächen-der-knochen
 körperschwächen-des-kopfes
-section-6
+section-3
 vorläufer-und-blutgötter
 vorläufer
 blutgötter
@@ -905,7 +904,7 @@ Stangenwaffen
 Wurfwaffen
 Faustwaffen
 Rüstung
-schild
+Schilde
 Tranktaschen
 Tränke
 wirkungen-von-tränken

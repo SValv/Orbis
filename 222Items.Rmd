@@ -300,7 +300,7 @@ Diese Tabelle zeigt Werte für die einzelnen Rüstungsteile:
 
 Achtung: das an- und ausziehen bezieht sich auf eine vollständige Leichte/Mittlere/Schwere Rüstung.
 
-### Schild
+### Schild {#Schilde}
 
 Ein Schild ist die Vorraussetzung für die Aktion <font color="green">["Blocken"](#BlockenAusweichen)</font>, er ist die Lebensversicherung für die, die am meisten an der Front stehen.
 
@@ -309,11 +309,11 @@ Hier sieht man die verfügbaren Schildtypen:
 +----------------+--------------------+---------------------+----------+----------+---------------------+
 | Schild         | Entwaffnungschance | Schildwert          | Wurfwert | Gewicht  | Kosten              |
 +:==============:+:==================:+:===================:+:========:+:========:+:===================:+
-| Kleines Schild | 15                 | Standartwert x 0.35 | 0,5      | 1 kg     | 0.4 x Standartpreis |
+| Kleines Schild | 50                 | Standartwert x 0.35 | 0,5      | 1 kg     | 0.4 x Standartpreis |
 +----------------+--------------------+---------------------+----------+----------+---------------------+
-| Schild         | 8                  | Standartwert x 0.55 | 0,5      | 3 kg     | 0.6 x Standartpreis |
+| Schild         | 30                 | Standartwert x 0.55 | 0,5      | 3 kg     | 0.6 x Standartpreis |
 +----------------+--------------------+---------------------+----------+----------+---------------------+
-| Turmschild     | 1                  | Standartwert x 0.75 | 0,3      | 8 kg     | 0.8 x Standartpreis |
+| Turmschild     | 5                  | Standartwert x 0.75 | 0,3      | 8 kg     | 0.8 x Standartpreis |
 +----------------+--------------------+---------------------+----------+----------+---------------------+
 
 ## Tranktaschen {#Tranktaschen}
