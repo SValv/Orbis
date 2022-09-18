@@ -169,9 +169,9 @@ Hierbei gibt es immer leicht unterschiedliche Varianten der berichteten Darstell
 Teils als Fratze rein aus Feuer, teils als lavaartiger Golem und teils als beinahe Menschengestalt.
 Je nach dauer der Rufe verändert sich Jiraads Gestalt hin zum immer flammenbehafteteren und verbrannterem Gesichtern und Landschaften.
 
-![Darstellung von Jiraad wenn man sich nicht seinen Wünschen beugt. Gezeichnet durch den Kultisten und ehemalig berühmten Maler Arzin Steinmähre[^1]](Pictures/Flavor/Blutg%C3%B6tter/000Fesbra000_Jiraad_Erscheinung.jpg)
+![Darstellung von Jiraad wenn man sich nicht seinen Wünschen beugt. Gezeichnet durch den Kultisten und ehemalig berühmten Maler Arzin Steinmähre[^000Fesbra000WingsOfDeathAndFire]](Pictures/Flavor/Blutg%C3%B6tter/000Fesbra000_Jiraad_Erscheinung.jpg)
 
-[^1]: "Wings of Death and Fire" von [000Fesbra000](https://www.deviantart.com/000fesbra000/art/Wings-of-Death-and-Fire-589826133).
+[^000Fesbra000WingsOfDeathAndFire]: "Wings of Death and Fire" von [000Fesbra000](https://www.deviantart.com/000fesbra000/art/Wings-of-Death-and-Fire-589826133).
     Dieses Artwork steht unter einer Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 License zur Verfügung.
 
 Diese können über die Monate, lebhafte Träume entstehen.
@@ -235,9 +235,9 @@ Alt- Haag wurde dann im Verlaufe von 3 Wochen derart zerstört, mit geschätzten
 Eine Hand voll verantwortliche der Jiraad Sekte konnten der Beteiligung überführt und hingerichtet werden.
 Diese zeigten keine Desillusionierung trotz ihrer Gräueltaten und ihre Haut wies Brandsymbole am gesamten Rücken auf.
 
-![Darstellung von Alt-Haag während des Terrors von Jiraads Anhänger[^2]](Pictures/Flavor/SzenerieOrteLandschaften/ember_by_butteredbap.jpg)
+![Darstellung von Alt-Haag während des Terrors von Jiraads Anhänger[^ButteredbapEmber]](Pictures/Flavor/SzenerieOrteLandschaften/ember_by_butteredbap.jpg)
 
-[^2]: "Ember" von [Butteredbap](https://www.deviantart.com/butteredbap/art/Ember-410011561).
+[^ButteredbapEmber]: "Ember" von [Butteredbap](https://www.deviantart.com/butteredbap/art/Ember-410011561).
     Dieses Artwork steht unter einer Creative Commons Attribution 3.0 License zur Verfügung.
 
 ![Darstellung der Brandsymbole auf 4 der 6 hingerichteten Jiraad Anhänger](Pictures/Flavor/Platzhalter/jiraadsymbol.jpg)
@@ -264,9 +264,9 @@ Fachgelehrte von Krankheiten meinen hingegen, dass sich Krankheiten teils sympto
 Pux-Haik's gestattet nur sehr wenigen Gerufenen die Möglichkeit die ersten Krankheiten zu überleben.
 Diese entwickeln nach einer kurzen Krankheitsfreien aber
 
-![Erscheinung des Würgreizhervorufenden und zweifelsohne furchterregenden Pux-Haik[^3]](Pictures/Flavor/Blutg%C3%B6tter/by_taonavi_PuxHaik.jpg)
+![Erscheinung des Würgreizhervorufenden und zweifelsohne furchterregenden Pux-Haik[^TaonaviMor]](Pictures/Flavor/Blutg%C3%B6tter/by_taonavi_PuxHaik.jpg)
 
-[^3]: "Mor" von [Taonavi](https://www.deviantart.com/taonavi/art/Mor-764606189).
+[^TaonaviMor]: "Mor" von [Taonavi](https://www.deviantart.com/taonavi/art/Mor-764606189).
     Dieses Artwork steht unter einer Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 License zur Verfügung.
 
 #### Umgang des Kaiserreiches mit Anhängern Pux-Haik
@@ -311,6 +311,8 @@ Durch die erkennbare Abwesenheit Saath Valars in der Welt wird oft davon ausgega
 ### Ciresh - Herrin der Illusionen {#Ciresh}
 
 ![Illusionsgott](Pictures/Flavor/Platzhalter/Illusionsgott.jpg)
+
+Verlängerter Arm ist der [Ricor](#Ricor)
 
 ### Hartemus der Sammler {#Hartemus}
 

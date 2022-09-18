@@ -139,7 +139,7 @@ getTierTable("Schaf")
 
 #### Wolf {.unnumbered}
 
-![Das Bild eines bösen Wolfes, wie er den Kindern eines Dorfes beschrieben wird, um sie aus den Wäldern fernzuhalten[^RaphtorBone]](Pictures\\\\Flavor\\\\Tiere\\\\epicyon___bone_crusher_by_raphtor.jpg)
+![Das Bild eines bösen Wolfes, wie er den Kindern eines Dorfes beschrieben wird, um sie aus den Wäldern fernzuhalten[^RaphtorBone1]](Pictures\\Flavor\\Tiere\\epicyon___bone_crusher_by_raphtor.jpg)
 
 
 Wölfe sind als böse Tiere verschrien. Dabei handelt es sich hierbei auch nur um eine wilde Version des Hundes.
@@ -225,7 +225,7 @@ getTierTable("Kuh")
 
 #### Braunbär {.unnumbered}
 
-![Die Zeichnung eines Braunbärs, wie sie in Kinderbüchern zu finden ist.](Pictures\\\\Flavor\\\\Tiere\\\\Braunbär_Pixabay.png)
+![Die Zeichnung eines Braunbärs, wie sie in Kinderbüchern zu finden ist.](Pictures\\Flavor\\Tiere\\Braunbär_Pixabay.png)
 
 
 Der Braunbär gehört zu den Königen eines typischen Waldes.
@@ -253,7 +253,7 @@ getTierTable("Ochse")
 
 #### Tiger {.unnumbered}
 
-![Eine detaillierte Zeichnung eines Tigers. Wenige Personen haben jedoch einen echten Tiger gesehen.](Pictures\\\\Flavor\\\\Tiere\\\\Tiger_Pixabay.png)
+![Eine detaillierte Zeichnung eines Tigers. Wenige Personen haben jedoch einen echten Tiger gesehen.](Pictures\\Flavor\\Tiere\\Tiger_Pixabay.png)
 
 
 Tiger sind die größten Katzen der Welt.
@@ -282,7 +282,7 @@ getTierTable("Nashorn")
 
 #### Elefant {.unnumbered}
 
-![Eine Kuschel-Partie kleiner Babyelefanten.](Pictures\\\\Flavor\\\\Tiere\\\\Elephantenbabys_Pixabay.png)
+![Eine Kuschel-Partie kleiner Babyelefanten.](Pictures\\Flavor\\Tiere\\Elephantenbabys_Pixabay.png)
 
 
 Die Elefanten gehören zu den Konstrukten unter den Tieren.
@@ -511,4 +511,4 @@ getTierTable("Walross")
 -   Skorpion
 -   Erwachtes Ross
 
-[^RaphtorBone]: : "Epicyon: Bone Crusher" von [Raphtor](https://www.deviantart.com/raphtor/art/Epicyon-Bone-crusher-799407634). Dieses Artwork steht unter einer Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 License.
+[^RaphtorBone1]: "Epicyon: Bone Crusher" von [Raphtor](https://www.deviantart.com/raphtor/art/Epicyon-Bone-crusher-799407634). Dieses Artwork steht unter einer Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 License.

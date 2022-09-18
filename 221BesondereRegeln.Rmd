@@ -132,9 +132,9 @@ Biremen kommen sowohl mit offenem Deck, als auch mit einem geschlossenem Kampfde
 
 Galeeren haben ein breites, meist offenes Deck und sind eher auf Artillerie als auf Truppentransport ausgelegt. Da viele Galeeren umfunktionierte oder immer noch im Dienst seinende Handelsschiffe sind, haben sie auch häufiger Lagerräume und das typische - oft nachteillige offene Deck.
 
-![Eine umfunktionierte Handelsgaleere[^1]](Pictures/Flavor/SchiffeBoote/Wikimedia_Galeere_Transparent.png)
+![Eine umfunktionierte Handelsgaleere[^wikimediaGaleere]](Pictures/Flavor/SchiffeBoote/Wikimedia_Galeere_Transparent.png)
 
-[^1]: Diese Abbildung wurde der Seite [wikimedia](https://commons.wikimedia.org/wiki/File:Galley-knightshospitaller.jpg) entnommen und steht unter einer Creative Commons Attribution-Share Alike 3.0 Unported license zur Verfügung.
+[^wikimediaGaleere]: Diese Abbildung wurde der Seite [wikimedia](https://commons.wikimedia.org/wiki/File:Galley-knightshospitaller.jpg) entnommen und steht unter einer Creative Commons Attribution-Share Alike 3.0 Unported license zur Verfügung.
 
 Dennoch sind Galeeren weit verbreitet und sowohl im zivilen als auch im militärischen Gebrauch üblich. Und sind vor allem durch ihre Vielseitigkeit charakterisiert. Kaum ein Schiffstyp ist so vielseitig und anpassungsfähig.
 
@@ -142,9 +142,9 @@ Dennoch sind Galeeren weit verbreitet und sowohl im zivilen als auch im militär
 
 Die Trireme ist mit 130 Ruderern und Platz für 150 Soldaten ein gefürchteter Anblick in jeder Seeschlacht. Ihre immense Beschleunigung macht sie zum idealen Schiff zum rammen und zum kapern anderer Schiffe, und so sind sie eigentlich nur im militärischen Gebrauch anzutreffen.
 
-![Eine Trireme auf Patroullie[^2]](Pictures/Flavor/SchiffeBoote/wikimedia_Trireme.png)
+![Eine Trireme auf Patroullie[^wikimediaTrireme]](Pictures/Flavor/SchiffeBoote/wikimedia_Trireme.png)
 
-[^2]: Diese Abbildung wurde der Seite [wikimedia](https://commons.wikimedia.org/wiki/File:Trireme_1.jpg) entnommen und steht unter einer Creative Commons Attribution-Share Alike 2.0 France license zur Verfügung.
+[^wikimediaTrireme]: Diese Abbildung wurde der Seite [wikimedia](https://commons.wikimedia.org/wiki/File:Trireme_1.jpg) entnommen und steht unter einer Creative Commons Attribution-Share Alike 2.0 France license zur Verfügung.
 
 Obwohl Triremen eher teuer sind, sind sie aufgrung ihrer Kampfkraft und der Schnelligkeit, mit der neue Seefahrer eingearbeitet sind, weit verbreitet. Trieren haben außerdem Platz für Artillerie und sind standartmäßig mit einer Ramme ausgerüstet, sie werden immer mit einem geschlossenem Kampfdeck gebaut.
 
@@ -170,9 +170,9 @@ Ohne die Krieger ist das Langboot im Kampf jedoch relativ aufgeschmissen, da das
 
 Die Fregatte ist ein großes Segelschiff mit Platz für zwei bis drei Ballisten oder Katapulte. Sie braucht 25 Seemänner um gesteuert zu werden und kann in etwa 80 zusätzliche Personen Transportieren. Fregatten sind sowohl in ziviler als auch als militärischer Nutzung häufig - werden jedoch in beiden Fällen meist bewaffnet, da sie beliebte Ziele für Piraten sind. Sie können lange Zeit reisen und sind oft der Hauptteil maritimer Flotten.
 
-![Eine Fregatte kreuzt gegen den Wind[^3]](Pictures/Flavor/SchiffeBoote/Fregatte_Pixaby.jpg)
+![Eine Fregatte kreuzt gegen den Wind[^PixabayFregatte]](Pictures/Flavor/SchiffeBoote/Fregatte_Pixaby.jpg)
 
-[^3]: Diese Abbildung wurde der Seite [Pixaby](https://pixabay.com/es/illustrations/vela-barco-mar-1506158/) entnommen und steht zur kommerziellen Nutzung zur Verfügung.
+[^PixabayFregatte]: Diese Abbildung wurde der Seite [Pixabay](https://pixabay.com/es/illustrations/vela-barco-mar-1506158/) entnommen und steht zur kommerziellen Nutzung zur Verfügung.
 
 Fregatten gelten als das kleinste der großen Segelschiffe.
 
