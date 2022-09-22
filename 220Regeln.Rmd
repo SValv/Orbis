@@ -61,11 +61,11 @@ Diese Saves sind typisch und werden euch immer wieder begegnen:
 
 ### Ausdauersave {#Ausdauersave}
 
-Der Ausdauersave passiert automatisch bei jeder Aktion die die körperliche Ausdauer belastet. Er wird mit dem Physical-Wert abgezogen dem [Aktiven Gewicht/5](#AktivesGewicht) gewürfelt. Die negative Differenz wird der Ausdauer abgezogen. Warum Ausdauer und dieser Save wichtig sind steht [hier](#Ausdauer).
+Der Ausdauersave passiert automatisch bei jeder Aktion die die körperliche Ausdauer belastet. Er wird mit dem Physis-Wert abgezogen dem [Aktiven Gewicht/5](#AktivesGewicht) gewürfelt. Die negative Differenz wird der Ausdauer abgezogen. Warum Ausdauer und dieser Save wichtig sind steht [hier](#Ausdauer).
 
 ### Toxikologie-Save
 
-Der Toxikologie-Safe wird mit den Würfeln der Attribute Physical, Instinct, Luck und Glaube gewürfelt - Achtung hierbei wird die Summe, nicht der Durchschnitt gebildet.
+Der Toxikologie-Safe wird mit den Würfeln der Attribute Physis, Instinct, Luck und Glaube gewürfelt - Achtung hierbei wird die Summe, nicht der Durchschnitt gebildet.
 
 Da jeder Trank toxisches Potential hat, wird immer, nachdem ein Trank konsumiert wird, ein Toxi-Save gegen den Threshold aus allen kummulierten Trankstufen der genommenen Tränke gewürfelt. Sollte man diesen nicht schaffen fällt man in [Ohnmacht](#Ohnmacht).
 
@@ -85,7 +85,7 @@ Der Kampf ist wie in jedem Pen- and Paper-System einer der komplizierteren Vorg�
 
 ### Die Initiative {#Initiative}
 
-Am Anfang des Kampfes findet die Initiative statt, d.h. jeder wirft Initiative (Instinct + Physical)/2. Die Werte werden nach größe geordnet und der mit dem höchsten Wert darf angreifen, dann der mit dem zweithöchsten und so weiter. Manchmal legt der DM diese Reihenfolge sinngemäß fest (bspw. bei Schleichangriffen oder Distanz und Fernkämpfern). Im Allgemeinen bekommen Fernkämpfer +1 Würfel auf die Initiative-Probe. Bei Gleichstand in den Werten werden Armbrüste und Musketen vorgezogen, da sie einfach nur abdrücken müssen. Diese Vorteile fallen weg, falls die Distanz sehr gering ist.
+Am Anfang des Kampfes findet die Initiative statt, d.h. jeder wirft Initiative (Instinct + Physis)/2. Die Werte werden nach größe geordnet und der mit dem höchsten Wert darf angreifen, dann der mit dem zweithöchsten und so weiter. Manchmal legt der DM diese Reihenfolge sinngemäß fest (bspw. bei Schleichangriffen oder Distanz und Fernkämpfern). Im Allgemeinen bekommen Fernkämpfer +1 Würfel auf die Initiative-Probe. Bei Gleichstand in den Werten werden Armbrüste und Musketen vorgezogen, da sie einfach nur abdrücken müssen. Diese Vorteile fallen weg, falls die Distanz sehr gering ist.
 
 ### Die Kampfrunde und die Kampfaktionen
 
@@ -269,13 +269,6 @@ Diese Regel trifft allerdings nur für Charaktere zu, die eine [freie Hand](#Fre
 
 Mit einer Tranktasche kann man Tränke und Bomben mit einer Single-Action verwenden, solange sie in der Tranktasche sind. Ein Charakter kann nur eine Tranktasche mitführen. Mehr über Tranktaschen kann man [hier lesen](#TranktascheItems). Um eine Tranktasche zu verwenden braucht man keine [freie Hand](#FreieHand)
 
-### Kämpfen in Formation {#Formation}
-
-Wenn man 5 Leute oder mehr zur Verfügung hat kann man in Formation kämpfen. Eine Formation hat mehrere Vorteile: Zum einen wird der Schaden von [Stangenwaffen](#Stangenwaffen) nicht halbiert, zum anderen sind gewisse Aktionen - wie gemeinsames Blocken - möglich. Bei gemeinsamen Aktionen kann eine Person stellvertretend für die ganze Gruppe die Probe übernehmen. Eine Formation ist nur möglich, wenn das Terrain dies auch zulässt.
-
-#### Der gemeinsame Block {.unnumbered}
-
-Eine der stärksten Fähigkeiten für das Kämpfen in Formation ist der gemeinsame Block. Hierbei werden die Attribute des Charakters mit dem zweithöchsten Blocken-Wert der Formation und der Skill des Charakters mit dem höchsten Blocken-Wert in der Formation für den Check herangezogen. Es muss also nur einmal geworfen werden, dieser Check wird als Check für alle herangezogen.
 
 ### Kampf vom Reittier und das Reiten {#KampfVomReittier}
 

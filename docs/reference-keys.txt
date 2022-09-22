@@ -472,7 +472,8 @@ die-bande-der-schwarzfeder
 der-stöhnende-baum
 sehenswürdigkeiten-13
 BermaTal
-die-mutationen-von-berma-tal
+stämme
+die-fleischgabe
 ortschaften-der-region-13
 ulugda
 rola-akthir
@@ -753,7 +754,7 @@ die-östlichen-grenzen-der-bekannten-welt-die-brennenden-länder
 gaars-leibliche-kinder-die-größten-abscheulichkeiten
 der-tiefenherrscher-und-alptraum-der-see---leviathan
 knochenschädler-1
-character-creation
+die-charaktererstellung
 die-excel-datei
 CharacterSheet
 Status
@@ -765,7 +766,7 @@ Fähigkeiten
 Charaktererstellung
 RassenStartwerte
 Fähigkeitsverbesserungen
-eigenheiten
+Eigenheiten
 Wissensfähigkeiten
 Kontakte
 Rucksack
@@ -775,7 +776,6 @@ Gewicht
 AktivesGewicht
 Belastungsstufe
 das-passive-gewicht
-wo-nachschauen
 im-spiel
 modifikatoren
 glaube
@@ -808,7 +808,6 @@ Schleichangriffe
 waffen-werfen-und-wurfwaffen
 GezielterSchuss
 FreieHand
-Formation
 KampfVomReittier
 UnbewaffneterKampf
 ArtillerieOverall
