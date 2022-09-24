@@ -70,11 +70,13 @@ Dies sind die Fernkampfwaffen, die einem als Abenteurer zur Auswahl stehen:
 | Muskete             | Fernkampfwert x 3   | Standartpreis x 2.5  | 5 kg    | 90%               | Sneak Advantage 4, 1 Runde nachladen <br> negiert Deckung Tier1 |
 +---------------------+---------------------+----------------------+---------+-------------------+-----------------------------------------------------------------+
 
--   Besonderheiten Muskete: Mit der Muskete verbraucht das Nachladen eine Single und eine Main Action. Ausweichen ist während diesem Prozess nicht möglich, außer man hat eine single/bonus Action übrig.
+Besonderheiten:
+
+-   Mit der Muskete verbraucht das Nachladen eine Single und eine Main Action. Ausweichen ist während diesem Prozess nicht möglich, außer man hat eine Aktion übrig.
 -   Alle Fernwaffen haben einen Wurfwert von 0.05
--   Besonderheiten Bogen: Durch den Einsatz eines Bogens erhält der Spieler die Möglichkeit, in einer Runde 2 Mal anzugreifen. Um jedoch einen Doppelangriff zu erreichen, muss die Main + Single Action verwendet werden. Es ist möglich, mit der Hauptaktion mit dem Bogen anzugreifen und danach eine Wurfaktion zu verwenden, auch umgekehrt.
--   Während eines Kampfes hat der Spieler nur 10 Pfeile in seinem Köcher zur Verfügung. Wenn es vollständig aufgebraucht ist, ist eine Main action erforderlich, um es wieder aufzufüllen.
--   Einhändige Armbrust: 50% verstecken Chance.
+-   Mit einem Bogens erhält der Spieler die Möglichkeit, in einer Runde 2 Mal anzugreifen, der zweite Angriff kostet eine single Action.
+-   Während eines Kampfes hat der Spieler nur 10 Pfeile Spezialmunition in seinem Köcher zur Verfügung. Wenn es vollständig aufgebraucht ist, ist eine Main action erforderlich, um es wieder aufzufüllen.
+-   Die Einhändige Armbrust hat eine 50% Versteckchance.
 
 #### Munitionstypen {#Ammo}
 
@@ -119,13 +121,13 @@ Kampfrelevante Informationen:
 +:============:+:==================:+:=================:+:============:+:========:+:==============================:+
 | Schwert      | Standartwert       | nein              | 0.4          | 0,2      | nein                           |
 +--------------+--------------------+-------------------+--------------+----------+--------------------------------+
-| Axt          | Standartwert x 0.8 | 20%               | 0.3          | 0,7      | nein                           |
+| Axt          | Standartwert x 0.8 | 30%               | 0.3          | 0,7      | nein                           |
 +--------------+--------------------+-------------------+--------------+----------+--------------------------------+
-| Streitkolben | Standartwert x 0.7 | 60%               | 0.15         | 0,3      | 30% Betäubungschance           |
+| Streitkolben | Standartwert x 0.7 | 70%               | 0.15         | 0,3      | 30% Betäubungschance           |
 +--------------+--------------------+-------------------+--------------+----------+--------------------------------+
 | Dolch        | Standartwert x 0.5 | 100%              | 0.4          | 0,5      | AP nur wenn Ziel Immobilisiert |
 +--------------+--------------------+-------------------+--------------+----------+--------------------------------+
-| Knüppel      | Standartwert x 0.6 | nein              | 0.15         | 0,3      | 80% Betäubungschance           |
+| Knüppel      | Standartwert x 0.6 | 40%               | 0.15         | 0,3      | 80% Betäubungschance           |
 +--------------+--------------------+-------------------+--------------+----------+--------------------------------+
 
 Sonstige Informationen:
@@ -153,9 +155,9 @@ Diese Großwaffen sind in Orbis Aestea gebräuchlich:
 +:============:+:====================:+:=================:+:============:+:========:+:============================:+
 | Großschwert  | Großwaffenwert       | nein              | 0.4          | 0,2      | nein                         |
 +--------------+----------------------+-------------------+--------------+----------+------------------------------+
-| Großaxt      | Großwaffenwert x 0.8 | 30%               | 0.3          | 0,3      | nein                         |
+| Großaxt      | Großwaffenwert x 0.8 | 40%               | 0.3          | 0,3      | nein                         |
 +--------------+----------------------+-------------------+--------------+----------+------------------------------+
-| Kriegshammer | Großwaffenwert x 0.7 | 60%               | 0.1          | 0,3      | 60%<br>Betäubungs-<br>chance |
+| Kriegshammer | Großwaffenwert x 0.7 | 70%               | 0.1          | 0,3      | 60%<br>Betäubungs-<br>chance |
 +--------------+----------------------+-------------------+--------------+----------+------------------------------+
 
 Sonstige Informationen:
@@ -168,7 +170,7 @@ Sonstige Informationen:
 
 ### Stangenwaffen {#Stangenwaffen}
 
-Stangenwaffen können mit einem Kleinem Schild verwendet werden. Sie sind für das kämpfen in <font color="green">[Formation](#Formation)</font> gedacht und gebaut. Während sie im eigentlichen Kampf gegen Menschen eher durchschnittlich sind, sind sie in <font color="green">[Formation](#Formation)</font>, gegen große Gegner oder gegen Reittiere absolut tödlich. In einer solchen Situation parieren sie nämlich mit ihrem normalen Schadenswert anstatt mit dem Parierwert und haben einen Schadensbonus von 50%. Auch bei angriffen vom Reittier bekommen Stangenwaffen einen Schadensbonus von 50%.
+Während Stangenwaffen im eigentlichen Kampf gegen Menschen eher durchschnittlich sind, sind sie gegen große Gegner, Monster oder vom Reittier absolut tödlich. In einer solchen Situation parieren sie nämlich mit ihrem normalen Schadenswert anstatt mit dem Parierwert und haben einen Schadensbonus von 50%. Auch bei angriffen vom Reittier bekommen Stangenwaffen einen Schadensbonus von 50%.
 
 Folgende Stangenwaffen sind verfügbar:
 
@@ -177,19 +179,18 @@ Folgende Stangenwaffen sind verfügbar:
 +------------+--------------------+---------------------+---------+-------------------+--------------+----------+
 | Waffe      | Schaden            | Preis               | Gewicht | Armor Penetration | Parierfaktor | Wurfwert |
 +:==========:+:==================:+:===================:+:=======:+:=================:+:============:+:========:+
-| Speer      | Standartwert x 0.8 | Standartpreis x 0.8 | 3 kg    | 10%               | 0,1          | 1,3      |
+| Speer      | Standartwert x 0.7 | Standartpreis x 0.8 | 3 kg    | 10%               | 0,1          | 1,3      |
 +------------+--------------------+---------------------+---------+-------------------+--------------+----------+
-| Großspeer/ | Standartwertx 1.1  | Standartpreis x 0.6 | 5 kg    | 30%               | 0,25         | 0,7      |
-|            |                    |                     |         |                   |              |          |
-| Pike       |                    |                     |         |                   |              |          |
+| Pike       | Standartwertx 0.8  | Standartpreis x 0.6 | 5 kg    | 35%               | 0,2          | 0,7      |
 +------------+--------------------+---------------------+---------+-------------------+--------------+----------+
-| Hellebarde | Standartwert x 1.3 | Standartpreis x 1.4 | 7 kg    | 25%               | 0,30         | 0,5      |
+| Hellebarde | Standartwert       | Standartpreis x 1.4 | 7 kg    | 25%               | 0,3          | 0,5      |
 +------------+--------------------+---------------------+---------+-------------------+--------------+----------+
 
 </small>
 
 Besonderheiten:
 
+-   die Pike kann mit einem leichten Schild geführt werden
 -   der kleine Speer ist eine Einhandwaffe und kann somit mit allen Schilden geführt werden
 
 ### Wurfwaffen {#Wurfwaffen}
@@ -231,11 +232,11 @@ Sonstige Informationen:
 +--------------+------------+------------+-----------------------+-------------------------+
 | Schwere Bola | 2000       | 2 kg       | 30%                   | 1                       |
 +--------------+------------+------------+-----------------------+-------------------------+
-| Wurfmesser   | 500        | 3 kg       | 70%                   | 5                       |
+| Wurfmesser   | 500        | 3 kg       | 30%                   | 5                       |
 +--------------+------------+------------+-----------------------+-------------------------+
-| Wurfaxt      | 1000       | 0.5 kg     | 40%                   | 2                       |
+| Wurfaxt      | 1000       | 0.5 kg     | 10%                   | 2                       |
 +--------------+------------+------------+-----------------------+-------------------------+
-| Pilum        | 1500       | 1 kg       | 60%                   | 1                       |
+| Pilum        | 1500       | 1 kg       | 40%                   | 1                       |
 +--------------+------------+------------+-----------------------+-------------------------+
 | Handsand     | 0          | 0          | 100%                  | 20                      |
 +--------------+------------+------------+-----------------------+-------------------------+
@@ -248,30 +249,38 @@ Alle Wurfwaffen haben einen Wurfwert 2,5.
 
 Wurfwaffen können auch - wie normale Waffen - im Nahkampf verwendet werden. Allerdings sollte das der "letzte Ausweg" sein, da sie normalen Waffen im Nahkampf merklich unterlegen sind und schnell kaputt gehen.
 
--   Besonderheiten Schleuder: Im Gegensatz zu anderen Wurfwaffen hat der Schleuder auch eine 40% Betäubungschance.
-
--   Besonderheiten Wurfmesser: 50% Chance auf einen Folgeangriff in derselben Runde. Diese Folgeangriff kann weiterhin stattfinden, bis der Charakter den Save nicht besteht.
+-   Besonderheiten Wurfmesser: 50% Chance auf einen Folgeangriff in derselben Runde. Auf einen Folgeangriff kann ein weiterer Folgeangriff erfolgen.
 
 ### Faustwaffen {#Faustwaffen}
 
-Faustwaffen sind dahingehend besonders, dass sie über den Skill "unarmed" laufen. Sie lassen sich einfach verstecken oder in einen Kampfstil mit einer Kurzwaffe einbinden. Mit Faustwaffen ist das Parieren allerdings nicht möglich.
+Faustwaffen sind dahingehend besonders, dass sie über den Skill "unbewaffnet" laufen. Sie lassen sich einfach verstecken oder in einen Kampfstil mit einer Kurzwaffe einbinden. Mit Faustwaffen ist das Parieren allerdings nicht möglich. Anbei sieht man eine Übersicht über die Faustwaffen:
 
-Hier seht man eine Übersicht über die Faustwaffen:
+Kampfrelevante Informationen:
 
-+---------------+--------------------+---------------------+-----------+-------------------------------------------+
-| Waffe         | Schaden            | Preis               | Gewicht   | Zusatz                                    |
-+:=============:+:==================:+:===================:+:=========:+:=========================================:+
-| Faust         | 5                  |                     |           | 50% Betäubungschance                      |
-+---------------+--------------------+---------------------+-----------+-------------------------------------------+
-| Schlagring    | Standartwert x 0.5 | Standartpreis x 0.4 | 0.2 kg    | 90% versteckbar <br> 75% Betäubungschance |
-+---------------+--------------------+---------------------+-----------+-------------------------------------------+
-| Faustmesser   | Standartwert x 0.6 | Standartpreis x 0.8 | 0.5 kg    | 50% versteckbar                           |
-+---------------+--------------------+---------------------+-----------+-------------------------------------------+
-| Metallkrallen | Standartwert x 0.8 | Standartpreis x 1.3 | 1 kg      | nicht versteckbar                         |
-+---------------+--------------------+---------------------+-----------+-------------------------------------------+
++---------------+--------------------+-------------------+--------------+-----------------------+
+| Waffe         | Schaden            | Armor Penetration | Parierfaktor | Betäubungs-<br>chance |
++:=============:+:==================:+:=================:+:============:+:=====================:+
+| Faust         | 5                  | nein              | 1            | 50%                   |
++---------------+--------------------+-------------------+--------------+-----------------------+
+| Schlagring    | Standartwert x 0.5 | 30%               | 0,6          | 75%                   |
++---------------+--------------------+-------------------+--------------+-----------------------+
+| Faustmesser   | Standartwert x 0.6 | 70%               | 0,1          | 0%                    |
++---------------+--------------------+-------------------+--------------+-----------------------+
+| Metallkrallen | Standartwert x 0.8 | 100%              | 0,6          | 0%                    |
++---------------+--------------------+-------------------+--------------+-----------------------+
 
--   Schlagring 50% AP
--   Metallkrallen 30% Parry
+Sonstige Informationen:
+
++---------------+---------------------+------------+--------------------+------------+
+| Waffe         | Preis               | Gewicht    | Versteck<br>chance | Zusatz     |
++:=============:+:===================:+:==========:+:==================:+:==========:+
+| Schlagring    | Standartpreis x 0.4 | 0,2 kg     | 90%                |            |
++---------------+---------------------+------------+--------------------+------------+
+| Faustmesser   | Standartpreis x 0.8 | 0,5 kg     | 70%                | Attentat   |
++---------------+---------------------+------------+--------------------+------------+
+| Metallkrallen | Standartpreis       | 1 kg       |                    |            |
++---------------+---------------------+------------+--------------------+------------+
+
 -   Alle Faustwaffen haben einen Wurfwert von 0.1
 
 ## Rüstung {#Rüstung}
