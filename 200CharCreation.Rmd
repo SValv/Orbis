@@ -36,7 +36,7 @@ Das Tabellenblatt "Status" dient der Übersicht während einer Spielsession. Spa
 
 Verliert ein Spieler während eines Kampfes [Gesundheit](#Gesundheit) oder durch eine Aktion [Ausdauer](#Ausdauer), so können diese Veränderungen in den Feldern C16 und C17 eingetragen und somit verfolgt werden.
 
-![Das Tabellenblatt "Status" zur Veranschaulichung Anwendbarkeit](Pictures/Rules/ExcelSheet/Status.jpg) Um einen Überblick über die eigene, potenziell zur Verfügung stehende, Ausrüstung zu behalten, können die Waffen im Holster (Spalte A-D; Zeile 25-32) eingetragen werden. Die [Sanity](#Sanity) kann ebenfalls in K2 mitdokumentiert werden. Die Darstellung der Figur kann individuell nach belieben gestaltet werden, um dem Tabellenblatt eine persönliche Note zu geben. Die Felder K28 und K29 sind wichtig, um das [Reiten](#Reiten) zu ermöglichen. Ein Reittier muss in diesem Feld eingetragen werden, damit ein Spieler dieses Tier auch nutzen kann.
+![Das Tabellenblatt "Status" zur Veranschaulichung Anwendbarkeit](Pictures/Rules/ExcelSheet/Status.jpg) Um einen Überblick über die eigene, potenziell zur Verfügung stehende, Ausrüstung zu behalten, können die Waffen im Holster (Spalte A-D; Zeile 25-32) eingetragen werden. Die [Geistesstärke](#Geistesstärke) kann ebenfalls in K2 mitdokumentiert werden. Die Darstellung der Figur kann individuell nach belieben gestaltet werden, um dem Tabellenblatt eine persönliche Note zu geben. Die Felder K28 und K29 sind wichtig, um das [Reiten](#Reiten) zu ermöglichen. Ein Reittier muss in diesem Feld eingetragen werden, damit ein Spieler dieses Tier auch nutzen kann.
 
 Spalte Q ist ebenfalls aktuell zu halten. Q17 gibt dem Spieler einen Überblick über die konsumierten Tränke. Diese stellen im Zusammenhang mit der [Ohnmacht](#Ohnmacht) eine wichtige Rolle dar. Die [Tranktasche](#Tranktaschen) (Felder Q21-Q23, bei kleiner Tranktasche) gibt an, auf welche Tränke ein Spieler im Rahmen einer Neben-Aktion zugreifen kann. Ist diese leer, so muss ein Spieler seine Hauptaktionen dafür nutzen an einen Trank zu kommen. Im zweifelsfall retten die Tränke in der Tranktasche Leben.
 
@@ -91,7 +91,7 @@ Neben den Attributen, die man oft in anderen Spielen hat, gibt es auch noch Luck
 +---------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------+
 | #### Gesundheit {#gesundheit}   | Neben dem gesamten Gesundheit ist zu beachten, dass jeder körperteil seinen eigenen individuellen Healthpool hat (Spalte B, Zeile 17 bis 22). Diese Körperteile können direkt mit einem [gezielten Schuss](#GezielterSchuss) anvisiert werden. Sobald die Gesundheit eines Körperteils auf 0 reduziert wurde, ist es nicht mehr funktionsfähig und es tritt je nach Körperteil ein [besonderer Effekt](#Ohnmacht) auf. Spieler können ihre Gesundheit wiedererlangen, indem sie entweder einen Heiltrank konsumieren oder das [Pause und Rast-System](#PauseRastSystem) verwenden. |                                                                                              |
 +---------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------+
-| #### Ausdauer {#ausdauer}       | Neben der Gesundheit ist die Ausdauer eine weitere Ressource, auf die der Spieler besonders achten sollte, da die meisten Aktionen den gesamten Ausdauerpool verringern. Sie verbraucht sich, wenn man die <font color="green">[Ausdauersaves](#Ausdauersave)</font> nicht schafft. Besonders während des Kampfes, da hier die meisten Aktionen die gesamte Ausdauer eines Spielers verbrauchen, bevor er es überhaupt bemerkt.                                                                                                                                                    |                                                                                              |
+| #### Ausdauer {#Ausdauer}       | Neben der Gesundheit ist die Ausdauer eine weitere Ressource, auf die der Spieler besonders achten sollte, da die meisten Aktionen den gesamten Ausdauerpool verringern. Sie verbraucht sich, wenn man die <font color="green">[Ausdauersaves](#Ausdauersave)</font> nicht schafft. Besonders während des Kampfes, da hier die meisten Aktionen die gesamte Ausdauer eines Spielers verbrauchen, bevor er es überhaupt bemerkt.                                                                                                                                                    |                                                                                              |
 |                                 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |                                                                                              |
 |                                 | Sobald man weniger als 4 Punkte Ausdauer übrig hat werden sämtliche Attribute außer Glück-, Glaube- und Ausdaueerwürfel halbiert. Kurz erklärt bedeutet es, dass alle Aktionen eines Spielers deutlich schwächer werden und man im Kampf mehr Schaden erleidet und selbst weniger austeilt Wenn man kein Ausdauer mehr übrig hat und ein weiterer Ausdauersave missglückt fällt man in Ohmacht. wie bei der Gesundheit ist es auch möglich Ausdauer wiederzuerlanden durch ein Ausdauertrank oder das [Pause und Rast-System](#PauseRastSystem).                                   |                                                                                              |
 +---------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------+
@@ -484,14 +484,14 @@ Auch nach der Charaktererstellung kann man seine Wissensskills verbessern. Dies 
 
 Kontakte sind ein weiteres Stück der Welt - sozusagen das soziale Kapital des Spielers. Sie helfen an Aufträge, Informationen und andere Dinge zu kommen, für die Vitamin B nun mal nützlich ist oder sein könnte. Die Punkte, die man für Kontakte vergeben kann berechnen sich aus der Summe: $$(4 \cdot Charisma) + Instinct.$$
 
-Diese Punkte können dann auf die Beziehung (Affection im [CharacterSheet](#CharacterSheet)), die ein Kontakt gegenüber eines Charakter empfindet, und den Einfluss (Power im [CharacterSheet](#CharacterSheet)), also den sozialen Stand und die Macht eines Kontaktes, verteilt werden.
+Diese Punkte können dann auf die Beziehung (Einfluss im [CharacterSheet](#CharacterSheet)), die ein Kontakt gegenüber eines Charakter empfindet, und den Einfluss (Power im [CharacterSheet](#CharacterSheet)), also den sozialen Stand und die Macht eines Kontaktes, verteilt werden.
 
-Die Kosten beschreiben, wie viele Punkte ein Spieler ausgeben muss, um sich einen Kontakt eintragen zu können. Diese stellen die Summe der jeweiligen Stufen dar. Möchte man eine Liebesbeziehung zu einer Person aus dem Hochadel führen, so sind insgesamt 60 Punkte zu entrichten. 30 für die Stufe 7 Power und nochmal 30 Punkte für die Stufe 7 Affection.
+Die Kosten beschreiben, wie viele Punkte ein Spieler ausgeben muss, um sich einen Kontakt eintragen zu können. Diese stellen die Summe der jeweiligen Stufen dar. Möchte man eine Liebesbeziehung zu einer Person aus dem Hochadel führen, so sind insgesamt 60 Punkte zu entrichten. 30 für die Stufe 7 Einfluss und nochmal 30 Punkte für die Stufe 7 Affection.
 
 Beide Parameter können auf einer Skala von jeweils 1 - 10 vergeben werden. Die inhaltliche Bedeutung der jeweiligen Skalen-Stufe zeigt die nachfolgende Tabelle:
 
 +-----------+-----------------------------------------------------+------------------------+-----------+
-| Stufe     | Power                                               | Affection              | Kosten    |
+| Stufe     | Einfluss                                            | Affection              | Kosten    |
 +:=========:+:===================================================:+:======================:+:=========:+
 | 1         | Unterschicht                                        | Bekanntschaft          | 2         |
 +-----------+-----------------------------------------------------+------------------------+-----------+
@@ -516,13 +516,13 @@ Beide Parameter können auf einer Skala von jeweils 1 - 10 vergeben werden. Die 
 
 : Kontakte und was sie ausmacht.
 
-#### Rucksack {#Rucksack}
+### Rucksack {#Rucksack}
 
 Alle Gegenstände, die nicht sofort verfügbar sind, sind im Rucksack, der das [Inventar](#Inventar) beinhaltet. Ein durchschnittlich starker Mensch (Stärke 10) kann dabei 40kg tragen. Prinzipiell nimmt man den Durchschnitt aus Stärke und Physis mal 4 um die Traglast zu determinieren. Diese wird als Rucksackgröße benutzt.
 
 Ein Objekt während einem Kampf aus dem Rucksack holen kostet die Hauptaktion. Sollte man sich allerdings nicht im Kampf/unter Zeitdruck befinden, kann man problemlos Objekte aus dem Rucksack rauskramen.
 
-#### Holster
+### Holster
 
 Da man Waffen in gefährlichen Umgebungen schnell zur Hand haben will, und diese nicht erstmal ewig aus dem [Rucksack](#Rucksack) kramen will, wurden Holster erfunden. Diese Kosten pro Holster bei der Erstellung eines Charakters 1250 Reiks und man kann maximal über 5 davon verfügen. In verschiedene Holster passen nur bestimmte Waffentypen. Mehr dazu [hier](#Holster1).
 
@@ -560,7 +560,7 @@ Die Summe des Gewichts dieser Items ist das Aktive Gewicht. Es wird durch 5 gete
 +------------+-----------------+--------------------------------------------+-----------------+
 | Belastung  | Aktives Gewicht | Acrobatics <br>Rennen \<br\>und Schleichen | Aufstehen       |
 +============+:===============:+:==========================================:+:===============:+
-| leicht     | Gewicht \< 18   | --                                         | Bewegungsaktion |
+| leicht     | Gewicht \< 18   |                                            | Bewegungsaktion |
 +------------+-----------------+--------------------------------------------+-----------------+
 | mittel     | Gewicht \< 30   | -1 Würfel                                  | single Action   |
 +------------+-----------------+--------------------------------------------+-----------------+
@@ -574,7 +574,6 @@ Das Passive Gewicht ist die Summe des Gewichts der Items die sich im [Rucksack](
 ##### Zusätzliches Gewicht {.unnumbered}
 
 Manchmal trägt der Spieler zusätzliches Gewicht - bspw. eine ohnmächtige Person. Dies kann mit verschiedenen Nachteilen einhergehen, welche der DM festlegt. Ein Beispiel ist die Unfähigkeit auszuweichen oder zu rennen.
-
 
 ## Im Spiel
 
@@ -600,33 +599,33 @@ Ebenso wie bei Glaube kann auch das Glück sinken und steigen. Wenn ein Charakte
 
 Dieser Wert soll das persönliche Wachstum und Wohlbefinden widerspiegeln.
 
-### Sanity {#Sanity}
+### Geistesstärke {#Geistesstärke}
 
-Sanity bezeichnet die Rate, in der der Charakter noch zurechnungsfähig ist. Sie geht vom Maximalwert 100 bis zum Wert Null. Sanity sinkt jedes Mal, wenn man mit Blutgöttern in Kontakt kommt, Blutgöttern dient oder eine Blutgottwaffe verwendet. Solange die Sanity über 20 ist gibt es noch nichts zu befürchten. Sinkt die Sanity unter 20, hat der DM einmal pro Session die Möglichkeit einen Glück/Glaube-Save zu machen und - falls dieser nicht bestanden wird - übernimmt der DM kurzzeitig die Kontrolle über die Figur, die daraufhin höchstwahrscheinlich horrende Taten vollbringt. Sinkt die Sanity unter 10, hat der DM zwei mal pro Session die Chance auf die Übernahme des Charakters. Sollte die Sanity allerdings auf Null sinken, verliert der Spieler dauerhaft die Kontrolle über den Charakter - und der Charakter fällt langfristig dem blutigen Treiben eines <font color="green">[bösen Gottes](#Blutkult)</font> anheim.
+Geistesstärke bezeichnet die Rate, in der der Charakter noch zurechnungsfähig ist. Sie geht vom Maximalwert 100 bis zum Wert Null. Geistesstärke sinkt jedes Mal, wenn man mit Blutgöttern in Kontakt kommt, Blutgöttern dient oder eine Blutgottwaffe verwendet. Solange die Geistesstärke über 20 ist gibt es noch nichts zu befürchten. Sinkt die Geistesstärke unter 20, hat der DM einmal pro Session die Möglichkeit einen Glück/Glaube-Save zu machen und - falls dieser nicht bestanden wird - übernimmt der DM kurzzeitig die Kontrolle über die Figur, die daraufhin höchstwahrscheinlich horrende Taten vollbringt. Sinkt die Geistesstärke unter 10, hat der DM zwei mal pro Session die Chance auf die Übernahme des Charakters. Sollte die Geistesstärke allerdings auf Null sinken, verliert der Spieler dauerhaft die Kontrolle über den Charakter - und der Charakter fällt langfristig dem blutigen Treiben eines <font color="green">[bösen Gottes](#Blutkult)</font> anheim.
 
-Bei Interaktionen entscheidet der DM, um wie viel die Sanity sinkt.
+Bei Interaktionen entscheidet der DM, um wie viel die Geistesstärke sinkt.
 
 #### Verfluchte Artefakte
 
-Es gibt ein paar sehr starke Artefakte (allesamt Tier 5), die ihren starken Effekt damit "bezahlen lassen" das man bei jeder Verwendung Sanity verliert. Dies sind meistens Blutkultrelikte und können von Waffen über Amulette mit gewissen Wirkungen alles sein was einem fähigen DM einfällt.
+Es gibt ein paar sehr starke Artefakte (allesamt Tier 5), die ihren starken Effekt damit "bezahlen lassen" das man bei jeder Verwendung Geistesstärke verliert. Dies sind meistens Blutkultrelikte und können von Waffen über Amulette mit gewissen Wirkungen alles sein was einem fähigen DM einfällt.
 
-### Längerfristige Verletzungen
+## Längerfristige Verletzungen
 
 Achtung, hier wird entgegen der Konventionen von Orbis Astera ab- statt aufgerundet.
 
-#### Verstümmelung {#Verstümmelung .unnumbered}
+### Verstümmelung {#Verstümmelung .unnumbered}
 
 Eine Verstümmelung bedeutet, dass von einem Körperteil nur noch 20% der Gesundheit übrig ist. In diesem Falle ist es ratsam so schnell wie möglich ärztliche Hilfe aufzusuchen, um eine Verkrüppelung zu vermeiden. Der Verstümmelte kann Checks, die den verstümmelten Körperteil beinhalten, nicht mehr ausführen. Außerdem muss er einen Willpower-Save mit dem Threshold 3 bestehen, ansonsten fällt er in <font color="green">[Ohnmacht](#Ohnmacht)</font>.
 
 Ein Charakter kann einen Verband machen, der vorübergehend den "verkrüppelt" Status-Debuff aufhebt. Dies kann der Charakter auch selbst machen,wenn er den Check, um nicht in Ohnmacht zu fallen, überstanden hat. Der zu erreichende Value liegt bei 3.
 
-#### Verkrüppelung {#Verkrüppelung .unnumbered}
+### Verkrüppelung {#Verkrüppelung .unnumbered}
 
 Eine Verkrüppelung bedeutet, dass die Gesundheit eines Körperteils auf Null gesunken ist. Damit verliert der Charakter besagten Körperteil. Er ist nicht mehr in der Lage Checks auszuführen, die diesen Körperteil beinhalten und muss unbedingt zu einem Arzt. Die Langzeitfolgen einer Verkrüppelung sind nicht zu unterschätzen und viele Abenteurer müssen sich zur Ruhe setzen, wenn ihnen eine Verkrüppelung widerfährt.
 
-Bei einer Verkrüppelung muss ein Charakter einen Willpower-Save bestehen, ansonsten fällt er in <font color="green">[Ohnmacht](#Ohnmacht)</font>. Der Threshold liegt bei 6.
+Bei einer Verkrüppelung muss ein Charakter einen Willpower-Save bestehen, ansonsten fällt er in <font color="green">[Ohnmacht](#Ohnmacht)</font>. Der Threshold liegt bei 5.
 
-### Ohnmacht und Tod {#Ohnmacht}
+## Ohnmacht und Tod {#Ohnmacht}
 
 Wenn man in Ohnmacht fällt hat man zwei Optionen - entweder man wartet drei Stunden bis man von selbst wieder aufwacht, oder man bekommt ein <font color="green">[Epinephrinika](#Epinephrin)</font> verabreicht. In beiden Fällen hat ein Charakter das Kopfweh seines Lebens und es wird sobald möglich Rast und Ruhe empfohlen.
 

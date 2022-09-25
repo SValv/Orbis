@@ -719,7 +719,8 @@ getFeiertage = function(regio){
     mutate(Art = factor(ifelse(Relevanz == regio, "Regionaler <br>Feiertag", Relevanz),
                         levels = c("Regionaler <br>Feiertag",reich))) %>% 
     select(-Relevanz) %>% 
-    arrange(Art)
+    arrange(Art) %>% 
+    replace_na(list(Beschreibung=""))
   
   if (nrow(df) > 0){
     df= knitr::kable(df, align = c(rep("c",4)))

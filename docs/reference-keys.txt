@@ -780,7 +780,7 @@ im-spiel
 modifikatoren
 glaube
 glück
-Sanity
+Geistesstärke
 verfluchte-artefakte
 längerfristige-verletzungen
 Ohnmacht

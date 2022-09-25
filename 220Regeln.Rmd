@@ -16,9 +16,9 @@ Wie man sieht, passiert es manchmal, dass einem Skill mehrere Attribute zugeordn
 
 ### Die einfache Probe
 
-Die einfache Probe ist zu Würfeln, wenn es keinen direkten Gegenspieler gibt. Sie ist meistens mit einem Threshold in Value[^value] oder Damage verknüpft, den der DM beliebig festlegt. Sollte man bspw. versuchen ein Schloss zu knacken, wird der DM festlegen, dass der Value über 3 sein soll, um das zu erreichen. Bei härteren/leichteren schlössern ist der Value natürlich anzupassen.
+Die einfache Probe ist zu Würfeln, wenn es keinen direkten Gegenspieler gibt. Sie ist meistens mit einem Threshold in Value[^220regeln-1] oder Damage verknüpft, den der DM beliebig festlegt. Sollte man bspw. versuchen ein Schloss zu knacken, wird der DM festlegen, dass der Value über 3 sein soll, um das zu erreichen. Bei härteren/leichteren schlössern ist der Value natürlich anzupassen.
 
-[^value]: Value ist eine Form von Gütekriterium eines Wurfes - je höher der Value, desto besser der Wurf.
+[^220regeln-1]: Value ist eine Form von Gütekriterium eines Wurfes - je höher der Value, desto besser der Wurf.
 
 Welche Werte hierbei welcher Größenordnung entsprechen findet sich [hier](#Abstufungen).
 
@@ -137,8 +137,7 @@ Die Bonus Action kann - genauso wie die Single Action - für die Runde des Gegne
 
 #### Verteidigungsaktionen {#BlockenAusweichen .unnumbered}
 
-Zur Verteidigung kann ein Charakter Blocken, Parieren oder Ausweichen. Alle diese Verteidigungsaktionen verringern den Schaden, den ein Charakter von gegnerischen Angriffen abbekommt, denn auf jeden Angriff kann mit Blocken, Parieren oder Ausweichen reagiert werden, es sei denn, man sieht den Angriff nicht kommen. Blocken ist dabei ohne Zweifel die stärkste Wahl, allerdings verliert man dabei eine Hand an einen Schild und kann keine Großwaffen mehr benutzen oder Dual Wielden, denn ohne einen Schild ist das Blocken nicht möglich.
-Beim Blocken ist es möglich den Gegner zu entwaffnen, dies passiert bei einem guten Block abhängig vom [Schild](#Schilde)
+Zur Verteidigung kann ein Charakter Blocken, Parieren oder Ausweichen. Alle diese Verteidigungsaktionen verringern den Schaden, den ein Charakter von gegnerischen Angriffen abbekommt, denn auf jeden Angriff kann mit Blocken, Parieren oder Ausweichen reagiert werden, es sei denn, man sieht den Angriff nicht kommen. Blocken ist dabei ohne Zweifel die stärkste Wahl, allerdings verliert man dabei eine Hand an einen Schild und kann keine Großwaffen mehr benutzen oder Dual Wielden, denn ohne einen Schild ist das Blocken nicht möglich. Beim Blocken ist es möglich den Gegner zu entwaffnen, dies passiert bei einem guten Block abhängig vom [Schild](#Schilde)
 
 Das Parieren ist die schwächste Abwehrform und hat - neben der Tatsache, dass nur Nahkampfwaffen parieren können - den zusätzlichen Nachteil, dass ein kritischer Treffer des Gegners oder ein eigener Kritischer Fail die Waffe um Zustand 1 verringert. Bei gegnerischem Nat 20/eigenem Nat 1 geht der Zustand sogar um 2 nach unten. Der Vorteil des Parierens liegt allerdings darin, dass man keine zusätzlichen Einbußen von Optionen hat (wie bspw beim Schild, wo man eine Hand auf den Schild verwendet). Das Parieren ist also dort eine "kostenfreie" Option, wo ein Block unmöglich wird. Allerdings kann nur ein Nahkampfangriff pariert werden.
 
@@ -188,7 +187,6 @@ Anstelle die Single Action für eine weitere Aktion einzusetzen ist es möglich 
 
 Ganz mutige Wesen versuchen mit zwei Waffen zu kämpfen. Dies kann Vor- und Nachteile mit sich bringen. Ein Nachteil dabei ist, dass man nicht blocken kann. Ein Vorteil ist, dass man auch in der Single Action mit einer Waffe zuschlagen kann.
 
-
 ### Der Schildstoß
 
 Charaktere mit Schilden können auch einen Schildstoß vollführen. Hierbei wird mit dem Blocken-Skill angegriffen und der Schildwert als Waffenwert verwendet (das Programm macht das automatisch). Wenn der Value dabei um 2 größer ist als jener der Verteidigungsaktion des anderen wird dieser umgeworfen und muss aufstehen (auch das zeigt das Programm an).
@@ -201,7 +199,7 @@ Auch andere Angriffe können als Single Action durchgeführt werden. Dazu zähle
 
 Unerwartete Angriffe können unheimlich effektiv sein und laufen nach einem gewissen Schema ab. Zuerst wirft man eine [Sneak-Probe](#UntypischeProben) gegen das Ziel oder andere Personen, die einen sehen könnten. Wenn diese fehlschlägt wird normal [Initiative](#Initiative) geworfen. Wenn nicht kommt es zum Schleichangriff. Dieser kann mit allem durchgeführt werden, was nicht als Großwaffe gilt.
 
-Beim Schleichangriff ist keine Abwehraktion des Gegners möglich, sonst läuft der Schleichangriff wie ein normaler Angriff. 
+Beim Schleichangriff ist keine Abwehraktion des Gegners möglich, sonst läuft der Schleichangriff wie ein normaler Angriff.
 
 "Nach einem Schleichangriff wird eine weitere Sneak-Probe geworfen, um zu entscheiden, ob der Charakter entdeckt wurde oder nicht. Bei einem Schleichangriff mit einer Nahkampfwaffe bekommt man für die Probe einen -5 Modifyer auf das Attribut Agility, mit dem Schleichen geworfen wird. Bei einem Schleichangriff mit einer Fernkampfwaffe liegt dieser Modifyer nur bei -2, beziehungsweise bei -1 mit der Armbrust. Dieser Modifyer bleibt bestehen solange der Schleichvorgang andauert, und bei jedem weiteren Schleichangriff, der im Rahmen dieser Aktion durchgeführt wird, kommt ein weiterer Modifyer dazu, diese Modifyer verfallen bei Entdeckung oder Flucht sofort."
 
@@ -259,7 +257,7 @@ Zusätzlich gibt es zwei Holster, in die nur bestimmte Objekte dürfen:
 
 Ein jeder Holster erlaubt einem, Waffen mit einer Single Action zu ziehen bzw. zu tauschen. [Wurfwaffen](#Wurfwaffen) haben den Vorteil, dass sie direkt mit einer single Action aus dem Köcher oder dem Zusatzholster geworfen werden können.
 
-#### Köcher {.unnumbered #Koecher}
+#### Köcher {#Koecher .unnumbered}
 
 In einem Köcher kann entweder Spezialmunition oder Wurfwaffen mitgeführt werden. Dies hat den Vorteil, dass die Spezialmunition direkt in einem Ranged-angriff verwendet werden kann (dieser kostet wie ein normaler Ranged-angriff die Main Action), während Wurfwaffen im Köcher für die Side Action geworfen werden können.
 
@@ -268,7 +266,6 @@ Diese Regel trifft allerdings nur für Charaktere zu, die eine [freie Hand](#Fre
 #### Tranktaschen {.unnumbered}
 
 Mit einer Tranktasche kann man Tränke und Bomben mit einer Single-Action verwenden, solange sie in der Tranktasche sind. Ein Charakter kann nur eine Tranktasche mitführen. Mehr über Tranktaschen kann man [hier lesen](#TranktascheItems). Um eine Tranktasche zu verwenden braucht man keine [freie Hand](#FreieHand)
-
 
 ### Kampf vom Reittier und das Reiten {#KampfVomReittier}
 
@@ -313,7 +310,7 @@ Stats und Arten der Artillerie:
 </small>
 
 | Artillerie | Minimale Besatzung | Maximale Besatzung | Negiert Deckung | Größe  |                                     Zusatz                                     |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:------------------------:|
+|:---------:|:---------:|:---------:|:---------:|:---------:|:---------------:|
 |  Skorpion  |         1          |         2          |       --        | Klein  | Aufbau im Kampf: 3 Runden wenn nur 1 Mann Besatzung: Nachladen als Main Action |
 |  Balliste  |         2          |         3          |     Tier 1      | Mittel |            Nachladen 1 Runde minimum, 2 Runden, wenn Besatzung \<2             |
 | Handkanone |         1          |         1          |     Tier 1      | Klein  |                               Nachladen 1 Runde                                |
@@ -417,18 +414,18 @@ Andere Statuseffekte mit
 Der reisenden Spielergruppe in der Downtime stehen meist zwei Entscheidungsmöglichkeiten für ihre Reise offen. Zum einen die Landroute, die durch kleine Dörfer, die Natur und manchmal in eine kleine Stadt führt und die Stadtroute, die entlang Hauptstraßen, durch ummauerte Städte mit Märkten und Großstädte führt. Beide Optionen haben Vor- und Nachteile, also sollte sich die Gruppe überlegen welche Option sie vorzieht.
 
 |                                             |                             Landroute                             |                                            Stadtroute                                             |
-|:---------------:|:--------------------:|:--------------------------------:|
+|:----------------:|:--------------------:|:-------------------------------:|
 |         Versorgung / Unterbringung          |       Camping, gegessen wird was gejagt und gesammelt wird        |         Neben Zöllen fallen auch kosten für Herbergen und Essen an in Höhe von 350 Reiks          |
 |                   Händler                   | eher Pflanzensammler und kleine Händler mit wenig Spezialisierung | verschiedene Händler mit großen Inventaren und hoher Spezialisierung, aber wenige Pflanzensammler |
 |          Voreinstellung in der App          |                       Dorf oder Kleinstadt                        |             Kleinstadt oder Stadt - sogar Großstadt, wenn es in die Geschichte passt              |
 |              Jobmöglichkeiten               |                          abhängig vom DM                          |                                        vollständig möglich                                        |
 | Gefahren, wenn Downtimeaktionen schiefgehen |                     Banditen und Wegelagerer                      |                                          die Stadtwache                                           |
 
-Beim Reisen gibt es auch eine Chance von einem Drittel, dass die Spieler einen bestimmten Händler finden, bei dem besondere Gegenstände gekauft oder hergestellt werden können. Mögliche Händler hierbei sind: 
+Beim Reisen gibt es auch eine Chance von einem Drittel, dass die Spieler einen bestimmten Händler finden, bei dem besondere Gegenstände gekauft oder hergestellt werden können. Mögliche Händler hierbei sind:
 
-* Zwergenenklaven bei denen man Konstrukte kaufen kann
-* freundliche Waldelfenenstämme bei denen man Tiere kaufen kann
-* Meisterschmiede bei dem Waffen und Rüstungen hergestellt werden können
+-   Zwergenenklaven bei denen man Konstrukte kaufen kann
+-   freundliche Waldelfenenstämme bei denen man Tiere kaufen kann
+-   Meisterschmiede bei dem Waffen und Rüstungen hergestellt werden können
 
 Mit einem passenden [Wissens-Skill](#Wissensfähigkeiten) können Spieler gezielt nach bestimmten Händlern suchen.
 
@@ -554,7 +551,7 @@ Jede spezifizierte Downtime wird ein D20 geworfen. Ist der erreichte Wert über 
 Wenn man genug addierte Punkte hat kann man seinen Wissensskill nach diesem kummulativen Schlüssel aufwerten:
 
 | Niveau/Stufe der Sprache oder des Wissens: | Kosten Punkte: |          Wissensniveau           |                Sprachniveau                |
-|:------------------:|:--------------:|:--------------:|:------------------:|
+|:-----------------:|:---------------:|:---------------:|:-----------------:|
 |                  Stufe 0                   |       0        |      Kein Wissen im Bereich      |           Keine Sprachfähigkeit            |
 |                  Stufe 1                   |       5        |           Grundwissen            |      sehr einfache Gespräche möglich       |
 |                  Stufe 2                   |       10       | Belesen & Erfahren im Fachgebiet | Verständigung umständlich aber vollständig |
@@ -571,7 +568,7 @@ Sämtliche Ausrüstung, Tränke, Waffen, Instrumente, etc. kommen in Orbis Astea
 Welche Materialien gehören zu welchen Tiers?
 
 | Tier 1 | Tier 2 |      Tier 3      |          Tier 4          |       Tier 5       |
-|:------------:|:------------:|:------------:|:-----------------:|:------------:|
+|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 | Eisen  | Stahl  | Gehärteter Stahl |     Zwergenmaterial      | Vorreiter-Material |
 | Buche  | Lärche |      Esche       | Silva-Nacia-Spinnenseide |                    |
 | Stoff  | Leder  |  Kettenbeschlag  |                          |                    |
@@ -624,16 +621,16 @@ Epinephrinika sind besondere Tränke. sie wecken einen Ohnmächtigen sofort aus 
 
 Die Anzahl an Alchemiechecks pro Downtime wird durch die Effektivität des Brauers bestimmt, diese erhöht sich mit seinen Werkzeugen, je mehr verschiedene Hilfsutensielien desto mehr Checks sind in der gleichen Zeit möglich. Manche Utensilien können sowohl die Anzahl für Handwerkschecks sowie Alchemie Checks erhöhen.
 
-| Werkzeug          | Checkzahl Bonus | Gewicht | Für Alechmie und Handwerk | Preis | Anmerkung                                                                                     |
-|---------|---------|---------|---------|---------|----------------------------|
-| Retorte           | 1               | 1       |                           |       |                                                                                               |
-| Mörser und Stößl  | 2               | 2       |                           |       |                                                                                               |
-| Destillierkolben  | 3               | 10      |                           |       |                                                                                               |
-| Messer            | 1               | 0.5     | X                         |       |                                                                                               |
-| Feuerkatalysator  | 1               | 1       | X                         |       |                                                                                               |
-| Drachenatem       | 3               | 3       | X                         |       | Ersetzt Feuerkatalysator                                                                      |
-| Antike Mörser     | 4               | 2       |                           | --    | Ersetzt Mörser; Verwertbar zu T4 Material                                                     |
-| Mörser der Götter | 4               | 2       |                           | --    | Ersetzt Mörser steigert für Alchemiechecks Intelligenz, jeder Check geht zu lasten der Sanity |
+| Werkzeug          | Checkzahl Bonus | Gewicht | Für Alechmie und Handwerk | Preis | Anmerkung                                                                                            |
+|-----------|-----------|-----------|-----------|-----------|-------------------|
+| Retorte           | 1               | 1       |                           |       |                                                                                                      |
+| Mörser und Stößl  | 2               | 2       |                           |       |                                                                                                      |
+| Destillierkolben  | 3               | 10      |                           |       |                                                                                                      |
+| Messer            | 1               | 0.5     | X                         |       |                                                                                                      |
+| Feuerkatalysator  | 1               | 1       | X                         |       |                                                                                                      |
+| Drachenatem       | 3               | 3       | X                         |       | Ersetzt Feuerkatalysator                                                                             |
+| Antike Mörser     | 4               | 2       |                           | --    | Ersetzt Mörser; Verwertbar zu T4 Material                                                            |
+| Mörser der Götter | 4               | 2       |                           | --    | Ersetzt Mörser steigert für Alchemiechecks Intelligenz, jeder Check geht zu lasten der Geistesstärke |
 
 : Werkzeuge der Alchemie
 
@@ -705,16 +702,16 @@ Neben der eigenen Tätigkeit ist es möglich für Spieler die Handwerkschecks an
 
 Die Anzahl an Handwerkschecks pro Downtime wird durch die Effektivität des Handwerkers bestimmt, diese erhöht sich mit seinen Werkzeugen, je mehr verschiedene Hilfsutensielien desto mehr Checks sind in der gleichen Zeit möglich. Manche Utensilien können sowohl die Anzahl für Handwerkschecks sowie Alchemie Checks erhöhen.
 
-| Werkzeug              | Checkzahl Bonus | Gewicht | Für Alechmie und Handwerk | Preis | Anmerkung                                                                                       |
-|---------|---------|---------|---------|---------|---------------------------|
-| Zange                 | 1               | 1       |                           |       |                                                                                                 |
-| Hammer                | 2               | 2       |                           |       |                                                                                                 |
-| Amboss                | 3               | 10      |                           |       |                                                                                                 |
-| Messer                | 1               | 0.5     | X                         |       |                                                                                                 |
-| Feuerkatalysator      | 1               | 1       | X                         |       |                                                                                                 |
-| Drachenatem           | 3               | 3       | X                         |       | Ersetzt Feuerkatalysator                                                                        |
-| Antiker Zwergenhammer | 4               | 2       |                           | --    | Ersetzt Hammer; Verwertbar zu T4 Material                                                       |
-| Hammer der Götter     | 4               | 2       |                           | --    | Ersetzt Hammer; steigert für Handwerkschecks Intelligenz, jeder Check geht zu lasten der Sanity |
+| Werkzeug              | Checkzahl Bonus | Gewicht | Für Alechmie und Handwerk | Preis | Anmerkung                                                                                              |
+|-----------|-----------|-----------|-----------|-----------|-------------------|
+| Zange                 | 1               | 1       |                           |       |                                                                                                        |
+| Hammer                | 2               | 2       |                           |       |                                                                                                        |
+| Amboss                | 3               | 10      |                           |       |                                                                                                        |
+| Messer                | 1               | 0.5     | X                         |       |                                                                                                        |
+| Feuerkatalysator      | 1               | 1       | X                         |       |                                                                                                        |
+| Drachenatem           | 3               | 3       | X                         |       | Ersetzt Feuerkatalysator                                                                               |
+| Antiker Zwergenhammer | 4               | 2       |                           | --    | Ersetzt Hammer; Verwertbar zu T4 Material                                                              |
+| Hammer der Götter     | 4               | 2       |                           | --    | Ersetzt Hammer; steigert für Handwerkschecks Intelligenz, jeder Check geht zu lasten der Geistesstärke |
 
 : Werkzeuge des Handwerks
 
