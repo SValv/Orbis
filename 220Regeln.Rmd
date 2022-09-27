@@ -397,7 +397,7 @@ Als Gegenmaßnahme gegen Gift helfen leider nur andere Tränke - beispielsweise 
 
 #### Bluten {.unnumbered}
 
-Beim Bluten verliert das Opfer für gewöhnlich jede Runde einen Prozentsatz seiner maximalen Gesundheit - üblicherweise 6% pro Stack - womit das Bluten sehr Effektiv gegen starke Einzelziele ist. Standartmäßig blutet man für 3 Runden und kann als Gegenmaßnahme gegen das Bluten mithilfe eines Survival-Checks die Wunden verbinden.
+Beim Bluten verliert das Opfer für gewöhnlich jede Runde einen Prozentsatz seiner maximalen Gesundheit - üblicherweise 6% pro Stack - womit das Bluten sehr Effektiv gegen starke Einzelziele ist. Standartmäßig blutet man für 3 Runden und kann als Gegenmaßnahme gegen das Bluten mithilfe eines Überlebenskunst-Checks die Wunden verbinden. Bei diesem Check muss ohne Verband ein Threshold von 4 und ohne Verband einer von 2 erreicht werden, um eine Blutung zu stoppen.
 
 #### Brennen {.unnumbered}
 

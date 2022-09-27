@@ -474,7 +474,7 @@ sehenswürdigkeiten-13
 BermaTal
 stämme
 die-fleischgabe
-ortschaften-der-region-13
+die-stämme-der-region
 ulugda
 rola-akthir
 vogalta
@@ -487,9 +487,11 @@ klimatische-bedingungen-14
 die-flora-und-fauna-13
 monster-in-der-region-14
 gerüchte-der-region-12
+der-hass-auf-die-zivilisation
+vrak-der-reiche
 sehenswürdigkeiten-14
 appothis
-ortschaften-der-region-14
+ortschaften-der-region-13
 keshep
 quissa
 napnopet
@@ -517,7 +519,7 @@ die-sandschildkröten
 ol-talib
 die-sumpfzähne
 eid-rah-kari
-ortschaften-der-region-15
+ortschaften-der-region-14
 infrastruktur-15
 die-geschichte-der-region-15
 wirtschaftliche-lage-18
@@ -531,7 +533,7 @@ gerüchte-der-region-14
 sehenswürdigkeiten-15
 EisenroteWueste
 wurmfall
-ortschaften-der-region-16
+ortschaften-der-region-15
 infrastruktur-16
 die-geschichte-der-region-16
 wirtschaftliche-lage-19
@@ -545,7 +547,7 @@ monster-in-der-region-17
 gerüchte-der-region-15
 sehenswürdigkeiten-16
 die-graue-ödnis
-ortschaften-der-region-17
+ortschaften-der-region-16
 infrastruktur-17
 die-geschichte-der-region-17
 wirtschaftliche-lage-20
@@ -558,7 +560,7 @@ monster-in-der-region-18
 gerüchte-der-region-16
 sehenswürdigkeiten-17
 die-grenze-der-welt
-ortschaften-der-region-18
+ortschaften-der-region-17
 infrastruktur-18
 die-geschichte-der-region-18
 wirtschaftliche-lage-21
@@ -866,11 +868,11 @@ transport-1
 titan-klasse-konstrukt-1
 bau-1
 verbreitung-von-konstrukten
-im-kampf-befehle
+konstrukte-1
+kampf-1
 ladungen
 gliedmaßen-schwachpunkt
-erstellung-durch-spieler
-aufbau-preiskatalog
+aufbau-herstellung
 kern
 skills
 preis-des-kerns

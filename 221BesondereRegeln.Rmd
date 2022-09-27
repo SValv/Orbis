@@ -381,9 +381,9 @@ Die Inspiration für diese Wunderwerke fanden die Zwerge in den Überbleibseln v
 
 Aus vielerlei Gründen sind Konstrukte eher selten Anzutreffen, dann jedoch meist in der Begleitung von Zwergen, Rah Kari oder einigen gewieften Geschäftsmännern und Handwerkern anzutreffen. In seltenen Fällen trifft man aber auch auf allein herumsträunende Konstrukte, sogenannte Wanderer diese durchstreifen das Land oft schon seit Jahrhunderten mit dem einzigen Ziel den letzten Befehl ihrer jeweiligen Meister zu folgen, welche diese sind ist jedoch unbekannt. Besonders gehäuft trifft man Wanderer in der unterirdischen Stadt Wandia und in vergessenen Zwergenstädten an.
 
-(Rules)
+## Konstrukte 
 
-### Im Kampf / Befehle
+### Kampf
 
 Der Modus Operandi: Ein Konstrukt führt den aktuellen Befehl solange aus bis es einen anderen erhält. Durch Übermittlungszeit ist es nicht möglich reaktionär zu agieren (als Beispiel schütze mich vor diesem angriff) anders sieht es aus wenn der Befehl vorher schon geäußert wurde
 
@@ -399,21 +399,21 @@ Jede aktive Anwendung verbraucht Ladungen der Batterie, je nach Art der Anwendun
 
 Konstrukt Teile: Jedes Konstrukt bestehlt aus 6 angreifbaren Teilen seinen 4 Gliedmaßen einer Kernabdeckung und dem Kern selbst. Der Kern für sich ist nahezu ungepanzert, kann jedoch erst angegriffen werden *nachdem* die Kernabdeckung zerstört wurde. Der Kern ersetzt beim gezieltenangriff den Kopf und die Kernabdeckung den Torso.
 
-### Erstellung durch Spieler
+### Aufbau / Herstellung
 
-Zum besseren und einfachen Verständnis der Erstellung eines Konstruktprofil ist ein Blick in die Excel empfohlen. Da mit nur wenigen Eingaben das Konstrukt Session ready ist. Zu beachten ist das die Linke seit des Profil nicht bearbeitet werden sollte da sich diese Werte selbst vervollständigen.
-
-### Aufbau / Preiskatalog
+Ein Konstrukt ist im Aufbau einem PC nicht unähnlich unterscheidet sich jedoch in der Quelle der Attributs und Skillpunkte, neben einigen weiteren Zusätzen.
 
 Ein Konstrukt besteht aus:
 
--   Konstrukt Kern gibt die Maximalen Stats die ein Konstrukt erreichen kann vor
+-   Konstrukt Kern das Herz und Hirn des Konstrukts bestimmt Leben und Skillpunkte.
 
--   Akku gibt die Ladungsmenge an die ein Konstrukt speichern kann
+-   Akku gibt die Ladungsmenge also die Anzahl an möglichen Aktionen des Konstrukts vor
 
--   Corpus gibt die Verfügbaren Attribute.
+-   Corpus gibt die Verfügbaren Attribute und Rüstung vor.
 
 Alle müssen für ein funktionierendes Konstrukt vorhanden sein, können jedoch auch beliebig zwischen ihnen getauscht werden.
+
+Zum besseren und einfachen Verständnis der Erstellung eines Konstrukts empfiehlt sich ein Blick in die Excel Datei. Da mit nur wenigen Eingaben das Konstrukt Spiel bereit ist. Zu beachten ist das die Linke seit des Profil nicht bearbeitet werden sollte da sich diese Werte selbst vervollständigen.
 
 #### Kern
 
