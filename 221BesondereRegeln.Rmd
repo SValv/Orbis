@@ -381,25 +381,90 @@ Die Inspiration für diese Wunderwerke fanden die Zwerge in den Überbleibseln v
 
 Aus vielerlei Gründen sind Konstrukte eher selten Anzutreffen, dann jedoch meist in der Begleitung von Zwergen, Rah Kari oder einigen gewieften Geschäftsmännern und Handwerkern anzutreffen. In seltenen Fällen trifft man aber auch auf allein herumsträunende Konstrukte, sogenannte Wanderer diese durchstreifen das Land oft schon seit Jahrhunderten mit dem einzigen Ziel den letzten Befehl ihrer jeweiligen Meister zu folgen, welche diese sind ist jedoch unbekannt. Besonders gehäuft trifft man Wanderer in der unterirdischen Stadt Wandia und in vergessenen Zwergenstädten an.
 
-## Konstrukte 
+## Konstrukte Regeln {#konstrukte}
 
 ### Kampf
 
-Der Modus Operandi: Ein Konstrukt führt den aktuellen Befehl solange aus bis es einen anderen erhält. Durch Übermittlungszeit ist es nicht möglich reaktionär zu agieren (als Beispiel schütze mich vor diesem angriff) anders sieht es aus wenn der Befehl vorher schon geäußert wurde
+Ein Konstrukt folgt den Befehlen seines Meisters im Kampf, sollte dieser nicht zur Verfügung stehen folgt es entweder dem letzten geäußerten Befehl oder einer einfachen Standartroutine. Befehle können entweder Verbal oder sogar Gedanklich übermittelt. Ist also nicht zu komplexen eigenständigem Denken fähig.
 
-Die erste Möglichkeit einen Befehl zu äußern liegt vor sobald der Spieler Charakter initiative hat. Die Aktion des Konstruktes erfolgt zeitlich parallel mit der des Spielers außer der Befehl tritt erst zeit versetzt in kraft. Dem Konstrukt stehen wie jedem Char zwei Aktionen zur Verfügung. Nach der ersten Runde folgt das Konstrukt der normalen Initativtabelle.
+Ein Konstrukt hat wie PCs zwei Aktionen pro Runde vorrausgesetzt genügend Ladungen sind verfügbar, es besteht die Chance auf eine dritte Aktion pro Runde (siehe Vehicel Check).
 
 Beispiel Befehle: Im Grunde alle Aktionen die eine Ladung erfordern. Greif diesen Gegner an beschütze mich / diesen Verbündeten, blockiere diesen Gegner, ansitzen (zielen) auf diese Deckung etc.
 
-#### Ladungen
-
-Jede aktive Anwendung verbraucht Ladungen der Batterie, je nach Art der Anwendung können auch mehrere Ladungen für eine Anwendung verbraucht werden.
-
 #### Gliedmaßen / Schwachpunkt
 
-Konstrukt Teile: Jedes Konstrukt bestehlt aus 6 angreifbaren Teilen seinen 4 Gliedmaßen einer Kernabdeckung und dem Kern selbst. Der Kern für sich ist nahezu ungepanzert, kann jedoch erst angegriffen werden *nachdem* die Kernabdeckung zerstört wurde. Der Kern ersetzt beim gezieltenangriff den Kopf und die Kernabdeckung den Torso.
+Jedes Konstrukt bestehlt aus 6 angreifbaren Teilen seinen 4 Gliedmaßen einer Kernabdeckung und dem Kern selbst. Der Kern für sich ist nahezu ungepanzert, kann jedoch erst angegriffen werden *nachdem* die Kernabdeckung zerstört wurde. Der Kern ersetzt beim gezieltenangriff den Kopf und die Kernabdeckung den Torso.
 
-### Aufbau / Herstellung
+#### Ladungen
+
+Jede aktive Aktion verbraucht Ladungen der Batterie, je nach Art der Anwendung können auch mehrere Ladungen für eine Anwendung verbraucht werden. Normale Handlungen wie gehen oder Ausschau halten sind Gratis.
+
+#### Anwendungen für Ladungen
+
+*1 Ladung :*
+
+-   Angriff
+
+<!-- -->
+
+-   Sprinten
+
+-   Blocken
+
+-   Ausweichen
+
+-   Schützen (für jemanden blocken)
+
+-   Rammen (Stun)
+
+-   umwerfen (Grappling)
+
+-   Verbaute Attilierienutzung durch Person
+
+-   Klettern
+
+-   Seilwerfer
+
+-   Rauchwerfer
+
+-   Bolawerfer
+
+-   Alle weiteren Funktionen die nicht expliziet mehrere Ladungen erfordern
+
+*2 Ladungen*
+
+-   Besondere Waffentypen (Flammenwerfer)
+
+-   Schwerer Angriff mit jeder Nahkampfwaffe erlaubt
+
+### Vehicle Skill {#Vehicleskills}
+
+Dem Besitzer des Konstrukts ist es möglich kurzzeitig die Kontrolle über ein Konstukt auch aus der Entfernung zu übernehmen, dies äußert sich in einer zusätzlichen Aktion für das Konstrukt. Diese Aktion hängt von einem Vehicel Check ab dessen schwierigkeit auf dem Kern und der Größe des Konstrukts basiert, je stärker das Konstrukt desto schwieriger die Kontrolle. Bei Erfolg wird die Main Action des Characters aufgebraucht, bei Misserfolg die Singleaction da weniger Zeit verbraucht wird.
+
+Die Schwierigkeit des Checks wird im Konstruktprofil automatisch berechnet. Die Schwierigkeit kann durch einen Pilotensitz im Konstrukt halbiert werden.
+
+### Batterie in Session Aufladen
+
+Zum aufladen des Akkus ohne Pausen. Hierfür wird der Essenzsammler verwendet, Eine Ladung entspricht 10 Essenzen, jedoch ist es schwer abzuschätzen wann man die Sammler abziehen muss weshalb es öfter zu ungenauen Abzügen kommt,was im schlimmsten Fall zum Verlust aller gesammelten Seelen im Sammler führen kann. Aufgrund des hohen Preises dieser Anwedung wird diese nur im absoluten Notfall empfohlen.
+
+### Reperatur
+
+Natürlich kommt es vor das Konstrukte im Kampf demoliert werden also die Leben des Konstrukts auf 0 fallen, in diesem Fall muss es in der Downtime repariert werden.
+
+Je nach größe des Konstrukts müssen zwischen eine bis drei downtime Handwerkaktionen aufgewendet werden.
+
+Der Schwierigkeitsgrad des Checks orientiert sich dabei an dem Tier des Corpus und den entsprechenden Reperatur werten des Materials
+
+Jedoch benötigen diese Reperaturen *keine* Materialien.
+
+| Reparieren | Threshold |
+|:----------:|:---------:|
+|  Stufe 1   |    1,5    |
+|  Stufe 2   |    2,3    |
+|  Stufe 3   |     3     |
+|  Stufe 4   |     4     |
+
+### Aufbau und Herstellung
 
 Ein Konstrukt ist im Aufbau einem PC nicht unähnlich unterscheidet sich jedoch in der Quelle der Attributs und Skillpunkte, neben einigen weiteren Zusätzen.
 
@@ -415,19 +480,7 @@ Alle müssen für ein funktionierendes Konstrukt vorhanden sein, können jedoch 
 
 Zum besseren und einfachen Verständnis der Erstellung eines Konstrukts empfiehlt sich ein Blick in die Excel Datei. Da mit nur wenigen Eingaben das Konstrukt Spiel bereit ist. Zu beachten ist das die Linke seit des Profil nicht bearbeitet werden sollte da sich diese Werte selbst vervollständigen.
 
-#### Kern
-
-Der Konstruktkern stellt sowohl das Herz als auch das Hirn eines jeden Konstruktsdar Das Level des Kern wird durch das Anwenden von Essenzen in der nebenbei Downtime erhöht Dieses Level beinflusst viele Bereiche des Konstrukts:
-
--   Die maximalen Attribute die effektiv eingesetzt werden können, sollten mehr Punkte in ein Attribut geflossen sein als die Stufe des Kerns so werden nur die Attributspunkte bis zur Kernstufe angewendet.
-
--   Neben der Begrenzung durch die Maximalattribute, leveln auch zwei Attribute direkt mit der Kernstufe nämlich Intelligenz im Faktor 1 zu 1 und Instinkt im Faktor 1 zu 0,75.
-
--   Die Maximalen Leben des Konstrukts entsprechen der 15-fachen Kernstufe und verteilen sich unter den Gliedmaßen folgendermaßen: 50% Kern(Kopf), 50% Kernabschiermung (Torso) Alle anderen teile je 30%
-
--   Das Skillgrundlevel, mit jeder Kernstufe erhöht sich auch das Grundlevel eines jeden Skills. Sollte dieses höher sein als das geskillte Level des Skills wird für die Berechnung stadessen das Grundlevel herangezogen.
-
--   Skilllevel, durch die Verwendung von Essenzen (unabhängig von der Stufe des Kerns) können einzelne Skills aufgelevelt werden.
+#### 
 
 ##### Skills {#skills}
 
@@ -452,24 +505,36 @@ Folgende Skills können erhöht werden:
 
 -   Acrobatics
 
-##### Preis des Kerns
+#### Kern
 
-*Grundpreis des Kerns: 10.000*
+Der Konstruktkern stellt sowohl das Herz als auch das Hirn eines jeden Konstruktsdar das Level des Kerns wird durch das Anwenden von Essenzen in der nebenbei Downtime erhöht dieses Level beinflusst viele Bereiche des Konstrukts:
 
-weitere 500 Reiks Pro Essenz Investiert
+-   Die maximalen Attribute die effektiv eingesetzt werden können, sollten mehr Punkte in ein Attribut geflossen sein als die Stufe des Kerns so werden nur die Attributspunkte bis zur Kernstufe angewendet.
 
-| Kernstufe | Preis je Level | Gesamtpreis (Essenzen) |
-|-----------|----------------|------------------------|
-| 1-10      | 1              | 10                     |
-| 11-12     | 2              | 14                     |
-| 13-14     | 3              | 20                     |
-| 15-16     | 4              | 28                     |
-| 17-18     | 5              | 38                     |
-| 19-20     | 6              | 50                     |
-| 21-30     | 15             | 200                    |
-| 31-40     | 30             | 500                    |
+-   Neben der Begrenzung durch die Maximalattribute, leveln auch zwei Attribute direkt mit der Kernstufe nämlich Intelligenz im Faktor 1 zu 1 und Instinkt im Faktor 1 zu 0,75.
 
-Skill Level erhöhen:
+-   Die Maximalen Leben des Konstrukts entsprechen der 15-fachen Kernstufe und verteilen sich unter den Gliedmaßen folgendermaßen: 50% Kern(Kopf), 50% Kernabschiermung (Torso) Alle anderen teile je 30%
+
+-   Das Skillgrundlevel, mit jeder Kernstufe erhöht sich auch das Grundlevel eines jeden Skills. Sollte dieses höher sein als das geskillte Level des Skills wird für die Berechnung sttatdessen das Grundlevel herangezogen.
+
+-   Skilllevel, durch die Verwendung von Essenzen (unabhängig von der Stufe des Kerns) können einzelne Skills aufgelevelt werden.
+
+*Grundpreis des Kerns: 5.000 Reiks*
+
+*Der Kern Startet auf Stufe 10*
+
+| Kernstufe | Preis je Level (Essenzen) | Gesamtpreis (Essenzen) |
+|-----------|---------------------------|------------------------|
+| 11-15     | 1                         | 5                      |
+| 16-20     | 2                         | 15                     |
+| 21-25     | 3                         | 30                     |
+| 26-30     | 4                         | 50                     |
+| 31-35     | 5                         | 75                     |
+| 36-40     | 6                         | 105                    |
+| 41-45     | 7                         | 140                    |
+| 46-50     | 8                         | 180                    |
+
+Skill Level erhöhen nach Herstellung:
 
 | Skilllevel | Preis je Level | Gesamtpreis (Essenzen) |
 |------------|----------------|------------------------|
@@ -478,6 +543,10 @@ Skill Level erhöhen:
 | 41-60      | 3              | 120                    |
 | 61-80      | 4              | 200                    |
 | 81-100     | 5              | 300                    |
+
+*Essenzen können beim Kauf des Kerns direkt erworben werden für einen Preis von 500 Reiks pro Essenz.*
+
+Jeder Kern kommt mit passenden Resonazkreis, entweder als Schmuckstück der Wahl oder als Tattoo für einen Aufpreis von 3.000 Reiks.
 
 #### Corpus
 
@@ -491,47 +560,49 @@ Der Corpus bestimmt folgende Eigenschaften eines Konstrukts.
 
 -   Grundtragekapazität
 
--   Skill Maximum: die Eigenschaft Utility Konstrukt reduziert den Preis um den Faktor 0,25 jedoch limitiert das Skilllevel auf 50
+-   Skill Maximum: die Eigenschaft Utility reduziert den Preis um den Faktor 0,25 jedoch wird das Skilllevel auf 50 limitiert
 
 +------------+------------+------------+---------------+---------------+
 |            | Armor      | Attribute  | Preis (Reiks) | Utility Preis |
 +============+============+============+===============+===============+
-| Tier 1\    | 100        | 10         | 10.000        | 5000          |
+| Tier 1\    | 100        | 10         | 10.000        | 7500          |
 | klein      |            |            |               |               |
 +------------+------------+------------+---------------+---------------+
-| Tier 2\    | 130        | 15         | 25.000        | 12.500        |
+| Tier 2\    | 130        | 15         | 30.000        | 22500         |
 | klein      |            |            |               |               |
 +------------+------------+------------+---------------+---------------+
-| Tier 3\    | 145        | 20         | 40.000        | 20.000        |
+| Tier 3\    | 145        | 20         | 60.000        | 45.000        |
 | klein      |            |            |               |               |
 +------------+------------+------------+---------------+---------------+
-| Tier 4\    | 160        | 25         | 60.000        | 30.000        |
+| Tier 4\    | 160        | 25         | 120.000       | 90.000        |
 | klein      |            |            |               |               |
 +------------+------------+------------+---------------+---------------+
 | Tier 1\    | 100        | 20         | 20.000        | 15.000        |
 | mittel     |            |            |               |               |
 +------------+------------+------------+---------------+---------------+
-| Tier 2\    | 130        | 30         | 50.000        | 37.500        |
+| Tier 2\    | 130        | 30         | 60.000        | 45.000        |
 | mittel     |            |            |               |               |
 +------------+------------+------------+---------------+---------------+
-| Tier 3\    | 145        | 40         | 80.000        | 60.000        |
+| Tier 3\    | 145        | 40         | 120.000       | 90.000        |
 | mittel     |            |            |               |               |
 +------------+------------+------------+---------------+---------------+
-| Tier 4\    | 160        | 50         | 120.000       | 90.000        |
+| Tier 4\    | 160        | 50         | 240.000       | 180.000       |
 | mittel     |            |            |               |               |
 +------------+------------+------------+---------------+---------------+
-| Tier 1\    | 130        | 30         | 40.000        | 30.000        |
+| Tier 1\    | 130        | 30         | 30.000        | 22.500        |
 | groß       |            |            |               |               |
 +------------+------------+------------+---------------+---------------+
-| Tier 2\    | 169        | 45         | 100.000       | 75.000        |
+| Tier 2\    | 169        | 45         | 90.000        | 67.500        |
 | groß       |            |            |               |               |
 +------------+------------+------------+---------------+---------------+
-| Tier 3\    | 189        | 60         | 160.000       | 120.000       |
+| Tier 3\    | 189        | 60         | 180.000       | 135.000       |
 | groß       |            |            |               |               |
 +------------+------------+------------+---------------+---------------+
-| Tier 4\    | 208        | 75         | 240.000       | 180.000       |
+| Tier 4\    | 208        | 75         | 360.000       | 270.000       |
 | groß       |            |            |               |               |
 +------------+------------+------------+---------------+---------------+
+
+Alternativ zum Kauf ist es möglich mit dem richtigen Handwerklichengeschick ein Konstrukt selbst zu bauen. Hierfür sind Konstruktteile, diese bestehen aus je zwei Material des passenden Materials, es wird 1 Konstruktteil pro größe benötigt.
 
 ##### Attribute
 
@@ -541,23 +612,27 @@ Jedes Attribut startet Standartmäßig auf 1 und kann durch den Corpus oder durc
 
 Der Preis einer Batterie erhöht sich mit der Anzahl der Ladungen und kann nach dem Kauf nicht weiter erhöht werden, jedoch können Batterien gebraucht verkauft werden, wenn ein Upgrade gewünscht ist.
 
-*Grundpreis: 5.000*
+Außerdem können während der Session Essenzen genutzt werden um die Batterie neu zu befüllen. (siehe Batterie in Session Aufladen)
+
+*Grundpreis: 1.000*
 
 +---------------+--------------------------+-------------------------------+
 | Ladungsanzahl | Preis pro Ladung (Reiks) | Gesamt (inklusive Grundpreis) |
 +===============+==========================+===============================+
-| 1-5           | 2.000                    | 15.000                        |
+| 1-5           | 500                      | 3500                          |
 +---------------+--------------------------+-------------------------------+
-| 6-10          | 3.000                    | 30.000                        |
+| 6-10          | 1.000                    | 8500                          |
 +---------------+--------------------------+-------------------------------+
-| 11-15         | 4.000                    | 50.000                        |
+| 11-15         | 1.500                    | 16.000                        |
 +---------------+--------------------------+-------------------------------+
-| 16-20         | 5.000                    | 75.000                        |
+| 16-20         | 2.000                    | 26.000                        |
 +---------------+--------------------------+-------------------------------+
-| 21-30         | 7.500                    | 150.000                       |
+| 21-30         | 5000                     | 150.000                       |
 +---------------+--------------------------+-------------------------------+
-| 31-50         | 10.000                   | 350.000                       |
+| 31-50         | 6000                     | 350.000                       |
 +---------------+--------------------------+-------------------------------+
+
+*Batterien können für 75% ihres Kaufpreises wieder gebraucht verkauft werden.*
 
 #### Erweiterungen: Addons / Waffen / Upgrades
 
@@ -578,11 +653,7 @@ Upgrades erhöhen die Attribute eines Konstrukts solange diese ausgerüstet sind
 
 ##### Konstrukt Waffen:
 
--Bohrer
-
--Schwert
-
--Fernwaffen
+Ein Konstrukt kann das vollständige Waffenarsenal von PCs verweden, und zusätzlich noch einige weitere besondere Waffen wie den Kampfbohrer und den Flammenwerfer.
 
 ##### Addons:
 
@@ -590,11 +661,11 @@ Upgrades erhöhen die Attribute eines Konstrukts solange diese ausgerüstet sind
 
 -   Panzermodus: 100% Block Chance; Tiers erhöhen den Schildblockwert; deaktiviert Angriffs funktion
 
--   Wachmodus = Standartmäßig vorhanden benötigt dennoch Platz, läuft über Perception
+-   Wachmodus = Standartmäßig vorhanden benötigt dennoch einen Erweiterungsslot, läuft über Perception
 
 -   Schützenplatz: Zur bedienung der Montierten Attelerie
 
--   Pilotensitz: ermöglicht den Vehicel Check mit halben Schwierigkeitsgrad
+-   Pilotensitz: ermöglicht den Vehicel Check mit halben Schwierigkeitsgrad, und das Reiten auf dem Konstrukt, kleine Rassen können bereits auf mittleren Konstrukten reiten, normale Rassen benötigen große Konstrukte
 
 -   Verbaute Attilerie (nur durch Schützenplatz nutzbar) (Tier abhängig wie groß montierbare Waffe) (einklappbar)
 
@@ -606,6 +677,8 @@ Upgrades erhöhen die Attribute eines Konstrukts solange diese ausgerüstet sind
 
 -   Werfer: Seil oder Rauch
 
+-   Überladungsblendmodul: Funktioniert wie Licht des Allgotts, benötigt jedoch 5 Ladungen für Anwendungen und kann nur einmal pro Kampf eingesetzt werden
+
 +-------------+----------------+----------------+----------------+----------------+
 | Addons      | Stufe 1        | Stufe 2        | Stufe 3        | Stufe 4        |
 +=============+================+================+================+================+
@@ -616,54 +689,17 @@ Upgrades erhöhen die Attribute eines Konstrukts solange diese ausgerüstet sind
 |             |                |                |                |                |
 +-------------+----------------+----------------+----------------+----------------+
 
-#### Anwendungen für Ladungen
+### Beispiel Konstrukt Erstellung
 
-##### 1 Ladung :
+Als Beispiel wird ein Mittleres Konstrukt erstellt das als Frontkämpfer die Gruppe erweitern soll.
 
--   Sprinten Blocken / Ausweichen / Schützen (für jemanden blocken) Angriff Nah Angriff Fern Sicht gewähren (gedanken) Rammen / umwerfen
+Kern: Grundpreis 5000R+ 10 Essenzen für Kernstufe ... = Kernstufe 10
 
--   Verbaute Attilierienutzung durch Person
+Corpus: Mittel, Utility, T1 15.000R= 20 Attribute, 100 Armor
 
--   Klettern
+Batterie: 10 Ladungen 8500R
 
--   Seilwerfer
-
--   Rauchwerfer
-
--   Bolawerfer
-
-##### 2 Ladungen
-
--   Besondere Waffentypen (Flammenwerfer)
-
--   Schwerer Angriff mit jeder Nahkampfwaffe erlaubt
-
-### Wiederbelebung
-
-Natürlich kommt es vor das Konstrukte im Kampf zerstört werden, in diesem Fall muss es in Nebendowntime Aktivitäten repariert werden.
-
-Je nach größe des Konstrukts müssen zwischen eine bis drei Nebendowntime Aktivitäten aufgewendet werden.
-
-Der Schwierigkeitsgrad des Checks orientiert sich dabei an dem Tier des Corpus und den entsprechenden Reperatur Values des Materials
-
-Jedoch benötigen diese Reperaturen keine Materialien.
-
-| Reparieren | Threshold |
-|:----------:|:---------:|
-|  Stufe 1   |    1,5    |
-|  Stufe 2   |    2,3    |
-|  Stufe 3   |     3     |
-|  Stufe 4   |     4     |
-
-### Vehicle Skill {#Vehicleskills}
-
-Dem Besitzer des Konstrukts ist es möglich kurzzeitig die Kontrolle über ein Konstukt auch aus der Entfernung zu übernehmen, dies äußert sich in einer zusätzlichen Aktion für das Konstrukt. Diese Aktion hängt von einem Vehicel Check ab dessen schwierigkeit auf dem Kern und der Größe des Konstrukts basiert, je stärker das Konstrukt desto schwieriger die Kontrolle. Bei Erfolg wird die Main Action des Characters aufgebraucht, bei Misserfolg die Singleaction da weniger Zeit verbraucht wird.
-
-Die Schwierigkeit des Checks wird im Konstruktprofil automatisch berechnet. Die Schwierigkeit kann durch einen Pilotensitz im Konstrukt halbiert werden.
-
-### Batterie in Session Aufladen
-
-Zum aufladen des Akkus ohne Pausen. Hierfür wird der Essenzsammler verwendet, Eine Ladung entspricht 10 Essenzen, jedoch ist es schwer abzuschätzen wann man die Sammler abziehen muss weshalb es öfter zu ungenauen Abzügen kommt,was im schlimmsten Fall zum Verlust aller gesammelten Seelen im Sammler führen kann. Aufgrund des hohen Preises dieser Anwedung wird diese nur im absoluten Notfall empfohlen.
+28.500 + Schwert + Schild
 
 ## Tiere als Begleiter {#AnimalHandling}
 

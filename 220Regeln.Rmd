@@ -431,7 +431,7 @@ Mit einem passenden [Wissens-Skill](#Wissensfähigkeiten) können Spieler geziel
 
 ## Pause und Rast {#PauseRastSystem}
 
-Wenn ein Charakter in einem Kampf oder durch andere Aktivitäten entweder Gesundheit oder Ausdauer verliert, ist es möglich, diese Werte bis zu einem bestimmten Punkt mit Hilfe des Pausensystems zu regenerieren. Dieses System umfasst 3 verschiedene Pausen, die verfügbar sind, nämlich:
+Wenn ein Charakter in einem Kampf oder durch andere Aktivitäten entweder Gesundheit oder Ausdauer verliert, ist es möglich, diese Werte bis zu einem bestimmten Punkt zu regenerieren. Dieses System umfasst 3 verschiedene Pausen, die verfügbar sind, nämlich:
 
 |    Länge    |                           Dauer                           |
 |:-----------:|:---------------------------------------------------------:|
@@ -449,7 +449,7 @@ Wenn sich Spieler zwischen zwei Sitzungen befinden (Downtime), regenerieren sich
 
 Bei den werten handelt es sich um eine Prozentuale Erholung gemessen an den Maximalwerten des Spielers. Beispiel: Eine kurze schlechte Rast stellt 10% der maximale Fehlenden Ausdauer und Leben wieder her. Die Werte werden im Zweifel aufgerundet.
 
-Eine weitere Möglichkeit, den Wert einer Pause zu erhöhen, ist sich von einem fähigen Mitglied der Gruppe pflegen zu lassen - indem dieser Nahrung zubereitet und wunden versorgt. Hierzu hat der Spieler die Möglichkeit, einen Survival check durchzuführen. Es ist empfehlenswert, dass nur diejenigen, die tatsächlich in Überlebensexperten sind, dies versuchen, da ein schlechter Wert dazu führen kann, dass die Spieler während der Pause auch Gesundheit und Ausdauer verlieren - indem schlechtes essen serviert wird oder sich die Wunden durch falsche Versorgung infizieren. Der Survival check betrifft alle Spieler einer Gruppe und nicht nur eine einzelne Person.
+Eine weitere Möglichkeit, den Wert einer Pause zu erhöhen, ist sich von einem fähigen Mitglied der Gruppe pflegen zu lassen - indem dieser Nahrung zubereitet und wunden versorgt. Hierzu hat der Spieler die Möglichkeit, einen Überlebenskunst-check durchzuführen. Es ist empfehlenswert, dass nur diejenigen, die tatsächlich in Überlebensexperten sind, dies versuchen, da ein schlechter Wert dazu führen kann, dass die Spieler während der Pause auch Gesundheit und Ausdauer verlieren - indem schlechtes essen serviert wird oder sich die Wunden durch falsche Versorgung infizieren. Der Überlebenskunst-check kann auf beliebig viele Spieler angewandt werden.
 
 ## Downtime-Aktivitäten
 
