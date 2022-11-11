@@ -8,17 +8,17 @@ In Orbis Astea bietet eine Vielzahl von möglichen Geschichten, Charakteren und 
 
 Orbis Astea ist ein System, in der der Charakter, sowie das Verfolgen der Entwicklung ebenjenes Charakters in einem Excel Sheet festgehalten wird. Dieses ist auf dieser Website unter "Download" in einer leeren Version herunterladbar. Im Folgenden wird erklärt, wie dieses Character Sheet aufgebaut ist, welche Attribute und Fähigkeiten in dieser Welt wie verstanden werden und daraus folgend, welche Aktionen mit welcher Fähigkeit möglich und nicht möglich sind.
 
-Die Excel-Datei unterteilt sich in verschiedene Tabellenblätter, die in ihrer Funktionalität voneinander abhängig sind. Daher sind manche Bereiche schreibgeschützt.Aus diesem Grund können Verbesserungen der [Attribute](#Attribute) und [Fähigkeiten](#Fähigkeiten) nur im "CharacterSheet"-Tabellenblatt durchgeführt werden.
+Die Excel-Datei unterteilt sich in verschiedene Tabellenblätter, die in ihrer Funktionalität voneinander abhängig sind. Daher sind manche Bereiche schreibgeschützt.Aus diesem Grund können Verbesserungen der [Attribute](#Attribute) und [Fähigkeiten](#Fähigkeiten) nur im "Charakter"-Tabellenblatt durchgeführt werden.
 
 Das ganze Sheet arbeitet allgemein viel mit Referenzen, daher gut darauf aufpassen was man überschreibt, aber die Logik dahinter wird man schnell verstehen.
 
-### Das CharacterSheet {#CharacterSheet}
+### Das Charakter-Tabellenblatt {#CharacterSheet}
 
-Wird ein Charakter erstellt, so sind alle Änderungen der Attribute und Fähigkeiten im Tabellenblatt "CharacterSheet" vorzunehmen.
+Wird ein Charakter erstellt, so sind alle Änderungen der Attribute und Fähigkeiten im Tabellenblatt "Charakter" vorzunehmen.
 
-![Das Tabellenblatt "Character Sheet" zur Veranschaulichung der Fähigkeiten und Attribute](Pictures/Rules/ExcelSheet/CharacterSheet.jpg)
+![Das Tabellenblatt "Charakter" zur Veranschaulichung der Fähigkeiten und Attribute](Pictures/Rules/ExcelSheet/CharacterSheet.jpg)
 
-Das CharacterSheet ist so aufgebaut, dass in Spalte A und B die [Attribute](#Attribute) aufgeführt sind, die ein jeder Spieler in der Welt hat und weiterentwickeln kann. Ein jedes Attribut ist mit einer Farbe hinterlegt (B2:11), diese sind dafür da vereinfacht zu veranschaulichen, welche Attribute für das Ausführen einer [Fähigkeit](#Fähigkeiten) herangezogen werden. Somit ist beispielsweise leicht erkennbar, dass eine Person, die einen Nahkämpfer spielen möchte, unbedingt auf Stärke (Strength im CharacterSheet) leveln sollte.
+Das Charakter-Tabellenblatt ist so aufgebaut, dass in Spalte A und B die [Attribute](#Attribute) aufgeführt sind, die ein jeder Spieler in der Welt hat und weiterentwickeln kann. Ein jedes Attribut ist mit einer Farbe hinterlegt (B2:11), diese sind dafür da vereinfacht zu veranschaulichen, welche Attribute für das Ausführen einer [Fähigkeit](#Fähigkeiten) herangezogen werden. Somit ist beispielsweise leicht erkennbar, dass eine Person, die einen Nahkämpfer spielen möchte, unbedingt auf Stärke leveln sollte.
 
 Wird sich im Rahmen der [Charaktererstellung](#Charaktererstellung) für eine Rasse entschieden, so kann diese über das Dropdown-Menü im Feld B1 ausgewählt werden. Auf diese Weise werden die Startattribute der Rasse automatisch in die Attributsfelder geladen, sodass keine Übertragungsfehler passieren.
 
@@ -36,13 +36,15 @@ Das Tabellenblatt "Status" dient der Übersicht während einer Spielsession. Spa
 
 Verliert ein Spieler während eines Kampfes [Gesundheit](#Gesundheit) oder durch eine Aktion [Ausdauer](#Ausdauer), so können diese Veränderungen in den Feldern C16 und C17 eingetragen und somit verfolgt werden.
 
-![Das Tabellenblatt "Status" zur Veranschaulichung Anwendbarkeit](Pictures/Rules/ExcelSheet/Status.jpg) Um einen Überblick über die eigene, potenziell zur Verfügung stehende, Ausrüstung zu behalten, können die Waffen im Holster (Spalte A-D; Zeile 25-32) eingetragen werden. Die [Geistesstärke](#Geistesstärke) kann ebenfalls in K2 mitdokumentiert werden. Die Darstellung der Figur kann individuell nach belieben gestaltet werden, um dem Tabellenblatt eine persönliche Note zu geben. Die Felder K28 und K29 sind wichtig, um das [Reiten](#Reiten) zu ermöglichen. Ein Reittier muss in diesem Feld eingetragen werden, damit ein Spieler dieses Tier auch nutzen kann.
+![Das Tabellenblatt "Status" zur Veranschaulichung Anwendbarkeit](Pictures/Rules/ExcelSheet/Status.jpg)
+
+Um einen Überblick über die eigene, potenziell zur Verfügung stehende, Ausrüstung zu behalten, können die Waffen im Holster (Spalte A-D; Zeile 25-32) eingetragen werden. Die [Geistesstärke](#Geistesstärke) kann ebenfalls in K2 mitdokumentiert werden. Die Darstellung der Figur kann individuell nach belieben gestaltet werden, um dem Tabellenblatt eine persönliche Note zu geben. Die Felder K28 und K29 sind wichtig, um das [Reiten](#Reiten) zu ermöglichen. Ein Reittier muss in diesem Feld eingetragen werden, damit ein Spieler dieses Tier auch nutzen kann.
 
 Spalte Q ist ebenfalls aktuell zu halten. Q17 gibt dem Spieler einen Überblick über die konsumierten Tränke. Diese stellen im Zusammenhang mit der [Ohnmacht](#Ohnmacht) eine wichtige Rolle dar. Die [Tranktasche](#Tranktaschen) (Felder Q21-Q23, bei kleiner Tranktasche) gibt an, auf welche Tränke ein Spieler im Rahmen einer Neben-Aktion zugreifen kann. Ist diese leer, so muss ein Spieler seine Hauptaktionen dafür nutzen an einen Trank zu kommen. Im zweifelsfall retten die Tränke in der Tranktasche Leben.
 
 Feld Z2 steht für [Resistenzen](#Resistenzen) gegenüber Mitteln, die ein Charakter mitbringt. Darüber hinaus gelten die anderen Felder Z bis AB der Übersicht für den Spieler, wie viel [Gewicht](#Gewicht) er trägt, um seine [Ausdauerkosten](#Ausdauer) im Blick zu behalten und über welche zusätzlichen Ressourcen er verfügt.
 
-Wichtig ist, dass alle Attributs- und Fähigkeitspunkte ausschließlich im [CharacterSheet-Blatt](#CharachterSheet) verändert werden können.
+Wichtig ist, dass alle Attributs- und Fähigkeitspunkte ausschließlich im [Charakter-Tabellenblatt](#CharachterSheet) verändert werden können.
 
 ### Das Inventar
 
@@ -54,15 +56,15 @@ In diesem Tabellenblatt können im Bereich "Geldbeutel" alle Einnahmen und Ausga
 
 ### Das Veränderungslog
 
-Um den Prozess des Levelns etwas übersichtlicher zu gestalten, gibt es das Tabellenblatt "Prices+Changelog". Hier findet man die Kosten, die für eine Verbesserung zu zahlen sind. Ebenso gibt es die Möglichkeit mitzudokumentieren, in welchen Sessions es eine Levelsteigerung gab, welche Attributs- und Fähigkeitspunkte für welche Verbesserungen ausgegeben wurden und wie viele Punkte noch zur Verfügung stehen, falls nicht alle Punkte direkt wieder vergeben und inverstiert werden.
+Um den Prozess des Levelns etwas übersichtlicher zu gestalten, gibt es das Tabellenblatt "Log". Hier findet man die Kosten, die für eine Verbesserung zu zahlen sind. Ebenso gibt es die Möglichkeit mitzudokumentieren, in welchen Sessions es eine Levelsteigerung gab, welche Attributs- und Fähigkeitspunkte für welche Verbesserungen ausgegeben wurden und wie viele Punkte noch zur Verfügung stehen, falls nicht alle Punkte direkt wieder vergeben und inverstiert werden.
 
-![Das Tabellenblatt "Prices+Changelog" zur Veranschaulichung Anwendbarkeit](Pictures/Rules/ExcelSheet/Prices+Changelog.jpg)
+![Das Tabellenblatt "Log" zur Veranschaulichung Anwendbarkeit](Pictures/Rules/ExcelSheet/Log.jpg)
 
 Darüber hinaus kann nachgelesen werden, wie viele Fähigkeitspunkte einem Spieler pro Levelup zustehen, da diese im Zusammenhang mit dem [Intelligenzwert](#Intelligenz) stehen.
 
 ### Die Hintergrundgeschichte
 
-![Das Tabellenblatt "Status" zur Veranschaulichung Anwendbarkeit](Pictures/Rules/ExcelSheet/Backstory.jpg)
+![Das Tabellenblatt "Geschichte" zur Veranschaulichung Anwendbarkeit](Pictures/Rules/ExcelSheet/Backstory.jpg)
 
 ## Attribute {#Attribute}
 
@@ -484,7 +486,7 @@ Auch nach der Charaktererstellung kann man seine Wissensskills verbessern. Dies 
 
 Kontakte sind ein weiteres Stück der Welt - sozusagen das soziale Kapital des Spielers. Sie helfen an Aufträge, Informationen und andere Dinge zu kommen, für die Vitamin B nun mal nützlich ist oder sein könnte. Die Punkte, die man für Kontakte vergeben kann berechnen sich aus der Summe: $$(4 \cdot Charisma) + Instinct.$$
 
-Diese Punkte können dann auf die Beziehung (Einfluss im [CharacterSheet](#CharacterSheet)), die ein Kontakt gegenüber eines Charakter empfindet, und den Einfluss (Power im [CharacterSheet](#CharacterSheet)), also den sozialen Stand und die Macht eines Kontaktes, verteilt werden.
+Diese Punkte können dann auf die Beziehung (Einfluss im [Charakter-Tabellenblatt](#CharacterSheet)), die ein Kontakt gegenüber eines Charakter empfindet, und den Einfluss (Power im [Charakter-Tabellenblatt](#CharacterSheet)), also den sozialen Stand und die Macht eines Kontaktes, verteilt werden.
 
 Die Kosten beschreiben, wie viele Punkte ein Spieler ausgeben muss, um sich einen Kontakt eintragen zu können. Diese stellen die Summe der jeweiligen Stufen dar. Möchte man eine Liebesbeziehung zu einer Person aus dem Hochadel führen, so sind insgesamt 60 Punkte zu entrichten. 30 für die Stufe 7 Einfluss und nochmal 30 Punkte für die Stufe 7 Affection.
 

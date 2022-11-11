@@ -4,15 +4,15 @@ Hier startet der technischere Teil des Buches. Im Folgenden wird erklärt wie ge
 
 ## Checks und Proben
 
-In Orbis Aestea wird - wie in jedem anderen Pen and Paper Rpg - gewürfelt. Bei uns wird dies durch ein Programm übernommen, daher gibt es hier nichts selbst zu rechnen. Trotzdem ist es sehr relevant zu wissen wie welche Probe gewürfelt wird. Für jede Probe gibt es einen sogenannten [Skill](#Skills), der auf die Aktion passt - bspw. ["Bewaffnet"](#Bewaffnet) für das Zuschlagen mit einer Waffe oder ["Schleichen"](#Schleichen) für das Heranschleichen an eine Situation. Die passende Probe zur Aktion wird dann mit dem Skill und dem verbundenen Attribut geworfen - für das Beispiel Schleichen wäre dieses "Agility".
+In Orbis Astea wird - wie in jedem anderen Pen and Paper Rpg - gewürfelt. Bei uns wird dies durch ein Programm übernommen, daher gibt es hier nichts selbst zu rechnen. Trotzdem ist es sehr relevant zu wissen wie welche Probe gewürfelt wird. Für jede Probe gibt es einen sogenannten [Fähigkeiten](#Fähigkeiten), der auf die Aktion passt - bspw. ["Bewaffnet"](#Bewaffnet) für das Zuschlagen mit einer Waffe oder ["Schleichen"](#Schleichen) für das Heranschleichen an eine Situation. Die passende Probe zur Aktion wird dann mit der Fähigkeit und dem verbundenen Attribut geworfen - für das Beispiel Schleichen wäre dieses "Agilität".
 
-Attribute stellen hierbei immer körperliche Eigenschaften dar, z.B. hätte ein Spitzensportler einen Wert in seinem spezialisierten Attribut von 17-18, ein Attribut von 20 käme einem Halbgott gleich. Gleiches zählt auch bei den Skills, bei denen die "Besten" zwischen 75 und 85 liegen. Der Durchschnitt der Skills liegt bei 20 und der der Attribute bei 10.
+Attribute stellen hierbei immer körperliche Eigenschaften dar, z.B. hätte ein Spitzensportler einen Wert in seinem spezialisierten Attribut von 17-18, ein Attribut von 20 käme einem Halbgott gleich. Gleiches zählt auch bei den Fähigkeiten, bei denen die "Besten" zwischen 75 und 85 liegen. Der Durchschnitt der Fähigkeiten liegt bei 20 und der der Attribute bei 10.
 
-Hier eine schematische Darstellung über die Skills und die damit Verbundenen Attribute:
+Hier eine schematische Darstellung über die Fähigkeiten und die damit Verbundenen Attribute:
 
 ![Zum schnelleren sehen einfach auf die Farben achten](Pictures/Rules/AttrSkills.png){width="697"}
 
-Wie man sieht, passiert es manchmal, dass einem Skill mehrere Attribute zugeordnet sind. In diesem Fall nimmt man den Durchschnitt der Attribute und rundet auf die nächste ganze Zahl auf.
+Wie man sieht, passiert es manchmal, dass einer Fähigkeit mehrere Attribute zugeordnet sind. In diesem Fall nimmt man den Durchschnitt der Attribute und rundet auf die nächste ganze Zahl auf.
 
 ### Die einfache Probe
 
@@ -24,32 +24,32 @@ Welche Werte hierbei welcher Größenordnung entsprechen findet sich [hier](#Abs
 
 ### Die Differenzprobe
 
-Eine Differenzprobe ist zu werfen, wenn es einen direkten Gegenspieler gibt. Beispielsweise, wenn 2 Leute in einer Taverne anfangen Armzudrücken. Hier werden demnach die jeweiligen Skills und Attribute gegeneindander gewürfelt und die Differenz der Values wird interpretiert.
+Eine Differenzprobe ist zu werfen, wenn es einen direkten Gegenspieler gibt. Beispielsweise, wenn 2 Leute in einer Taverne anfangen armzudrücken. Hier werden demnach die jeweiligen Fähigkeiten und Attribute gegeneinander gewürfelt und die Differenz der Values wird interpretiert.
 
 Welche Werte hierbei welcher Größenordnung entsprechen findet sich [hier]().
 
 #### Untypische Proben {#UntypischeProben .unnumbered}
 
-Normalerweise werden Proben normal Skill und Attribut gegen die selbe Skill/Attribut-Kombination geworfen. Beim Armdrücken-Beispiel würde man z.b. Stärke und Unarmed der einen Person gegen Stärke und Unarmed der anderen Person werfen. Dieses Prinzip zählt jedoch nicht für alle Proben. Folgende Proben werden anders geworfen:
+Normalerweise werden bei Proben normal Fähigkeit und Attribut gegen dieselbe Fähigkeiten/Attribut-Kombination geworfen. Beim Armdrücken-Beispiel würde man z.b. Stärke und Unbewaffnet der einen Person gegen Stärke und Unbewaffnet der anderen Person werfen. Dieses Prinzip zählt jedoch nicht für alle Proben. Folgende Proben werden anders geworfen:
 
--   Schleichen: Sneak gegen Perception
--   Lügen/Persuation: Lying/Persuation gegen Insight
--   Angriff: Armed/Unarmed/Ranged/throwing gegen Dodge/Block
--   Einschüchtern: Intimidation gegen Insight mit Instinct als Attribut
--   Taschendiebstahl: Taschendiebstahl gegen Perception
--   Performance: Performance gegen Perception
+-   Schleichen: Schleichen gegen Wahrnehmung
+-   Lügen/Überzeugen: Lügen/Überzeugen gegen Einsicht
+-   Angriff: Nahkampfwaffen/Unbewaffnet/Fernwaffen/Werfen gegen Ausweichen/Blocken
+-   Einschüchtern: Einschüchtern gegen Einsicht mit Instinkt als Attribut
+-   Taschendiebstahl: Taschendiebstahl gegen Wahrnehmung
+-   Bühnenkunst: Bühnenkunst gegen Wahrnehmung
 
 ### Der Save
 
-Ein Save ist nochmal etwas anderes als eine Probe, auch er wird üblicherweise gegen einen Threshold geworfen und ist ein Weg sich vor etwas Schlimmen zu bewahren. Allerdings wird der Save nur mit den Attributen geworfen, Skills haben hierbei keinen Einfluss. Der Threshold ist üblicherweise 3, kann aber vom DM je nach Situation angepasst werden.
+Ein Save ist nochmal etwas anderes als eine Probe, auch er wird üblicherweise gegen einen Threshold geworfen und ist ein Weg sich vor etwas Schlimmen zu bewahren. Allerdings wird der Save nur mit den Attributen geworfen, Fähigkeiten haben hierbei keinen Einfluss. Der Threshold ist üblicherweise 3, kann aber vom DM je nach Situation angepasst werden.
 
-### Advantage/disatvantage
+### Advantage/disadvantage
 
-In manchen Situationen ist man at advantage oder at disatvantage, das bedeutet prinzipiell nur, dass derselbe Wurf mehrmals (üblicherweise 3 mal) geworfen wird. Ist der Spieler at atvantage wird das für den Spieler günstigste Ergebnis, at disatvantage wird das für den Spieler nachteiligste Ergebnis, ausgewählt.
+In manchen Situationen ist man at advantage oder at disadvantage, das bedeutet prinzipiell nur, dass derselbe Wurf mehrmals (üblicherweise 3 mal) geworfen wird. Ist der Spieler at advantage wird das für den Spieler günstigste Ergebnis, at disadvantage wird das für den Spieler nachteiligste Ergebnis, ausgewählt.
 
 ### Momentane Modifikatoren
 
-Manchmal gibt es Modifikatoren auf Attributes oder Skills, diese sind nur für kurze Zeit (Maximal die Session) aktiv und werden im Character-Sheet auf der Status Page bei Modifikator eingetragen. Sie sind für den Wert des Attributs/Skills zu addieren bzw. abzuziehen.
+Manchmal gibt es Modifikatoren auf Attributes oder Fähigkeiten, diese sind nur für kurze Zeit (Maximal die Session) aktiv und werden im Character-Sheet auf der Status Page bei Modifikator eingetragen. Sie sind für den Wert des Attributs/der Fähigkeit zu addieren bzw. abzuziehen.
 
 ### Kritische Werte {#Critical}
 
@@ -65,9 +65,9 @@ Der Ausdauersave passiert automatisch bei jeder Aktion die die körperliche Ausd
 
 ### Toxikologie-Save
 
-Der Toxikologie-Safe wird mit den Würfeln der Attribute Physis, Instinct, Luck und Glaube gewürfelt - Achtung hierbei wird die Summe, nicht der Durchschnitt gebildet.
+Der Toxikologie-Save wird mit den Würfeln der Attribute Physis, Instinct, Luck und Glaube gewürfelt - Achtung hierbei wird die Summe, nicht der Durchschnitt gebildet.
 
-Da jeder Trank toxisches Potential hat, wird immer, nachdem ein Trank konsumiert wird, ein Toxi-Save gegen den Threshold aus allen kummulierten Trankstufen der genommenen Tränke gewürfelt. Sollte man diesen nicht schaffen fällt man in [Ohnmacht](#Ohnmacht).
+Da jeder Trank toxisches Potential hat, wird immer, nachdem ein Trank konsumiert wird, ein Toxi-Save gegen den Threshold aus allen kumulierten Trankstufen der genommenen Tränke gewürfelt. Sollte man diesen nicht schaffen fällt man in [Ohnmacht](#Ohnmacht).
 
 ### Glaube/Glück Save {#Lucksave}
 
@@ -75,7 +75,7 @@ Dies ist mit Abstand der häufigste und wichtigste Save. Hierbei wird die Summe 
 
 Dieser Save kommt auch zum Tragen, falls ein Spieler seine gesamte Health verliert. Dann wird gegen den Threshold 3 geworfen. Wenn der Save bestanden wird fällt der Spieler nur in [Ohnmacht](#Ohnmacht), andernfalls stirbt der Charakter.
 
-Bei der Charakter erstellung ist ein ungenaues Ziel des Charakters zu formulieren, bei Erfüllung steigt das Luck lvl. Dies hilft dem DM die Sessions langfristig zu planen. Diese Ziele können sich im Laufe der Kampange auch verändern.
+Bei der Charakter erstellung ist ein ungenaues Ziel des Charakters zu formulieren, bei Erfüllung steigt das Glück lvl. Dies hilft dem DM die Sessions langfristig zu planen. Diese Ziele können sich im Laufe der Kampange auch verändern.
 
 Auch allgemein können Ergebnisse die den Charakter langfristig glücklich machen den Glückwert steigern.
 
@@ -161,7 +161,7 @@ Die Deckung stellt eine Alternative zum Blocken/Ausweichen dar. Deckung kann nur
 
 Es gibt zwei Arten von Deckung - die natürliche und die aufbaubare Deckung. Jede aufbaubare Deckung braucht eine Single und eine Main Action.
 
-Die Deckung hat eine prozentuelle Chance den Angriff vollständig zu anulieren. Je umfangreicher die Deckung, desto höher diese Chance. Denn die Wahrscheinlichkeit nicht getroffen zu werden ist ungefähr wieviel % vom Körper durch die Deckung verdeckt wird mal 0.75. Damit haben kleinere Charaktere einen Vorteil, um diesen nicht allzusehr zu erhöhen wird dabei immer von einem normalgroßen Körper ausgegangen (Mensch) und kleine Rassen bekommen eine 5% höhere Wahrscheinlichkeit, während große Rassen eine 5% niedrigere bekommen.
+Die Deckung hat eine prozentuelle Chance den Angriff vollständig zu annullieren. Je umfangreicher die Deckung, desto höher diese Chance. Denn die Wahrscheinlichkeit nicht getroffen zu werden ist ungefähr wieviel % vom Körper durch die Deckung verdeckt wird mal 0.75. Damit haben kleinere Charaktere einen Vorteil, um diesen nicht allzusehr zu erhöhen wird dabei immer von einem normalgroßen Körper ausgegangen (Mensch) und kleine Rassen bekommen eine 5% höhere Wahrscheinlichkeit, während große Rassen eine 5% niedrigere bekommen.
 
 Sobald man in Deckung ist, hat man keinen direkten Überblick über das Schlachtfeld mehr, was einem das strategische Handeln durchaus erschweren kann. Der DM entscheidet wie genau das zu implementieren ist, empfehlenswert ist, davon auszugehen, dass der Spieler gewisse Infos nicht hat.
 
@@ -193,7 +193,7 @@ Charaktere mit Schilden können auch einen Schildstoß vollführen. Hierbei wird
 
 ### Andere Angriffe während Single Actions
 
-Auch andere Angriffe können als Single Action durchgeführt werden. Dazu zählen [kleine Wurfwaffen](#WurfWaffen) und unbewaffnete Angriffe wie bspw. ein Faustschlag, sowie Bogen und Schleuder fernangriffe.
+Auch andere Angriffe können als Single Action durchgeführt werden. Dazu zählen [kleine Wurfwaffen](#WurfWaffen) und unbewaffnete Angriffe wie bspw. ein Faustschlag, sowie Bogen und Schleuder Fernangriffe.
 
 ### Schleichangriffe {#Schleichangriffe}
 
@@ -201,7 +201,7 @@ Unerwartete Angriffe können unheimlich effektiv sein und laufen nach einem gewi
 
 Beim Schleichangriff ist keine Abwehraktion des Gegners möglich, sonst läuft der Schleichangriff wie ein normaler Angriff.
 
-"Nach einem Schleichangriff wird eine weitere Sneak-Probe geworfen, um zu entscheiden, ob der Charakter entdeckt wurde oder nicht. Bei einem Schleichangriff mit einer Nahkampfwaffe bekommt man für die Probe einen -5 Modifyer auf das Attribut Agility, mit dem Schleichen geworfen wird. Bei einem Schleichangriff mit einer Fernkampfwaffe liegt dieser Modifyer nur bei -2, beziehungsweise bei -1 mit der Armbrust. Dieser Modifyer bleibt bestehen solange der Schleichvorgang andauert, und bei jedem weiteren Schleichangriff, der im Rahmen dieser Aktion durchgeführt wird, kommt ein weiterer Modifyer dazu, diese Modifyer verfallen bei Entdeckung oder Flucht sofort."
+"Nach einem Schleichangriff wird eine weitere Sneak-Probe geworfen, um zu entscheiden, ob der Charakter entdeckt wurde oder nicht. Bei einem Schleichangriff mit einer Nahkampfwaffe bekommt man für die Probe einen -5 Modifyer auf das Attribut Agilität, mit dem Schleichen geworfen wird. Bei einem Schleichangriff mit einer Fernkampfwaffe liegt dieser Modifyer nur bei -2, beziehungsweise bei -1 mit der Armbrust. Dieser Modifyer bleibt bestehen solange der Schleichvorgang andauert, und bei jedem weiteren Schleichangriff, der im Rahmen dieser Aktion durchgeführt wird, kommt ein weiterer Modifyer dazu, diese Modifyer verfallen bei Entdeckung oder Flucht sofort."
 
 > Ein Charakter (mit 12 Agility und 43 Sneak) legt einen Hinterhalt mit einem Bogen. Er besteht den ersten Sneak-Check (mit 12 Agility und 43 Sneak) und kann einen Schleichangriff landen. Danach muss er einen weiteren Sneak-Check machen (mit 10 Agility und 43 Sneak - Aufgrund der Fernkampfwaffe bekommt er einen -2 Modifyer auf die Schleichprobe). Er besteht und macht einen zweiten Schleichangriff. Nun kommt ein weiterer Sneak-Check (mit 8 Agility und 43 Sneak - Aufgrund der Fernkampfwaffe bekommt er einen weiteren -2 Modifyer auf die Schleichprobe). Er besteht und macht einen zweiten Schleichangriff - dieses mal mit seinem Dolch. Nun kommt ein weiterer Sneak-Check (mit 3 Agility und 43 Sneak - Aufgrund der Nahkampfwaffe bekommt er einen -5 Modifyer auf die Schleichprobe). Dieses mal wird er entdeckt und die Ziele greifen ihn an, jetzt hat er wieder 12 Agility und 43 Sneak.
 >
@@ -211,13 +211,13 @@ Beim Schleichen sind außerdem die [Modifikatoren durch Überladung](#Belastungs
 
 #### Das Attentat {.unnumbered}
 
-Wenn eine Sneak Attack mit einer attentatsfähigen Waffe stattfindet, wird es bei geringeren Gegnern zum Attentat. Das Attentat tötet den Gegner direkt. Sollte der DM da was dagegen haben, wird ein Attentatsangriff ausgeführt. Dieser ignoriert die Rüstung des Gegners und wird mit dem fünffachen der normalen Würfelmenge ausgeführt.
+Wenn eine Schleich-Attacke mit einer attentatsfähigen Waffe stattfindet, wird es bei geringeren Gegnern zum Attentat. Das Attentat tötet den Gegner direkt. Sollte der DM da was dagegen haben, wird ein Attentatsangriff ausgeführt. Dieser ignoriert die Rüstung des Gegners und wird mit dem fünffachen der normalen Würfelmenge ausgeführt.
 
 Dieser Attentatsangriff betrifft vor allem Monster und bestimmte Charaktere zu bei denen es nicht glaubhaft ist, dass ein Attentat ausreichend ist, um sie zu töten. Hierbei obliegt die Entscheidung dem DM.
 
 ### Waffen werfen und Wurfwaffen
 
-Jede Waffe kann auch für ein wenig Schaden geworfen werdem. Hierbei wird der Schaden der Waffe mit dem Wurfwert multipliziert und als Waffenschaden verwendet. Werfen einer Waffe wird mit dem Skill throwing geworfen und kann gedodged oder geblockt werden.
+Jede Waffe kann auch für ein wenig Schaden geworfen werden. Hierbei wird der Schaden der Waffe mit dem Wurfwert multipliziert und als Waffenschaden verwendet. Werfen einer Waffe wird mit der Fähigkeit Werfen geworfen und kann gedodged oder geblockt werden.
 
 Wurfwaffen funktionieren für gewöhnlich genauso. Im Notfall kann man sie als normale Nahkampfwaffen verwenden, allerdings bringt das kaum etwas. Ansonsten werden Wurfwaffen für eine single Action geworfen. Sie haben eine Chance gegnerische Aktionen zu unterbrechen, sie haben allerdings auch bei jeder Verwendung eine Chance, kaputt zu gehen. Eine [Liste von Wurfwaffen ist hier](#Belastungsstufe) einzusehen.
 
@@ -717,25 +717,36 @@ Die Anzahl an Handwerkschecks pro Downtime wird durch die Effektivität des Hand
 
 ## Geld und Wechselkurse {#Währung}
 
-In Orbis Astea gibt es verschiedene Währungen, während im Kaiserreich Reiks die bezeichnende Währung ist, sind es bei den Rah Kari die Tempelmünzen. Zwergenkronen ist selbstverständlich die normierte Währung der Zwerge. Das Seevolk und die Bürger der Skaen verwenden die Währung der Thaler.
-
-Umrechnungskurse:
-
-| Währung       | Kurs Reiks | DnD Silver (10s=1g) | Zwergenkronen | Tempelmünzen | Thaler |
-|------------|:----------:|:----------:|:----------:|:----------:|:----------:|
-| Reiks         |     1      |        0,02         |      0,5      |      2       |   4    |
-| DnD Silver    |     50     |          1          |      25       |     100      |  200   |
-| Zwergenkronen |     2      |        0,04         |       1       |      4       |   8    |
-| Rah Kari      |    0,5     |        0,01         |     0,25      |      1       |   2    |
-| Thaler        |    0,25    |      kein Kurs      |     0,125     |     0,5      |   1    |
-
-Reiks, Ras und Zwergenkronen. Alle mit Wechselkurs 1 zu 1.
+In Orbis Astea gibt es verschiedene Währungen, während im Kaiserreich Reiks die bezeichnende Währung ist, sind es bei den Rah Kari die Tempelmünzen, welche oft auch Rahs genannt werden. Zwergenkronen sind die normierte Währung der Zwerge. Das Seevolk und die Bürger der Skaen verwenden die Währung der Thaler. Alle Währungen sind gleich viel Wert.
 
 ### Einordnung der Größenverhältnisse von Geldbeträgen
 
 Das Einkommen eines durchschnittlichen unqualifizierten Arbeiters beträgt 5.000 Reiks, dieses Einkommen reicht um eine drei Köpfige Familie für einen Monat zu ernähren. Ein Qualifizierter Arbeiter sei es ein Handwerksmeister oder Händler kann in etwa 7.500 Reiks am Ende des Monats erwarten.
 
-Ein einfaches fleischloses Abendessen kostet in etwa 30 Reiks. Ein Stüch Fleisch hat den Luxeriösen Preis von 100 Reiks. Eine Übernachtung in einem Inn kostet zwischen 80 und 100 Reiks.
+Ein einfaches fleischloses Abendessen kostet in etwa 30 Reiks. Ein Stüch Fleisch hat den luxuriösen Preis von 100 Reiks. Eine Übernachtung in einem Wirtshaus kostet zwischen 80 und 100 Reiks.
+
+Anbei ist eine Tabelle über das Monats- und Jahreseinkommen einiger Berufe um einen besseren Überblick zu bekommen was das Geld in Orbis Astea Wert ist. 
+
+```{r}
+dfe=read_xlsx(bookdownallgdatapfad,sheet="Beruf Einkommen ")
+
+dfe = dfe[,c(1,5,6)]
+colnames(dfe) = c("Beruf", "Monatseinkommen", "Jahreseinkommen")
+
+
+dfe %>% arrange(Jahreseinkommen) %>% 
+  reactable(bordered = F,
+            highlight = T, 
+            showPageSizeOptions = T,
+            filterable = F,
+            pageSizeOptions = c(5,10, 20, 50),
+            defaultPageSize = 10,  paginationType = "jump",
+            theme= overallThemeReactable, defaultColDef = colDef(
+              align = "center"
+            ), outlined = T,
+            striped=T, resizable = T)
+```
+
 
 ## Handelssystem (to be implemented) {#Handelssystem}
 

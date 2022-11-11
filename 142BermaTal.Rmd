@@ -6,6 +6,8 @@ editor_options:
 
 # Das Berma-Tal {#BermaTal}
 
+![Karte von Berma-Tal](Pictures/Maps/Bermatal.jpg)
+
 > Täglich werden Kriege geführt, und es scheint, als würde der Frieden nie den Weg in das abgelegene, scheusliche und neblige Berma-Tal finden.
 >
 > -   Heb Eorri, Expeditionsleiter der Rahkari über das Bermatal
@@ -221,17 +223,13 @@ Dies lässt sich allerdings nicht zweifelsfrei aus den Überlieferungen belegen.
 
 Ein klarer Übergang über diese Krieger in den Dunstspitzen oder hinter den Dunstspitzen zu den Stammesstrukturen des Bermatals lässt sich allerdings nicht belegen.
 
-Heutzutage ist die Einschätzung der Inqusition, dass Tholy von Ciresh, der Blutgöttin des Verrats und der Illusionen, beherrscht wurde.
-Sie soll Tholy und die restlichen Krieger von Zamrak absichtlich in diese Region geführt haben.
+Heutzutage ist die Einschätzung der Inqusition, dass Tholy von Ciresh, der Blutgöttin des Verrats und der Illusionen, beherrscht wurde. Sie soll Tholy und die restlichen Krieger von Zamrak absichtlich in diese Region geführt haben.
 
-Manche Inquisitoren glauben, dass Ciresh einen Pakt mit der Blutgöttin Ga'ar schloss, um die Zamrak-Krieger aus Eldria zu holen und sie ins Berma-Tal zu bringen.
-Dort sollte sie die Krieger zu ihren Marionetten machen.
-Es ist unbekannt, was Ga'ar Ciresh für diese Aktion versprach.
-Einige Vertreter spekulieren, dass Ciresh freie Herrschaft über Eldria versprochen wurde, um ihre Opfer auf ihre sadistische Art und Weise zu foltern, ohne von anderen Blutgöttern gestört zu werden.
+Manche Inquisitoren glauben, dass Ciresh einen Pakt mit der Blutgöttin Ga'ar schloss, um die Zamrak-Krieger aus Eldria zu holen und sie ins Berma-Tal zu bringen. Dort sollte sie die Krieger zu ihren Marionetten machen. Es ist unbekannt, was Ga'ar Ciresh für diese Aktion versprach. Einige Vertreter spekulieren, dass Ciresh freie Herrschaft über Eldria versprochen wurde, um ihre Opfer auf ihre sadistische Art und Weise zu foltern, ohne von anderen Blutgöttern gestört zu werden.
 Eine andere Theorie besagt, dass Ga'ar Ciresh eine Zusammenarbeit versprochen hat, bei der sie gegen den Blutgott Hartemus vorgehen würde.
 Dies lässt sich allerdings schwer belegen, da die Aussagen auf den Niederschriften eines als verrückt eingestuften ehemaligen Hochinquisitors beruhen, der kurz darauf von der Inquisition selbst exektuiert wurde.
 
-Ciresh, so die verbotene die Niederschrift namens "Der Pakt und Teufeln", hielt sich jedoch nicht an ihr Versprechen, die Krieger an Ga'ar zu übergeben.
+Ciresh - so die verbotene die Niederschrift namens "Der Pakt und Teufeln" - hielt sich jedoch nicht an ihr Versprechen, die Krieger an Ga'ar zu übergeben.
 Als Spott sollten die Zamrak-Krieger verschiedene Monster "anbeten" und als Häme für den mieserablen Einfluss welchen Ga'ar auf die Menschen hat, sich auch mit diesen Monster verschmelzen.
 
 Es ist nicht bekannt, wie groß der Einfluss von Ciresh auf die Stammesangehörigen von Berma-Tal heute ist, aber die Stämme beten heute alle ihren eigenen Monstergötter an.
@@ -334,22 +332,13 @@ Seitdem hält sich die Echse in Lauerstellung, stets mit dem Blick auf das Berma
 
 ### Vrak der Reiche
 
-Als am längsten das Bermatal bereisender Zwerg galt Vrak der Reiche.
-Er soll Zentnerweise Gold mit sich geschleppt haben.
-Vor seiner Reise in das Bermatals habe er einen gesamten Orkstamm gekauft, ihnen gesagt, dass Sie selbst Götter werden können und den Kreislauf des gefressen und neugeschaffen werden durchbrechen können, wenn Sie die Wiege der Götter, das Bermatal, von den Monstern reinigen.
-Er würde ihr leitende Hand sein, nur mussten Sie ihm Folgen.
-Neben knapp Tausend Orkkriegern und rund 150 Menschen machte er sich 211 n.
-Riga auf den Weg in das Bermatal.
-Dort errichtete er die Festung "Goldblick" die Mine "Des Kaiser's Tasche" und hielt einen "Park" an Monstern.
-Allerdings ließen sich in den wenigen Folgeexpeditionen keine Spuren von Vrak dem Reichem im Jahr 287 n.
-Riga mehr nachweisen.
+Als am längsten das Bermatal bereisender Zwerg galt Vrak der Reiche der Zentnerweise Gold mit sich geschleppt haben soll.
+Vor seiner Reise in das Bermatals habe er einen gesamten Orkstamm gekauft, ihnen gesagt, dass Sie selbst Götter werden können und den Kreislauf des gefressen und neugeschaffen werden durchbrechen können, wenn Sie die Wiege der Götter, das Bermatal, von den Monstern reinigen. Er würde ihre leitende Hand sein, nur mussten Sie ihm Folgen. 
 
-Die letzten Briefe von Vrak kamen auf gestanzten Goldblättern nach Gent und stammen aus dem Jahr 214 n.
-Riga.
-Vrak selbst soll irgendwann die Kontrolle über die Orks verloren haben, da er sich über deren Loyalität ihm gegenüber unsicher wurde, da die Orks nicht zufrieden damit waren eine Festung für ihn zu errichten.
-Einige wenige Gesandte kehrten 215 nach Riga zurück, wo sich deren Spur verlor.
-Vorraussichtlich wurden die Goldbestanzten "Briefe" eingeschmolzen und verkauft.
-So erlag Vraks Vermächtnis nichteinmal seiner Gier, sondern der Gier der Menschen.
+Neben knapp Tausend Orkkriegern und rund 150 Menschen machte er sich 211 nach Riga auf den Weg in das Bermatal. Dort errichtete er die Festung "Goldblick" die Mine "Des Kaiser's Tasche" und hielt einen "Park" an Monstern.
+Allerdings ließen sich in den wenigen Folgeexpeditionen keine Spuren von Vrak dem Reichem im Jahr 287 nach Riga mehr nachweisen.
+
+Die letzten Briefe von Vrak kamen auf gestanzten Goldblättern nach Gent und stammen aus dem Jahr 214 nach Riga. Vrak selbst soll irgendwann die Kontrolle über die Orks verloren haben, da er sich über deren Loyalität ihm gegenüber unsicher wurde, da die Orks nicht zufrieden damit waren eine Festung für ihn zu errichten. Einige wenige Gesandte kehrten 215 nach Riga zurück, wo sich deren Spur verlor. Vorraussichtlich wurden die Goldbestanzten "Briefe" eingeschmolzen und verkauft. So erlag Vraks Vermächtnis nichteinmal seiner Gier, sondern der Gier der Menschen.
 
 ## Sehenswürdigkeiten
 

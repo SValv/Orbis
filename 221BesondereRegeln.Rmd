@@ -38,17 +38,17 @@ Lieder bekommt man indem man selbst viel übt und spielt. Worum sich diese Liede
 
 ## Der Krieg auf See
 
-Die Meere in Orbis Astea sind ein ebenso gefährliches und umkämpftes Gebiet wie das Land und so ist es nützlich sich mit dem Kampf auf See auszukennen.
+Die Meere in Orbis Astea sind ein ebenso gefährliches und umkämpftes Gebiet, wie das Land und so ist es nützlich sich mit dem Kampf auf See auszukennen.
 
 Da das Meer, die Seen und Flüsse sowohl für den Handel als auch für militärische Operationen essentiell sind, ist eine gute Flotte aus der Machtpolitik der Fraktionen kaum herauszudenken.
 
 ### Allgemeines
 
-Der Kampf auf See unterscheidet sich signifikant vom Kampf auf dem Festland, während schwere Rüstungen auf dem Festland zu den mächtigsten Waffengattungen gehören, sieht man in Metall bekleidete Soldaten nur selten auf See. Egal wie gut man schwimmen kann, das enorme Gewicht einer Rüstung zieht einen in den sicheren Tod sollte man über Bord gehen.
+Der Kampf auf See unterscheidet sich signifikant vom Kampf auf dem Festland. Während schwere Rüstungen auf dem Festland zu den mächtigsten Waffengattungen gehören, sieht man in Metall bekleidete Soldaten nur selten auf See. Egal wie gut man schwimmen kann, das enorme Gewicht einer Rüstung zieht einen in den sicheren Tod, sollte man über Bord gehen.
 
-Stattdessen sieht man vor allem leichte Rüstung, da diese kaum beeinträchtigend ist, wenn man überleben will - wobei gute schwimmer sich auch in mittlerer Rüstung auf Schiffe begeben können ohne um ihr Leben fürchten zu müssen.
+Stattdessen sieht man vor allem leichte Rüstung, da diese kaum beeinträchtigend ist, wenn man überleben will - wobei gute Schwimmer sich auch in mittlerer Rüstung auf Schiffe begeben können, ohne um ihr Leben fürchten zu müssen.
 
-Auch Fernkampfwaffen sind auf See deutlich häufiger vertreten - dabei allen vorran Armbrüste und Musketen, deren größter Nachteil, die Nachladezeit, von der Distanz von Schiff zu Schiff relativ gut negiert wird.
+Auch Fernkampfwaffen sind auf See deutlich häufiger vertreten - dabei allen voran Armbrüste und Musketen, deren größter Nachteil, die Nachladezeit, von der Distanz von Schiff zu Schiff relativ gut negiert wird.
 
 #### Kapern und Versenken
 
@@ -303,17 +303,17 @@ Den Gegnerischen Artillerie beschuss wird automatisch ausgewichen, der erfolg di
 
 ### Allgemeines
 
-Diese Wunder mechanischer Handwerkskunst stellen den Zenit der zwergischen Innovation dar. Sie sind aufgrund ihrer religösen Ansichten als einziges Volk in der Lage diese teils tonnenschweren Kollosse zum Leben zu erwecken. Die Konstrukte existieren in allen Formen und Farben und decken jeden nur möglichen Arbeitsbereich ab. So stellen sie zum Beispiel einen der schlagkräftigsten Teile des Rahkari Heeres dar, werden von Zwergenkarawanen zum Transport von tonnenschweren Waren benutzt und sind gleichzeitig mit schweren Ballisten bestückt. Fast jede Tätigkeit die ein Konstrukt übernimmt könnte genauso gut durch ein Tier, eine schlichte Mechanik oder einfach nur durch eine Person übernommen werden. Doch Konstrukte bieten neben vielen anderen Vorteilen einen bestimmten, bedinungslose Loyalität. Dies macht sie für Personen mit dem richtigen "kleingeld" im Beutel zu attraktiven begleitern.
+Diese Wunder mechanischer Handwerkskunst stellen den Zenit der zwergischen Innovation dar. Sie sind, aufgrund ihrer religiösen Ansichten, als einziges Volk in der Lage diese, teils tonnenschweren, Kolosse zum Leben zu erwecken. Die Konstrukte existieren in allen Formen und Farben und decken jeden nur möglichen Arbeitsbereich ab. So stellen sie zum Beispiel einen der schlagkräftigsten Teile des Rah Kari Heeres dar, werden von Zwergenkarawanen zum Transport von unglaublich schweren Waren benutzt und sind gleichzeitig mit schweren Ballisten bestückt. Fast jede Tätigkeit, die ein Konstrukt übernimmt, könnte genauso gut durch ein Tier, eine schlichte Mechanik oder einfach nur durch eine Person übernommen werden. Doch Konstrukte bieten, neben vielen anderen Vorteilen, einen bestimmten: bedingungslose Loyalität. Dies macht sie für Personen mit dem richtigen "Kleingeld" im Beutel zu attraktiven Begleitern.
 
-### Kontrolle
+### Kontrolle {#KonstruktResonanz}
 
-Kein Konstrukt wird seinen Meister Willentlich hintergehen denn sie sind in Ermangelung von eben diesem. Wer einem Konstrukt befehle geben kann wird klar geregelt durch einen so genannten Meisterstein dieser wird zusammen mit dem Konstruktkern erschaffen und erhält dabei ein einmaliges Muster. Dieses Muster steht in Resonanz mit dem Kern, der das gleiche Muster trägt. Die Reichweite dieser Resonanz ist dabei jedoch begrenzt, doch innerhalb dieser Reichweite führt das Konstrukt jeden Befehl aus der vom Besitzer des Meistersteins gegeben wird, dabei muss dieser Befehl nicht laut gesagt werden, ein explizieter Gedanke reicht bereits aus. So wichtig die Reichweite ist, als Meister sollte man sich da nichts so viele Sorgen machen, sollte ein Konstrukt die Reichweite verlassen so durchläuft das Konstrukt die aktuelle Routine fertig / den Befehl anschließend startet das Konstrukt automatisch eine vorher bestimmte Verhaltensroutine, wie Rückkehr zum Besitzer des Meistersteins, kämpfen oder Flucht. Der Meisterstein kann, trotz seines namens vielerlei Form haben, da das Muster erst bei der Erschaffung des Kerns aufgeprägt wird. Mögliche Meistersteine wären so zum Beispiel ein Amulett, Armreif oder tatsächlich ein verzierter Stein oder in seltenen Fällen kann von Meistern ihres Handwerks das Muster sogar auf die Haut als Tattoo aufgetragen werden. Solche Tattoos bringen Vorteile wie Nachteile, so ist es quasi unmöglich die Kontrolle über das Konstrukt zu übertragen im Gegenzug ist es jedoch auch quasi unmöglich den Meisterstein von seinem Besitzer zu entwenden, dies wird also nur von den Misstrauischten Zwergen genutzt. Zu beachten ist jedoch das die Nutzung von Konstrukten pro Meister limitiert ist denn zu viele Meistersteine unter einem Meister stören sich bei der Resonanz gegenseitig.
+Kein Konstrukt wird seinen Meister willentlich hintergehen, denn sie sind in Ermangelung von eben diesem. Wer einem Konstrukt Befehle geben kann, wird, durch einen so genannten Meisterstein, klar geregelt. Dieser wird zusammen mit dem Konstruktkern erschaffen und erhält dabei ein einmaliges Muster. Dieses Muster steht in Resonanz mit dem Kern, der das gleiche Muster trägt. Die Reichweite dieser Resonanz ist dabei jedoch begrenzt. Innerhalb dieser Distanz führt das Konstrukt allerdings jeden Befehl aus, der vom Besitzer des Meistersteins gegeben wird. Dabei muss dieser Befehl nicht laut gesagt werden, ein expliziter Gedanke reicht bereits aus. So wichtig die Reichweite ist, als Meister sollte man sich da nichts so viele Sorgen machen, sollte ein Konstrukt die Reichweite verlassen so durchläuft das Konstrukt die aktuelle Routine fertig / führt den Befehl zu Ende aus. Anschließend startet das Konstrukt automatisch eine vorher bestimmte Verhaltensroutine, wie Rückkehr zum Besitzer des Meistersteins, Kampf oder Flucht. Der Meisterstein kann, trotz seines Namens vielerlei Form haben, da das Muster erst bei der Erschaffung des Kerns auf-geprägt wird. Mögliche Meistersteine wären so zum Beispiel ein Amulett, Armreif oder tatsächlich ein verzierter Stein. In seltenen Fällen kann von Meistern ihres Handwerks das Muster sogar auf die Haut als Tattoo aufgetragen werden. Solche Tattoos bringen Vorteile wie Nachteile, so ist es quasi unmöglich die Kontrolle über das Konstrukt zu übertragen, im Gegenzug ist es jedoch auch quasi unmöglich den Meisterstein von seinem Besitzer zu entwenden. Dies wird also nur von den misstrauischsten Zwergen genutzt. Zu beachten ist jedoch, dass die Nutzung von Konstrukten pro Meister limitiert ist, denn zu viele Meistersteine unter einem Meister stören sich bei der Resonanz gegenseitig.
 
 ### Essenzen
 
-Diese Mysteriöse Energiequelle wird durch die Extration mit einem Nadelähnlichen Mechanismus aus frisch verstorbenen Gewonnen. Diese Energiequelle benötigt besondere Aufbewahrung und kann derzeit nur für bestimmte Dinge verwendet werden. Jedoch was mit ihr erreicht werden kann scheint weit über den Entwicklungsstand der akutellen Zivilisation hinauszugehen.
+Essenzen stellen eine mysteriöse Energiequelle dar, welche mit einem Nadel ähnlichen Mechanismus aus frisch Verstorbenen extrahiert wird. Diese Energiequelle benötigt besondere Aufbewahrung und kann derzeit nur für bestimmte Dinge verwendet werden. Was mit ihr erreicht werden kann, scheint jedoch weit über den Entwicklungsstand der aktuellen Zivilisation hinauszugehen.
 
-Mit ihr können Konstruktkerne Konstruiert werden und sogar weiterverbessert. Desweiteren nutzen Konstrukte sie je nach Anwendung als Antrieb sei es Langfristig in Batterien oder als Kurzfristiger Ladungsboost.
+Mit ihr können Konstruktkerne Konstruiert und sogar weiter verbessert werden. Des Weiteren nutzen Konstrukte sie je nach Anwendung als Antrieb sei es langfristig in Batterien oder als kurzfristiger Ladungsboost.
 
 Das "Absaugen" aus den Leichen noch nicht Erwachter, ermöglicht das enthaupten der Verstorbenen ohne ein Erwachen fürchten zu müssen. Da dass enthaupten von verstorbenen jedoch als in vielen Reichen als Kapitalsünde angesehen wird, geht damit nur beschränkter nutzen einher.
 
@@ -381,37 +381,39 @@ Die Inspiration für diese Wunderwerke fanden die Zwerge in den Überbleibseln v
 
 Aus vielerlei Gründen sind Konstrukte eher selten Anzutreffen, dann jedoch meist in der Begleitung von Zwergen, Rah Kari oder einigen gewieften Geschäftsmännern und Handwerkern anzutreffen. In seltenen Fällen trifft man aber auch auf allein herumsträunende Konstrukte, sogenannte Wanderer diese durchstreifen das Land oft schon seit Jahrhunderten mit dem einzigen Ziel den letzten Befehl ihrer jeweiligen Meister zu folgen, welche diese sind ist jedoch unbekannt. Besonders gehäuft trifft man Wanderer in der unterirdischen Stadt Wandia und in vergessenen Zwergenstädten an.
 
-## Konstrukte Regeln {#konstrukte}
+## Konstrukte Regeln {#Konstruktregeln}
 
 ### Kampf
 
-Ein Konstrukt folgt den Befehlen seines Meisters im Kampf, sollte dieser nicht zur Verfügung stehen folgt es entweder dem letzten geäußerten Befehl oder einer einfachen Standartroutine. Befehle können entweder Verbal oder sogar Gedanklich übermittelt. Ist also nicht zu komplexen eigenständigem Denken fähig.
+Ein Konstrukt folgt den Befehlen seines Meisters im Kampf, sollte dieser nicht zur Verfügung stehen folgt es entweder dem letzten geäußerten Befehl oder einer einfachen Standardroutine. Befehle können entweder verbal oder sogar gedanklich übermittelt. Ein Konstrukt ist demnach also nicht zu komplexen eigenständigem Denken fähig.
 
-Ein Konstrukt hat wie PCs zwei Aktionen pro Runde vorrausgesetzt genügend Ladungen sind verfügbar, es besteht die Chance auf eine dritte Aktion pro Runde (siehe Vehicel Check).
+Ein Konstrukt hat, wie die Spieler der Kampagne, zwei Aktionen pro Runde. Vorausgesetzt genügend Ladungen sind verfügbar, besteht die Chance auf eine dritte Aktion pro Runde (siehe [Vehikel-Check](#Fahrzeuge)).
 
-Beispiel Befehle: Im Grunde alle Aktionen die eine Ladung erfordern. Greif diesen Gegner an beschütze mich / diesen Verbündeten, blockiere diesen Gegner, ansitzen (zielen) auf diese Deckung etc.
+Beispiel-Befehle: Im Grunde alle Aktionen die eine Ladung erfordern. Greif diesen Gegner an; beschütze mich / diesen Verbündeten, blockiere diesen Gegner, ansitzen (zielen) auf diese Deckung etc.
 
 #### Gliedmaßen / Schwachpunkt
 
-Jedes Konstrukt bestehlt aus 6 angreifbaren Teilen seinen 4 Gliedmaßen einer Kernabdeckung und dem Kern selbst. Der Kern für sich ist nahezu ungepanzert, kann jedoch erst angegriffen werden *nachdem* die Kernabdeckung zerstört wurde. Der Kern ersetzt beim gezieltenangriff den Kopf und die Kernabdeckung den Torso.
+Jedes Konstrukt besteht aus 6 angreifbaren Teilen, seinen 4 Gliedmaßen, einer Kernabdeckung und dem Kern selbst. Der Kern für sich ist nahezu ungepanzert, kann jedoch erst angegriffen werden *nachdem* die Kernabdeckung zerstört wurde. Der Kern ersetzt beim gezielten Angriff den Kopf und die Kernabdeckung den Torso.
 
 #### Ladungen
 
-Jede aktive Aktion verbraucht Ladungen der Batterie, je nach Art der Anwendung können auch mehrere Ladungen für eine Anwendung verbraucht werden. Normale Handlungen wie gehen oder Ausschau halten sind Gratis.
+Ladungen werden in der Batterie gespeichert. Jede aktive Aktion verbraucht Ladungen der Batterie. Je nach Art der Anwendung, können auch mehrere Ladungen für eine Anwendung verbraucht werden. Normale Handlungen, wie gehen oder Ausschau halten, sind Gratis.
+
+Während der Downtime lädt sich die Batterie zu 100% von selbst wieder auf.
 
 #### Anwendungen für Ladungen
 
 *1 Ladung :*
 
--   Angriff
+-   Angriff x
 
 <!-- -->
 
--   Sprinten
+-   Sprintenx
 
--   Blocken
+-   Blockenx
 
--   Ausweichen
+-   Ausweichenx
 
 -   Schützen (für jemanden blocken)
 
@@ -419,9 +421,9 @@ Jede aktive Aktion verbraucht Ladungen der Batterie, je nach Art der Anwendung k
 
 -   umwerfen (Grappling)
 
--   Verbaute Attilierienutzung durch Person
+-   Verbaute Artillerie-Nutzung durch Person
 
--   Klettern
+-   Kletternx
 
 -   Seilwerfer
 
@@ -429,33 +431,35 @@ Jede aktive Aktion verbraucht Ladungen der Batterie, je nach Art der Anwendung k
 
 -   Bolawerfer
 
--   Alle weiteren Funktionen die nicht expliziet mehrere Ladungen erfordern
+-   Alle weiteren Funktionen, die nicht explizit mehrere Ladungen erfordern
+
+\*Nur Standartfunktionen hier, ansonsten crossreferenz zu addons (siehe X)
 
 *2 Ladungen*
 
--   Besondere Waffentypen (Flammenwerfer)
+-   Besondere Waffentypen (Bsp. Flammenwerfer)x
 
--   Schwerer Angriff mit jeder Nahkampfwaffe erlaubt
+-   Schwerer Angriff mit jeder Nahkampfwaffe erlaubtx
 
-### Vehicle Skill {#Vehicleskills}
+### Vehikel Fähigkeit {#VehikelFähigkeitKonstrukt}
 
-Dem Besitzer des Konstrukts ist es möglich kurzzeitig die Kontrolle über ein Konstukt auch aus der Entfernung zu übernehmen, dies äußert sich in einer zusätzlichen Aktion für das Konstrukt. Diese Aktion hängt von einem Vehicel Check ab dessen schwierigkeit auf dem Kern und der Größe des Konstrukts basiert, je stärker das Konstrukt desto schwieriger die Kontrolle. Bei Erfolg wird die Main Action des Characters aufgebraucht, bei Misserfolg die Singleaction da weniger Zeit verbraucht wird.
+Dem Besitzer des Konstrukts ist es möglich kurzzeitig die Kontrolle über ein Konstukt auch aus der Entfernung zu übernehmen, dies äußert sich in einer zusätzlichen Aktion für das Konstrukt. Diese Aktion hängt von einem Vehikel Check ab, dessen schwierigkeit auf dem Kern und der Größe des Konstrukts basiert. Je stärker das Konstrukt, desto schwieriger die Kontrolle. Bei Erfolg wird die Main Action des Spielers aufgebraucht, bei Misserfolg die Single Action, da weniger Zeit verbraucht wird.
 
-Die Schwierigkeit des Checks wird im Konstruktprofil automatisch berechnet. Die Schwierigkeit kann durch einen Pilotensitz im Konstrukt halbiert werden.
+Die Schwierigkeit des Checks wird im Konstruktprofil automatisch berechnet. Die Schwierigkeit kann durch einen Pilotensitz im Konstrukt halbiert werden.CROSSREFERENCE XXXX
 
 ### Batterie in Session Aufladen
 
-Zum aufladen des Akkus ohne Pausen. Hierfür wird der Essenzsammler verwendet, Eine Ladung entspricht 10 Essenzen, jedoch ist es schwer abzuschätzen wann man die Sammler abziehen muss weshalb es öfter zu ungenauen Abzügen kommt,was im schlimmsten Fall zum Verlust aller gesammelten Seelen im Sammler führen kann. Aufgrund des hohen Preises dieser Anwedung wird diese nur im absoluten Notfall empfohlen.
+Zum Aufladen des Akkus ohne Pausen: Hierfür wird der Essenzsammler verwendet. Eine Ladung entspricht 10 Essenzen. Jedoch ist es schwer abzuschätzen, wann man die Sammler abziehen muss, weshalb es öfter zu ungenauen Abzügen kommt. Im schlimmsten Fall kann dies zum Verlust aller gesammelten Seelen im Sammler führen. Aufgrund des hohen Preises dieser Anwendung, wird diese nur im absoluten Notfall empfohlen.
 
-### Reperatur
+### Reparatur
 
-Natürlich kommt es vor das Konstrukte im Kampf demoliert werden also die Leben des Konstrukts auf 0 fallen, in diesem Fall muss es in der Downtime repariert werden.
+Natürlich kommt es vor, dass Konstrukte im Kampf demoliert werden, also die Leben des Konstrukts auf 0 fallen. In diesem Fall muss es in der Downtime repariert werden.
 
-Je nach größe des Konstrukts müssen zwischen eine bis drei downtime Handwerkaktionen aufgewendet werden.
+Je nach Größe des Konstrukts, müssen zwischen eine bis drei Downtime Handwerk-Aktionen aufgewendet werden.
 
-Der Schwierigkeitsgrad des Checks orientiert sich dabei an dem Tier des Corpus und den entsprechenden Reperatur werten des Materials
+Der Schwierigkeitsgrad des Checks orientiert sich dabei an dem Tier des Korpus und den entsprechenden Reparaturwerten des Materials.
 
-Jedoch benötigen diese Reperaturen *keine* Materialien.
+Jedoch benötigen diese Reparaturen *keine* Materialien.
 
 | Reparieren | Threshold |
 |:----------:|:---------:|
@@ -466,58 +470,64 @@ Jedoch benötigen diese Reperaturen *keine* Materialien.
 
 ### Aufbau und Herstellung
 
-Ein Konstrukt ist im Aufbau einem PC nicht unähnlich unterscheidet sich jedoch in der Quelle der Attributs und Skillpunkte, neben einigen weiteren Zusätzen.
+Ein Konstrukt ist im Aufbau einem Spielercharakter nicht unähnlich, unterscheidet sich jedoch, neben einigen weiteren Zusätzen, in der Quelle der Attribute und Fähigkeitspunkte.
 
 Ein Konstrukt besteht aus:
 
--   Konstrukt Kern das Herz und Hirn des Konstrukts bestimmt Leben und Skillpunkte.
+-   Konstrukt-Kern: das Herz und Hirn des Konstrukts bestimmt Leben und Fähigkeitspunkte.
 
--   Akku gibt die Ladungsmenge also die Anzahl an möglichen Aktionen des Konstrukts vor
+-   Akku: gibt die Ladungsmenge, also die Anzahl an möglichen Aktionen des Konstrukts, vor.
 
--   Corpus gibt die Verfügbaren Attribute und Rüstung vor.
+-   Korpus: gibt die verfügbaren Attribute und Rüstung vor.
 
-Alle müssen für ein funktionierendes Konstrukt vorhanden sein, können jedoch auch beliebig zwischen ihnen getauscht werden.
+Diese drei Komponenten müssen für ein funktionierendes Konstrukt immer vorhanden sein. Die einzelnen Teile können jedoch beliebig mit anderen Teilen der gleichen Klasse getauscht werden.
 
 Zum besseren und einfachen Verständnis der Erstellung eines Konstrukts empfiehlt sich ein Blick in die Excel Datei. Da mit nur wenigen Eingaben das Konstrukt Spiel bereit ist. Zu beachten ist das die Linke seit des Profil nicht bearbeitet werden sollte da sich diese Werte selbst vervollständigen.
 
-#### 
+##### Fähigkeiten {#FähigkeitenKonstrukt}
 
-##### Skills {#skills}
+Nicht alle Fähigkeiten können von Konstrukten entwickelt werden, da auch diese Grenzen haben.\
+Folgende Fähigkeiten können verbessert werden:
 
-Nicht alle Skills können von Konstrukten gelevelt werden, da auch diese Grenzen haben.\
-Folgende Skills können erhöht werden:
+-   Blocken
 
--   Block
+-   Nahkampfangriffe
 
--   Armed
+-   Fernkampfangriffe
 
--   Ranged
+-   Unbewaffnet
 
--   Unarmed
+-   Rennen
 
--   Running
+-   Schleichen
 
--   Sneak
+-   Wahrnehmung
 
--   Perception
+-   Ausweichen
 
--   Dodge
+-   Akrobatik
 
--   Acrobatics
+-   Werfen
+
+-   Schwimmen
+
+-   Fingerfertigkeit
+
+-   Einschüchtern
 
 #### Kern
 
-Der Konstruktkern stellt sowohl das Herz als auch das Hirn eines jeden Konstruktsdar das Level des Kerns wird durch das Anwenden von Essenzen in der nebenbei Downtime erhöht dieses Level beinflusst viele Bereiche des Konstrukts:
+Der Konstrukt-Kern stellt sowohl das Herz als auch das Hirn eines jeden Konstrukts dar. Das Level des Kerns wird durch das Anwenden von Essenzen in der Downtime erhöht. Dieses Level beeinflusst viele Bereiche des Konstrukts:
 
--   Die maximalen Attribute die effektiv eingesetzt werden können, sollten mehr Punkte in ein Attribut geflossen sein als die Stufe des Kerns so werden nur die Attributspunkte bis zur Kernstufe angewendet.
+-   Die maximalen Attribute, die effektiv eingesetzt werden können. Sollten mehr Punkte in ein Attribut geflossen sein als die Stufe des Kerns, so werden nur die Attributpunkte bis zur Kernstufe angewandt.
 
--   Neben der Begrenzung durch die Maximalattribute, leveln auch zwei Attribute direkt mit der Kernstufe nämlich Intelligenz im Faktor 1 zu 1 und Instinkt im Faktor 1 zu 0,75.
+-   Neben der Begrenzung durch die Maximalattribute, leveln auch zwei Attribute direkt mit der Kernstufe: Intelligenz im Faktor 1 zu 1 und Instinkt im Faktor 1 zu 0,75.
 
--   Die Maximalen Leben des Konstrukts entsprechen der 15-fachen Kernstufe und verteilen sich unter den Gliedmaßen folgendermaßen: 50% Kern(Kopf), 50% Kernabschiermung (Torso) Alle anderen teile je 30%
+-   Die maximalen Leben des Konstrukts entsprechen der 15-fachen Kernstufe und verteilen sich unter den Gliedmaßen folgendermaßen: 50% Kern(Kopf), 50% Kernabschirmung (Torso), alle anderen Teile je 30%
 
--   Das Skillgrundlevel, mit jeder Kernstufe erhöht sich auch das Grundlevel eines jeden Skills. Sollte dieses höher sein als das geskillte Level des Skills wird für die Berechnung sttatdessen das Grundlevel herangezogen.
+-   Das Fähigkeiten-Grundlevel: mit jeder Kernstufe erhöht sich auch das Grundlevel einer jeden Fähigkeit. Sollte dieses höher sein als das verbesserte Level der Fähigkeit, wird für die Berechnung stattdessen das Grundlevel herangezogen.
 
--   Skilllevel, durch die Verwendung von Essenzen (unabhängig von der Stufe des Kerns) können einzelne Skills aufgelevelt werden.
+-   Fähigkeitslevel: durch die Verwendung von Essenzen, unabhängig von der Stufe des Kerns, können einzelne Fähigkeiten verbessert werden.
 
 *Grundpreis des Kerns: 5.000 Reiks*
 
@@ -534,85 +544,91 @@ Der Konstruktkern stellt sowohl das Herz als auch das Hirn eines jeden Konstrukt
 | 41-45     | 7                         | 140                    |
 | 46-50     | 8                         | 180                    |
 
-Skill Level erhöhen nach Herstellung:
+Fähigkeitenlevel erhöhen nach Herstellung:
 
-| Skilllevel | Preis je Level | Gesamtpreis (Essenzen) |
-|------------|----------------|------------------------|
-| 0-20       | 1              | 20                     |
-| 21-40      | 2              | 60                     |
-| 41-60      | 3              | 120                    |
-| 61-80      | 4              | 200                    |
-| 81-100     | 5              | 300                    |
+| Fähigkeitenlevel | Preis je Level | Gesamtpreis (Essenzen) |
+|------------------|----------------|------------------------|
+| 0-20             | 1              | 20                     |
+| 21-40            | 2              | 60                     |
+| 41-60            | 3              | 120                    |
+| 61-80            | 4              | 200                    |
+| 81-100           | 5              | 300                    |
 
-*Essenzen können beim Kauf des Kerns direkt erworben werden für einen Preis von 500 Reiks pro Essenz.*
+*Essenzen können beim Kauf des Kerns für einen Preis von 500 Reiks pro Essenz direkt erworben werden.*
 
-Jeder Kern kommt mit passenden Resonazkreis, entweder als Schmuckstück der Wahl oder als Tattoo für einen Aufpreis von 3.000 Reiks.
+Jeder Kern kommt mit passendem Ressonanzkreis, entweder als Schmuckstück der Wahl oder als Tattoo für einen Aufpreis von 3.000 Reiks. XXXXCrossreferenz Ressonanzlore (kontrolle)
 
-#### Corpus
+Das Schmuckstück muss stehts am Körpergetragen werden um das Konstrukt zu befehligen, jedoch liegt es in der Natur der Sache das diese ein Strahlen in den Augen von gewieften Dieben auslösen. Dafür sind sie jedoch übertragbar.
 
-Der Corpus bestimmt folgende Eigenschaften eines Konstrukts.
+Das Tattoo hingegen ist weder vererbar noch kann es gestohlen werden.
 
--   Größe: Klein, Mittel Groß
+Die Auswahl der beiden möglichkeiten erfolgt bei der Kauf des Kerns.
 
--   Attributhöhe: je höher die Stufe desto mehr Attribute können auf Str, Agi, Phys verteilt werden
+#### Korpus
 
--   Rüstungswert 20/ 26/ 29/ 32 pro Teil im Durchschnitt In Prozent des Gesamt aufteilt: Kern 5%, Kernabdeckung 20% Arme 20%, Gürtel 35%, Beine 20%
+Der Korpus bestimmt folgende Eigenschaften eines Konstrukts.
+
+-   Größe: Klein, Mittel, Groß
+
+-   Attributhöhe: je höher die Stufe, desto mehr Attribute können auf Särke, Agilität und Physis verteilt werden
+
+-   Rüstungswert 20/ 26/ 29/ 32 pro Teil im Durchschnitt in Prozent des Gesamt aufteilt: Kern 5%, Kernabdeckung 20% Arme 20%, Gürtel 35%, Beine 20%
 
 -   Grundtragekapazität
 
--   Skill Maximum: die Eigenschaft Utility reduziert den Preis um den Faktor 0,25 jedoch wird das Skilllevel auf 50 limitiert
+-   Fähigkeitsmaximum: die Eigenschaft Utility reduziert den Preis um den Faktor 0,25 jedoch wird das Skilllevel auf 50 limitiert xxxCrossreferenz XXXX
 
-+------------+------------+------------+---------------+---------------+
-|            | Armor      | Attribute  | Preis (Reiks) | Utility Preis |
-+============+============+============+===============+===============+
-| Tier 1\    | 100        | 10         | 10.000        | 7500          |
-| klein      |            |            |               |               |
-+------------+------------+------------+---------------+---------------+
-| Tier 2\    | 130        | 15         | 30.000        | 22500         |
-| klein      |            |            |               |               |
-+------------+------------+------------+---------------+---------------+
-| Tier 3\    | 145        | 20         | 60.000        | 45.000        |
-| klein      |            |            |               |               |
-+------------+------------+------------+---------------+---------------+
-| Tier 4\    | 160        | 25         | 120.000       | 90.000        |
-| klein      |            |            |               |               |
-+------------+------------+------------+---------------+---------------+
-| Tier 1\    | 100        | 20         | 20.000        | 15.000        |
-| mittel     |            |            |               |               |
-+------------+------------+------------+---------------+---------------+
-| Tier 2\    | 130        | 30         | 60.000        | 45.000        |
-| mittel     |            |            |               |               |
-+------------+------------+------------+---------------+---------------+
-| Tier 3\    | 145        | 40         | 120.000       | 90.000        |
-| mittel     |            |            |               |               |
-+------------+------------+------------+---------------+---------------+
-| Tier 4\    | 160        | 50         | 240.000       | 180.000       |
-| mittel     |            |            |               |               |
-+------------+------------+------------+---------------+---------------+
-| Tier 1\    | 130        | 30         | 30.000        | 22.500        |
-| groß       |            |            |               |               |
-+------------+------------+------------+---------------+---------------+
-| Tier 2\    | 169        | 45         | 90.000        | 67.500        |
-| groß       |            |            |               |               |
-+------------+------------+------------+---------------+---------------+
-| Tier 3\    | 189        | 60         | 180.000       | 135.000       |
-| groß       |            |            |               |               |
-+------------+------------+------------+---------------+---------------+
-| Tier 4\    | 208        | 75         | 360.000       | 270.000       |
-| groß       |            |            |               |               |
-+------------+------------+------------+---------------+---------------+
++------------+------------+--------------+------------------+------------------+
+|            | Rüstung    | \| Attribute | \| Preis (Reiks) | \| Utility Preis |
++============+============+==============+==================+==================+
+| Tier 1\    | 100        | 10           | 10.000           | 7500             |
+| klein      |            |              |                  |                  |
++------------+------------+--------------+------------------+------------------+
+| Tier 2\    | 130        | 15           | 30.000           | 22500            |
+| klein      |            |              |                  |                  |
++------------+------------+--------------+------------------+------------------+
+| Tier 3\    | 145        | 20           | 60.000           | 45.000           |
+| klein      |            |              |                  |                  |
++------------+------------+--------------+------------------+------------------+
+| Tier 4\    | 160        | 25           | 120.000          | 90.000           |
+| klein      |            |              |                  |                  |
++------------+------------+--------------+------------------+------------------+
+| Tier 1\    | 100        | 20           | 20.000           | 15.000           |
+| mittel     |            |              |                  |                  |
++------------+------------+--------------+------------------+------------------+
+| Tier 2\    | 130        | 30           | 60.000           | 45.000           |
+| mittel     |            |              |                  |                  |
++------------+------------+--------------+------------------+------------------+
+| Tier 3\    | 145        | 40           | 120.000          | 90.000           |
+| mittel     |            |              |                  |                  |
++------------+------------+--------------+------------------+------------------+
+| Tier 4\    | 160        | 50           | 240.000          | 180.000          |
+| mittel     |            |              |                  |                  |
++------------+------------+--------------+------------------+------------------+
+| Tier 1\    | 130        | 30           | 30.000           | 22.500           |
+| groß       |            |              |                  |                  |
++------------+------------+--------------+------------------+------------------+
+| Tier 2\    | 169        | 45           | 90.000           | 67.500           |
+| groß       |            |              |                  |                  |
++------------+------------+--------------+------------------+------------------+
+| Tier 3\    | 189        | 60           | 180.000          | 135.000          |
+| groß       |            |              |                  |                  |
++------------+------------+--------------+------------------+------------------+
+| Tier 4\    | 208        | 75           | 360.000          | 270.000          |
+| groß       |            |              |                  |                  |
++------------+------------+--------------+------------------+------------------+
 
-Alternativ zum Kauf ist es möglich mit dem richtigen Handwerklichengeschick ein Konstrukt selbst zu bauen. Hierfür sind Konstruktteile, diese bestehen aus je zwei Material des passenden Materials, es wird 1 Konstruktteil pro größe benötigt.
+Alternativ zum Kauf ist es möglich, mit dem richtigen handwerklichen Geschick, ein Konstrukt selbst zu bauen. Hierfür sind Konstruktteile, diese bestehen aus je zwei Material des passenden Materials, benötigt. Es wird 1 Konstruktteil pro Größe verbraucht.
 
 ##### Attribute
 
-Jedes Attribut startet Standartmäßig auf 1 und kann durch den Corpus oder durch Addons erhöht werden. Addons sind jedoch auf Stärke, Agilität und Physis beschränkt. Mit dem aufsteigen des Konstruktkernlevels erhöht sich außerdem der Wert von Instinkt und Intelligenz.
+Jedes Attribut startet standardmäßig auf 1 und kann durch den Korpus oder durch [Addons](#KonstruktAddons) erhöht werden. Addons sind jedoch auf Stärke, Agilität und Physis beschränkt. Mit dem Aufsteigen des Konstruktkernlevels erhöht sich außerdem der Wert von Instinkt und Intelligenz.
 
 #### Batterie
 
-Der Preis einer Batterie erhöht sich mit der Anzahl der Ladungen und kann nach dem Kauf nicht weiter erhöht werden, jedoch können Batterien gebraucht verkauft werden, wenn ein Upgrade gewünscht ist.
+Der Preis einer Batterie erhöht sich mit der Anzahl der Ladungen und kann nach dem Kauf nicht weiter erhöht werden. Batterien können jedoch gebraucht verkauft werden, wenn ein Upgrade gewünscht ist.
 
-Außerdem können während der Session Essenzen genutzt werden um die Batterie neu zu befüllen. (siehe Batterie in Session Aufladen)
+Außerdem können während der Session Essenzen genutzt werden, um die Batterie neu zu befüllen. CROSSREFERENCE (siehe Batterie in Session Aufladen)
 
 *Grundpreis: 1.000*
 
@@ -636,7 +652,7 @@ Außerdem können während der Session Essenzen genutzt werden um die Batterie n
 
 #### Erweiterungen: Addons / Waffen / Upgrades
 
-Ein Konstrukt kann bis zu 5 erweiterungen gleichzeitig ausrüsten.
+Ein Konstrukt kann bis zu 5 Erweiterungen gleichzeitig ausrüsten.
 
 Diese können entweder Käuflich erworben werden oder sogar selbst hergestellt werden.
 
@@ -653,31 +669,31 @@ Upgrades erhöhen die Attribute eines Konstrukts solange diese ausgerüstet sind
 
 ##### Konstrukt Waffen:
 
-Ein Konstrukt kann das vollständige Waffenarsenal von PCs verweden, und zusätzlich noch einige weitere besondere Waffen wie den Kampfbohrer und den Flammenwerfer.
+Ein Konstrukt kann das vollständige Waffenarsenal verwenden, auf das auch Spieler zugreifen können. Zusätzlich noch einige weitere besondere Waffen, wie den Kampfbohrer und den Flammenwerfer.
 
-##### Addons:
+##### Addons: {#KonstruktAddons}
 
--   Transport : erhöht die Belastungsgrenze von Konstrukten für Transportgewicht
+-   Transport: erhöht die Belastungsgrenze von Konstrukten für Transportgewicht
 
--   Panzermodus: 100% Block Chance; Tiers erhöhen den Schildblockwert; deaktiviert Angriffs funktion
+-   Panzermodus: 100% Block-Chance; Tiers erhöhen den Schildblockwert; deaktiviert Angriffsfunktion
 
--   Wachmodus = Standartmäßig vorhanden benötigt dennoch einen Erweiterungsslot, läuft über Perception
+-   Wachmodus: standardmäßig vorhanden, benötigt dennoch einen Erweiterungsslot, läuft über Perception
 
--   Schützenplatz: Zur bedienung der Montierten Attelerie
+-   Schützenplatz: zur Bedienung der montierten Artillerie
 
--   Pilotensitz: ermöglicht den Vehicel Check mit halben Schwierigkeitsgrad, und das Reiten auf dem Konstrukt, kleine Rassen können bereits auf mittleren Konstrukten reiten, normale Rassen benötigen große Konstrukte
+-   Pilotensitz: ermöglicht den Vehikel- Check mit halbem Schwierigkeitsgrad und das Reiten auf dem Konstrukt. Kleine Rassen können bereits auf mittleren Konstrukten reiten, normal-große Rassen benötigen große Konstrukte
 
--   Verbaute Attilerie (nur durch Schützenplatz nutzbar) (Tier abhängig wie groß montierbare Waffe) (einklappbar)
+-   Verbaute Artillerie (nur durch Schützenplatz nutzbar) (Tier abhängig wie groß montierbare Waffe) (einklappbar)
 
--   Attelerienachlader: automatisch Nachladen 1 mal pro Runde der Attelerie
+-   Artillerienachlader: automatisches nachladen 1 mal pro Runde der Artillerie
 
--   Deckungsmodul
+-   Deckungsmodul: Das Konstrukt verwandelt sich in eine passive Barrikade hinter der Personen in Deckung gehen können.
 
 -   Bolawerfer: Wirft Bolas
 
 -   Werfer: Seil oder Rauch
 
--   Überladungsblendmodul: Funktioniert wie Licht des Allgotts, benötigt jedoch 5 Ladungen für Anwendungen und kann nur einmal pro Kampf eingesetzt werden
+-   Überladungsblendmodul: funktioniert wie Licht des Allgotts, benötigt jedoch 5 Ladungen für Anwendungen und kann nur einmal pro Kampf eingesetzt werden
 
 +-------------+----------------+----------------+----------------+----------------+
 | Addons      | Stufe 1        | Stufe 2        | Stufe 3        | Stufe 4        |
@@ -691,11 +707,11 @@ Ein Konstrukt kann das vollständige Waffenarsenal von PCs verweden, und zusätz
 
 ### Beispiel Konstrukt Erstellung
 
-Als Beispiel wird ein Mittleres Konstrukt erstellt das als Frontkämpfer die Gruppe erweitern soll.
+Als Beispiel wird ein mittleres Konstrukt erstellt, das als Frontkämpfer die Gruppe erweitern soll.
 
 Kern: Grundpreis 5000R+ 10 Essenzen für Kernstufe ... = Kernstufe 10
 
-Corpus: Mittel, Utility, T1 15.000R= 20 Attribute, 100 Armor
+Korpus: Mittel, Utility, T1 15.000R= 20 Attribute, 100 Armor
 
 Batterie: 10 Ladungen 8500R
 
