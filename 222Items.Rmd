@@ -4,13 +4,19 @@ Bei der Kalkulation von Waffen und Ausrüstung ist es wichtig sich den richtigen
 
 Diese Tabelle ist eine Übersicht über die Werte zum rechnen über die verschiedenen Tiers hinweg:
 
-|  Tier   | Standartwert | Fernkampfwert | Großwaffenwert | Standartpreis | Zustand |
-|:-------:|:------------:|:-------------:|:--------------:|:-------------:|:-------:|
-| Stufe 1 |      30      |      23       |       40       |     5000      |    7    |
-| Stufe 2 |      42      |      35       |       52       |     15000     |   10    |
-| Stufe 3 |      48      |      41       |       58       |     30000     |   14    |
-| Stufe 4 |      53      |      46       |       63       |     60000     |   20    |
-| Stufe 5 |      --      |      --       |       --       |      \-       |   --    |
++----------+--------------+---------------+----------------+---------------+----------+
+| Tier     | Standartwert | Fernkampfwert | Großwaffenwert | Standartpreis | Zustand  |
++:========:+:============:+:=============:+:==============:+:=============:+:========:+
+| Stufe 1  | 30           | 23            | 40             | 5000          | 7        |
++----------+--------------+---------------+----------------+---------------+----------+
+| Stufe 2  | 42           | 35            | 52             | 15000         | 10       |
++----------+--------------+---------------+----------------+---------------+----------+
+| Stufe 3  | 48           | 41            | 58             | 30000         | 14       |
++----------+--------------+---------------+----------------+---------------+----------+
+| Stufe 4  | 53           | 46            | 63             | 60000         | 20       |
++----------+--------------+---------------+----------------+---------------+----------+
+| Stufe 5  | --           | --            | --             | \-            | --       |
++----------+--------------+---------------+----------------+---------------+----------+
 
 Beim Auswählen der richtigen Rüstung und Waffen ist es sinnvoll, die die <font color="green">[Modifikatoren durch Überladung](#Belastungsstufe)</font> zu kennen, damit man nicht am Ende vollständig überladen in die Schlacht zieht.
 
@@ -52,12 +58,17 @@ Das wichtigste bei der Berechnung der Werte von Fernwaffen ist, dass man mit dem
 
 Dies sind die Fernkampfwaffen, die einem als Abenteurer zur Auswahl stehen:
 
-|        Waffe        |       Schaden       |        Preis         | Gewicht | Armor Penetration |                             Zusatz                              |
-|:-------------------:|:-------------------:|:--------------------:|:-------:|:-----------------:|:---------------------------------------------------------------:|
-|        Bogen        |    Fernkampfwert    |    Standartpreis     |  1 kg   |       nein        |                              nein                               |
-|      Armbrust       | Fernkampfwert x 1.5 |    Standartpreis     |  2 kg   |       nein        |     Sneak Advantage 4, Nachladen mit 50% wsl Single action      |
-| Einhändige Armbrust |    Fernkampfwert    | Standartpreis x 0.85 |  1 kg   |       nein        |     Sneak Advantage 4, Nachladen mit 50% wsl Single action      |
-|       Muskete       |  Fernkampfwert x 3  | Standartpreis x 2.5  |  5 kg   |        90%        | Sneak Advantage 4, 1 Runde nachladen <br> negiert Deckung Tier1 |
++---------------------+---------------------+----------------------+---------+-------------------+-----------------------------------------------------------------+
+| Waffe               | Schaden             | Preis                | Gewicht | Armor Penetration | Zusatz                                                          |
++:===================:+:===================:+:====================:+:=======:+:=================:+:===============================================================:+
+| Bogen               | Fernkampfwert       | Standartpreis        | 1 kg    | nein              | nein                                                            |
++---------------------+---------------------+----------------------+---------+-------------------+-----------------------------------------------------------------+
+| Armbrust            | Fernkampfwert x 1.5 | Standartpreis        | 2 kg    | nein              | Sneak Advantage 4, Nachladen mit 50% wsl Single action          |
++---------------------+---------------------+----------------------+---------+-------------------+-----------------------------------------------------------------+
+| Einhändige Armbrust | Fernkampfwert       | Standartpreis x 0.85 | 1 kg    | nein              | Sneak Advantage 4, Nachladen mit 50% wsl Single action          |
++---------------------+---------------------+----------------------+---------+-------------------+-----------------------------------------------------------------+
+| Muskete             | Fernkampfwert x 3   | Standartpreis x 2.5  | 5 kg    | 90%               | Sneak Advantage 4, 1 Runde nachladen <br> negiert Deckung Tier1 |
++---------------------+---------------------+----------------------+---------+-------------------+-----------------------------------------------------------------+
 
 Besonderheiten:
 
@@ -75,16 +86,25 @@ Damit ein Giftpfeil seine Wirkung entfalten kann, muss er zuerst die Panzerung d
 
 <small>
 
-|       Name       |   Kosten<br>bei Kauf   | Value für <br> Herstellung |           Materialien            | Anzahl Pfeile<br>bei Herstellung |                          Wirkung                           |
-|:----------------:|:----------------------:|:--------------------------:|:--------------------------------:|:--------------------------------:|:----------------------------------------------------------:|
-|   Botkinpfeil    | 225 Reiks<br>pro Pfeil |        2,3 Handwerk        |        Material<br>Tier 1        |            10 Pfeile             |                 40% Armor <br> Penetration                 |
-|  Stumpfer Pfeil  | 100 Reiks<br>pro Pfeil |        1,5 Handwerk        |        Material<br>Tier 1        |            22 Pfeile             |        80% Betäubungschance <br> Verringert Schaden        |
-|  Scharfer Pfeil  | 150 Reiks<br>pro Pfeil |         2 Handwerk         |        Material<br>Tier 1        |            15 Pfeile             |                 50% Chance <br> auf Bluten                 |
-| Brandkapselpfeil | 40 Reiks<br>pro Pfeil  |         1 Alchemie         | Pflanze mit<br>Molotovikawirkung |            13 Pfeile             |                30% Chance <br> auf Brennen                 |
-| Giftpfeil Tier 1 | 30 Reiks<br>pro Pfeil  |         1 Alchemie         |         Gift <br>Tier 1          |             9 Pfeile             | 50% Chance auf<br>Gifteffekt Tier 1<br>höchste Ladungszahl |
-| Giftpfeil Tier 2 | 70 Reiks<br>pro Pfeil  |        1,5 Alchemie        |         Gift <br>Tier 2          |             9 Pfeile             | 50% Chance auf<br>Gifteffekt Tier 2<br>höchste Ladungszahl |
-| Giftpfeil Tier 3 | 150 Reiks<br>pro Pfeil |         2 Alchemie         |         Gift <br>Tier 3          |             9 Pfeile             | 50% Chance auf<br>Gifteffekt Tier 3<br>höchste Ladungszahl |
-| Giftpfeil Tier 4 | 220 Reiks<br>pro Pfeil |        2,3 Alchemie        |         Gift <br>Tier 4          |             9 Pfeile             | 50% Chance auf<br>Gifteffekt Tier 4<br>höchste Ladungszahl |
++------------------+------------------------+----------------------------+----------------------------------+----------------------------------+------------------------------------------------------------+
+| Name             | Kosten<br>bei Kauf     | Value für <br> Herstellung | Materialien                      | Anzahl Pfeile<br>bei Herstellung | Wirkung                                                    |
++:================:+:======================:+:==========================:+:================================:+:================================:+:==========================================================:+
+| Botkinpfeil      | 225 Reiks<br>pro Pfeil | 2,3 Handwerk               | Material<br>Tier 1               | 10 Pfeile                        | 40% Armor <br> Penetration                                 |
++------------------+------------------------+----------------------------+----------------------------------+----------------------------------+------------------------------------------------------------+
+| Stumpfer Pfeil   | 100 Reiks<br>pro Pfeil | 1,5 Handwerk               | Material<br>Tier 1               | 22 Pfeile                        | 80% Betäubungschance <br> Verringert Schaden               |
++------------------+------------------------+----------------------------+----------------------------------+----------------------------------+------------------------------------------------------------+
+| Scharfer Pfeil   | 150 Reiks<br>pro Pfeil | 2 Handwerk                 | Material<br>Tier 1               | 15 Pfeile                        | 50% Chance <br> auf Bluten                                 |
++------------------+------------------------+----------------------------+----------------------------------+----------------------------------+------------------------------------------------------------+
+| Brandkapselpfeil | 40 Reiks<br>pro Pfeil  | 1 Alchemie                 | Pflanze mit<br>Molotovikawirkung | 13 Pfeile                        | 30% Chance <br> auf Brennen                                |
++------------------+------------------------+----------------------------+----------------------------------+----------------------------------+------------------------------------------------------------+
+| Giftpfeil Tier 1 | 30 Reiks<br>pro Pfeil  | 1 Alchemie                 | Gift <br>Tier 1                  | 9 Pfeile                         | 50% Chance auf<br>Gifteffekt Tier 1<br>höchste Ladungszahl |
++------------------+------------------------+----------------------------+----------------------------------+----------------------------------+------------------------------------------------------------+
+| Giftpfeil Tier 2 | 70 Reiks<br>pro Pfeil  | 1,5 Alchemie               | Gift <br>Tier 2                  | 9 Pfeile                         | 50% Chance auf<br>Gifteffekt Tier 2<br>höchste Ladungszahl |
++------------------+------------------------+----------------------------+----------------------------------+----------------------------------+------------------------------------------------------------+
+| Giftpfeil Tier 3 | 150 Reiks<br>pro Pfeil | 2 Alchemie                 | Gift <br>Tier 3                  | 9 Pfeile                         | 50% Chance auf<br>Gifteffekt Tier 3<br>höchste Ladungszahl |
++------------------+------------------------+----------------------------+----------------------------------+----------------------------------+------------------------------------------------------------+
+| Giftpfeil Tier 4 | 220 Reiks<br>pro Pfeil | 2,3 Alchemie               | Gift <br>Tier 4                  | 9 Pfeile                         | 50% Chance auf<br>Gifteffekt Tier 4<br>höchste Ladungszahl |
++------------------+------------------------+----------------------------+----------------------------------+----------------------------------+------------------------------------------------------------+
 
 </small>
 
@@ -96,13 +116,19 @@ Folgende Kurzwaffen gibt es zur Auswahl:
 
 Kampfrelevante Informationen:
 
-|    Waffe     |      Schaden       | Armor Penetration | Parierfaktor | Wurfwert |             Zusatz             |
-|:------------:|:------------------:|:-----------------:|:------------:|:--------:|:------------------------------:|
-|   Schwert    |    Standartwert    |       nein        |     0.4      |   0,2    |              nein              |
-|     Axt      | Standartwert x 0.8 |        30%        |     0.3      |   0,7    |              nein              |
-| Streitkolben | Standartwert x 0.7 |        70%        |     0.15     |   0,3    |      30% Betäubungschance      |
-|    Dolch     | Standartwert x 0.5 |       100%        |     0.4      |   0,5    | AP nur wenn Ziel Immobilisiert |
-|   Knüppel    | Standartwert x 0.6 |        40%        |     0.15     |   0,3    |      80% Betäubungschance      |
++--------------+--------------------+-------------------+--------------+----------+--------------------------------+
+| Waffe        | Schaden            | Armor Penetration | Parierfaktor | Wurfwert | Zusatz                         |
++:============:+:==================:+:=================:+:============:+:========:+:==============================:+
+| Schwert      | Standartwert       | nein              | 0.4          | 0,2      | nein                           |
++--------------+--------------------+-------------------+--------------+----------+--------------------------------+
+| Axt          | Standartwert x 0.8 | 30%               | 0.3          | 0,7      | nein                           |
++--------------+--------------------+-------------------+--------------+----------+--------------------------------+
+| Streitkolben | Standartwert x 0.7 | 70%               | 0.15         | 0,3      | 30% Betäubungschance           |
++--------------+--------------------+-------------------+--------------+----------+--------------------------------+
+| Dolch        | Standartwert x 0.5 | 100%              | 0.4          | 0,5      | AP nur wenn Ziel Immobilisiert |
++--------------+--------------------+-------------------+--------------+----------+--------------------------------+
+| Knüppel      | Standartwert x 0.6 | 40%               | 0.15         | 0,3      | 80% Betäubungschance           |
++--------------+--------------------+-------------------+--------------+----------+--------------------------------+
 
 Sonstige Informationen:
 
@@ -124,11 +150,15 @@ Das wichtigste bei der Berechnung der Werte von Großwaffen ist, dass man mit de
 
 Diese Großwaffen sind in Orbis Aestea gebräuchlich:
 
-|    Waffe     |       Schaden        | Armor Penetration | Parierfaktor | Wurfwert |            Zusatz            |
-|:------------:|:--------------------:|:-----------------:|:------------:|:--------:|:----------------------------:|
-| Großschwert  |    Großwaffenwert    |       nein        |     0.4      |   0,2    |             nein             |
-|   Großaxt    | Großwaffenwert x 0.8 |        40%        |     0.3      |   0,3    |             nein             |
-| Kriegshammer | Großwaffenwert x 0.7 |        70%        |     0.1      |   0,3    | 60%<br>Betäubungs-<br>chance |
++--------------+----------------------+-------------------+--------------+----------+------------------------------+
+| Waffe        | Schaden              | Armor Penetration | Parierfaktor | Wurfwert | Zusatz                       |
++:============:+:====================:+:=================:+:============:+:========:+:============================:+
+| Großschwert  | Großwaffenwert       | nein              | 0.4          | 0,2      | nein                         |
++--------------+----------------------+-------------------+--------------+----------+------------------------------+
+| Großaxt      | Großwaffenwert x 0.8 | 40%               | 0.3          | 0,3      | nein                         |
++--------------+----------------------+-------------------+--------------+----------+------------------------------+
+| Kriegshammer | Großwaffenwert x 0.7 | 70%               | 0.1          | 0,3      | 60%<br>Betäubungs-<br>chance |
++--------------+----------------------+-------------------+--------------+----------+------------------------------+
 
 Sonstige Informationen:
 
@@ -146,11 +176,15 @@ Folgende Stangenwaffen sind verfügbar:
 
 <small>
 
-|   Waffe    |      Schaden       |        Preis        | Gewicht | Armor Penetration | Parierfaktor | Wurfwert |
-|:----------:|:------------------:|:-------------------:|:-------:|:-----------------:|:------------:|:--------:|
-|   Speer    | Standartwert x 0.7 | Standartpreis x 0.8 |  3 kg   |        10%        |     0,1      |   1,3    |
-|    Pike    | Standartwertx 0.8  | Standartpreis x 0.6 |  5 kg   |        35%        |     0,2      |   0,7    |
-| Hellebarde |    Standartwert    | Standartpreis x 1.4 |  7 kg   |        25%        |     0,3      |   0,5    |
++------------+--------------------+---------------------+---------+-------------------+--------------+----------+
+| Waffe      | Schaden            | Preis               | Gewicht | Armor Penetration | Parierfaktor | Wurfwert |
++:==========:+:==================:+:===================:+:=======:+:=================:+:============:+:========:+
+| Speer      | Standartwert x 0.7 | Standartpreis x 0.8 | 3 kg    | 10%               | 0,1          | 1,3      |
++------------+--------------------+---------------------+---------+-------------------+--------------+----------+
+| Pike       | Standartwertx 0.8  | Standartpreis x 0.6 | 5 kg    | 35%               | 0,2          | 0,7      |
++------------+--------------------+---------------------+---------+-------------------+--------------+----------+
+| Hellebarde | Standartwert       | Standartpreis x 1.4 | 7 kg    | 25%               | 0,3          | 0,5      |
++------------+--------------------+---------------------+---------+-------------------+--------------+----------+
 
 </small>
 
@@ -169,29 +203,47 @@ Folgende Wurfwaffen sind verfügbar:
 
 Kampfrelevante Informationen:
 
-|    Waffe     | Schaden | Armor Penetration | Parier-<br>faktor | Interrupt<br>Chance |          Zusatz          |
-|:------------:|:-------:|:-----------------:|:-----------------:|:-------------------:|:------------------------:|
-|     Bola     |    1    |       Nein        |         0         |        100%         |                          |
-| Schwere Bola |    1    |       Nein        |         0         |        100%         |                          |
-|  Wurfmesser  |    8    |        30%        |        0,2        |         15%         |                          |
-|   Wurfaxt    |   17    |        40%        |        0,3        |         35%         |                          |
-|    Pilum     |   22    |        70%        |        0,2        |         30%         |                          |
-|   Handsand   |    1    |       Nein        |         0         |         70%         |                          |
-|    Stein     |    3    |       Nein        |         0         |         10%         | 40% <br>Betäubungschance |
-|  Schleuder   |   10    |       nein        |         0         |         15%         | 40% <br>Betäubungschance |
++--------------+----------+-------------------+-------------------+---------------------+--------------------------+
+| Waffe        | Schaden  | Armor Penetration | Parier-<br>faktor | Interrupt<br>Chance | Zusatz                   |
++:============:+:========:+:=================:+:=================:+:===================:+:========================:+
+| Bola         | 1        | Nein              | 0                 | 100%                |                          |
++--------------+----------+-------------------+-------------------+---------------------+--------------------------+
+| Schwere Bola | 1        | Nein              | 0                 | 100%                |                          |
++--------------+----------+-------------------+-------------------+---------------------+--------------------------+
+| Wurfmesser   | 8        | 30%               | 0,2               | 15%                 |                          |
++--------------+----------+-------------------+-------------------+---------------------+--------------------------+
+| Wurfaxt      | 17       | 40%               | 0,3               | 35%                 |                          |
++--------------+----------+-------------------+-------------------+---------------------+--------------------------+
+| Pilum        | 22       | 70%               | 0,2               | 30%                 |                          |
++--------------+----------+-------------------+-------------------+---------------------+--------------------------+
+| Handsand     | 1        | Nein              | 0                 | 70%                 |                          |
++--------------+----------+-------------------+-------------------+---------------------+--------------------------+
+| Stein        | 3        | Nein              | 0                 | 10%                 | 40% <br>Betäubungschance |
++--------------+----------+-------------------+-------------------+---------------------+--------------------------+
+| Schleuder    | 10       | nein              | 0                 | 15%                 | 40% <br>Betäubungschance |
++--------------+----------+-------------------+-------------------+---------------------+--------------------------+
 
 Sonstige Informationen:
 
-|    Waffe     | Preis | Gewicht | Zerstörungs<br>Chance | Anzahl<br>im<br>Holster |
-|:------------:|:-----:|:-------:|:---------------------:|:-----------------------:|
-|     Bola     |  300  | 0,5 kg  |         100%          |            1            |
-| Schwere Bola | 2000  |  2 kg   |          30%          |            1            |
-|  Wurfmesser  |  500  |  3 kg   |          30%          |            5            |
-|   Wurfaxt    | 1000  | 0.5 kg  |          10%          |            2            |
-|    Pilum     | 1500  |  1 kg   |          40%          |            1            |
-|   Handsand   |   0   |    0    |         100%          |           20            |
-|    Stein     |   0   |    0    |         100%          |            0            |
-|  Schleuder   | 3500  | 0.5 kg  |          0%           |       unbegrenzt        |
++--------------+-----------+-----------+-----------------------+-------------------------+
+| Waffe        | Preis     | Gewicht   | Zerstörungs<br>Chance | Anzahl<br>im<br>Holster |
++:============:+:=========:+:=========:+:=====================:+:=======================:+
+| Bola         | 300       | 0,5 kg    | 100%                  | 1                       |
++--------------+-----------+-----------+-----------------------+-------------------------+
+| Schwere Bola | 2000      | 2 kg      | 30%                   | 1                       |
++--------------+-----------+-----------+-----------------------+-------------------------+
+| Wurfmesser   | 500       | 3 kg      | 30%                   | 5                       |
++--------------+-----------+-----------+-----------------------+-------------------------+
+| Wurfaxt      | 1000      | 0.5 kg    | 10%                   | 2                       |
++--------------+-----------+-----------+-----------------------+-------------------------+
+| Pilum        | 1500      | 1 kg      | 40%                   | 1                       |
++--------------+-----------+-----------+-----------------------+-------------------------+
+| Handsand     | 0         | 0         | 100%                  | 20                      |
++--------------+-----------+-----------+-----------------------+-------------------------+
+| Stein        | 0         | 0         | 100%                  | 0                       |
++--------------+-----------+-----------+-----------------------+-------------------------+
+| Schleuder    | 3500      | 0.5 kg    | 0%                    | unbegrenzt              |
++--------------+-----------+-----------+-----------------------+-------------------------+
 
 Alle Wurfwaffen haben einen Wurfwert 2,5.
 
@@ -205,20 +257,29 @@ Faustwaffen sind dahingehend besonders, dass sie über den Skill "unbewaffnet" l
 
 Kampfrelevante Informationen:
 
-|     Waffe     |      Schaden       | Armor Penetration | Parierfaktor | Betäubungs-<br>chance |
-|:-------------:|:------------------:|:-----------------:|:------------:|:---------------------:|
-|     Faust     |         5          |       nein        |      1       |          50%          |
-|  Schlagring   | Standartwert x 0.5 |        30%        |     0,6      |          75%          |
-|  Faustmesser  | Standartwert x 0.6 |        70%        |     0,1      |          0%           |
-| Metallkrallen | Standartwert x 0.8 |        80%        |     0,6      |          0%           |
++---------------+--------------------+-------------------+--------------+-----------------------+
+| Waffe         | Schaden            | Armor Penetration | Parierfaktor | Betäubungs-<br>chance |
++:=============:+:==================:+:=================:+:============:+:=====================:+
+| Faust         | 5                  | nein              | 1            | 50%                   |
++---------------+--------------------+-------------------+--------------+-----------------------+
+| Schlagring    | Standartwert x 0.5 | 30%               | 0,6          | 75%                   |
++---------------+--------------------+-------------------+--------------+-----------------------+
+| Faustmesser   | Standartwert x 0.6 | 70%               | 0,1          | 0%                    |
++---------------+--------------------+-------------------+--------------+-----------------------+
+| Metallkrallen | Standartwert x 0.8 | 80%               | 0,6          | 0%                    |
++---------------+--------------------+-------------------+--------------+-----------------------+
 
 Sonstige Informationen:
 
-|     Waffe     |        Preis        | Gewicht | Versteck<br>chance |  Zusatz  |
-|:-------------:|:-------------------:|:-------:|:------------------:|:--------:|
-|  Schlagring   | Standartpreis x 0.4 | 0,2 kg  |        90%         |          |
-|  Faustmesser  | Standartpreis x 0.8 | 0,5 kg  |        70%         | Attentat |
-| Metallkrallen |    Standartpreis    |  1 kg   |                    |          |
++---------------+---------------------+------------+--------------------+------------+
+| Waffe         | Preis               | Gewicht    | Versteck<br>chance | Zusatz     |
++:=============:+:===================:+:==========:+:==================:+:==========:+
+| Schlagring    | Standartpreis x 0.4 | 0,2 kg     | 90%                |            |
++---------------+---------------------+------------+--------------------+------------+
+| Faustmesser   | Standartpreis x 0.8 | 0,5 kg     | 70%                | Attentat   |
++---------------+---------------------+------------+--------------------+------------+
+| Metallkrallen | Standartpreis       | 1 kg       |                    |            |
++---------------+---------------------+------------+--------------------+------------+
 
 -   Alle Faustwaffen haben einen Wurfwert von 0.1
 
@@ -236,11 +297,15 @@ Die Rüstung darf beliebig aus Teilen leichter, mittlerer und schwerer Rüstung 
 
 Diese Tabelle zeigt Werte für die einzelnen Rüstungsteile:
 
-| Rüstung | Anziehen | Ausziehen | Gewicht |    Armor Rating     | Kosten/Rüstungsteil |
-|:-------:|:--------:|:---------:|:-------:|:-------------------:|:-------------------:|
-| Leicht  |  1 min   |   1 min   | 1.2 kg  | Standartwert x 0.2  | 0.4 x Standartpreis |
-| Mittel  |  5 min   |   1min    |  3 kg   | Standartwert x 0.35 | 0.6 x Standartpreis |
-| Schwer  |  10 min  |   5 min   |  5 kg   | Standartwert x 0.5  | 0.8 x Standartpreis |
++----------+----------+-----------+----------+---------------------+---------------------+
+| Rüstung  | Anziehen | Ausziehen | Gewicht  | Armor Rating        | Kosten/Rüstungsteil |
++:========:+:========:+:=========:+:========:+:===================:+:===================:+
+| Leicht   | 1 min    | 1 min     | 1.2 kg   | Standartwert x 0.2  | 0.4 x Standartpreis |
++----------+----------+-----------+----------+---------------------+---------------------+
+| Mittel   | 5 min    | 1min      | 3 kg     | Standartwert x 0.35 | 0.6 x Standartpreis |
++----------+----------+-----------+----------+---------------------+---------------------+
+| Schwer   | 10 min   | 5 min     | 5 kg     | Standartwert x 0.5  | 0.8 x Standartpreis |
++----------+----------+-----------+----------+---------------------+---------------------+
 
 Achtung: das an- und ausziehen bezieht sich auf eine vollständige Leichte/Mittlere/Schwere Rüstung.
 
@@ -250,11 +315,15 @@ Ein Schild ist die Vorraussetzung für die Aktion <font color="green">["Blocken"
 
 Hier sieht man die verfügbaren Schildtypen:
 
-|     Schild     | Entwaffnungschance |     Schildwert      | Wurfwert | Gewicht |       Kosten        |
-|:--------------:|:------------------:|:-------------------:|:--------:|:-------:|:-------------------:|
-| Kleines Schild |         50         | Standartwert x 0.35 |   0,5    |  1 kg   | 0.4 x Standartpreis |
-|     Schild     |         30         | Standartwert x 0.55 |   0,5    |  3 kg   | 0.6 x Standartpreis |
-|   Turmschild   |         5          | Standartwert x 0.75 |   0,3    |  8 kg   | 0.8 x Standartpreis |
++----------------+--------------------+---------------------+----------+----------+---------------------+
+| Schild         | Entwaffnungschance | Schildwert          | Wurfwert | Gewicht  | Kosten              |
++:==============:+:==================:+:===================:+:========:+:========:+:===================:+
+| Kleines Schild | 50                 | Standartwert x 0.35 | 0,5      | 1 kg     | 0.4 x Standartpreis |
++----------------+--------------------+---------------------+----------+----------+---------------------+
+| Schild         | 30                 | Standartwert x 0.55 | 0,5      | 3 kg     | 0.6 x Standartpreis |
++----------------+--------------------+---------------------+----------+----------+---------------------+
+| Turmschild     | 5                  | Standartwert x 0.75 | 0,3      | 8 kg     | 0.8 x Standartpreis |
++----------------+--------------------+---------------------+----------+----------+---------------------+
 
 ## Tranktaschen {#Tranktaschen}
 
@@ -360,31 +429,49 @@ Fallen bieten einen großen Vorteil, jedoch nur wenn sie bis zur Auslösung vom 
 
 Eine typische wiederverwendbare Falle meist für Wild genutzt, zwei gezahnte Metallbacken die bei dem auslösen der Druckplatte zusammenschnappen und ein Beine ihres Opfers einfangen. Dadurch entsteht nicht nur Schaden am Bein, sondern schränkt die Mobilität des Opfers stark ein und erschwert es Angriffe abzuwehren.
 
-|           Merkmal            |                         Ausprägung                         |
-|:----------------------------:|:----------------------------------------------------------:|
-|          zum Bauen           |              Metall, muss geschmiedet werden               |
-|          Interrupt           |                             Ja                             |
-|           Schaden            |               70 Schaden auf zufälliges Bein               |
-|          Befreiung           |                    Single + Main action                    |
-| Disatvantage<br>in der Falle |                       Disatvantage 3                       |
-|        Besonderheiten        | Immobilität, Placement im Kampf (main action wenn zu Hand) |
-|         Entschärfung         |                        main Action                         |
-|           Gewicht            |                            7 Kg                            |
++------------------------------+------------------------------------------------------------+
+| Merkmal                      | Ausprägung                                                 |
++:============================:+:==========================================================:+
+| zum Bauen                    | Metall, muss geschmiedet werden                            |
++------------------------------+------------------------------------------------------------+
+| Interrupt                    | Ja                                                         |
++------------------------------+------------------------------------------------------------+
+| Schaden                      | 70 Schaden auf zufälliges Bein                             |
++------------------------------+------------------------------------------------------------+
+| Befreiung                    | Single + Main action                                       |
++------------------------------+------------------------------------------------------------+
+| Disatvantage<br>in der Falle | Disatvantage 3                                             |
++------------------------------+------------------------------------------------------------+
+| Besonderheiten               | Immobilität, Placement im Kampf (main action wenn zu Hand) |
++------------------------------+------------------------------------------------------------+
+| Entschärfung                 | main Action                                                |
++------------------------------+------------------------------------------------------------+
+| Gewicht                      | 7 Kg                                                       |
++------------------------------+------------------------------------------------------------+
 
 #### Schlingenfalle {.unnumbered}
 
 Eine hinterhältige Falle die wenig Material jedoch viel Zeit zum Aufbau benötigt. Beim Auslösen wird das Opfer nach oben in die Höhe gezogen und baumelt so frei herum. Je schwerer die Rüstung desto schwerer ist es sich aufgrund der geringeren Mobilität zu befreien. Zum Aufbau der Schlingfalle muss man bei einer Handwerk oder Survivalprobe einen Threshold von drei erreichen.
 
-|             Merkmal             |                       Ausprägung                        |
-|:-------------------------------:|:-------------------------------------------------------:|
-| Material benötigt<br> zum Bauen |                   Seil + Gegengewicht                   |
-|            Interrupt            |                           Ja                            |
-|             Schaden             |                          Nein                           |
-|            Befreiung            | Main Action <br>Wurf gegen gewichtsabhängigen Threshold |
-|  Disatvantage<br>in der Falle   |                     Disatvantage 4                      |
-|         Besonderheiten          |                       Immobilität                       |
-|          Entschärfung           |                      Single Action                      |
-|             Gewicht             |                         0.5 Kg                          |
++---------------------------------+---------------------------------------------------------+
+| Merkmal                         | Ausprägung                                              |
++:===============================:+:=======================================================:+
+| Material benötigt<br> zum Bauen | Seil + Gegengewicht                                     |
++---------------------------------+---------------------------------------------------------+
+| Interrupt                       | Ja                                                      |
++---------------------------------+---------------------------------------------------------+
+| Schaden                         | Nein                                                    |
++---------------------------------+---------------------------------------------------------+
+| Befreiung                       | Main Action <br>Wurf gegen gewichtsabhängigen Threshold |
++---------------------------------+---------------------------------------------------------+
+| Disatvantage<br>in der Falle    | Disatvantage 4                                          |
++---------------------------------+---------------------------------------------------------+
+| Besonderheiten                  | Immobilität                                             |
++---------------------------------+---------------------------------------------------------+
+| Entschärfung                    | Single Action                                           |
++---------------------------------+---------------------------------------------------------+
+| Gewicht                         | 0.5 Kg                                                  |
++---------------------------------+---------------------------------------------------------+
 
 Der Check für die Befreiung wird mit Acrobatics geworfen. Zur Einordnung gelten hierbei die <font color="green">[Belastungsstufen](#Belastungsstufe)</font>
 
@@ -402,31 +489,49 @@ Die Thresholds sind:
 
 Die einfachste aller Fallen, ein simples gespanntes Seil in Knöchelhöhe, sei es festgebunden oder mit Nägeln oder anderen Mitteln an zwei Punkten befestigt.
 
-|             Merkmal             |               Ausprägung                |
-|:-------------------------------:|:---------------------------------------:|
-| Material benötigt<br> zum Bauen |                  Seil                   |
-|            Interrupt            |                   Ja                    |
-|             Schaden             |                  Nein                   |
-|            Befreiung            | Unnötig, Aufstehen kostet single Action |
-|  Disatvantage<br>in der Falle   |     Disatvantage 3 bis aufgestanden     |
-|         Besonderheiten          |            Person fällt hin             |
-|          Entschärfung           |              Single Action              |
-|             Gewicht             |                 0.5 Kg                  |
++---------------------------------+-----------------------------------------+
+| Merkmal                         | Ausprägung                              |
++:===============================:+:=======================================:+
+| Material benötigt<br> zum Bauen | Seil                                    |
++---------------------------------+-----------------------------------------+
+| Interrupt                       | Ja                                      |
++---------------------------------+-----------------------------------------+
+| Schaden                         | Nein                                    |
++---------------------------------+-----------------------------------------+
+| Befreiung                       | Unnötig, Aufstehen kostet single Action |
++---------------------------------+-----------------------------------------+
+| Disatvantage<br>in der Falle    | Disatvantage 3 bis aufgestanden         |
++---------------------------------+-----------------------------------------+
+| Besonderheiten                  | Person fällt hin                        |
++---------------------------------+-----------------------------------------+
+| Entschärfung                    | Single Action                           |
++---------------------------------+-----------------------------------------+
+| Gewicht                         | 0.5 Kg                                  |
++---------------------------------+-----------------------------------------+
 
 #### Krähenfüße {.unnumbered}
 
 Die Falle welche am einfachsten im Kampf zu platzieren ist und die einzige die selbst nach ihrer Entdeckung noch Vorteile bietet. Dabei wird der Vorteil mit zunehmender Rüstung geringer.
 
-|             Merkmal             |                                                    Ausprägung                                                     |
-|:-------------------------------:|:-----------------------------------------------------------------------------------------------------------------:|
-| Material benötigt<br> zum Bauen |                                          Metall, muss geschmiedet werden                                          |
-|            Interrupt            |                                             nur bis mittlere Rüstung                                              |
-|             Schaden             |                                               Nein, außer man fällt                                               |
-|            Befreiung            |                                    Entfernung aus dem Fuß kostet single Action                                    |
-|  Disatvantage<br>in der Falle   |                                               Disatvantage 2 - AoE                                                |
-|         Besonderheiten          | Platzieren mit single action jederzeit möglich<br>Schwere Rüstung ignoriert Falle<br> aufsammeln mit Luck möglich |
-|          Entschärfung           |                                                       Nein                                                        |
-|             Gewicht             |                                                       1 Kg                                                        |
++---------------------------------+-------------------------------------------------------------------------------------------------------------------+
+| Merkmal                         | Ausprägung                                                                                                        |
++:===============================:+:=================================================================================================================:+
+| Material benötigt<br> zum Bauen | Metall, muss geschmiedet werden                                                                                   |
++---------------------------------+-------------------------------------------------------------------------------------------------------------------+
+| Interrupt                       | nur bis mittlere Rüstung                                                                                          |
++---------------------------------+-------------------------------------------------------------------------------------------------------------------+
+| Schaden                         | Nein, außer man fällt                                                                                             |
++---------------------------------+-------------------------------------------------------------------------------------------------------------------+
+| Befreiung                       | Entfernung aus dem Fuß kostet single Action                                                                       |
++---------------------------------+-------------------------------------------------------------------------------------------------------------------+
+| Disatvantage<br>in der Falle    | Disatvantage 2 - AoE                                                                                              |
++---------------------------------+-------------------------------------------------------------------------------------------------------------------+
+| Besonderheiten                  | Platzieren mit single action jederzeit möglich<br>Schwere Rüstung ignoriert Falle<br> aufsammeln mit Luck möglich |
++---------------------------------+-------------------------------------------------------------------------------------------------------------------+
+| Entschärfung                    | Nein                                                                                                              |
++---------------------------------+-------------------------------------------------------------------------------------------------------------------+
+| Gewicht                         | 1 Kg                                                                                                              |
++---------------------------------+-------------------------------------------------------------------------------------------------------------------+
 
 #### Alternative Fallen {.unnumbered}
 
@@ -479,16 +584,16 @@ dfag %>% select("Kategorie","Gegenstand","Preis","Gewicht","Händler","Beschreib
 
 Kleinode sind religiöse Gegenstände, die zumeist von Kirchen verkauft werden oder durch Rituale hergestellt werden können. Diese Kleinode können konsumiert werden, was einem für eine Session +1 Glaube zusätzlich gibt. Diese Kleinode können beispielsweise sein:
 
-+---------------------+----------+-----------------------------+
-| Gegenstand          | Religion | Preis                       |
-+:===================:+:========:+:===========================:+
-| Glücksschaufel      | Allgott  | 2000                        |
-+---------------------+----------+-----------------------------+
-| Geheiligter Knochen | Rah Kari | Heiligung alleine: 1500<br> |
-|                     |          |                             |
-|                     |          | Heiligung + Knochen: 2500   |
-+---------------------+----------+-----------------------------+
-| Riddinöl            | Darcy    | 2000                        |
-+---------------------+----------+-----------------------------+
++---------------------+--------------+-----------------------------+
+| Gegenstand          | Religion     | Preis                       |
++:===================:+:============:+:===========================:+
+| Glücksschaufel      | Allgott      | 2000                        |
++---------------------+--------------+-----------------------------+
+| Geheiligter Knochen | Rah Kari     | Heiligung alleine: 1500<br> |
+|                     |              |                             |
+|                     |              | Heiligung + Knochen: 2500   |
++---------------------+--------------+-----------------------------+
+| Riddinöl            | Darcy        | 2000                        |
++---------------------+--------------+-----------------------------+
 
 Ein Kleinod ist nur wirksam, wenn es zur Religion des Charakters passt. Nur eines pro Session kann konsumiert werden.

@@ -802,7 +802,7 @@ Lucksave
 der-kampf
 Initiative
 die-kampfrunde-und-die-kampfaktionen
-für-andere-blocken
+interrupt
 schwerer-angriff
 dual-wielding
 der-schildstoß

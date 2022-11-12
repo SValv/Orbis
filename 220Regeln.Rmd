@@ -151,7 +151,7 @@ Wenn man keine Action mehr hat, kann man mit einer Wahrscheinlichkeit von 60% bl
 
 ![Schematische Übersicht über die Kampfrunde](Pictures/Rules/Attack.png)
 
-#### Für andere Blocken
+#### Für andere Blocken {.unnumbered}
 
 Defensiv Aktionen für andere Personen sind nur ausschließlich mit single action und durch Blocken möglich.
 
@@ -178,6 +178,10 @@ Werte können im Spezialfall auch abweichen
 Sollte der Schadenswert einer Deckung überschritten sein, gilt die Deckung als zerstört und ist damit nicht mehr wirkungsvoll. Angriffe "schlagen" durch.
 
 Deckung kann auch negiert werden. Dies findet entweder durch Artillerie statt, oder durch hinter die Deckung geworfene Explosivstoffe (Hierbei ist der Threshold an die Größe der Deckung und die Umstände anzupassen). Eine weitere Strategie gegen Deckung ist das "ansitzen". Hierbei deklariert ein Angreifer als Main Action eine Deckung und achtet genau auf sie. Dies führt dazu, dass er auf ein beliebiges Ziel, dass hinter der Deckung hervorkommt oder hervorschaut einen Angriff in der gegnerischen Runde ausführen kann, die Verteidigung wird at Disatvantage geworfen. Sollte ein Wesen während dem ansitzen allerdings einen anderen Check werfen müssen wirft es diesen ad Disatvantage und verliert den Fokus auf die Deckung (damit ist das ansitzen beendet). Während man ansitzt kann man nicht mithilfe einer single action eine Abwehraktion (Block,Dodge,Parieren) starten, sondern der Würfel entscheidet.
+
+### Unterbrechen {#interrupt}
+
+Manche Angriffe haben die Möglichkeit ein Ziel zu unterbrechen. Hierbei wird die nächste Runde des Ziels übersprungen.
 
 ### Schwerer Angriff
 
@@ -217,9 +221,9 @@ Dieser Attentatsangriff betrifft vor allem Monster und bestimmte Charaktere zu b
 
 ### Waffen werfen und Wurfwaffen
 
-Jede Waffe kann auch für ein wenig Schaden geworfen werden. Hierbei wird der Schaden der Waffe mit dem Wurfwert multipliziert und als Waffenschaden verwendet. Werfen einer Waffe wird mit der Fähigkeit Werfen geworfen und kann gedodged oder geblockt werden.
+Jede Waffe kann auch für ein wenig Schaden geworfen werden. Hierbei wird der Schaden der Waffe mit dem Wurfwert multipliziert und als Waffenschaden verwendet. Werfen einer Waffe wird mit der Fähigkeit Werfen geworfen und kann ausgewochen oder geblockt werden.
 
-Wurfwaffen funktionieren für gewöhnlich genauso. Im Notfall kann man sie als normale Nahkampfwaffen verwenden, allerdings bringt das kaum etwas. Ansonsten werden Wurfwaffen für eine single Action geworfen. Sie haben eine Chance gegnerische Aktionen zu unterbrechen, sie haben allerdings auch bei jeder Verwendung eine Chance, kaputt zu gehen. Eine [Liste von Wurfwaffen ist hier](#Belastungsstufe) einzusehen.
+Wurfwaffen funktionieren für gewöhnlich genauso. Im Notfall kann man sie als normale Nahkampfwaffen verwenden, allerdings sollte man dies nur im Notfall tun. Ansonsten werden Wurfwaffen für eine single Action geworfen. Sie haben eine Chance gegnerische Aktionen zu [unterbrechen](#interrupt), sie haben allerdings auch bei jeder Verwendung eine Chance, kaputt zu gehen. Eine [Liste von Wurfwaffen ist hier](#Wurfwaffen) einzusehen. Falls man sich die Single Action aufhebt, kann man den Gegner auch in der Aktion unterbrechen.
 
 ### Gezielte Schüsse {#GezielterSchuss}
 
@@ -286,9 +290,15 @@ Bei Reittieren ist es wichtig, dass man einen minimalen Reiten-Wert überschreit
 
 ### Der Unbewaffnete Kampf {#UnbewaffneterKampf}
 
-Der unbewaffnete Kampf hat zwei Anwendungen - den Pugilismus und das Grappling. Pugilismus beschreibt den "herkömmlichen" Kampf mit Fäusten oder Faustwaffen. Man bleibt in Verteidigungsposition, schlägt bedacht zu und macht Schaden. Der Pugilismus läuft wie der normale Kampf - nur eben mit dem Schaden der Faust oder Faustwaffe und mit dem Skill "Unarmed".
+Der unbewaffnete Kampf hat zwei Anwendungen - den Pugilismus und das Grappling. Pugilismus beschreibt den "herkömmlichen" Kampf mit Fäusten oder Faustwaffen. Man bleibt in Verteidigungsposition, schlägt bedacht zu und macht Schaden. Der Pugilismus läuft wie der normale Kampf - nur eben mit dem Schaden der Faust oder Faustwaffe und mit dem Skill "Unbewaffneter Nahkampf". Jeder Schlag hat die Fähigkeit, den Gegner zu [unterbrechen](#interrupt). 
 
-Grapple läuft ebenso wie Pugilismus mit Unarmed - macht allerdings keinen Schaden sondern ist dazu da den Gegner umzuwerfen oder festzuhalten. Beim Grapple wird eine Differenzprobe im Skill unarmed geworfen und der Gewinner bringt den Gegner zu Boden oder hält ihn fest. Will man einen Gegner weiter Festhalten muss jede Runde ein weiterer Unarmed Check geworfen werden, mit Value - 1\*Runde die man den Gegner aktiv am Boden hält. Achtung: Grappling ist risikoreich, da man auch selbst niedergerungen werden kann. Auch andere Gegenmaßnahmen wie Dolche können sehr effektiv sein gegen einen Festhalteversuch.
+Grapple läuft ebenso wie Pugilismus mit der Fähigkeit "unbewaffneter Nahkampf" - macht allerdings keinen Schaden, sondern ist dazu da den Gegner umzuwerfen oder festzuhalten - und ihn anschließend ganz Auszuknocken. Bei erfolgreichem Grapple hält der Angreifer den Verteidiger fest - entweder im stehen oder auf dem Boden. Weder der Angreifer noch der Verteidiger sind während einem Grapple fähig, [Abwehraktionen](#BlockenAusweichen) einzusetzen. 
+Während der Angreifer den Verteidiger grappelt, kann er einmal pro Runde einen unbewaffneten Angriff auf den Verteidiger starten, ohne dass dieser eine Abwehraktion hat. Der Verteidiger kann jede Runde versuchen sich aus dem Grapple zu befreien, dazu muss er einen Grapple-Check gegen den Angreifer gewinnen - danach ist der Grapplevorgang automatisch beendet. Sollte eine Person sich mehr als drei Runden im Grapple befinden, wird sie [ohnmächtig](#Ohnmacht).
+Versucht ein Charakter einen anderen zu Grapplen, kann dieser entweder mit der [single action oder der Passivchance ausweichen](#BlockenAusweichen), oder sich auf das Handgemenge einlassen.
+
+Achtung: Grappling ist risikoreich, da man wenn es schlecht läuft selbst niedergerungen werden kann. Auch andere Gegenmaßnahmen wie Dolche können sehr effektiv sein gegen einen Festhalteversuch.
+
+Oft macht es Sinn, diese Aktionen in Verbindung miteinander einzusetzen - so kann in einer Runde ein Charakter beispielsweise in einer Runde gleichzeitig mit der single Action angreifen und mit der Main Action ein Grapple starten.
 
 ### Artillerie {#ArtillerieOverall}
 
