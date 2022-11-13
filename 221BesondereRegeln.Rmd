@@ -2,6 +2,145 @@
 
 Natürlich bildet der Regel-Artikel nicht jede Besonderheit ab, daher finden sich in diesem Artikel seltenere Charakterbedingte oder Kampagnenbedingte Anwendungsbereiche.
 
+## Die Alchemie {#AlchemieSystem}
+
+Die Alchemie ist eine der Herstellungsdisziplinen. Mithilfe von zwei unterschiedlichen Pflanzen können Alchemisten hierbei verschiedenste Tränke brauen.
+
+### Herstellung von Tränken {#HerstellungTränke}
+
+Tränke müssen immer aus zwei Ingridienzien hergestellt werden. Hierbei ist die maximal entstehbare Stufe des Trankes die aufaddierten Effektgrößen der Pflanzen/2. Davon abgesehen werden die Tränke die stärkstmöglichen, die ein Threshold hergibt.
+
+Pflanzen haben bis zu vier Effekte, steht der Name eines Tranks in diesen Effekten dabei kann man den Trank mit dieser Zutat (und einer anderen mit passendem Effekt) brauen.
+
+Um Übersicht über die Pflanzen zu erlangen schau [hier](#App) für die genauen [Wirkungen hier](#Tränke)
+
+Hier sind die jeweiligen Thresholds und Informationen was die Stufen der Pflanzen angeht, die Abklingzeit beschreibt wie lange die Toxische Wirkung im Körper aktiv ist:
+
+|  Stufe  | Threshold |  Herstellung  | Abklingzeit | Toxikologie |
+|:-------:|:---------:|:-------------:|:-----------:|:-----------:|
+| Stufe 1 |    1,7    |  On the run   |   30 min    |      1      |
+| Stufe 2 |    2,4    |  On the run   |   90 min    |      2      |
+| Stufe 3 |    2,6    |     Lager     |     4h      |      3      |
+| Stufe 4 |    3,5    |     Lager     |     10h     |      4      |
+| Stufe 5 |    4,5    | Alchemietisch |    24 h     |      5      |
+| Stufe 6 |   4,75    | Alchemielabor |   3 Tage    |      6      |
+
+Sollte man zum Beispiel einen Ausdauertrank brauen, der von den Zutaten her Stufe 5 erreichen könnte, hat aber nur einen Threshold von 4 wird es ein Stufe 4 Trank. Des weiteren ist wichtig welche Tränke wo hergestellt werden können. Während Stufe 1 & Stufe 2 überall und spontan hergestellt werden können, braucht man für Tränke der Stufen 3 und 4 schon mehr Zeit und muss diese im Lager herstellen. Tränke der Stufe 5 brauchen einen Alchemietisch (einen solchen findet man bei den meisten Alchemisten) und Stufe 6 braucht eine Alchemielabor, welches nur in Großstädten verfügbar ist.
+
+Des weiteren braucht ein Alchemist eine Flasche, in die er sein Gebräu einfügen kann. Bei Bomben kommt dabei nur eine Bombshellflasche in betracht. Für sämtliche anderen Tränke braucht man Metallflaschen. Hier die Preise für die verschiedenen Flaschen:
+
+|     Flaschen     | Preis |
+|:----------------:|:-----:|
+|  Metallflasche   |  200  |
+| Bombshellflasche | 1000  |
+
+### Inhibitoren
+
+Nicht immer will man, dass Trankwirkungen gleich einsetzen. Manchmal ist es sinnvoll lange aus dem Gebäude zu sein bevor das vergiftete Ziel stirbt. Für diesen Fall gibt es sogenannte Inhibitoren. Inhibitoren werden wie normale Tränke hergestellt und sorgen dafür, dass ein Spieler im vorhinein bestimmen kann mit welcher Verzögerung ein Trank wirkt.
+
+### Epinephrinika {#Epinephrin}
+
+Epinephrinika sind besondere Tränke. sie wecken einen Ohnmächtigen sofort aus (+100 Health falls die Health davor auf null war). Allerdings müssen Epinephrinika on the run hergestellt werden, weil es nach fünf Minuten seine Wirkung verliert. Kluge Gruppen haben daher die Zutaten für Epinephrinika immer dabei.
+
+### Downtime Alchemieaktionen
+
+Die Anzahl an Alchemiechecks pro Downtime wird durch die Effektivität des Brauers bestimmt, diese erhöht sich mit seinen Werkzeugen, je mehr verschiedene Hilfsutensielien desto mehr Checks sind in der gleichen Zeit möglich. Manche Utensilien können sowohl die Anzahl für Handwerkschecks sowie Alchemie Checks erhöhen.
+
+| Werkzeug          | Checkzahl Bonus | Gewicht | Für Alechmie und Handwerk | Preis | Anmerkung                                                                                            |
+|-----------|-----------|-----------|-----------|-----------|-------------------|
+| Retorte           | 1               | 1       |                           |       |                                                                                                      |
+| Mörser und Stößl  | 2               | 2       |                           |       |                                                                                                      |
+| Destillierkolben  | 3               | 10      |                           |       |                                                                                                      |
+| Messer            | 1               | 0.5     | X                         |       |                                                                                                      |
+| Feuerkatalysator  | 1               | 1       | X                         |       |                                                                                                      |
+| Drachenatem       | 3               | 3       | X                         |       | Ersetzt Feuerkatalysator                                                                             |
+| Antike Mörser     | 4               | 2       |                           | --    | Ersetzt Mörser; Verwertbar zu T4 Material                                                            |
+| Mörser der Götter | 4               | 2       |                           | --    | Ersetzt Mörser steigert für Alchemiechecks Intelligenz, jeder Check geht zu lasten der Geistesstärke |
+
+: Werkzeuge der Alchemie
+
+## Das Handwerksystem {#Handwerksystem}
+
+Ein weiterer Herstellungsskill in Orbis Astea ist das Handwerk. Handwerk ist wichtig um Waffen zu pflegen, zu verbessern und zu Modifizieren. Das sind Dinge die man teuer vom Schmied machen lassen muss, oder eben selbst machen kann, wenn man die passenden Skills und Material hat.
+
+Wie die Ausrüstung untergliedert sich das Material in Stufen, um eine beispielsweise eine Waffe der Stufe 1 zu verbessern benötigt man ebenfalls Material der Stufe 1.
+
+Material wird in Kilogramm bemessen und in Einheiten von je 1kg verkauft. Der Materialverbrauch hängt stets vom Kaufpreis der jeweiligen Waffe oder Rüstung ab so kostet beispielsweise das herstellen eines Schwertes genau 1kg Material jedoch das herstellen eines Dolches nur 0,3kg. Gleich verhält es sich beim verbessern, je niedriger der Preis desto weniger Material wird benötigt.
+
+### Werkzeug
+
+Die meisten Anwendungen des Handwerkskills finden sich in der Downtime in der es möglich ist neue Gegenstände zu schaffen, zu verbessern, zu modifizieren, zu reparieren und zu Verwerten.
+
+Die Anzahl der möglichen Checks wird dabei vom Werkzeug des Handwerkers bestimmt, je besser das Werkzeug desto mehr Checks sind möglich. Ein Hobby Handwerker ohne Werkzeug schafft einen Handwerkscheck pro Downtime während ein Profi mit bestem Gerät in der gleichen Zeit bis zu 10 checks ausführen kann.
+
+**Fehlt: auflistung werkzeuge und Boni**
+
+### Reparieren
+
+Ausrüstung verliert über die Zeit Zustand. Mit der Aktion Reparieren stellt man den Zustand vollständig wieder her. Thresholds und Kosten der Aktion Reparieren:
+
+| Reparieren | Threshold | Materialkosten | Kosten Schmied |
+|:----------:|:---------:|:--------------:|:--------------:|
+|  Stufe 1   |    1,5    |      1500      |                |
+|  Stufe 2   |    2,3    |      6750      |                |
+|  Stufe 3   |     3     |     27000      |                |
+|  Stufe 4   |     4     |     90000      |                |
+
+eine Reperatur verbraucht pro reperierten Zustand 0,1 Material unabhängig von Wert der Ausrüstung.
+
+### Modifizieren / Besondere Ausrüstung {#modifizieren}
+
+Beim modifizieren sowie bei der Herstellung von Besonderer Ausrüstung handelt es sich um einen besonderen Teil des Handwerks da hierbei kein normales Material verbraucht wird sondern Stattdessen Monstermaterialien. Diese können auf der Jagd oder von bestimmten Händlern erworben werden.
+
+**überarbeiten** Zu unterscheiden ist Monstermaterial einer bestimmten Stufe dass direkte herstellen einer Waffe höheren Tiers ohne vorherige Verbesserung ermöglicht und den besonderen Monstermaterialien für Modifitation und Sonderausstattung.
+
+In diese Rubrik fallen Beispielsweise die Verwendung eines Giftzahns um Beispielsweise einen Dolch endlos mit etwas gift zu versorgen um vergiftungen im Kampf zu ermöglichen ohne es jedesmal selbst auftragen zu müssen. Aber genauso gut könnte ein Tarnmantel hergestellt werden der anschließend vom Spieler in einen der beiden Besonderen Ausrüstungsslots im Profil eingetragen wird.
+
+Es ist nur möglich Waffen zu modifizieren, Mods die in die Rubirk Rüstung fallen würden sind über die besondere Ausrüstung zu regelen.
+
+Neben der Jagt als übliche möglichkeit zum aquirieren von besonderem Monstermaterial ist es auch möglich auf kuriositäten Händler zu stoßen die ein sehr wechslendes Inventar zu noch wechselnderen Preisen bieten, jedoch unter anderem auch besondere Monstermaterialien. Wie bereits erwähnt wechseln die Preise für diese Produkte stark da es niemandem wirklich gelingen mag einen wirklichen Wert festzulegen da die Nachfrage schwer zu definieren und das Material manchmal schwer zu beschaffen manchmal auf Grund hoher Population massig vorhanden ist.
+
+### Herstellen, verbessern und Stufe erhöhen {#Stufen}
+
+Jede Ausrüstung wird auf Stufe 1 hergestellt und ab diesem Punkt weiter verbessert. (Mit der Ausnahme von Monstermaterial dies ermöglicht die Herstellung einer Waffe direkt auf die Stufe des Materials). Jedes Ausrüstsungsteil hat zwei verbesserungen Stufen bevor es die nächst höhere Stufe erreicht, jede dieser Verbesserungen erhöht des Schaden um 25% der Differenz zur nächst höheren Stufe. Nach zwei verbesserungen ist ein neuschmieden möglich welches die Stufe der Ausrüstung erhöht, hierfür ist nicht das aktuelle Tier für den Materialverbrauch heranzuziehen sondern ein Material der nächsts höheren Stufe. Ein Beispiel: Stufe 1 Schwert mit zwei verbesserungen (die Material Stufe 1 benötigt haben) benötigt für den Aufstieg auf Stufe 2 ein Material der Stufe 2.
+
+| Herstellen | Standartwert | Threshold | Materialkosten |
+|:----------:|:------------:|:---------:|:--------------:|
+|  Stufe 1   |     2,4      |   1500    |                |
+|  Stufe 2   |     3,3      |   6750    |                |
+|  Stufe 3   |      4       |   27000   |                |
+|  Stufe 4   |      5       |   90000   |                |
+
+Bei Fehlschlag geht abhängig vom erfolgten Handwerkscheck Material verloren, so führen besonders schlechte Checks zum Verlust des ganzen Materials jedoch beinahe erfolgreiche Checks nur teile des Materials. Bestimmend dafür ist die Protzentuale erreichung des Zielwertes, erreicht der Spieler 90% des Wertes der für den Check notwendig war erhählt er auch 90% des Materials zurück. Zusätzlich wird der Zustand der Ausrüstung die Verbessert werden sollte um 1 reduziert.
+
+Die Verbesserung von *Rüstungen* überspringen die zwischen Schritte unter können direkt mit dem nächst höheren Material auf die nächste Stufe verbessert werden.
+
+### Verwertung
+
+Ermöglicht das Zerlegen von Ausrüstung zu Material der jeweiligen Ausrüstungsstufe. Wie viel Material dabei gewonnen wird ist abhängig vom Preis der Ausrüstung. Beispiel $Standartwert \cdot 1,3$ ergibt 1,3 Material.
+
+### Schmiede
+
+Neben der eigenen Tätigkeit ist es möglich für Spieler die Handwerkschecks an professionelle Schmiede auszulagern, für einen Preis versteht sich. Je Talentierter der Schmied desto höher der Preis aber auch seine Erfolgsaussicht. Es ist möglich einem Schmied direkt Material für den Anstehenden Check zu geben oder statdessen es bei ihm zu erwerben. In dörfern stehen weniger Schmiede als in Städten zur Auswahl.
+
+### Downtime Handwerksaktionen
+
+Die Anzahl an Handwerkschecks pro Downtime wird durch die Effektivität des Handwerkers bestimmt, diese erhöht sich mit seinen Werkzeugen, je mehr verschiedene Hilfsutensielien desto mehr Checks sind in der gleichen Zeit möglich. Manche Utensilien können sowohl die Anzahl für Handwerkschecks sowie Alchemie Checks erhöhen.
+
+| Werkzeug              | Checkzahl Bonus | Gewicht | Für Alechmie und Handwerk | Preis | Anmerkung                                                                                              |
+|-----------|-----------|-----------|-----------|-----------|-------------------|
+| Zange                 | 1               | 1       |                           |       |                                                                                                        |
+| Hammer                | 2               | 2       |                           |       |                                                                                                        |
+| Amboss                | 3               | 10      |                           |       |                                                                                                        |
+| Messer                | 1               | 0.5     | X                         |       |                                                                                                        |
+| Feuerkatalysator      | 1               | 1       | X                         |       |                                                                                                        |
+| Drachenatem           | 3               | 3       | X                         |       | Ersetzt Feuerkatalysator                                                                               |
+| Antiker Zwergenhammer | 4               | 2       |                           | --    | Ersetzt Hammer; Verwertbar zu T4 Material                                                              |
+| Hammer der Götter     | 4               | 2       |                           | --    | Ersetzt Hammer; steigert für Handwerkschecks Intelligenz, jeder Check geht zu lasten der Geistesstärke |
+
+: Werkzeuge des Handwerks
+
+
 ## Instrumente und ihre Wirkung im Kampf {#InstrumenteRules}
 
 Mit einem guten Rhythmus kämpft man besser. Bestimmte Lieder bringen Power-Ups oder Debuffs im Kampf und können auf Gruppen und Einzelpersonen angewandt werden.
@@ -136,15 +275,19 @@ Galeeren haben ein breites, meist offenes Deck und sind eher auf Artillerie als 
 
 [^1]: Diese Abbildung wurde der Seite [wikimedia](https://commons.wikimedia.org/wiki/File:Galley-knightshospitaller.jpg) entnommen und steht unter einer Creative Commons Attribution-Share Alike 3.0 Unported license zur Verfügung.
 
+[^2]: Diese Abbildung wurde der Seite [wikimedia](https://commons.wikimedia.org/wiki/File:Galley-knightshospitaller.jpg) entnommen und steht unter einer Creative Commons Attribution-Share Alike 3.0 Unported license zur Verfügung.
+
 Dennoch sind Galeeren weit verbreitet und sowohl im zivilen als auch im militärischen Gebrauch üblich. Und sind vor allem durch ihre Vielseitigkeit charakterisiert. Kaum ein Schiffstyp ist so vielseitig und anpassungsfähig.
 
 ##### Trireme {.unnumbered}
 
 Die Trireme ist mit 130 Ruderern und Platz für 150 Soldaten ein gefürchteter Anblick in jeder Seeschlacht. Ihre immense Beschleunigung macht sie zum idealen Schiff zum rammen und zum kapern anderer Schiffe, und so sind sie eigentlich nur im militärischen Gebrauch anzutreffen.
 
-![Eine Trireme auf Patroullie[^2]](Pictures/Flavor/SchiffeBoote/wikimedia_Trireme.png)
+![Eine Trireme auf Patroullie[^3]](Pictures/Flavor/SchiffeBoote/wikimedia_Trireme.png)
 
-[^2]: Diese Abbildung wurde der Seite [wikimedia](https://commons.wikimedia.org/wiki/File:Trireme_1.jpg) entnommen und steht unter einer Creative Commons Attribution-Share Alike 2.0 France license zur Verfügung.
+[^3]: Diese Abbildung wurde der Seite [wikimedia](https://commons.wikimedia.org/wiki/File:Trireme_1.jpg) entnommen und steht unter einer Creative Commons Attribution-Share Alike 2.0 France license zur Verfügung.
+
+[^4]: Diese Abbildung wurde der Seite [wikimedia](https://commons.wikimedia.org/wiki/File:Trireme_1.jpg) entnommen und steht unter einer Creative Commons Attribution-Share Alike 2.0 France license zur Verfügung.
 
 Obwohl Triremen eher teuer sind, sind sie aufgrung ihrer Kampfkraft und der Schnelligkeit, mit der neue Seefahrer eingearbeitet sind, weit verbreitet. Trieren haben außerdem Platz für Artillerie und sind standartmäßig mit einer Ramme ausgerüstet, sie werden immer mit einem geschlossenem Kampfdeck gebaut.
 
@@ -170,9 +313,11 @@ Ohne die Krieger ist das Langboot im Kampf jedoch relativ aufgeschmissen, da das
 
 Die Fregatte ist ein großes Segelschiff mit Platz für zwei bis drei Ballisten oder Katapulte. Sie braucht 25 Seemänner um gesteuert zu werden und kann in etwa 80 zusätzliche Personen Transportieren. Fregatten sind sowohl in ziviler als auch als militärischer Nutzung häufig - werden jedoch in beiden Fällen meist bewaffnet, da sie beliebte Ziele für Piraten sind. Sie können lange Zeit reisen und sind oft der Hauptteil maritimer Flotten.
 
-![Eine Fregatte kreuzt gegen den Wind[^3]](Pictures/Flavor/SchiffeBoote/Fregatte_Pixaby.jpg)
+![Eine Fregatte kreuzt gegen den Wind[^5]](Pictures/Flavor/SchiffeBoote/Fregatte_Pixaby.jpg)
 
-[^3]: Diese Abbildung wurde der Seite [Pixabay](https://pixabay.com/es/illustrations/vela-barco-mar-1506158/) entnommen und steht zur kommerziellen Nutzung zur Verfügung.
+[^5]: Diese Abbildung wurde der Seite [Pixabay](https://pixabay.com/es/illustrations/vela-barco-mar-1506158/) entnommen und steht zur kommerziellen Nutzung zur Verfügung.
+
+[^6]: Diese Abbildung wurde der Seite [Pixabay](https://pixabay.com/es/illustrations/vela-barco-mar-1506158/) entnommen und steht zur kommerziellen Nutzung zur Verfügung.
 
 Fregatten gelten als das kleinste der großen Segelschiffe.
 
@@ -192,29 +337,29 @@ Die Galeone fährt für gewöhnlich mit einer Begleitflotte und ist trotz ihrer 
 
 #### Werte und Übersicht
 
-+------------+-------+-------------+-----------------+------------------+----------------+
-| Kampf      | Art   | Haltbarkeit | Bewegungspunkte | Manövrierbarkeit | Beschleunigung |
-+:==========:+:=====:+:===========:+:===============:+:================:+:==============:+
-| Barke      | Ruder | 1500        | 2               | 20               | 10             |
-+------------+-------+-------------+-----------------+------------------+----------------+
-| Kutter     | Segel | 2000        | 1               | 18               | 6              |
-+------------+-------+-------------+-----------------+------------------+----------------+
-| Bireme     | Ruder | 10000       | 2               | 17               | 14             |
-+------------+-------+-------------+-----------------+------------------+----------------+
-| Brigg      | Segel | 8000        | 2               | 14               | 13             |
-+------------+-------+-------------+-----------------+------------------+----------------+
-| Langschiff | Segel | 15000       | 3               | 16               | 17             |
-+------------+-------+-------------+-----------------+------------------+----------------+
-| Galeere    | Ruder | 18000       | 3               | 13               | 15             |
-+------------+-------+-------------+-----------------+------------------+----------------+
-| Fregatte   | Segel | 15000       | 2               | 9                | 12             |
-+------------+-------+-------------+-----------------+------------------+----------------+
-| Trireme    | Ruder | 25000       | 4               | 10               | 20             |
-+------------+-------+-------------+-----------------+------------------+----------------+
-| Karavelle  | Segel | 18000       | 2               | 7                | 11             |
-+------------+-------+-------------+-----------------+------------------+----------------+
-| Galeone    | Segel | 30000       | 1               | 5                | 5              |
-+------------+-------+-------------+-----------------+------------------+----------------+
++------------+----------+-------------+-----------------+------------------+----------------+
+| Kampf      | Art      | Haltbarkeit | Bewegungspunkte | Manövrierbarkeit | Beschleunigung |
++:==========:+:========:+:===========:+:===============:+:================:+:==============:+
+| Barke      | Ruder    | 1500        | 2               | 20               | 10             |
++------------+----------+-------------+-----------------+------------------+----------------+
+| Kutter     | Segel    | 2000        | 1               | 18               | 6              |
++------------+----------+-------------+-----------------+------------------+----------------+
+| Bireme     | Ruder    | 10000       | 2               | 17               | 14             |
++------------+----------+-------------+-----------------+------------------+----------------+
+| Brigg      | Segel    | 8000        | 2               | 14               | 13             |
++------------+----------+-------------+-----------------+------------------+----------------+
+| Langschiff | Segel    | 15000       | 3               | 16               | 17             |
++------------+----------+-------------+-----------------+------------------+----------------+
+| Galeere    | Ruder    | 18000       | 3               | 13               | 15             |
++------------+----------+-------------+-----------------+------------------+----------------+
+| Fregatte   | Segel    | 15000       | 2               | 9                | 12             |
++------------+----------+-------------+-----------------+------------------+----------------+
+| Trireme    | Ruder    | 25000       | 4               | 10               | 20             |
++------------+----------+-------------+-----------------+------------------+----------------+
+| Karavelle  | Segel    | 18000       | 2               | 7                | 11             |
++------------+----------+-------------+-----------------+------------------+----------------+
+| Galeone    | Segel    | 30000       | 1               | 5                | 5              |
++------------+----------+-------------+-----------------+------------------+----------------+
 
 <small> <small>
 
@@ -578,45 +723,45 @@ Der Korpus bestimmt folgende Eigenschaften eines Konstrukts.
 
 -   Fähigkeitsmaximum: die Eigenschaft Utility reduziert den Preis um den Faktor 0,25 jedoch wird das Skilllevel auf 50 limitiert xxxCrossreferenz XXXX
 
-+------------+------------+--------------+------------------+------------------+
-|            | Rüstung    | \| Attribute | \| Preis (Reiks) | \| Utility Preis |
-+============+============+==============+==================+==================+
-| Tier 1\    | 100        | 10           | 10.000           | 7500             |
-| klein      |            |              |                  |                  |
-+------------+------------+--------------+------------------+------------------+
-| Tier 2\    | 130        | 15           | 30.000           | 22500            |
-| klein      |            |              |                  |                  |
-+------------+------------+--------------+------------------+------------------+
-| Tier 3\    | 145        | 20           | 60.000           | 45.000           |
-| klein      |            |              |                  |                  |
-+------------+------------+--------------+------------------+------------------+
-| Tier 4\    | 160        | 25           | 120.000          | 90.000           |
-| klein      |            |              |                  |                  |
-+------------+------------+--------------+------------------+------------------+
-| Tier 1\    | 100        | 20           | 20.000           | 15.000           |
-| mittel     |            |              |                  |                  |
-+------------+------------+--------------+------------------+------------------+
-| Tier 2\    | 130        | 30           | 60.000           | 45.000           |
-| mittel     |            |              |                  |                  |
-+------------+------------+--------------+------------------+------------------+
-| Tier 3\    | 145        | 40           | 120.000          | 90.000           |
-| mittel     |            |              |                  |                  |
-+------------+------------+--------------+------------------+------------------+
-| Tier 4\    | 160        | 50           | 240.000          | 180.000          |
-| mittel     |            |              |                  |                  |
-+------------+------------+--------------+------------------+------------------+
-| Tier 1\    | 130        | 30           | 30.000           | 22.500           |
-| groß       |            |              |                  |                  |
-+------------+------------+--------------+------------------+------------------+
-| Tier 2\    | 169        | 45           | 90.000           | 67.500           |
-| groß       |            |              |                  |                  |
-+------------+------------+--------------+------------------+------------------+
-| Tier 3\    | 189        | 60           | 180.000          | 135.000          |
-| groß       |            |              |                  |                  |
-+------------+------------+--------------+------------------+------------------+
-| Tier 4\    | 208        | 75           | 360.000          | 270.000          |
-| groß       |            |              |                  |                  |
-+------------+------------+--------------+------------------+------------------+
++-------------+-------------+--------------+------------------+------------------+
+|             | Rüstung     | \| Attribute | \| Preis (Reiks) | \| Utility Preis |
++=============+=============+==============+==================+==================+
+| Tier 1\     | 100         | 10           | 10.000           | 7500             |
+| klein       |             |              |                  |                  |
++-------------+-------------+--------------+------------------+------------------+
+| Tier 2\     | 130         | 15           | 30.000           | 22500            |
+| klein       |             |              |                  |                  |
++-------------+-------------+--------------+------------------+------------------+
+| Tier 3\     | 145         | 20           | 60.000           | 45.000           |
+| klein       |             |              |                  |                  |
++-------------+-------------+--------------+------------------+------------------+
+| Tier 4\     | 160         | 25           | 120.000          | 90.000           |
+| klein       |             |              |                  |                  |
++-------------+-------------+--------------+------------------+------------------+
+| Tier 1\     | 100         | 20           | 20.000           | 15.000           |
+| mittel      |             |              |                  |                  |
++-------------+-------------+--------------+------------------+------------------+
+| Tier 2\     | 130         | 30           | 60.000           | 45.000           |
+| mittel      |             |              |                  |                  |
++-------------+-------------+--------------+------------------+------------------+
+| Tier 3\     | 145         | 40           | 120.000          | 90.000           |
+| mittel      |             |              |                  |                  |
++-------------+-------------+--------------+------------------+------------------+
+| Tier 4\     | 160         | 50           | 240.000          | 180.000          |
+| mittel      |             |              |                  |                  |
++-------------+-------------+--------------+------------------+------------------+
+| Tier 1\     | 130         | 30           | 30.000           | 22.500           |
+| groß        |             |              |                  |                  |
++-------------+-------------+--------------+------------------+------------------+
+| Tier 2\     | 169         | 45           | 90.000           | 67.500           |
+| groß        |             |              |                  |                  |
++-------------+-------------+--------------+------------------+------------------+
+| Tier 3\     | 189         | 60           | 180.000          | 135.000          |
+| groß        |             |              |                  |                  |
++-------------+-------------+--------------+------------------+------------------+
+| Tier 4\     | 208         | 75           | 360.000          | 270.000          |
+| groß        |             |              |                  |                  |
++-------------+-------------+--------------+------------------+------------------+
 
 Alternativ zum Kauf ist es möglich, mit dem richtigen handwerklichen Geschick, ein Konstrukt selbst zu bauen. Hierfür sind Konstruktteile, diese bestehen aus je zwei Material des passenden Materials, benötigt. Es wird 1 Konstruktteil pro Größe verbraucht.
 
@@ -632,21 +777,21 @@ Außerdem können während der Session Essenzen genutzt werden, um die Batterie 
 
 *Grundpreis: 1.000*
 
-+---------------+--------------------------+-------------------------------+
-| Ladungsanzahl | Preis pro Ladung (Reiks) | Gesamt (inklusive Grundpreis) |
-+===============+==========================+===============================+
-| 1-5           | 500                      | 3500                          |
-+---------------+--------------------------+-------------------------------+
-| 6-10          | 1.000                    | 8500                          |
-+---------------+--------------------------+-------------------------------+
-| 11-15         | 1.500                    | 16.000                        |
-+---------------+--------------------------+-------------------------------+
-| 16-20         | 2.000                    | 26.000                        |
-+---------------+--------------------------+-------------------------------+
-| 21-30         | 5000                     | 150.000                       |
-+---------------+--------------------------+-------------------------------+
-| 31-50         | 6000                     | 350.000                       |
-+---------------+--------------------------+-------------------------------+
++----------------+--------------------------+-------------------------------+
+| Ladungsanzahl  | Preis pro Ladung (Reiks) | Gesamt (inklusive Grundpreis) |
++================+==========================+===============================+
+| 1-5            | 500                      | 3500                          |
++----------------+--------------------------+-------------------------------+
+| 6-10           | 1.000                    | 8500                          |
++----------------+--------------------------+-------------------------------+
+| 11-15          | 1.500                    | 16.000                        |
++----------------+--------------------------+-------------------------------+
+| 16-20          | 2.000                    | 26.000                        |
++----------------+--------------------------+-------------------------------+
+| 21-30          | 5000                     | 150.000                       |
++----------------+--------------------------+-------------------------------+
+| 31-50          | 6000                     | 350.000                       |
++----------------+--------------------------+-------------------------------+
 
 *Batterien können für 75% ihres Kaufpreises wieder gebraucht verkauft werden.*
 

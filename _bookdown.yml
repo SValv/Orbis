@@ -69,6 +69,7 @@ rmd_files: ["index.Rmd",
   "223Dienstleistungen.Rmd",
   "230DMStuff.Rmd",
   "231DMProgramm.Rmd",
-  "400Autoren.Rmd"
+  "400Autoren.Rmd",
+  "800Impressum.Rmd"
     ]
 output_dir: "docs"

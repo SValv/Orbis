@@ -823,6 +823,11 @@ jobs-und-andere-aktivitäten
 Training
 Studieren
 Tiers
+Währung
+einordnung-der-größenverhältnisse-von-geldbeträgen
+Handelssystem
+Lebenserhaltungskosten
+besondere-regeln
 AlchemieSystem
 HerstellungTränke
 inhibitoren
@@ -836,11 +841,6 @@ Stufen
 verwertung
 schmiede
 downtime-handwerksaktionen
-Währung
-einordnung-der-größenverhältnisse-von-geldbeträgen
-Handelssystem
-Lebenserhaltungskosten
-besondere-regeln
 InstrumenteRules
 der-krieg-auf-see
 allgemeines
@@ -937,3 +937,6 @@ eigene-monster
 eigene-waffen
 eigene-munition-und-artillerie
 das-team-hinter-orbis-astea
+impressum-und-kontakt
+impressum
+kontakt
