@@ -4,7 +4,7 @@
 
 Die Installation von Orbis ist an sich eine leichte Sache. Ladet einfach die "The Game" oben links über den Download-Button herunter. Ihr solltet eine Zip-Datei erhalten, die ihr an den Ort an eurem PC an dem ihr das Spiel haben wollt extrahieren könnt.
 
-Innerhalb der Datei sollten sich zwei Ordner befinden: Der DM-App Ordner in dem auch die "OrbisDMApp.exe" liegt und der Game Folder.
+Innerhalb der Datei sollten sich zwei Ordner befinden: Der "OrbisDMApp" Ordner und der "OrbisGame" Ordner.
 
 Danach sollte folgendermaßen vorgegangen werden:
 
@@ -12,9 +12,10 @@ Danach sollte folgendermaßen vorgegangen werden:
 
 2.  Character Sheets sollten in den Order "ZZZ Character Sheets" gespeichert werden,
 
-3.  Es lohnt sich eine Verknüpfung zur Datei "OrbisDMApp.exe" zu erstellen und wo abzulegen wo es für einen selbst gemütlich ist, damit kann die App einfach per Doppelklick geöffnet werden.
+3.  Es lohnt sich eine Verknüpfung zur Anwendung "OrbisDMApp.exe" zu erstellen und wo abzulegen wo es für einen selbst gemütlich ist, damit kann die App einfach per Doppelklick geöffnet werden.
 
 4.  Wenn man die App startet muss man den Game Folder per Mausklick in einem Dialog der sich öffnet auswählen.
+in dem auch die "OrbisDMApp"-Anwendung liegt
 
 ## Nutzung der DM-App
 
