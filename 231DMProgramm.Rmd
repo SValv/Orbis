@@ -18,10 +18,6 @@ Danach sollte folgendermaßen vorgegangen werden:
 
 ## Nutzung der DM-App
 
-### Mein Fenster ist verschwunden
-
-Das ist ein Problem das aufgrund der Implementation vorkommen kann. Mit der Taste *F11* auf der Tastatur wird das Fenster automatisch auf deinen Hauptbildschirm zentriert, danach kann man es wieder verschieben wie man will.
-
 ### Wie initialisiert man Objekte
 
 Damit Ritter, Orks und Riesenspinnen gegeneinander kämpfen oder miteinander tanzen können, müssen sie erstmal in die DM-App eingelesen werden. Dies kann im Tab "Initialisation" gemacht werden. 
@@ -50,3 +46,16 @@ Bei den Resistenzen kann man Dots eintragen, die keine Wirkung oder die doppelte
 ### Eigene Waffen
 
 ### Eigene Munition und Artillerie
+
+
+## Bekannte Probleme {#BekannteFehler}
+
+### Mein Fenster ist verschwunden 
+
+Das ist ein Problem das aufgrund der Implementation vorkommen kann. Mit der Taste *F11* auf der Tastatur wird das Fenster automatisch auf deinen Hauptbildschirm zentriert, danach kann man es wieder verschieben wie man will.
+
+### Layout ist verbugged 
+
+Wenn die Schrift komisch aussieht, oder die Begriffe der einzelnen Tabs nicht richtig angezeigt werden, wie im Beispiel BILD EINFÜGEN, dann kann dies daran liegen, dass ....
+
+

@@ -46,20 +46,29 @@ Epinephrinika sind besondere Tränke. sie wecken einen Ohnmächtigen sofort aus 
 
 Die Anzahl an Alchemiechecks pro Downtime wird durch die Effektivität des Brauers bestimmt, diese erhöht sich mit seinen Werkzeugen, je mehr verschiedene Hilfsutensielien desto mehr Checks sind in der gleichen Zeit möglich. Manche Utensilien können sowohl die Anzahl für Handwerkschecks sowie Alchemie Checks erhöhen.
 
-| Werkzeug          | Checkzahl Bonus | Gewicht | Für Alechmie und Handwerk | Preis | Anmerkung                                                                                            |
-|-----------|-----------|-----------|-----------|-----------|-------------------|
-| Retorte           | 1               | 1       |                           |       |                                                                                                      |
-| Mörser und Stößl  | 2               | 2       |                           |       |                                                                                                      |
-| Destillierkolben  | 3               | 10      |                           |       |                                                                                                      |
-| Messer            | 1               | 0.5     | X                         |       |                                                                                                      |
-| Feuerkatalysator  | 1               | 1       | X                         |       |                                                                                                      |
-| Drachenatem       | 3               | 3       | X                         |       | Ersetzt Feuerkatalysator                                                                             |
-| Antike Mörser     | 4               | 2       |                           | --    | Ersetzt Mörser; Verwertbar zu T4 Material                                                            |
-| Mörser der Götter | 4               | 2       |                           | --    | Ersetzt Mörser steigert für Alchemiechecks Intelligenz, jeder Check geht zu lasten der Geistesstärke |
++-------------------+-----------------+----------+---------------------------+----------+------------------------------------------------------------------------------------------------------+
+| Werkzeug          | Checkzahl Bonus | Gewicht  | Für Alechmie und Handwerk | Preis    | Anmerkung                                                                                            |
++===================+=================+==========+===========================+==========+======================================================================================================+
+| Retorte           | 1               | 1        |                           |          |                                                                                                      |
++-------------------+-----------------+----------+---------------------------+----------+------------------------------------------------------------------------------------------------------+
+| Mörser und Stößl  | 2               | 2        |                           |          |                                                                                                      |
++-------------------+-----------------+----------+---------------------------+----------+------------------------------------------------------------------------------------------------------+
+| Destillierkolben  | 3               | 10       |                           |          |                                                                                                      |
++-------------------+-----------------+----------+---------------------------+----------+------------------------------------------------------------------------------------------------------+
+| Messer            | 1               | 0.5      | X                         |          |                                                                                                      |
++-------------------+-----------------+----------+---------------------------+----------+------------------------------------------------------------------------------------------------------+
+| Feuerkatalysator  | 1               | 1        | X                         |          |                                                                                                      |
++-------------------+-----------------+----------+---------------------------+----------+------------------------------------------------------------------------------------------------------+
+| Drachenatem       | 3               | 3        | X                         |          | Ersetzt Feuerkatalysator                                                                             |
++-------------------+-----------------+----------+---------------------------+----------+------------------------------------------------------------------------------------------------------+
+| Antike Mörser     | 4               | 2        |                           | --       | Ersetzt Mörser; Verwertbar zu T4 Material                                                            |
++-------------------+-----------------+----------+---------------------------+----------+------------------------------------------------------------------------------------------------------+
+| Mörser der Götter | 4               | 2        |                           | --       | Ersetzt Mörser steigert für Alchemiechecks Intelligenz, jeder Check geht zu lasten der Geistesstärke |
++-------------------+-----------------+----------+---------------------------+----------+------------------------------------------------------------------------------------------------------+
 
 : Werkzeuge der Alchemie
 
-## Das Handwerksystem {#Handwerksystem}
+## Das Handwerks {#Handwerksystem}
 
 Ein weiterer Herstellungsskill in Orbis Astea ist das Handwerk. Handwerk ist wichtig um Waffen zu pflegen, zu verbessern und zu Modifizieren. Das sind Dinge die man teuer vom Schmied machen lassen muss, oder eben selbst machen kann, wenn man die passenden Skills und Material hat.
 
@@ -127,21 +136,29 @@ Neben der eigenen Tätigkeit ist es möglich für Spieler die Handwerkschecks an
 
 Die Anzahl an Handwerkschecks pro Downtime wird durch die Effektivität des Handwerkers bestimmt, diese erhöht sich mit seinen Werkzeugen, je mehr verschiedene Hilfsutensielien desto mehr Checks sind in der gleichen Zeit möglich. Manche Utensilien können sowohl die Anzahl für Handwerkschecks sowie Alchemie Checks erhöhen.
 
-| Werkzeug              | Checkzahl Bonus | Gewicht | Für Alechmie und Handwerk | Preis | Anmerkung                                                                                              |
-|-----------|-----------|-----------|-----------|-----------|-------------------|
-| Zange                 | 1               | 1       |                           |       |                                                                                                        |
-| Hammer                | 2               | 2       |                           |       |                                                                                                        |
-| Amboss                | 3               | 10      |                           |       |                                                                                                        |
-| Messer                | 1               | 0.5     | X                         |       |                                                                                                        |
-| Feuerkatalysator      | 1               | 1       | X                         |       |                                                                                                        |
-| Drachenatem           | 3               | 3       | X                         |       | Ersetzt Feuerkatalysator                                                                               |
-| Antiker Zwergenhammer | 4               | 2       |                           | --    | Ersetzt Hammer; Verwertbar zu T4 Material                                                              |
-| Hammer der Götter     | 4               | 2       |                           | --    | Ersetzt Hammer; steigert für Handwerkschecks Intelligenz, jeder Check geht zu lasten der Geistesstärke |
++-----------------------+-----------------+----------+---------------------------+----------+--------------------------------------------------------------------------------------------------------+
+| Werkzeug              | Checkzahl Bonus | Gewicht  | Für Alechmie und Handwerk | Preis    | Anmerkung                                                                                              |
++=======================+=================+==========+===========================+==========+========================================================================================================+
+| Zange                 | 1               | 1        |                           |          |                                                                                                        |
++-----------------------+-----------------+----------+---------------------------+----------+--------------------------------------------------------------------------------------------------------+
+| Hammer                | 2               | 2        |                           |          |                                                                                                        |
++-----------------------+-----------------+----------+---------------------------+----------+--------------------------------------------------------------------------------------------------------+
+| Amboss                | 3               | 10       |                           |          |                                                                                                        |
++-----------------------+-----------------+----------+---------------------------+----------+--------------------------------------------------------------------------------------------------------+
+| Messer                | 1               | 0.5      | X                         |          |                                                                                                        |
++-----------------------+-----------------+----------+---------------------------+----------+--------------------------------------------------------------------------------------------------------+
+| Feuerkatalysator      | 1               | 1        | X                         |          |                                                                                                        |
++-----------------------+-----------------+----------+---------------------------+----------+--------------------------------------------------------------------------------------------------------+
+| Drachenatem           | 3               | 3        | X                         |          | Ersetzt Feuerkatalysator                                                                               |
++-----------------------+-----------------+----------+---------------------------+----------+--------------------------------------------------------------------------------------------------------+
+| Antiker Zwergenhammer | 4               | 2        |                           | --       | Ersetzt Hammer; Verwertbar zu T4 Material                                                              |
++-----------------------+-----------------+----------+---------------------------+----------+--------------------------------------------------------------------------------------------------------+
+| Hammer der Götter     | 4               | 2        |                           | --       | Ersetzt Hammer; steigert für Handwerkschecks Intelligenz, jeder Check geht zu lasten der Geistesstärke |
++-----------------------+-----------------+----------+---------------------------+----------+--------------------------------------------------------------------------------------------------------+
 
 : Werkzeuge des Handwerks
 
-
-## Instrumente und ihre Wirkung im Kampf {#InstrumenteRules}
+## Musik und ihre Wirkung im Kampf {#InstrumenteRules}
 
 Mit einem guten Rhythmus kämpft man besser. Bestimmte Lieder bringen Power-Ups oder Debuffs im Kampf und können auf Gruppen und Einzelpersonen angewandt werden.
 
@@ -271,11 +288,9 @@ Biremen kommen sowohl mit offenem Deck, als auch mit einem geschlossenem Kampfde
 
 Galeeren haben ein breites, meist offenes Deck und sind eher auf Artillerie als auf Truppentransport ausgelegt. Da viele Galeeren umfunktionierte oder immer noch im Dienst seinende Handelsschiffe sind, haben sie auch häufiger Lagerräume und das typische - oft nachteillige offene Deck.
 
-![Eine umfunktionierte Handelsgaleere[^1]](Pictures/Flavor/SchiffeBoote/Wikimedia_Galeere_Transparent.png)
+![Eine umfunktionierte Handelsgaleere[^WikimediaGaleere]](Pictures/Flavor/SchiffeBoote/Wikimedia_Galeere_Transparent.png)
 
-[^1]: Diese Abbildung wurde der Seite [wikimedia](https://commons.wikimedia.org/wiki/File:Galley-knightshospitaller.jpg) entnommen und steht unter einer Creative Commons Attribution-Share Alike 3.0 Unported license zur Verfügung.
-
-[^2]: Diese Abbildung wurde der Seite [wikimedia](https://commons.wikimedia.org/wiki/File:Galley-knightshospitaller.jpg) entnommen und steht unter einer Creative Commons Attribution-Share Alike 3.0 Unported license zur Verfügung.
+[^WikimediaGaleere]: Diese Abbildung wurde der Seite [wikimedia](https://commons.wikimedia.org/wiki/File:Galley-knightshospitaller.jpg) entnommen und steht unter einer Creative Commons Attribution-Share Alike 3.0 Unported license zur Verfügung.
 
 Dennoch sind Galeeren weit verbreitet und sowohl im zivilen als auch im militärischen Gebrauch üblich. Und sind vor allem durch ihre Vielseitigkeit charakterisiert. Kaum ein Schiffstyp ist so vielseitig und anpassungsfähig.
 
@@ -283,11 +298,10 @@ Dennoch sind Galeeren weit verbreitet und sowohl im zivilen als auch im militär
 
 Die Trireme ist mit 130 Ruderern und Platz für 150 Soldaten ein gefürchteter Anblick in jeder Seeschlacht. Ihre immense Beschleunigung macht sie zum idealen Schiff zum rammen und zum kapern anderer Schiffe, und so sind sie eigentlich nur im militärischen Gebrauch anzutreffen.
 
-![Eine Trireme auf Patroullie[^3]](Pictures/Flavor/SchiffeBoote/wikimedia_Trireme.png)
+![Eine Trireme auf Patroullie[^WikimediaTrireme]](Pictures/Flavor/SchiffeBoote/wikimedia_Trireme.png)
 
-[^3]: Diese Abbildung wurde der Seite [wikimedia](https://commons.wikimedia.org/wiki/File:Trireme_1.jpg) entnommen und steht unter einer Creative Commons Attribution-Share Alike 2.0 France license zur Verfügung.
+[^WikimediaTrireme]: Diese Abbildung wurde der Seite [wikimedia](https://commons.wikimedia.org/wiki/File:Trireme_1.jpg) entnommen und steht unter einer Creative Commons Attribution-Share Alike 2.0 France license zur Verfügung.
 
-[^4]: Diese Abbildung wurde der Seite [wikimedia](https://commons.wikimedia.org/wiki/File:Trireme_1.jpg) entnommen und steht unter einer Creative Commons Attribution-Share Alike 2.0 France license zur Verfügung.
 
 Obwohl Triremen eher teuer sind, sind sie aufgrung ihrer Kampfkraft und der Schnelligkeit, mit der neue Seefahrer eingearbeitet sind, weit verbreitet. Trieren haben außerdem Platz für Artillerie und sind standartmäßig mit einer Ramme ausgerüstet, sie werden immer mit einem geschlossenem Kampfdeck gebaut.
 
@@ -313,11 +327,9 @@ Ohne die Krieger ist das Langboot im Kampf jedoch relativ aufgeschmissen, da das
 
 Die Fregatte ist ein großes Segelschiff mit Platz für zwei bis drei Ballisten oder Katapulte. Sie braucht 25 Seemänner um gesteuert zu werden und kann in etwa 80 zusätzliche Personen Transportieren. Fregatten sind sowohl in ziviler als auch als militärischer Nutzung häufig - werden jedoch in beiden Fällen meist bewaffnet, da sie beliebte Ziele für Piraten sind. Sie können lange Zeit reisen und sind oft der Hauptteil maritimer Flotten.
 
-![Eine Fregatte kreuzt gegen den Wind[^5]](Pictures/Flavor/SchiffeBoote/Fregatte_Pixaby.jpg)
+![Eine Fregatte kreuzt gegen den Wind[^PixabayFregatte]](Pictures/Flavor/SchiffeBoote/Fregatte_Pixaby.jpg)
 
-[^5]: Diese Abbildung wurde der Seite [Pixabay](https://pixabay.com/es/illustrations/vela-barco-mar-1506158/) entnommen und steht zur kommerziellen Nutzung zur Verfügung.
-
-[^6]: Diese Abbildung wurde der Seite [Pixabay](https://pixabay.com/es/illustrations/vela-barco-mar-1506158/) entnommen und steht zur kommerziellen Nutzung zur Verfügung.
+[^PixabayFregatte]: Diese Abbildung wurde der Seite [Pixabay](https://pixabay.com/es/illustrations/vela-barco-mar-1506158/) entnommen und steht zur kommerziellen Nutzung zur Verfügung.
 
 Fregatten gelten als das kleinste der großen Segelschiffe.
 
@@ -723,45 +735,45 @@ Der Korpus bestimmt folgende Eigenschaften eines Konstrukts.
 
 -   Fähigkeitsmaximum: die Eigenschaft Utility reduziert den Preis um den Faktor 0,25 jedoch wird das Skilllevel auf 50 limitiert xxxCrossreferenz XXXX
 
-+-------------+-------------+--------------+------------------+------------------+
-|             | Rüstung     | \| Attribute | \| Preis (Reiks) | \| Utility Preis |
-+=============+=============+==============+==================+==================+
-| Tier 1\     | 100         | 10           | 10.000           | 7500             |
-| klein       |             |              |                  |                  |
-+-------------+-------------+--------------+------------------+------------------+
-| Tier 2\     | 130         | 15           | 30.000           | 22500            |
-| klein       |             |              |                  |                  |
-+-------------+-------------+--------------+------------------+------------------+
-| Tier 3\     | 145         | 20           | 60.000           | 45.000           |
-| klein       |             |              |                  |                  |
-+-------------+-------------+--------------+------------------+------------------+
-| Tier 4\     | 160         | 25           | 120.000          | 90.000           |
-| klein       |             |              |                  |                  |
-+-------------+-------------+--------------+------------------+------------------+
-| Tier 1\     | 100         | 20           | 20.000           | 15.000           |
-| mittel      |             |              |                  |                  |
-+-------------+-------------+--------------+------------------+------------------+
-| Tier 2\     | 130         | 30           | 60.000           | 45.000           |
-| mittel      |             |              |                  |                  |
-+-------------+-------------+--------------+------------------+------------------+
-| Tier 3\     | 145         | 40           | 120.000          | 90.000           |
-| mittel      |             |              |                  |                  |
-+-------------+-------------+--------------+------------------+------------------+
-| Tier 4\     | 160         | 50           | 240.000          | 180.000          |
-| mittel      |             |              |                  |                  |
-+-------------+-------------+--------------+------------------+------------------+
-| Tier 1\     | 130         | 30           | 30.000           | 22.500           |
-| groß        |             |              |                  |                  |
-+-------------+-------------+--------------+------------------+------------------+
-| Tier 2\     | 169         | 45           | 90.000           | 67.500           |
-| groß        |             |              |                  |                  |
-+-------------+-------------+--------------+------------------+------------------+
-| Tier 3\     | 189         | 60           | 180.000          | 135.000          |
-| groß        |             |              |                  |                  |
-+-------------+-------------+--------------+------------------+------------------+
-| Tier 4\     | 208         | 75           | 360.000          | 270.000          |
-| groß        |             |              |                  |                  |
-+-------------+-------------+--------------+------------------+------------------+
++------------+------------+--------------+------------------+------------------+
+|            | Rüstung    | \| Attribute | \| Preis (Reiks) | \| Utility Preis |
++============+============+==============+==================+==================+
+| Tier 1\    | 100        | 10           | 10.000           | 7500             |
+| klein      |            |              |                  |                  |
++------------+------------+--------------+------------------+------------------+
+| Tier 2\    | 130        | 15           | 30.000           | 22500            |
+| klein      |            |              |                  |                  |
++------------+------------+--------------+------------------+------------------+
+| Tier 3\    | 145        | 20           | 60.000           | 45.000           |
+| klein      |            |              |                  |                  |
++------------+------------+--------------+------------------+------------------+
+| Tier 4\    | 160        | 25           | 120.000          | 90.000           |
+| klein      |            |              |                  |                  |
++------------+------------+--------------+------------------+------------------+
+| Tier 1\    | 100        | 20           | 20.000           | 15.000           |
+| mittel     |            |              |                  |                  |
++------------+------------+--------------+------------------+------------------+
+| Tier 2\    | 130        | 30           | 60.000           | 45.000           |
+| mittel     |            |              |                  |                  |
++------------+------------+--------------+------------------+------------------+
+| Tier 3\    | 145        | 40           | 120.000          | 90.000           |
+| mittel     |            |              |                  |                  |
++------------+------------+--------------+------------------+------------------+
+| Tier 4\    | 160        | 50           | 240.000          | 180.000          |
+| mittel     |            |              |                  |                  |
++------------+------------+--------------+------------------+------------------+
+| Tier 1\    | 130        | 30           | 30.000           | 22.500           |
+| groß       |            |              |                  |                  |
++------------+------------+--------------+------------------+------------------+
+| Tier 2\    | 169        | 45           | 90.000           | 67.500           |
+| groß       |            |              |                  |                  |
++------------+------------+--------------+------------------+------------------+
+| Tier 3\    | 189        | 60           | 180.000          | 135.000          |
+| groß       |            |              |                  |                  |
++------------+------------+--------------+------------------+------------------+
+| Tier 4\    | 208        | 75           | 360.000          | 270.000          |
+| groß       |            |              |                  |                  |
++------------+------------+--------------+------------------+------------------+
 
 Alternativ zum Kauf ist es möglich, mit dem richtigen handwerklichen Geschick, ein Konstrukt selbst zu bauen. Hierfür sind Konstruktteile, diese bestehen aus je zwei Material des passenden Materials, benötigt. Es wird 1 Konstruktteil pro Größe verbraucht.
 

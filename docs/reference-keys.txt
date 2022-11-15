@@ -928,7 +928,6 @@ queststufen
 installation-und-nutzung-des-programmes
 installation
 nutzung-der-dm-app
-mein-fenster-ist-verschwunden
 wie-initialisiert-man-objekte
 optionen-der-dm-app
 eigene-profile-monster-und-andere-schöpfungen
@@ -936,6 +935,9 @@ eigene-profile
 eigene-monster
 eigene-waffen
 eigene-munition-und-artillerie
+BekannteFehler
+mein-fenster-ist-verschwunden
+layout-ist-verbugged
 das-team-hinter-orbis-astea
 impressum-und-kontakt
 impressum

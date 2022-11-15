@@ -17,7 +17,9 @@ img[src*="#Profil"] {
 
 }
 
-.book.color-theme-1 .book-body .page-wrapper .page-inner section.normal h1{
+
+
+.book.color-theme-1 .book-body .page-wrapper .page-inner section.normal #header{
   text-align: center;
 
 }

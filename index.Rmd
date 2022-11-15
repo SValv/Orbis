@@ -1,7 +1,7 @@
 --- 
 title: "Orbis Astea"
-date: "<center>Version vom: `r format(Sys.Date(),'%d.%m.%Y')`</center>"
-author: "<center>DM-App Version: 3.511</center>"
+date: "Version vom: `r format(Sys.Date(),'%d.%m.%Y')`"
+author: "DM-App Version: 3.511"
 site: bookdown::bookdown_site
 favicon: "roundIco.ico"
 ---
@@ -676,7 +676,9 @@ getTierTable = function(tier, pfad="Container/Data/Tiere.xlsx"){
             "Benötigter Skill Reiten",
             "TameWert",
             "Trainingswert",
-            "Pflegeintensität")
+            "Pflegeintensität",
+            "Preis Kaiserreich",
+            "Preis Rah Kari")
   
   df= df2[givbak,]
   rownames(df)= 1:nrow(df)
@@ -696,7 +698,7 @@ getTierTable = function(tier, pfad="Container/Data/Tiere.xlsx"){
               )
             ), bordered = F,
             highlight = T, showPageSizeOptions = F,
-            defaultPageSize = 15,
+            defaultPageSize = 17,
             theme= overallThemeReactable, 
             defaultColDef = colDef(
               align = "center"
