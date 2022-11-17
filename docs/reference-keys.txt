@@ -14,7 +14,7 @@ nahrungsbeschaffung
 nutztiere
 orits
 reitspinnen
-relgion
+religion
 das-leben-der-unterworfenen-stadtelfen
 das-leben-der-elfen-im-zobelwald
 die-verlorenen-kinder---elfen-in-restwäldern
@@ -88,7 +88,7 @@ die-donnerwächter
 bekannte-zwerge-in-der-oberwelt
 halblinge
 gesellschaft
-religion
+religion-1
 section
 die-gesellschaft-der-rasse-2
 völkerbeziehungen
@@ -840,7 +840,6 @@ modifizieren
 Stufen
 verwertung
 schmiede
-downtime-handwerksaktionen
 InstrumenteRules
 der-krieg-auf-see
 allgemeines
@@ -870,7 +869,7 @@ bau-1
 verbreitung-von-konstrukten
 Konstruktregeln
 kampf-1
-gliedmaßen-schwachpunkt
+gliedmaßen-schwachpunkte
 ladungen
 anwendungen-für-ladungen
 VehikelFähigkeitKonstrukt
@@ -879,7 +878,7 @@ reparatur
 aufbau-und-herstellung
 FähigkeitenKonstrukt
 kern
-korpus
+corpus
 attribute
 batterie
 erweiterungen-addons-waffen-upgrades

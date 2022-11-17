@@ -1,27 +1,23 @@
-
 # Menschen
 
-Da die menschliche Rasse an sich den meisten Lesern bereits vertraut ist, wird dieser Eintrag des Buches eher kurz gehalten.
-Menschen stellen die mit Abstand dominanteste Rasse in Orbis Astea dar. Ihre größte Stärke ist die Fähigkeit, sich an jede Situation anzupassen. Ein Mensch kann fast alles lernen und ist körperlich nicht wirklich eingeschränkt - aber auch nicht sonderlich begabt.
+Da die menschliche Rasse an sich den meisten Lesern bereits vertraut ist, wird dieser Eintrag des Buches eher kurz gehalten. Menschen stellen die mit Abstand dominanteste Rasse in Orbis Astea dar. Ihre größte Stärke ist die Fähigkeit, sich an jede Situation anzupassen. Ein Mensch kann fast alles lernen und ist körperlich nicht wirklich eingeschränkt - aber auch nicht sonderlich begabt.
 
 Dies führt zu einer Situation, in der Menschen zwar in jedem Bereich oben mitspielen, aber in kaum einem Bereich zu den Besten gehören. Für die Spezies selbst scheint sich die Durchschnittlichkeit jedoch auszuzahlen. Sie besetzen die größte Fläche, sind zahlenmäßig allen anderen Rassen überlegen und mit Abstand die mächtigste Rasse.
 
 ## Die Geschichte der Rasse
 
-Die Geschichte der Menschen ist zu vielfältig, um wirklich von einer Rassengeschichte sprechen zu können. Dies liegt vor allem an der enormen Heterogenität zwischen den Gesellschaften. Das Kaiserreich, Rah Kari und Eldria, bezeichnen beispielsweise ganz unterschiedliche Kulturen, obwohl der gleichen Rasse zugehörig.
+Die Geschichte der Menschen ist zu vielfältig, um wirklich von einer Rassengeschichte sprechen zu können. Dies liegt vor allem an der enormen Heterogenität zwischen den Gesellschaften. Das Kaiserreich, Rah Kari und Eldria, bezeichnen beispielsweise ganz unterschiedliche Kulturen, obwohl sie der gleichen Rasse zugehörig sind.
 
-Was man allerdings weiß, ist, dass die Menschen wohl mit eine der älteren Rassen sein müssen. Die deutlich länger dokumentierende Geschichtsschreibung der Zwerge (bzw. ihre Geschäftsbücher) weisen von Anfang an auf Außenhandel mit Menschen hin. 
+Was man allerdings weiß, ist, dass die Menschen wohl mit eine der älteren Rassen sein müssen. Die über einen deutlich längeren Zeitraum dokumentierten Geschichtsschreibungen der Zwerge (bzw. ihre Geschäftsbücher), weisen von Anfang an auf Außenhandel mit Menschen hin.
 
 ## Bekannte Kulturen der Menschen
 
 Hier eine Auflistung von reinen Menschenkulturen bzw. Kulturen, in denen Menschen einen hohen Bevölkerungsanteil haben:
 
-* Das [Kaiserreich](#Kaiserreich)
-* Die [Rah Kari](#RahKari)
-* Das [Fürstentümer von Eldria](#EldriaFaction)
-* Die [Skaen](#Skaen)
-* Die [Kultisten des Berma-Tals](#BermaTal)
-* Die [Seekulturen](#Seevolk)
-* Die [Eisenrote Wüste](#EisenroteWueste)
-
-
+-   Das [Kaiserreich](#Kaiserreich)
+-   Die [Rah Kari](#RahKari)
+-   Das [Fürstentümer von Eldria](#EldriaFaction)
+-   Die [Skaen](#Skaen)
+-   Die [Kultisten des Berma-Tals](#BermaTal)
+-   Die [Seekulturen](#Seevolk)
+-   Die [Eisenrote Wüste](#EisenroteWueste)

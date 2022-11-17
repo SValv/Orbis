@@ -1,169 +1,191 @@
+---
+editor_options: 
+  markdown: 
+    wrap: sentence
+---
+
 # Die Rasse der Orks
 
-> "Man versklavt Orks nicht. Orks gibt man einen Grund warum Sie etwas machen und belohnt Sie mit reichlich Bier und unmenschlichen Mengen an Essen. Dann sind Sie die treuesten und besten Soldaten welche sich ein Kaiser wünschen kann!"
+> "Man versklavt Orks nicht. Orks gibt man einen Grund etwas zu tun und belohnt sie anschließend mit reichlich Bier und unmenschlichen Mengen an Essen. Dann sind sie die treuesten und besten Soldaten die sich ein Kaiser nur wünschen kann!"
 >
-> ---  Lucillus Proximus
+> --- Lucillus Proximus
 
-Orks sind im Erscheinungsbild von grob menschlicher Statur. Im Allgemeinen sind Orks etwas größer als Menschen. Sexueller Dimorphismus ist weniger stark ausgeprägt als bei Menschen.
-Prinzipiell kommen sie in unterschiedlichen Hautschattierungen vor:
-Orks, welche primär Untertage aktiv sind, sind meist in grau und braun Tönen anzutreffen.
+Orks sind im Erscheinungsbild von grob menschlicher Statur.
+Im Allgemeinen sind Orks etwas größer als Menschen.
+Sexueller Dimorphismus ist weniger stark ausgeprägt als bei Menschen.
+Prinzipiell kommen sie in unterschiedlichen Hautschattierungen vor: Orks, welche primär Untertage aktiv sind, sind meist in grau und braun Tönen anzutreffen.
 Orks grünerer Gebiete, wie in Wäldern und auch im Nebelhain, sind meist mit dunkelgrünen Hauttönen anzutreffen.
-Die Körperlich größten Orks sind in der Eisenwüste anzutreffen. Ihre Körpergröße ist im Durchschnitt bei knapp unter zwei Metern. Orks der Eisenwüste sind entsprechend rostbraun bis rot-braun.
+Die körperlich größten Orks sind in der Eisenwüste anzutreffen.
+Ihre Körpergröße liegt im Durchschnitt bei knapp unter zwei Metern.
+Orks der Eisenwüste sind entsprechend rostbraun bis rot-braun.
 
-Die körperliche Stärke von Orks ist die höchste bei allen Rassen. Selbst in der Stadt aufgezogen Orks haben meist bereits die körperliche Kraft von hartgesottenen Soldaten.
+Die körperliche Stärke von Orks ist die höchste von allen Rassen.
+Selbst in der Stadt aufgezoge Orks haben meist bereits die körperliche Kraft von hartgesottenen Soldaten.
 
-Orks sind im Allgemeinen sprachlich wenig gewandt, was auch auf ihre bescheidenere Intelligenz zurückzuführen ist. 
+Orks sind im Allgemeinen sprachlich wenig gewandt, was auch auf ihre bescheidenere Intelligenz zurückzuführen ist.
 
-Orks ernähren sich primär von erlegten Beutetieren oder ihren eigenen Toten. Obwohl Orks kurzsichtig sind und demenstprechend keine Fernkampfwaffen effektiv benutzen können, sind diese allerdings, aufgrund ihrer unheimlichen körperlichen Stärke, in der Lage selbst große Ebern mit ihren Knochenspeeren auf mehreren dutzend Metern zu erlegen.
+Orks ernähren sich primär von erlegten Beutetieren oder ihren eigenen Toten.
+Obwohl Orks kurzsichtig sind und dementsprechend keine Fernkampfwaffen effektiv benutzen können, sind diese allerdings, aufgrund ihrer unheimlichen körperlichen Stärke, in der Lage selbst große Eber mit ihren Knochenspeeren auf eine Distanz von mehreren dutzenden Metern zu erlegen.
 
-Berüchtigt sind Orks für ihre, im Gegensatz zu allen anderen Rassen, stark ausgeprägten Eckzähnen. Hierbei sind vor allem die Unteren Eckzähne meist bei ausgewachsenen männlichen Exemplaren groß genug um teils die Aussprache zu behindern.
+Bekannt sind Orks für ihre, im Gegensatz zu allen anderen Rassen, stark ausgeprägten Eckzähne.
+Hierbei sind vor allem die unteren Eckzähne meist bei ausgewachsenen, männlichen Exemplaren groß genug, um teils die Aussprache zu behindern.
 
-> Aufgrund ihres "wilden" Lebenstils, was für einen kaiserlichen Missionar wie mich, tatsächlich eher eine Untertreibung darstellt, sind Orks gegenüber herkömmlichen Krankheiten beinahe immun. Orks waren auch die einzige Rasse, welche nicht von der großen Seuche - der Irae Omnideus - befallen wurde.
+> Aufgrund ihres "wilden" Lebensstils, was für einen kaiserlichen Missionar wie mich, tatsächlich eher eine Untertreibung darstellt, sind Orks gegenüber herkömmlichen Krankheiten beinahe immun.
+> Orks waren auch die einzige Rasse, welche nicht von der großen Seuche - der Irae Omnideus - befallen wurde.
 >
 > --- Aus "Das Tagebuch eines reisenden Missionars" von Stephanus Arnelius
 
-
 ## Die Geschichte
-
 
 ## Die Gesellschaft
 
-
 Die Gesellschaft der Orks ist im allgemeinen einfach gegliedert.
-Den Orkstamm führt für gewöhnlich ein Stammesoberhaupt, welches in allen Orkgesellschaften, außer den Orks der Eisenrotenwüste, männlich ist.  Das Stammesoberhaupt hat alleine jedoch wenig Entscheidungsgewalt und Orks leben im Allgemeinen in einem partizipatorischen System. Jeder Ork hat ein, entsprechend seines Alters und Rufes ein Stimmrecht Entscheidungen welche Lindwürmer wann wo erlegt werden, welche Beute wem gehört sind im allgemeinen schnell getroffen da die Nutzungsteile und die Nahrung für gewöhnlich fair verteilt wird. Insofern ist es, entgegen der Ordnung des Allgottes, allen Orks erlaubt ihre Fähigkeiten zu bilden wie diese das möchten.
-Allerdings sollte hier erwähnt werden, dass dies nur für den Stamm relevante Aufgaben gilt. Künstler, Literaten oder sonstiges Gesocks sucht man bei Orks dementsprechend vergebens.
+Den Orkstamm führt für gewöhnlich ein Stammesoberhaupt, welches in allen Orkgesellschaften, außer den Orks der Eisenrotenwüste, männlich ist.
+Das Stammesoberhaupt hat alleine jedoch wenig Entscheidungsgewalt und Orks leben im Allgemeinen in einem partizipatorischen System.
+Jeder Ork hat, entsprechend seines Alters und Rufes ein Stimmrecht.
+Entscheidungen wie, welche Lindwürmer wann, wo erlegt werden, welche Beute wem gehört sind im allgemeinen schnell getroffen, da die Nutzungsteile und die Nahrung für gewöhnlich fair verteilt wird.
+Insofern ist es, entgegen der Ordnung des Allgottes, allen Orks erlaubt ihre Fähigkeiten zu bilden wie diese das möchten.
+Allerdings sollte hier erwähnt werden, dass dies nur für den Stamm relevante Aufgaben gilt.
+Künstler, Literaten oder sonstiges Gesocks sucht man bei Orks dementsprechend vergebens.
 Allerdings beteilgen sich, an etwaigen Zeichnungen oder Errichtungen von "Gebäuden" meist alle Orks gleichermaßen.
 
-![Orksiedlung in den Südwestlichen Bergen Eldrias](Pictures\\Flavor\\Platzhalter\\orcstronghold.jpg)
+![Orksiedlung in den Südwestlichen Bergen Eldrias](Pictures%5CFlavor%5CPlatzhalter%5Corcstronghold.jpg)
 
-Die für Orks als anerkannte Aufgaben sind Jagen, Sammeln, Trainieren der Kinder für Kämpfe und Jagden - also Lehrer, Heiler - welche ausschließlich männlich sind, Jagd-Priester und Handwerker (wobei diese Gruppe äußerst fluid ist).
-Orks betreiben für gewöhnlich keine Landwirtschaft und errichten selten hohe Gebäude, da ihnen das architektonische und Bauherrenwissen fehlt. Folglich verlassen sich Orks beinahe ausschließlich auf natürliche Nahrungsquellen, welche weitaus diverser sind als menschliche Mägen verkraften würden.
-So sind Orkfestmahle meist mit barbarischen Mengen Fleisch, Nüssen und Früchten als auch, für Menschen giftige, stärkehaltige Wurzeln gedeckt. Kochtechnische Spezialitäten weisen Orks, unüberraschender Weise, keine auf und ihre Gerichte sind meist im oder am Feuer gegart/geröstet.
+Die für Orks als anerkannt geltende Aufgaben sind Jagen, Sammeln, Trainieren der Kinder für Kämpfe und Jagden - also Lehrer, Heiler - welche ausschließlich männlich sind, Jagd-Priester und Handwerker (wobei diese Gruppe äußerst fluid ist).
+Orks betreiben für gewöhnlich keine Landwirtschaft und errichten selten hohe Gebäude, da ihnen das architektonische und Bauherrenwissen fehlt.
+Folglich verlassen sich Orks beinahe ausschließlich auf natürliche Nahrungsquellen, welche weitaus diverser sind als menschliche Mägen verkraften würden.
+So sind Orkfestmahle meist mit barbarischen Mengen Fleisch, Nüssen und Früchten als auch, für Menschen giftige, stärkehaltige Wurzeln gedeckt.
+Kochtechnische Spezialitäten weisen Orks, unüberraschender Weise, keine auf und ihre Gerichte sind meist im oder am Feuer gegart/geröstet oder werden einfach roh genossen.
 
-Orks sind den meisten anderen Rassen, exklusive Halblinge welche gerne zu Feierlichkeiten verspeist werden, neutral gesonnen, sofern ihre Jagdgründe und ihre Gebiete nicht eingeschränkt werden. 
+Orks sind den meisten anderen Rassen, exklusive Halblinge welche gerne zu Feierlichkeiten verspeist werden, neutral gesonnen, sofern ihre Jagdgründe und ihre Gebiete nicht eingeschränkt werden.
 
-Die Jagd der Orks erfolgt prinzipiell mit, für Menschen zu schweren, Speeren wobei hier auch teils wilde Eber, des Kampfes willen ohne Waffen erlegt werden. Dies zählt zu den, teils wahllosen, Initiationriten, um als fähiges Stammesmitglied anerkannt zu werden.
+Die Jagd der Orks erfolgt prinzipiell mit, für Menschen zu schweren, Speeren wobei hier auch teils wilde Eber, des Kampfes willen ohne Waffen erlegt werden.
+Dies zählt zu den, teils wahllosen, Initiationsriten, um als fähiges Stammesmitglied anerkannt zu werden.
 
 Interessanterweise findet sich der Kampf gegen Eber, oder eberartige Tiere, in allen bis jetzt untersuchten Orkkulturen wieder, was auf eine ehemals gemeinsame Abstammung hindeutet.
 
-Die Waffen bestehen meist, sofern kein Handel mit höheren Zivilisationen besteht, aus den Knochen diverser Monster. Hierbei sollten die aus Steinwurmzähnen geschliffenen Schwerter erwähnt werden, welche bei richtiger Bearbeitung durchaus mit den Stahlschwertern der Legionen mithalten.  Orks können, aufgrund ihrer überlegenen körperlichen Stärke, jedoch auch häufig mit teils absurd schweren Steinhämmern in den Kampf ziehen.
-Natürlicherweise besitzen Orks, abgesehen von Lindwurmhäuten und Knochenrüstungen, keine Metallrüstungen. Allerdings sind Lederrüstungen der  Orks von Menschen meist begehrt, vor allem wenn diese mit Lindwurmhäuten verstärkt wurden.
+Die Waffen bestehen meist, sofern kein Handel mit höheren Zivilisationen besteht, aus den Knochen diverser Monster.
+Hierbei sollten die aus Steinwurmzähnen geschliffenen Schwerter erwähnt werden, welche bei richtiger Bearbeitung durchaus mit den Stahlschwertern der Legionen mithalten.
+Orks können, aufgrund ihrer überlegenen körperlichen Stärke, jedoch auch häufig mit teils absurd schweren Steinhammern in den Kampf ziehen.
+Natürlicherweise besitzen Orks, abgesehen von Lindwurmhäuten und Knochenrüstungen, keine Metallrüstungen.
+Allerdings sind Lederrüstungen der Orks von Menschen meist begehrt, vor allem wenn diese mit Lindwurmhäuten verstärkt wurden.
 
-Stellt man Orks in den Dienste des Kaiser und des Allgottes, so kann man die Nutzung von schwerer Rüstung besonders empfehlen. Aufgrund ihrer Stärke können Orks weitaus dickere Rüstungen tragen, was diese quasi  unverletzbar gegenüber Armbrüsten oder Bogen macht. Orks sind aufgrund der Kurzsichtigkeit in nur sehr seltenen Fällen dazu in der Lage Fernkampfwaffen zu nutzen, wodurch ihre Kultur nie den Bogenbau erlernt hat.
+Stellt man Orks in den Dienste des Kaisers und des Allgottes, so kann man die Nutzung von schwerer Rüstung besonders empfehlen.
+Aufgrund ihrer Stärke können Orks weitaus dickere Rüstungen tragen, was diese quasi unverwundb gegenüber Armbrüsten oder Bogen macht.
+Orks sind aufgrund der Kurzsichtigkeit in nur sehr seltenen Fällen dazu in der Lage Fernkampfwaffen zu nutzen, wodurch ihre Kultur nie den Bogenbau erlernt hat.
 
-![Ranghoher Orkfrontkämpfer in Plattenrüstung im Dienste der Kaiserlichen Armee -gemalt von Vilus Traainim um 120 n. R.](Pictures\\Flavor\\Platzhalter\\Ork_Plattenrüstung.jpg)
+![Ranghoher Orkfrontkämpfer in Plattenrüstung im Dienste der Kaiserlichen Armee -gemalt von Vilus Traainim um 120 n. R.](Pictures%5CFlavor%5CPlatzhalter%5COrk_Plattenr%C3%BCstung.jpg)
 
+Orks benötigen allerdings, sofern diese zur Fernsicht in der Lage sind, spezielle Bögen und Pfeile da durch ihre übermäßige Kradt häufig der Bruch des Bogens in Kampfsituationen erfolgt.
 
+Die Erziehung der Orkkinder erfolgt ohne eine spezifische Schule.
+Die Orkkinder entscheiden relativ frei, welche Aktivitäten sie ausführen möchten.
+Meist sind dies, wie Erwachsene Orks, jagen, fressen und rumtollen/kämpfen.
+Erwähnt wird allerdings zusätzlich zum Rumtollen und den Rangeleien der Kinder, wo auch, entgegen des Allgottes, die Mädchen mitkämpfen, die Jagd und Kampfausbildung, welche bereits früh erfolgt.
+Abgesehen von Bewegungsübungen gegen Lindwürmer und dem Erklären des Kämpfens dagegen, wird der Umgang mit Axt, Schwert, Steinwurf, Speerwurf und tödlicher Faustkampf meist mit Erwachsenen Orkfrauen erlernt.
 
-Orks benötigen allerdings, sofern diese zur Fernsicht in der Lage sind, spezielle Bögen und Pfeile da häufig der Bruch des Bogens in Kampfsituationen  erfolgt.
-
-
-Die Erziehung der Orkkinder erfolgt ohne eine spezifische Schule. Die Orkkinder entscheiden relativ frei, welche Aktivitäten diese ausführen. Meist sind dies, wie Erwachsene Orks, jagen, fressen und rumtollen/kämpfen. Erwähnt wird allerdings zusätzlich zum rumtollen und den Rangeleien der Kinder, wo auch, entgegen des Allgottes, die Mädchen mitkämpfen, die Jagd und Kampfausbildung, welche bereits früh erfolgt. Abgesehen von Bewegungsübungen gegen Lindwürmer und dem Erklären des Kämpfens dagegen, wird der Umgang mit Axt, Schwert, Steinwurf, Speerwurf und tödlicher Faustkampf meist mit Erwachsenen Orkfrauen erlernt.
-
-Der Handel mit dem Kaiserreich brachte einigen wenigen Orkstämmen die Vorzüge der zivilisierten Gesellschaft näher. Hierbei setzten sich vor allem der Verkauf von Bier, Salz und Eisen/Stahl durch. Das Kaiserreich erhält im Gegenzug die für Orks quasi wertlosen Edelsteine welche diese auf ihren Lindwurmjagden finden. Vielfach rekrutiert das Kaiserreich auch direkt aus den Orkstämmen Erwachsene, für die Auffrischung der Truppen in Kriegszeiten.
-
-
+Der Handel mit dem Kaiserreich brachte einigen wenigen Orkstämmen die Vorzüge der zivilisierten Gesellschaft näher.
+Hierbei setzten sich vor allem der Verkauf von Bier, Salz und Eisen/Stahl durch.
+Das Kaiserreich erhält im Gegenzug die für Orks quasi wertlosen Edelsteine, welche diese auf ihren Lindwurmjagden finden.
+Vielfach rekrutiert das Kaiserreich auch direkt aus den Orkstämmen Erwachsene, für die Auffrischung der Truppen in Kriegszeiten.
 
 ## Die Religion
 
 Orks beten, zum Leidwesen der Missionare der Ekklesia, diverse Naturgötter an.
 Hierbei ist zu erwähnen, dass Orks, aufgrund ihrer stammesartigen Kultur, meist von Orkgemeinschaft zu Orkgemeinschaft verschiedene Götter anbeten.
-Im Kern sind sich all diese Götter allerdings sehr ähnlich, was mich vermuten lässt, dass Orks früher ein geeintes Volk gewesen sein könnten.
+Im Kern sind sich all diese Götter allerdings sehr ähnlich, was vermuten lässt, dass Orks früher ein geeintes Volk gewesen sein könnten.
 
 Orks in Grimgrod - der größten Orksiedlungs am Fuße des südöstlichen Himmelspitzengebirge, beten zu Akunmaahn.
-Hierbei handelt es sich um einen riesigen Lindwurm, welcher, entsprechend ihren Geschichten, nach gewissen Zeiten alles Leben frisst und beim Neubeginn einer neuen Zeit aus seinen Ausscheidungen dann neues Leben entsteht. Für die Orks in Grimgrod, welche grau-braun von der Körperfarbe her sind, ist ihre Hautfarbe ein Beweis dafür.
+Hierbei handelt es sich um einen riesigen Lindwurm, welcher, entsprechend ihren Geschichten, nach gewissen Zeiten alles Leben frisst und zu Beginn einer neuen Zeit aus seinen Ausscheidungen neues Leben entsteht.
+Für die Orks in Grimgrod, welche grau-braun von der Körperfarbe her sind, ist ihre Hautfarbe ein Beweis dafür.
 
-Zu Ehren Akunmaahns werden regelmäßig Opferfeste, wobei hier meist alte und schwache Orks geopfert werden, abgehalten. Bei diesen Festen tanzen Orks in einem sehr kampfähnlichen Stil und fressen und koopulieren immer wieder zwischendurch, scheinbar wahllos.
-Diese Orgien sind für Menschen ein Grauß und vermutlich auch nicht gesund und gehen, Geschichten zu Folge, meist bei Menschen mit Knochenbrüchen einher.
+Zu Ehren Akunmaahns werden regelmäßig Opferfeste, wobei hier meist alte und schwache Orks geopfert werden, abgehalten.
+Bei diesen Festen tanzen Orks in einem sehr kampfähnlichen Stil und fressen und kopulieren immer wieder zwischendurch, scheinbar wahllos.
+Diese Orgien sind für Menschen ein Grauß und vermutlich auch nicht gesund und gehen, Geschichten zu Folge, bei Menschen meist mit Knochenbrüchen einher.
 
-Akunmaahn will, so ihr Glaube, dass ein jeder Ork die Haut eines Lindwurms trägt und nur dann ist er bereit für das ewige Festmahl. Das ewige Festmahl, was eben zugleich ihre Art von "Himmel" darstellt, wird zu mehreren, nicht am Kaiserlichen Kalendar fixierten Daten, abgehalten.
+Akunmaahn will, so ihr Glaube, dass ein jeder Ork die Haut eines Lindwurms trägt und nur dann ist er bereit für das ewige Festmahl.
+Das ewige Festmahl, das zugleich ihre Art von "Himmel" darstellt, wird zu mehreren, nicht am kaiserlichen Kalender fixierten Daten, abgehalten.
 
 Um Verwirrungen meiner Leser zu vermeiden nenne ich das wiederkehrende Festessen nicht mehr "das ewige Festmahl", sondern nenne es die Völlerei.
-Bei den Völlereien danken die Orks Akunmaahn dafür, dass sie auf die Welt gebracht wurden - in ihren Worten "geschissen". Die Völlereien starten meist mit vorhergehenden Jagden und anschließenden echten waffenlosen Kämpfen.
+Bei den Völlereien danken die Orks Akunmaahn dafür, dass sie auf die Welt gebracht wurden - in ihren Worten "geschissen".
+Die Völlereien starten meist mit vorhergehenden Jagden und anschließenden echten waffenlosen Kämpfen.
 Auch dies dient ihrem "Gott" Akunmaahn, da sie seine Stärke als die wichtigste Tugend ansehen.
 
-Neben der "Völlerei" ist ein weiterer wichtiger relgiöser Akt, die Jagd nach Lindwürmern. Hierbei  ist beinahe der gesamte Stamm in den Bergketten der Himmelsspitzen, südlich der Knochenfeldschlucht, unterwegs.
-Die Größe der erlegten Lindwürmer spiegelt hierbei die Zufriedenheit des Gottes Akunmaahn wider. Akunmaahn ermöglicht jedem, der durch den Lindwurm verspeist wird,  nach ihrem Glauben, die Wiedergeburt als noch mächtigerer Krieger, welcher bei der nächsten Lindwurmjagd dessen Haut erwerben wird, was ihm beim "nächsten" Tod den Eintritt zum "ewigen Festmahl" ermöglicht.
-
+Neben der "Völlerei" ist ein weiterer wichtiger religiöser Akt, die Jagd nach Lindwürmern.
+Hierbei ist beinahe der gesamte Stamm in den Bergketten der Himmelsspitzen, südlich der Knochenfeldschlucht, unterwegs.
+Die Größe der erlegten Lindwürmer spiegelt die Zufriedenheit des Gottes Akunmaahn wider.
+Akunmaahn ermöglicht jedem, der durch den Lindwurm verspeist wird, nach ihrem Glauben, die Wiedergeburt als noch mächtigerer Krieger, welcher bei der nächsten Lindwurmjagd dessen Haut erwerben wird, was ihm beim "nächsten" Tod den Eintritt zum "ewigen Festmahl" ermöglicht.
 
 Andere Ork Stämme haben nicht unbedingt einen Lindwurm, als "Gott", sondern vielfach bekannte große Kreaturen ihrer Umgebung.
 
-So beten die Orks der Eisenrotenwüste die riesigen erdfressenden Würmer an und versuchen diese, während die Würmer noch nicht ausgewachsen sind, zu töten. Der Gedanke der Wiedergeburt ist auch hier, beim Verschlungen, bzw. Zerquetscht werden, ebenfalls vorhanden.
+So beten die Orks der Eisenrotenwüste die riesigen erdfressenden Würmer an und versuchen diese, während die Würmer noch nicht ausgewachsen sind, zu töten.
+Der Gedanke der Wiedergeburt ist auch hier, beim Verschlungen, bzw.
+Zerquetscht werden, vorhanden.
 
-So bieten die diversen Orkstämme ihre eigene Erklärung an. Orgien, Völlereiein und Kämpfe gehören hierbei allerdings zu fast allen Stämmen.
+So bieten die diversen Orkstämme jeweils ihre eigene Erklärung an.
+Orgien, Völlereien und Kämpfe gehören allerdings zu fast allen Stämmen.
 
-Der einzige Orkstamm, über den beinahe nichts bekannt ist, welcher aus diesen Mustern eklatant ausschert, sind die blassen Orks aus der Grauen Ödnis.
-Über die Orks der Grauen Ödnis ist wenig bekannt, da es lediglich dem Missionar Justanian Hertesin gelang diesen Orkstamm zu finden.
+Der einzige Orkstamm, über den beinahe nichts dergleichen bekannt ist, welcher aus diesen Mustern eklatant ausschert, sind die blassen Orks aus der Grauen Ödnis.
+Über die Orks der Grauen Ödnis ist wenig bekannt, da es lediglich dem Missionar Justanian Hertesin gelang, diesen Orkstamm zu finden.
 
-Justanian selbst konnte lediglich über sein unvervollständigtes Werk, welches man in der Nähe von H'abunaptra - dem Heiligen Berg der Rah Kari- fand, sein Wissen Mitteilen.
+Justanian selbst konnte lediglich über sein unvervollständigtes Werk, welches man in der Nähe von H'abunaptra - dem Heiligen Berg der Rah Kari- fand, sein Wissen mitteilen.
 
-> "Ein jeder kennt Orks. Grau, grün oder rot. Alle Stark im Körper und schwach im Geiste. Nun sind diese Orks anders. Sie scheinen eine Kultur zu besitzen, welche davon ausgeht, dass ihre Schaffung Absicht war und ihr Gott im Kampf mit dem Tod seine Macht verlor. Hierbei sei angemerkt, dass ihr Gott keine Gestalt hatte und auch nichts von ihnen verlangte. 
-Man möge hierbei Staunen, dass diese bleichen Orks, welche sich als Urk-Shum-Toks bezeichnen in weitestgehendem Frieden leben und wenig von den barbarischen Verhalten zeigen, das die anderen Orks aufweisen. Ihre Gottheit ward verschwunden und habe den Orks selber aufgetragen ihrem Leben zu dienen.
-Dadurch lebten die Orks in weitestgehender Harmonie. Ressourcen wurden fair aufgeteilt, der ganze Stamm, welcher einem polyamörsen Unzuchthaus gleichte, zeigte auch mir gegenüber keinerlei Gewalt, obwohl ich scheinbar der erste hellhäutige Mensch wart, den diese Orks erblickten. Ihre Intelligenz und auch ihr Charisma wart gleichwertig einem gebildetem Bürger des Kaiserreiches und doch Grund verschieden.
-Ein Wunder welche Freiheit ihr Gott diesen Ungläubigen gegeben hat."
+> "Ein jeder kennt Orks. Grau, grün oder rot. Alle Stark im Körper und schwach im Geiste. Nun sind diese Orks anders. Sie scheinen eine Kultur zu besitzen, welche davon ausgeht, dass ihre Schaffung Absicht war und ihr Gott im Kampf mit dem Tod seine Macht verlor. Hierbei sei angemerkt, dass ihr Gott keine Gestalt hatte und auch nichts von ihnen verlangte. Man möge hierbei Staunen, dass diese bleichen Orks, welche sich als Urk-Shum-Toks bezeichnen in weitestgehendem Frieden leben und wenig von dem barbarischen Verhalten zeigen, das die anderen Orks aufweisen. Ihre Gottheit ward verschwunden und habe den Orks selber aufgetragen ihrem Leben zu dienen. Dadurch lebten die Orks in weitestgehender Harmonie. Ressourcen wurden fair aufgeteilt, der ganze Stamm, welcher einem polyamorösen Unzuchthaus gleichte, zeigte auch mir gegenüber keinerlei Gewalt, obwohl ich scheinbar der erste hellhäutige Mensch wart, den diese Orks erblickten. Ihre Intelligenz und auch ihr Charisma wart gleichwertig einem gebildetem Bürger des Kaiserreiches und doch Grund verschieden. Ein Wunder welche Freiheit ihr Gott diesen Ungläubigen gegeben hat."
 >
-> ---  Justanian Hertesin in "Die bleichen Orks"
-
-
-
+> --- Justanian Hertesin in "Die bleichen Orks"
 
 ## Die Legenden
 
 ### Themadorc - Verehrer der Götzen
 
-Die Geschichte von Themadorc ist bei den Orks aus Grimgrod ebenso bekannt wie bei kleineren Bergstämmen südlich  der Knochenfeldschlucht.
+Die Geschichte von Themadorc ist bei den Orks aus Grimgrod ebenso bekannt wie bei kleineren Bergstämmen südlich der Knochenfeldschlucht.
 Der Geschichte zufolge soll Themadorc als Ork der Eisenrotenwüste derart absonderlich gewirkt haben, dass dieser aus dem Stamm ausgestoßen wurde.
 
-Die Geschichte wurde von einem Gelehrten welcher einen Orkstamm (Toak-Chark-Aahn) in der Eisenroten Wüste über mehrere Jahre begleitete insofern bestätigt, als das Themadorc als Ork verbannt wurde. Thermadorc wurde für die Anbetung von Götzen ins Exil geschickt und der Geschichte zufolge sei er Jahre durch die Wüsten gelaufen wo man seinen Körper in Mondlosen nächten Herumirren sehen soll.
+Die Geschichte wurde von einem Gelehrten welcher einen Orkstamm (Toak-Chark-Aahn) in der Eisenroten Wüste über mehrere Jahre begleitete insofern bestätigt, als das Themadorc als Ork verbannt wurde.
+Thermadorc wurde für die Anbetung von Götzen ins Exil geschickt und der Geschichte zufolge sei er Jahre durch die Wüsten gelaufen wo man seinen Körper in mondlosen Nächten herumirren gesehen haben soll.
 
-Themadorcs sagen kamen vermutlich einige Jahre später in den Geschichten zweier Orkstämme aus dem Nebelhain ebenfalls als herumirrender Ork vor welcher Orkkinder frisst welche nicht im Kämpfen und Laufen und schwimmen geübt sind.
+Themadorcs Sagen kamen vermutlich einige Jahre später in den Geschichten zweier Orkstämme aus dem Nebelhain, ebenfalls als herumirrender Ork vor, welcher Orkkinder frisst, die nicht im Kämpfen, im Laufen und im Schwimmen geübt sind.
 
 Wiederrum einige Jahre später gab es mitten in den südlichen Himmelsspitzen die Legende das ein Ork mit brennenden Augen durch die Berge wanderte und seltsame Steine suchte.
 Irgendwann kam Thermadorc - was so viel heißt wie "der Hitzblütige" oder "der brennenden Herzens" in einen Orkstamm, welcher Grimgrod war und suchte fuckelnde Steine.
-Da die Edelsteine vor kurzem einem Zwergenhändler (angeblich von der Zwergenstadt welche explodierte) abgekauft. Der Zwerg zahlte in Form von mehreren dutzend Karren voller Fleisch und getrockneter Früchte.
-Thermadorc begann daraufhin die Orks von Grimgrod anzugreifen und unterlag diesen nachdem er ein Dutzend ihrer besten Kriegr niedergestreckt hatte.
+Die Edelsteine aber wurden vor kurzem einem Zwergenhändler (angeblich von der Zwergenstadt welche explodierte) abgekauft.
+Der Zwerg zahlte in Form mehrerer dutzender Karren voller Fleisch und getrockneter Früchte.
+Thermadorc begann daraufhin die Orks von Grimgrod anzugreifen und unterlag diesen, nachdem er ein Dutzend ihrer besten Krieger niedergestreckt hatte.
 
-Seine Leiche wurde dann vor den Toren in den Graben geworfen, wo er zwei Tage lag und dann verschwunden war. Da die Orks von Schattenmagie (welche laut herrschender Geleehrtenmeinung nicht existiert) ausgingen brachen Sie zur Jagd auf und versuchten Themadorc zu finden- jedoch ohne Erfolg.
+Seine Leiche wurde dann vor den Toren in ein Graben geworfen, wo er zwei Tage lag und dann verschwunden war.
+Da die Orks von Schattenmagie (welche laut herrschender Gelehrtenmeinung nicht existiert) ausgingen, brachen Sie zur Jagd auf und versuchten Themadorc zu finden- jedoch ohne Erfolg.
 
 Seit diesem Zeitpunkt verkaufen die Orks in Grimgrod Edelsteine nicht mehr an Zwerge, da sie denken, dass Thermadorc zurückkommen würde und die Augen ihrer Kinder als Edelsteine sammeln würde.
 
-Die Legende der Orks selber ist hier zuende, jedoch gibt es seitens der Zwerge den Bericht eines braunhäutigen grotesken Orks welcher sich metzelnd durch die Hallen kämpfte. Angeblich suchte dieser Edelsteine und war nicht bereit dafür zu zahlen. Die Zwerge versuchten ihn mit Waffen zu töten was nicht gelang und versucht wurde durch eine Sprengladung ihn unter Geröll zu begraben.
+Die Legende der Orks selber ist hier zu Ende, jedoch gibt es seitens der Zwerge den Bericht eines braunhäutigen, grotesken Orks welcher sich metzelnd durch die Hallen kämpfte.
+Angeblich suchte dieser Edelsteine und war nicht bereit für dieselben zu zahlen.
+Die Zwerge versuchten ihn mit Waffen zu töten, was nicht gelang und begruben ihn schließlich durch eine Sprengladung unter Geröll.
 
-![Darstellung des Kampfes der Zwerge gegen den braunen Ork- vermutlich Thermadorc](Pictures\\Flavor\\Platzhalter\\OrksVsZwerge.jpg)
-Wie alle guten Legenden hört man in den Verschütteten Hallen um die versunkene Zwergenstadt noch immer das kratzen und schaufeln eines Orkes.
+![Darstellung des Kampfes der Zwerge gegen den braunen Ork- vermutlich Thermadorc](Pictures%5CFlavor%5CPlatzhalter%5COrksVsZwerge.jpg) Wie alle guten Legenden hört man in den Verschütteten Hallen um die versunkene Zwergenstadt noch immer das kratzen und schaufeln eines Orkes.
 
-
-### Umchrug-Hal  - der Riese von Grimgrod
+### Umchrug-Hal - der Riese von Grimgrod
 
 Umchrug-Hal ist eine, vermutlich noch lebende Legende unter den Orks in Grimgrod und gilt als Verkörperung der Ziele eines Orks - wenngleich auch diese Ziele für den normalen Ork nicht zu erreichen sind.
 
-Umchurg-Hal ist der vermutlich größte Lebende Ork und misst mehr als 2,5 Meter, wobei die Berichte teils von 3 Metern ausgehen. Obwohl er aus einem Stamm aus Eldrias Waldorks stammt - daher die grüne Farbe - wurde Umchurg-Hal in den Stamm von Grimgrod unter Kasck-Hal aufgenommen. 
+Umchurg-Hal ist der vermutlich größte Lebende Ork und misst mehr als 2,5 Meter, wobei die Berichte teils von 3 Metern ausgehen.
+Obwohl er aus einem Stamm von Eldrias Waldorks stammt - daher ist er von grüner Farbe - wurde Umchurg-Hal in den Stamm von Grimgrod unter Kasck-Hal aufgenommen.
 
-Umchurgs Leben war geprägt von Orgien, das erlegen eines 3er Lindwürmer und das eigenhändige Töten eines Usukats.
-Geschichten zufolge hat Umchurg während des Massakers von Austen, eigenhändig eine Usukat, im Volksmund Dämon der Hölle genannt, erlegt und anschließend in dessen Blut gebadet.
-Als Beweis dieser Handlung trägt Umchurg-Hal die gegerbte Haut versehen mit den Zähnen eines Usukats  als einziges Rüstungssteils, selbst in den kalten Nächten Grimgrods.
+Umchurgs Leben war geprägt von Orgien, das Erlegen eines 3er Lindwürmer und das eigenhändige Töten eines Usukats.
+Geschichten zufolge hat Umchurg während des Massakers von Austen, eigenhändig eine Usukat, im Volksmund "Dämon der Hölle" genannt, erlegt und anschließend in dessen Blut gebadet.
+Als Beweis dieser Handlung trägt Umchurg-Hal die gegerbte Haut, versehen mit den Zähnen eines Usukats als einziges Rüstungssteil, selbst in den kalten Nächten Grimgrods.
 Der Kopf, mit den ausgerissenen Zähnen, findet sich noch immer in dem Schlafhaus des Stammesoberhaupts.
-Umchurg-Hal selber ist mittlerweile ein alter, aber erstaunlich fitter Ork, welcher allerdings selten direkt in Grimgrod antreffbar ist, zuimndest sah ihn seit mehr als 20 Jahren kein Gelehrter mehr.
+Umchurg-Hal selber ist mittlerweile ein alter, aber dafür erstaunlich fitter Ork, welcher allerdings selten direkt in Grimgrod antreffbar ist, zuimndest sah ihn seit mehr als 20 Jahren kein Gelehrter mehr.
 
+Im Zuge der Aufnahme vom Clan erhielt Umchurg seinen Zweitnamen Hal - als Ehrung von Kasck-Hal.
 
-Durch die Aufnahme von den Clan erhielt Umchurg seinen Zweitnamen Hal - als Ehrung von Kasck-Hal.
-
-![Umchurg-Hal der Riese von Grimgrod](Pictures\\Flavor\\Platzhalter\Umchurg-Hal_the_giant_of_grimgrod.jpg) 
+![Umchurg-Hal der Riese von Grimgrod](Pictures%5CFlavor%5CPlatzhalter%5CUmchurg-Hal_the_giant_of_grimgrod.jpg)
 
 ## Individuelle Eigenschaften der Orks (Umbennen für jew. Rasse)
-
 
 ## Die Eigenbegriffe der Orks
 
 ## Ausrüstung
 
-
-
 ## Jagdstrategien
 
-
-
 ## Die Orks untereinander
-
-
-
