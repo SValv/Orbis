@@ -76,6 +76,15 @@ Wie die Ausrüstung untergliedert sich das Material in Stufen, um eine beispiels
 
 Material wird in Kilogramm bemessen und in Einheiten von je 1kg verkauft. Der Materialverbrauch hängt stets vom Kaufpreis der jeweiligen Waffe oder Rüstung ab so kostet beispielsweise das herstellen eines Schwertes genau 1kg Material jedoch das herstellen eines Dolches nur 0,3kg. Gleich verhält es sich beim verbessern, je niedriger der Preis desto weniger Material wird benötigt.
 
+### Materialkosten
+
+| Stufe   | Preis in Reiks |
+|---------|----------------|
+| Stufe 1 | 1000           |
+| Stufe 2 | 3000           |
+| Stufe 3 | 6000           |
+| Stufe 4 | 12000          |
+
 ### Werkzeug
 
 Die meisten Anwendungen des Handwerkskills finden sich in der Downtime in der es möglich ist neue Gegenstände zu schaffen, zu verbessern, zu modifizieren, zu reparieren und zu Verwerten.
@@ -84,31 +93,31 @@ Die Anzahl der möglichen Checks wird dabei vom Werkzeug des Handwerkers bestimm
 
 Die Anzahl an Handwerkschecks pro Downtime wird durch die Effektivität des Handwerkers bestimmt, diese erhöht sich mit seinen Werkzeugen, je mehr verschiedene Hilfsutensielien desto mehr Checks sind in der gleichen Zeit möglich. Manche Utensilien können sowohl die Anzahl für Handwerkschecks sowie Alchemie Checks erhöhen.
 
-+-----------------------+------------------------+---------+--------+--------------------------------------------------------------------------------------------------------+
-| Werkzeug              | zusätzliche <br>Checks | Gewicht | Preis  | Anmerkung                                                                                              |
-+=======================+:======================:+:=======:+:======:+:======================================================================================================:+
-| Zange                 | 1                      | 1       |        |                                                                                                        |
-+-----------------------+------------------------+---------+--------+--------------------------------------------------------------------------------------------------------+
-| Hammer                | 2                      | 2       |        |                                                                                                        |
-+-----------------------+------------------------+---------+--------+--------------------------------------------------------------------------------------------------------+
-| Amboss                | 3                      | 10      |        |                                                                                                        |
-+-----------------------+------------------------+---------+--------+--------------------------------------------------------------------------------------------------------+
-| Messer                | 1                      | 0.5     |        | kann auch als Alchemiewerkzeug verwendet werden                                                        |
-+-----------------------+------------------------+---------+--------+--------------------------------------------------------------------------------------------------------+
-| Feuerkatalysator      | 1                      | 1       |        | kann auch als Alchemiewerkzeug verwendet werden                                                        |
-+-----------------------+------------------------+---------+--------+--------------------------------------------------------------------------------------------------------+
-| Drachenatem           | 3                      | 3       |        | Ersetzt Feuerkatalysator<br>kann auch als Alchemiewerkzeug verwendet werden                            |
-+-----------------------+------------------------+---------+--------+--------------------------------------------------------------------------------------------------------+
-| Antiker Zwergenhammer | 4                      | 2       | --     | Ersetzt Hammer; Verwertbar zu T4 Material                                                              |
-+-----------------------+------------------------+---------+--------+--------------------------------------------------------------------------------------------------------+
-| Hammer der Götter     | 4                      | 2       | --     | Ersetzt Hammer; steigert für Handwerkschecks Intelligenz, jeder Check geht zu lasten der Geistesstärke |
-+-----------------------+------------------------+---------+--------+--------------------------------------------------------------------------------------------------------+
++-----------------------+------------------------+---------+-------+--------------------------------------------------------------------------------------------------------+
+| Werkzeug              | zusätzliche <br>Checks | Gewicht | Preis | Anmerkung                                                                                              |
++=======================+:======================:+:=======:+:=====:+:======================================================================================================:+
+| Zange                 | 1                      | 1       |       |                                                                                                        |
++-----------------------+------------------------+---------+-------+--------------------------------------------------------------------------------------------------------+
+| Hammer                | 2                      | 2       |       |                                                                                                        |
++-----------------------+------------------------+---------+-------+--------------------------------------------------------------------------------------------------------+
+| Amboss                | 3                      | 10      |       |                                                                                                        |
++-----------------------+------------------------+---------+-------+--------------------------------------------------------------------------------------------------------+
+| Messer                | 1                      | 0.5     |       | kann auch als Alchemiewerkzeug verwendet werden                                                        |
++-----------------------+------------------------+---------+-------+--------------------------------------------------------------------------------------------------------+
+| Feuerkatalysator      | 1                      | 1       |       | kann auch als Alchemiewerkzeug verwendet werden                                                        |
++-----------------------+------------------------+---------+-------+--------------------------------------------------------------------------------------------------------+
+| Drachenatem           | 3                      | 3       |       | Ersetzt Feuerkatalysator<br>kann auch als Alchemiewerkzeug verwendet werden                            |
++-----------------------+------------------------+---------+-------+--------------------------------------------------------------------------------------------------------+
+| Antiker Zwergenhammer | 4                      | 2       | --    | Ersetzt Hammer; Verwertbar zu T4 Material                                                              |
++-----------------------+------------------------+---------+-------+--------------------------------------------------------------------------------------------------------+
+| Hammer der Götter     | 4                      | 2       | --    | Ersetzt Hammer; steigert für Handwerkschecks Intelligenz, jeder Check geht zu lasten der Geistesstärke |
++-----------------------+------------------------+---------+-------+--------------------------------------------------------------------------------------------------------+
 
 : Werkzeuge des Handwerks
 
 ### Reparieren
 
-Ausrüstung verliert über die Zeit Zustand. Mit der Aktion Reparieren stellt man den Zustand vollständig wieder her. Thresholds und Kosten der Aktion Reparieren:
+Ausrüstung verliert über die Zeit Zustand. Mit der Aktion Reparieren stellt man den Zustand wieder her. eine Reperatur verbraucht pro reperierten Zustand 0,1 Material unabhängig von Wert der Ausrüstung.
 
 | Reparieren | Threshold | Materialkosten |
 |:----------:|:---------:|:--------------:|
@@ -116,8 +125,6 @@ Ausrüstung verliert über die Zeit Zustand. Mit der Aktion Reparieren stellt ma
 |  Stufe 2   |    2,3    |      3000      |
 |  Stufe 3   |     3     |      6000      |
 |  Stufe 4   |     4     |     12000      |
-
-eine Reperatur verbraucht pro reperierten Zustand 0,1 Material unabhängig von Wert der Ausrüstung.
 
 ### Modifizieren / Besondere Ausrüstung {#modifizieren}
 
@@ -164,23 +171,15 @@ Lieder können - je nach Genre - von unterschiedlichen instrumenten begleitet un
 
 Hier sieht man eine Übersicht über die Genres:
 
-+---------------+---------------------+-----------------+-------------------+
-| Genre         | Wirkung             | Hauptinstrument | Begleitinstrument |
-+:=============:+:===================:+:===============:+:=================:+
-| Minnesang     | Charisma            | Geige           | Laute             |
-+---------------+---------------------+-----------------+-------------------+
-| Rock          | Kritische<br>Chance | Trommel         | Dudelsack         |
-+---------------+---------------------+-----------------+-------------------+
-| Folk          | Physis              | Flöte           | Trommel           |
-+---------------+---------------------+-----------------+-------------------+
-| Tavernenmusik | Agilität            | Laute           | Geige             |
-+---------------+---------------------+-----------------+-------------------+
-| Metal         | Stärke              | Dudelsack       | Trompete          |
-+---------------+---------------------+-----------------+-------------------+
-| Polka         | Angriffsziel        | Horn            | Flöte             |
-+---------------+---------------------+-----------------+-------------------+
-| Hymne         | Single Action       | Trompete        | Horn              |
-+---------------+---------------------+-----------------+-------------------+
+|     Genre     |       Wirkung       | Hauptinstrument | Begleitinstrument |
+|:-------------:|:-------------------:|:---------------:|:-----------------:|
+|   Minnesang   |      Charisma       |      Geige      |       Laute       |
+|     Rock      | Kritische<br>Chance |     Trommel     |     Dudelsack     |
+|     Folk      |       Physis        |      Flöte      |      Trommel      |
+| Tavernenmusik |      Agilität       |      Laute      |       Geige       |
+|     Metal     |       Stärke        |    Dudelsack    |     Trompete      |
+|     Polka     |    Angriffsziel     |      Horn       |       Flöte       |
+|     Hymne     |    Single Action    |    Trompete     |       Horn        |
 
 Angriffsziel bedeutet dass man von einem oder mehreren Zielen auswählen kann, wer wen ihrer/seiner Gegner angreift.
 
@@ -288,25 +287,21 @@ Galeeren haben ein breites, meist offenes Deck und sind eher auf Artillerie als 
 
 [^1]: Diese Abbildung wurde der Seite [wikimedia](https://commons.wikimedia.org/wiki/File:Galley-knightshospitaller.jpg) entnommen und steht unter einer Creative Commons Attribution-Share Alike 3.0 Unported license zur Verfügung.
 
-[^2]: Diese Abbildung wurde der Seite [wikimedia](https://commons.wikimedia.org/wiki/File:Galley-knightshospitaller.jpg) entnommen und steht unter einer Creative Commons Attribution-Share Alike 3.0 Unported license zur Verfügung.
-
 Dennoch sind Galeeren weit verbreitet und sowohl im zivilen als auch im militärischen Gebrauch üblich. Und sind vor allem durch ihre Vielseitigkeit charakterisiert. Kaum ein Schiffstyp ist so vielseitig und anpassungsfähig.
 
 ##### Trireme {.unnumbered}
 
 Die Trireme ist mit 130 Ruderern und Platz für 150 Soldaten ein gefürchteter Anblick in jeder Seeschlacht. Ihre immense Beschleunigung macht sie zum idealen Schiff zum rammen und zum kapern anderer Schiffe, und so sind sie eigentlich nur im militärischen Gebrauch anzutreffen.
 
-![Eine Trireme auf Patroullie[^3]](Pictures/Flavor/SchiffeBoote/wikimedia_Trireme.png)
+![Eine Trireme auf Patroullie[^2]](Pictures/Flavor/SchiffeBoote/wikimedia_Trireme.png)
 
-[^3]: Diese Abbildung wurde der Seite [wikimedia](https://commons.wikimedia.org/wiki/File:Trireme_1.jpg) entnommen und steht unter einer Creative Commons Attribution-Share Alike 2.0 France license zur Verfügung.
-
-[^4]: Diese Abbildung wurde der Seite [wikimedia](https://commons.wikimedia.org/wiki/File:Trireme_1.jpg) entnommen und steht unter einer Creative Commons Attribution-Share Alike 2.0 France license zur Verfügung.
+[^2]: Diese Abbildung wurde der Seite [wikimedia](https://commons.wikimedia.org/wiki/File:Trireme_1.jpg) entnommen und steht unter einer Creative Commons Attribution-Share Alike 2.0 France license zur Verfügung.
 
 Obwohl Triremen eher teuer sind, sind sie aufgrung ihrer Kampfkraft und der Schnelligkeit, mit der neue Seefahrer eingearbeitet sind, weit verbreitet. Trieren haben außerdem Platz für Artillerie und sind standartmäßig mit einer Ramme ausgerüstet, sie werden immer mit einem geschlossenem Kampfdeck gebaut.
 
 #### Segelschiffe
 
-##### Kutter {.unnumbered}
+##### *Kutter* {.unnumbered}
 
 Ein Kutter ist meist ein kleines Fischerboot, in das bis zu 8 Personen hineinpassen. Es ist weder hochseefähig, noch besonders geräumig und ist das Segelschiff-Gegenstück zur Barke mit dem Vorteil höherer Reichweite und Geschwindigkeit und das man nicht ständig rudern muss.
 
@@ -326,11 +321,9 @@ Ohne die Krieger ist das Langboot im Kampf jedoch relativ aufgeschmissen, da das
 
 Die Fregatte ist ein großes Segelschiff mit Platz für zwei bis drei Ballisten oder Katapulte. Sie braucht 25 Seemänner um gesteuert zu werden und kann in etwa 80 zusätzliche Personen Transportieren. Fregatten sind sowohl in ziviler als auch als militärischer Nutzung häufig - werden jedoch in beiden Fällen meist bewaffnet, da sie beliebte Ziele für Piraten sind. Sie können lange Zeit reisen und sind oft der Hauptteil maritimer Flotten.
 
-![Eine Fregatte kreuzt gegen den Wind[^5]](Pictures/Flavor/SchiffeBoote/Fregatte_Pixaby.jpg)
+![Eine Fregatte kreuzt gegen den Wind[^3]](Pictures/Flavor/SchiffeBoote/Fregatte_Pixaby.jpg)
 
-[^5]: Diese Abbildung wurde der Seite [Pixabay](https://pixabay.com/es/illustrations/vela-barco-mar-1506158/) entnommen und steht zur kommerziellen Nutzung zur Verfügung.
-
-[^6]: Diese Abbildung wurde der Seite [Pixabay](https://pixabay.com/es/illustrations/vela-barco-mar-1506158/) entnommen und steht zur kommerziellen Nutzung zur Verfügung.
+[^3]: Diese Abbildung wurde der Seite [Pixabay](https://pixabay.com/es/illustrations/vela-barco-mar-1506158/) entnommen und steht zur kommerziellen Nutzung zur Verfügung.
 
 Fregatten gelten als das kleinste der großen Segelschiffe.
 
@@ -350,29 +343,18 @@ Die Galeone fährt für gewöhnlich mit einer Begleitflotte und ist trotz ihrer 
 
 #### Werte und Übersicht
 
-+------------+----------+-------------+-----------------+------------------+----------------+
-| Kampf      | Art      | Haltbarkeit | Bewegungspunkte | Manövrierbarkeit | Beschleunigung |
-+:==========:+:========:+:===========:+:===============:+:================:+:==============:+
-| Barke      | Ruder    | 1500        | 2               | 20               | 10             |
-+------------+----------+-------------+-----------------+------------------+----------------+
-| Kutter     | Segel    | 2000        | 1               | 18               | 6              |
-+------------+----------+-------------+-----------------+------------------+----------------+
-| Bireme     | Ruder    | 10000       | 2               | 17               | 14             |
-+------------+----------+-------------+-----------------+------------------+----------------+
-| Brigg      | Segel    | 8000        | 2               | 14               | 13             |
-+------------+----------+-------------+-----------------+------------------+----------------+
-| Langschiff | Segel    | 15000       | 3               | 16               | 17             |
-+------------+----------+-------------+-----------------+------------------+----------------+
-| Galeere    | Ruder    | 18000       | 3               | 13               | 15             |
-+------------+----------+-------------+-----------------+------------------+----------------+
-| Fregatte   | Segel    | 15000       | 2               | 9                | 12             |
-+------------+----------+-------------+-----------------+------------------+----------------+
-| Trireme    | Ruder    | 25000       | 4               | 10               | 20             |
-+------------+----------+-------------+-----------------+------------------+----------------+
-| Karavelle  | Segel    | 18000       | 2               | 7                | 11             |
-+------------+----------+-------------+-----------------+------------------+----------------+
-| Galeone    | Segel    | 30000       | 1               | 5                | 5              |
-+------------+----------+-------------+-----------------+------------------+----------------+
+|   Kampf    |  Art  | Haltbarkeit | Bewegungspunkte | Manövrierbarkeit | Beschleunigung |
+|:----------:|:-----:|:-----------:|:---------------:|:----------------:|:--------------:|
+|   Barke    | Ruder |    1500     |        2        |        20        |       10       |
+|   Kutter   | Segel |    2000     |        1        |        18        |       6        |
+|   Bireme   | Ruder |    10000    |        2        |        17        |       14       |
+|   Brigg    | Segel |    8000     |        2        |        14        |       13       |
+| Langschiff | Segel |    15000    |        3        |        16        |       17       |
+|  Galeere   | Ruder |    18000    |        3        |        13        |       15       |
+|  Fregatte  | Segel |    15000    |        2        |        9         |       12       |
+|  Trireme   | Ruder |    25000    |        4        |        10        |       20       |
+| Karavelle  | Segel |    18000    |        2        |        7         |       11       |
+|  Galeone   | Segel |    30000    |        1        |        5         |       5        |
 
 <small> <small>
 
@@ -461,7 +443,7 @@ Den Gegnerischen Artillerie beschuss wird automatisch ausgewichen, der erfolg di
 
 ### Allgemeines
 
-Diese Wunder mechanischer Handwerkskunst stellen den Zenit der zwergischen Innovation dar. Sie sind, aufgrund ihrer religiösen Ansichten, als einziges Volk in der Lage diese, teils tonnenschweren, Kolosse zum Leben zu erwecken. Die Konstrukte existieren in allen Formen und Farben und decken jeden nur möglichen Arbeitsbereich ab. So stellen sie zum Beispiel einen der schlagkräftigsten Teile des Rah Kari Heeres dar, werden von Zwergenkarawanen zum Transport von unglaublich schweren Waren benutzt und sind gleichzeitig mit schweren Ballisten bestückt. Fast jede Tätigkeit, die ein Konstrukt übernimmt, könnte genauso gut durch ein Tier, eine schlichte Mechanik oder einfach nur durch eine Person übernommen werden. Doch Konstrukte bieten, neben vielen anderen Vorteilen, einen bestimmten: bedingungslose Loyalität. Dies macht sie für Personen mit dem richtigen "Kleingeld" im Beutel zu attraktiven Begleitern.
+Konstrukte - die größten Wunder mechanischer Handwerkskunst - stellen den Zenit der zwergischen Innovation dar. Sie sind als einziges Volk in der Lage diese, teils tonnenschweren, Kolosse zum Leben zu erwecken. Die Konstrukte existieren in allen Formen und Farben und decken jeden nur möglichen Arbeitsbereich ab. So stellen sie zum Beispiel einen der schlagkräftigsten Teile des Rah' Kari Heeres dar, werden von Zwergenkarawanen zum Transport von unglaublich schweren Waren benutzt und sind gleichzeitig mit schweren Ballisten bestückt. Fast jede Tätigkeit, die ein Konstrukt übernimmt, könnte genauso gut durch ein Tier, eine schlichte Mechanik oder einfach nur durch eine Person übernommen werden. Doch Konstrukte bieten, neben vielen anderen Vorteilen, einen bestimmten: bedingungslose Loyalität. Dies macht sie für Personen mit dem richtigen "Kleingeld" im Beutel zu attraktiven Begleitern.
 
 ### Kontrolle {#KonstruktResonanz}
 
@@ -521,7 +503,7 @@ Ein Fernkampf Konstrukt ist weit weniger adaptiert für den Nahkampf jedoch nich
 
 ![Fernkampf Konstrukt](Pictures/Flavor/Platzhalter/Konstrukt_Ballista.jpg)
 
-##### Titan klasse Konstrukt:
+##### Titanklasse:
 
 Diese Klasse ist die seltenste von ihr existieren selbst in den Aufzeichnungen nur eine handvoll Modelle. Diese teils riesigen Schöpfungen Tragen Kerne unglaublicher Ausmaße und immenser Reinheit in sich. Man möchte sich nicht ausmalen wie viel Essenz in die Erschaffung eines solchen Kernes gefloßen sein müssen, ganze Völker vom Angesicht der Erde getilgt. Was diese Konstrukte Gefährlich macht ist nicht Primär ihre Größe, Schlagkraft oder "Intelligenz" von denen alles in Maße vorhanden ist sondern viel mehr die Ausdauer. Ein jeder Militärstratege weis das Konstrukte gefährlich sind aber auch zerstört werden können wenn man ihre Rüstung durch dringt, dass mag auch hier Wahr sein, doch haben die gewitzten Erfinder dafür eine Lösungen gefunden. Die Konstrukte werden von vielen kleinen Konstrukten bewohnt, alle mit nur einem einzigen permaneten Befehl programmiert das Titanklasse Artefakt zu reparieren. Doch selbst diese benötigen auf Grund ihrer geringen größe, Kerne von großer Reinheit zwar wird Kapazität gespart durch die permanent Installation des Befehls jedoch ist dieser immer noch hoch Komplex und erfordert stets mehrere Schritte.
 
@@ -645,7 +627,7 @@ Folgende Fähigkeiten können verbessert werden:
 | Fingerfertigkeit |
 | Einschüchtern    |
 
-##### Kern
+#### Kern
 
 Der Konstrukt-Kern stellt sowohl das Herz als auch das Hirn eines jeden Konstrukts dar. Das Level des Kerns wird durch das Anwenden von Essenzen in der Downtime erhöht. Dieses Level beeinflusst viele Bereiche des Konstrukts:
 
@@ -702,51 +684,53 @@ Der Korpus bestimmt folgende Eigenschaften eines Konstrukts.
 
 -   Attributhöhe: je höher die Stufe, desto mehr Attribute können auf Särke, Agilität und Physis verteilt werden
 
+-   Das vergeben von Attributspunkten verläuft linear, also kostet das Steigern eines Attributs um einen Punkt nur einen Punkt,
+
 -   Rüstungswert 20/ 26/ 29/ 32 pro Teil im Durchschnitt in Prozent des Gesamt aufteilt: Kern 5%, Kernabdeckung 20% Arme 20%, Gürtel 35%, Beine 20%
 
--   Grundtragekapazität
+-   Grundtragekapazität: Diese wird automatisch berechnet und ist im Profil des jeweiligen Konstrukts nachzulesen.
 
 -   Fähigkeitsmaximum: die Eigenschaft Utility reduziert den Preis um den Faktor 0,25 jedoch wird das Skilllevel auf 50 limitiert xxxCrossreferenz XXXX
 
-+-------------+-------------+--------------+------------------+------------------+
-|             | Rüstung     | \| Attribute | \| Preis (Reiks) | \| Utility Preis |
-+=============+=============+==============+==================+==================+
-| Tier 1\     | 100         | 10           | 10.000           | 7500             |
-| klein       |             |              |                  |                  |
-+-------------+-------------+--------------+------------------+------------------+
-| Tier 2\     | 130         | 15           | 30.000           | 22500            |
-| klein       |             |              |                  |                  |
-+-------------+-------------+--------------+------------------+------------------+
-| Tier 3\     | 145         | 20           | 60.000           | 45.000           |
-| klein       |             |              |                  |                  |
-+-------------+-------------+--------------+------------------+------------------+
-| Tier 4\     | 160         | 25           | 120.000          | 90.000           |
-| klein       |             |              |                  |                  |
-+-------------+-------------+--------------+------------------+------------------+
-| Tier 1\     | 100         | 20           | 20.000           | 15.000           |
-| mittel      |             |              |                  |                  |
-+-------------+-------------+--------------+------------------+------------------+
-| Tier 2\     | 130         | 30           | 60.000           | 45.000           |
-| mittel      |             |              |                  |                  |
-+-------------+-------------+--------------+------------------+------------------+
-| Tier 3\     | 145         | 40           | 120.000          | 90.000           |
-| mittel      |             |              |                  |                  |
-+-------------+-------------+--------------+------------------+------------------+
-| Tier 4\     | 160         | 50           | 240.000          | 180.000          |
-| mittel      |             |              |                  |                  |
-+-------------+-------------+--------------+------------------+------------------+
-| Tier 1\     | 130         | 30           | 30.000           | 22.500           |
-| groß        |             |              |                  |                  |
-+-------------+-------------+--------------+------------------+------------------+
-| Tier 2\     | 169         | 45           | 90.000           | 67.500           |
-| groß        |             |              |                  |                  |
-+-------------+-------------+--------------+------------------+------------------+
-| Tier 3\     | 189         | 60           | 180.000          | 135.000          |
-| groß        |             |              |                  |                  |
-+-------------+-------------+--------------+------------------+------------------+
-| Tier 4\     | 208         | 75           | 360.000          | 270.000          |
-| groß        |             |              |                  |                  |
-+-------------+-------------+--------------+------------------+------------------+
++---------+---------+-----------+---------------+
+|         | Rüstung | Attribute | Preis (Reiks) |
++:=======:+:=======:+:=========:+:=============:+
+| Tier 1\ | 100     | 10        | 6.000         |
+| klein   |         |           |               |
++---------+---------+-----------+---------------+
+| Tier 2\ | 130     | 15        | 18.000        |
+| klein   |         |           |               |
++---------+---------+-----------+---------------+
+| Tier 3\ | 145     | 20        | 36.000        |
+| klein   |         |           |               |
++---------+---------+-----------+---------------+
+| Tier 4\ | 160     | 25        | 72.000        |
+| klein   |         |           |               |
++---------+---------+-----------+---------------+
+| Tier 1\ | 100     | 20        | 12.000        |
+| mittel  |         |           |               |
++---------+---------+-----------+---------------+
+| Tier 2\ | 130     | 30        | 36.000        |
+| mittel  |         |           |               |
++---------+---------+-----------+---------------+
+| Tier 3\ | 145     | 40        | 72.000        |
+| mittel  |         |           |               |
++---------+---------+-----------+---------------+
+| Tier 4\ | 160     | 50        | 144.000       |
+| mittel  |         |           |               |
++---------+---------+-----------+---------------+
+| Tier 1\ | 130     | 30        | 18.000        |
+| groß    |         |           |               |
++---------+---------+-----------+---------------+
+| Tier 2\ | 169     | 45        | 54.000        |
+| groß    |         |           |               |
++---------+---------+-----------+---------------+
+| Tier 3\ | 189     | 60        | 108.000       |
+| groß    |         |           |               |
++---------+---------+-----------+---------------+
+| Tier 4\ | 208     | 75        | 206.000       |
+| groß    |         |           |               |
++---------+---------+-----------+---------------+
 
 Alternativ zum Kauf ist es möglich, mit dem richtigen handwerklichen Geschick, ein Konstrukt selbst zu bauen. Hierfür sind Konstruktteile, diese bestehen aus je zwei Material des passenden Materials, benötigt. Es wird 1 Konstruktteil pro Größe verbraucht. Das mischen von Material bei den Konstruktteilen ist dabei nicht möglich.
 
@@ -756,39 +740,38 @@ Jedes Attribut startet standardmäßig auf 1 und kann durch den Korpus oder durc
 
 #### Batterie
 
-Der Preis einer Batterie erhöht sich mit der Anzahl der Ladungen und kann nach dem Kauf nicht weiter erhöht werden. Batterien können jedoch gebraucht verkauft werden, wenn ein Upgrade gewünscht ist.
+Eine Batterie ist wie der Kern ein stetig stärker werdendes Element des Konstrukts, eine Batterie wird mit 0 Maximalen Ladungen erworben und kann entweder beim Schmied zu unten genannten Konditionen verbessert werden oder man verbessert die effizienz einfach direkt selbst über Handwerkschecks, jedoch sollte man beachten dass sich sowohl Preis als auch schwierigkeitsgrad dieses Tuning verfahrens erheblich steigern.
 
-Außerdem können während der Session Essenzen genutzt werden, um die Batterie neu zu befüllen. CROSSREFERENCE (siehe Batterie in Session Aufladen)
+Außerdem können während der Session Essenzen genutzt werden, um die Batterie neu zu befüllen. xxxCROSSREFERENCE (siehe Batterie in Session Aufladen)
 
-*Grundpreis: 1.000*
+*Grundpreis: 5.000*
 
-+----------------+--------------------------+-------------------------------+
-| Ladungsanzahl  | Preis pro Ladung (Reiks) | Gesamt (inklusive Grundpreis) |
-+================+==========================+===============================+
-| 1-5            | 500                      | 3500                          |
-+----------------+--------------------------+-------------------------------+
-| 6-10           | 1.000                    | 8500                          |
-+----------------+--------------------------+-------------------------------+
-| 11-15          | 1.500                    | 16.000                        |
-+----------------+--------------------------+-------------------------------+
-| 16-20          | 2.000                    | 26.000                        |
-+----------------+--------------------------+-------------------------------+
-| 21-30          | 5000                     | 150.000                       |
-+----------------+--------------------------+-------------------------------+
-| 31-50          | 6000                     | 350.000                       |
-+----------------+--------------------------+-------------------------------+
++---------------+--------------------------+-------------------------------+---------------------------------------------+
+| Ladungsanzahl | Preis pro Ladung (Reiks) | Gesamt (inklusive Grundpreis) | Verbesserungsschwierigkeit (Handwerkscheck) |
++===============+==========================+===============================+=============================================+
+| 1-5           | 500                      | 7500                          | 1,5                                         |
++---------------+--------------------------+-------------------------------+---------------------------------------------+
+| 6-10          | 1.000                    | 12500                         | 2,3                                         |
++---------------+--------------------------+-------------------------------+---------------------------------------------+
+| 11-15         | 1.500                    | 20.000                        | 3                                           |
++---------------+--------------------------+-------------------------------+---------------------------------------------+
+| 16-20         | 2.000                    | 30.000                        | 4                                           |
++---------------+--------------------------+-------------------------------+---------------------------------------------+
+| 21-30         | 5000                     | 155.000                       | 5                                           |
++---------------+--------------------------+-------------------------------+---------------------------------------------+
+| 31-50         | 6000                     | 355.000                       | 6                                           |
++---------------+--------------------------+-------------------------------+---------------------------------------------+
 
-*Batterien können für 75% ihres Kaufpreises wieder gebraucht verkauft werden.*
+### Erweiterungen: Waffen, Upgrades und zusätzliches
 
-### Erweiterungen: Addons / Waffen / Upgrades
+Ein Konstrukt kann bis zu 5 Erweiterungen jeglicher Art gleichzeitig ausrüsten.\
+Egal ob es sich um Waffen, Addons oder Upgrades handelt.
 
-Ein Konstrukt kann bis zu 5 Erweiterungen gleichzeitig ausrüsten.
-
-Diese können entweder Käuflich erworben werden oder sogar selbst hergestellt werden.
+Diese können entweder Käuflich erworben werden oder sogar mit den entsprechenden Materialien selbst hergestellt werden.
 
 #### Upgrades:
 
-Upgrades erhöhen die Attribute eines Konstrukts solange diese ausgerüstet sind.
+Upgrades erhöhen entweder die Attribute, Panzerung oder Leben eines Konstrukts solange diese ausgerüstet sind.
 
 | Stufe | Attribute | Lebenspunkte | Panzerung |
 |-------|-----------|--------------|-----------|
@@ -799,55 +782,55 @@ Upgrades erhöhen die Attribute eines Konstrukts solange diese ausgerüstet sind
 
 #### Konstrukt Waffen:
 
-Ein Konstrukt kann das vollständige Waffenarsenal verwenden, auf das auch Spieler zugreifen können. Zusätzlich noch einige weitere besondere Waffen, wie den Kampfbohrer und den Flammenwerfer.
+Ein Konstrukt kann das vollständige Waffenarsenal verwenden, auf das auch Spieler zugreifen können. Zusätzlich noch einige weitere besondere Konstruktwaffen verwendet werden, wie den Kampfbohrer und den Flammenwerfer.
+
+- hier vielleicht ne übersicht über die waffen? können wir die Automatisieren?
 
 #### Addons: {#KonstruktAddons}
 
--   Transport: erhöht die Belastungsgrenze von Konstrukten für Transportgewicht
-
--   Panzermodus: 100% Block-Chance; Tiers erhöhen den Schildblockwert; deaktiviert Angriffsfunktion
-
--   Wachmodus: standardmäßig vorhanden, benötigt dennoch einen Erweiterungsslot, läuft über Perception
-
--   Schützenplatz: zur Bedienung der montierten Artillerie
-
--   Pilotensitz: ermöglicht den Vehikel- Check mit halbem Schwierigkeitsgrad und das Reiten auf dem Konstrukt. Kleine Rassen können bereits auf mittleren Konstrukten reiten, normal-große Rassen benötigen große Konstrukte
-
--   Verbaute Artillerie (nur durch Schützenplatz nutzbar) (Tier abhängig wie groß montierbare Waffe) (einklappbar)
-
--   Artillerienachlader: automatisches nachladen 1 mal pro Runde der Artillerie
-
--   Deckungsmodul: Das Konstrukt verwandelt sich in eine passive Barrikade hinter der Personen in Deckung gehen können.
-
--   Bolawerfer: Wirft Bolas
-
--   Werfer: Seil oder Rauch
-
--   Rammmodul: ermöglicht Interrupt/ Stun eines Gegners mit einer gewissen Chance
-
--   Überladungsblendmodul: funktioniert wie Licht des Allgotts, benötigt jedoch 5 Ladungen für Anwendungen und kann nur einmal pro Kampf eingesetzt werden
-
-+-------------+----------------+----------------+----------------+----------------+
-| Addons      | Stufe 1        | Stufe 2        | Stufe 3        | Stufe 4        |
-+=============+================+================+================+================+
-| Transport   | +75KG          | +125KG         | +200KG         | +300KG         |
-+-------------+----------------+----------------+----------------+----------------+
-| Panzermodus | Schildwert +10 | Schildwert +15 | Schildwert +20 | Schildwert +30 |
-+-------------+----------------+----------------+----------------+----------------+
-|             |                |                |                |                |
-+-------------+----------------+----------------+----------------+----------------+
++-------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------+----------------+----------------+----------------+
+| Addons                  | Beschreibung                                                                                                                                                                                                | Stufe 1        | Stufe 2        | Stufe 3        | Stufe 4        |
++=========================+=============================================================================================================================================================================================================+================+================+================+================+
+| Transport               | erhöht die Belastungsgrenzen des Transportgewichts                                                                                                                                                          | +75KG          | +125KG         | +200KG         | +300KG         |
++-------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------+----------------+----------------+----------------+
+| Panzermodus             | 100% Passiv Blockchance jedoch keine Angriffe möglich                                                                                                                                                       | Schildwert +10 | Schildwert +15 | Schildwert +20 | Schildwert +30 |
++-------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------+----------------+----------------+----------------+
+| Wachmodus               | Standartmäßig vorhanden benötigt jedoch Slot, Konstrukt steht Wache durch Perception Check                                                                                                                  |                |                |                |                |
++-------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------+----------------+----------------+----------------+
+| Artillerie              | Nur von menschenhand bedienbare festmontierte Artillerie, jedoch einklappbar                                                                                                                                |                |                |                |                |
+|                         |                                                                                                                                                                                                             |                |                |                |                |
+|                         | nur im Festenstand zu nutzen                                                                                                                                                                                |                |                |                |                |
++-------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------+----------------+----------------+----------------+
+| Schützenplatz           | Ermöglicht Artillerienutzung in der Bewegung und ohne abzusteigen, bietet zusätzlich Deckung für den Schützen                                                                                               |                |                |                |                |
++-------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------+----------------+----------------+----------------+
+| Artillerienachlademodul | ermöglicht das Automatische Nachladen ohne das zutun des Schützen, verbraucht jedoch Ladungen                                                                                                               |                |                |                |                |
++-------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------+----------------+----------------+----------------+
+| Fernkampfstellung       | ermöglicht es Fernkämpfern auf dem Konstrukt stellung zu beziehen und Deckung zu suchen (nur bei großen Konstrukten möglich)                                                                                |                |                |                |                |
++-------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------+----------------+----------------+----------------+
+| Pilotensitz             | ermöglicht den Vehikel- Check mit halbem Schwierigkeitsgrad und das Reiten auf dem Konstrukt. Kleine Rassen können bereits auf mittleren Konstrukten reiten, normal-große Rassen benötigen große Konstrukte |                |                |                |                |
++-------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------+----------------+----------------+----------------+
+| Pilotensitzpanzerung    | Schützt den Pilotensitz so das nur das Konstrukt attackiert werden kann, Pilot versteckt sich wie Kern hinter der Abdeckung (Called shot)                                                                   |                |                |                |                |
++-------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------+----------------+----------------+----------------+
+| Utilitywerfer           | Rauch, Seil und Bola dieser Apparatus findet immer etwas zum werfen.                                                                                                                                        |                |                |                |                |
++-------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------+----------------+----------------+----------------+
+| Rammmodul               | ermöglicht es dem Konstrukt ein Rammmanöver zu starten um einen gegner mit gewisser Chance zu betäuben / zu unterbrechen                                                                                    |                |                |                |                |
++-------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------+----------------+----------------+----------------+
+| Überladungsblendmodul   | Durch eine Kernüberladung zum Preis von 5 Ladungen werden umstehende Geblendet zusätzlich erhält das Konstrukt schaden.                                                                                     |                |                |                |                |
++-------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------+----------------+----------------+----------------+
 
 ### Beispiel Konstrukt Erstellung
 
-Als Beispiel wird ein mittleres Konstrukt erstellt, das als Frontkämpfer die Gruppe erweitern soll.
+Ein Beispiel für die erstellung eines Konstrukts, ein fähiger Händler in der Gruppe hat nach einigem sparen entschieden die Schwäche der Gruppe im Kampf durch ein Konstrukt auszugleichen. Der Gruppe fehlt ein Frontkämpfer, da sich die gesamte Gruppe dafür entschieden hat Stealth Archer zu werden.
 
-Kern: Grundpreis 5000R+ 10 Essenzen für Kernstufe ... = Kernstufe 10
+Nach dem die generelle Ausrichtung bestimmt ist und ein passender Händler gefunden, beginnt die Auswahl. Als erstes wählt er für die Rolle passend einen Corpus ausgewählt, nicht zu auffällig groß aber auch nicht zu klein. Also wird es ein Mittlerer Corpus mit den Attributen gleichmäßig verteilt zwischen Stärke und Physical, um bestsens Blocken und im Nahkampf angreifen zu können. Dafür betragen die Kosten für T1 12.000R. \
+Als nächstes der Kern für 5000, auf niedriger Stufe bietet es sich an in die das Kern-Stufe anstelle von Skill-Level zu investieren für Kernstufe 10 weitere 5.000R.\
+Nun noch die Batterie, für 12.500R erhält man eine Batterie mit 10 Ladungen.
 
-Korpus: Mittel, Utility, T1 15.000R= 20 Attribute, 100 Armor
+Jetzt fehlt nur noch die Ausrüstung, für den Anfang reicht noch das alte Schild und Schwert.
 
-Batterie: 10 Ladungen 8500R
+Gesamtkosten wären damit etwa: 34.500 + Ausrüstung
 
-28.500 + Schwert + Schild
+Die werte werden flux in das Muster Excel sheet eingetragen alle anderen Informationen werden automatisch ergänzt also kann es schon losgehen.
 
 ## Tiere als Begleiter {#AnimalHandling}
 

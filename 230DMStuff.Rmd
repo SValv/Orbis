@@ -1,28 +1,41 @@
-# (PART) DM-Sektion {-} 
+# (PART) DM-Sektion {.unnumbered}
 
 # Für DM's und die, die es werden Wollen
 
-Das wichtigste für gutes DM-sein ist eine tiefe Kenntnis der Regeln und das richtige Interpretieren der Values. Natürlich gehören auch viele andere Qualitäten dazu, allerdings sind diese zwei für unser System spezifisch. 
+Das wichtigste für gutes DM-sein ist eine tiefe Kenntnis der Regeln und das richtige Interpretieren der Values. Natürlich gehören auch viele andere Qualitäten dazu, allerdings sind diese zwei für unser System spezifisch.
 
 ## Wie intepretiere ich Values und Würfe {#Abstufungen}
 
-Ein Value ist ein Gütekriterium von einem Wurf - egal ob Probe, Save oder anderes - und wird von der DM-App für fast alle Aktionen zurückgemeldet. Das interpretieren von Values ist gerade am Anfang nicht sonderlich leicht, ein Value von 2 beispielsweise spricht dafür dass die Aktion durchschnittlich war. Um Values einfach interpretieren zu können, muss man ein Gefühl dafür entwickeln. Dafür gibt es den [Value Estimator](https://svalv.shinyapps.io/ValueEstimator/), eine Online-App in der mit verschiedenen Attributen und Skilleveln über 20 Millionen Würfe simuliert sind, damit ihr schneller und besser einen Überblick über das Value-System bekommen könnt. Wählt hierbei zuerst den richtigen Datensatz aus, wenn ihr die weniger tödliche Variante mit Damage-Cap bei 550 und Value-Cap bei 13 spielt, müsst ihr unter settings "begrenzte Values" auswählen. Ansonsten die unbegrenzten. Für den seltenen Fall dass euch Monster wichtig sind, gibt es den Datensatz Monstervalues, bei denen mit Attributen bis zu 80 simuliert wurde.
+Ein Value ist ein Gütekriterium von einem Wurf - egal ob Probe, Save oder anderes - und wird von der DM-App für fast alle Aktionen zurückgemeldet. Das interpretieren von Values ist gerade am Anfang nicht sonderlich leicht, ein Value von 2 beispielsweise spricht dafür dass die Aktion durchschnittlich war. Um Values einfach interpretieren zu können, muss man ein Gefühl dafür entwickeln, es gibt allerdings gewisse Einordnungen, die man sich überlegen kann.
+
+| Value  |                   Interpretation                    |
+|:------:|:---------------------------------------------------:|
+|  \< 1  | Sehr schlecht gelaufener Versuch etwas zu erreichen |
+|  \< 2  |        schlechter versuch etwas zu erreichen        |
+| \< 2.5 | schlechter bis mittlerer Versuch etwas zu erreichen |
+|  \< 3  |        mittlerer Versuch etwas zu erreichen         |
+| \< 3.5 |   mittlerer bis guter Versuch etwas zu erreichen    |
+|  \< 4  |          guter Versuch etwas zu erreichen           |
+|  \< 5  |        sehr guter Versuch etwas zu erreichen        |
+|  \< 6  |    unglaublich guter Versuch etwas zu erreichen     |
+
+Außerdem gibt es den [Value Estimator](https://svalv.shinyapps.io/ValueEstimator/), eine Online-App in der mit verschiedenen Attributen und Skilleveln über 20 Millionen Würfe simuliert sind, damit ihr schneller und besser einen Überblick über das Value-System bekommen könnt. Wählt hierbei zuerst den richtigen Datensatz aus, wenn ihr die weniger tödliche Variante mit Damage-Cap bei 550 und Value-Cap bei 13 spielt, müsst ihr unter settings "begrenzte Values" auswählen. Ansonsten die unbegrenzten. Für den seltenen Fall dass euch Monster wichtig sind, gibt es den Datensatz Monstervalues, bei denen mit Attributen bis zu 80 simuliert wurde.
 
 ### Was machen kritische Würfe
 
-Bei kritischen Erfolgen/Misserfolgen wird im Hintergrund ein D20-Würfel geworfen. Die DM-App meldet euch kritische Erfolge mit roter (bei Nat 20s) oder gelber Schrift zurück. Kritische Misserfolge werden mit blau (Nat 1) oder grün zurückgemeldet. Bei derartigen Modifyern hat man als DM oft die Möglichkeit zusätzliche Belohnungen/Strafen einzuführen. 
+Bei kritischen Erfolgen/Misserfolgen wird im Hintergrund ein D20-Würfel geworfen. Die DM-App meldet euch kritische Erfolge mit roter (bei Nat 20s) oder gelber Schrift zurück. Kritische Misserfolge werden mit blau (Nat 1) oder grün zurückgemeldet. Bei derartigen Modifyern hat man als DM oft die Möglichkeit zusätzliche Belohnungen/Strafen einzuführen.
 
 ## Queststufen
 
-| Queststufe | Beschreibung                                                                                                                                                                                                 | Standartdpreis |
-|:----------:|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------:|
-|      1     | Keine großen Folgen und nur ein Pet-peeve für Auftragsgeber                                                                                                                                                  |       500      |
-|      2     | Kleine Aufträge, möglicherweise gefährlich, wenig bis keine Auswirkungen                                                                                                                                     |      1000      |
-|      3     | Mittlere Aufträge, etwas Gefährlich, keine Auswirkungen auf Standing mit großen Fraktionen, geringe lokale Auswirkungen                                                                                      |      2500      |
-|      4     | Mittlere Aufträge, etwas Gefährlich, meist keine Auswirkungen auf Standing mit großen Fraktionen, mittlere lokale Auswirkungen                                                                               |      6000      |
-|      5     | Mittlere Aufträge, kleine regionale/ große Lokale Auswirkungen, gefährlich, beeinflusst Standing mit Fraktionen (v.a. mit kleineren)                                                                         |      14000     |
-|      6     | Mittlere Aufträge, mittlere regionale Auswirkungen, gefährlich, beeinflusst Standing mit Fraktionen (v.a. mit kleineren)                                                                                     |      28000     |
-|      7     | Große Aufträge, große regionale Auswirkungen, beeinflusst Standing mit Fraktionen                                                                                                                            |      50000     |
-|      8     | Große Aufträge, Leichte Globale Auswirkungen, ändert Standing mit Fraktionen                                                                                                                                 |     100000     |
-|      9     | Große Aufträge, Globale Auswirkungen, ändert Standing mit Fraktionen stark.                                                                                                                                  |     600000     |
-|     10     | Quests mit enormen Gefahren, Politisch gravierenden Konsequenzen und extremen langfristigen Folgen für Charaktere und Welt. BSP: Kaiser töten, Land übernehmen etc, Kann Fraktionen zum Teil ganz vernichten |    3.000.000   |
+| Queststufe | Beschreibung                                                                                                                                                                                                 | Belohnung |
+|:----------:|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------:|
+|     1      | Keine großen Folgen und nur ein Pet-peeve für Auftragsgeber                                                                                                                                                  |    500    |
+|     2      | Kleine Aufträge, möglicherweise gefährlich, wenig bis keine Auswirkungen                                                                                                                                     |   1000    |
+|     3      | Mittlere Aufträge, etwas Gefährlich, keine Auswirkungen auf Standing mit großen Fraktionen, geringe lokale Auswirkungen                                                                                      |   2500    |
+|     4      | Mittlere Aufträge, etwas Gefährlich, meist keine Auswirkungen auf Standing mit großen Fraktionen, mittlere lokale Auswirkungen                                                                               |   6000    |
+|     5      | Mittlere Aufträge, kleine regionale/ große Lokale Auswirkungen, gefährlich, beeinflusst Standing mit Fraktionen (v.a. mit kleineren)                                                                         |   14000   |
+|     6      | Mittlere Aufträge, mittlere regionale Auswirkungen, gefährlich, beeinflusst Standing mit Fraktionen (v.a. mit kleineren)                                                                                     |   28000   |
+|     7      | Große Aufträge, große regionale Auswirkungen, beeinflusst Standing mit Fraktionen                                                                                                                            |   50000   |
+|     8      | Große Aufträge, Leichte Globale Auswirkungen, ändert Standing mit Fraktionen                                                                                                                                 |  100000   |
+|     9      | Große Aufträge, Globale Auswirkungen, ändert Standing mit Fraktionen stark.                                                                                                                                  |  600000   |
+|     10     | Quests mit enormen Gefahren, Politisch gravierenden Konsequenzen und extremen langfristigen Folgen für Charaktere und Welt. BSP: Kaiser töten, Land übernehmen etc, Kann Fraktionen zum Teil ganz vernichten | 3.000.000 |

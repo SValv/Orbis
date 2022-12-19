@@ -4,7 +4,7 @@ editor_options:
     wrap: sentence
 ---
 
-# Creatura Animali
+# Creatura Animali {#Creatura Animali}
 
 ## Überlick über die Animali
 
@@ -23,12 +23,12 @@ Verglichen mit dem Imperium leben die Animali einen relativ konservativen Lebens
 Es wird angenommen, dass die Animali diesen Lebensstil wählen, weil das sich ständig ändernde Wetter und Ökosystem bestimmte Teile des Eislandes nur zu bestimmten Zeiten bewohnbar macht.
 Es wird auch geglaubt, dass ihre abgeschiedene und konservative Natur hauptsächlich für ihr langsames Fortschreiten als Gesellschaft verantwortlich ist und, dass sie kulturell und wissenschaftlich (falls man das bei den Animali so nennen kann), Jahrzehnte hinter den anderen Rassen zurückliegen.
 
-![Ein für die Jagd bewaffneter Animalus[^1]](Pictures/Flavor/Animali/by_JLazarusLB_Ziege.jpg)
+![Ein für die Jagd bewaffneter Animalus[^007animali-1]](Pictures/Flavor/Animali/by_JLazarusLB_Ziege.jpg)
 
-[^1]: "Goatman" von [JLazarusEB](https://www.deviantart.com/jlazaruseb/art/Goatman-619607162).
+[^007animali-1]: "Goatman" von [JLazarusEB](https://www.deviantart.com/jlazaruseb/art/Goatman-619607162).
     Dieses Artwork steht unter einer Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 License zur verfügung.
 
-[^2]: "Goatman" von [JLazarusEB](https://www.deviantart.com/jlazaruseb/art/Goatman-619607162).
+[^007animali-2]: "Goatman" von [JLazarusEB](https://www.deviantart.com/jlazaruseb/art/Goatman-619607162).
     Dieses Artwork steht unter einer Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 License zur verfügung.
 
 ## Die Geschichte der Animali
@@ -111,12 +111,12 @@ Die Animali sind in mehrere Nomadenstämme aufgeteilt, die durch das eiskalte Ö
 Die Animali haben nur einen festen Ort, den sie besetzen.
 Die Höhle von Khazak.
 
-![Manche Animali sind perfekt ans Eisland angepasst[^3]](Pictures/Flavor/Animali/by_Emkun_Bear.png)
+![Manche Animali sind perfekt ans Eisland angepasst[^007animali-3]](Pictures/Flavor/Animali/by_Emkun_Bear.png)
 
-[^3]: "Bear warrior" von [Emkun](https://www.deviantart.com/emkun/art/Bear-warrior-870124071).
+[^007animali-3]: "Bear warrior" von [Emkun](https://www.deviantart.com/emkun/art/Bear-warrior-870124071).
     Dieses Artwork steht unter einer Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 License zur Verfügung.
 
-[^4]: "Bear warrior" von [Emkun](https://www.deviantart.com/emkun/art/Bear-warrior-870124071).
+[^007animali-4]: "Bear warrior" von [Emkun](https://www.deviantart.com/emkun/art/Bear-warrior-870124071).
     Dieses Artwork steht unter einer Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 License zur Verfügung.
 
 Die einzelnen Stämme werden von einem Schamanen geführt.
@@ -141,12 +141,12 @@ Das Jungtier übernimmt dann bestimmte Merkmale der erlegten Beute und wird dami
 Dies determiniert auch den sozialen Status des Animalus in seinem Stamm.
 Diesen Prozess kann ein Jungtier nur einmal durchlaufen.
 
-![Ein frisch mutierter Animalus, die Mutationen hängen von seiner Beute als Jungtier ab[^5]](Pictures/Flavor/Animali/Pixaby_Jungtier.png)
+![Ein frisch mutierter Animalus, die Mutationen hängen von seiner Beute als Jungtier ab[^007animali-5]](Pictures/Flavor/Animali/Pixaby_Jungtier.png)
 
-[^5]: von [pendleburyannette](https://pixabay.com/de/illustrations/kreatur-werwolf-stand-fu%C3%9F-3d-4955810/).
+[^007animali-5]: von [pendleburyannette](https://pixabay.com/de/illustrations/kreatur-werwolf-stand-fu%C3%9F-3d-4955810/).
     Dieses Bild zur freien kommerziellen Nutzung zur Verfügung.
 
-[^6]: von [pendleburyannette](https://pixabay.com/de/illustrations/kreatur-werwolf-stand-fu%C3%9F-3d-4955810/).
+[^007animali-6]: von [pendleburyannette](https://pixabay.com/de/illustrations/kreatur-werwolf-stand-fu%C3%9F-3d-4955810/).
     Dieses Bild zur freien kommerziellen Nutzung zur Verfügung.
 
 ### Die Völkerbeziehungen der Rasse

@@ -1,42 +1,149 @@
-# Installation und Nutzung des Programmes
+# Installation und Nutzung des OrbisDMApp-Programmes
+
+```{r, eval=FALSE}
+dfDMAppArgs = read_excel("BookdownData/DMAppParameter.xlsx")
+
+
+getargs = function(Tab){
+  
+  tab = dfDMAppArgs %>% filter(Tab == Tab) %>% 
+    arrange(Position) %>% 
+    select(Befehl, Parameter, Beschreibung) %>% 
+    reactable(groupBy = "Befehl",
+              columns = list(
+                
+                Befehl = colDef(
+                  grouped = JS("function(cellInfo) {
+                            return cellInfo.value
+                          }")
+                  
+                )
+              ), bordered = F,
+              highlight = T, showPageSizeOptions = F,
+              defaultPageSize = 17,
+              theme= overallThemeReactable, 
+              defaultColDef = colDef(
+                align = "center"
+              ), outlined = T,
+              striped=T, filterable = T)
+  
+  return(tab)
+  
+}
+```
+
 
 ## Installation
 
-Die Installation von Orbis ist an sich eine leichte Sache. Ladet einfach die "The Game" oben links über den Download-Button herunter. Ihr solltet eine Zip-Datei erhalten, die ihr an den Ort an eurem PC an dem ihr das Spiel haben wollt extrahieren könnt.
+Step by Step Guide:
 
-Innerhalb der Datei sollten sich zwei Ordner befinden: Der "OrbisDMApp" Ordner und der "OrbisGame" Ordner.
+Die Installation von Orbis ist an sich eine leichte Sache. Auf der Homepage des Spiels, gibt es oben links die Möglichkeit über den Download-Button eine Zip-Datei herunterzuladen. Alternativ kann man auch einfach [hier klicken](https://svalv.github.io/Orbis/DownloadContainer/OrbisGame.zip).
 
-Danach sollte folgendermaßen vorgegangen werden:
+![Ort und Symbol des Download-Buttons](Pictures\\Rules\\DownloadSymbol.png)
 
-1.  Es ist empfohlen den Game Folder (oder nur den Ordner "ZZZ Character Sheets") per Cloud an die anderen Spieler freizugeben, da diese dann automatisch ihre Char-sheets dort hinein synchronisieren können und Neuerungen damit immer aktuell sind.
+Diese Zip-Datei kann in einen beliebigen Zielordner verschoben werden, wo sie auch entpackt wird. Dazu die Zip-Datei mit einem Rechtsklick auswählen und "Hier entpacken" wählen.
+Danach sollten zwei Ordner im Zielordner erscheinen: *OrbisGame* und *OrbisDMApp*.
+
+### Ordner OrbisGame {#OrbisGame}
+
+Der Ordner "OrbisGame" sollte die drei Ordner *Container*, *SessionOrganisation* und *ZZZ Character Sheets* enthalten. Der "Container"-Ordner enthält alle Excel-Dateien, die die App benötigt, um später richtig zu funktionieren. Dazu gehört die Liste aller Gegenstände im Spiel, Waffen, Rüstungen, aber ebenso die vorgefertigten Profile, die später in diesem Guide noch ausführlich erklärt werden.
+Der "SessionOrganisation"-Ordner enthält den Ordner, in dem die [Session Backups](#SessionBackup) geladen werden, den Ordner Pflanzen, welcher die Excel-Liste der gesammelten Pflanzen der Blumenmädchen enthält, sowie die Excel-Datei ["lootliste"](#DMAppLootliste). XXXX
+Werden im Verlauf einer Session [Städte](#DMAppStadt) XXXX erstellt, so werden diese ebenfalls in diesem Ordner als Excel-Datei ausgegeben.
+
+Zur unkomplizierteren [Einladen der Spielercharaktere in das Programm](#DMAppPersonen) ist es ratsam, den Ordner *ZZZ Character Sheets* für alle Spieler zugänglich zu machen. Dies kann bspw. durch die Nutzung einer Cloud - bspw [Dropbox](https://www.dropbox.com) - oder eines geteilten Laufwerks geschehen. Somit hat der DM zu jedem Zeitpunkt Zugriff auf die aktuellste Version der Excel-Datei des Spielers.
+
+### Ordner OrbisDMApp und App-Ausführung {#OrbisDMApp}
+
+Um die DM App ausführen zu können, muss die Anwendung im "OrbisDMApp" Ordner gesucht werden. Es handelt sich hierbei in der Spalte Typ um die einzige Anwendung im Ordner:
+
+![Aussehen der Anwendung im OrbisDMApp Ordner](Pictures\\Rules\\OrbisAppAnwendung.jpg)
+
+Diese Anwendung wird mittels Doppelklick gestartet. Hier öffnet sich nun ein Fenster, welches auffordert, einen Ordner auszuwählen. Hier kommt der "OrbisGame" Ordner ins Spiel. Diesen bitte auswählen.
+
+Da es sich bei der App um eine privat programmierte App handelt, kann es zu folgender Fehlermeldung kommen: XXXX
+
+BILD EINFÜGEN
+
+Hier auf "Mehr Informationen" klicken und die Ausführung freigeben.
+
+
+
+Sollten die eben beschriebenen Schritte ausgeführt worden sein und die App lässt sich dennoch nicht öffnen, schaue bitte in das Kapitel [Bekannte Fehler](#BekannteFehler) für weitere Hilfestellungen.
+
+
+
+## noch einbringen
 
 2.  Character Sheets sollten in den Order "ZZZ Character Sheets" gespeichert werden,
 
 3.  Es lohnt sich eine Verknüpfung zur Anwendung "OrbisDMApp.exe" zu erstellen und wo abzulegen wo es für einen selbst gemütlich ist, damit kann die App einfach per Doppelklick geöffnet werden.
 
-4.  Wenn man die App startet muss man den Game Folder per Mausklick in einem Dialog der sich öffnet auswählen.
-in dem auch die "OrbisDMApp"-Anwendung liegt
+
 
 ## Nutzung der DM-App
 
-### Wie initialisiert man Objekte
+Wenn die App gestartet wird, solltet ihr beim Umgebungs-Tab rauskommen. Wichtig ist, dass der nachfolgende Guide eine Übersicht darstellt, die zugleich jeden Tab mit den Subtabs erklärt. Er dient somit einem Überblick und einer fundierten Einführung in die Nutzung der DM-App.Aus diesem Grund wird die Erklärung der Tabs entsprechend der Nutzung der DMApp erläutert und entspricht nicht der Tab-Reihenfolge innerhalb der App selbst.
 
-Damit Ritter, Orks und Riesenspinnen gegeneinander kämpfen oder miteinander tanzen können, müssen sie erstmal in die DM-App eingelesen werden. Dies kann im Tab "Initialisation" gemacht werden. 
+### Erstellung {#DMAppErstellung}
 
-### Optionen der DM-App
+Beginnend im Erstellungs-Tab: Damit Ritter, Orks und Riesenspinnen gegeneinander kämpfen oder miteinander tanzen können, müssen sie erstmal in die DM-App eingelesen werden. Dies kann im Tab "Erstellung" gemacht werden. Hier werden alle Personen, Tiere, Monster und alle weiteren Akteure initialisiert, die im Rahmen der Session zum Einsatz kommen. Dazu gehören auch [Fahrzeuge](#Fahrzeuge) XXXX, [Konstrukte](#Konstrukte), [Strukturen](#Strukturen) XXXX und Listen.
 
-| Option                             | Auswirkung                                                                                                                                 | Standard |
-|------------------|------------------------------------|------------------|
-| Reset Called/Advantage after Throw | Soll nach dem Angriff das Feld für Called Shots und Advantage zurückgesetzt werden?                                                        | Ja       |
-| Reset heavy Attack after Throw     | Soll nach dem schweren Angriff die Option schwerer Angriff auf nein zurückgesetzt werden?                                                  | Ja       |
-| Reset init-counter                 | Soll nach dem Initialisieren von mehr als einem Objekt gleichzeitig der Anzahl-Counter für das nächste Objekt wieder auf 1 gesetzt werden? | Ja       |
-| Limit Value and Damage             | Soll der Damage bei 550 und der Value bei 13 nach oben begrenzt werden? Das ist sozusagen der "safety-mode"                                | Nein     |
-| Maximale Rundenbackups             | Wieviele Aktionen soll man ein Objekt zurücksetzen können? Höhere Anzahl braucht minimal mehr Arbeitsspeicher                              | 6        |
-| Design                             | welches Design soll verwendet werden                                                                                                       | Arcade   |
+#### Personen {#DMAppPersonen .unnumbered}
 
-: Optionen und ihre Bedeutung
+Im SubTab Personen können bereits die vorgefertigten Profile aus dem [OrbisGame-Ordner](#OrbisGame) und die Excel-Dateien der Spieler reingeladen oder ein NPC spontan selbst erstellt werden.
 
-## Eigene Profile, Monster und andere Schöpfungen
+##### *Profile* {#DMAppPersonenProfile .unnumbered}
+
+
+![SubTab Profile im SubTab Personen](Pictures\\Rules\\DMAppErstellungPersonenProfile.jpg)
+
+Es empfiehlt sich den Profilen Namen zu geben, die eindeutig, aber kurz sind. Diese Namen müssen für verschiedene Aktionen händisch eingetragen werden. Es empfehlen sich Namen wie "a" oder "Adel" für einen Adligen. Unter Profil kann aus der gesamten Profil-Datenbank geschöpft werden.
+Wird hier ein spezielles Profil gesucht, so kann der Anfangsbuchstabe des Profils eingegeben werden, während das Dropdown-Menü ausgewält wurde.
+Die Anzahl bestimmt, wie viele der Profile erstellt werden. Somit kann Zeit gespart werden, wenn die Spieler bspw. auf eine Gruppe Ritter oder Banditen stößt. Wird eine Gruppe initialisiert, so nummeriert das Programm die Namen automatisch durch.
+Die Check-Box *Zufallsfaktor* steht dabei für die Möglichkeit, eine zufällige Abweichung der Charakter-Ausprägungen einzuführen. Wird diese Box nicht ausgewählt, so verfügen alle reingeladenen Profil über jene Merkmalsausprägungen, wie sie in der Excel-Datei festgelegt wurden.
+Wird diese box ausgewählt, so variieren die Ausprägungen nach oben und unten. Ebenso werden unterschiedliche Waffen eingefügt. Dies hat den Vorteil, dass eine Gruppe geladener Profile so diversifiziert dargestellt werden kann, wie sie es in der Realität vermutlich auch wäre.
+
+Durch das betätigen des "Erstellen"-Buttons, wird das Profil initialisiert.
+In der Box auf der rechten Seite gibt das Programm die Meldung aus, ob die Initialisierung erfolgreich verlief.
+
+
+##### *PC* - Spielbare Charaktere {#DMAppPersonenPC .unnumbered}
+
+Der SubTab *PC* steht für die spielbaren Charaktere. Hier können also die Profile der Spieler der Session eingelesen werden. Auch hier lohnt es sich, die Namen kurz und prägnant zu wählen.
+Wird ein Name eingegeben und der "Erstellen"-Button gedrückt, so öffnet sich ein neues Fenster, welches dazu auffordert die Excel-Datei des Spielers im _ZZZ Character Sheets_-Ordner auszuwählen.
+Wir eine Excel-Datei ausgewählt, so wird der Charakter automatisch eingeladen. Auch hier wird in der Box auf der rechten Seite eine Meldung ausgegeben, die "*Name* erfolgreich initialisiert" lautet, wenn alles funktioniert hat.
+
+##### *Npc* - nichtspielbare Charaktere {#DMAppPersonenNpc .unnumbered}
+
+Möchte ein DM selbst auf die Schnelle eine Person erstellen, welche über bestimmte Fähigkeits- und Attributsausprägungen verfügen soll, so gibt es die Möglichkeit einen *Npc* (non-player character) zu erstellen.
+
+Die Auswahlmöglichkeiten die Fähigkeiten festzulegen orientiert sich an den Sub-Tabs des Spiele-Tabs. Während die [Attribute](#Attribute) einzeln eingestellt werden können, werden die [Fähigkeiten](#Fähigkeiten) in Bereiche zusammengefasst.
+
+![SubTab Profile im SubTab Personen](Pictures\\Rules\\DMAppPersonenNPC.jpg)
+
+**Kampf** umfasst alle Fähigkeiten, die mit dem Kämpfen zu tun haben und wie im Tabellenblatt [Status](#Status) unter Kampf aufgeführt sind. 
+Hierzu gehören das Reiten, Nahkampfwaffen, Unbewaffnet, Blocken, Artillerie, Fernwaffen, Werfen und Ausweichen. 
+
+XXXX Tabelle einfügen für die Übersichtlichkeit? XXXX
+
+Schurken-Fähigkeiten sind die Akrobatik, das Schleichen und die Fingerfertigkeit.
+
+Die Sozialen Fähigkeiten sind...
+
+Fortbewegung
+
+Intelligenz
+
+Utility
+
+*sigmaSkills* stehet für die Abweichung der einzelnen Skills innerhalb der Überkategorien. *sigmaAttr* sorgt für eine Variation innerhalb der Attributpunkte. Dies ist besonders hilfreich, wenn mehrere NPCs erstellt werden sollen oder allgemein ein Zufallsfaktor von Interesse ist.
+
+Auswahl Reittier ist *None*, wenn kein Reittier ausgewählt werden soll XXXX
+
+Unter *Waffe* kann eine Auswahl aus allen zur verfügung stehenden Waffen getroffen werden. Zur vereinfachten Suche ist es möglich, den Anfangsbuchstaben der Waffe einzugeben und somit direkt im Alphabet dorthin zu gelangen. 
+Das *Schild* bietet die Auswahlmöglichkeiten für das Blocken.
+
+#### Eigene Profile, Monster und andere Schöpfungen
 
 Bei den Resistenzen kann man Dots eintragen, die keine Wirkung oder die doppelte Wirkung haben. Wenn der Dot ein minus davor trägt, beispielsweise bei "-brennen" ist es eine Empfindlichkeit. Ansonsten handelt es sich um eine Resistenz.
 
@@ -48,15 +155,116 @@ Bei den Resistenzen kann man Dots eintragen, die keine Wirkung oder die doppelte
 
 ### Eigene Munition und Artillerie
 
+#### Monster {#DMAppMonster .unnumbered}
 
-## Bekannte Probleme {#BekannteFehler}
+Alle weiteren Kreaturen, Strukturen und Objekte lassen sich erstellen, indem der jeweilige Tab ausgeklappt wird.
 
-### Mein Fenster ist verschwunden 
+![SubTab Profile im SubTab Personen](Pictures\\Rules\\DMAppErstellungÜbersicht.jpg)
+
+Für Monster einfach den *Monster*-Tab auswählen.
+Hier muss lediglich der Name des Monsters eingegeben, im Dropdown-Menü bei Monster-Proil das richtige Monster ausgewählt und die Anzahl der zu erstellenden Monster eingegeben werden.
+
+Wenn eigene Monster erfunden werden, müssen diese in die "ProfilesMonster"-Excel Datei eingetragen werden. Diese findet sich im *OrbisGame*-Ordner unter OrbisGame\Container\Data\ProfilesMonster. 
+
+#### Tiere {#DMAppTiere .unnumbered}
+
+Die Erstellung von Tieren gleicht der der Monster, bis auf den Unterschied, dass es hierbei die Möglichkeit gibt, einen Besitzer einzutragen.
+Dieses Feld ist auszufüllen, wenn ein Spieler beispielsweise ein Tier kauft, oder mittels [Tierhandhabung](#tierhandhabung) zähmt.
+
+### DM-Übersicht {#DMAppDMÜbersicht}
+
+Wie schaue ich mir die Details eines Charakters an
+
+#### Beschreiben {#DMAppBeschreiben}
+
+#### Status {#DMAppStatus}
+
+#### Zurücksetzen {#DMAppZurücksetzen}
+
+#### Löschen {#DMAppLöschen}
+
+#### Elemente {#DMAppElemente}
+
+#### Show-Tab {#DMAppShowTab}
+
+
+### Umgebung
+
+### Einstellungen {#DMAppEinstellungen}
+
++------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------+-----------+
+| Option                             | Auswirkung                                                                                                                                 | Standard  |
++====================================+============================================================================================================================================+===========+
+| Reset Called/Advantage after Throw | Soll nach dem Angriff das Feld für Called Shots und Advantage zurückgesetzt werden?                                                        | Ja        |
++------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------+-----------+
+| Reset heavy Attack after Throw     | Soll nach dem schweren Angriff die Option schwerer Angriff auf nein zurückgesetzt werden?                                                  | Ja        |
++------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------+-----------+
+| Reset init-counter                 | Soll nach dem Initialisieren von mehr als einem Objekt gleichzeitig der Anzahl-Counter für das nächste Objekt wieder auf 1 gesetzt werden? | Ja        |
++------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------+-----------+
+| Limit Value and Damage             | Soll der Damage bei 550 und der Value bei 13 nach oben begrenzt werden? Das ist sozusagen der "safety-mode"                                | Nein      |
++------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------+-----------+
+| Maximale Rundenbackups             | Wieviele Aktionen soll man ein Objekt zurücksetzen können? Höhere Anzahl braucht minimal mehr Arbeitsspeicher                              | 6         |
++------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------+-----------+
+| Design                             | welches Design soll verwendet werden                                                                                                       | Arcade    |
++------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------+-----------+
+
+: Optionen und ihre Bedeutung
+
+#### Session Backup {#SessionBackup}
+
+Sollte es zur Situation kommen, dass Fehler seitens des DMs in der Ausführung der Aktionen passiert sind, oder sich die Spieler entscheiden zurück zu einem vorherigen Zeitpunkt in der Session gehen zu wollen, so kann eine Backup Datei geladen werden. 
+Diese befindet sich im Ordner "OrbisGame" im Unterordner "SessionOrganisation".
+
+### Spiel
+
+1.  (Reihenfolge, wie Tabs auch stehen)
+
+    1.  Sozial
+
+        1.  Was ist ein Amod & Pmod
+
+        2.  \
+
+    2.  Kampf
+
+        1.  Initiative zuerst erklären
+
+    3.  Utility
+
+        1.  Werfen-Tab erklären, wo Unterschied zu Wurfwaffen-Tab im Kampf
+
+    4.  Schurke
+
+    5.  Fortbewegung
+
+    6.  Intelligenz
+
+    7.  Saves
+
+        1.  Erwähnen, dass Heiltränke unter "Anderes" ausgeführt werden
+
+    8.  Anderes
+
+### Downtime
+
+### Lootliste
+
+
+
+
+
+## Bekannte Fehler {#BekannteFehler}
+
+### Mein Fenster ist verschwunden
 
 Das ist ein Problem das aufgrund der Implementation vorkommen kann. Mit der Taste *F11* auf der Tastatur wird das Fenster automatisch auf deinen Hauptbildschirm zentriert, danach kann man es wieder verschieben wie man will.
 
-### Layout ist verbugged 
+### Layout ist verbugged
 
 Wenn die Schrift komisch aussieht, oder die Begriffe der einzelnen Tabs nicht richtig angezeigt werden, wie im Beispiel BILD EINFÜGEN, dann kann dies daran liegen, dass ....
 
+Wenn neue Version heruntergeladen wird, sollten die Ordner des alten Downloads gelöscht werden
 
+### Der OrbisGame Ordner ist nicht zu finden
+
+Bei mehrfachen Downloads der ZIP-Datei, werden die alten OrbisGame Ordner nicht überschrieben. Einer der Ordner ist vom Veränderungsdatum etwas älter und kann daher weiter unten in den Downloads zu finden sein

@@ -51,7 +51,7 @@ Allerdings beteilgen sich, an etwaigen Zeichnungen oder Errichtungen von "Gebäu
 
 ![Orksiedlung in den Südwestlichen Bergen Eldrias](Pictures%5CFlavor%5CPlatzhalter%5Corcstronghold.jpg)
 
-Die für Orks als anerkannt geltende Aufgaben sind Jagen, Sammeln, Trainieren der Kinder für Kämpfe und Jagden - also Lehrer, Heiler - welche ausschließlich männlich sind, Jagd-Priester und Handwerker (wobei diese Gruppe äußerst fluid ist).
+Für Orks als anerkannt geltende Aufgaben sind Jagen, Sammeln, Trainieren der Kinder für Kämpfe und Jagden - also Lehrer, Heiler - welche ausschließlich männlich sind, Jagd-Priester und Handwerker (wobei diese Gruppe äußerst fluid ist (1)).
 Orks betreiben für gewöhnlich keine Landwirtschaft und errichten selten hohe Gebäude, da ihnen das architektonische und Bauherrenwissen fehlt.
 Folglich verlassen sich Orks beinahe ausschließlich auf natürliche Nahrungsquellen, welche weitaus diverser sind als menschliche Mägen verkraften würden.
 So sind Orkfestmahle meist mit barbarischen Mengen Fleisch, Nüssen und Früchten als auch, für Menschen giftige, stärkehaltige Wurzeln gedeckt.
@@ -71,21 +71,21 @@ Natürlicherweise besitzen Orks, abgesehen von Lindwurmhäuten und Knochenrüstu
 Allerdings sind Lederrüstungen der Orks von Menschen meist begehrt, vor allem wenn diese mit Lindwurmhäuten verstärkt wurden.
 
 Stellt man Orks in den Dienste des Kaisers und des Allgottes, so kann man die Nutzung von schwerer Rüstung besonders empfehlen.
-Aufgrund ihrer Stärke können Orks weitaus dickere Rüstungen tragen, was diese quasi unverwundb gegenüber Armbrüsten oder Bogen macht.
+Aufgrund ihrer Stärke wurden Orks oft mit schweren Rüstungen ausgestattet, was große Vorteile gegenüber feindlichen Armbrüsten oder Bogenschützen bringt.
 Orks sind aufgrund der Kurzsichtigkeit in nur sehr seltenen Fällen dazu in der Lage Fernkampfwaffen zu nutzen, wodurch ihre Kultur nie den Bogenbau erlernt hat.
 
 ![Ranghoher Orkfrontkämpfer in Plattenrüstung im Dienste der Kaiserlichen Armee -gemalt von Vilus Traainim um 120 n. R.](Pictures%5CFlavor%5CPlatzhalter%5COrk_Plattenr%C3%BCstung.jpg)
 
-Orks benötigen allerdings, sofern diese zur Fernsicht in der Lage sind, spezielle Bögen und Pfeile da durch ihre übermäßige Kradt häufig der Bruch des Bogens in Kampfsituationen erfolgt.
+Orks benötigen allerdings, sofern diese zur Fernsicht in der Lage sind, spezielle Bögen und Pfeile, da durch ihre übermäßige Kraft häufig der Bruch des Bogens in Kampfsituationen erfolgt.
 
 Die Erziehung der Orkkinder erfolgt ohne eine spezifische Schule.
 Die Orkkinder entscheiden relativ frei, welche Aktivitäten sie ausführen möchten.
-Meist sind dies, wie Erwachsene Orks, jagen, fressen und rumtollen/kämpfen.
-Erwähnt wird allerdings zusätzlich zum Rumtollen und den Rangeleien der Kinder, wo auch, entgegen des Allgottes, die Mädchen mitkämpfen, die Jagd und Kampfausbildung, welche bereits früh erfolgt.
+Meist sind dies - wie bei erwachsenen Orks - jagen, fressen und Raufereien.
+Erwähnt wird allerdings zusätzlich zum Raufen und den Rangeleien der Kinder, wo auch, entgegen des Allgottes, die Mädchen mitkämpfen, die Jagd und Kampfausbildung, welche bereits früh erfolgt (2).
 Abgesehen von Bewegungsübungen gegen Lindwürmer und dem Erklären des Kämpfens dagegen, wird der Umgang mit Axt, Schwert, Steinwurf, Speerwurf und tödlicher Faustkampf meist mit Erwachsenen Orkfrauen erlernt.
 
 Der Handel mit dem Kaiserreich brachte einigen wenigen Orkstämmen die Vorzüge der zivilisierten Gesellschaft näher.
-Hierbei setzten sich vor allem der Verkauf von Bier, Salz und Eisen/Stahl durch.
+Hierbei setzten sich vor allem der Verkauf von Bier, Salz und Metallen durch.
 Das Kaiserreich erhält im Gegenzug die für Orks quasi wertlosen Edelsteine, welche diese auf ihren Lindwurmjagden finden.
 Vielfach rekrutiert das Kaiserreich auch direkt aus den Orkstämmen Erwachsene, für die Auffrischung der Truppen in Kriegszeiten.
 
@@ -97,17 +97,17 @@ Im Kern sind sich all diese Götter allerdings sehr ähnlich, was vermuten läss
 
 Orks in Grimgrod - der größten Orksiedlungs am Fuße des südöstlichen Himmelspitzengebirge, beten zu Akunmaahn.
 Hierbei handelt es sich um einen riesigen Lindwurm, welcher, entsprechend ihren Geschichten, nach gewissen Zeiten alles Leben frisst und zu Beginn einer neuen Zeit aus seinen Ausscheidungen neues Leben entsteht.
-Für die Orks in Grimgrod, welche grau-braun von der Körperfarbe her sind, ist ihre Hautfarbe ein Beweis dafür.
+Für die Orks in Grimgrod ist ihre grau-braune Hautfarbe ein Beweis dafür.
 
-Zu Ehren Akunmaahns werden regelmäßig Opferfeste, wobei hier meist alte und schwache Orks geopfert werden, abgehalten.
+Zu Ehren Akunmaahns werden regelmäßig Opferfeste - wobei hier meist alte und schwache Orks geopfert werden - abgehalten.
 Bei diesen Festen tanzen Orks in einem sehr kampfähnlichen Stil und fressen und kopulieren immer wieder zwischendurch, scheinbar wahllos.
-Diese Orgien sind für Menschen ein Grauß und vermutlich auch nicht gesund und gehen, Geschichten zu Folge, bei Menschen meist mit Knochenbrüchen einher.
+Diese Orgien sind für Menschen ein Grauß und gehen, Geschichten zu Folge, bei ihnen meist mit Knochenbrüchen einher.
 
 Akunmaahn will, so ihr Glaube, dass ein jeder Ork die Haut eines Lindwurms trägt und nur dann ist er bereit für das ewige Festmahl.
 Das ewige Festmahl, das zugleich ihre Art von "Himmel" darstellt, wird zu mehreren, nicht am kaiserlichen Kalender fixierten Daten, abgehalten.
 
 Um Verwirrungen meiner Leser zu vermeiden nenne ich das wiederkehrende Festessen nicht mehr "das ewige Festmahl", sondern nenne es die Völlerei.
-Bei den Völlereien danken die Orks Akunmaahn dafür, dass sie auf die Welt gebracht wurden - in ihren Worten "geschissen".
+Bei den Völlereien danken die Orks Akunmaahn dafür, dass sie auf die Welt gebracht wurden.
 Die Völlereien starten meist mit vorhergehenden Jagden und anschließenden echten waffenlosen Kämpfen.
 Auch dies dient ihrem "Gott" Akunmaahn, da sie seine Stärke als die wichtigste Tugend ansehen.
 
@@ -118,7 +118,7 @@ Akunmaahn ermöglicht jedem, der durch den Lindwurm verspeist wird, nach ihrem G
 
 Andere Ork Stämme haben nicht unbedingt einen Lindwurm, als "Gott", sondern vielfach bekannte große Kreaturen ihrer Umgebung.
 
-So beten die Orks der Eisenrotenwüste die riesigen erdfressenden Würmer an und versuchen diese, während die Würmer noch nicht ausgewachsen sind, zu töten.
+So beten die Orks der eisenroten Wüste die riesigen erdfressenden Würmer an und versuchen diese, während die Würmer noch nicht ausgewachsen sind, zu töten.
 Der Gedanke der Wiedergeburt ist auch hier, beim Verschlungen, bzw.
 Zerquetscht werden, vorhanden.
 
@@ -126,7 +126,7 @@ So bieten die diversen Orkstämme jeweils ihre eigene Erklärung an.
 Orgien, Völlereien und Kämpfe gehören allerdings zu fast allen Stämmen.
 
 Der einzige Orkstamm, über den beinahe nichts dergleichen bekannt ist, welcher aus diesen Mustern eklatant ausschert, sind die blassen Orks aus der Grauen Ödnis.
-Über die Orks der Grauen Ödnis ist wenig bekannt, da es lediglich dem Missionar Justanian Hertesin gelang, diesen Orkstamm zu finden.
+Über die Orks der Grauen Ödnis ist wenig bekannt, da es lediglich dem reisenden Gelehrten Justanian Hertesin gelang, diesen Orkstamm zu finden.
 
 Justanian selbst konnte lediglich über sein unvervollständigtes Werk, welches man in der Nähe von H'abunaptra - dem Heiligen Berg der Rah Kari- fand, sein Wissen mitteilen.
 
@@ -161,7 +161,9 @@ Die Legende der Orks selber ist hier zu Ende, jedoch gibt es seitens der Zwerge 
 Angeblich suchte dieser Edelsteine und war nicht bereit für dieselben zu zahlen.
 Die Zwerge versuchten ihn mit Waffen zu töten, was nicht gelang und begruben ihn schließlich durch eine Sprengladung unter Geröll.
 
-![Darstellung des Kampfes der Zwerge gegen den braunen Ork- vermutlich Thermadorc](Pictures%5CFlavor%5CPlatzhalter%5COrksVsZwerge.jpg) Wie alle guten Legenden hört man in den Verschütteten Hallen um die versunkene Zwergenstadt noch immer das kratzen und schaufeln eines Orkes.
+![Darstellung des Kampfes der Zwerge gegen den braunen Ork- vermutlich Thermadorc](Pictures%5CFlavor%5CPlatzhalter%5COrksVsZwerge.jpg)
+
+Wie alle guten Legenden hört man in den Verschütteten Hallen um die versunkene Zwergenstadt noch immer das kratzen und schaufeln eines Orkes.
 
 ### Umchrug-Hal - der Riese von Grimgrod
 

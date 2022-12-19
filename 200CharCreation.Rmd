@@ -283,7 +283,7 @@ Achtung: bei der Charaktererstellung dürfen Attribute maximal 15 betragen, Fäh
 
 Achtung: Gesundheit wird immer in 25er-Einheiten erhöht.
 
-#### Kosten Fähigkeitsverbesserung {#Fähigkeitsgruppen .unnumbered}
+#### Kosten Fähigkeitsverbesserung {#Fähigkeitsverbesserung .unnumbered}
 
 | Fähigkeiten | Kosten/Einheit |
 |:-----------:|:--------------:|
@@ -294,6 +294,8 @@ Achtung: Gesundheit wird immer in 25er-Einheiten erhöht.
 |   80-100    |       8        |
 
 Die Fähigkeiten und ihre Wirkungen sind [hier](#Fähigkeiten) beschrieben.
+
+#### Kosten Fähigkeitsgruppenverbesserung {#Fähigkeitsgruppen .unnumbered}
 
 Neben der individuellen Fähigkeitsverbesserung haben die Spieler auch die Möglichkeit, eine Skill Gruppe auszuwählen. Dies hat den Vorteil, dass alle Fähigkeiten in der ausgewählten Gruppe gemeinsam zu einem durchschnittlich günstigeren Preis verbessert werden, als wenn sie einzeln aufgewertet werden würden. Die Gruppen haben unterschiedliche Fähigkeiten, die jeweils zu einem Berufsbild passen, nach welchem verschiedene Fähigkeiten zusammengefasst werden. Außerdem haben die Fähigkeitsgruppen auch unterschiedliche Kosten, die an die Menge und Stärke der Fähigkeiten angepasst sind. Investiert man in eine Skillgruppe, kann dies nur bis Level 40 erfolgen. Entscheidet sich ein Spieler zum Beispiel dafür, die Ritter Fähigkeitsgruppe (wobei [bewaffneter Nahkampf](#BewaffneterNahkampf) enthalten ist) bis Level 30 zu verbessern, kann man auch noch weitere Punkte in Söldner investieren (hier ist bewaffneter Nahkampf auch inkludiert) bis bewaffneter Nahkampf einen Wert von 40 erreicht. Investiert man mehr Punkte in Söldner, bleibt bewaffneter Nahkampf auf 40, die anderen Skills nehmen weiter zu.
 

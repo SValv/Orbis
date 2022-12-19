@@ -1,24 +1,41 @@
-# Naphtanium
+---
+editor_options: 
+  markdown: 
+    wrap: sentence
+---
 
-Bis vor 2 Jahrzehnten  war die Region Naphtanium noch ein Teil des Oberreiks und bildete so eine Pufferregion vor den Tundren des Eislandes. Offiziell ist der Grund für die Abspaltung dieses Teiles des Oberreiks mit Bürokratischen Gründen aufgeführt, da die befestigten Verbindungsstraßen ins Oberreik nur mehr über das Herzland laufen (seit rund 3 Jahrzehnten) Defakto gab es allerdings vor rund 3 Jahrzehnten noch eine befestigte Verbindungsstraße an den südlichen Rändern des Zobelwaldes. Diese wurde durch einen großen Murenabgang  im Jahr 394 n. R.  über etliche Kilometer zerstört. Allerdings bot der damalige Regionalkommandant des Oberreiks an diese zu reparieren, wozu es allerdings nie kam. Die Gründe hierfür sind ebenso spekulativ. Klamme Staatskassen, Angriffe von Elfen oder Gerüchte von bösartigen Wesen oder das intervenieren des Kaisers höchstselbst werden unter vorgehaltener Hand diskutiert.
-Ein offizielles Schreiben wurdedie Weigerung der Straßesreperatur und daraus resultiertende Umweg über das Herzland genannt, wofür im Oberreik mindere Strafzahlungen fällig wurden.
+#Die Region Naphtanium
+
+![Karte von Napthanium](Pictures/Maps/Napthanium.jpg)
+
+Bis vor 2 Jahrzehnten war die Region Naphtanium noch ein Teil des Oberreiks und bildete so eine Pufferregion vor den Tundren des Eislandes.
+Offiziell ist der Grund für die Abspaltung dieses Teiles des Oberreiks mit Bürokratischen Gründen aufgeführt, da die befestigten Verbindungsstraßen ins Oberreik nur mehr über das Herzland laufen (seit rund 3 Jahrzehnten) Defakto gab es allerdings vor rund 3 Jahrzehnten noch eine befestigte Verbindungsstraße an den südlichen Rändern des Zobelwaldes.
+Diese wurde durch einen großen Murenabgang im Jahr 394 n.
+R.
+über etliche Kilometer zerstört.
+Allerdings bot der damalige Regionalkommandant des Oberreiks an diese zu reparieren, wozu es allerdings nie kam.
+Die Gründe hierfür sind ebenso spekulativ.
+Klamme Staatskassen, Angriffe von Elfen oder Gerüchte von bösartigen Wesen oder das intervenieren des Kaisers höchstselbst werden unter vorgehaltener Hand diskutiert.
+Ein offizielles Schreiben wurde als Grund für die Weigerung der Straßesreperatur und den daraus resultiertenden Umweg über das Herzland genannt, wofür in Oberreik mindere Strafzahlungen fällig wurden.
 
 Für das Herzland und den Moloch namens Civis Primae brachte das einen indirekten Vorteil, da das begehrte Eisenholz aus dem Zobelwald, so wie die Landwirtschaftlichen Güter dadurch günstiger, und sicherer ins Herzland geschafft werden konnten.
 
-Als Regionalkommandant wurde in Naphtanium, welches nach der "schwarzen Stadt" Naphtanium benannt wurde, Hadranius Maximus Woranius eingesetzt, welcher seit dessen die Gebiete verwaltet und dem Kaiser treu ergeben zu sein scheint. Selbst residiert Hadranius Maximus Woranius allerdings nicht in Naphtanium sondern Lignium, wo dieser offiziell die Bürokraten des Herzlandes unterstüzt die kriminiellen Strukturen aufzubrechen.
+Als Regionalkommandant wurde in Naphtanium, welches nach der "schwarzen Stadt" Naphtanium benannt wurde, Hadranius Maximus Woranius eingesetzt, welcher seit dessen die Gebiete verwaltet und dem Kaiser treu ergeben zu sein scheint.
+Selbst residiert Hadranius Maximus Woranius allerdings nicht in Naphtanium sondern Lignium, wo dieser offiziell die Bürokraten des Herzlandes unterstüzt die kriminiellen Strukturen aufzubrechen.
 
-Naphatnium selbst ist im Verhältnis zu anderen Hauptsädten der Regionen in einer geographischen isolierten Lage. Unabhängig davon sind viele dort explizit stationierte Soldaten , um laut offiziellen Positionen, diese vor Angriffen der Animali zu schützen, mit welchen allerdings vor allem Nachts, auf den Straßen Handel getrieben wird.
+Naphatnium selbst ist im Verhältnis zu anderen Hauptsädten der Regionen in einer geographischen isolierten Lage.
+Unabhängig davon sind viele dort explizit stationierte Soldaten , um laut offiziellen Positionen, diese vor Angriffen der Animali zu schützen, mit welchen allerdings vor allem Nachts, auf den Straßen Handel getrieben wird.
 
 Die Hauptprodukte sind offiziell, Holz, Pferde, Kohle, Schwarzfett, Pech, Schwefelbergbau und Zuckerahorn und ein marginaler Landwirtschaftlicher Überschuss, da die regionale Hauptstadt Naphtanium selbst beinahe vollständig auf Nahrungslieferungen angewiesen ist.
 
-
-
-## Ortschaften der Region 
+## Ortschaften der Region
 
 ### Naphtanium
-Schwarzfett, Pech, bedeutende Alchemistenschule.
 
-Durch die Abholzung der letzn großen Wälder nördlich von Civis-Primae wurden der Zugang hinter den Sümpfen von Lignium dort Schwarzfett (Pechschwarze Ölige Substanz zum Schmieren und verwenden von Kerzen/Ölen), Pech und Schwefel gefunden. Dies und gelgentliche Handelsbeziehungen zu Animali und einer großen Spende seitens der Kaiserlichen Armee konnte in diesen kalt-nassen Gebieten an der Grenze zu den Tundren des Nordens eine Alchemistenschule errichtet werden, welche derweil der ÖÄffentlichkeit nicht zugänglich ist und Gerüchten zu Folge an der Erforschung etlicher Alchemistischer Wunder beteiligt ist. Naphatanium ist komplett auf Nahrungslieferungen angewiesen und wird häufig als Schwarze Stadt beschrieben.
+Durch die Abholzung der letzten großen Wälder nördlich von Civis-Primae wurden der Zugang hinter den Sümpfen von Lignium dort Schwarzfett (Pechschwarze ölige Substanz zum Schmieren und verwenden in Kerzen undÖlen), Pech und Schwefel gefunden.
+Dies und gelegentliche Handelsbeziehungen zu den Animali und einer großen Spende seitens der Kaiserlichen Armee konnte in diesen kalt-nassen Gebieten an der Grenze zu den Tundren des Nordens eine Alchemistenschule errichtet werden, welche derweil der Öffentlichkeit nicht zugänglich ist.
+Gerüchten zu Folge ist jene Schule an der Erforschung etlicher alchemistischer Wunder beteiligt ist.
+Naphatanium ist komplett auf Nahrungslieferungen angewiesen und wird häufig als Schwarze Stadt beschrieben.
 
 Einwohner: 67.000
 
@@ -31,12 +48,12 @@ Wurde zuerst nur als Minenstadt für den Schwefelabbau verwendet, wuchs jedoch d
 
 Einwohner: 7.300
 
-
 ### Lignium
 
 Holzbau, Pferdehaltung & Zucht, Holzhandwerk, Kohleabbau, Zuckerahorn
 
-Einst umgeben von dichten Waldgebieten, wurde über den Aufstieg des Kaiserreiches der größte Teil abgeholzt und damit gleichzeitig der Zugang zu den Tundren des Norden gelegt. Grassierende Korruption und hohe Kriminalitätsrate.
+Einst umgeben von dichten Waldgebieten, wurde über den Aufstieg des Kaiserreiches der größte Teil abgeholzt und damit gleichzeitig der Zugang zu den Tundren des Norden gelegt.
+Grassierende Korruption und hohe Kriminalitätsrate.
 
 Seit 10 Jahren durch direkt vom Kaiser beordertere Bürokraten und hochrangingen Vertretern der Ekklesia verwaltet.
 
@@ -46,7 +63,8 @@ Einwohner: 120.000
 
 Holzhandwerk, Holzwirtschaft, Pferdezucht, Weidetierhaltung & Phosphorminen
 
-Abholzen des Waldes führte zur Freilegung Reichsinterner Phosphorminen. Abbau des Phosphors in den letzen Jahren stark Rückläufig.
+Abholzen des Waldes führte zur Freilegung Reichsinterner Phosphorminen.
+Abbau des Phosphors in den letzen Jahren stark rückläufig.
 
 Einwohner: 7000
 
@@ -54,7 +72,8 @@ Einwohner: 7000
 
 Holzwirtschaft, Zuckerahorn
 
-Waldarbeitersiedlung welche Hartholz und natürlichen Zuckerahorn über Groß-Waldhack und Groß-Tantum nach Civis-Primae liefert. Hat einen militärischen Außenposten welcher vor Werwölfen, Kathakanen und Fleischsauger Angriffen schützt.
+Waldarbeitersiedlung welche Hartholz und natürlichen Zuckerahorn über Groß-Waldhack und Groß-Tantum nach Civis-Primae liefert.
+Hat einen militärischen Außenposten welcher vor Werwölfen, Kathakanen und Fleischsauger Angriffen schützt.
 
 Einwohner: 2500
 
@@ -62,33 +81,124 @@ Einwohner: 2500
 
 Edelsteine
 
-Orksiedlung in der Nähe von der schwarzen Stadt Naphtanium. Orks werden für die Reihen der Kaiserlichen Armeen rekrutiert und leben ansonsten von den Tundren und der Jagd. Rituelle Wettkämpfe und fleischliche-lüsterne Orgien und gelegentliche Scharmützel mit den Animali des Eislandes machen den Großteil ihres Lebens aus. 
+Orksiedlung in der Nähe von der schwarzen Stadt Naphtanium.
+Orks werden für die Reihen der Kaiserlichen Armeen rekrutiert und leben ansonsten von den Tundren und der Jagd.
+Rituelle Wettkämpfe und fleischliche-lüsterne Orgien und gelegentliche Scharmützel mit den Animali des Eislandes machen den Großteil ihres Lebens aus.
 
 Einwohner: rund 8.000
 
 ### Infrastruktur
 
+Regions like Nors and Herzland have well developed infrastructure and roads that lead in every direction.
+However Naphtanium's infrastructure is lacking in a few areas.
+The most well developed and maintained road is the road leading to the Zobelwald.
+After the mudslide that destroyed several kilometers of the road south of Zobelwald, the nortern road gained more importance.
+Ever since it has had an important role in transferring the various goods from Napthanium directly to Herzland.
+The roads of Napthanium used to be a lot more dangerous as elfs would attack the people of the region, however nowadays the roads are a lot more safe and most travellers don't have to worry about being attacked by bandits unless they are going to some of the more isolated areas of the region.
 
+Some of the other important roads are the one leading to the city Napthanium and Eisland.
+Napthanium is loved destination of many Alchemists and scholars.
+The mysteriousness and recent alchemical advancements of the city has caused many people from around the empire to head to the city and many products produced in the city are sent to various parts of the empire through the roads leading to Herzland.
+
+Eisland is not the region that most people would want to travel to and there are not any remarkable roads leading to its borders.
+But if traveler wished to travel to the region then roads from Napthanium are the fasted way to travel to Eisland.
+Furthermore many traders use these roads to reach <font color="green">[the cave of Roslos](#Roslos)</font>, one of the only trading outpost with the Animli.
 
 ## Die Geschichte der Region
 
-Die Region war geschichtlich an das Oberreik gebunden und war vor allem durch den massiven Holzbedarf des wachsenden Herzlandes erst bewohnbar geworden, als ansässige Elfenstämme Stück für Stück vertrieben wurden. Scharmützel mit den Elfen gehörten bis vor wenigen Jahrhunderten noch zu den täglichen Problemen, sind heute jedoch abseits der größeren Wälder keine Bedrohung für die Stabilität mehr.
-Die Dienste von Cirion Demian welcher der Erste Stadthalter von Lignium war verdankt das Gebiet seinen raschen Aufstieg als "sägewerk der Menschheit". Foglich kamen auch viele begabte Handwerker aus diesem Gebiet.
-Die Ansäßige Orksiedlung "Jash-Hurk" des "Jash-Hurk" Stammes steht in keinen relevanten Konflikten mit dem Kaisserreich, hat jedoch historisch lange zurückreichende Fehden mit den Animali des Eislandes.
+Die Region war geschichtlich an das Oberreik gebunden und war vor allem durch den massiven Holzbedarf des wachsenden Herzlandes erst bewohnbar geworden, als ansässige Elfenstämme Stück für Stück vertrieben wurden.
 
+Die Elfenstämme wurde auch im Zuge der Entwurzelung umgesiedelt und viele dieser Stadtelfen fristen nun ihr dasein in Civis Primae oder Lignium selbst.
+Einer der zentralen Punkte der Geschichte in dieser Ex-Region von Oberreik ist die Schlacht um Valenfels.
+Dort hatten sich die Elfenstämme versucht zu versammeln um gemeinsam gegen die Abholzung ihrer Wälder vorzugehen.
+Trotz der Lage , welche damals etliche Kilometer von der Waldgrenze entfernt lag, bekam die Kaiserliche Armee davon Wind.
+
+Daraufhin wurde eine Entourage an unter Kampfdrogen gesetzten Orks des Jash-Hurk-Stammes dort hin geschickt.
+Überrumpelt, um es gelinde zu sagen, wurden die Elfen dort angegriffen und erlagen der Gruppe aus mehreren Hundert in Stahlrüstung gekleideten Orks.
+Es war ein brutales Gemetzel und, laut dem Kaiserreich entkam kein einziger Elf diesem Gemetzel.
+Seit dem gilt für Elfen und Orks sowie für kaiserlich Valerisieren als Inbegriff des überwältigenden gnadenlosen Sieges.
+
+Der elfische Kampfgeist ward gebrochen und die durch die Wälder ziehenden, berauschten Orks verursachten dert viel Panik unter den Elfen, dass sich diese selbst zahlenmäßig massiv unterlegenen Spähtruppen der regulären kaiserlichen Armee ergaben.
+
+Die Eingliederung dieser Waldelfen in die Städte des Kaiserreichs markierte einen der vielen blutigen Höhepunkte in der Entwurzelung.
+
+Die Organisation dieses Feldzuges übernahmen ein Trio an Zwergen, welchen versprochen wurde ihr Gewicht und das ihrer ganzen Kinder in Gold aufzuwiegen.
+Dieser 40 Jährige Plan kostete dem Kaiserreich ein Vermögen.
+Angeblich fütterten das Zwergentrio über 2 Jahrzehnte den Orkstamm hoch um eine riesige Truppe an Soldaten zu bekommen.
+Auch der Einsatz von Kampfdrogen war lange erprobt und geplant.
+
+Das Zwergentrio wollte als Gegenleistung nicht namentlich genannt werden und im Gegenzug Länderein als "Fürsten" verwalten.
+In den Jahrzehnten danach liesen sich allerdings nur eine Stadt, welche 244 n.
+Riga niederbrannte, in den Büchern der Chronisten finden, welche von einem Zwergengeschlecht verwaltet wurde.
+
+Die Jahrhunderte darauf vergingen für die Menschen problemlos.
+Kaiser kamen und starben, doch der Wald wurde immer weiter abgeholzt.
+Die Elfen hatten auch Jahrhunderte danach nicht mehr die Kraft oder den Mut aufbringen können, wieder gegen das Kaiserreich zu rebellieren.
+
+Als Mitgrund dafür wird die Tradition in der Region Oberreiks, heutzuage eben Naphtanium, Orks des Jash-Hurk Stammes in Stahlrüstungen an den Rändern der Wälder zu positioneren.
+Angeblich der Jahrestags des Massakers.
+
+Scharmützel mit den Elfen gehörten bis vor wenigen Jahrhunderten noch zu den täglichen Problemen, sind heute jedoch abseits der größeren Wälder keine Bedrohung für die Stabilität mehr.
+Die Dienste von Cirion Demian welcher der Erste Stadthalter von Lignium war verdankt das Gebiet seinen raschen Aufstieg als "Sägewerk der Menschheit".
+Cirion begann noch am selben Abend des Sieges von Valenfels Holzfäller in die Gebiete zu schicken.
+Ebenso waren bereits 4 Woche später ein Großteil der Gildenlosen kräftigen Arbeiter in der Region Naphtanium um Holz zu haken.
+Es war ein Geschäft welches unmöglich zu verlieren war.
+Die Kassen in der Region, insbesondere in Lignium waren prall gefüllt.
+Foglich kamen auch viele begabte Handwerker aus diesem Gebiet um mit Eisenholz zu arbeiten.
+Die ansäßige Orksiedlung "Jash-Hurk" des "Jash-Hurk" Stammes steht seit dem Massaker in keinen relevanten Konflikten mit dem Kaisserreich, hat jedoch historisch lange zurückreichende Fehden mit den Animali des Eislandes, welche weniger von Erfolg geprägt sind.
+
+Lignium selbst, konnte sich dank des Reichtums durch den Holzverkauf und das Holzhandwerk, etliche Annehmlichkeiten leisten, welche in den meisten Regionen nur mit großer Mühe zu beschaffen waren.
+So waren Daunendecken, weiche Matratzen und ein voller Magen durch alle Gesellschaftsschichten zu sehen.
+Der Ruf des Geldes ließ allerdings die Leute blind werden für die Gefahren der Zobelfäule, wie auch die der Monopolisierung auf einen einzigen Wirtschaftszweig.
+
+Vor rund 120 Jahren begann der wirtschaftliche Verfall Ligniums und der Region Naphtanium.
+Starkregenfälle zerstörten mehrere Ernten und machten den Transport des schweren Eisenholzes plötzlich unmöglich.
+Die kalt-feuchten Sommer um 306 bis 310 n.
+Riga verstärkten auch die Probleme mit der Zobelfäule.
+Die einst so prall gefüllten Kassen leerten sich rapide, und der hohe Lebensstandard wollte von keinem so recht aufgegeben werden.
+Auch nach 310 n.
+Riga verbesserte sich die Lage kaum, da die Nachfrage nach Eisenholz zum einen gesättigt schien, zum anderen dass auf der anderen Seite des Zobelwalds in der heutigen Region Oberreik, die Produktion effektiver von statten ging.
+Die Misswirtschaft in Lignium, welche damals rund zwei-drittel der Wirtschaftleistungs im heutigen Naphtanium darstellte, schrumpfte kontinuierlich.
+Ein herrschendes Adelsgeschlecht, welches mehr durch prunksucht als für Zahlenkenntnis bekannt war, beschleunigte nur den Verfall.
+
+Die Reste des einst so riesigen Kuchens werden nicht mehr nach den Rechtsprechungen aufgeteilt, sondern an den bestbietenden, oder den Freund eines Freundes.
+Weder konnten durch das Adelsgeschlecht die Freundeswirtschaft beendet werden, noch dem moralischen Verfall Einhalt geboten werden.
+
+\
+*"Ich sage euch, der Verfall Ligniums liegt bei dem moralischen Verfall der Menschen. Wann habt ihr, werte Gläubige, dass letzte mal jemanden aus Lignium jemand in der Gotteshäusern gesehen? Man trifft dort die Männer öfter in Bordellen und beim Glücksspiel als an den Orten wo die Seele gewahrt wird! Der Auswuchs dieser morallosen Dekadenz ist Naphtanium. Ein gottlose schwarze Stadt, wo hinter verschlossenen Türen das Böse selbst geschaffen wird! Deshalb, meine hier Versammelten, weicht von Naphtanium, weicht diesen gottlosen, verloren Seelen aus, als das euch nicht das selbe widerfährt!"*
+
+*Bewahrer des zentralen Ruhehofes von Agiontium 424 n. Riga*
 
 ## Wirtschaftliche Lage
 
-Die größte Stadt Lignium kämpft mit massiver Korruption und Kriminalität. Naphatanium und Weißstadt werden derzeit von Civis Primae finanziell untersttützt. Seit der Gründung des unabhängigen Gebietes wurde noch kein allgemein Bekannter Staatshaushalt veröffentlicht. Der Wohlstand der Bevölkerung ist bestenfalls durchschnittlich.
-Lediglich Naphatanium hat einen etwas höhere Lebensstandard aufgrund der Geldspenden des Kaisers und der Ansäßigen großen Alchemistenschule, welche der Öffentlichkeit nicht zugänglich ist.
+Napthanium is not known for having the strongest economy.
+It is heavily reliant on food from other regions and it suffers from a lot of corruption and criminal activities.
+The region does have a few interesting resources, which have lead to the empire supporting Napthanium, such as Schwarzfett.
+Resources such as these and other creative goods from the city Napthanium have helped with improving the economy over time.
 
+Naphatanium und Weißstadt werden derzeit von Civis Primae finanziell untersttützt.
+Die größte Stadt Lignium kämpft mit massiver Korruption und Kriminalität and it is unknown how much of the financial support actually goes towards the city and its people.
+Seit der Gründung des unabhängigen Gebietes wurde noch kein allgemein Bekannter Staatshaushalt veröffentlicht.
+Regardless of the amount of corruption and cirminal activity, der Wohlstand der Bevölkerung ist bestenfalls durchschnittlich.
+Napthanium is safer than most regions and many more individuals are starting to invest into the region.
+Lediglich Naphatanium hat einen etwas höhere Lebensstandard aufgrund der Geldspenden des Kaisers und der Ansäßigen großen Alchemistenschule, welche der Öffentlichkeit nicht zugänglich ist.
+Furthermore
 
 ### Die Ressourcen der Region
 
 Holz, Pferde, Kohle, Schwarzfett, Pech, Schwefelbergbau und Zuckerahorn, Alkohol und ein marginaler Landwirtschaftlicher Überschuss
 
-## Soziopolitische Lage 
+## Soziopolitische Lage
 
+Much of the political enviroment of Napthanium revolves around the corruption of of the region.
+It is a known fact that Lignium suffers from an extreme amount of corruption and criminal activity.
+Civis Primae has often voiced their displeasure with this fact and has threaten to lessen financial support for the region.
+Few things have been done to get rid of the corruption but it has been hard to deal with for many years now.
+
+Another aspects, which has become important in the last few years is the morality of the various experiments that happen in the city of Napthanium.
+The city has been heading into a gray zone when it comes to morality.
+Although it has made many great breakthroughs in alchemy and science, people are starting to wonder if moral standards should be put in place.
+This has not stopped the empire and other indivuals from investing in the city.
 
 ### Herrschaftsystem/Organisation
 
@@ -99,14 +209,13 @@ Die schwarze Stadt Naphatanium und Weißstadt sind rechtlich ein Sonderprotektor
 
 Religion: Allgott-Glaube
 
-
 ## Klimatische Bedingungen
 
-Kalt-feucht. Häufige Regen und Schneeschauer. Sommer Trocken
+Kalt-feucht.
+Häufige Regen und Schneeschauer.
+Sommer Trocken
 
 ### Die Flora und Fauna
-
-
 
 #### Monster in der Region
 
@@ -114,10 +223,53 @@ Werwölfe, Kathakane, seltener Höllenbrut
 
 ## Gerüchte der Region
 
-Die Gründung und der erhalt sind nicht klar und wird als Gutdünken Kaiserlicher Gewalt ausgelegt. Dies ist ein sich bloß hartnäckig haltender, Ehrbeleidigender Dumpfsinn.
+((Die Gründung und der erhalt sind nicht klar und wird als Gutdünken Kaiserlicher Gewalt ausgelegt. Dies ist ein sich bloß hartnäckig haltender, Ehrbeleidigender Dumpfsinn.))
 
+### The Dark Master
 
+In the depths of Napthanium there is a legend about a man who can make your wishes come truth.
+It is said that somewhere in the streets of Napthanium there's a man who people call the Dark master.
+People who have nothing to lose often come to this man in order to have a better life.
+The only catch to it all is that they have to partake in his experiments that involve Schwarzfett.
+Although most of these experiments are not considered safe, the people who come to the dark master partake in it regardless.
+For a while these people enjoy a better life.
+Some have gotten luxuries, some have found a lover and other people a child.
+But there are rumors that these people but get to life for many years and that they die under mysterious circumstances.The authorities have tried to find and come into contact with this man but they have yet to be able to find him.
+
+### The green Vigilante of Lignium
+
+It is a well known fact that there is a lot of crime and corruption in Lignium.
+Many people have suffered due to their politicians and funding not going to where it is supposed to go.
+Many people have tried to lessen this fact but not with a lot of results.
+But around 6 years ago a mysterious person started to appear in the city.
+Some people say that it is not even a person but a monster or animali from Eisland.
+What is known though is that this person has started to take action into their own hands and is fighting the criminals and corrupt politicians of the city.
+At first the green vigilante just fought petty criminals that were involved in selling drugs but the person involvement in bigger crimes has steadily gone upwards.
+It is not unheard of policies looking the other way and not collecting proper proof on criminals but there has been a lot of cases recently were game changing testimonies and proof suddenly appears in court.
+People believe that this is the work of the green vigilante.
+
+Two years ago it was discovered that that criminals were smuggling large quantities of iron wood from Zobelwald to Grenzland and Eldria.
+There was a huge operation that was trying to locate and arrest these criminals but they were never able to catch them.
+It was only after the green Vigilante managed to stop a shipment of ironwood that the authorities managed to get their first good lead and eventually they arrested one of the ringleaders, Magnus Lutorius.
+It didn't take long before Magnus Lutorius was release from prison and today no one knows if he is still in the region.
+
+Furthermore the green vigilante hasn't been seen for some time in Lignium after this event.
+Some people believe that he is going after Magnus Lutorius or the other ringleaders, while other people believe that he has gone to Napthanium.
 
 ## Sehenswürdigkeiten
 
-5 Meter Bronzestatue von Hadranius Maximus Woranius mit Augen aus 2 Opalen.
+### Der Bronzestatue von Hadranius Maximus Woranius
+
+At the road next to the city of Lignium travelers can find a 5 meter tall bronz Statue of Hadranius Maximus Woranius.
+The statue is said to be a masterful piece of craftsmanship.
+The details are said to to so extraordinary that many people who travel the road are able to recognize the man if they were to see him.
+Furthermore the Statue has two opal eyes, which are to have belong to the emperor himself.
+
+### Bachpachnie Street
+
+One of the most common destination for travelers who visit Napthanium is the Bachpachnie street.
+Here people get to see tha many different uses for and inventions of alchemy and although it can sometimes get dangers people still flock to the street to see the newest wonders of the alchemists of the city.
+Ones every years there is a competition between the alchemists of of the alchemy-school were they get to show of their new inventions and experiments.
+People say that during this competition you get to see the forefront of human science.
+Furthermore people can also experience the other uses of alchemy that can't be expeirenced in other places of the empire such as the use of alchemy in food and crafting.
+It is even said that you can discover animali alchemy in the streets and learn more about their unique methods.
