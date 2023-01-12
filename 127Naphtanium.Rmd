@@ -10,9 +10,7 @@ editor_options:
 
 Bis vor 2 Jahrzehnten war die Region Naphtanium noch ein Teil des Oberreiks und bildete so eine Pufferregion vor den Tundren des Eislandes.
 Offiziell ist der Grund für die Abspaltung dieses Teiles des Oberreiks mit Bürokratischen Gründen aufgeführt, da die befestigten Verbindungsstraßen ins Oberreik nur mehr über das Herzland laufen (seit rund 3 Jahrzehnten) Defakto gab es allerdings vor rund 3 Jahrzehnten noch eine befestigte Verbindungsstraße an den südlichen Rändern des Zobelwaldes.
-Diese wurde durch einen großen Murenabgang im Jahr 394 n.
-R.
-über etliche Kilometer zerstört.
+Diese wurde durch einen großen Murenabgang im Jahr 394 n. R. über etliche Kilometer zerstört.
 Allerdings bot der damalige Regionalkommandant des Oberreiks an diese zu reparieren, wozu es allerdings nie kam.
 Die Gründe hierfür sind ebenso spekulativ.
 Klamme Staatskassen, Angriffe von Elfen oder Gerüchte von bösartigen Wesen oder das intervenieren des Kaisers höchstselbst werden unter vorgehaltener Hand diskutiert.
@@ -32,7 +30,7 @@ Die Hauptprodukte sind offiziell, Holz, Pferde, Kohle, Schwarzfett, Pech, Schwef
 
 ### Naphtanium
 
-Durch die Abholzung der letzten großen Wälder nördlich von Civis-Primae wurden der Zugang hinter den Sümpfen von Lignium dort Schwarzfett (Pechschwarze ölige Substanz zum Schmieren und verwenden in Kerzen undÖlen), Pech und Schwefel gefunden.
+Durch die Abholzung der letzten großen Wälder nördlich von Civis-Primae wurden der Zugang hinter den Sümpfen von Lignium dort Schwarzfett (Pechschwarze ölige Substanz zum Schmieren und verwenden in Kerzen und Ölen), Pech und Schwefel gefunden.
 Dies und gelegentliche Handelsbeziehungen zu den Animali und einer großen Spende seitens der Kaiserlichen Armee konnte in diesen kalt-nassen Gebieten an der Grenze zu den Tundren des Nordens eine Alchemistenschule errichtet werden, welche derweil der Öffentlichkeit nicht zugänglich ist.
 Gerüchten zu Folge ist jene Schule an der Erforschung etlicher alchemistischer Wunder beteiligt ist.
 Naphatanium ist komplett auf Nahrungslieferungen angewiesen und wird häufig als Schwarze Stadt beschrieben.
@@ -89,20 +87,16 @@ Einwohner: rund 8.000
 
 ### Infrastruktur
 
-Regions like Nors and Herzland have well developed infrastructure and roads that lead in every direction.
-However Naphtanium's infrastructure is lacking in a few areas.
-The most well developed and maintained road is the road leading to the Zobelwald.
-After the mudslide that destroyed several kilometers of the road south of Zobelwald, the nortern road gained more importance.
-Ever since it has had an important role in transferring the various goods from Napthanium directly to Herzland.
-The roads of Napthanium used to be a lot more dangerous as elfs would attack the people of the region, however nowadays the roads are a lot more safe and most travellers don't have to worry about being attacked by bandits unless they are going to some of the more isolated areas of the region.
+Regionen wie Nors oder das Herzland verfügen über eine gut ausgebaute Infrastruktur, ist Sie doch die Arterie, in welcher das Kaiserreich seinen Wohlstand und seine militärische Stärke bewegen kann.
 
-Some of the other important roads are the one leading to the city Napthanium and Eisland.
-Napthanium is loved destination of many Alchemists and scholars.
-The mysteriousness and recent alchemical advancements of the city has caused many people from around the empire to head to the city and many products produced in the city are sent to various parts of the empire through the roads leading to Herzland.
+In der Region Naphtanium ist der Ausbau allerdings deutlich schlechter. Neben der Straße, welche zum Abholzungsgebiet im Zobelwald führt, ist lediglich die Straße in die schwarze Stadt Naphtanium meist ganzjährlich befahrbar.
+Die im Idealfall mittelmäßig funktionierende Verwaltung in der Region Naphtanium konnte beispielsweise eine Verbindungsstraße zwischen der Region Oberreik und Naphtaium seit Jahren nicht reparieren.
+Da Naphtanium neben dem Moloch Lignium und der Stadt Naphatnium aber keine relevanten zu erschließende Städte aufweist ist das restliche Straßennetz schlecht ausgebaut.
+Trotz der mittelmäßigen Infrastruktur ist für Reisende ein Überfall von Elfen vermutlich seltener als in den anderen Regionen. Zwar gibt es gelegentlich Überfalle mit Banditen, welche jedoch selten eine Art von organisierter Bandentätigkeit ausüben. Die Gefahr besteht eher, wenn man sich in isoliertere Regionen wie an die Grenze des Eislandes begibt, da nicht alle Animali freundlich sind, und so manche Scheusale gerne Menschen verzehren.
 
-Eisland is not the region that most people would want to travel to and there are not any remarkable roads leading to its borders.
-But if traveler wished to travel to the region then roads from Napthanium are the fasted way to travel to Eisland.
-Furthermore many traders use these roads to reach <font color="green">[the cave of Roslos](#Roslos)</font>, one of the only trading outpost with the Animli.
+Eine Besonderheit ist der Weg Richtung der Stadt Naphtanium, wo man erstaunlich häufig reisende Alchemisten antrifft, um den Ruf der Stadt zu nutzen und ihre, wirksamen oder nutzlosen Produkte verkaufen.
+Eine der wenigen Straßen welche einige Kilometer in das Eisland führen, führen an Naphtanium vorbei und dann etliche Kilometer weiter in die Höhle von Roslos <font color="green">[die Höhle von Roslos](#Roslos)</font>, welchen einer der wenigen Handelsaußenposten der Animali darstellt.
+
 
 ## Die Geschichte der Region
 
@@ -171,18 +165,14 @@ Weder konnten durch das Adelsgeschlecht die Freundeswirtschaft beendet werden, n
 
 ## Wirtschaftliche Lage
 
-Napthanium is not known for having the strongest economy.
-It is heavily reliant on food from other regions and it suffers from a lot of corruption and criminal activities.
-The region does have a few interesting resources, which have lead to the empire supporting Napthanium, such as Schwarzfett.
-Resources such as these and other creative goods from the city Napthanium have helped with improving the economy over time.
+Naphtanium, als Region betrachtet, besitzt keine sonderlich Starke Wirtschaft. Neben der Abhängigkeit von Nahrungslieferungen für besseres Essen, ist Naphtanium von Korruption geprägt.
 
-Naphatanium und Weißstadt werden derzeit von Civis Primae finanziell untersttützt.
-Die größte Stadt Lignium kämpft mit massiver Korruption und Kriminalität and it is unknown how much of the financial support actually goes towards the city and its people.
-Seit der Gründung des unabhängigen Gebietes wurde noch kein allgemein Bekannter Staatshaushalt veröffentlicht.
-Regardless of the amount of corruption and cirminal activity, der Wohlstand der Bevölkerung ist bestenfalls durchschnittlich.
-Napthanium is safer than most regions and many more individuals are starting to invest into the region.
-Lediglich Naphatanium hat einen etwas höhere Lebensstandard aufgrund der Geldspenden des Kaisers und der Ansäßigen großen Alchemistenschule, welche der Öffentlichkeit nicht zugänglich ist.
-Furthermore
+Die wenigen relevanten Ressourcen sind Eisenholz und dessen Produkte aus dem Zobelwald und das ominöse Schwarzfett aus Naphtanium. 
+Von der Haupstadt des Kaiserreichs, Civis Primae, aus, werden die Städte Weißstadt und Naphtanium untersützt. Das heißt sowohl sind deutlich mehr kaiserliche Soldaten vorhanden als auch herrscht deutlich mehr geschäftiges treiben als für derartige Städte üblich ist.
+Lignium selbst, als größte Stadt in Naphtanium, kämpft mit grassierender Korruption, dadurch ist nicht genau klar, wie viel Geld des Kaiserreiches dort in den vielen und tiefen Taschen der Bewohner versinkt, ohne die deklarierten Zwecke zu erfüllen.
+
+Der Lebensstandard in der Region ist bestenfalls mittelmäßig, trotz des theoretisch lukrativen Verkaufs von Eisenholz und der finanziellen Unterstützung durch Civis Primae. Böse Zungen behaupten, dass die Region zwar relativ sicher ist, allerdings nur deswegen, da sich die gierigen und bösen bereits die Taschen vollgestopft haben. Unter vorgehaltener Hand wird in Civis Primae davon gesprochen, dass die Region stark destabilisiert würde, sobald die Gelder und die kaiserliche Armee sich aus der Region zurückziehen. Der Hintergedanke ist angeblich die Aufrechterhaltung der Stabilität der Stadt Naphtanium und derer großen Alchemistenschule.
+
 
 ### Die Ressourcen der Region
 
@@ -190,15 +180,14 @@ Holz, Pferde, Kohle, Schwarzfett, Pech, Schwefelbergbau und Zuckerahorn, Alkohol
 
 ## Soziopolitische Lage
 
-Much of the political enviroment of Napthanium revolves around the corruption of of the region.
-It is a known fact that Lignium suffers from an extreme amount of corruption and criminal activity.
-Civis Primae has often voiced their displeasure with this fact and has threaten to lessen financial support for the region.
-Few things have been done to get rid of the corruption but it has been hard to deal with for many years now.
+Die Gerüchte um die Stadt Naphtanium erreichen mittlerweile größere Ausmaße. So sind Vertreter der Lehre des Allgotts in Lignium der Meinung, dass in Naphtanium ungöttliche Dinge probiert werden. So sollen Verstorbene nicht beerdigt werden, der Glaube im Allgemeinen in Frage gestellt werden und der Allgott die ganze Stadt aufgrund ihrer schwärze schon verlassen haben.
+Die Alchemistenschule „Grenzwissen“, behauptet in Pamphleten und Quoren in Civis Primae, dass die Vorwürfe an den Haaren herbeigezogen sind.
+Die Reaktion von Civis Primae war die ersten Jahrzehnte, dass die Region, dass selbst lösen müsste. Abwarten und Wasser die Reik runterfließen lassen hieß die Devise. Die löste allerdings keine Probleme und so sind manche Alchemisten aus der schwarzen Stadt Naphtanium in Lignium zu unerwünschten Personen erklärt worden.
+Der neu eingesetzte Verwalter in Lignium, versuchte diese Erklärungen abzuschaffen, scheiterte aber am Widerstand der lokalen Geistlichen.
+Indirekte Anspielungen des Kaisers auf die Korruption waren die Drohung der Entziehung der Gelder zur Unterstützung, wie auch weniger Autonomie für die Region.
 
-Another aspects, which has become important in the last few years is the morality of the various experiments that happen in the city of Napthanium.
-The city has been heading into a gray zone when it comes to morality.
-Although it has made many great breakthroughs in alchemy and science, people are starting to wonder if moral standards should be put in place.
-This has not stopped the empire and other indivuals from investing in the city.
+Die rhetorischen Grabenkriege zwischen der schwarzen Stadt und Lignium führten dazu, dass Lignium im politischen Ringen mittlerweile allein dasteht. Lignium hat es mit seinen Verbindungen geschafft die meisten kleinere Städte und die Orksiedlung Jash-Hurk auf seine Seite zu ziehen, oder zumindest nicht die schwarze Stadt zu unterstützen.
+
 
 ### Herrschaftsystem/Organisation
 
@@ -211,65 +200,54 @@ Religion: Allgott-Glaube
 
 ## Klimatische Bedingungen
 
-Kalt-feucht.
-Häufige Regen und Schneeschauer.
-Sommer Trocken
+Im Allgemeinen ist die Region als kalt-feucht zu beschrieben. Ernten von Weizen oder Hafer sind meist stark mit Schwarzpilz verseucht. So kommen Regen und Schneeschauer häufig vor, was Naphtanium den Titel "Des Kaiser's Pisspott" eingebracht hat. Die Sommer sind zwar meist trocken, was den Transport vom schweren Eisenholz dadurch in diesen Monaten forciert.
+
 
 ### Die Flora und Fauna
 
+Abgesehen von den merkwürdigenkeiten des Zobelwaldes ist die Flora und Fauna relativ ähnlich zu jenem des Herzlandes und Oberreik. Walder sind bestehen überwiegend aus Laubbäumen, weiter im Norden lösen sich diese dann mit Nadelgehölze wie der Kaiserfichte ab.
+
 #### Monster in der Region
 
-Werwölfe, Kathakane, seltener Höllenbrut
+Die klassischen unausrottbaren Werwölfe und Kathakane stellen die häufigst anzutreffenden Monster dar. Seltener wird von Vertretern der Höllenbrut berichtet, welche häufig von Animali Stämmen gejagt werden.
 
 ## Gerüchte der Region
 
-((Die Gründung und der erhalt sind nicht klar und wird als Gutdünken Kaiserlicher Gewalt ausgelegt. Dies ist ein sich bloß hartnäckig haltender, Ehrbeleidigender Dumpfsinn.))
+### Die Gründung
 
-### The Dark Master
+Die Erklärung zur Gründung der Sonderverwaltungszone sind spekulativ. Über ehrbeleidigenden Dumpfsinn wie, dass eine Mätresse des Kaisers eine hervorragende Alchemistin war, welche daraufhin die Stadt Naphtanium unterstellt wurde, hin zu schlichtem Gutdünken gegenüber den korrupten Obrigen in Lignium um zu zeigen, wer im Kaiserreich dass sagen hat erstreckt sich die Gerüchteküche.
 
-In the depths of Napthanium there is a legend about a man who can make your wishes come truth.
-It is said that somewhere in the streets of Napthanium there's a man who people call the Dark master.
-People who have nothing to lose often come to this man in order to have a better life.
-The only catch to it all is that they have to partake in his experiments that involve Schwarzfett.
-Although most of these experiments are not considered safe, the people who come to the dark master partake in it regardless.
-For a while these people enjoy a better life.
-Some have gotten luxuries, some have found a lover and other people a child.
-But there are rumors that these people but get to life for many years and that they die under mysterious circumstances.The authorities have tried to find and come into contact with this man but they have yet to be able to find him.
+### Die dunkele Meisterin
 
-### The green Vigilante of Lignium
+Im schwarzen Herzen, tief in den verwinkelten Gassen von Naphtanium soll es eine Frau geben, welche einem alle Wünsche erfüllt. Sie wird in den Straßen Naphtaniums als „die dunkele Meisterin“ beschrieben. So kommen gescheiterte Personen zu ihr, oder werden von ihr gefunden und die Opfer versprechen sich davon ein besseres, würdigeres Leben.
+Dafür müssen die unglücklichen Opfer nur Experimente, angeblich mit Schwarzfett, über sich ergehen lassen. Den Gerüchten zufolge sind diese aber als blasphemisch, ketzerisch oder schlicht wahnsinnig zu beschreiben, so dass die Alchemistenschule in Naphtanium eine Erklärung verkünden ließ, wonach die Schule solche Experimente nie billigen würden.
+Nach den Experimenten sollen die Opfer für ein paar Jahre tatsächlich ein besseres Leben führen, bis diese unter dubiosen Umständen zurück in das Reich des Allgottes geführt werden.
 
-It is a well known fact that there is a lot of crime and corruption in Lignium.
-Many people have suffered due to their politicians and funding not going to where it is supposed to go.
-Many people have tried to lessen this fact but not with a lot of results.
-But around 6 years ago a mysterious person started to appear in the city.
-Some people say that it is not even a person but a monster or animali from Eisland.
-What is known though is that this person has started to take action into their own hands and is fighting the criminals and corrupt politicians of the city.
-At first the green vigilante just fought petty criminals that were involved in selling drugs but the person involvement in bigger crimes has steadily gone upwards.
-It is not unheard of policies looking the other way and not collecting proper proof on criminals but there has been a lot of cases recently were game changing testimonies and proof suddenly appears in court.
-People believe that this is the work of the green vigilante.
 
-Two years ago it was discovered that that criminals were smuggling large quantities of iron wood from Zobelwald to Grenzland and Eldria.
-There was a huge operation that was trying to locate and arrest these criminals but they were never able to catch them.
-It was only after the green Vigilante managed to stop a shipment of ironwood that the authorities managed to get their first good lead and eventually they arrested one of the ringleaders, Magnus Lutorius.
-It didn't take long before Magnus Lutorius was release from prison and today no one knows if he is still in the region.
+### Der grüne Bewacher von Lignium
 
-Furthermore the green vigilante hasn't been seen for some time in Lignium after this event.
-Some people believe that he is going after Magnus Lutorius or the other ringleaders, while other people believe that he has gone to Napthanium.
+Das Lignium von Korruption geprägt ist, weiß ein beinahe jedes Kind der Stadt, schließlich geht es Vätern und Müttern so, dass man Termine bei Heilern oder lokalen Vertretern nur gegen einen Batzen Reiks oder Gefälligkeiten bekommt. Es gab zwar immer wieder Aufstände der Bevölkerung, aber diese führten zu keinen Änderungen, zu sehr scheint der Schleim der Korruption überall reinzufließen. Vor einem halben Jahrzehnt änderte sich dass, als jemand einen korrupten Ruhehof Bewahrer nackt an einem Pfahl kettete.
+Obwohl Anfangs das Gerücht herumging, dass dies einfach jemand war, der seinen Obrigen nicht gehörig war, wurden später immer wieder Leute so vorgeführt. Anfangs wurde, dass auf einen wütenden Animali geschoben welcher aus dem Eisland kam, um Rache zu üben. Doch neben dem „Nacktketten“ wie es in Lignium hieß, wurden auch Drogenhändler, Schläger oder Vollstrecker teils hingerichtet.
+
+Der größte Coup, gelang allerdings dem grünen Bewacher als dieser einen Lieferung Eisenholz nach Eldria verhinderte, welche seitens des Kaiserreiches nicht abgesegnet wurde. Im Eisenholz fand man dann etliche Waffen, darunter eine große Anzahl an Moltovika vorzüglicher Güte. Das führte zum Fall einer Eiterbeule in Lignium namens Magnus Lutorius welche daraufhin inhaftiert wurde und für 1 Jahre im Gefängnis verbrachte.
+
+Magnus Lutorius wurde allerdings daraufhin aus dem Gefängnis bezüglich „Nichtigkeit der Anschuldigung“ freigelassen und er bekam von Lignium 50.000 Reiks Entschädigung.
+Daraufhin verlor sich die Spur des grünen Bewachers und die Praxis des „Nacktketten“ wurde als Ehrbeleidigung seitdem mit einem deutlich höheren Strafmaß in Lignium belegt.
+
 
 ## Sehenswürdigkeiten
 
 ### Der Bronzestatue von Hadranius Maximus Woranius
 
-At the road next to the city of Lignium travelers can find a 5 meter tall bronz Statue of Hadranius Maximus Woranius.
-The statue is said to be a masterful piece of craftsmanship.
-The details are said to to so extraordinary that many people who travel the road are able to recognize the man if they were to see him.
-Furthermore the Statue has two opal eyes, which are to have belong to the emperor himself.
+Wer von Civis Primae aus auf direkten Weg nach Lignium vor den Toren der Stadt steht wird au einem Granitfelsen eine fünf Meter hohe Bronzestatue von Hadranius Maximus Woranius. Hadranius, der Stadtverwalter per kaiserlichen Gnaden, versucht seit seiner Ankunft das Ruder in Lignium und ganz Naphtanium rumzureißen und den Schleim der Korruption endlich loszuwerden.
 
-### Bachpachnie Street
+Für seine Anstrengungen soll er dieses Geschenk in Form einer meisterlich gefertigten Bronzestatue mit Augen aus Opalen eines Nachts platziert haben.
 
-One of the most common destination for travelers who visit Napthanium is the Bachpachnie street.
-Here people get to see tha many different uses for and inventions of alchemy and although it can sometimes get dangers people still flock to the street to see the newest wonders of the alchemists of the city.
-Ones every years there is a competition between the alchemists of of the alchemy-school were they get to show of their new inventions and experiments.
-People say that during this competition you get to see the forefront of human science.
-Furthermore people can also experience the other uses of alchemy that can't be expeirenced in other places of the empire such as the use of alchemy in food and crafting.
-It is even said that you can discover animali alchemy in the streets and learn more about their unique methods.
+
+### Bachpachnie Straße
+
+Die Straße, welche in die schwarze Stadt führt und vor den verschlossenen Toren von Naphtanium liegt wird Bachpachnie Straße genannt. Für gewöhnlich der Ort, an welchem sich die unerwünschten Gesichter vor Naphtanium sammeln, um vom Ruf der Alchemistenschule zu profitieren, ist auch der Ort an welchem jedes Jahr ein alchemistischer Wettbewerb stattfindet. Gewinner davon können sich verpflichten in der Stadt für 10 Jahre zu leben und zu arbeiten mit deutlich mehr Freiheiten als im restlichen zivilisierten Kaiserreich.
+
+Das gemeine Volk, welche dem Glauben nicht so ganz zugeneigt ist, sieht das als Beweis für die technische und gedankliche Überlegenheit des Kaiserreichs. Pramatischere Geister sehen darin die Möglichkeit an Ausdünstungen des Wissens von Naphtanium heranzukommen, gemischt mit einer Portion an seltenen Zutaten, welche die Animali dort tauschen.
+In den wenigen Backstuben vor Ort findet im Sommer ebenso ein Backfest statt. Dort buhlen die Zuckerbäcker um die Gunst für lukrative Aufträge in Naphtanium. Die Verkostung erfolgt zunächst privat, doch eingeladen werden häufig auch militärische Vertreter aus der gesamten Region Naphtanium. Mehrmalig war bereits einer der Söhne des Kaisers vor Ort, um seinen süßen Gelüsten zu folgen.
+

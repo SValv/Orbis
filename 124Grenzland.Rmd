@@ -1,23 +1,71 @@
 # Das Grenzland
 
-Das Grenzland ist die Außengrenze des Kaiserreichs mit Eldria und damit eine der Regionen, die mit der blutigen Vergangenheit eines Kriegsgebietes mithalten können. Aufgrund der vergangenen Konflikte sind Erwachte dort häufiger als im Herzland und lokale Garnisionen müssen oft Kräfte mobilisieren um Friedhöfe, Gruften und ehemalige Schlachtfelder so weit abzuschirmen, dass die Transportwege sicher sind. 
+![Karte von Grenzland](Pictures/Maps/Grenzland.jpg)
 
-![Karte des Grenzlandes]
+XXXX Überarbeitung notwendig XXXX
 
-Die eben genannten Transportwege sind eine der wichtigsten Eigenschaften des Grenzlandes. Das Grenzland stellt nämlich den sichersten Weg nach Eldria dar, da der kürzere Weg durch den <font color="green">[Silva Nacia](#RegionSilvaNacia)</font> geht, der bekannterweise aufgrund der elfischen Aktivitäten nicht der sicherste Weg ist - vor allem nicht für die Logistik des Kaiserreiches. 
+
+Das Grenzland ist die Außengrenze des Kaiserreichs mit Eldria und damit eine der Regionen, die mit der blutigen Vergangenheit eines Kriegsgebietes mithalten können. Aufgrund der vergangenen Konflikte sind Erwachte dort häufiger als im Herzland und lokale Garnisionen müssen oft Kräfte mobilisieren, um Friedhöfe, Gruften und ehemalige Schlachtfelder so weit abzuschirmen, dass jegliche Transportwege sicher sind. 
+Denn diese genannten Transportwege sind eine der wichtigsten Eigenschaften des Grenzlandes. Das Grenzland stellt nämlich den sichersten Weg nach Eldria dar, da der kürzere Weg durch den <font color="green">[Silva Nacia](#RegionSilvaNacia)</font> geht, der bekannterweise aufgrund der elfischen Aktivitäten nicht der sicherste Weg ist - vor allem nicht für die Logistik des Kaiserreiches. 
 
 ## Ortschaften der Region 
 
+### Lugnux
+
+XXXX Revise XXXX
+
+Lugnux is the biggest city in Grenzland and serves as an important trade point in the region and a lot of trafic goes through the city. Many people from the region come to the city to trade their goods and find capable manpower. Grenzland is not known for being the safest region as the war left many undead behind. This has caused many people from the countryside to move to the city in the last years. Many of the districts are relative new and some people even decide to life in tents in the outskirts of the city.
+
+People of all trades can be found in the city and many goods from Yondalla are sold in the markets. Halfings often travel to the city and sell their unique products for a good price in this city such as alcohol, which is highly sought after in the region. People from other villages and towns even travel to Lugnux just to buy Yondalla goods in bulge.Furthermore Yondalla traders pass through the city and travel directly to Eldria. Additionally if a person needs as special crafted item or service than Lugnux is the best place to find it. The city is known for having many craftsmen and services ranging from pottery, vine-making, artisans and mercenaries which will accept any task.
+
+Einwohner: 110.000
+
+### Arx Libertas 
+
+Arx Libertas' history is deeply connected with the Red Shock Battle, as the city's founder Laurenz Mox Julianus was the soldier that managed to flee the battlefield with the banner of the then third legion. Julianus eventually led a resistance after the battle against Eldria and founded the city. Nowadays the city greatly evolves around the Mercenary guild and its HQ, which can be found in the city. Mercenaries can be found in almost every street and bar and they serve a important role in the region. The citizens of Grenzland can't always rely on the Empire's soldiers to solve the many problems that can be found in the region, ranging from clearing undead to killing goblins. 
+
+The city also has an impressive amount of blacksmiths and war supplies. It is said that you can even find illegal equipment and hardened steel if you have enough money. As a results, many adventures travel to the Arx Libertas to gear up and prepare for their adventure.
+
+Inhabitants: 55.000
+
+
+### Orb Latar
+
+Orb Latar is the last city of the empire before entering Eldria and is the new gem of the region. It is right at the edge of the two regions and functions as a stronghold and blockgade to Eldria and its forces. However despite this gloomy reality, Orb Latar is a festive city. It is hard to pinpoint how the city became so merry, but it has a long history of friendly festivals were people from Eldria and the Empire meet up to celebrate. 
+
+The city is also known for its wine and other fine alcohol as well as its extensive wine-fields. Orb Latar both produces and and consumes a lot of food and alcohol and somehow it always have enough for a spontaneous festival. Many world renowned brands such as Kenkensen, Berrin and Sma-blä also come from the city.
+
+Inhabitants :90.000
+
 ### Infrastruktur
+
+XXXX Revise XXXX
+
+Grenzland only has a few roads, which are well kept such. These included the roads that originate from Herzland and lead to Eldria. These roads are the safest as many troops use them when traveling from the two regions and they play an important role in the Empire say they are offer the safest way to Eldria. However the undead can be found everywhere in the region and one should always be prepared to encounter them. Most of the other roads in the region are well-worn from the conflicts of the region. Some small village repair their roads close to them but the majority roads are in poor condition. 
 
 ## Die Geschichte der Region
 
-Das Grenzland hat seinen Anteil an blutigen Konflikten und Kriegen, da es oft das Schlachtfeld für viele Zusammenstöße zwischen dem Kaiserreich und den Mächten von Eldria war. Einer dieser Zusammenstöße war die "Rote-Schock-Schlacht" im Jahr 188. Die Fürsten von Eldria bereiteten sich darauf vor, ihre Streitkräfte ins Grenzland zu verlegen, um ihre Vorherrschaft in der Region zu stärken, doch das Kaiserreich hatte Spione in die Reihen Eldrias eingeschleust, die ihre Pläne verrieten. 
+### The Battle of Klyln Field
+
+XXXX Revise XXXX
+
+Das Grenzland hat seinen Anteil an blutigen Konflikten und Kriegen, da es oft das Schlachtfeld für viele Zusammenstöße zwischen dem Kaiserreich und den Mächten von Eldria war. Both sides kept fighting over the land for many years. In the beginning of the conflict there was mainly just small skermishes but as time passed the battles grew bigger and bigger. One of the early battles, which shaped the early history of Grenzland, was the battle of Klyln field. Klyln field was an important passage in between the mountains of Grenzland. The empire believed that they could send the third legion through the field as they believed that the goblins, that used to life there, had wandered away. However Eldria's forces were waiting for the third legion and ambushed it from both sides of the field. The annihilation of the third legion left Grenzland very vulnerable and for a time Eldria ruled most of the region. However some soldiers managed to survive the battle and split up into multiple groups and after some time they managed to build resistance groups with the help of the locals. A surviving soldier, called Laurenz Mox Julianus, managed to flee the battle of Klyln field with the banner of the third legion and he became the leading symbol of the resistance. His resistance was financed by the empire and also secretly from the Inquisition / Hüter Kult. During the war, the resistance faction created the city of Arx Libertas. Arx Libertas was founded close to Yondalla because it blocked the second route from yondalla to the empire. The city came under attack many times by Eldria's forces but the city always survive because of the brilliant tactics of Julianus. Ones the Empire regained controll of the region it signed a contract with the resistance fighters. The Empire was given the land and loyalty of the various resistance groups in Grenzland but the Resistance leaders were made into lords with great autonomy. They were allowed to keep their soldiers in their armies and raise their own taxes. After this the importance of Arx Libertas grew weaker because it no longer held its important political reach over the empire. After time the mercenary guild was founded in Arx Libertas and wowadays the guild can be found in every mayor town of Grenzland.
+
+### Die Rote Schock Schlacht
+
+Eine Zusammenstöße wären der Krieg war die "Rote-Schock-Schlacht" im Jahr 188. Die Fürsten von Eldria bereiteten sich darauf vor, ihre Streitkräfte ins Grenzland zu verlegen, um ihre Vorherrschaft in der Region zu stärken, doch das Kaiserreich hatte Spione in die Reihen Eldrias eingeschleust, die ihre Pläne verrieten. 
 Mit diesen Informationen schickte das Imperium eigene Truppen in die Region, um die rivalisierenden Armeen in einen Hinterhalt zu locken und die Kontrolle über die Region an sich zu reißen. In dieser Schlacht enthüllte das Kaiserreich eine der geheimen Waffen, die "Hammerer von Alt-Greifenstadt". Es war das erste Mal, dass die Armeen Eldrias auf diese Streitkräfte trafen, und folglich hatten sie einen massiven Einfluss auf die Schlacht, da sie darauf spezialisiert waren, die Ritter Eldrias effektiv auszuschalten. Die Schlacht endete mit einem entscheidenden Sieg für das Kaiserreich. Auch wenn dies nicht die letzte Schlacht zwischen den beiden Mächten war, so war es doch diejenige, die den Krieg zu Gunsten des Reiches entschied. 
+
+### Die Qirrik Hügeln Schlacht 
 
 Eine weitere berüchtigte Schlacht, die zu einer der schrecklichsten Zeiten im Grenzland führte, war die Schlacht bei den Qirrik-Hügeln. Auch hier standen sich die Streitkräfte Eldrias und des Kaiserreichs gegenüber, doch diese Schlacht war keineswegs einseitig.
 Beide Mächte hatten große Verluste zu beklagen, doch am Ende ging Eldria als Sieger hervor. Trotz ihres Sieges befanden sie sich in feindlichem Gebiet und hatten nur noch eine Handvoll Soldaten, die ohne Kommandanten dastanden. Traurigerweise mussten die Soldaten die unehrenhafte Entscheidung treffen, das Schlachtfeld zu verlassen, ohne sich um die Toten zu kümmern. Diese Entscheidung führte zur Entstehung dessen, was heute als die "Verfallenen Hügel von Qirrik" bekannt ist.  Nach nicht allzu langer Zeit wurde das Grenzland von einer ganzen Armee von Untoten heimgesucht, und viele Wochen lang war das Leben der Grenzlandbewohner durch die Untoten bedroht. Es bedurfte der vereinten Kräfte der 7. Legion und der im Grenzland stationierten Truppen, um die Untotenarmee zu besiegen. Untote waren im Laufe der Geschichte des Grenzlandes ein großes Problem, da unzählige Schlachten in der Region stattgefunden haben und viele Leichen unbeaufsichtigt gelassen wurden. 
 
+> The commander of the legion – Brakus Tertius Servarius - battled on with 7 arrows in his back and killed many enermy soldiers before getting killed himself.
+>
+> --- Marcus Olinius - telling tales of the many great battles in the Far Far Inn in Lugnux
+
+(Ich glaube der Kasper hat irgendwann lore zu den Goblins in Grenzland geschrieben, aber ich kann es nicht finden. Es wäre gut wenn wir noch die Geschichte zu den Goblins in Grenzland schreiben)
 
 ## Wirtschaftliche Lage
 
@@ -32,6 +80,8 @@ Eine weitere Ressource, die im Grenzland weit verbreitet ist, ist Holz, genauer 
 
 Aufgrund der eher desolaten Lage des Grenzlandes migrieren viele junge Erwachsene in Richtung des Herzlandes, da die wirtschaftlichen Chancen in den Großstädten deutlich besser und aussichtsreicher sind als die, die die kleinen und mittleren Städte des Grenzlandes biesten können. Dieser Mangel an jungen Menschen macht sich sowohl wirtschaftlich als auch militärisch bemerkbar. 
 
+The undead have been a major problem for a long time in Grenzland although a lot is being done to combat the undead such as the Order of Cleansing. Yet the citizens of the region still fear to travel the roads as they might be attacked by the undead.
+
 ### Der Orden der Säuberung
 
 Der Orden der Reinigung wurde mit dem einzigen Ziel gegründet, die Ländereien des Grenzlandes von den Untoten zu säubern, die wie eine Plage sind. Der Orden wurde kurz nach dem Sieg über die untote Armee der Qirrik-Hügel gegründet. Das Imperium wusste, dass es, wenn es die Region übernehmen und eine Infrastruktur aufbauen wollte, dafür sorgen musste, dass die Untoten kein Problem mehr darstellen würden. Der Orden setzt sich aus Soldaten zusammen, die sich auf die Vernichtung von Untoten spezialisiert haben. Als solche tragen sie stets Ausrüstung für die Bestattung der Toten bei sich. Sie sind an ihrem Symbol zu erkennen, das eine Blume unter einer strahlenden Sonne darstellt. Der Orden hat sogar besondere Beziehungen zur Kirche, da er eine Unterabteilung der Ekklesia ist. Eines der größten Probleme des Ordens ist jedoch, dass er einfach nicht über genügend Truppen verfügt, um größere Gruppen von Untoten zu bekämpfen (z. B. nach einer großen Schlacht), weshalb er seine Reihen oft mit Veteranen aus der Söldnergilde aufstockt. Natürlich bezahlen sie diese mit Geld, aber ihre Hauptbezahlung besteht darin, dass sie ihren politischen Einfluss, der von der Kirche ausgeübt wird, nutzen, um Mitglieder der Gilde vor rechtlichen Konsequenzen zu schützen.  
@@ -39,13 +89,17 @@ Der Orden der Reinigung wurde mit dem einzigen Ziel gegründet, die Ländereien 
 
 ### Herrschaftsystem/Organisation
 
-## Klimatische Bedingungen
+## Klimatische Bedingungen 
+
+Grenzland shares a very similar Climate to Herzland. The weather is very mild through the first half of the year. The regions has enough rain to grow crops adequately and plenty of clear sky in the summer.
 
 ### Die Flora und Fauna
 
 #### Monster in der Region
 
-## Geschichten der Region
+Monsters such as Kathakans, Werwolfs, Gravis und many different Vampiridae can be found in the region, however the region is many dominated by the undead.
+
+## Gerüchte der Region
 
 ### Der Köpfer von Pikliven
 
@@ -67,14 +121,21 @@ In dieser schlimmen Zeit, in der Kishivs strahlende Gnade schwand, kam die Erlö
 
 Bis heute ist es keinem Historiker gelungen, herauszufinden, was sich in Ferringstill wirklich zugetragen hat, und es gibt nur Theorien ohne soliden Beweis. Martin Vetious Kishiv, der einzige Überlebende der Stadt, hat jedoch sein ganzes Leben lang nach Antworten gesucht. Obwohl er keine Beweise für die Geschehnisse fand, versuchen seine Nachkommen bis heute, die Wahrheit über die verschwundene Stadt Ferringstill herauszufinden.
 
+### The dead man wanderer
+
+It is a known fact that there are a lot of undead in Grenzland that appeared after the many battles during the war. Some bodies were returned home and some families are still looking for the body of their family members years after. However there are rumours of one person who can be found near the battlefields. For nomral people this would be a deathtrap since there is a high chance that you would be attacked by undead. However people have sighted a man wandering next to the undead. The man somehow doesn't get attacked by them. They simply walk past him. These people believe that the man is looking for someone who died long ago as they can hear him mumbling "It is alright Theresa. I'll soon find you and then you won't be alone anymore". People have started to call him the dead man wandere and he can even be found in Lugnux sometimes if you happen to be in the city during the right time.
 
 ## Sehenswürdigkeiten
 
-## Besonderheiten der Region
+### Der Orden der Säuberung
+
+Der Orden der Reinigung wurde mit dem einzigen Ziel gegründet, die Ländereien des Grenzlandes von den Untoten zu säubern, die wie eine Plage sind. Der Orden wurde kurz nach dem Sieg über die untote Armee der Qirrik-Hügel gegründet. Das Imperium wusste, dass es, wenn es die Region übernehmen und eine Infrastruktur aufbauen wollte, dafür sorgen musste, dass die Untoten kein Problem mehr darstellen würden. Der Orden setzt sich aus Soldaten zusammen, die sich auf die Vernichtung von Untoten spezialisiert haben. Als solche tragen sie stets Ausrüstung für die Bestattung der Toten bei sich. Sie sind an ihrem Symbol zu erkennen, das eine Blume unter einer strahlenden Sonne darstellt. Der Orden hat sogar besondere Beziehungen zur Kirche, da er eine Unterabteilung der Ekklesia ist. Eines der größten Probleme des Ordens ist jedoch, dass er einfach nicht über genügend Truppen verfügt, um größere Gruppen von Untoten zu bekämpfen (z. B. nach einer großen Schlacht), weshalb er seine Reihen oft mit Veteranen aus der Söldnergilde aufstockt. Natürlich bezahlen sie diese mit Geld, aber ihre Hauptbezahlung besteht darin, dass sie ihren politischen Einfluss, der von der Kirche ausgeübt wird, nutzen, um Mitglieder der Gilde vor rechtlichen Konsequenzen zu schützen.  
 
 ### Die Hammerer von Alt-Greifenstadt
 
-Diese Einheiten der kaiserlichen Armee hat sich frühzeitig auf rüstungsbrechende Waffen spezialisiert, um die eldrischen Ritter effektiver zu bekämpfen. Die Hammerer von Alt-Greifenstadt 
+Diese Einheiten der kaiserlichen Armee hat sich frühzeitig auf rüstungsbrechende Waffen spezialisiert, um die eldrischen Ritter effektiver zu bekämpfen. They are the seen as the proud sons of Grenzland ever since the Red Shock battle .They often march through the cities and towns of Grenzland and inspire the people.
+
+Die Hammerer von Alt-Greifenstadt 
 
 
 ## Notes

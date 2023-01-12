@@ -6,21 +6,26 @@
 >
 > --- Harnod Cowell III, Eldrischer Gelehrter
 
-Seit Anbeginn der Chroniken ist das Erwachen ein fester Teil von Aestea. Ein Gestorbener - wenn nicht ordentlich bestattet - steht binnen 2-6 Tagen wieder auf, die meisten jedoch im Rahmen von 3-4 Tagen. Die Erwachten - wie die lebenden Toten weithin genannt werden - sind feindlich gegenüber fast jeder intelligenten Lebensform, die nicht auch erwacht ist. Sie zu töten ist nicht immer einfach, da man große Teile ihres Körpers zerstören muss bis sie endlich wieder erschlaffen. Sie einzudämmen ist allerdings möglich, da sie kein taktisches oder logisches Verständnis zu besitzen scheinen. Am besten umgeht man sie großflächig und meldet jede Infestion umgehend der Armee oder der Ekklesia. Noch besser wäre es jedoch, sie gar nicht erst entstehen zu lassen. Religiöse Rituale verhindern die Erweckung. So hat jedes Volk seine eigene Methode gefunden mit der Gefahr umzugehen - manche davon sind besser, andere wiederum weniger geeignet.
+Seit Anbeginn der Chroniken ist das Erwachen ein fester Teil der bekannten Welt von Orbis Astea. Ein Gestorbener - wenn nicht ordentlich bestattet - steht binnen zwei bis sechs Tagen wieder auf, die meisten jedoch im Rahmen von 3-4 Tagen. Die Erwachten - wie die lebenden Toten weithin genannt werden - sind feindlich gegenüber fast jeder  Lebensform, die nicht auch als eine der "ihren" gesehen wird. Diese "Erwachten" zu töten ist nicht immer einfach, da man große Teile ihres Körpers regelrecht zerstören, oder den Kopf abhaken muss bis die lebendigen Toten aufhören wieder lebendig zu sein.
+Die Eindämmung dieser Plage, mancherorts wird das als die Schattenseite des Lebens beschrieben, ist allerdings möglich, da sie kein taktisches oder logisches Verständnis zu besitzen scheinen. Insofern wird geraten, diesen Toten aus dem Weg zu gehen. Alternativ kann man mit ausreichend Kleingeld Söldner kaufen, oder hoffen dass die Armee oder andere Institutionen der Gesellschaft sich dieser Probleme annehmen.
+Doch anstatt diesen stinkenden, beißenden, bewaffneten, Krankheiten verbreitenden Kadavern plötzlich beim nächtlichen Lagerfeuer unerwartet mit Müh und Not bekämpfen muss, wäre es besser diese Auferstehung zu verhindern.
 
-![Hüte dich vor den Erwachten[^001allgemeines-1]](Pictures%5CFlavor%5CErwachte%5Cby_jimmynijs_Erwachter1.jpg)
+Einige religiöse Rituale unterschiedlicher Glaubensrichtungen haben Lösungen gefunden. So fressen Orks ihre Verstorbenen in kannibalistischer Gleichgültigkeit, Elfen düngen damit ihre Bäume oder das Kaiserreich, welches die Verstorbenen beerdigt und einen Siegelstein darüber setzt.
 
-[^001allgemeines-1]: "Lich" von [JimmyNijs](https://www.deviantart.com/jimmynijs/art/Lich-634417921). Dieses Artwork steht unter einer Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 License.
+![Die schattenseite des Lebens[^JimmyNijsLich]](Pictures%5CFlavor%5CErwachte%5Cby_jimmynijs_Erwachter1.jpg)
 
-Die Art und Weise wie mit der Erweckung umgegangen wird, ist identitätsstiftend, da sie den Charakter und die Systeme aller Völker geprägt hat und die Zivilisation grundlegend beeinflusst.
+[^JimmyNijsLich]: "Lich" von [JimmyNijs](https://www.deviantart.com/jimmynijs/art/Lich-634417921). Dieses Artwork steht unter einer Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 License.
+
+
+Die Art und Weise wie mit der omnipräsentenn Erweckung der Toten umgegangen wird, ist prägend für die Gesellschaften, da sie den Charakter und die Systeme aller Völker beeinflusst.
 
 ## Die Rolle der Religion
 
-In Orbis Aestea ist es die Energie des Glaubens der Leute, die dem Übernatürlichem Macht verleiht. Sollten nur genug Leute an eine übernatürliche Macht oder einen Gott glauben, wird man sehr schnell deren Hand und Spuren in der Welt feststellen. Umso fester der Glaube an gewisse Begräbnissrituale, desto sicherer ist es, dass die Leichen, die auf diese Art und Weise bestattet werden auch bestattet bleiben. Auch in anderen Bereichen kann der Glaube Berge versetzen: Tödlich verletzte Soldaten, deren Willen im Kampf trotzdem nicht bricht, Seuchenkranke, die ihre Krankheit abschütteln, nur weil sie intensiv genug beten, und Monster, die die Gläubigen verschonen, während sie Ketzer erbarmungslos zur Strecke bringen.
+In Orbis Aestea ist es, so die Meinung der Gelehrten der Glaube der Leute, die dem Bestattungsritual übernatürliche Macht verleiht. Weiters meinen die Bewohner von Orbis Astea, dass man einfach nur mit genügend Gleichgesinnten an etwas Glaube müsse, damit sich das erfüllt. So soll, umso fester der Glaube an gewisse Begräbnissrituale, desto sicherer ist es, dass die Leichen, die auf diese Art und Weise bestattet werden auch bestattet bleiben. Auch in anderen Bereichen kann der Glaube Berge versetzen: Tödlich verletzte Soldaten, deren Willen im Kampf trotzdem nicht bricht, Seuchenkranke, die ihre Krankheit abschütteln, nur weil sie intensiv genug beten, und Monster, welche die Gläubigen verschonen, während sie Ketzer erbarmungslos zur Strecke bringen, werden allesamt als Beispiele angeführt, warum es wichtig ist zu glauben. Nun, skeptischere Zeitgenossen werfen ein, dass auch Priester sterben, Kaiser mit Dreck beworfen werden, oder das Kind an einer Krankheit stirbt, doch eher davon zeugen, dass dieser Glaube nicht alle Berge versetzt. Die Gläubigen entgegen, man hat nicht genug und Zweifelsfrei sich dem göttlichen Hingegeben.
 
-Die besondere Rolle der Religion sorgt auch dafür, dass religiöse Institutionen bei den meisten Völkern eine tragende Rolle spielen - oder zumindest sehr mächtig sind. Im Kaiserreich beispielsweise steht die Inquisition - der militärische Arm der Ekklesia - de facto über dem Gesetz. Bei den Rah-Kari ist das ganze System in Form einer Theologie aufgebaut, in der die Hohepriester der Kulte über das Reich herrschen.
+Die besondere Rolle der Religion sorgt auch dafür, dass religiöse Institutionen bei den meisten Völkern eine tragende Rolle spielen - oder zumindest sehr mächtig sind. Im Kaiserreich beispielsweise steht die Inquisition, der militärische Arm der Lehre des Allgotts, häufig Ekklesia  genannt, de facto über dem Gesetz. Bei den Rah Kari ist das ganze System in Form einer Theokratie aufgebaut, in der die Hohepriester der Kulte über das Reich herrschen, und in Eldria, nunja, dort wird es kompliziert.
 
-![eine Priesterin der Rah Kari bei der Salbung eines Toten](Pictures%5CFlavor%5CPlatzhalter%5CPlatzhalter_RhaKariPriesterin.jpg)
+![eine Priesterin der Rah Kari bei der Salbung eines Toten[^EgyptianPriestessMidjourney]](Pictures\Flavor\Allgemeines\EgyptianPriestess_Midjourney.png)
 
 ## Die Geschichte Orbis Asteas
 
@@ -141,4 +146,5 @@ tva = df[[1]] %>% timevis(df[[2]], options = config) %>%
 tva
 ```
 
-![Ein Zeitstrahl über die Geschehnisse von Orbis Astea](Pictures%5CFlavor%5CTimeline.png)
+
+[^EgyptianPriestessMidjourney]: Dieses Artwork wurde mithilfe von [Midjourney](https://midjourney.com/home/?callbackUrl=%2Fapp%2F) erstellt und steht uns daher unbegrenzt zur Verfügung.

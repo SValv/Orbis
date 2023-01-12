@@ -6,48 +6,53 @@ editor_options:
 
 # Die Rasse der Orks
 
-> "Man versklavt Orks nicht. Orks gibt man einen Grund etwas zu tun und belohnt sie anschließend mit reichlich Bier und unmenschlichen Mengen an Essen. Dann sind sie die treuesten und besten Soldaten die sich ein Kaiser nur wünschen kann!"
+> "Man versklavt Orks nicht. Orks gibt man einen Grund etwas zu tun und belohnt sie anschließend mit reichlich Bier und Essen. Dann sind sie die treuesten und besten Soldaten, die sich ein Kaiser nur wünschen kann!"
 >
 > --- Lucillus Proximus
 
-Orks sind im Erscheinungsbild von grob menschlicher Statur.
-Im Allgemeinen sind Orks etwas größer als Menschen.
-Sexueller Dimorphismus ist weniger stark ausgeprägt als bei Menschen.
-Prinzipiell kommen sie in unterschiedlichen Hautschattierungen vor: Orks, welche primär Untertage aktiv sind, sind meist in grau und braun Tönen anzutreffen.
+Orks eine der Rassen mit einer einfacheren Kultur, sind im Erscheinungsbild von grob menschlicher Statur. So kann man schmächtigere Orks mit kräftigeren und größeren Menschen verwechseln, wenn diese aus Richtung der Abendsonne auf einen zustürmen. Bei näherer Betrachtung zeichnen sich jedoch einige eklatante Unterschiede ab.
+So sind die Hautfarben stärker variierenden als dies bei Menschen oder Zwergen der Fall wäre, ihre Körpergröße ist meist knapp unter 2 Metern, und Stoßzähne am unteren Kiefer sind die stärksten Merkmale.
+Weniger auffällig ist, das Orks in den seltensten Fällen fähig sind Fernkampfwaffen zu nutzen, die ihre Kurzsichtigkeit nur das anviesieren in Wurfreichweite ermöglicht. Aufgrund ihrer überlegenen Körperlichen Kraft reichte dies augenscheinlich aus um in der Welt zu überleben.
+Ein weiterer Unterschied zu den Menschen ist die geringer ausfallende Unterscheidbarkeit von Frauen und Männern bei Orks. Zwar sind Brüste und ein etwas breiteres Becken und geringere Körperbehaarung durchaus ähnlich wie bie Menschen, jedoch lässt sich die allgemeine Muskulöstität weniger klar zwischen den Ork Geschlechtern Unterscheiden.
+Bedingt auch durch die Tatsache, dass es in den Orkstämmen keine klare oder permanente Rollenzuweisung gibt, könnte diese Tatsache in den beobachteten geringeren Unterschied erklären.
+
+Die angesprochene Mannigfaltigkeit bei den Hautfarben oder Hautschattierungen bei den Orks ist meist stammspezifisch und lässt gelegentlich Rückschlüsse auf Stammesverandtschaften zu. So wurde, im Werk von Kat-al-Taht, einem  Gelehrten der Rah Kari, in seinem Buch "Orks, Wegweiser, Gefährten, Krieger" folgendes dargelegt:
+
+> Die grobschlächtigen und geistig stumpferen Orks, welche primär Untertage oder in den Gebirgen aktiv sind, sind meist in grau und braun Tönen anzutreffen.
 Orks grünerer Gebiete, wie in Wäldern und auch im Nebelhain, sind meist mit dunkelgrünen Hauttönen anzutreffen.
-Die körperlich größten Orks sind in der Eisenwüste anzutreffen.
-Ihre Körpergröße liegt im Durchschnitt bei knapp unter zwei Metern.
-Orks der Eisenwüste sind entsprechend rostbraun bis rot-braun.
+Die körperlich größten Orks sind in der Eisenwüste anzutreffen und sind entsprechend rostbraun bis rot-braun.
+>
+> - Kat-al-Taht, aus "Orks, Wegweiser, Gefährten, Krieger"
 
-Die körperliche Stärke von Orks ist die höchste von allen Rassen.
-Selbst in der Stadt aufgezoge Orks haben meist bereits die körperliche Kraft von hartgesottenen Soldaten.
 
-Orks sind im Allgemeinen sprachlich wenig gewandt, was auch auf ihre bescheidenere Intelligenz zurückzuführen ist.
+Die körperliche Stärke von Orks ist die höchste von allen Rassen. Selbst in der Stadt aufgezoge Orks haben meist bereits die körperliche Kraft von hartgesottenen Soldaten.
+Zu den eher kulturellen Unterschieden, ist die Tatsache dass Orks sprach weniger gewandt zu sein scheinen, womgölich bedingt aufgrund der gelegentlich störend großen Stoßzähne oder auch ihre bescheidenere Intelligenz.
+Charismatisch, wenig überraschend, Reihen sich Orks in die Rasse der Goblins ein und sind somit weniger eloquent im umwerben von Geschäftspartnern oder sonstigen interagierenden Parteien.
 
-Orks ernähren sich primär von erlegten Beutetieren oder ihren eigenen Toten.
+
+Orks ernähren sich primär von erlegten Beutetieren, wild gesammelter Nahrung wie Pilzen, Beeren oder Gräsern oder auch ihren eigenen Toten.
 Obwohl Orks kurzsichtig sind und dementsprechend keine Fernkampfwaffen effektiv benutzen können, sind diese allerdings, aufgrund ihrer unheimlichen körperlichen Stärke, in der Lage selbst große Eber mit ihren Knochenspeeren auf eine Distanz von mehreren dutzenden Metern zu erlegen.
 
-Bekannt sind Orks für ihre, im Gegensatz zu allen anderen Rassen, stark ausgeprägten Eckzähne.
-Hierbei sind vor allem die unteren Eckzähne meist bei ausgewachsenen, männlichen Exemplaren groß genug, um teils die Aussprache zu behindern.
 
-> Aufgrund ihres "wilden" Lebensstils, was für einen kaiserlichen Missionar wie mich, tatsächlich eher eine Untertreibung darstellt, sind Orks gegenüber herkömmlichen Krankheiten beinahe immun.
+> Aufgrund ihres "wilden" Lebensstils, was für einen kaiserlichen Missionar wie mich tatsächlich eher eine Untertreibung darstellt, sind Orks gegenüber herkömmlichen Krankheiten beinahe immun.
 > Orks waren auch die einzige Rasse, welche nicht von der großen Seuche - der Irae Omnideus - befallen wurde.
 >
 > --- Aus "Das Tagebuch eines reisenden Missionars" von Stephanus Arnelius
 
 ## Die Geschichte
 
+Über die Allgemeine Geschichte der basalen Kultur der Orks ist wenig bekannt, was aus Sicht der Orks geschildert wäre. Mündliche Überlieferungen scheinen zwar von immer den selben Themen, von Erfolg, Misserfolg, Wachstum und Zerfall von Stämmen zu reden, jedoch ohne genaue Daten festzuhalten, wie dies Chronisten des Kaiserreichs oder der Rah Kari tun.
+Aus eben jenen Aufzeichnungen lassen sich grob die mündlichen Überlieferungen bestätigen, welche bei den Orks Tradition haben.
+
 ## Die Gesellschaft
 
-Die Gesellschaft der Orks ist im allgemeinen einfach gegliedert.
-Den Orkstamm führt für gewöhnlich ein Stammesoberhaupt, welches in allen Orkgesellschaften, außer den Orks der Eisenrotenwüste, männlich ist.
-Das Stammesoberhaupt hat alleine jedoch wenig Entscheidungsgewalt und Orks leben im Allgemeinen in einem partizipatorischen System.
-Jeder Ork hat, entsprechend seines Alters und Rufes ein Stimmrecht.
-Entscheidungen wie, welche Lindwürmer wann, wo erlegt werden, welche Beute wem gehört sind im allgemeinen schnell getroffen, da die Nutzungsteile und die Nahrung für gewöhnlich fair verteilt wird.
-Insofern ist es, entgegen der Ordnung des Allgottes, allen Orks erlaubt ihre Fähigkeiten zu bilden wie diese das möchten.
-Allerdings sollte hier erwähnt werden, dass dies nur für den Stamm relevante Aufgaben gilt.
-Künstler, Literaten oder sonstiges Gesocks sucht man bei Orks dementsprechend vergebens.
+Die Gesellschaft der Orks ist im Allgemeinen einfach gegliedert. Den Orkstamm führt für gewöhnlich ein Stammesoberhaupt, welches in allen Orkgesellschaften, außer den Orks der Eisenrotenwüste, männlich ist. Dies ist eine der wenigen Punkte an denen die Ork Gesellschaft nicht egalitär ist. Begründet wird es mit Tradition und dass es keinen zu stören scheint, da nichteinmal aufmüpfige Ork-Frauen damit ein Problem zu haben scheinen.
+
+Das Stammesoberhaupt hat alleine jedoch auch wenig Entscheidungsgewalt und Orks leben im Allgemeinen in einem partizipatorischen System. So hat jeder Ork, entsprechend seines Alters und Rufes ein Stimmrecht.
+Entscheidungen wie, welche Lindwürmer wann, wo erlegt werden, welche Beute wem gehört sind schnell getroffen, da die Nutzungsteile und die Nahrung für gewöhnlich fair verteilt wird.
+Insofern ist es, entgegen der Ordnung des Allgottes oder der Theokratie der Rah Kari, allen Orks erlaubt ihre Fähigkeiten zu bilden wie diese das möchten. Beschränkend erwähnt werden sollte hier, dass dies nur für den Stamm relevante Aufgaben gilt. Künstler, Literaten oder sonstiges "Gesocks" sucht man bei Orks dementsprechend vergebens.
 Allerdings beteilgen sich, an etwaigen Zeichnungen oder Errichtungen von "Gebäuden" meist alle Orks gleichermaßen.
+Eine dezidierte Gruppe Gelehrter sind in Orkstämmen ebenfalls extrem selten anzutreffen. Das führt zu mehreren Schwachpunkten in der Gesellschaft. So erreichen Festungen nie Ausmaße wie jene der Menschen, Zwerge oder Elfen, ist ihr Wissen in großen Schlachtplänen meist spärlich, oder wie das frömmige Leben zu führen ist um die Götter nicht zu erzürnen.
 
 ![Orksiedlung in den Südwestlichen Bergen Eldrias](Pictures%5CFlavor%5CPlatzhalter%5Corcstronghold.jpg)
 
@@ -75,8 +80,6 @@ Aufgrund ihrer Stärke wurden Orks oft mit schweren Rüstungen ausgestattet, was
 Orks sind aufgrund der Kurzsichtigkeit in nur sehr seltenen Fällen dazu in der Lage Fernkampfwaffen zu nutzen, wodurch ihre Kultur nie den Bogenbau erlernt hat.
 
 ![Ranghoher Orkfrontkämpfer in Plattenrüstung im Dienste der Kaiserlichen Armee -gemalt von Vilus Traainim um 120 n. R.](Pictures%5CFlavor%5CPlatzhalter%5COrk_Plattenr%C3%BCstung.jpg)
-
-Orks benötigen allerdings, sofern diese zur Fernsicht in der Lage sind, spezielle Bögen und Pfeile, da durch ihre übermäßige Kraft häufig der Bruch des Bogens in Kampfsituationen erfolgt.
 
 Die Erziehung der Orkkinder erfolgt ohne eine spezifische Schule.
 Die Orkkinder entscheiden relativ frei, welche Aktivitäten sie ausführen möchten.

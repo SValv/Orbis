@@ -46,25 +46,16 @@ Epinephrinika sind besondere Tränke. sie wecken einen Ohnmächtigen sofort aus 
 
 Die Anzahl an Alchemiechecks pro Downtime wird durch die Effektivität des Brauers bestimmt, diese erhöht sich mit seinen Werkzeugen, je mehr verschiedene Hilfsutensielien desto mehr Checks sind in der gleichen Zeit möglich. Manche Utensilien können sowohl die Anzahl für Handwerkschecks sowie Alchemie Checks erhöhen.
 
-+-------------------+------------------------+---------+-------+------------------------------------------------------------------------------------------------------+
-| Werkzeug          | zusätzliche <br>Checks | Gewicht | Preis | Anmerkung                                                                                            |
-+===================+:======================:+:=======:+:=====:+:====================================================================================================:+
-| Retorte           | 1                      | 1       |       |                                                                                                      |
-+-------------------+------------------------+---------+-------+------------------------------------------------------------------------------------------------------+
-| Mörser und Stößl  | 2                      | 2       |       |                                                                                                      |
-+-------------------+------------------------+---------+-------+------------------------------------------------------------------------------------------------------+
-| Destillierkolben  | 3                      | 10      |       |                                                                                                      |
-+-------------------+------------------------+---------+-------+------------------------------------------------------------------------------------------------------+
-| Messer            | 1                      | 0.5     |       | kann auch als Alchemiewerkzeug verwendet werden                                                      |
-+-------------------+------------------------+---------+-------+------------------------------------------------------------------------------------------------------+
-| Feuerkatalysator  | 1                      | 1       |       | kann auch als Alchemiewerkzeug verwendet werden                                                      |
-+-------------------+------------------------+---------+-------+------------------------------------------------------------------------------------------------------+
-| Drachenatem       | 3                      | 3       |       | Ersetzt Feuerkatalysator<br>kann auch als Alchemiewerkzeug verwendet werden                          |
-+-------------------+------------------------+---------+-------+------------------------------------------------------------------------------------------------------+
-| Antike Mörser     | 4                      | 2       | --    | Ersetzt Mörser; Verwertbar zu T4 Material                                                            |
-+-------------------+------------------------+---------+-------+------------------------------------------------------------------------------------------------------+
-| Mörser der Götter | 4                      | 2       | --    | Ersetzt Mörser steigert für Alchemiechecks Intelligenz, jeder Check geht zu lasten der Geistesstärke |
-+-------------------+------------------------+---------+-------+------------------------------------------------------------------------------------------------------+
+| Werkzeug          | zusätzliche <br>Checks | Gewicht | Preis |                                              Anmerkung                                               |
+|-------------------|:----------------------:|:-------:|:-----:|:----------------------------------------------------------------------------------------------------:|
+| Retorte           |           1            |    1    |       |                                                                                                      |
+| Mörser und Stößl  |           2            |    2    |       |                                                                                                      |
+| Destillierkolben  |           3            |   10    |       |                                                                                                      |
+| Messer            |           1            |   0.5   |       |                           kann auch als Alchemiewerkzeug verwendet werden                            |
+| Feuerkatalysator  |           1            |    1    |       |                           kann auch als Alchemiewerkzeug verwendet werden                            |
+| Drachenatem       |           3            |    3    |       |             Ersetzt Feuerkatalysator<br>kann auch als Alchemiewerkzeug verwendet werden              |
+| Antike Mörser     |           4            |    2    |  --   |                              Ersetzt Mörser; Verwertbar zu T4 Material                               |
+| Mörser der Götter |           4            |    2    |  --   | Ersetzt Mörser steigert für Alchemiechecks Intelligenz, jeder Check geht zu lasten der Geistesstärke |
 
 : Werkzeuge der Alchemie
 
@@ -93,25 +84,16 @@ Die Anzahl der möglichen Checks wird dabei vom Werkzeug des Handwerkers bestimm
 
 Die Anzahl an Handwerkschecks pro Downtime wird durch die Effektivität des Handwerkers bestimmt, diese erhöht sich mit seinen Werkzeugen, je mehr verschiedene Hilfsutensielien desto mehr Checks sind in der gleichen Zeit möglich. Manche Utensilien können sowohl die Anzahl für Handwerkschecks sowie Alchemie Checks erhöhen.
 
-+-----------------------+------------------------+---------+-------+--------------------------------------------------------------------------------------------------------+
-| Werkzeug              | zusätzliche <br>Checks | Gewicht | Preis | Anmerkung                                                                                              |
-+=======================+:======================:+:=======:+:=====:+:======================================================================================================:+
-| Zange                 | 1                      | 1       |       |                                                                                                        |
-+-----------------------+------------------------+---------+-------+--------------------------------------------------------------------------------------------------------+
-| Hammer                | 2                      | 2       |       |                                                                                                        |
-+-----------------------+------------------------+---------+-------+--------------------------------------------------------------------------------------------------------+
-| Amboss                | 3                      | 10      |       |                                                                                                        |
-+-----------------------+------------------------+---------+-------+--------------------------------------------------------------------------------------------------------+
-| Messer                | 1                      | 0.5     |       | kann auch als Alchemiewerkzeug verwendet werden                                                        |
-+-----------------------+------------------------+---------+-------+--------------------------------------------------------------------------------------------------------+
-| Feuerkatalysator      | 1                      | 1       |       | kann auch als Alchemiewerkzeug verwendet werden                                                        |
-+-----------------------+------------------------+---------+-------+--------------------------------------------------------------------------------------------------------+
-| Drachenatem           | 3                      | 3       |       | Ersetzt Feuerkatalysator<br>kann auch als Alchemiewerkzeug verwendet werden                            |
-+-----------------------+------------------------+---------+-------+--------------------------------------------------------------------------------------------------------+
-| Antiker Zwergenhammer | 4                      | 2       | --    | Ersetzt Hammer; Verwertbar zu T4 Material                                                              |
-+-----------------------+------------------------+---------+-------+--------------------------------------------------------------------------------------------------------+
-| Hammer der Götter     | 4                      | 2       | --    | Ersetzt Hammer; steigert für Handwerkschecks Intelligenz, jeder Check geht zu lasten der Geistesstärke |
-+-----------------------+------------------------+---------+-------+--------------------------------------------------------------------------------------------------------+
+| Werkzeug              | zusätzliche <br>Checks | Gewicht | Preis |                                               Anmerkung                                                |
+|-----------------------|:----------------------:|:-------:|:-----:|:------------------------------------------------------------------------------------------------------:|
+| Zange                 |           1            |    1    |       |                                                                                                        |
+| Hammer                |           2            |    2    |       |                                                                                                        |
+| Amboss                |           3            |   10    |       |                                                                                                        |
+| Messer                |           1            |   0.5   |       |                            kann auch als Alchemiewerkzeug verwendet werden                             |
+| Feuerkatalysator      |           1            |    1    |       |                            kann auch als Alchemiewerkzeug verwendet werden                             |
+| Drachenatem           |           3            |    3    |       |              Ersetzt Feuerkatalysator<br>kann auch als Alchemiewerkzeug verwendet werden               |
+| Antiker Zwergenhammer |           4            |    2    |  --   |                               Ersetzt Hammer; Verwertbar zu T4 Material                                |
+| Hammer der Götter     |           4            |    2    |  --   | Ersetzt Hammer; steigert für Handwerkschecks Intelligenz, jeder Check geht zu lasten der Geistesstärke |
 
 : Werkzeuge des Handwerks
 
@@ -358,29 +340,18 @@ Die Galeone fährt für gewöhnlich mit einer Begleitflotte und ist trotz ihrer 
 
 <small> <small>
 
-+------------+-------+------------------+-----------+---------------+----------+-----------------+------------+
-| Fahrt      | Art   | Mannschaftsgröße | Vorrat    | Passagierzahl | Tiefgang | Geschwindigkeit | Profilhöhe |
-+:==========:+:=====:+:================:+:=========:+:=============:+:========:+:===============:+:==========:+
-| Barke      | Ruder | 1                | 0 Tage    | 7             | 20 cm    | 7               | 40cm       |
-+------------+-------+------------------+-----------+---------------+----------+-----------------+------------+
-| Kutter     | Segel | 1                | 1 Tag     | 9             | 40cm     | 9               | 70cm       |
-+------------+-------+------------------+-----------+---------------+----------+-----------------+------------+
-| Bireme     | Ruder | 40               | 4 Tage    | 40            | 80cm     | 10              | 2m         |
-+------------+-------+------------------+-----------+---------------+----------+-----------------+------------+
-| Brigg      | Segel | 10               | 2 Wochen  | 80            | 1.2 m    | 15              | 5m         |
-+------------+-------+------------------+-----------+---------------+----------+-----------------+------------+
-| Langschiff | Segel | 40               | 8 Tage    | 110           | 80cm     | 17              | 3m         |
-+------------+-------+------------------+-----------+---------------+----------+-----------------+------------+
-| Galeere    | Ruder | 80               | 5 Tage    | 90            | 1m       | 12              | 4m         |
-+------------+-------+------------------+-----------+---------------+----------+-----------------+------------+
-| Fregatte   | Segel | 30               | 8 Wochen  | 80            | 3m       | 18              | 7m         |
-+------------+-------+------------------+-----------+---------------+----------+-----------------+------------+
-| Trireme    | Ruder | 130              | 6 Tage    | 160           | 1.5m     | 14              | 5m         |
-+------------+-------+------------------+-----------+---------------+----------+-----------------+------------+
-| Karavelle  | Segel | 45               | 10 Wochen | 140           | 4.5m     | 20              | 9m         |
-+------------+-------+------------------+-----------+---------------+----------+-----------------+------------+
-| Galeone    | Segel | 60               | 8 Wochen  | 320           | 6m       | 16              | 20m        |
-+------------+-------+------------------+-----------+---------------+----------+-----------------+------------+
+|   Fahrt    |  Art  | Mannschaftsgröße |  Vorrat   | Passagierzahl | Tiefgang | Geschwindigkeit | Profilhöhe |
+|:----------:|:-----:|:----------------:|:---------:|:-------------:|:--------:|:---------------:|:----------:|
+|   Barke    | Ruder |        1         |  0 Tage   |       7       |  20 cm   |        7        |    40cm    |
+|   Kutter   | Segel |        1         |   1 Tag   |       9       |   40cm   |        9        |    70cm    |
+|   Bireme   | Ruder |        40        |  4 Tage   |      40       |   80cm   |       10        |     2m     |
+|   Brigg    | Segel |        10        | 2 Wochen  |      80       |  1.2 m   |       15        |     5m     |
+| Langschiff | Segel |        40        |  8 Tage   |      110      |   80cm   |       17        |     3m     |
+|  Galeere   | Ruder |        80        |  5 Tage   |      90       |    1m    |       12        |     4m     |
+|  Fregatte  | Segel |        30        | 8 Wochen  |      80       |    3m    |       18        |     7m     |
+|  Trireme   | Ruder |       130        |  6 Tage   |      160      |   1.5m   |       14        |     5m     |
+| Karavelle  | Segel |        45        | 10 Wochen |      140      |   4.5m   |       20        |     9m     |
+|  Galeone   | Segel |        60        | 8 Wochen  |      320      |    6m    |       16        |    20m     |
 
 </small> </small>
 
@@ -543,35 +514,22 @@ Während der Downtime lädt sich die Batterie zu 100% von selbst wieder auf.
 
 ### Anwendungen für Ladungen
 
-+------------------------------+--------------------------------------------------------------------+------------------------------------------+
 | 1 Ladung (Standartanwendung) | 1 Ladung (nur mit Addons)                                          | 2 Ladungen                               |
-+==============================+====================================================================+==========================================+
+|------------------------------|--------------------------------------------------------------------|------------------------------------------|
 | Angriff                      | Schützen (für jemanden Blocken)                                    | Schwerer Angriff mit jeder Nahkampfwaffe |
-+------------------------------+--------------------------------------------------------------------+------------------------------------------+
 | Sprint                       | Rammen                                                             | Besondere Waffentypen                    |
-+------------------------------+--------------------------------------------------------------------+------------------------------------------+
 | Blocken                      | umwerfen (Grappling)                                               |                                          |
-+------------------------------+--------------------------------------------------------------------+------------------------------------------+
 | Dodgen                       | Verbaute Attilerie Nutzung                                         |                                          |
-+------------------------------+--------------------------------------------------------------------+------------------------------------------+
 | Klettern                     | Seilwerfer                                                         |                                          |
-+------------------------------+--------------------------------------------------------------------+------------------------------------------+
 |                              | Rauchwerfer                                                        |                                          |
-+------------------------------+--------------------------------------------------------------------+------------------------------------------+
 |                              | Bolawerfer                                                         |                                          |
-+------------------------------+--------------------------------------------------------------------+------------------------------------------+
 |                              | \*Alle weitere Funktionen die nicht expliziet 2 Ladungen erfordern |                                          |
-+------------------------------+--------------------------------------------------------------------+------------------------------------------+
 
 ### Vehikel Fähigkeit {#VehikelFähigkeitKonstrukt}
 
 Dem Besitzer des Konstrukts ist es möglich kurzzeitig die Kontrolle über ein Konstukt auch aus der Entfernung zu übernehmen, dies äußert sich in einer zusätzlichen Aktion für das Konstrukt. Diese Aktion hängt von einem Vehikel Check ab, dessen schwierigkeit auf dem Kern und der Größe des Konstrukts basiert. Je stärker das Konstrukt, desto schwieriger die Kontrolle. Bei Erfolg wird die Main Action des Spielers aufgebraucht, bei Misserfolg die Single Action, da weniger Zeit verbraucht wird.
 
 Die Schwierigkeit des Checks wird im Konstruktprofil automatisch berechnet. Die Schwierigkeit kann durch einen Pilotensitz im Konstrukt halbiert werden.CROSSREFERENCE XXXX
-
-### Batterie in Session Aufladen
-
-Zum Aufladen des Akkus ohne Pausen: Hierfür wird der Essenzsammler verwendet. Eine Ladung entspricht 10 Essenzen. Jedoch ist es schwer abzuschätzen, wann man die Sammler abziehen muss, weshalb es öfter zu ungenauen Abzügen kommt. Im schlimmsten Fall kann dies zum Verlust aller gesammelten Seelen im Sammler führen. Aufgrund des hohen Preises dieser Anwendung, wird diese nur im absoluten Notfall empfohlen.
 
 ### Reparatur
 
@@ -668,13 +626,13 @@ Fähigkeitenlevel erhöhen nach Herstellung:
 
 *Essenzen können beim Kauf des Kerns für einen Preis von 500 Reiks pro Essenz direkt erworben werden.*
 
-Jeder Kern kommt mit passendem Ressonanzkreis, entweder als Schmuckstück der Wahl oder als Tattoo für einen Aufpreis von 3.000 Reiks. XXXXCrossreferenz Ressonanzlore (kontrolle)
+Jeder Kern kommt mit passendem Resonanzkreis also einer Steuereinheit, entweder als Schmuckstück der Wahl oder als Tattoo für einen Aufpreis von 5.000 Reiks.
 
 Das Schmuckstück muss stehts am Körpergetragen werden um das Konstrukt zu befehligen, jedoch liegt es in der Natur der Sache das diese ein Strahlen in den Augen von gewieften Dieben auslösen. Dafür sind sie jedoch übertragbar.
 
 Das Tattoo hingegen ist weder vererbar noch kann es gestohlen werden.
 
-Die Auswahl der beiden möglichkeiten erfolgt bei der Kauf des Kerns.
+Die Auswahl der beiden Möglichkeiten erfolgt bei der Kauf des Kerns.
 
 #### Corpus
 
@@ -689,8 +647,6 @@ Der Korpus bestimmt folgende Eigenschaften eines Konstrukts.
 -   Rüstungswert 20/ 26/ 29/ 32 pro Teil im Durchschnitt in Prozent des Gesamt aufteilt: Kern 5%, Kernabdeckung 20% Arme 20%, Gürtel 35%, Beine 20%
 
 -   Grundtragekapazität: Diese wird automatisch berechnet und ist im Profil des jeweiligen Konstrukts nachzulesen.
-
--   Fähigkeitsmaximum: die Eigenschaft Utility reduziert den Preis um den Faktor 0,25 jedoch wird das Skilllevel auf 50 limitiert xxxCrossreferenz XXXX
 
 +---------+---------+-----------+---------------+
 |         | Rüstung | Attribute | Preis (Reiks) |
@@ -742,25 +698,22 @@ Jedes Attribut startet standardmäßig auf 1 und kann durch den Korpus oder durc
 
 Eine Batterie ist wie der Kern ein stetig stärker werdendes Element des Konstrukts, eine Batterie wird mit 0 Maximalen Ladungen erworben und kann entweder beim Schmied zu unten genannten Konditionen verbessert werden oder man verbessert die effizienz einfach direkt selbst über Handwerkschecks, jedoch sollte man beachten dass sich sowohl Preis als auch schwierigkeitsgrad dieses Tuning verfahrens erheblich steigern.
 
-Außerdem können während der Session Essenzen genutzt werden, um die Batterie neu zu befüllen. xxxCROSSREFERENCE (siehe Batterie in Session Aufladen)
+Außerdem können während der Session Essenzen genutzt werden, um die Batterie neu zu befüllen.
 
 *Grundpreis: 5.000*
 
-+---------------+--------------------------+-------------------------------+---------------------------------------------+
 | Ladungsanzahl | Preis pro Ladung (Reiks) | Gesamt (inklusive Grundpreis) | Verbesserungsschwierigkeit (Handwerkscheck) |
-+===============+==========================+===============================+=============================================+
+|---------------|--------------------------|-------------------------------|---------------------------------------------|
 | 1-5           | 500                      | 7500                          | 1,5                                         |
-+---------------+--------------------------+-------------------------------+---------------------------------------------+
 | 6-10          | 1.000                    | 12500                         | 2,3                                         |
-+---------------+--------------------------+-------------------------------+---------------------------------------------+
 | 11-15         | 1.500                    | 20.000                        | 3                                           |
-+---------------+--------------------------+-------------------------------+---------------------------------------------+
 | 16-20         | 2.000                    | 30.000                        | 4                                           |
-+---------------+--------------------------+-------------------------------+---------------------------------------------+
 | 21-30         | 5000                     | 155.000                       | 5                                           |
-+---------------+--------------------------+-------------------------------+---------------------------------------------+
 | 31-50         | 6000                     | 355.000                       | 6                                           |
-+---------------+--------------------------+-------------------------------+---------------------------------------------+
+
+### Batterie in Session Aufladen
+
+Zum Aufladen des Akkus ohne Pausen: Hierfür wird der Essenzsammler verwendet. Eine Ladung entspricht 10 Essenzen. Jedoch ist es schwer abzuschätzen, wann man die Sammler abziehen muss, weshalb es öfter zu ungenauen Abzügen kommt. Im schlimmsten Fall kann dies zum Verlust aller gesammelten Seelen im Sammler führen. Aufgrund des hohen Preises dieser Anwendung, wird diese nur im absoluten Notfall empfohlen.
 
 ### Erweiterungen: Waffen, Upgrades und zusätzliches
 
@@ -784,7 +737,7 @@ Upgrades erhöhen entweder die Attribute, Panzerung oder Leben eines Konstrukts 
 
 Ein Konstrukt kann das vollständige Waffenarsenal verwenden, auf das auch Spieler zugreifen können. Zusätzlich noch einige weitere besondere Konstruktwaffen verwendet werden, wie den Kampfbohrer und den Flammenwerfer.
 
-- hier vielleicht ne übersicht über die waffen? können wir die Automatisieren?
+-   hier vielleicht ne übersicht über die waffen? können wir die Automatisieren?
 
 #### Addons: {#KonstruktAddons}
 
@@ -822,7 +775,7 @@ Ein Konstrukt kann das vollständige Waffenarsenal verwenden, auf das auch Spiel
 
 Ein Beispiel für die erstellung eines Konstrukts, ein fähiger Händler in der Gruppe hat nach einigem sparen entschieden die Schwäche der Gruppe im Kampf durch ein Konstrukt auszugleichen. Der Gruppe fehlt ein Frontkämpfer, da sich die gesamte Gruppe dafür entschieden hat Stealth Archer zu werden.
 
-Nach dem die generelle Ausrichtung bestimmt ist und ein passender Händler gefunden, beginnt die Auswahl. Als erstes wählt er für die Rolle passend einen Corpus ausgewählt, nicht zu auffällig groß aber auch nicht zu klein. Also wird es ein Mittlerer Corpus mit den Attributen gleichmäßig verteilt zwischen Stärke und Physical, um bestsens Blocken und im Nahkampf angreifen zu können. Dafür betragen die Kosten für T1 12.000R. \
+Nach dem die generelle Ausrichtung bestimmt ist und ein passender Händler gefunden, beginnt die Auswahl. Als erstes wählt er für die Rolle passend einen Corpus ausgewählt, nicht zu auffällig groß aber auch nicht zu klein. Also wird es ein Mittlerer Corpus mit den Attributen gleichmäßig verteilt zwischen Stärke und Physical, um bestsens Blocken und im Nahkampf angreifen zu können. Dafür betragen die Kosten für T1 12.000R.\
 Als nächstes der Kern für 5000, auf niedriger Stufe bietet es sich an in die das Kern-Stufe anstelle von Skill-Level zu investieren für Kernstufe 10 weitere 5.000R.\
 Nun noch die Batterie, für 12.500R erhält man eine Batterie mit 10 Ladungen.
 

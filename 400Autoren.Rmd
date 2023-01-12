@@ -1,6 +1,6 @@
 # (PART) Zum Projekt Orbis Astea {-} 
 
-# Das Team hinter Orbis Astea
+# Das Team hinter Orbis Astea {#Team}
 
 Orbis Astea wurde am 4.12.2019 erfunden. Schon bald wurde die erstversion der Karte gezeichnet und alle arbeiteten fleißig an der Welt.
 Die Highlights der Geschichte von Orbis Astea sind hier aufgeführt:

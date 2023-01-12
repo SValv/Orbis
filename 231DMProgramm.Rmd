@@ -32,31 +32,27 @@ getargs = function(Tab){
 }
 ```
 
-
-## Installation
+## Installation {#DMAppDownload}
 
 Step by Step Guide:
 
 Die Installation von Orbis ist an sich eine leichte Sache. Auf der Homepage des Spiels, gibt es oben links die Möglichkeit über den Download-Button eine Zip-Datei herunterzuladen. Alternativ kann man auch einfach [hier klicken](https://svalv.github.io/Orbis/DownloadContainer/OrbisGame.zip).
 
-![Ort und Symbol des Download-Buttons](Pictures\\Rules\\DownloadSymbol.png)
+![Ort und Symbol des Download-Buttons](Pictures%5CRules%5CDownloadSymbol.png)
 
-Diese Zip-Datei kann in einen beliebigen Zielordner verschoben werden, wo sie auch entpackt wird. Dazu die Zip-Datei mit einem Rechtsklick auswählen und "Hier entpacken" wählen.
-Danach sollten zwei Ordner im Zielordner erscheinen: *OrbisGame* und *OrbisDMApp*.
+Diese Zip-Datei kann in einen beliebigen Zielordner verschoben werden, wo sie auch entpackt wird. Dazu die Zip-Datei mit einem Rechtsklick auswählen und "Hier entpacken" wählen. Danach sollten zwei Ordner im Zielordner erscheinen: *OrbisGame* und *Orbis Launcher*.
 
 ### Ordner OrbisGame {#OrbisGame}
 
-Der Ordner "OrbisGame" sollte die drei Ordner *Container*, *SessionOrganisation* und *ZZZ Character Sheets* enthalten. Der "Container"-Ordner enthält alle Excel-Dateien, die die App benötigt, um später richtig zu funktionieren. Dazu gehört die Liste aller Gegenstände im Spiel, Waffen, Rüstungen, aber ebenso die vorgefertigten Profile, die später in diesem Guide noch ausführlich erklärt werden.
-Der "SessionOrganisation"-Ordner enthält den Ordner, in dem die [Session Backups](#SessionBackup) geladen werden, den Ordner Pflanzen, welcher die Excel-Liste der gesammelten Pflanzen der Blumenmädchen enthält, sowie die Excel-Datei ["lootliste"](#DMAppLootliste). XXXX
-Werden im Verlauf einer Session [Städte](#DMAppStadt) XXXX erstellt, so werden diese ebenfalls in diesem Ordner als Excel-Datei ausgegeben.
+Der Ordner "OrbisGame" sollte die drei Ordner *Container*, *SessionOrganisation* und *ZZZ Character Sheets* enthalten. Der "Container"-Ordner enthält alle Excel-Dateien, die die App benötigt, um später richtig zu funktionieren. Dazu gehört die Liste aller Gegenstände im Spiel, Waffen, Rüstungen, aber ebenso die vorgefertigten Profile, die später in diesem Guide noch ausführlich erklärt werden. Der "SessionOrganisation"-Ordner enthält den Ordner, in dem die [Session Backups](#SessionBackup) geladen werden, den Ordner Pflanzen, welcher die Excel-Liste der gesammelten Pflanzen der Blumenmädchen enthält, sowie die Excel-Datei ["lootliste"](#DMAppLootliste). XXXX Werden im Verlauf einer Session [Städte](#DMAppStadt) XXXX erstellt, so werden diese ebenfalls in diesem Ordner als Excel-Datei ausgegeben.
 
 Zur unkomplizierteren [Einladen der Spielercharaktere in das Programm](#DMAppPersonen) ist es ratsam, den Ordner *ZZZ Character Sheets* für alle Spieler zugänglich zu machen. Dies kann bspw. durch die Nutzung einer Cloud - bspw [Dropbox](https://www.dropbox.com) - oder eines geteilten Laufwerks geschehen. Somit hat der DM zu jedem Zeitpunkt Zugriff auf die aktuellste Version der Excel-Datei des Spielers.
 
-### Ordner OrbisDMApp und App-Ausführung {#OrbisDMApp}
+### Ordner Orbis Launcher und App-Ausführung {#OrbisDMApp}
 
 Um die DM App ausführen zu können, muss die Anwendung im "OrbisDMApp" Ordner gesucht werden. Es handelt sich hierbei in der Spalte Typ um die einzige Anwendung im Ordner:
 
-![Aussehen der Anwendung im OrbisDMApp Ordner](Pictures\\Rules\\OrbisAppAnwendung.jpg)
+![Aussehen der Anwendung im OrbisDMApp Ordner](Pictures%5CRules%5COrbisAppAnwendung.jpg)
 
 Diese Anwendung wird mittels Doppelklick gestartet. Hier öffnet sich nun ein Fenster, welches auffordert, einen Ordner auszuwählen. Hier kommt der "OrbisGame" Ordner ins Spiel. Diesen bitte auswählen.
 
@@ -66,19 +62,13 @@ BILD EINFÜGEN
 
 Hier auf "Mehr Informationen" klicken und die Ausführung freigeben.
 
-
-
 Sollten die eben beschriebenen Schritte ausgeführt worden sein und die App lässt sich dennoch nicht öffnen, schaue bitte in das Kapitel [Bekannte Fehler](#BekannteFehler) für weitere Hilfestellungen.
-
-
 
 ## noch einbringen
 
 2.  Character Sheets sollten in den Order "ZZZ Character Sheets" gespeichert werden,
 
-3.  Es lohnt sich eine Verknüpfung zur Anwendung "OrbisDMApp.exe" zu erstellen und wo abzulegen wo es für einen selbst gemütlich ist, damit kann die App einfach per Doppelklick geöffnet werden.
-
-
+3.  Es lohnt sich eine Verknüpfung zur Anwendung "Orbis Launcher.exe" zu erstellen und wo abzulegen wo es für einen selbst gemütlich ist, damit kann die App einfach per Doppelklick geöffnet werden.
 
 ## Nutzung der DM-App
 
@@ -94,24 +84,15 @@ Im SubTab Personen können bereits die vorgefertigten Profile aus dem [OrbisGame
 
 ##### *Profile* {#DMAppPersonenProfile .unnumbered}
 
+![SubTab Profile im SubTab Personen](Pictures%5CRules%5CDMAppErstellungPersonenProfile.jpg)
 
-![SubTab Profile im SubTab Personen](Pictures\\Rules\\DMAppErstellungPersonenProfile.jpg)
+Es empfiehlt sich den Profilen Namen zu geben, die eindeutig, aber kurz sind. Diese Namen müssen für verschiedene Aktionen händisch eingetragen werden. Es empfehlen sich Namen wie "a" oder "Adel" für einen Adligen. Unter Profil kann aus der gesamten Profil-Datenbank geschöpft werden. Wird hier ein spezielles Profil gesucht, so kann der Anfangsbuchstabe des Profils eingegeben werden, während das Dropdown-Menü ausgewält wurde. Die Anzahl bestimmt, wie viele der Profile erstellt werden. Somit kann Zeit gespart werden, wenn die Spieler bspw. auf eine Gruppe Ritter oder Banditen stößt. Wird eine Gruppe initialisiert, so nummeriert das Programm die Namen automatisch durch. Die Check-Box *Zufallsfaktor* steht dabei für die Möglichkeit, eine zufällige Abweichung der Charakter-Ausprägungen einzuführen. Wird diese Box nicht ausgewählt, so verfügen alle reingeladenen Profil über jene Merkmalsausprägungen, wie sie in der Excel-Datei festgelegt wurden. Wird diese box ausgewählt, so variieren die Ausprägungen nach oben und unten. Ebenso werden unterschiedliche Waffen eingefügt. Dies hat den Vorteil, dass eine Gruppe geladener Profile so diversifiziert dargestellt werden kann, wie sie es in der Realität vermutlich auch wäre.
 
-Es empfiehlt sich den Profilen Namen zu geben, die eindeutig, aber kurz sind. Diese Namen müssen für verschiedene Aktionen händisch eingetragen werden. Es empfehlen sich Namen wie "a" oder "Adel" für einen Adligen. Unter Profil kann aus der gesamten Profil-Datenbank geschöpft werden.
-Wird hier ein spezielles Profil gesucht, so kann der Anfangsbuchstabe des Profils eingegeben werden, während das Dropdown-Menü ausgewält wurde.
-Die Anzahl bestimmt, wie viele der Profile erstellt werden. Somit kann Zeit gespart werden, wenn die Spieler bspw. auf eine Gruppe Ritter oder Banditen stößt. Wird eine Gruppe initialisiert, so nummeriert das Programm die Namen automatisch durch.
-Die Check-Box *Zufallsfaktor* steht dabei für die Möglichkeit, eine zufällige Abweichung der Charakter-Ausprägungen einzuführen. Wird diese Box nicht ausgewählt, so verfügen alle reingeladenen Profil über jene Merkmalsausprägungen, wie sie in der Excel-Datei festgelegt wurden.
-Wird diese box ausgewählt, so variieren die Ausprägungen nach oben und unten. Ebenso werden unterschiedliche Waffen eingefügt. Dies hat den Vorteil, dass eine Gruppe geladener Profile so diversifiziert dargestellt werden kann, wie sie es in der Realität vermutlich auch wäre.
-
-Durch das betätigen des "Erstellen"-Buttons, wird das Profil initialisiert.
-In der Box auf der rechten Seite gibt das Programm die Meldung aus, ob die Initialisierung erfolgreich verlief.
-
+Durch das betätigen des "Erstellen"-Buttons, wird das Profil initialisiert. In der Box auf der rechten Seite gibt das Programm die Meldung aus, ob die Initialisierung erfolgreich verlief.
 
 ##### *PC* - Spielbare Charaktere {#DMAppPersonenPC .unnumbered}
 
-Der SubTab *PC* steht für die spielbaren Charaktere. Hier können also die Profile der Spieler der Session eingelesen werden. Auch hier lohnt es sich, die Namen kurz und prägnant zu wählen.
-Wird ein Name eingegeben und der "Erstellen"-Button gedrückt, so öffnet sich ein neues Fenster, welches dazu auffordert die Excel-Datei des Spielers im _ZZZ Character Sheets_-Ordner auszuwählen.
-Wir eine Excel-Datei ausgewählt, so wird der Charakter automatisch eingeladen. Auch hier wird in der Box auf der rechten Seite eine Meldung ausgegeben, die "*Name* erfolgreich initialisiert" lautet, wenn alles funktioniert hat.
+Der SubTab *PC* steht für die spielbaren Charaktere. Hier können also die Profile der Spieler der Session eingelesen werden. Auch hier lohnt es sich, die Namen kurz und prägnant zu wählen. Wird ein Name eingegeben und der "Erstellen"-Button gedrückt, so öffnet sich ein neues Fenster, welches dazu auffordert die Excel-Datei des Spielers im *ZZZ Character Sheets*-Ordner auszuwählen. Wir eine Excel-Datei ausgewählt, so wird der Charakter automatisch eingeladen. Auch hier wird in der Box auf der rechten Seite eine Meldung ausgegeben, die "*Name* erfolgreich initialisiert" lautet, wenn alles funktioniert hat.
 
 ##### *Npc* - nichtspielbare Charaktere {#DMAppPersonenNpc .unnumbered}
 
@@ -119,103 +100,267 @@ Möchte ein DM selbst auf die Schnelle eine Person erstellen, welche über besti
 
 Die Auswahlmöglichkeiten die Fähigkeiten festzulegen orientiert sich an den Sub-Tabs des Spiele-Tabs. Während die [Attribute](#Attribute) einzeln eingestellt werden können, werden die [Fähigkeiten](#Fähigkeiten) in Bereiche zusammengefasst.
 
-![SubTab Profile im SubTab Personen](Pictures\\Rules\\DMAppPersonenNPC.jpg)
+![SubTab Profile im SubTab Personen](Pictures%5CRules%5CDMAppPersonenNPC.jpg)
 
-**Kampf** umfasst alle Fähigkeiten, die mit dem Kämpfen zu tun haben und wie im Tabellenblatt [Status](#Status) unter Kampf aufgeführt sind. 
-Hierzu gehören das Reiten, Nahkampfwaffen, Unbewaffnet, Blocken, Artillerie, Fernwaffen, Werfen und Ausweichen. 
+**Kampf** umfasst alle Fähigkeiten, die mit dem Kämpfen zu tun haben und wie im Tabellenblatt [Status](#Status) unter Kampf aufgeführt sind. Hierzu gehören das Reiten, Nahkampfwaffen, Unbewaffnet, Blocken, Artillerie, Fernwaffen, Werfen und Ausweichen.
 
-XXXX Tabelle einfügen für die Übersichtlichkeit? XXXX
+Eine Übersicht darüber, welche Fähigkeiten zur jeweiligen Übergruppe, Schurke, Sozial, Fortbewegung, Intelligenz und Utility, zugehörig sind, findet sich in der nachfolgenden Abbildung.
 
-Schurken-Fähigkeiten sind die Akrobatik, das Schleichen und die Fingerfertigkeit.
+![Fähigkeiten, die der jeweiligen Überkategorie zugeordnet werden.](Pictures\Rules\DMAppErstellungPersonenNPCFaehigkeiten.jpg)
 
-Die Sozialen Fähigkeiten sind...
-
-Fortbewegung
-
-Intelligenz
-
-Utility
-
-*sigmaSkills* stehet für die Abweichung der einzelnen Skills innerhalb der Überkategorien. *sigmaAttr* sorgt für eine Variation innerhalb der Attributpunkte. Dies ist besonders hilfreich, wenn mehrere NPCs erstellt werden sollen oder allgemein ein Zufallsfaktor von Interesse ist.
+*sigmaSkills* steht für die Abweichung der einzelnen Skills innerhalb der Überkategorien. *sigmaAttr* sorgt für eine Variation innerhalb der Attributpunkte. Dies ist besonders hilfreich, wenn mehrere NPCs erstellt werden sollen oder allgemein ein Zufallsfaktor von Interesse ist.
 
 Auswahl Reittier ist *None*, wenn kein Reittier ausgewählt werden soll XXXX
 
-Unter *Waffe* kann eine Auswahl aus allen zur verfügung stehenden Waffen getroffen werden. Zur vereinfachten Suche ist es möglich, den Anfangsbuchstaben der Waffe einzugeben und somit direkt im Alphabet dorthin zu gelangen. 
-Das *Schild* bietet die Auswahlmöglichkeiten für das Blocken.
+Unter *Waffe* kann eine Auswahl aus allen zur verfügung stehenden Waffen getroffen werden. Zur vereinfachten Suche ist es möglich, den Anfangsbuchstaben der Waffe einzugeben und somit direkt im Alphabet dorthin zu gelangen. Das *Schild* bietet die Auswahlmöglichkeiten für das Blocken.
 
 #### Eigene Profile, Monster und andere Schöpfungen
 
-Bei den Resistenzen kann man Dots eintragen, die keine Wirkung oder die doppelte Wirkung haben. Wenn der Dot ein minus davor trägt, beispielsweise bei "-brennen" ist es eine Empfindlichkeit. Ansonsten handelt es sich um eine Resistenz.
-
-### Eigene Profile
-
-### Eigene Monster
-
-### Eigene Waffen
-
-### Eigene Munition und Artillerie
+Bei den Resistenzen kann man Dots eintragen, die keine Wirkung oder die doppelte Wirkung haben. Wenn der Dot ein minus davor trägt, beispielsweise bei "-brennen" ist es eine Empfindlichkeit. Ansonsten handelt es sich um eine Resistenz. XXXX
 
 #### Monster {#DMAppMonster .unnumbered}
 
 Alle weiteren Kreaturen, Strukturen und Objekte lassen sich erstellen, indem der jeweilige Tab ausgeklappt wird.
 
-![SubTab Profile im SubTab Personen](Pictures\\Rules\\DMAppErstellungÜbersicht.jpg)
+![Übersicht zu allen weiteren Objekten, die erstellt werden können.](Pictures\Rules\DMAppErstellungUebersicht.jpg)
 
-Für Monster einfach den *Monster*-Tab auswählen.
-Hier muss lediglich der Name des Monsters eingegeben, im Dropdown-Menü bei Monster-Proil das richtige Monster ausgewählt und die Anzahl der zu erstellenden Monster eingegeben werden.
 
-Wenn eigene Monster erfunden werden, müssen diese in die "ProfilesMonster"-Excel Datei eingetragen werden. Diese findet sich im *OrbisGame*-Ordner unter OrbisGame\Container\Data\ProfilesMonster. 
+Für Monster einfach den *Monster*-Tab auswählen. Hier muss lediglich der Name des Monsters eingegeben, im Dropdown-Menü bei Monster-Proil das richtige Monster ausgewählt und die Anzahl der zu erstellenden Monster eingegeben werden.
+
+Wenn eigene Monster erfunden werden, müssen diese in die "ProfilesMonster"-Excel Datei in einem neuen Tabellenblatt eingetragen werden. Diese findet sich im *OrbisGame*-Ordner unter OrbisGame\Container\Data\ProfilesMonster. Wichtig ist hierbei, dass das Tabellenblatt dem exakten Aufbau der anderen Tabellenblätter folgt. Dieser Aufbau dient einer korrekten Abfrage der Werte für die DM App.
 
 #### Tiere {#DMAppTiere .unnumbered}
 
-Die Erstellung von Tieren gleicht der der Monster, bis auf den Unterschied, dass es hierbei die Möglichkeit gibt, einen Besitzer einzutragen.
-Dieses Feld ist auszufüllen, wenn ein Spieler beispielsweise ein Tier kauft, oder mittels [Tierhandhabung](#tierhandhabung) zähmt.
+Die Erstellung von Tieren gleicht der der Monster, bis auf den Unterschied, dass es hierbei die Möglichkeit gibt, einen Besitzer einzutragen. Dieses Feld ist auszufüllen, wenn ein Spieler beispielsweise ein Tier kauft, oder mittels [Tierhandhabung](#tierhandhabung) zähmt. Entscheidet sich ein Spieler für diese Option, so muss er das dazugehörige Tierprofil-Tabellenblatt in seine Charakter-Excel-Datei integrieren.
+
+#### Konstrukte {#DMAppKonstrukte .unnumbered}
+
+[Konstrukte](#Konstrukte) können zum einen eingelesen werden, wenn ein Spieler oder DM bereits ein eigenes Konstrukt erstellt hat, oder ein neues Konstrukt kann für die Session erstellt werden.
+
+Zum Einlesen muss ein Name für das Konstrukt, sowie des Spielers eingetragen werden, wenn dieses einem Spieler gehört. Ebenso ist ein Konstrukt-Proil einzulesen. Für die Erstellung eines Konstrukts können alle Details selbst bestimmt werden. Auch hier gibt es die Möglichkeit einen Besitzer zuzuordnen. Das Core-Level gibt die Stärke des Konstruktkerns an. Die Ladungen stehen für die Anzahl an Aktionen, die ein Konstrukt ausführen kann.
+
+Eine Erklärung der einzelnen anderen Auswahlmöglichkeiten findet sich im Abschnitt [Npc](#DMAppPersonenNpc) oder durch drüber hovern über das jeweilige Feld.
+
+#### Schiffe, Wägen und sonstige Fahrzeuge {#DMAppFahrzeuge .unnumbered}
+
+Schiffe, Wägen und andere Fahrzeuge können unkompliziert aus der Liste ausgewählt und benannt werden. Wichtig ist zu verstehen, dass der Erfolg des Manövrierens von den [Vehikel-Fähigkeiten](#VehikelFähigkeit) XXXX des Kapitäns/Fahrers abhängt. Ebenso ist für manche Fahrzeuge, wie Schiffe, relevant, wie gut die Crew an Board ist.
+
+#### Strukturen {#DMAppStrukturen .unnumbered}
+
+Strukturen umfassen Mauern, Wände und andere Vorrichtungen, die zum Schutz sowie zur Deckung herangezogen werden können. Diese können aus der vorgegebenen Liste gezogen, oder aber auch selbst erstellt werden.
+
+#### Listen {#DMAppListen .unnumbered}
+
+XXXX ist noch zu überarbeiten
 
 ### DM-Übersicht {#DMAppDMÜbersicht}
 
-Wie schaue ich mir die Details eines Charakters an
+Die DM-Übersicht gibt die wichtigsten Informationen zu den Charakteren, die im Erstellungs-Tab eingeladen wurden und erlaubt es, sie gleichzeitig bis zu einem gewissen Grad zu modifizieren.
 
-#### Beschreiben {#DMAppBeschreiben}
+Dabei ist die DM-Übersicht so aufgebaut, dass auf der linken Seite die vier Tabs *Beschreiben*, *Status*, *Zurücksetzen* und *Löschen* aufgeführt sind. Auf der rechten Seite befinden sich die beiden Tabs *Elemente* und *Show-Tab*, wie der nachfolgenden Abbildung zu entnehmen.
 
-#### Status {#DMAppStatus}
+#### Elemente- und Show-Tab {#DMAppElementeShow .unnumbered}
 
-#### Zurücksetzen {#DMAppZurücksetzen}
+![Der Tab *Elemente* und *Show* auf der rechten Seite der DM-Übersicht.](Pictures\Rules\DMUebersichtElementeShowTab.jpg)
 
-#### Löschen {#DMAppLöschen}
+Der Elemente-Tab zeigt dabei an, welche Profile bereits eingeladen wurden. Dabei gibt es zur Übersicht Informationen zum Namen, einer Beschreibung und dem Typ des Profils. Im oben gezeigten Beispiel handelt es sich um den Npc, der als Beispiel für die Npc-Profilerstellung erstellt wurde. Der Show-Tab übernimmt eine wichtige Rolle im Zusammenhang mit dem Tab *Beschreiben*.
 
-#### Elemente {#DMAppElemente}
+#### Beschreiben {#DMAppBeschreiben .unnumbered}
 
-#### Show-Tab {#DMAppShowTab}
+Der Beschreiben-Tab bietet die Möglichkeit die wichtigsten Werte eines Charakters und seiner Excel-Datei gezeigt werden. Bei Objekt wird ausgewählt welcher Charakter genauer angeschaut werden soll. Hier kann man alle Objekte auswählen, die im Programm mittels Erstellungs-Tab bereits eingeladen wurden. Unter *Unterobjekte* kann ausgewählt werden, was im Detail angeschaut werden soll. Hier kann man das Objekt selber auswählen, was alle wichtigsten Informationen umfasst oder alle aktive Waffen wie Rüstung oder Waffen. Nach Festlegung der Details, die ausgegeben werden sollen sowie des Klickens des *Show*-Buttons, werden die geforderten Informationen im Show-Tab auf der rechten Seite ausgegeben.
 
+#### Status {#DMAppStatus .unnumbered}
 
-### Umgebung
+Möchte der DM schnell prüfen, wie viel Gesundheit und Ausdauer ein Charakter hat, oder ob es irgendwelche Statuseffekte, wie Vergiftungen, gibt, so gibt es die Möglichkeit das gewünschte Profil unter Objekt auszuwählen und sich diese Informationen im darunterliegenden Feld ausgeben zu lassen.
+
+#### Zurücksetzen {#DMAppZurücksetzen .unnumbered}
+
+Wurde beispielsweise ein Angriff unbeabsichtigt ausgeführt, so kann mittels *Zurücksetzen* dieser Fehler ausgebessert werden. Wichtig ist jedoch, dass diese Funktion nur ein Objekt zurücksetzt! Bei einem fehlerhaften Angriff müssen die beteiligten Objekte separat zurückgesetzt werden.
+
+#### Löschen {#DMAppLoeschen .unnumbered}
+
+Sollen ein oder mehrere Objekte gelöscht werden, so können diese im Löschen-Tab entfernt werden. Hierfür müssen lediglich die Namen der betroffenen Objekte händisch in das Eingabefeld eingefügt werden.
+
+### Umgebung {#DMAppUmgebung}
+
+Die Umgebung ermöglicht es dem DM, die Spielumgebung von Orbis mitzugestalten und spezielle Charaktere zu erstellen, mit denen Spieler interagieren können. Meistens werden die Umgebungsfunktionen zu Beginn einer Sitzung verwendet, um Szenarien für die Spieler vorzubereiten. Hierzu gehört das Bestimmen der Wetterbedingungen,
+
+Damit der DM generell mit den verschiedenen Environment-Tabs starten kann, muss zunächst eine Region ausgewählt werden, da sich dies auf einige Tabs auswirkt. Bei der Bestimmung des Wetters macht es zum Beispiel einen großen Unterschied, ob das Gebiet Eisland im Norden oder die Eisenrote Wüste im Süden ist.
+
+#### Wetter {#DMAppWetter .unnumbered}
+
+Wurde bereits ein Gebiet ausgewählt, muss nur noch die Tageszeit und die gewünschte Jahreszeit ausgewählt werden. Dann muss man nur noch das Kästchen daneben lesen, um zu sehen, wie das Wetter ist.
+
+#### Städte und Händler {#DMAppStädteHändler .unnumbered}
+
+Städte und Händler sind im Vergleich zum Wetter etwas informativer, aber nicht viel schwerer zu verstehen. Bei Stadt wird die Voreinstellung als allgemeine Variable angesehen, die alle Optionen bei verschiedenen Händlern betrifft. Wenn beispielsweise ein Dorf ausgewählt wird, gibt es nur einen allgemeinen Verkäufer, 2 Gastwirte und 6 Blumenmädchen, die jeweils einen kleinen Bestand an Gegenständen haben, die sie an die Spieler verkaufen können. Im Vergleich dazu hat eine Stadt viel mehr verschiedene Händler mit größerem Inventar, aber weniger Blumenmädchen. Es ist jedoch wichtig zu beachten, dass die Voreinstellungen zur Bestandsgröße und die Anzahl der Anbieter immer verändert werden können, indem man einfach auf das Kästchen daneben klickt und die gewünschten Einstellungen auswählt. Wenn alle Einstellungen gewählt wurden, kann der *Go*-Button gewählt werden. Danach sind alle Händler im Ordner „OrbisGame" unter „SessionOrganisation" in der Excel-Datei „downtimestadt" zu finden.
+
+Wenn man nur einen einzelnen Händler generieren möchte, ist dies auch im *Händler*-Tab möglich. Hier muss lediglich die Art des Händlers und die Menge der Gegenstände ausgewählt werden. Anschließend ist der Händler im gleichen Ordner wie „downtimestadt" zu finden.
+
+#### Ereignisse {#DMAppEreignisse .unnumbered}
+
+Der Ereignisse-Tab ermöglicht es zufällige Begegnungen zu generieren, ohne, dass der DM diese selbst erfinden muss. Hierfür muss lediglich ausgewählt werden, ob das Ereignis in einer Stadt oder auf dem Weg zwischen zwei Orten stattfinden soll. Das Szenario wird vom Programm in der Box auf der rechten Seite ausgegeben und wird aus einer Datenbank verschiedener Ereignisse gezogen.
+
+#### Lagern {#DMAppLagern .unnumbered}
+
+Unter Lagern versteht man die Umsetzung des [Pause und Rast Systems](#PauseRastSystem). Wichtig ist, dass unter *Personen (L)* händisch eingetragen wird, welche Profile beim Versuch zu Lagern berücksichtigt werden. Es empfiehlt sich immer, dass der Spieler mit dem besten Survival-Skill den Versuch für die ganze Gruppe ausführt. Gibt es zum Beispiel Streit zwischen den Spielern in der Gruppe, so kann jede Person für sich selbst ein Lager aufschlagen. Einzustellen sind die Länge, Qualität und Versorger. Der DM kann, aufgrund der Umgebungsvariablen, eigenmächtig entscheiden, welche Qualität verfügbar ist, z.B. schlafen die Spieler draußen im Regen ohne Zelte und Schlafmatratze, dann sind die Bedingungen eindeutig schlecht. Das Ergebnis des Lagerns ist den Spielern durch den DM mitzuteilen, da es hierbei zu einer Verbesserung oder Verschlechterung der Gesundheit und Ausdauer kommen kann. Die Zustandveränderung wird vom Programm automatisch für die Profile übernommen. Es empfiehlt sich den Spielern ihre neuen Werte mittels [Status](#DMAppStatus) oder [Beschreiben](#DMAppBeschreiben) im [*DM-Übersicht*-Tab](#DMAppDMÜbersicht) zu nennen, damit sie diese im [Status-Tabellenblatt](#Status) vermerken können.
+
+#### Pflanzensammeln {#DMAppPflanzensammeln .unnumbered}
+
+Will ein Spieler zu Beginn einer Session selbst Pflanzen sammeln, muss der DM nur definieren, wie gut die Bedingungen dafür sind. Befindet sich der Spieler zum Beispiel in einem Wald in Yondalla, wo die Einheimischen die natürlichen Ressourcen nicht sammeln, dann sind die Bedingungen sehr gut. Befindet sich der Spieler jedoch in einer Wüste, sind die Bedingungen schlecht. Auch steht es dem DM frei, das Pflanzensammeln zu untersagen. Die Blumen, die der Spieler gefunden hat, sind im *OrbisGame*-Ordner unter *SessionOrganisation* in der Excel-Datei *Pflanzen* zu finden.
+
+#### Textgenerator {#DMAppTextgenerator .unnumbered}
+
+Der Textgenerator ermöglicht es dem DM spontan Geschichten und andere Szenarien zu erstellen. Hierbei wird sich die Funktionalität ChatGPTs zu Nutzen gemacht. In das Feld *Anweisung* muss eingegeben werden, welcher Text generiert werden soll. Ein Beispiel hierfür ist "XXXX". Über die Einstellungsmöglichkeiten kann darüber hinaus gesteuert werden, wie lange und kreativ der Text werden soll. Unter *Model* kann ausgewählt werden, wie viel Zeit in die Textgenerierung fließen soll. "Bestes" ist dabei am zeitaufwendigsten, wenn auch die Qualität am höchsten ausfällt.
+
+Darüber hinaus gibt es die Möglichkeit, den generierten Text durch eine Computerstimme vorlesen zu lassen. Hierfür muss nach Generierung des Textes lediglich der *read*-Button ausgewählt werden.
 
 ### Einstellungen {#DMAppEinstellungen}
 
-+------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------+-----------+
-| Option                             | Auswirkung                                                                                                                                 | Standard  |
-+====================================+============================================================================================================================================+===========+
-| Reset Called/Advantage after Throw | Soll nach dem Angriff das Feld für Called Shots und Advantage zurückgesetzt werden?                                                        | Ja        |
-+------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------+-----------+
-| Reset heavy Attack after Throw     | Soll nach dem schweren Angriff die Option schwerer Angriff auf nein zurückgesetzt werden?                                                  | Ja        |
-+------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------+-----------+
-| Reset init-counter                 | Soll nach dem Initialisieren von mehr als einem Objekt gleichzeitig der Anzahl-Counter für das nächste Objekt wieder auf 1 gesetzt werden? | Ja        |
-+------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------+-----------+
-| Limit Value and Damage             | Soll der Damage bei 550 und der Value bei 13 nach oben begrenzt werden? Das ist sozusagen der "safety-mode"                                | Nein      |
-+------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------+-----------+
-| Maximale Rundenbackups             | Wieviele Aktionen soll man ein Objekt zurücksetzen können? Höhere Anzahl braucht minimal mehr Arbeitsspeicher                              | 6         |
-+------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------+-----------+
-| Design                             | welches Design soll verwendet werden                                                                                                       | Arcade    |
-+------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------+-----------+
+| Option                                        | Auswirkung                                                                                                                                 | Standard |
+|-------------|----------------------------------------------|-------------|
+| Called/Advantage nach Angriff zurücksetzen    | Soll nach dem Angriff das Feld für Called Shots und Advantage zurückgesetzt werden?                                                        | Ja       |
+| Schwerer Angriff nach Angriff zurücksetzen    | Soll nach dem schweren Angriff die Option schwerer Angriff auf nein zurückgesetzt werden?                                                  | Ja       |
+| Setze die Anzahl nach Erstellung auf 1 zurück | Soll nach dem Initialisieren von mehr als einem Objekt gleichzeitig der Anzahl-Counter für das nächste Objekt wieder auf 1 gesetzt werden? | Nein     |
+| Limitiere Value and Damage                    | Soll der Damage bei 550 und der Value bei 13 nach oben begrenzt werden? Das ist sozusagen der "safety-mode"                                | Nein     |
+| Maximale Rundenbackups                        | Wieviele Aktionen soll man ein Objekt zurücksetzen können? Höhere Anzahl braucht minimal mehr Arbeitsspeicher                              | 6        |
+| Initiativtabelle Aktionen zum Weiterschalten  | XXXX                                                                                                                                       | 1        |
+| Design                                        | Welches Design soll verwendet werden                                                                                                       | Arcade   |
 
 : Optionen und ihre Bedeutung
 
-#### Session Backup {#SessionBackup}
+#### Session Backup {#DMAppSessionBackup .unnumbered}
 
-Sollte es zur Situation kommen, dass Fehler seitens des DMs in der Ausführung der Aktionen passiert sind, oder sich die Spieler entscheiden zurück zu einem vorherigen Zeitpunkt in der Session gehen zu wollen, so kann eine Backup Datei geladen werden. 
-Diese befindet sich im Ordner "OrbisGame" im Unterordner "SessionOrganisation".
+Sollte es zur Situation kommen, dass Fehler seitens des DMs in der Ausführung der Aktionen passiert sind, oder sich die Spieler entscheiden zurück zu einem vorherigen Zeitpunkt in der Session gehen zu wollen, so kann eine Backup Datei geladen werden. Diese befindet sich im Ordner "OrbisGame" im Unterordner "SessionOrganisation".
 
-### Spiel
+#### Openai Identifikation {#DMAppEinstellungOpenAI .unnumbered}
+
+Möchte der DM die Möglichkeit des [Textgenerators](DMAppTextgenerator) im [Umgebungs-Tab](DMAppUmgebung) nutzen, so kann in diesem Feld die Identifikationsnummer eingegeben werden, die das Erstellen der Texte ermöglicht. 
+Diese Option hängt mit der Bezahlung von ChatGPT zusammen, sodass die marginalen Kosten seitens der Gruppe selbst getragen werden können.
+
+### Spiel {#DMAppSpiel}
+
+Der Spiel-Tab ist jener Tab, der die Welt von Orbis Astea zum Leben erweckt. Hier geschehen die Aktionen, die die Kampagnen für DM und Spieler interessant werden lassen.
+Die SubTabs sind aufgebaut, wie es in der Charakter-Excel-Datei der Spieler der Fall ist.
+
+![Fähigkeiten, die der jeweiligen Überkategorie zugeordnet werden.](Pictures\Rules\DMAppErstellungPersonenNPCFaehigkeiten.jpg)
+
+Wie bereits bei der [Erstellung](#DMAppErstellung) der Objekte, gibt es auch im Spiel-Tab verschiedene SubTabs in den SubTabs. Diese sind sehr leicht zu bedienen.
+Bei Unklarheiten zu den einzelnen Elementen der Benutzeroberfläche gibt es die Möglichkeit, über den jeweiligen Begriff zu hovern, sodass angezeigt wird, wofür dieses steht.
+
+![Beispiel für die Zusatzinformation durch das Verschieben des Mauszeigers auf das Element, zu welchem Informationen benötigt werden.](Pictures\Rules\DMAppHovern.png)
+
+Zur Ausführung der Würfe des Spieletabs, ist es unbedingt notwendig vorab alle relevanten Objekte im [Erstellungs-Tab](#DMAppErstellung) zu erstellen.
+
+Auf der rechten Seite gibt es vier zusätzliche Tabs. Die Initiative zeigt an, welches Objekt als nächstes in der Reihenfolge eine Aktion ausführen kann. Diese kann [hier](#DMAppKampfInitiative) erstellt werden. Das [Wetter](#DMAppWetter) dient der Erinnerung des DMs an die festgelegten Umgebungsvariablen. Die *Console* zeigt den [Status](#DMAppStatus) eines zuvor in der DM-Übersicht ausgewählten Objektes auch im Spiel-Tab an.
+
+#### Sozial {#DMAppSozial .unnumbered}
+
+Der Tab Sozial umfasst alle Checks für die sozialen Fähigkeiten.
+Es muss immer ein Akteur bestimmt werden, zusätzlich meistens ein Ziel oder Opfer. Wird hinter dem Begriff *Opfer* oder *Ziele* eine "(L)" angeführt, so kann hier eine Liste an Personen aufgeführt werden, die durch den Versuch der Handlung beeinflusst werden. Bei einer Auflistung mehrerer Objekte ist die Trennung dieser mittels Komma notwendig.
+
+*Amod* steht hierbei für einen durch den DM festgelegt Modifikator für den Akteur, während der *Pmod* einen Modifikator für die Zielobjekte darstellt. Dieser Modifikator ermöglicht einen Vorteil für den Wurf für das jeweils ausgewählte Objekt.
+Werden mehrere Objekte sozial beeinflusst, so ist es wichtig, dass diese, ebenso wie im Feld darüber, durch ein Komma voneinander getrennt aufgezählt werden.
+
+#### Kampf {#DMAppKampf .unnumbered}
+
+Der Kampf-SubTab gestaltet sich etwas komplizierter als der Sozial-SubTab. Aus diesem Grund werden hier jene Untertabs gesondert in ihrer Besonderheit beschrieben, die Elemente enthalten, die bisher noch nicht beschrieben wurden.
+
+##### *Bewaffnet* {#DMAppKampfBewaffnet .unnumbered}
+
+Dieser Untertab ermöglicht den bewaffneten Nahkampf. Besonders ist hierbei die Möglichkeit einen [schweren Angriff](#schwerer-angriff) auszuführen. Hierbei verwendet der Spieler seine [Main- und Single-Action](#SingleAction), um den verursachten Schaden zu erhöhen. Dafür muss der DM einen Haken in der Box *Schwer* setzen.
+
+Darüber hinaus kann ein [gezielter Angriff](#GezielterSchuss) ausgeführt werden, indem unter *Called* jenes Körperteil ausgewählt wird, welches der Spieler angreifen möchte.
+
+Der [*Dot*](#damage-over-time) steht für einen Statuseffekt, wie Vergiftung oder Bluten, welcher durch den Angriff bei ausreichender Schadenshöhe entstehen kann. Dieser ist standardmäßig ausgewählt und muss durch den DM entfernt werden.
+
+Das Feld *Advantage* gibt dem DM die Möglichkeit den Angriff zum Vorteil, oder Nachteil des Angreifers auszuführen.
+Läuft ein Gegner an einem Spieler vorbei, so ergibt sich ein Attack of Opportunity. Hierbei hat der Verteidiger keine Möglichkeit sie selbst zu verteidigen und sieht den Angriff nicht kommen. Hier wäre die Auswahl *Advantage* zu treffen.
+Liegt ein Spieler jedoch am Boden, da er gestolpert ist, und möchte dennoch angreifen, so ist dies eine unvorteilhafte Ausgangssituation für den Angriff. In diesem Fall wäre *Disadvantage* auszuwählen.
+
+##### *Fernkampf* {#DMAppKampfFernkampf .unnumbered}
+
+Beim Fernkampf-Tab ist wichtig zu wissen, dass die Spieler die Möglichkeit haben, verschiedene [Munitionstypen](#Ammo) zu kaufen und anzuwenden, welche verschiedene Dots auslösen können. Diese ist unter *Muni* auszuwählen.
+
+Gegen Fernkampfangriffe können Verteidiger zusätzlich zum Ausweichen, Schilde und andere Deckungsmöglichkeiten nutzen, um dem Schaden zu negieren. Hierfür gibt es die Möglichkeit die Deckung zu erschaffen. Diese kann spontan erstellt werden, oder aber über den [Erstellungs-Tab](#DMAppErstellung) unter [Strukturen](#DMAppStrukturen) vorab erschaffen werden.
+Bei der spontanen Erstellung, muss der DM der Deckungsmöglichkeit noch einen Deckungswert unter *Custom Deckung* vergeben, um welche diese Möglichkeit den Schaden bei Erfolg verringern kann.
+
+##### *Unbewaffnet* {#DMAppKampfUnbewaffnet .unnumbered}
+
+Der Untertab Unbewaffnet umfasst den Nahkampf ohne Waffen und unterteilt sich in den unbewaffneten Kampf und die Möglichkeit des Grapplens.
+Der unbewaffnete Kampf dient dem klassischen Faustkampf. Das Grapplen allerdings, ermöglicht es dem Spieler ein anderes Objekt zu fixieren oder zu Boden zu ringen. Aus diesem Grund gibt unter *Abwehr* im Grapple-SubTab die Möglichkeit des Handgemenges sowie des Ausweichens. Im Handgemenge werden die [Unbewaffnet-Fähigkeiten](#unbewaffnet) gegeneinander verglichen, während das Ausweichen dem Entgehen des Angriffs dient.
+
+##### *Geräte* {#DMAppKampfGeraete .unnumbered}
+
+Im Vehikel-Rammen-Tab ist der Angreifer immer ein Vehikel. Dieses muss vorab im [Erstellungs-Tab](#DMAppErstellung) initialisiert werden.
+
+Im Fallen-Tab gibt es die Möglichkeit unter *Aktion* auszuwählen, inwiefern ein Objekt mit einer Falle der Wahl interagiert. 
+Wichtig ist, dass die interagierende Person im ersten Feld ausgewählt wird, egal ob diese in eine Falle tappt, sich aus dieser befreit oder diese entschärft.
+
+##### *Konstrukte* {#DMAppKampfKonstrukte .unnumbered}
+
+In diesem Untertab hat ein Akteur die Möglichkeit die Batterie eines [Konstruktes](#Konstrukte) aufzuladen oder dessen Steuerung zu übernehmen.
+
+XXXX Max-Seelen & Zielseelen XXXX
+
+##### *Initiative* {#DMAppKampfInitiative .unnumbered}
+
+Die [Initiative](#Initiative) gibt an, in welcher Reihenfolge die Beteiligten des Kampfes eine Aktion ausführen können.
+Aus diesem Grund ist es wichtig, vor Beginn eines Kampfes eine Initiativliste zu erstellen. Hierfür müssen alle Beteiligten Objekte händisch und mittels Komma getrennt in das Feld *Erstelle Initiativtabelle* eingefügt werden.
+Kommen weitere Objekte zu einem späteren Zeitpunkt hinzu, so können diese im Feld *Füge zur Initiativtabelle hinzu* ergänzt werden.
+
+##### Utility {#DMAppUtility .unnumbered}
+
+EINFÜHRUNGSTEXT FEHLT
+
+##### *Wahrnehmung* {#DMAppUtilityWahrnehmung .unnumbered}
+
+XXXX Thres
+
+##### *Überlebenskunst* {#DMAppUtilityUeberlebenskunst .unnumbered}
+
+Hier gibt es die Möglichkeit einen Verband anzuwenden, den der Spieler vorab erworben hat. Dieser verbessert die Chance auf eine erfolgreiche Wundversorgung, indem es eine Modifizierung des ausgegebenen Wertes gibt.
+
+##### *Werfen* {#DMAppUtilityWerfen .unnumbered}
+
+Möchte ein Spieler ein Objekt werfen, so kann dies in diesem Tab durchgeführt werden. Dabei ist primär irrelevant, was geworfen wird.
+
+XXXX Warum hier Dot Auswahlmöglichkeit?
+
+#### Schurke {#DMAppSchurke .unnumbered}
+
+##### *Attentat* {#DMAppSchurkeAttentat .unnumbered}
+
+Das [Attentat](#das-attentat) ermöglicht den direkten Tod eines Ziels, wenn es sich um ein *normales Attentat* handelt. Aus diesem Grund muss der DM diesen Box auswählen, wenn ein Spieler ein anderes Objekt ermorden möchte.
+
+Verweigert der DM ein normales Attentat aufgrund der Wichtigkeit eines Objektes, so kann ein Attentatsangriff ausgeführt werden. Dieser ist auch dann sinnvoll, wenn ein Spieler hohen Schaden auf ein Monster oder ähnliches machen möchte. Hierfür lässt der DM die Box *Normales Attentat* unausgewählt.
+
+#### Fortbewegung {#DMAppFortbewegung .unnumbered}
+
+
+##### *Vehikel* {#DMAppFortbewegungVehikel .unnumbered}
+
+
+#### Intelligenz {#DMAppIntelligenz .unnumbered}
+
+
+#### Saves {#DMAppSaves .unnumbered}
+
+
+##### *Willenskraft* {#DMAppSavesWillenskraft .unnumbered}
+
+Über das Element *Thres* legt der DM fest, welchen Wert ein Wurf des Spielers erreichen muss, um die Überprüfung der Willenskraft zu bestehen.
+
+##### *Andere Saves* {#DMAppSavesAndereSaves .unnumbered}
+
+Dies bietet dem DM die Möglichkeit einzelne [Attribute](#Attribute) der Akteure zu überprüfen. Beispielsweise, ob ein Akteur stark oder agil genug ist, um eine Handlung auszuführen.
+
+#### Anderes {#DMAppAnderes .unnumbered}
+
+Der Anderes-Tab ermöglicht es dem DM das Trinken von Tränken, das Löschen von Bränden an Akteuren sowie das Ändern, Aus-/Abrüsten sowie vergiften von Waffen und Rüstungsteilen auf eine erfolgreiche Durchführung zu überprüfen.
+
+Wird etwas an der Ausrüstung geändert, so kann diese Änderung in der [DM-Übersicht](#DMAppDMÜbersicht) unter [Beschreiben](#DMAppBeschreiben) angezeigt werden. Hierfür muss das Objekt ausgewählt und das geänderte Unterobjekt bestimmt oder das gesamte Objekt ausgewählt werden.
+
 
 1.  (Reihenfolge, wie Tabs auch stehen)
 
@@ -245,13 +390,29 @@ Diese befindet sich im Ordner "OrbisGame" im Unterordner "SessionOrganisation".
 
     8.  Anderes
 
-### Downtime
+### Downtime {#DMAppDowntime}
+
+[Downtime](#downtime-aktivitäten) umfasst alle Aktivitäten, die während eines längeren Zeitraums zwischen zwei Sessions möglich sind. Diese Aktivitäten können den Spielern verschiedene Vorteile wie Geld, bessere Skills oder mehr Wissenspunkte bringen. Wenn eine der Downtime-Aktivitäten ausgeführt wird, sind keine anderen Aktionen möglich, die viel Zeit in Anspruch nehmen. Aktionen, die nur eine kurze Zeit erfordern, wie z.B. mit anderen Charakteren zu sprechen, sind jedoch weiterhin möglich
+
+Damit eine Downtime Aktivität beginnen kann, muss der Spieler zuerst einen Charakter in der Erstellung-Tab erstellen und danach in den Downtime-Tag entweder bei Arbeit, Training oder Studieren unter Person einladen.
+
+#### Arbeit {#DMAppArbeit .unnumbered}
+
+Arbeit ermöglicht es dem Spieler, während der Downtime Geld zu verdienen. Alle Arbeitsformen sind mit Skills verknüpft. Wenn ein Spieler beispielsweise versucht, sich auf Faustkämpfe einzulassen, wird empfohlen, ein hohes Unarmed-Level zu haben. Man benötigt auch die Akrobatik-Fähigkeit für z.B. akrobatikauftritt. Sobald der Charakter und die Aktivität ausgewählt wurden, müssen Sie nur noch die Go-Taste drücken und das Ergebnis im Feld unten ablesen. Das verdiente Geld kann dann direkt in das Inventar des Spielers eingetragen werden.
+
+#### Ausbildung {#DMAppAusbildung .unnumbered}
+
+Wie bei der Arbeit muss ein Charakter ausgewählt werden. Darüber hinaus muss der Spieler auswählen, welche Skill er trainieren möchte, und einen Lehrer, falls einer verfügbar ist. Wenn der Spieler im Training erfolgreich ist, zeigt das Feld unten, wie sehr sich die Fähigkeit verbessert hat.
+
+#### Studieren {#DMAppStudieren .unnumbered}
+
+Letztlich muss beim studieren nur eine Person ausgewählt werden. Der Grund dafür ist, dass die Wissenskills abstrakt ausgewählt werden können und daher keine definierte Liste haben, aus der sie ausgewählt werden können. Wenn Wissensfertigkeitspunkte erfolgreich erworben wurden, kann der Spieler die erhaltenen Punkte in sein Charakterblatt eintragen.
 
 ### Lootliste
 
+Die Lootliste ermöglicht es dem DM eine Liste zu generieren, welche Gegenstände umfasst, die Profile an sich getragen haben als sie gestorben sind. Hierfür muss lediglich eingetragen werden, welche Personen Gegenstände, wie Rüstung und Waffen, von den Verstorbenen aufklauben und wie viel Prozent der Gegenstände als potenzieller Loot zur Verfügung steht. Mit betätigen des *Go*-Buttons wird zudem automatisch eine Lootliste in Form einer Excel-Datei ausgegeben. Diese findet sich im *OrbisGame*-Ordner im Unterordner *SessionOrganisation* unter dem Namen "lootliste". Natürlich steht es jedem DM darüber hinaus offen, den Spielern Loot darüberhinaus zukommen zu lassen.
 
-
-
+Wichtig ist, dass die Spieler den Loot der Liste händisch in ihr eigenes Inventar übertragen müssen.
 
 ## Bekannte Fehler {#BekannteFehler}
 

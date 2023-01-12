@@ -290,15 +290,16 @@ Bei Reittieren ist es wichtig, dass man einen minimalen Reiten-Wert überschreit
 
 ### Der Unbewaffnete Kampf {#UnbewaffneterKampf}
 
-Der unbewaffnete Kampf hat zwei Anwendungen - den Pugilismus und das Grappling. Pugilismus beschreibt den "herkömmlichen" Kampf mit Fäusten oder Faustwaffen. Man bleibt in Verteidigungsposition, schlägt bedacht zu und macht Schaden. Der Pugilismus läuft wie der normale Kampf - nur eben mit dem Schaden der Faust oder Faustwaffe und mit dem Skill "Unbewaffneter Nahkampf". Jeder Schlag hat die Fähigkeit, den Gegner zu [unterbrechen](#interrupt). 
+Der unbewaffnete Kampf hat zwei Anwendungen - den Pugilismus und das Handgemenge. Pugilismus beschreibt den "herkömmlichen" Kampf mit Fäusten oder Faustwaffen. Man bleibt in Verteidigungsposition, schlägt bedacht zu und macht Schaden. Der Pugilismus läuft wie der normale Kampf - nur eben mit dem Schaden der Faust oder Faustwaffe und mit dem Skill "Unbewaffneter Nahkampf". Jeder Schlag hat die Fähigkeit, den Gegner zu [unterbrechen](#interrupt). 
 
-Grapple läuft ebenso wie Pugilismus mit der Fähigkeit "unbewaffneter Nahkampf" - macht allerdings keinen Schaden, sondern ist dazu da den Gegner umzuwerfen oder festzuhalten - und ihn anschließend ganz Auszuknocken. Bei erfolgreichem Grapple hält der Angreifer den Verteidiger fest - entweder im stehen oder auf dem Boden. Weder der Angreifer noch der Verteidiger sind während einem Grapple fähig, [Abwehraktionen](#BlockenAusweichen) einzusetzen. 
-Während der Angreifer den Verteidiger grappelt, kann er einmal pro Runde einen unbewaffneten Angriff auf den Verteidiger starten, ohne dass dieser eine Abwehraktion hat. Der Verteidiger kann jede Runde versuchen sich aus dem Grapple zu befreien, dazu muss er einen Grapple-Check gegen den Angreifer gewinnen - danach ist der Grapplevorgang automatisch beendet. Sollte eine Person sich mehr als drei Runden im Grapple befinden, wird sie [ohnmächtig](#Ohnmacht).
-Versucht ein Charakter einen anderen zu Grapplen, kann dieser entweder mit der [single action oder der Passivchance ausweichen](#BlockenAusweichen), oder sich auf das Handgemenge einlassen.
+Handgemenge läuft ebenso wie Pugilismus mit der Fähigkeit "unbewaffneter Nahkampf" - macht allerdings keinen Schaden, sondern ist entweder dazu da den Gegner umzuwerfen oder festzuhalten und ihn anschließend ganz Auszuknocken, oder um den Gegner zu entwaffnen. Bei erfolgreichem Handgemenge hält der Angreifer den Verteidiger fest - entweder im stehen oder auf dem Boden. Weder der Angreifer noch der Verteidiger sind während einem Handgemenge fähig, [Abwehraktionen](#BlockenAusweichen) einzusetzen. 
 
-Achtung: Grappling ist risikoreich, da man wenn es schlecht läuft selbst niedergerungen werden kann. Auch andere Gegenmaßnahmen wie Dolche können sehr effektiv sein gegen einen Festhalteversuch.
+Während der Angreifer den Verteidiger festhält, kann er einmal pro Runde einen unbewaffneten Angriff auf den Verteidiger starten, ohne dass dieser eine Abwehraktion hat. Der Verteidiger kann jede Runde versuchen sich aus dem Handgemenge zu befreien, dazu muss er einen Handgemenge-Check gegen den Angreifer gewinnen - danach ist der Handgemengevorgang automatisch beendet. Sollte eine Person sich mehr als drei Runden im Handgemenge befinden, wird sie [ohnmächtig](#Ohnmacht).
+Versucht ein Charakter einen anderen zu Handgemengen, kann dieser entweder mit der [single action oder der Passivchance ausweichen](#BlockenAusweichen), oder sich auf das Handgemenge einlassen.
 
-Oft macht es Sinn, diese Aktionen in Verbindung miteinander einzusetzen - so kann in einer Runde ein Charakter beispielsweise in einer Runde gleichzeitig mit der single Action angreifen und mit der Main Action ein Grapple starten.
+Achtung: Handgemenge ist risikoreich, da man wenn es schlecht läuft selbst niedergerungen werden kann. Auch andere Gegenmaßnahmen wie Dolche können sehr effektiv sein gegen einen Festhalteversuch.
+
+Oft macht es Sinn, diese Aktionen in Verbindung miteinander einzusetzen - so kann in einer Runde ein Charakter beispielsweise in einer Runde gleichzeitig mit der single Action angreifen und mit der Main Action ein Handgemenge starten.
 
 ### Artillerie {#ArtillerieOverall}
 

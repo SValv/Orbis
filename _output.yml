@@ -16,7 +16,8 @@ bookdown::gitbook:
     edit : null
     download: [["DownloadContainer/OrbisAstea.zip", "The Game"],
               ["DownloadContainer/CCSheetBlank.xlsx", "Character-Creation Sheet"],
-              ["DownloadContainer/CCrand.xlsx", "Character-Creation Sheet Example"]]
+              ["DownloadContainer/CCrand.xlsx", "Character-Creation Sheet Example"],
+              ["DownloadContainer/Einstieg in Orbis.pdf", "Kurzeinführung"]]
     fontsettings:
       theme: sepia
       family: serif
