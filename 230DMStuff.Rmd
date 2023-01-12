@@ -1,4 +1,4 @@
-# (PART) DM-Sektion {.unnumbered}
+# (PART) DM-Sektion {-}
 
 # Für DM's und die, die es werden Wollen
 

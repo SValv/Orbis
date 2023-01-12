@@ -1,4 +1,4 @@
-# (PART) Regeln und Items {.unnumbered}
+# (PART) Regeln und Items {-}
 
 # Die Charaktererstellung
 

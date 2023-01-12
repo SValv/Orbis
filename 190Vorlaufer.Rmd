@@ -4,7 +4,7 @@ editor_options:
     wrap: sentence
 ---
 
-# (PART) Deep Lore {.unnumbered}
+# (PART) Deep Lore {-}
 
 # Vorläufer und Blutgötter
 

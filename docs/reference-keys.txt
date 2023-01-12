@@ -1,4 +1,4 @@
-einführung-in-orbis-astea
+einführung
 was-ist-orbis-astea
 übersicht-über-die-welt
 die-karte
@@ -267,6 +267,7 @@ Roslos
 infrastruktur
 die-geschichte-der-region
 herkunft-der-rasse-1
+AnimaliKontaktKrieg2
 die-große-jagd-auf-den-weltenwurm-1
 wirtschaftliche-lage-4
 die-ressourcen-der-region
@@ -975,7 +976,3 @@ Team
 impressum-und-kontakt
 impressum
 kontakt
-einführung
-legenden-der-region-1
-section-3
-AnimaliKontaktKrieg2

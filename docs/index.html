@@ -71,6 +71,29 @@
 <script src="libs/lfx-draw-1.0.2/lfx-draw-prod.js"></script>
 <script src="libs/lfx-draw-1.0.2/lfx-draw-bindings.js"></script>
 <script src="libs/lfx-draw-drag-1.0.2/lfx-draw-drag-prod.js"></script>
+<link href="libs/visjs-7.4.9/vis-timeline-graph2d.min.css" rel="stylesheet" />
+<script src="libs/visjs-7.4.9/vis-timeline-graph2d.min.js"></script>
+<link href="libs/timeline-0.4/timevis.css" rel="stylesheet" />
+<script src="libs/timevis-binding-2.0.0/timevis.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
+<script src="libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="libs/core-js-2.5.3/shim.min.js"></script>
+<script src="libs/react-17.0.0/react.min.js"></script>
+<script src="libs/react-17.0.0/react-dom.min.js"></script>
+<script src="libs/reactwidget-1.0.0/react-tools.js"></script>
+<script src="libs/reactable-binding-0.3.0/reactable.js"></script>
 <link rel="shortcut icon" href="E:\\User\\icn.png" />
 
 
@@ -544,6 +567,7 @@
 <li class="chapter" data-level="21.8" data-path="das-eisland.html"><a href="das-eisland.html#sehenswürdigkeiten"><i class="fa fa-check"></i><b>21.8</b> Sehenswürdigkeiten</a>
 <ul>
 <li class="chapter" data-level="21.8.1" data-path="das-eisland.html"><a href="das-eisland.html#the-gathering-points-of-the-animali"><i class="fa fa-check"></i><b>21.8.1</b> The gathering points of the Animali</a></li>
+<li class="chapter" data-level="21.8.2" data-path="das-eisland.html"><a href="das-eisland.html#section-1"><i class="fa fa-check"></i><b>21.8.2</b> </a></li>
 </ul></li>
 </ul></li>
 <li class="chapter" data-level="22" data-path="Skaen.html"><a href="Skaen.html"><i class="fa fa-check"></i><b>22</b> Die Ska’en</a>
@@ -596,9 +620,9 @@
 <li class="chapter" data-level="" data-path="das-herzland.html"><a href="das-herzland.html#piscaim-farm"><i class="fa fa-check"></i><strong>Piscaim-Farm</strong></a></li>
 <li class="chapter" data-level="" data-path="das-herzland.html"><a href="das-herzland.html#tantum-farm"><i class="fa fa-check"></i><strong>Tantum-Farm</strong></a></li>
 <li class="chapter" data-level="" data-path="das-herzland.html"><a href="das-herzland.html#groß-tantium"><i class="fa fa-check"></i><strong>Groß-Tantium</strong></a></li>
-<li><a href="das-herzland.html#section-1" id="toc-section-1"></a></li>
-<li class="chapter" data-level="" data-path="das-herzland.html"><a href="das-herzland.html#muranum-farm"><i class="fa fa-check"></i><strong>Muranum-Farm</strong></a></li>
 <li><a href="das-herzland.html#section-2" id="toc-section-2"></a></li>
+<li class="chapter" data-level="" data-path="das-herzland.html"><a href="das-herzland.html#muranum-farm"><i class="fa fa-check"></i><strong>Muranum-Farm</strong></a></li>
+<li><a href="das-herzland.html#section-3" id="toc-section-3"></a></li>
 <li class="chapter" data-level="" data-path="das-herzland.html"><a href="das-herzland.html#grimgrod"><i class="fa fa-check"></i><strong>Grimgrod</strong></a></li>
 <li class="chapter" data-level="23.1.1" data-path="das-herzland.html"><a href="das-herzland.html#infrastruktur-2"><i class="fa fa-check"></i><b>23.1.1</b> Infrastruktur</a></li>
 </ul></li>
@@ -873,12 +897,9 @@
 <ul>
 <li class="chapter" data-level="30.2.1.1" data-path="Wandia.html"><a href="Wandia.html#monster-in-der-region-10"><i class="fa fa-check"></i><b>30.2.1.1</b> Monster in der Region</a></li>
 </ul></li>
+<li class="chapter" data-level="30.2.2" data-path="Wandia.html"><a href="Wandia.html#die-legende-von-üräid-der-weisen"><i class="fa fa-check"></i><b>30.2.2</b> Die Legende von Üräid der Weisen</a></li>
 </ul></li>
-<li class="chapter" data-level="30.3" data-path="Wandia.html"><a href="Wandia.html#legenden-der-region"><i class="fa fa-check"></i><b>30.3</b> Legenden der Region</a>
-<ul>
-<li class="chapter" data-level="30.3.1" data-path="Wandia.html"><a href="Wandia.html#die-legende-von-üräid-der-weisen"><i class="fa fa-check"></i><b>30.3.1</b> Die Legende von Üräid der Weisen</a></li>
-</ul></li>
-<li class="chapter" data-level="30.4" data-path="Wandia.html"><a href="Wandia.html#sehenswürdigkeiten-10"><i class="fa fa-check"></i><b>30.4</b> Sehenswürdigkeiten</a></li>
+<li class="chapter" data-level="30.3" data-path="Wandia.html"><a href="Wandia.html#sehenswürdigkeiten-10"><i class="fa fa-check"></i><b>30.3</b> Sehenswürdigkeiten</a></li>
 </ul></li>
 <li class="chapter" data-level="31" data-path="RegionSilvaNacia.html"><a href="RegionSilvaNacia.html"><i class="fa fa-check"></i><b>31</b> Silva Nacia</a>
 <ul>
@@ -989,7 +1010,7 @@
 <li class="chapter" data-level="34.8.1.1" data-path="BermaTal.html"><a href="BermaTal.html#monster-in-der-region-14"><i class="fa fa-check"></i><b>34.8.1.1</b> Monster in der Region</a></li>
 </ul></li>
 </ul></li>
-<li class="chapter" data-level="34.9" data-path="BermaTal.html"><a href="BermaTal.html#legenden-der-region-1"><i class="fa fa-check"></i><b>34.9</b> Legenden der Region</a>
+<li class="chapter" data-level="34.9" data-path="BermaTal.html"><a href="BermaTal.html#legenden-der-region"><i class="fa fa-check"></i><b>34.9</b> Legenden der Region</a>
 <ul>
 <li class="chapter" data-level="34.9.1" data-path="BermaTal.html"><a href="BermaTal.html#der-hass-auf-die-zivilisation"><i class="fa fa-check"></i><b>34.9.1</b> Der Hass auf die Zivilisation</a></li>
 <li class="chapter" data-level="34.9.2" data-path="BermaTal.html"><a href="BermaTal.html#vrak-der-reiche"><i class="fa fa-check"></i><b>34.9.2</b> Vrak der Reiche</a></li>
@@ -1444,109 +1465,111 @@
 <ul>
 <li class="chapter" data-level="48.4.4.1" data-path="DrogenPflanzen.html"><a href="DrogenPflanzen.html#parasitisten"><i class="fa fa-check"></i><b>48.4.4.1</b> Parasitisten:</a></li>
 <li class="chapter" data-level="48.4.4.2" data-path="DrogenPflanzen.html"><a href="DrogenPflanzen.html#körperschwächen"><i class="fa fa-check"></i><b>48.4.4.2</b> Körperschwächen:</a></li>
-<li class="chapter" data-level="48.4.4.3" data-path="DrogenPflanzen.html"><a href="DrogenPflanzen.html#section-3"><i class="fa fa-check"></i><b>48.4.4.3</b> </a></li>
+<li class="chapter" data-level="48.4.4.3" data-path="DrogenPflanzen.html"><a href="DrogenPflanzen.html#section-4"><i class="fa fa-check"></i><b>48.4.4.3</b> </a></li>
 </ul></li>
 </ul></li>
 </ul></li>
-<li class="chapter" data-level="" data-path=""><a href="#part-deep-lore"><i class="fa fa-check"></i>(PART) Deep Lore</a>
+<li class="part"><span><b>VII Deep Lore</b></span></li>
+<li class="chapter" data-level="49" data-path="vorläufer-und-blutgötter.html"><a href="vorläufer-und-blutgötter.html"><i class="fa fa-check"></i><b>49</b> Vorläufer und Blutgötter</a>
 <ul>
-<li class="chapter" data-level="48.4.5" data-path="DrogenPflanzen.html"><a href="DrogenPflanzen.html#vorläufer"><i class="fa fa-check"></i><b>48.4.5</b> Vorläufer</a></li>
-<li class="chapter" data-level="48.4.6" data-path="DrogenPflanzen.html"><a href="DrogenPflanzen.html#blutgötter"><i class="fa fa-check"></i><b>48.4.6</b> Blutgötter</a></li>
-<li class="chapter" data-level="48.4.7" data-path="DrogenPflanzen.html"><a href="DrogenPflanzen.html#eine-besserer-ort-für-ortslose"><i class="fa fa-check"></i><b>48.4.7</b> Eine besserer Ort für Ortslose</a></li>
-<li class="chapter" data-level="48.5" data-path="DrogenPflanzen.html"><a href="DrogenPflanzen.html#das-erwachen-1"><i class="fa fa-check"></i><b>48.5</b> Das Erwachen</a></li>
-<li class="chapter" data-level="48.6" data-path="DrogenPflanzen.html"><a href="DrogenPflanzen.html#die-graue-ödnis-1"><i class="fa fa-check"></i><b>48.6</b> Die Graue Ödnis</a></li>
-<li class="chapter" data-level="48.7" data-path="DrogenPflanzen.html"><a href="DrogenPflanzen.html#die-östlichen-grenzen-der-bekannten-welt-die-brennenden-länder"><i class="fa fa-check"></i><b>48.7</b> Die östlichen Grenzen der bekannten Welt – die brennenden Länder</a>
+<li class="chapter" data-level="49.0.1" data-path="vorläufer-und-blutgötter.html"><a href="vorläufer-und-blutgötter.html#vorläufer"><i class="fa fa-check"></i><b>49.0.1</b> Vorläufer</a></li>
+<li class="chapter" data-level="49.0.2" data-path="vorläufer-und-blutgötter.html"><a href="vorläufer-und-blutgötter.html#blutgötter"><i class="fa fa-check"></i><b>49.0.2</b> Blutgötter</a></li>
+<li class="chapter" data-level="49.0.3" data-path="vorläufer-und-blutgötter.html"><a href="vorläufer-und-blutgötter.html#eine-besserer-ort-für-ortslose"><i class="fa fa-check"></i><b>49.0.3</b> Eine besserer Ort für Ortslose</a></li>
+<li class="chapter" data-level="49.1" data-path="vorläufer-und-blutgötter.html"><a href="vorläufer-und-blutgötter.html#das-erwachen-1"><i class="fa fa-check"></i><b>49.1</b> Das Erwachen</a></li>
+<li class="chapter" data-level="49.2" data-path="vorläufer-und-blutgötter.html"><a href="vorläufer-und-blutgötter.html#die-graue-ödnis-1"><i class="fa fa-check"></i><b>49.2</b> Die Graue Ödnis</a></li>
+<li class="chapter" data-level="49.3" data-path="vorläufer-und-blutgötter.html"><a href="vorläufer-und-blutgötter.html#die-östlichen-grenzen-der-bekannten-welt-die-brennenden-länder"><i class="fa fa-check"></i><b>49.3</b> Die östlichen Grenzen der bekannten Welt – die brennenden Länder</a>
 <ul>
-<li class="chapter" data-level="48.7.1" data-path="DrogenPflanzen.html"><a href="DrogenPflanzen.html#gaars-leibliche-kinder-die-größten-abscheulichkeiten"><i class="fa fa-check"></i><b>48.7.1</b> Ga’ar’s leibliche Kinder – die größten Abscheulichkeiten</a></li>
-<li class="chapter" data-level="48.7.2" data-path="DrogenPflanzen.html"><a href="DrogenPflanzen.html#der-tiefenherrscher-und-alptraum-der-see---leviathan"><i class="fa fa-check"></i><b>48.7.2</b> Der Tiefenherrscher und Alptraum der See - Leviathan</a>
+<li class="chapter" data-level="49.3.1" data-path="vorläufer-und-blutgötter.html"><a href="vorläufer-und-blutgötter.html#gaars-leibliche-kinder-die-größten-abscheulichkeiten"><i class="fa fa-check"></i><b>49.3.1</b> Ga’ar’s leibliche Kinder – die größten Abscheulichkeiten</a></li>
+<li class="chapter" data-level="49.3.2" data-path="vorläufer-und-blutgötter.html"><a href="vorläufer-und-blutgötter.html#der-tiefenherrscher-und-alptraum-der-see---leviathan"><i class="fa fa-check"></i><b>49.3.2</b> Der Tiefenherrscher und Alptraum der See - Leviathan</a>
 <ul>
-<li class="chapter" data-level="48.7.2.1" data-path="DrogenPflanzen.html"><a href="DrogenPflanzen.html#knochenschädler-1"><i class="fa fa-check"></i><b>48.7.2.1</b> Knochenschädler</a></li>
+<li class="chapter" data-level="49.3.2.1" data-path="vorläufer-und-blutgötter.html"><a href="vorläufer-und-blutgötter.html#knochenschädler-1"><i class="fa fa-check"></i><b>49.3.2.1</b> Knochenschädler</a></li>
 </ul></li>
 </ul></li>
 </ul></li>
-<li class="chapter" data-level="" data-path=""><a href="#part-regeln-und-items"><i class="fa fa-check"></i>(PART) Regeln und Items</a>
+<li class="part"><span><b>VIII Regeln und Items</b></span></li>
+<li class="chapter" data-level="50" data-path="die-charaktererstellung.html"><a href="die-charaktererstellung.html"><i class="fa fa-check"></i><b>50</b> Die Charaktererstellung</a>
 <ul>
-<li class="chapter" data-level="48.8" data-path="DrogenPflanzen.html"><a href="DrogenPflanzen.html#die-excel-datei"><i class="fa fa-check"></i><b>48.8</b> Die Excel-Datei</a>
+<li class="chapter" data-level="50.1" data-path="die-charaktererstellung.html"><a href="die-charaktererstellung.html#die-excel-datei"><i class="fa fa-check"></i><b>50.1</b> Die Excel-Datei</a>
 <ul>
-<li class="chapter" data-level="48.8.1" data-path="DrogenPflanzen.html"><a href="DrogenPflanzen.html#CharacterSheet"><i class="fa fa-check"></i><b>48.8.1</b> Das Charakter-Tabellenblatt</a></li>
-<li class="chapter" data-level="48.8.2" data-path="DrogenPflanzen.html"><a href="DrogenPflanzen.html#Status"><i class="fa fa-check"></i><b>48.8.2</b> Der Status</a></li>
-<li class="chapter" data-level="48.8.3" data-path="DrogenPflanzen.html"><a href="DrogenPflanzen.html#das-inventar"><i class="fa fa-check"></i><b>48.8.3</b> Das Inventar</a></li>
-<li class="chapter" data-level="48.8.4" data-path="DrogenPflanzen.html"><a href="DrogenPflanzen.html#das-veränderungslog"><i class="fa fa-check"></i><b>48.8.4</b> Das Veränderungslog</a></li>
-<li class="chapter" data-level="48.8.5" data-path="DrogenPflanzen.html"><a href="DrogenPflanzen.html#die-hintergrundgeschichte"><i class="fa fa-check"></i><b>48.8.5</b> Die Hintergrundgeschichte</a></li>
+<li class="chapter" data-level="50.1.1" data-path="die-charaktererstellung.html"><a href="die-charaktererstellung.html#CharacterSheet"><i class="fa fa-check"></i><b>50.1.1</b> Das Charakter-Tabellenblatt</a></li>
+<li class="chapter" data-level="50.1.2" data-path="die-charaktererstellung.html"><a href="die-charaktererstellung.html#Status"><i class="fa fa-check"></i><b>50.1.2</b> Der Status</a></li>
+<li class="chapter" data-level="50.1.3" data-path="die-charaktererstellung.html"><a href="die-charaktererstellung.html#das-inventar"><i class="fa fa-check"></i><b>50.1.3</b> Das Inventar</a></li>
+<li class="chapter" data-level="50.1.4" data-path="die-charaktererstellung.html"><a href="die-charaktererstellung.html#das-veränderungslog"><i class="fa fa-check"></i><b>50.1.4</b> Das Veränderungslog</a></li>
+<li class="chapter" data-level="50.1.5" data-path="die-charaktererstellung.html"><a href="die-charaktererstellung.html#die-hintergrundgeschichte"><i class="fa fa-check"></i><b>50.1.5</b> Die Hintergrundgeschichte</a></li>
 </ul></li>
-<li class="chapter" data-level="48.9" data-path="DrogenPflanzen.html"><a href="DrogenPflanzen.html#Attribute"><i class="fa fa-check"></i><b>48.9</b> Attribute</a></li>
-<li class="chapter" data-level="48.10" data-path="DrogenPflanzen.html"><a href="DrogenPflanzen.html#Fähigkeiten"><i class="fa fa-check"></i><b>48.10</b> Fähigkeiten</a></li>
-<li class="chapter" data-level="48.11" data-path="DrogenPflanzen.html"><a href="DrogenPflanzen.html#Charaktererstellung"><i class="fa fa-check"></i><b>48.11</b> Die Erstellung</a>
+<li class="chapter" data-level="50.2" data-path="die-charaktererstellung.html"><a href="die-charaktererstellung.html#Attribute"><i class="fa fa-check"></i><b>50.2</b> Attribute</a></li>
+<li class="chapter" data-level="50.3" data-path="die-charaktererstellung.html"><a href="die-charaktererstellung.html#Fähigkeiten"><i class="fa fa-check"></i><b>50.3</b> Fähigkeiten</a></li>
+<li class="chapter" data-level="50.4" data-path="die-charaktererstellung.html"><a href="die-charaktererstellung.html#Charaktererstellung"><i class="fa fa-check"></i><b>50.4</b> Die Erstellung</a>
 <ul>
-<li class="chapter" data-level="48.11.1" data-path="DrogenPflanzen.html"><a href="DrogenPflanzen.html#RassenStartwerte"><i class="fa fa-check"></i><b>48.11.1</b> Rasse und Startwerte</a>
+<li class="chapter" data-level="50.4.1" data-path="die-charaktererstellung.html"><a href="die-charaktererstellung.html#RassenStartwerte"><i class="fa fa-check"></i><b>50.4.1</b> Rasse und Startwerte</a>
 <ul>
-<li class="chapter" data-level="" data-path="DrogenPflanzen.html"><a href="DrogenPflanzen.html#Rassenfähigkeiten"><i class="fa fa-check"></i>Rassenfähigkeiten</a></li>
+<li class="chapter" data-level="" data-path="die-charaktererstellung.html"><a href="die-charaktererstellung.html#Rassenfähigkeiten"><i class="fa fa-check"></i>Rassenfähigkeiten</a></li>
 </ul></li>
-<li class="chapter" data-level="48.11.2" data-path="DrogenPflanzen.html"><a href="DrogenPflanzen.html#Fähigkeitsverbesserungen"><i class="fa fa-check"></i><b>48.11.2</b> Level- und Fähigkeitsverbesserungen</a>
+<li class="chapter" data-level="50.4.2" data-path="die-charaktererstellung.html"><a href="die-charaktererstellung.html#Fähigkeitsverbesserungen"><i class="fa fa-check"></i><b>50.4.2</b> Level- und Fähigkeitsverbesserungen</a>
 <ul>
-<li class="chapter" data-level="" data-path="DrogenPflanzen.html"><a href="DrogenPflanzen.html#kosten-attributsverbesserung"><i class="fa fa-check"></i>Kosten Attributsverbesserung</a></li>
-<li class="chapter" data-level="" data-path="DrogenPflanzen.html"><a href="DrogenPflanzen.html#kosten-gesundheitsverbesserung"><i class="fa fa-check"></i>Kosten Gesundheitsverbesserung</a></li>
-<li class="chapter" data-level="" data-path="DrogenPflanzen.html"><a href="DrogenPflanzen.html#Fähigkeitsverbesserung"><i class="fa fa-check"></i>Kosten Fähigkeitsverbesserung</a></li>
-<li class="chapter" data-level="" data-path="DrogenPflanzen.html"><a href="DrogenPflanzen.html#Fähigkeitsgruppen"><i class="fa fa-check"></i>Kosten Fähigkeitsgruppenverbesserung</a></li>
-<li class="chapter" data-level="" data-path="DrogenPflanzen.html"><a href="DrogenPflanzen.html#kosten-ausdauerverbesserung"><i class="fa fa-check"></i>Kosten Ausdauerverbesserung</a></li>
+<li class="chapter" data-level="" data-path="die-charaktererstellung.html"><a href="die-charaktererstellung.html#kosten-attributsverbesserung"><i class="fa fa-check"></i>Kosten Attributsverbesserung</a></li>
+<li class="chapter" data-level="" data-path="die-charaktererstellung.html"><a href="die-charaktererstellung.html#kosten-gesundheitsverbesserung"><i class="fa fa-check"></i>Kosten Gesundheitsverbesserung</a></li>
+<li class="chapter" data-level="" data-path="die-charaktererstellung.html"><a href="die-charaktererstellung.html#Fähigkeitsverbesserung"><i class="fa fa-check"></i>Kosten Fähigkeitsverbesserung</a></li>
+<li class="chapter" data-level="" data-path="die-charaktererstellung.html"><a href="die-charaktererstellung.html#Fähigkeitsgruppen"><i class="fa fa-check"></i>Kosten Fähigkeitsgruppenverbesserung</a></li>
+<li class="chapter" data-level="" data-path="die-charaktererstellung.html"><a href="die-charaktererstellung.html#kosten-ausdauerverbesserung"><i class="fa fa-check"></i>Kosten Ausdauerverbesserung</a></li>
 </ul></li>
-<li class="chapter" data-level="48.11.3" data-path="DrogenPflanzen.html"><a href="DrogenPflanzen.html#Eigenheiten"><i class="fa fa-check"></i><b>48.11.3</b> Eigenheiten</a>
+<li class="chapter" data-level="50.4.3" data-path="die-charaktererstellung.html"><a href="die-charaktererstellung.html#Eigenheiten"><i class="fa fa-check"></i><b>50.4.3</b> Eigenheiten</a>
 <ul>
-<li class="chapter" data-level="" data-path="DrogenPflanzen.html"><a href="DrogenPflanzen.html#positive-eigenheiten"><i class="fa fa-check"></i>Positive Eigenheiten</a></li>
-<li class="chapter" data-level="" data-path="DrogenPflanzen.html"><a href="DrogenPflanzen.html#negative-eigenheiten"><i class="fa fa-check"></i>Negative Eigenheiten</a></li>
+<li class="chapter" data-level="" data-path="die-charaktererstellung.html"><a href="die-charaktererstellung.html#positive-eigenheiten"><i class="fa fa-check"></i>Positive Eigenheiten</a></li>
+<li class="chapter" data-level="" data-path="die-charaktererstellung.html"><a href="die-charaktererstellung.html#negative-eigenheiten"><i class="fa fa-check"></i>Negative Eigenheiten</a></li>
 </ul></li>
-<li class="chapter" data-level="48.11.4" data-path="DrogenPflanzen.html"><a href="DrogenPflanzen.html#Wissensfähigkeiten"><i class="fa fa-check"></i><b>48.11.4</b> Wissen und Sprachen</a></li>
-<li class="chapter" data-level="48.11.5" data-path="DrogenPflanzen.html"><a href="DrogenPflanzen.html#Kontakte"><i class="fa fa-check"></i><b>48.11.5</b> Kontakte</a></li>
-<li class="chapter" data-level="48.11.6" data-path="DrogenPflanzen.html"><a href="DrogenPflanzen.html#Rucksack"><i class="fa fa-check"></i><b>48.11.6</b> Rucksack</a></li>
-<li class="chapter" data-level="48.11.7" data-path="DrogenPflanzen.html"><a href="DrogenPflanzen.html#holster"><i class="fa fa-check"></i><b>48.11.7</b> Holster</a></li>
-<li class="chapter" data-level="48.11.8" data-path="DrogenPflanzen.html"><a href="DrogenPflanzen.html#ausrüstung-1"><i class="fa fa-check"></i><b>48.11.8</b> Ausrüstung</a></li>
-<li class="chapter" data-level="48.11.9" data-path="DrogenPflanzen.html"><a href="DrogenPflanzen.html#Gewicht"><i class="fa fa-check"></i><b>48.11.9</b> Die Rolle des Gewichts</a>
+<li class="chapter" data-level="50.4.4" data-path="die-charaktererstellung.html"><a href="die-charaktererstellung.html#Wissensfähigkeiten"><i class="fa fa-check"></i><b>50.4.4</b> Wissen und Sprachen</a></li>
+<li class="chapter" data-level="50.4.5" data-path="die-charaktererstellung.html"><a href="die-charaktererstellung.html#Kontakte"><i class="fa fa-check"></i><b>50.4.5</b> Kontakte</a></li>
+<li class="chapter" data-level="50.4.6" data-path="die-charaktererstellung.html"><a href="die-charaktererstellung.html#Rucksack"><i class="fa fa-check"></i><b>50.4.6</b> Rucksack</a></li>
+<li class="chapter" data-level="50.4.7" data-path="die-charaktererstellung.html"><a href="die-charaktererstellung.html#holster"><i class="fa fa-check"></i><b>50.4.7</b> Holster</a></li>
+<li class="chapter" data-level="50.4.8" data-path="die-charaktererstellung.html"><a href="die-charaktererstellung.html#ausrüstung-1"><i class="fa fa-check"></i><b>50.4.8</b> Ausrüstung</a></li>
+<li class="chapter" data-level="50.4.9" data-path="die-charaktererstellung.html"><a href="die-charaktererstellung.html#Gewicht"><i class="fa fa-check"></i><b>50.4.9</b> Die Rolle des Gewichts</a>
 <ul>
-<li class="chapter" data-level="48.11.9.1" data-path="DrogenPflanzen.html"><a href="DrogenPflanzen.html#AktivesGewicht"><i class="fa fa-check"></i><b>48.11.9.1</b> Das Aktive Gewicht</a></li>
-<li class="chapter" data-level="48.11.9.2" data-path="DrogenPflanzen.html"><a href="DrogenPflanzen.html#das-passive-gewicht"><i class="fa fa-check"></i><b>48.11.9.2</b> Das passive Gewicht</a></li>
-</ul></li>
-</ul></li>
-<li class="chapter" data-level="48.12" data-path="DrogenPflanzen.html"><a href="DrogenPflanzen.html#im-spiel"><i class="fa fa-check"></i><b>48.12</b> Im Spiel</a>
-<ul>
-<li class="chapter" data-level="48.12.1" data-path="DrogenPflanzen.html"><a href="DrogenPflanzen.html#modifikatoren"><i class="fa fa-check"></i><b>48.12.1</b> Modifikatoren</a></li>
-<li class="chapter" data-level="48.12.2" data-path="DrogenPflanzen.html"><a href="DrogenPflanzen.html#glaube"><i class="fa fa-check"></i><b>48.12.2</b> Glaube</a></li>
-<li class="chapter" data-level="48.12.3" data-path="DrogenPflanzen.html"><a href="DrogenPflanzen.html#glück"><i class="fa fa-check"></i><b>48.12.3</b> Glück</a></li>
-<li class="chapter" data-level="48.12.4" data-path="DrogenPflanzen.html"><a href="DrogenPflanzen.html#Geistesstärke"><i class="fa fa-check"></i><b>48.12.4</b> Geistesstärke</a>
-<ul>
-<li class="chapter" data-level="48.12.4.1" data-path="DrogenPflanzen.html"><a href="DrogenPflanzen.html#verfluchte-artefakte"><i class="fa fa-check"></i><b>48.12.4.1</b> Verfluchte Artefakte</a></li>
+<li class="chapter" data-level="50.4.9.1" data-path="die-charaktererstellung.html"><a href="die-charaktererstellung.html#AktivesGewicht"><i class="fa fa-check"></i><b>50.4.9.1</b> Das Aktive Gewicht</a></li>
+<li class="chapter" data-level="50.4.9.2" data-path="die-charaktererstellung.html"><a href="die-charaktererstellung.html#das-passive-gewicht"><i class="fa fa-check"></i><b>50.4.9.2</b> Das passive Gewicht</a></li>
 </ul></li>
 </ul></li>
-<li class="chapter" data-level="48.13" data-path="DrogenPflanzen.html"><a href="DrogenPflanzen.html#längerfristige-verletzungen"><i class="fa fa-check"></i><b>48.13</b> Längerfristige Verletzungen</a>
+<li class="chapter" data-level="50.5" data-path="die-charaktererstellung.html"><a href="die-charaktererstellung.html#im-spiel"><i class="fa fa-check"></i><b>50.5</b> Im Spiel</a>
 <ul>
-<li class="chapter" data-level="" data-path="DrogenPflanzen.html"><a href="DrogenPflanzen.html#Verstümmelung"><i class="fa fa-check"></i>Verstümmelung</a></li>
-<li class="chapter" data-level="" data-path="DrogenPflanzen.html"><a href="DrogenPflanzen.html#Verkrüppelung"><i class="fa fa-check"></i>Verkrüppelung</a></li>
+<li class="chapter" data-level="50.5.1" data-path="die-charaktererstellung.html"><a href="die-charaktererstellung.html#modifikatoren"><i class="fa fa-check"></i><b>50.5.1</b> Modifikatoren</a></li>
+<li class="chapter" data-level="50.5.2" data-path="die-charaktererstellung.html"><a href="die-charaktererstellung.html#glaube"><i class="fa fa-check"></i><b>50.5.2</b> Glaube</a></li>
+<li class="chapter" data-level="50.5.3" data-path="die-charaktererstellung.html"><a href="die-charaktererstellung.html#glück"><i class="fa fa-check"></i><b>50.5.3</b> Glück</a></li>
+<li class="chapter" data-level="50.5.4" data-path="die-charaktererstellung.html"><a href="die-charaktererstellung.html#Geistesstärke"><i class="fa fa-check"></i><b>50.5.4</b> Geistesstärke</a>
+<ul>
+<li class="chapter" data-level="50.5.4.1" data-path="die-charaktererstellung.html"><a href="die-charaktererstellung.html#verfluchte-artefakte"><i class="fa fa-check"></i><b>50.5.4.1</b> Verfluchte Artefakte</a></li>
 </ul></li>
-<li class="chapter" data-level="48.14" data-path="DrogenPflanzen.html"><a href="DrogenPflanzen.html#Ohnmacht"><i class="fa fa-check"></i><b>48.14</b> Ohnmacht und Tod</a></li>
 </ul></li>
-<li class="chapter" data-level="49" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html"><i class="fa fa-check"></i><b>49</b> Grundlagen des Spiels</a>
+<li class="chapter" data-level="50.6" data-path="die-charaktererstellung.html"><a href="die-charaktererstellung.html#längerfristige-verletzungen"><i class="fa fa-check"></i><b>50.6</b> Längerfristige Verletzungen</a>
 <ul>
-<li class="chapter" data-level="49.1" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#checks-und-proben"><i class="fa fa-check"></i><b>49.1</b> Checks und Proben</a>
+<li class="chapter" data-level="" data-path="die-charaktererstellung.html"><a href="die-charaktererstellung.html#Verstümmelung"><i class="fa fa-check"></i>Verstümmelung</a></li>
+<li class="chapter" data-level="" data-path="die-charaktererstellung.html"><a href="die-charaktererstellung.html#Verkrüppelung"><i class="fa fa-check"></i>Verkrüppelung</a></li>
+</ul></li>
+<li class="chapter" data-level="50.7" data-path="die-charaktererstellung.html"><a href="die-charaktererstellung.html#Ohnmacht"><i class="fa fa-check"></i><b>50.7</b> Ohnmacht und Tod</a></li>
+</ul></li>
+<li class="chapter" data-level="51" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html"><i class="fa fa-check"></i><b>51</b> Grundlagen des Spiels</a>
 <ul>
-<li class="chapter" data-level="49.1.1" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#die-einfache-probe"><i class="fa fa-check"></i><b>49.1.1</b> Die einfache Probe</a></li>
-<li class="chapter" data-level="49.1.2" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#die-differenzprobe"><i class="fa fa-check"></i><b>49.1.2</b> Die Differenzprobe</a>
+<li class="chapter" data-level="51.1" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#checks-und-proben"><i class="fa fa-check"></i><b>51.1</b> Checks und Proben</a>
+<ul>
+<li class="chapter" data-level="51.1.1" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#die-einfache-probe"><i class="fa fa-check"></i><b>51.1.1</b> Die einfache Probe</a></li>
+<li class="chapter" data-level="51.1.2" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#die-differenzprobe"><i class="fa fa-check"></i><b>51.1.2</b> Die Differenzprobe</a>
 <ul>
 <li class="chapter" data-level="" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#UntypischeProben"><i class="fa fa-check"></i>Untypische Proben</a></li>
 </ul></li>
-<li class="chapter" data-level="49.1.3" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#der-save"><i class="fa fa-check"></i><b>49.1.3</b> Der Save</a></li>
-<li class="chapter" data-level="49.1.4" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#advantagedisadvantage"><i class="fa fa-check"></i><b>49.1.4</b> Advantage/disadvantage</a></li>
-<li class="chapter" data-level="49.1.5" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#momentane-modifikatoren"><i class="fa fa-check"></i><b>49.1.5</b> Momentane Modifikatoren</a></li>
-<li class="chapter" data-level="49.1.6" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#Critical"><i class="fa fa-check"></i><b>49.1.6</b> Kritische Werte</a></li>
+<li class="chapter" data-level="51.1.3" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#der-save"><i class="fa fa-check"></i><b>51.1.3</b> Der Save</a></li>
+<li class="chapter" data-level="51.1.4" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#advantagedisadvantage"><i class="fa fa-check"></i><b>51.1.4</b> Advantage/disadvantage</a></li>
+<li class="chapter" data-level="51.1.5" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#momentane-modifikatoren"><i class="fa fa-check"></i><b>51.1.5</b> Momentane Modifikatoren</a></li>
+<li class="chapter" data-level="51.1.6" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#Critical"><i class="fa fa-check"></i><b>51.1.6</b> Kritische Werte</a></li>
 </ul></li>
-<li class="chapter" data-level="49.2" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#typische-saves"><i class="fa fa-check"></i><b>49.2</b> Typische Saves</a>
+<li class="chapter" data-level="51.2" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#typische-saves"><i class="fa fa-check"></i><b>51.2</b> Typische Saves</a>
 <ul>
-<li class="chapter" data-level="49.2.1" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#Ausdauersave"><i class="fa fa-check"></i><b>49.2.1</b> Ausdauersave</a></li>
-<li class="chapter" data-level="49.2.2" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#toxikologie-save"><i class="fa fa-check"></i><b>49.2.2</b> Toxikologie-Save</a></li>
-<li class="chapter" data-level="49.2.3" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#Lucksave"><i class="fa fa-check"></i><b>49.2.3</b> Glaube/Glück Save</a></li>
+<li class="chapter" data-level="51.2.1" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#Ausdauersave"><i class="fa fa-check"></i><b>51.2.1</b> Ausdauersave</a></li>
+<li class="chapter" data-level="51.2.2" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#toxikologie-save"><i class="fa fa-check"></i><b>51.2.2</b> Toxikologie-Save</a></li>
+<li class="chapter" data-level="51.2.3" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#Lucksave"><i class="fa fa-check"></i><b>51.2.3</b> Glaube/Glück Save</a></li>
 </ul></li>
-<li class="chapter" data-level="49.3" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#der-kampf"><i class="fa fa-check"></i><b>49.3</b> Der Kampf</a>
+<li class="chapter" data-level="51.3" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#der-kampf"><i class="fa fa-check"></i><b>51.3</b> Der Kampf</a>
 <ul>
-<li class="chapter" data-level="49.3.1" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#Initiative"><i class="fa fa-check"></i><b>49.3.1</b> Die Initiative</a></li>
-<li class="chapter" data-level="49.3.2" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#die-kampfrunde-und-die-kampfaktionen"><i class="fa fa-check"></i><b>49.3.2</b> Die Kampfrunde und die Kampfaktionen</a>
+<li class="chapter" data-level="51.3.1" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#Initiative"><i class="fa fa-check"></i><b>51.3.1</b> Die Initiative</a></li>
+<li class="chapter" data-level="51.3.2" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#die-kampfrunde-und-die-kampfaktionen"><i class="fa fa-check"></i><b>51.3.2</b> Die Kampfrunde und die Kampfaktionen</a>
 <ul>
 <li class="chapter" data-level="" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#Bewegungsradius"><i class="fa fa-check"></i>Die Bewegung und der Radius</a></li>
 <li class="chapter" data-level="" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#SingleAction"><i class="fa fa-check"></i>Die Single Action</a></li>
@@ -1556,28 +1579,28 @@
 <li class="chapter" data-level="" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#für-andere-blocken"><i class="fa fa-check"></i>Für andere Blocken</a></li>
 <li class="chapter" data-level="" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#deckung"><i class="fa fa-check"></i>Deckung</a></li>
 </ul></li>
-<li class="chapter" data-level="49.3.3" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#interrupt"><i class="fa fa-check"></i><b>49.3.3</b> Unterbrechen</a></li>
-<li class="chapter" data-level="49.3.4" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#schwerer-angriff"><i class="fa fa-check"></i><b>49.3.4</b> Schwerer Angriff</a></li>
-<li class="chapter" data-level="49.3.5" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#dual-wielding"><i class="fa fa-check"></i><b>49.3.5</b> Dual Wielding</a></li>
-<li class="chapter" data-level="49.3.6" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#der-schildstoß"><i class="fa fa-check"></i><b>49.3.6</b> Der Schildstoß</a></li>
-<li class="chapter" data-level="49.3.7" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#andere-angriffe-während-single-actions"><i class="fa fa-check"></i><b>49.3.7</b> Andere Angriffe während Single Actions</a></li>
-<li class="chapter" data-level="49.3.8" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#Schleichangriffe"><i class="fa fa-check"></i><b>49.3.8</b> Schleichangriffe</a>
+<li class="chapter" data-level="51.3.3" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#interrupt"><i class="fa fa-check"></i><b>51.3.3</b> Unterbrechen</a></li>
+<li class="chapter" data-level="51.3.4" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#schwerer-angriff"><i class="fa fa-check"></i><b>51.3.4</b> Schwerer Angriff</a></li>
+<li class="chapter" data-level="51.3.5" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#dual-wielding"><i class="fa fa-check"></i><b>51.3.5</b> Dual Wielding</a></li>
+<li class="chapter" data-level="51.3.6" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#der-schildstoß"><i class="fa fa-check"></i><b>51.3.6</b> Der Schildstoß</a></li>
+<li class="chapter" data-level="51.3.7" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#andere-angriffe-während-single-actions"><i class="fa fa-check"></i><b>51.3.7</b> Andere Angriffe während Single Actions</a></li>
+<li class="chapter" data-level="51.3.8" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#Schleichangriffe"><i class="fa fa-check"></i><b>51.3.8</b> Schleichangriffe</a>
 <ul>
 <li class="chapter" data-level="" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#das-attentat"><i class="fa fa-check"></i>Das Attentat</a></li>
 </ul></li>
-<li class="chapter" data-level="49.3.9" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#waffen-werfen-und-wurfwaffen"><i class="fa fa-check"></i><b>49.3.9</b> Waffen werfen und Wurfwaffen</a></li>
-<li class="chapter" data-level="49.3.10" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#GezielterSchuss"><i class="fa fa-check"></i><b>49.3.10</b> Gezielte Schüsse</a></li>
-<li class="chapter" data-level="49.3.11" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#FreieHand"><i class="fa fa-check"></i><b>49.3.11</b> Objekte während des Kampfes</a>
+<li class="chapter" data-level="51.3.9" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#waffen-werfen-und-wurfwaffen"><i class="fa fa-check"></i><b>51.3.9</b> Waffen werfen und Wurfwaffen</a></li>
+<li class="chapter" data-level="51.3.10" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#GezielterSchuss"><i class="fa fa-check"></i><b>51.3.10</b> Gezielte Schüsse</a></li>
+<li class="chapter" data-level="51.3.11" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#FreieHand"><i class="fa fa-check"></i><b>51.3.11</b> Objekte während des Kampfes</a>
 <ul>
 <li class="chapter" data-level="" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#Holster1"><i class="fa fa-check"></i>Holster</a></li>
 <li class="chapter" data-level="" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#Koecher"><i class="fa fa-check"></i>Köcher</a></li>
 <li class="chapter" data-level="" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#tranktaschen"><i class="fa fa-check"></i>Tranktaschen</a></li>
 </ul></li>
-<li class="chapter" data-level="49.3.12" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#KampfVomReittier"><i class="fa fa-check"></i><b>49.3.12</b> Kampf vom Reittier und das Reiten</a></li>
-<li class="chapter" data-level="49.3.13" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#UnbewaffneterKampf"><i class="fa fa-check"></i><b>49.3.13</b> Der Unbewaffnete Kampf</a></li>
-<li class="chapter" data-level="49.3.14" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#ArtillerieOverall"><i class="fa fa-check"></i><b>49.3.14</b> Artillerie</a></li>
-<li class="chapter" data-level="49.3.15" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#die-schadensverrechnung"><i class="fa fa-check"></i><b>49.3.15</b> Die Schadensverrechnung</a></li>
-<li class="chapter" data-level="49.3.16" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#damage-over-time"><i class="fa fa-check"></i><b>49.3.16</b> Damage Over Time</a>
+<li class="chapter" data-level="51.3.12" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#KampfVomReittier"><i class="fa fa-check"></i><b>51.3.12</b> Kampf vom Reittier und das Reiten</a></li>
+<li class="chapter" data-level="51.3.13" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#UnbewaffneterKampf"><i class="fa fa-check"></i><b>51.3.13</b> Der Unbewaffnete Kampf</a></li>
+<li class="chapter" data-level="51.3.14" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#ArtillerieOverall"><i class="fa fa-check"></i><b>51.3.14</b> Artillerie</a></li>
+<li class="chapter" data-level="51.3.15" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#die-schadensverrechnung"><i class="fa fa-check"></i><b>51.3.15</b> Die Schadensverrechnung</a></li>
+<li class="chapter" data-level="51.3.16" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#damage-over-time"><i class="fa fa-check"></i><b>51.3.16</b> Damage Over Time</a>
 <ul>
 <li class="chapter" data-level="" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#gift"><i class="fa fa-check"></i>Gift</a></li>
 <li class="chapter" data-level="" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#bluten"><i class="fa fa-check"></i>Bluten</a></li>
@@ -1585,146 +1608,146 @@
 <li class="chapter" data-level="" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#andere-statuseffekte"><i class="fa fa-check"></i>Andere Statuseffekte</a></li>
 </ul></li>
 </ul></li>
-<li class="chapter" data-level="49.4" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#reiserouten"><i class="fa fa-check"></i><b>49.4</b> Reiserouten</a></li>
-<li class="chapter" data-level="49.5" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#PauseRastSystem"><i class="fa fa-check"></i><b>49.5</b> Pause und Rast</a></li>
-<li class="chapter" data-level="49.6" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#downtime-aktivitäten"><i class="fa fa-check"></i><b>49.6</b> Downtime-Aktivitäten</a>
+<li class="chapter" data-level="51.4" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#reiserouten"><i class="fa fa-check"></i><b>51.4</b> Reiserouten</a></li>
+<li class="chapter" data-level="51.5" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#PauseRastSystem"><i class="fa fa-check"></i><b>51.5</b> Pause und Rast</a></li>
+<li class="chapter" data-level="51.6" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#downtime-aktivitäten"><i class="fa fa-check"></i><b>51.6</b> Downtime-Aktivitäten</a>
 <ul>
-<li class="chapter" data-level="49.6.1" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#jobs-und-andere-aktivitäten"><i class="fa fa-check"></i><b>49.6.1</b> Jobs und andere Aktivitäten</a></li>
-<li class="chapter" data-level="49.6.2" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#Training"><i class="fa fa-check"></i><b>49.6.2</b> Training</a></li>
-<li class="chapter" data-level="49.6.3" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#Studieren"><i class="fa fa-check"></i><b>49.6.3</b> Studieren</a></li>
+<li class="chapter" data-level="51.6.1" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#jobs-und-andere-aktivitäten"><i class="fa fa-check"></i><b>51.6.1</b> Jobs und andere Aktivitäten</a></li>
+<li class="chapter" data-level="51.6.2" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#Training"><i class="fa fa-check"></i><b>51.6.2</b> Training</a></li>
+<li class="chapter" data-level="51.6.3" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#Studieren"><i class="fa fa-check"></i><b>51.6.3</b> Studieren</a></li>
 </ul></li>
-<li class="chapter" data-level="49.7" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#Tiers"><i class="fa fa-check"></i><b>49.7</b> Die Stufen</a></li>
-<li class="chapter" data-level="49.8" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#Währung"><i class="fa fa-check"></i><b>49.8</b> Geld und Wechselkurse</a>
+<li class="chapter" data-level="51.7" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#Tiers"><i class="fa fa-check"></i><b>51.7</b> Die Stufen</a></li>
+<li class="chapter" data-level="51.8" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#Währung"><i class="fa fa-check"></i><b>51.8</b> Geld und Wechselkurse</a>
 <ul>
-<li class="chapter" data-level="49.8.1" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#einordnung-der-größenverhältnisse-von-geldbeträgen"><i class="fa fa-check"></i><b>49.8.1</b> Einordnung der Größenverhältnisse von Geldbeträgen</a></li>
+<li class="chapter" data-level="51.8.1" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#einordnung-der-größenverhältnisse-von-geldbeträgen"><i class="fa fa-check"></i><b>51.8.1</b> Einordnung der Größenverhältnisse von Geldbeträgen</a></li>
 </ul></li>
-<li class="chapter" data-level="49.9" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#Handelssystem"><i class="fa fa-check"></i><b>49.9</b> Handelssystem (to be implemented)</a></li>
-<li class="chapter" data-level="49.10" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#Lebenserhaltungskosten"><i class="fa fa-check"></i><b>49.10</b> Lebenshaltungskosten</a></li>
+<li class="chapter" data-level="51.9" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#Handelssystem"><i class="fa fa-check"></i><b>51.9</b> Handelssystem (to be implemented)</a></li>
+<li class="chapter" data-level="51.10" data-path="grundlagen-des-spiels.html"><a href="grundlagen-des-spiels.html#Lebenserhaltungskosten"><i class="fa fa-check"></i><b>51.10</b> Lebenshaltungskosten</a></li>
 </ul></li>
-<li class="chapter" data-level="50" data-path="besondere-regeln.html"><a href="besondere-regeln.html"><i class="fa fa-check"></i><b>50</b> Besondere Regeln</a>
+<li class="chapter" data-level="52" data-path="besondere-regeln.html"><a href="besondere-regeln.html"><i class="fa fa-check"></i><b>52</b> Besondere Regeln</a>
 <ul>
-<li class="chapter" data-level="50.1" data-path="besondere-regeln.html"><a href="besondere-regeln.html#AlchemieSystem"><i class="fa fa-check"></i><b>50.1</b> Die Alchemie</a>
+<li class="chapter" data-level="52.1" data-path="besondere-regeln.html"><a href="besondere-regeln.html#AlchemieSystem"><i class="fa fa-check"></i><b>52.1</b> Die Alchemie</a>
 <ul>
-<li class="chapter" data-level="50.1.1" data-path="besondere-regeln.html"><a href="besondere-regeln.html#HerstellungTränke"><i class="fa fa-check"></i><b>50.1.1</b> Herstellung von Tränken</a></li>
-<li class="chapter" data-level="50.1.2" data-path="besondere-regeln.html"><a href="besondere-regeln.html#inhibitoren"><i class="fa fa-check"></i><b>50.1.2</b> Inhibitoren</a></li>
-<li class="chapter" data-level="50.1.3" data-path="besondere-regeln.html"><a href="besondere-regeln.html#Epinephrin"><i class="fa fa-check"></i><b>50.1.3</b> Epinephrinika</a></li>
-<li class="chapter" data-level="50.1.4" data-path="besondere-regeln.html"><a href="besondere-regeln.html#downtime-alchemieaktionen"><i class="fa fa-check"></i><b>50.1.4</b> Downtime Alchemieaktionen</a></li>
+<li class="chapter" data-level="52.1.1" data-path="besondere-regeln.html"><a href="besondere-regeln.html#HerstellungTränke"><i class="fa fa-check"></i><b>52.1.1</b> Herstellung von Tränken</a></li>
+<li class="chapter" data-level="52.1.2" data-path="besondere-regeln.html"><a href="besondere-regeln.html#inhibitoren"><i class="fa fa-check"></i><b>52.1.2</b> Inhibitoren</a></li>
+<li class="chapter" data-level="52.1.3" data-path="besondere-regeln.html"><a href="besondere-regeln.html#Epinephrin"><i class="fa fa-check"></i><b>52.1.3</b> Epinephrinika</a></li>
+<li class="chapter" data-level="52.1.4" data-path="besondere-regeln.html"><a href="besondere-regeln.html#downtime-alchemieaktionen"><i class="fa fa-check"></i><b>52.1.4</b> Downtime Alchemieaktionen</a></li>
 </ul></li>
-<li class="chapter" data-level="50.2" data-path="besondere-regeln.html"><a href="besondere-regeln.html#Handwerksystem"><i class="fa fa-check"></i><b>50.2</b> Das Handwerk</a>
+<li class="chapter" data-level="52.2" data-path="besondere-regeln.html"><a href="besondere-regeln.html#Handwerksystem"><i class="fa fa-check"></i><b>52.2</b> Das Handwerk</a>
 <ul>
-<li class="chapter" data-level="50.2.1" data-path="besondere-regeln.html"><a href="besondere-regeln.html#materialkosten"><i class="fa fa-check"></i><b>50.2.1</b> Materialkosten</a></li>
-<li class="chapter" data-level="50.2.2" data-path="besondere-regeln.html"><a href="besondere-regeln.html#werkzeug"><i class="fa fa-check"></i><b>50.2.2</b> Werkzeug</a></li>
-<li class="chapter" data-level="50.2.3" data-path="besondere-regeln.html"><a href="besondere-regeln.html#reparieren"><i class="fa fa-check"></i><b>50.2.3</b> Reparieren</a></li>
-<li class="chapter" data-level="50.2.4" data-path="besondere-regeln.html"><a href="besondere-regeln.html#modifizieren"><i class="fa fa-check"></i><b>50.2.4</b> Modifizieren / Besondere Ausrüstung</a></li>
-<li class="chapter" data-level="50.2.5" data-path="besondere-regeln.html"><a href="besondere-regeln.html#Stufen"><i class="fa fa-check"></i><b>50.2.5</b> Herstellen, verbessern und Stufe erhöhen</a></li>
-<li class="chapter" data-level="50.2.6" data-path="besondere-regeln.html"><a href="besondere-regeln.html#verwertung"><i class="fa fa-check"></i><b>50.2.6</b> Verwertung</a></li>
-<li class="chapter" data-level="50.2.7" data-path="besondere-regeln.html"><a href="besondere-regeln.html#schmiede"><i class="fa fa-check"></i><b>50.2.7</b> Schmiede</a></li>
+<li class="chapter" data-level="52.2.1" data-path="besondere-regeln.html"><a href="besondere-regeln.html#materialkosten"><i class="fa fa-check"></i><b>52.2.1</b> Materialkosten</a></li>
+<li class="chapter" data-level="52.2.2" data-path="besondere-regeln.html"><a href="besondere-regeln.html#werkzeug"><i class="fa fa-check"></i><b>52.2.2</b> Werkzeug</a></li>
+<li class="chapter" data-level="52.2.3" data-path="besondere-regeln.html"><a href="besondere-regeln.html#reparieren"><i class="fa fa-check"></i><b>52.2.3</b> Reparieren</a></li>
+<li class="chapter" data-level="52.2.4" data-path="besondere-regeln.html"><a href="besondere-regeln.html#modifizieren"><i class="fa fa-check"></i><b>52.2.4</b> Modifizieren / Besondere Ausrüstung</a></li>
+<li class="chapter" data-level="52.2.5" data-path="besondere-regeln.html"><a href="besondere-regeln.html#Stufen"><i class="fa fa-check"></i><b>52.2.5</b> Herstellen, verbessern und Stufe erhöhen</a></li>
+<li class="chapter" data-level="52.2.6" data-path="besondere-regeln.html"><a href="besondere-regeln.html#verwertung"><i class="fa fa-check"></i><b>52.2.6</b> Verwertung</a></li>
+<li class="chapter" data-level="52.2.7" data-path="besondere-regeln.html"><a href="besondere-regeln.html#schmiede"><i class="fa fa-check"></i><b>52.2.7</b> Schmiede</a></li>
 </ul></li>
-<li class="chapter" data-level="50.3" data-path="besondere-regeln.html"><a href="besondere-regeln.html#InstrumenteRules"><i class="fa fa-check"></i><b>50.3</b> Musik und ihre Wirkung im Kampf</a></li>
-<li class="chapter" data-level="50.4" data-path="besondere-regeln.html"><a href="besondere-regeln.html#der-krieg-auf-see"><i class="fa fa-check"></i><b>50.4</b> Der Krieg auf See</a>
+<li class="chapter" data-level="52.3" data-path="besondere-regeln.html"><a href="besondere-regeln.html#InstrumenteRules"><i class="fa fa-check"></i><b>52.3</b> Musik und ihre Wirkung im Kampf</a></li>
+<li class="chapter" data-level="52.4" data-path="besondere-regeln.html"><a href="besondere-regeln.html#der-krieg-auf-see"><i class="fa fa-check"></i><b>52.4</b> Der Krieg auf See</a>
 <ul>
-<li class="chapter" data-level="50.4.1" data-path="besondere-regeln.html"><a href="besondere-regeln.html#allgemeines"><i class="fa fa-check"></i><b>50.4.1</b> Allgemeines</a>
+<li class="chapter" data-level="52.4.1" data-path="besondere-regeln.html"><a href="besondere-regeln.html#allgemeines"><i class="fa fa-check"></i><b>52.4.1</b> Allgemeines</a>
 <ul>
-<li class="chapter" data-level="50.4.1.1" data-path="besondere-regeln.html"><a href="besondere-regeln.html#kapern-und-versenken"><i class="fa fa-check"></i><b>50.4.1.1</b> Kapern und Versenken</a></li>
-<li class="chapter" data-level="50.4.1.2" data-path="besondere-regeln.html"><a href="besondere-regeln.html#schiffsarten"><i class="fa fa-check"></i><b>50.4.1.2</b> Schiffsarten</a></li>
+<li class="chapter" data-level="52.4.1.1" data-path="besondere-regeln.html"><a href="besondere-regeln.html#kapern-und-versenken"><i class="fa fa-check"></i><b>52.4.1.1</b> Kapern und Versenken</a></li>
+<li class="chapter" data-level="52.4.1.2" data-path="besondere-regeln.html"><a href="besondere-regeln.html#schiffsarten"><i class="fa fa-check"></i><b>52.4.1.2</b> Schiffsarten</a></li>
 </ul></li>
-<li class="chapter" data-level="50.4.2" data-path="besondere-regeln.html"><a href="besondere-regeln.html#schiffstypen"><i class="fa fa-check"></i><b>50.4.2</b> Schiffstypen</a>
+<li class="chapter" data-level="52.4.2" data-path="besondere-regeln.html"><a href="besondere-regeln.html#schiffstypen"><i class="fa fa-check"></i><b>52.4.2</b> Schiffstypen</a>
 <ul>
-<li class="chapter" data-level="50.4.2.1" data-path="besondere-regeln.html"><a href="besondere-regeln.html#ruderschiffe"><i class="fa fa-check"></i><b>50.4.2.1</b> Ruderschiffe</a></li>
-<li class="chapter" data-level="50.4.2.2" data-path="besondere-regeln.html"><a href="besondere-regeln.html#segelschiffe"><i class="fa fa-check"></i><b>50.4.2.2</b> Segelschiffe</a></li>
-<li class="chapter" data-level="50.4.2.3" data-path="besondere-regeln.html"><a href="besondere-regeln.html#werte-und-übersicht"><i class="fa fa-check"></i><b>50.4.2.3</b> Werte und Übersicht</a></li>
+<li class="chapter" data-level="52.4.2.1" data-path="besondere-regeln.html"><a href="besondere-regeln.html#ruderschiffe"><i class="fa fa-check"></i><b>52.4.2.1</b> Ruderschiffe</a></li>
+<li class="chapter" data-level="52.4.2.2" data-path="besondere-regeln.html"><a href="besondere-regeln.html#segelschiffe"><i class="fa fa-check"></i><b>52.4.2.2</b> Segelschiffe</a></li>
+<li class="chapter" data-level="52.4.2.3" data-path="besondere-regeln.html"><a href="besondere-regeln.html#werte-und-übersicht"><i class="fa fa-check"></i><b>52.4.2.3</b> Werte und Übersicht</a></li>
 </ul></li>
-<li class="chapter" data-level="50.4.3" data-path="besondere-regeln.html"><a href="besondere-regeln.html#schiffsbewaffnung"><i class="fa fa-check"></i><b>50.4.3</b> Schiffsbewaffnung</a>
+<li class="chapter" data-level="52.4.3" data-path="besondere-regeln.html"><a href="besondere-regeln.html#schiffsbewaffnung"><i class="fa fa-check"></i><b>52.4.3</b> Schiffsbewaffnung</a>
 <ul>
-<li class="chapter" data-level="50.4.3.1" data-path="besondere-regeln.html"><a href="besondere-regeln.html#SegelArtillerie"><i class="fa fa-check"></i><b>50.4.3.1</b> Artillerie</a></li>
-<li class="chapter" data-level="50.4.3.2" data-path="besondere-regeln.html"><a href="besondere-regeln.html#rammen"><i class="fa fa-check"></i><b>50.4.3.2</b> Rammen</a></li>
-<li class="chapter" data-level="50.4.3.3" data-path="besondere-regeln.html"><a href="besondere-regeln.html#kaperequipment"><i class="fa fa-check"></i><b>50.4.3.3</b> Kaperequipment</a></li>
-<li class="chapter" data-level="50.4.3.4" data-path="besondere-regeln.html"><a href="besondere-regeln.html#sonstige-waffen"><i class="fa fa-check"></i><b>50.4.3.4</b> Sonstige Waffen</a></li>
+<li class="chapter" data-level="52.4.3.1" data-path="besondere-regeln.html"><a href="besondere-regeln.html#SegelArtillerie"><i class="fa fa-check"></i><b>52.4.3.1</b> Artillerie</a></li>
+<li class="chapter" data-level="52.4.3.2" data-path="besondere-regeln.html"><a href="besondere-regeln.html#rammen"><i class="fa fa-check"></i><b>52.4.3.2</b> Rammen</a></li>
+<li class="chapter" data-level="52.4.3.3" data-path="besondere-regeln.html"><a href="besondere-regeln.html#kaperequipment"><i class="fa fa-check"></i><b>52.4.3.3</b> Kaperequipment</a></li>
+<li class="chapter" data-level="52.4.3.4" data-path="besondere-regeln.html"><a href="besondere-regeln.html#sonstige-waffen"><i class="fa fa-check"></i><b>52.4.3.4</b> Sonstige Waffen</a></li>
 </ul></li>
-<li class="chapter" data-level="50.4.4" data-path="besondere-regeln.html"><a href="besondere-regeln.html#schiffe-im-gefecht"><i class="fa fa-check"></i><b>50.4.4</b> Schiffe im Gefecht</a></li>
+<li class="chapter" data-level="52.4.4" data-path="besondere-regeln.html"><a href="besondere-regeln.html#schiffe-im-gefecht"><i class="fa fa-check"></i><b>52.4.4</b> Schiffe im Gefecht</a></li>
 </ul></li>
-<li class="chapter" data-level="50.5" data-path="besondere-regeln.html"><a href="besondere-regeln.html#Konstrukte"><i class="fa fa-check"></i><b>50.5</b> Konstrukte</a>
+<li class="chapter" data-level="52.5" data-path="besondere-regeln.html"><a href="besondere-regeln.html#Konstrukte"><i class="fa fa-check"></i><b>52.5</b> Konstrukte</a>
 <ul>
-<li class="chapter" data-level="50.5.1" data-path="besondere-regeln.html"><a href="besondere-regeln.html#allgemeines-1"><i class="fa fa-check"></i><b>50.5.1</b> Allgemeines</a></li>
-<li class="chapter" data-level="50.5.2" data-path="besondere-regeln.html"><a href="besondere-regeln.html#KonstruktResonanz"><i class="fa fa-check"></i><b>50.5.2</b> Kontrolle</a></li>
-<li class="chapter" data-level="50.5.3" data-path="besondere-regeln.html"><a href="besondere-regeln.html#essenzen"><i class="fa fa-check"></i><b>50.5.3</b> Essenzen</a>
+<li class="chapter" data-level="52.5.1" data-path="besondere-regeln.html"><a href="besondere-regeln.html#allgemeines-1"><i class="fa fa-check"></i><b>52.5.1</b> Allgemeines</a></li>
+<li class="chapter" data-level="52.5.2" data-path="besondere-regeln.html"><a href="besondere-regeln.html#KonstruktResonanz"><i class="fa fa-check"></i><b>52.5.2</b> Kontrolle</a></li>
+<li class="chapter" data-level="52.5.3" data-path="besondere-regeln.html"><a href="besondere-regeln.html#essenzen"><i class="fa fa-check"></i><b>52.5.3</b> Essenzen</a>
 <ul>
-<li class="chapter" data-level="50.5.3.1" data-path="besondere-regeln.html"><a href="besondere-regeln.html#die-völkerbeziehungen-der-rasse-3"><i class="fa fa-check"></i><b>50.5.3.1</b> Die Völkerbeziehungen der Rasse</a></li>
+<li class="chapter" data-level="52.5.3.1" data-path="besondere-regeln.html"><a href="besondere-regeln.html#die-völkerbeziehungen-der-rasse-3"><i class="fa fa-check"></i><b>52.5.3.1</b> Die Völkerbeziehungen der Rasse</a></li>
 </ul></li>
-<li class="chapter" data-level="50.5.4" data-path="besondere-regeln.html"><a href="besondere-regeln.html#KonstruktAnwendung"><i class="fa fa-check"></i><b>50.5.4</b> Einsatzfelder von Konstrukten</a>
+<li class="chapter" data-level="52.5.4" data-path="besondere-regeln.html"><a href="besondere-regeln.html#KonstruktAnwendung"><i class="fa fa-check"></i><b>52.5.4</b> Einsatzfelder von Konstrukten</a>
 <ul>
-<li class="chapter" data-level="50.5.4.1" data-path="besondere-regeln.html"><a href="besondere-regeln.html#konstruktarten-1"><i class="fa fa-check"></i><b>50.5.4.1</b> Konstruktarten</a></li>
-<li class="chapter" data-level="50.5.4.2" data-path="besondere-regeln.html"><a href="besondere-regeln.html#bau-1"><i class="fa fa-check"></i><b>50.5.4.2</b> Bau</a></li>
+<li class="chapter" data-level="52.5.4.1" data-path="besondere-regeln.html"><a href="besondere-regeln.html#konstruktarten-1"><i class="fa fa-check"></i><b>52.5.4.1</b> Konstruktarten</a></li>
+<li class="chapter" data-level="52.5.4.2" data-path="besondere-regeln.html"><a href="besondere-regeln.html#bau-1"><i class="fa fa-check"></i><b>52.5.4.2</b> Bau</a></li>
 </ul></li>
-<li class="chapter" data-level="50.5.5" data-path="besondere-regeln.html"><a href="besondere-regeln.html#verbreitung-von-konstrukten"><i class="fa fa-check"></i><b>50.5.5</b> Verbreitung von Konstrukten</a></li>
+<li class="chapter" data-level="52.5.5" data-path="besondere-regeln.html"><a href="besondere-regeln.html#verbreitung-von-konstrukten"><i class="fa fa-check"></i><b>52.5.5</b> Verbreitung von Konstrukten</a></li>
 </ul></li>
-<li class="chapter" data-level="50.6" data-path="besondere-regeln.html"><a href="besondere-regeln.html#Konstruktregeln"><i class="fa fa-check"></i><b>50.6</b> Konstrukte Regeln</a>
+<li class="chapter" data-level="52.6" data-path="besondere-regeln.html"><a href="besondere-regeln.html#Konstruktregeln"><i class="fa fa-check"></i><b>52.6</b> Konstrukte Regeln</a>
 <ul>
-<li class="chapter" data-level="50.6.1" data-path="besondere-regeln.html"><a href="besondere-regeln.html#kampf-1"><i class="fa fa-check"></i><b>50.6.1</b> Kampf</a></li>
-<li class="chapter" data-level="50.6.2" data-path="besondere-regeln.html"><a href="besondere-regeln.html#gliedmaßen-schwachpunkte"><i class="fa fa-check"></i><b>50.6.2</b> Gliedmaßen / Schwachpunkte</a></li>
-<li class="chapter" data-level="50.6.3" data-path="besondere-regeln.html"><a href="besondere-regeln.html#ladungen"><i class="fa fa-check"></i><b>50.6.3</b> Ladungen</a></li>
-<li class="chapter" data-level="50.6.4" data-path="besondere-regeln.html"><a href="besondere-regeln.html#anwendungen-für-ladungen"><i class="fa fa-check"></i><b>50.6.4</b> Anwendungen für Ladungen</a></li>
-<li class="chapter" data-level="50.6.5" data-path="besondere-regeln.html"><a href="besondere-regeln.html#VehikelFähigkeitKonstrukt"><i class="fa fa-check"></i><b>50.6.5</b> Vehikel Fähigkeit</a></li>
-<li class="chapter" data-level="50.6.6" data-path="besondere-regeln.html"><a href="besondere-regeln.html#reparatur"><i class="fa fa-check"></i><b>50.6.6</b> Reparatur</a></li>
-<li class="chapter" data-level="50.6.7" data-path="besondere-regeln.html"><a href="besondere-regeln.html#aufbau-und-herstellung"><i class="fa fa-check"></i><b>50.6.7</b> Aufbau und Herstellung</a>
+<li class="chapter" data-level="52.6.1" data-path="besondere-regeln.html"><a href="besondere-regeln.html#kampf-1"><i class="fa fa-check"></i><b>52.6.1</b> Kampf</a></li>
+<li class="chapter" data-level="52.6.2" data-path="besondere-regeln.html"><a href="besondere-regeln.html#gliedmaßen-schwachpunkte"><i class="fa fa-check"></i><b>52.6.2</b> Gliedmaßen / Schwachpunkte</a></li>
+<li class="chapter" data-level="52.6.3" data-path="besondere-regeln.html"><a href="besondere-regeln.html#ladungen"><i class="fa fa-check"></i><b>52.6.3</b> Ladungen</a></li>
+<li class="chapter" data-level="52.6.4" data-path="besondere-regeln.html"><a href="besondere-regeln.html#anwendungen-für-ladungen"><i class="fa fa-check"></i><b>52.6.4</b> Anwendungen für Ladungen</a></li>
+<li class="chapter" data-level="52.6.5" data-path="besondere-regeln.html"><a href="besondere-regeln.html#VehikelFähigkeitKonstrukt"><i class="fa fa-check"></i><b>52.6.5</b> Vehikel Fähigkeit</a></li>
+<li class="chapter" data-level="52.6.6" data-path="besondere-regeln.html"><a href="besondere-regeln.html#reparatur"><i class="fa fa-check"></i><b>52.6.6</b> Reparatur</a></li>
+<li class="chapter" data-level="52.6.7" data-path="besondere-regeln.html"><a href="besondere-regeln.html#aufbau-und-herstellung"><i class="fa fa-check"></i><b>52.6.7</b> Aufbau und Herstellung</a>
 <ul>
-<li class="chapter" data-level="50.6.7.1" data-path="besondere-regeln.html"><a href="besondere-regeln.html#FähigkeitenKonstrukt"><i class="fa fa-check"></i><b>50.6.7.1</b> Fähigkeiten</a></li>
-<li class="chapter" data-level="50.6.7.2" data-path="besondere-regeln.html"><a href="besondere-regeln.html#kern"><i class="fa fa-check"></i><b>50.6.7.2</b> Kern</a></li>
-<li class="chapter" data-level="50.6.7.3" data-path="besondere-regeln.html"><a href="besondere-regeln.html#corpus"><i class="fa fa-check"></i><b>50.6.7.3</b> Corpus</a></li>
-<li class="chapter" data-level="50.6.7.4" data-path="besondere-regeln.html"><a href="besondere-regeln.html#batterie"><i class="fa fa-check"></i><b>50.6.7.4</b> Batterie</a></li>
+<li class="chapter" data-level="52.6.7.1" data-path="besondere-regeln.html"><a href="besondere-regeln.html#FähigkeitenKonstrukt"><i class="fa fa-check"></i><b>52.6.7.1</b> Fähigkeiten</a></li>
+<li class="chapter" data-level="52.6.7.2" data-path="besondere-regeln.html"><a href="besondere-regeln.html#kern"><i class="fa fa-check"></i><b>52.6.7.2</b> Kern</a></li>
+<li class="chapter" data-level="52.6.7.3" data-path="besondere-regeln.html"><a href="besondere-regeln.html#corpus"><i class="fa fa-check"></i><b>52.6.7.3</b> Corpus</a></li>
+<li class="chapter" data-level="52.6.7.4" data-path="besondere-regeln.html"><a href="besondere-regeln.html#batterie"><i class="fa fa-check"></i><b>52.6.7.4</b> Batterie</a></li>
 </ul></li>
-<li class="chapter" data-level="50.6.8" data-path="besondere-regeln.html"><a href="besondere-regeln.html#batterie-in-session-aufladen"><i class="fa fa-check"></i><b>50.6.8</b> Batterie in Session Aufladen</a></li>
-<li class="chapter" data-level="50.6.9" data-path="besondere-regeln.html"><a href="besondere-regeln.html#erweiterungen-waffen-upgrades-und-zusätzliches"><i class="fa fa-check"></i><b>50.6.9</b> Erweiterungen: Waffen, Upgrades und zusätzliches</a>
+<li class="chapter" data-level="52.6.8" data-path="besondere-regeln.html"><a href="besondere-regeln.html#batterie-in-session-aufladen"><i class="fa fa-check"></i><b>52.6.8</b> Batterie in Session Aufladen</a></li>
+<li class="chapter" data-level="52.6.9" data-path="besondere-regeln.html"><a href="besondere-regeln.html#erweiterungen-waffen-upgrades-und-zusätzliches"><i class="fa fa-check"></i><b>52.6.9</b> Erweiterungen: Waffen, Upgrades und zusätzliches</a>
 <ul>
-<li class="chapter" data-level="50.6.9.1" data-path="besondere-regeln.html"><a href="besondere-regeln.html#upgrades"><i class="fa fa-check"></i><b>50.6.9.1</b> Upgrades:</a></li>
-<li class="chapter" data-level="50.6.9.2" data-path="besondere-regeln.html"><a href="besondere-regeln.html#konstrukt-waffen"><i class="fa fa-check"></i><b>50.6.9.2</b> Konstrukt Waffen:</a></li>
-<li class="chapter" data-level="50.6.9.3" data-path="besondere-regeln.html"><a href="besondere-regeln.html#KonstruktAddons"><i class="fa fa-check"></i><b>50.6.9.3</b> Addons:</a></li>
+<li class="chapter" data-level="52.6.9.1" data-path="besondere-regeln.html"><a href="besondere-regeln.html#upgrades"><i class="fa fa-check"></i><b>52.6.9.1</b> Upgrades:</a></li>
+<li class="chapter" data-level="52.6.9.2" data-path="besondere-regeln.html"><a href="besondere-regeln.html#konstrukt-waffen"><i class="fa fa-check"></i><b>52.6.9.2</b> Konstrukt Waffen:</a></li>
+<li class="chapter" data-level="52.6.9.3" data-path="besondere-regeln.html"><a href="besondere-regeln.html#KonstruktAddons"><i class="fa fa-check"></i><b>52.6.9.3</b> Addons:</a></li>
 </ul></li>
-<li class="chapter" data-level="50.6.10" data-path="besondere-regeln.html"><a href="besondere-regeln.html#beispiel-konstrukt-erstellung"><i class="fa fa-check"></i><b>50.6.10</b> Beispiel Konstrukt Erstellung</a></li>
+<li class="chapter" data-level="52.6.10" data-path="besondere-regeln.html"><a href="besondere-regeln.html#beispiel-konstrukt-erstellung"><i class="fa fa-check"></i><b>52.6.10</b> Beispiel Konstrukt Erstellung</a></li>
 </ul></li>
-<li class="chapter" data-level="50.7" data-path="besondere-regeln.html"><a href="besondere-regeln.html#AnimalHandling"><i class="fa fa-check"></i><b>50.7</b> Tiere als Begleiter</a>
+<li class="chapter" data-level="52.7" data-path="besondere-regeln.html"><a href="besondere-regeln.html#AnimalHandling"><i class="fa fa-check"></i><b>52.7</b> Tiere als Begleiter</a>
 <ul>
-<li class="chapter" data-level="50.7.1" data-path="besondere-regeln.html"><a href="besondere-regeln.html#an-tieren-zu-beachten"><i class="fa fa-check"></i><b>50.7.1</b> An Tieren zu beachten</a></li>
-<li class="chapter" data-level="50.7.2" data-path="besondere-regeln.html"><a href="besondere-regeln.html#erlernbare-fähigkeiten"><i class="fa fa-check"></i><b>50.7.2</b> Erlernbare Fähigkeiten</a></li>
-<li class="chapter" data-level="50.7.3" data-path="besondere-regeln.html"><a href="besondere-regeln.html#das-zähmen-eines-wildtiers"><i class="fa fa-check"></i><b>50.7.3</b> Das Zähmen eines Wildtiers</a></li>
-<li class="chapter" data-level="50.7.4" data-path="besondere-regeln.html"><a href="besondere-regeln.html#TierTraining"><i class="fa fa-check"></i><b>50.7.4</b> Training</a>
+<li class="chapter" data-level="52.7.1" data-path="besondere-regeln.html"><a href="besondere-regeln.html#an-tieren-zu-beachten"><i class="fa fa-check"></i><b>52.7.1</b> An Tieren zu beachten</a></li>
+<li class="chapter" data-level="52.7.2" data-path="besondere-regeln.html"><a href="besondere-regeln.html#erlernbare-fähigkeiten"><i class="fa fa-check"></i><b>52.7.2</b> Erlernbare Fähigkeiten</a></li>
+<li class="chapter" data-level="52.7.3" data-path="besondere-regeln.html"><a href="besondere-regeln.html#das-zähmen-eines-wildtiers"><i class="fa fa-check"></i><b>52.7.3</b> Das Zähmen eines Wildtiers</a></li>
+<li class="chapter" data-level="52.7.4" data-path="besondere-regeln.html"><a href="besondere-regeln.html#TierTraining"><i class="fa fa-check"></i><b>52.7.4</b> Training</a>
 <ul>
-<li class="chapter" data-level="50.7.4.1" data-path="besondere-regeln.html"><a href="besondere-regeln.html#preis"><i class="fa fa-check"></i><b>50.7.4.1</b> Preis</a></li>
+<li class="chapter" data-level="52.7.4.1" data-path="besondere-regeln.html"><a href="besondere-regeln.html#preis"><i class="fa fa-check"></i><b>52.7.4.1</b> Preis</a></li>
 </ul></li>
-<li class="chapter" data-level="50.7.5" data-path="besondere-regeln.html"><a href="besondere-regeln.html#loyalität"><i class="fa fa-check"></i><b>50.7.5</b> Loyalität</a></li>
-<li class="chapter" data-level="50.7.6" data-path="besondere-regeln.html"><a href="besondere-regeln.html#ausführung"><i class="fa fa-check"></i><b>50.7.6</b> Ausführung</a></li>
-<li class="chapter" data-level="50.7.7" data-path="besondere-regeln.html"><a href="besondere-regeln.html#maximale-tieranzahl"><i class="fa fa-check"></i><b>50.7.7</b> Maximale Tieranzahl</a></li>
-<li class="chapter" data-level="50.7.8" data-path="besondere-regeln.html"><a href="besondere-regeln.html#tierschaden"><i class="fa fa-check"></i><b>50.7.8</b> Tierschaden</a></li>
+<li class="chapter" data-level="52.7.5" data-path="besondere-regeln.html"><a href="besondere-regeln.html#loyalität"><i class="fa fa-check"></i><b>52.7.5</b> Loyalität</a></li>
+<li class="chapter" data-level="52.7.6" data-path="besondere-regeln.html"><a href="besondere-regeln.html#ausführung"><i class="fa fa-check"></i><b>52.7.6</b> Ausführung</a></li>
+<li class="chapter" data-level="52.7.7" data-path="besondere-regeln.html"><a href="besondere-regeln.html#maximale-tieranzahl"><i class="fa fa-check"></i><b>52.7.7</b> Maximale Tieranzahl</a></li>
+<li class="chapter" data-level="52.7.8" data-path="besondere-regeln.html"><a href="besondere-regeln.html#tierschaden"><i class="fa fa-check"></i><b>52.7.8</b> Tierschaden</a></li>
 </ul></li>
 </ul></li>
-<li class="chapter" data-level="51" data-path="Items.html"><a href="Items.html"><i class="fa fa-check"></i><b>51</b> Items</a>
+<li class="chapter" data-level="53" data-path="Items.html"><a href="Items.html"><i class="fa fa-check"></i><b>53</b> Items</a>
 <ul>
-<li class="chapter" data-level="51.1" data-path="Items.html"><a href="Items.html#Zustand"><i class="fa fa-check"></i><b>51.1</b> Zustand</a></li>
-<li class="chapter" data-level="51.2" data-path="Items.html"><a href="Items.html#Waffen"><i class="fa fa-check"></i><b>51.2</b> Waffen</a>
+<li class="chapter" data-level="53.1" data-path="Items.html"><a href="Items.html#Zustand"><i class="fa fa-check"></i><b>53.1</b> Zustand</a></li>
+<li class="chapter" data-level="53.2" data-path="Items.html"><a href="Items.html#Waffen"><i class="fa fa-check"></i><b>53.2</b> Waffen</a>
 <ul>
-<li class="chapter" data-level="51.2.1" data-path="Items.html"><a href="Items.html#Fernwaffen"><i class="fa fa-check"></i><b>51.2.1</b> Fernwaffen</a>
+<li class="chapter" data-level="53.2.1" data-path="Items.html"><a href="Items.html#Fernwaffen"><i class="fa fa-check"></i><b>53.2.1</b> Fernwaffen</a>
 <ul>
-<li class="chapter" data-level="51.2.1.1" data-path="Items.html"><a href="Items.html#Ammo"><i class="fa fa-check"></i><b>51.2.1.1</b> Munitionstypen</a></li>
+<li class="chapter" data-level="53.2.1.1" data-path="Items.html"><a href="Items.html#Ammo"><i class="fa fa-check"></i><b>53.2.1.1</b> Munitionstypen</a></li>
 </ul></li>
-<li class="chapter" data-level="51.2.2" data-path="Items.html"><a href="Items.html#Kurzwaffen"><i class="fa fa-check"></i><b>51.2.2</b> Kurzwaffen</a></li>
-<li class="chapter" data-level="51.2.3" data-path="Items.html"><a href="Items.html#Großwaffen"><i class="fa fa-check"></i><b>51.2.3</b> Großwaffen</a></li>
-<li class="chapter" data-level="51.2.4" data-path="Items.html"><a href="Items.html#Stangenwaffen"><i class="fa fa-check"></i><b>51.2.4</b> Stangenwaffen</a></li>
-<li class="chapter" data-level="51.2.5" data-path="Items.html"><a href="Items.html#Wurfwaffen"><i class="fa fa-check"></i><b>51.2.5</b> Wurfwaffen</a></li>
-<li class="chapter" data-level="51.2.6" data-path="Items.html"><a href="Items.html#Faustwaffen"><i class="fa fa-check"></i><b>51.2.6</b> Faustwaffen</a></li>
+<li class="chapter" data-level="53.2.2" data-path="Items.html"><a href="Items.html#Kurzwaffen"><i class="fa fa-check"></i><b>53.2.2</b> Kurzwaffen</a></li>
+<li class="chapter" data-level="53.2.3" data-path="Items.html"><a href="Items.html#Großwaffen"><i class="fa fa-check"></i><b>53.2.3</b> Großwaffen</a></li>
+<li class="chapter" data-level="53.2.4" data-path="Items.html"><a href="Items.html#Stangenwaffen"><i class="fa fa-check"></i><b>53.2.4</b> Stangenwaffen</a></li>
+<li class="chapter" data-level="53.2.5" data-path="Items.html"><a href="Items.html#Wurfwaffen"><i class="fa fa-check"></i><b>53.2.5</b> Wurfwaffen</a></li>
+<li class="chapter" data-level="53.2.6" data-path="Items.html"><a href="Items.html#Faustwaffen"><i class="fa fa-check"></i><b>53.2.6</b> Faustwaffen</a></li>
 </ul></li>
-<li class="chapter" data-level="51.3" data-path="Items.html"><a href="Items.html#Rüstung"><i class="fa fa-check"></i><b>51.3</b> Rüstung</a>
+<li class="chapter" data-level="53.3" data-path="Items.html"><a href="Items.html#Rüstung"><i class="fa fa-check"></i><b>53.3</b> Rüstung</a>
 <ul>
-<li class="chapter" data-level="51.3.1" data-path="Items.html"><a href="Items.html#Schilde"><i class="fa fa-check"></i><b>51.3.1</b> Schild</a></li>
+<li class="chapter" data-level="53.3.1" data-path="Items.html"><a href="Items.html#Schilde"><i class="fa fa-check"></i><b>53.3.1</b> Schild</a></li>
 </ul></li>
-<li class="chapter" data-level="51.4" data-path="Items.html"><a href="Items.html#Tranktaschen"><i class="fa fa-check"></i><b>51.4</b> Tranktaschen</a></li>
-<li class="chapter" data-level="51.5" data-path="Items.html"><a href="Items.html#Tränke"><i class="fa fa-check"></i><b>51.5</b> Tränke</a>
+<li class="chapter" data-level="53.4" data-path="Items.html"><a href="Items.html#Tranktaschen"><i class="fa fa-check"></i><b>53.4</b> Tranktaschen</a></li>
+<li class="chapter" data-level="53.5" data-path="Items.html"><a href="Items.html#Tränke"><i class="fa fa-check"></i><b>53.5</b> Tränke</a>
 <ul>
-<li class="chapter" data-level="51.5.1" data-path="Items.html"><a href="Items.html#wirkungen-von-tränken"><i class="fa fa-check"></i><b>51.5.1</b> Wirkungen von Tränken:</a></li>
+<li class="chapter" data-level="53.5.1" data-path="Items.html"><a href="Items.html#wirkungen-von-tränken"><i class="fa fa-check"></i><b>53.5.1</b> Wirkungen von Tränken:</a></li>
 </ul></li>
-<li class="chapter" data-level="51.6" data-path="Items.html"><a href="Items.html#instrumente"><i class="fa fa-check"></i><b>51.6</b> Instrumente</a></li>
-<li class="chapter" data-level="51.7" data-path="Items.html"><a href="Items.html#fallen"><i class="fa fa-check"></i><b>51.7</b> Fallen</a>
+<li class="chapter" data-level="53.6" data-path="Items.html"><a href="Items.html#instrumente"><i class="fa fa-check"></i><b>53.6</b> Instrumente</a></li>
+<li class="chapter" data-level="53.7" data-path="Items.html"><a href="Items.html#fallen"><i class="fa fa-check"></i><b>53.7</b> Fallen</a>
 <ul>
-<li class="chapter" data-level="51.7.1" data-path="Items.html"><a href="Items.html#typische-fallen"><i class="fa fa-check"></i><b>51.7.1</b> Typische Fallen</a>
+<li class="chapter" data-level="53.7.1" data-path="Items.html"><a href="Items.html#typische-fallen"><i class="fa fa-check"></i><b>53.7.1</b> Typische Fallen</a>
 <ul>
 <li class="chapter" data-level="" data-path="Items.html"><a href="Items.html#bärenfalle"><i class="fa fa-check"></i>Bärenfalle</a></li>
 <li class="chapter" data-level="" data-path="Items.html"><a href="Items.html#schlingenfalle"><i class="fa fa-check"></i>Schlingenfalle</a></li>
@@ -1733,39 +1756,40 @@
 <li class="chapter" data-level="" data-path="Items.html"><a href="Items.html#alternative-fallen"><i class="fa fa-check"></i>Alternative Fallen</a></li>
 </ul></li>
 </ul></li>
-<li class="chapter" data-level="51.8" data-path="Items.html"><a href="Items.html#Mounts"><i class="fa fa-check"></i><b>51.8</b> Reittiere</a></li>
-<li class="chapter" data-level="51.9" data-path="Items.html"><a href="Items.html#AndereGegenstände"><i class="fa fa-check"></i><b>51.9</b> Andere Gegenstände</a>
+<li class="chapter" data-level="53.8" data-path="Items.html"><a href="Items.html#Mounts"><i class="fa fa-check"></i><b>53.8</b> Reittiere</a></li>
+<li class="chapter" data-level="53.9" data-path="Items.html"><a href="Items.html#AndereGegenstände"><i class="fa fa-check"></i><b>53.9</b> Andere Gegenstände</a>
 <ul>
-<li class="chapter" data-level="51.9.1" data-path="Items.html"><a href="Items.html#kleinode"><i class="fa fa-check"></i><b>51.9.1</b> Kleinode</a></li>
+<li class="chapter" data-level="53.9.1" data-path="Items.html"><a href="Items.html#kleinode"><i class="fa fa-check"></i><b>53.9.1</b> Kleinode</a></li>
 </ul></li>
 </ul></li>
-<li class="chapter" data-level="52" data-path="dienstleistungen.html"><a href="dienstleistungen.html"><i class="fa fa-check"></i><b>52</b> Dienstleistungen</a>
+<li class="chapter" data-level="54" data-path="dienstleistungen.html"><a href="dienstleistungen.html"><i class="fa fa-check"></i><b>54</b> Dienstleistungen</a>
 <ul>
-<li class="chapter" data-level="52.1" data-path="dienstleistungen.html"><a href="dienstleistungen.html#Schmiedekosten"><i class="fa fa-check"></i><b>52.1</b> Schmiede</a></li>
-<li class="chapter" data-level="52.2" data-path="dienstleistungen.html"><a href="dienstleistungen.html#section-4"><i class="fa fa-check"></i><b>52.2</b> </a></li>
+<li class="chapter" data-level="54.1" data-path="dienstleistungen.html"><a href="dienstleistungen.html#Schmiedekosten"><i class="fa fa-check"></i><b>54.1</b> Schmiede</a></li>
+<li class="chapter" data-level="54.2" data-path="dienstleistungen.html"><a href="dienstleistungen.html#section-5"><i class="fa fa-check"></i><b>54.2</b> </a></li>
 </ul></li>
-<li class="chapter" data-level="" data-path=""><a href="#part-dm-sektion"><i class="fa fa-check"></i>(PART) DM-Sektion</a>
+<li class="part"><span><b>IX DM-Sektion</b></span></li>
+<li class="chapter" data-level="55" data-path="für-dms-und-die-die-es-werden-wollen.html"><a href="für-dms-und-die-die-es-werden-wollen.html"><i class="fa fa-check"></i><b>55</b> Für DM’s und die, die es werden Wollen</a>
 <ul>
-<li class="chapter" data-level="52.3" data-path="dienstleistungen.html"><a href="dienstleistungen.html#Abstufungen"><i class="fa fa-check"></i><b>52.3</b> Wie intepretiere ich Values und Würfe</a>
+<li class="chapter" data-level="55.1" data-path="für-dms-und-die-die-es-werden-wollen.html"><a href="für-dms-und-die-die-es-werden-wollen.html#Abstufungen"><i class="fa fa-check"></i><b>55.1</b> Wie intepretiere ich Values und Würfe</a>
 <ul>
-<li class="chapter" data-level="52.3.1" data-path="dienstleistungen.html"><a href="dienstleistungen.html#was-machen-kritische-würfe"><i class="fa fa-check"></i><b>52.3.1</b> Was machen kritische Würfe</a></li>
+<li class="chapter" data-level="55.1.1" data-path="für-dms-und-die-die-es-werden-wollen.html"><a href="für-dms-und-die-die-es-werden-wollen.html#was-machen-kritische-würfe"><i class="fa fa-check"></i><b>55.1.1</b> Was machen kritische Würfe</a></li>
 </ul></li>
-<li class="chapter" data-level="52.4" data-path="dienstleistungen.html"><a href="dienstleistungen.html#queststufen"><i class="fa fa-check"></i><b>52.4</b> Queststufen</a></li>
+<li class="chapter" data-level="55.2" data-path="für-dms-und-die-die-es-werden-wollen.html"><a href="für-dms-und-die-die-es-werden-wollen.html#queststufen"><i class="fa fa-check"></i><b>55.2</b> Queststufen</a></li>
 </ul></li>
-<li class="chapter" data-level="53" data-path="installation-und-nutzung-des-orbisdmapp-programmes.html"><a href="installation-und-nutzung-des-orbisdmapp-programmes.html"><i class="fa fa-check"></i><b>53</b> Installation und Nutzung des OrbisDMApp-Programmes</a>
+<li class="chapter" data-level="56" data-path="installation-und-nutzung-des-orbisdmapp-programmes.html"><a href="installation-und-nutzung-des-orbisdmapp-programmes.html"><i class="fa fa-check"></i><b>56</b> Installation und Nutzung des OrbisDMApp-Programmes</a>
 <ul>
-<li class="chapter" data-level="53.1" data-path="installation-und-nutzung-des-orbisdmapp-programmes.html"><a href="installation-und-nutzung-des-orbisdmapp-programmes.html#DMAppDownload"><i class="fa fa-check"></i><b>53.1</b> Installation</a>
+<li class="chapter" data-level="56.1" data-path="installation-und-nutzung-des-orbisdmapp-programmes.html"><a href="installation-und-nutzung-des-orbisdmapp-programmes.html#DMAppDownload"><i class="fa fa-check"></i><b>56.1</b> Installation</a>
 <ul>
-<li class="chapter" data-level="53.1.1" data-path="installation-und-nutzung-des-orbisdmapp-programmes.html"><a href="installation-und-nutzung-des-orbisdmapp-programmes.html#OrbisGame"><i class="fa fa-check"></i><b>53.1.1</b> Ordner OrbisGame</a></li>
-<li class="chapter" data-level="53.1.2" data-path="installation-und-nutzung-des-orbisdmapp-programmes.html"><a href="installation-und-nutzung-des-orbisdmapp-programmes.html#OrbisDMApp"><i class="fa fa-check"></i><b>53.1.2</b> Ordner Orbis Launcher und App-Ausführung</a></li>
+<li class="chapter" data-level="56.1.1" data-path="installation-und-nutzung-des-orbisdmapp-programmes.html"><a href="installation-und-nutzung-des-orbisdmapp-programmes.html#OrbisGame"><i class="fa fa-check"></i><b>56.1.1</b> Ordner OrbisGame</a></li>
+<li class="chapter" data-level="56.1.2" data-path="installation-und-nutzung-des-orbisdmapp-programmes.html"><a href="installation-und-nutzung-des-orbisdmapp-programmes.html#OrbisDMApp"><i class="fa fa-check"></i><b>56.1.2</b> Ordner Orbis Launcher und App-Ausführung</a></li>
 </ul></li>
-<li class="chapter" data-level="53.2" data-path="installation-und-nutzung-des-orbisdmapp-programmes.html"><a href="installation-und-nutzung-des-orbisdmapp-programmes.html#noch-einbringen"><i class="fa fa-check"></i><b>53.2</b> noch einbringen</a></li>
-<li class="chapter" data-level="53.3" data-path="installation-und-nutzung-des-orbisdmapp-programmes.html"><a href="installation-und-nutzung-des-orbisdmapp-programmes.html#nutzung-der-dm-app"><i class="fa fa-check"></i><b>53.3</b> Nutzung der DM-App</a>
+<li class="chapter" data-level="56.2" data-path="installation-und-nutzung-des-orbisdmapp-programmes.html"><a href="installation-und-nutzung-des-orbisdmapp-programmes.html#noch-einbringen"><i class="fa fa-check"></i><b>56.2</b> noch einbringen</a></li>
+<li class="chapter" data-level="56.3" data-path="installation-und-nutzung-des-orbisdmapp-programmes.html"><a href="installation-und-nutzung-des-orbisdmapp-programmes.html#nutzung-der-dm-app"><i class="fa fa-check"></i><b>56.3</b> Nutzung der DM-App</a>
 <ul>
-<li class="chapter" data-level="53.3.1" data-path="installation-und-nutzung-des-orbisdmapp-programmes.html"><a href="installation-und-nutzung-des-orbisdmapp-programmes.html#DMAppErstellung"><i class="fa fa-check"></i><b>53.3.1</b> Erstellung</a>
+<li class="chapter" data-level="56.3.1" data-path="installation-und-nutzung-des-orbisdmapp-programmes.html"><a href="installation-und-nutzung-des-orbisdmapp-programmes.html#DMAppErstellung"><i class="fa fa-check"></i><b>56.3.1</b> Erstellung</a>
 <ul>
 <li class="chapter" data-level="" data-path="installation-und-nutzung-des-orbisdmapp-programmes.html"><a href="installation-und-nutzung-des-orbisdmapp-programmes.html#DMAppPersonen"><i class="fa fa-check"></i>Personen</a></li>
-<li class="chapter" data-level="53.3.1.1" data-path="installation-und-nutzung-des-orbisdmapp-programmes.html"><a href="installation-und-nutzung-des-orbisdmapp-programmes.html#eigene-profile-monster-und-andere-schöpfungen"><i class="fa fa-check"></i><b>53.3.1.1</b> Eigene Profile, Monster und andere Schöpfungen</a></li>
+<li class="chapter" data-level="56.3.1.1" data-path="installation-und-nutzung-des-orbisdmapp-programmes.html"><a href="installation-und-nutzung-des-orbisdmapp-programmes.html#eigene-profile-monster-und-andere-schöpfungen"><i class="fa fa-check"></i><b>56.3.1.1</b> Eigene Profile, Monster und andere Schöpfungen</a></li>
 <li class="chapter" data-level="" data-path="installation-und-nutzung-des-orbisdmapp-programmes.html"><a href="installation-und-nutzung-des-orbisdmapp-programmes.html#DMAppMonster"><i class="fa fa-check"></i>Monster</a></li>
 <li class="chapter" data-level="" data-path="installation-und-nutzung-des-orbisdmapp-programmes.html"><a href="installation-und-nutzung-des-orbisdmapp-programmes.html#DMAppTiere"><i class="fa fa-check"></i>Tiere</a></li>
 <li class="chapter" data-level="" data-path="installation-und-nutzung-des-orbisdmapp-programmes.html"><a href="installation-und-nutzung-des-orbisdmapp-programmes.html#DMAppKonstrukte"><i class="fa fa-check"></i>Konstrukte</a></li>
@@ -1773,7 +1797,7 @@
 <li class="chapter" data-level="" data-path="installation-und-nutzung-des-orbisdmapp-programmes.html"><a href="installation-und-nutzung-des-orbisdmapp-programmes.html#DMAppStrukturen"><i class="fa fa-check"></i>Strukturen</a></li>
 <li class="chapter" data-level="" data-path="installation-und-nutzung-des-orbisdmapp-programmes.html"><a href="installation-und-nutzung-des-orbisdmapp-programmes.html#DMAppListen"><i class="fa fa-check"></i>Listen</a></li>
 </ul></li>
-<li class="chapter" data-level="53.3.2" data-path="installation-und-nutzung-des-orbisdmapp-programmes.html"><a href="installation-und-nutzung-des-orbisdmapp-programmes.html#DMAppDMÜbersicht"><i class="fa fa-check"></i><b>53.3.2</b> DM-Übersicht</a>
+<li class="chapter" data-level="56.3.2" data-path="installation-und-nutzung-des-orbisdmapp-programmes.html"><a href="installation-und-nutzung-des-orbisdmapp-programmes.html#DMAppDMÜbersicht"><i class="fa fa-check"></i><b>56.3.2</b> DM-Übersicht</a>
 <ul>
 <li class="chapter" data-level="" data-path="installation-und-nutzung-des-orbisdmapp-programmes.html"><a href="installation-und-nutzung-des-orbisdmapp-programmes.html#DMAppElementeShow"><i class="fa fa-check"></i>Elemente- und Show-Tab</a></li>
 <li class="chapter" data-level="" data-path="installation-und-nutzung-des-orbisdmapp-programmes.html"><a href="installation-und-nutzung-des-orbisdmapp-programmes.html#DMAppBeschreiben"><i class="fa fa-check"></i>Beschreiben</a></li>
@@ -1781,7 +1805,7 @@
 <li class="chapter" data-level="" data-path="installation-und-nutzung-des-orbisdmapp-programmes.html"><a href="installation-und-nutzung-des-orbisdmapp-programmes.html#DMAppZurücksetzen"><i class="fa fa-check"></i>Zurücksetzen</a></li>
 <li class="chapter" data-level="" data-path="installation-und-nutzung-des-orbisdmapp-programmes.html"><a href="installation-und-nutzung-des-orbisdmapp-programmes.html#DMAppLoeschen"><i class="fa fa-check"></i>Löschen</a></li>
 </ul></li>
-<li class="chapter" data-level="53.3.3" data-path="installation-und-nutzung-des-orbisdmapp-programmes.html"><a href="installation-und-nutzung-des-orbisdmapp-programmes.html#DMAppUmgebung"><i class="fa fa-check"></i><b>53.3.3</b> Umgebung</a>
+<li class="chapter" data-level="56.3.3" data-path="installation-und-nutzung-des-orbisdmapp-programmes.html"><a href="installation-und-nutzung-des-orbisdmapp-programmes.html#DMAppUmgebung"><i class="fa fa-check"></i><b>56.3.3</b> Umgebung</a>
 <ul>
 <li class="chapter" data-level="" data-path="installation-und-nutzung-des-orbisdmapp-programmes.html"><a href="installation-und-nutzung-des-orbisdmapp-programmes.html#DMAppWetter"><i class="fa fa-check"></i>Wetter</a></li>
 <li class="chapter" data-level="" data-path="installation-und-nutzung-des-orbisdmapp-programmes.html"><a href="installation-und-nutzung-des-orbisdmapp-programmes.html#DMAppStädteHändler"><i class="fa fa-check"></i>Städte und Händler</a></li>
@@ -1790,12 +1814,12 @@
 <li class="chapter" data-level="" data-path="installation-und-nutzung-des-orbisdmapp-programmes.html"><a href="installation-und-nutzung-des-orbisdmapp-programmes.html#DMAppPflanzensammeln"><i class="fa fa-check"></i>Pflanzensammeln</a></li>
 <li class="chapter" data-level="" data-path="installation-und-nutzung-des-orbisdmapp-programmes.html"><a href="installation-und-nutzung-des-orbisdmapp-programmes.html#DMAppTextgenerator"><i class="fa fa-check"></i>Textgenerator</a></li>
 </ul></li>
-<li class="chapter" data-level="53.3.4" data-path="installation-und-nutzung-des-orbisdmapp-programmes.html"><a href="installation-und-nutzung-des-orbisdmapp-programmes.html#DMAppEinstellungen"><i class="fa fa-check"></i><b>53.3.4</b> Einstellungen</a>
+<li class="chapter" data-level="56.3.4" data-path="installation-und-nutzung-des-orbisdmapp-programmes.html"><a href="installation-und-nutzung-des-orbisdmapp-programmes.html#DMAppEinstellungen"><i class="fa fa-check"></i><b>56.3.4</b> Einstellungen</a>
 <ul>
 <li class="chapter" data-level="" data-path="installation-und-nutzung-des-orbisdmapp-programmes.html"><a href="installation-und-nutzung-des-orbisdmapp-programmes.html#DMAppSessionBackup"><i class="fa fa-check"></i>Session Backup</a></li>
 <li class="chapter" data-level="" data-path="installation-und-nutzung-des-orbisdmapp-programmes.html"><a href="installation-und-nutzung-des-orbisdmapp-programmes.html#DMAppEinstellungOpenAI"><i class="fa fa-check"></i>Openai Identifikation</a></li>
 </ul></li>
-<li class="chapter" data-level="53.3.5" data-path="installation-und-nutzung-des-orbisdmapp-programmes.html"><a href="installation-und-nutzung-des-orbisdmapp-programmes.html#DMAppSpiel"><i class="fa fa-check"></i><b>53.3.5</b> Spiel</a>
+<li class="chapter" data-level="56.3.5" data-path="installation-und-nutzung-des-orbisdmapp-programmes.html"><a href="installation-und-nutzung-des-orbisdmapp-programmes.html#DMAppSpiel"><i class="fa fa-check"></i><b>56.3.5</b> Spiel</a>
 <ul>
 <li class="chapter" data-level="" data-path="installation-und-nutzung-des-orbisdmapp-programmes.html"><a href="installation-und-nutzung-des-orbisdmapp-programmes.html#DMAppSozial"><i class="fa fa-check"></i>Sozial</a></li>
 <li class="chapter" data-level="" data-path="installation-und-nutzung-des-orbisdmapp-programmes.html"><a href="installation-und-nutzung-des-orbisdmapp-programmes.html#DMAppKampf"><i class="fa fa-check"></i>Kampf</a></li>
@@ -1805,37 +1829,38 @@
 <li class="chapter" data-level="" data-path="installation-und-nutzung-des-orbisdmapp-programmes.html"><a href="installation-und-nutzung-des-orbisdmapp-programmes.html#DMAppSaves"><i class="fa fa-check"></i>Saves</a></li>
 <li class="chapter" data-level="" data-path="installation-und-nutzung-des-orbisdmapp-programmes.html"><a href="installation-und-nutzung-des-orbisdmapp-programmes.html#DMAppAnderes"><i class="fa fa-check"></i>Anderes</a></li>
 </ul></li>
-<li class="chapter" data-level="53.3.6" data-path="installation-und-nutzung-des-orbisdmapp-programmes.html"><a href="installation-und-nutzung-des-orbisdmapp-programmes.html#DMAppDowntime"><i class="fa fa-check"></i><b>53.3.6</b> Downtime</a>
+<li class="chapter" data-level="56.3.6" data-path="installation-und-nutzung-des-orbisdmapp-programmes.html"><a href="installation-und-nutzung-des-orbisdmapp-programmes.html#DMAppDowntime"><i class="fa fa-check"></i><b>56.3.6</b> Downtime</a>
 <ul>
 <li class="chapter" data-level="" data-path="installation-und-nutzung-des-orbisdmapp-programmes.html"><a href="installation-und-nutzung-des-orbisdmapp-programmes.html#DMAppArbeit"><i class="fa fa-check"></i>Arbeit</a></li>
 <li class="chapter" data-level="" data-path="installation-und-nutzung-des-orbisdmapp-programmes.html"><a href="installation-und-nutzung-des-orbisdmapp-programmes.html#DMAppAusbildung"><i class="fa fa-check"></i>Ausbildung</a></li>
 <li class="chapter" data-level="" data-path="installation-und-nutzung-des-orbisdmapp-programmes.html"><a href="installation-und-nutzung-des-orbisdmapp-programmes.html#DMAppStudieren"><i class="fa fa-check"></i>Studieren</a></li>
 </ul></li>
-<li class="chapter" data-level="53.3.7" data-path="installation-und-nutzung-des-orbisdmapp-programmes.html"><a href="installation-und-nutzung-des-orbisdmapp-programmes.html#lootliste"><i class="fa fa-check"></i><b>53.3.7</b> Lootliste</a></li>
+<li class="chapter" data-level="56.3.7" data-path="installation-und-nutzung-des-orbisdmapp-programmes.html"><a href="installation-und-nutzung-des-orbisdmapp-programmes.html#lootliste"><i class="fa fa-check"></i><b>56.3.7</b> Lootliste</a></li>
 </ul></li>
-<li class="chapter" data-level="53.4" data-path="installation-und-nutzung-des-orbisdmapp-programmes.html"><a href="installation-und-nutzung-des-orbisdmapp-programmes.html#BekannteFehler"><i class="fa fa-check"></i><b>53.4</b> Bekannte Fehler</a>
+<li class="chapter" data-level="56.4" data-path="installation-und-nutzung-des-orbisdmapp-programmes.html"><a href="installation-und-nutzung-des-orbisdmapp-programmes.html#BekannteFehler"><i class="fa fa-check"></i><b>56.4</b> Bekannte Fehler</a>
 <ul>
-<li class="chapter" data-level="53.4.1" data-path="installation-und-nutzung-des-orbisdmapp-programmes.html"><a href="installation-und-nutzung-des-orbisdmapp-programmes.html#mein-fenster-ist-verschwunden"><i class="fa fa-check"></i><b>53.4.1</b> Mein Fenster ist verschwunden</a></li>
-<li class="chapter" data-level="53.4.2" data-path="installation-und-nutzung-des-orbisdmapp-programmes.html"><a href="installation-und-nutzung-des-orbisdmapp-programmes.html#layout-ist-verbugged"><i class="fa fa-check"></i><b>53.4.2</b> Layout ist verbugged</a></li>
-<li class="chapter" data-level="53.4.3" data-path="installation-und-nutzung-des-orbisdmapp-programmes.html"><a href="installation-und-nutzung-des-orbisdmapp-programmes.html#der-orbisgame-ordner-ist-nicht-zu-finden"><i class="fa fa-check"></i><b>53.4.3</b> Der OrbisGame Ordner ist nicht zu finden</a></li>
+<li class="chapter" data-level="56.4.1" data-path="installation-und-nutzung-des-orbisdmapp-programmes.html"><a href="installation-und-nutzung-des-orbisdmapp-programmes.html#mein-fenster-ist-verschwunden"><i class="fa fa-check"></i><b>56.4.1</b> Mein Fenster ist verschwunden</a></li>
+<li class="chapter" data-level="56.4.2" data-path="installation-und-nutzung-des-orbisdmapp-programmes.html"><a href="installation-und-nutzung-des-orbisdmapp-programmes.html#layout-ist-verbugged"><i class="fa fa-check"></i><b>56.4.2</b> Layout ist verbugged</a></li>
+<li class="chapter" data-level="56.4.3" data-path="installation-und-nutzung-des-orbisdmapp-programmes.html"><a href="installation-und-nutzung-des-orbisdmapp-programmes.html#der-orbisgame-ordner-ist-nicht-zu-finden"><i class="fa fa-check"></i><b>56.4.3</b> Der OrbisGame Ordner ist nicht zu finden</a></li>
 </ul></li>
 </ul></li>
-<li class="chapter" data-level="" data-path=""><a href="#part-zum-projekt-orbis-astea"><i class="fa fa-check"></i>(PART) Zum Projekt Orbis Astea</a>
+<li class="part"><span><b>X Zum Projekt Orbis Astea</b></span></li>
+<li class="chapter" data-level="57" data-path="Team.html"><a href="Team.html"><i class="fa fa-check"></i><b>57</b> Das Team hinter Orbis Astea</a>
 <ul>
-<li class="chapter" data-level="" data-path="installation-und-nutzung-des-orbisdmapp-programmes.html"><a href="installation-und-nutzung-des-orbisdmapp-programmes.html#die-autoren"><i class="fa fa-check"></i>Die Autoren</a>
+<li class="chapter" data-level="" data-path="Team.html"><a href="Team.html#die-autoren"><i class="fa fa-check"></i>Die Autoren</a>
 <ul>
-<li class="chapter" data-level="" data-path="installation-und-nutzung-des-orbisdmapp-programmes.html"><a href="installation-und-nutzung-des-orbisdmapp-programmes.html#simon-valverde"><i class="fa fa-check"></i>Simon Valverde</a></li>
-<li class="chapter" data-level="" data-path="installation-und-nutzung-des-orbisdmapp-programmes.html"><a href="installation-und-nutzung-des-orbisdmapp-programmes.html#lena-pfeiffer"><i class="fa fa-check"></i>Lena Pfeiffer</a></li>
-<li class="chapter" data-level="" data-path="installation-und-nutzung-des-orbisdmapp-programmes.html"><a href="installation-und-nutzung-des-orbisdmapp-programmes.html#emil-mortensen"><i class="fa fa-check"></i>Emil Mortensen</a></li>
-<li class="chapter" data-level="" data-path="installation-und-nutzung-des-orbisdmapp-programmes.html"><a href="installation-und-nutzung-des-orbisdmapp-programmes.html#kasper-mortensen"><i class="fa fa-check"></i>Kasper Mortensen</a></li>
-<li class="chapter" data-level="" data-path="installation-und-nutzung-des-orbisdmapp-programmes.html"><a href="installation-und-nutzung-des-orbisdmapp-programmes.html#florian-berger"><i class="fa fa-check"></i>Florian Berger</a></li>
-<li class="chapter" data-level="" data-path="installation-und-nutzung-des-orbisdmapp-programmes.html"><a href="installation-und-nutzung-des-orbisdmapp-programmes.html#andreas-fellner"><i class="fa fa-check"></i>Andreas Fellner</a></li>
+<li class="chapter" data-level="" data-path="Team.html"><a href="Team.html#simon-valverde"><i class="fa fa-check"></i>Simon Valverde</a></li>
+<li class="chapter" data-level="" data-path="Team.html"><a href="Team.html#lena-pfeiffer"><i class="fa fa-check"></i>Lena Pfeiffer</a></li>
+<li class="chapter" data-level="" data-path="Team.html"><a href="Team.html#emil-mortensen"><i class="fa fa-check"></i>Emil Mortensen</a></li>
+<li class="chapter" data-level="" data-path="Team.html"><a href="Team.html#kasper-mortensen"><i class="fa fa-check"></i>Kasper Mortensen</a></li>
+<li class="chapter" data-level="" data-path="Team.html"><a href="Team.html#florian-berger"><i class="fa fa-check"></i>Florian Berger</a></li>
+<li class="chapter" data-level="" data-path="Team.html"><a href="Team.html#andreas-fellner"><i class="fa fa-check"></i>Andreas Fellner</a></li>
 </ul></li>
 </ul></li>
-<li class="chapter" data-level="54" data-path="impressum-und-kontakt.html"><a href="impressum-und-kontakt.html"><i class="fa fa-check"></i><b>54</b> Impressum und Kontakt</a>
+<li class="chapter" data-level="58" data-path="impressum-und-kontakt.html"><a href="impressum-und-kontakt.html"><i class="fa fa-check"></i><b>58</b> Impressum und Kontakt</a>
 <ul>
-<li class="chapter" data-level="54.1" data-path="impressum-und-kontakt.html"><a href="impressum-und-kontakt.html#impressum"><i class="fa fa-check"></i><b>54.1</b> Impressum</a></li>
-<li class="chapter" data-level="54.2" data-path="impressum-und-kontakt.html"><a href="impressum-und-kontakt.html#kontakt"><i class="fa fa-check"></i><b>54.2</b> Kontakt</a></li>
+<li class="chapter" data-level="58.1" data-path="impressum-und-kontakt.html"><a href="impressum-und-kontakt.html#impressum"><i class="fa fa-check"></i><b>58.1</b> Impressum</a></li>
+<li class="chapter" data-level="58.2" data-path="impressum-und-kontakt.html"><a href="impressum-und-kontakt.html#kontakt"><i class="fa fa-check"></i><b>58.2</b> Kontakt</a></li>
 </ul></li>
 </ul>
 
@@ -1865,7 +1890,7 @@
 <p><img src="Pictures/Team/OrbisAsteaSchriftzugT.png" /></p>
 <div id="was-ist-orbis-astea" class="section level2 hasAnchor" number="1.1">
 <h2><span class="header-section-number">1.1</span> Was ist Orbis Astea<a href="index.html#was-ist-orbis-astea" class="anchor-section" aria-label="Anchor link to header"></a></h2>
-<p>Orbis Astea ist ein Open Source Pen and Paper Rollenspiel, welches von einem deutschsprachigen <a href="#Team">Team</a> entwickelt wird. Momentan ist es zum kostenlosen <a href="DMAppDownload">Download</a> über diese Website verfügbar. Die Idee von Orbis Astea besteht darin einen flüssigen und einfachen Spielspaß für Spieler und DM zu garantieren, während Regeln und Abläufe so automatisiert und einfach wie möglich zu halten. Gerade für Spieler ist Orbis Astea ein einfach zugängliches und schnell erlernbares System (einen Spieler spielfähig zu machen dauert 15 Minuten bis eine Stunde). Auch hat Orbis Astea den Vorteil, dass Aktionen sehr schnell durchführbar sind. Außerdem bietet Orbis Astea viele zusätzliche Funktionen wie eine vielzahl direkt spielbarer und dennoch leicht unterschiedlicher Profile für NPCs, automatische Händlerinventare, anonyme Charaktersheets und und und - am besten probiert man es einfach aus. Orbis Astea benötigt einen Computer auf dem der DM das Programm ausführt.</p>
+<p>Orbis Astea ist ein Open Source Pen and Paper Rollenspiel, welches von einem deutschsprachigen <a href="Team.html#Team">Team</a> entwickelt wird. Momentan ist es zum kostenlosen <a href="DMAppDownload">Download</a> über diese Website verfügbar. Die Idee von Orbis Astea besteht darin einen flüssigen und einfachen Spielspaß für Spieler und DM zu garantieren, während Regeln und Abläufe so automatisiert und einfach wie möglich zu halten. Gerade für Spieler ist Orbis Astea ein einfach zugängliches und schnell erlernbares System (einen Spieler spielfähig zu machen dauert 15 Minuten bis eine Stunde). Auch hat Orbis Astea den Vorteil, dass Aktionen sehr schnell durchführbar sind. Außerdem bietet Orbis Astea viele zusätzliche Funktionen wie eine vielzahl direkt spielbarer und dennoch leicht unterschiedlicher Profile für NPCs, automatische Händlerinventare, anonyme Charaktersheets und und und - am besten probiert man es einfach aus. Orbis Astea benötigt einen Computer auf dem der DM das Programm ausführt.</p>
 <p>Orbis Astea ist ein low-fantasy Setting, welches kein aktives Magiesystem besitzt. Das System selbst funktioniert mit jedem Worldbuilding welches ähnliche Umstände hat - also etwas näher an der Realität ist - allerdings funktioniert das System natürlich am besten mit der Lore von Orbis Astea - da viele Gegenstände und manche Mechaniken an diese Welt angepasst sind.</p>
 </div>
 <div id="übersicht-über-die-welt" class="section level2 hasAnchor" number="1.2">
@@ -1926,6 +1951,20 @@ gitbook.start({
 });
 </script>
 
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    var src = "true";
+    if (src === "" || src === "true") src = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML";
+    if (location.protocol !== "file:")
+      if (/^https?:/.test(src))
+        src = src.replace(/^https?:/, '');
+    script.src = src;
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
 </body>
 
 </html>
