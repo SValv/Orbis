@@ -1,0 +1,354 @@
+# The Empire {#Imperial Empire}
+
+The Empire is the largest empire in the known world. Primarily a human-dominated empire, it stretches from the Sky Peak Mountains in the south to the Ice Country in the north. It occupies Eldria, while Yondalla is under the protectorate of the Empire.
+
+The Empire has existed for 426 years and the current Emperor, Licinius Proximus, has been in power for 10 years and has a relatively firm grip on the Empire despite his young age.
+
+![The imperial army show in front of the Obex Agrepios](Pictures/Flavor/Placeholder/intro.jpg)
+
+Although the Cold War with the Rah Kari and the uprisings in Eldria are taking their toll on the Empire, it still sees itself as the most powerful faction on the map.
+
+## History of the Empire {#HistoryEmperor}
+
+### The prehistory - Nors and the Heartland
+
+Before the founding of the Empire, the territory was ruled by nobles who - similar to the nobility in Eldria - ruled their territory quasi absolutistically
+Nors and the Heartland - the two main territories of the Empire - began trading with each other early on. This is mainly due to the fact that little agriculture is possible in barren Nors. In return, Nors can provide a lot of metal, which is quite rare in the Heartland.
+These trade relations benefited above all the principalities near the border, which could levy customs duties on traders - first and foremost Riga.
+
+missionaries of the Ekklesia bury the dead](Pictures/Flavor/Placeholder/Missionaries.jpg)
+
+The Ecclesiarchy, which was already relatively well organized in the Heartland by that time, also benefited from the new common roads and infrastructure created by trade. Missionaries were sent out in several waves to spread the word of Allgod. Through the efforts of the missionaries, many inhabitants of Nors gradually turned to the Allgod. A major influencing factor was that dead buried according to the rites of the Allgod mostly remained dead as long as their burial places were not disturbed.   
+
+
+### The beginning of the empire
+
+The Empire was founded 426 years ago. It arose from a confederation of mini-states of a few nobles from the regions of Nors and the Heartland, which had been cooperating for some time. This quickly grew into a militarily and economically strong nation, thanks to the productive mines of Nors and the fertile fields of the Heartland. Nobles and their territories, which had not been part of the Confederation until then, soon joined it - either voluntarily or involuntarily (the latter losing titles, lands and riches).
+
+The last resistance of the regional nobility was crushed in the Battle of Riga: a united army of the rebellious nobility led by Manilius Thrax was defeated by the army of the Confederacy under Virius Proximus - the Caesarius Unificatorus. On that day Proximus proclaimed himself emperor and reshaped the Confederation into the empire we know today. Riga became the capital of the Empire.
+
+![The Battle of Riga](Pictures/Flavor/Placeholder/BattleRiga.jpg)
+
+Since Proximius' innovations were accompanied by a great loss of power by the nobility, they psotested. However, they were quickly convinced that relenting was the wisest option - namely, by the unwavering loyalty the army had developed to its emperor. The consequences of this can still be felt today: while in Eldria the nobility still calls the shots, in the Empire the nobility is far less powerful and is usually more represented in positions of power than the common people only because of their monetary possessions.
+
+> "They will write that the empire was created by treaties and negotiations, but you know better, Militates! For it is your steel and your blood that created this empire and will keep it alive!"
+>
+> --- Virius Proximus - the Caesarius Unificatorus - in his speech after the battle of Riga
+
+After the Battle of Riga, the Empire needed several years to recover from the bloody civil war, to create new institutions and to build up the administration of the country. Too often the impetuous emperor had to learn that not every problem could be solved with a legion. Famine, disease, and the Awakened made life difficult for the logistically poorly organized young empire. The war had killed many men who were needed to harvest crops and feed families. This shortage of manpower quickly made itself felt.
+Emperor Proximus reacted to these new problems as one might have expected. Instead of reducing his legions and relying on laborers, he had them mustered and formed and launched the campaign that would go down in history as ["The Uprooting"]().
+
+### The Enslavement of the Elves
+
+The Pontifex Maximus of the Ecclesia issued a postulate on dealing with other races in 17 after the Battle of Riga.
+3 years later, this document was used by the imperial government as a pretext to subjugate all elven kingdoms in the imperial sphere of influence.
+
+> "The elf in itself is a weak being, this is already shown by its stature. But his greatest weakness is his weak will. An elf is not capable of making decisions on his own, nor is he capable of thinking logically. The best thing for the elf would be not to have to do this anymore."
+>
+> --- The Pontifex Maximus in "De ceterius Gentibus"
+
+The imperial army was well equipped, trained, and largely composed of veterans of the civil war. Opposite them were outnumbered elves, who mostly had to go into the field with tools instead of weapons without any combat experience. Years of peace had not prepared them for what awaited them.
+Since the elves had no time to confederate with other forest kingdoms, which is not in their nature anyway, they faced the armies of the Empire one by one.
+
+![The imperial army marches into the woods against the elves](Pictures/Flavor/Placeholder/KaisElfenfeldzug.jpg)
+
+In the following 10 years, the elves were subjugated forest by forest, so there are hardly any wood elves left in the empire today. Only the fewest were able to escape the army.
+After the first massacres (which could not be called a battle by any stretch of the imagination), most of the elven kingdoms quickly gave in and submitted to the army. Others held out a little longer, only to eventually bend the knee as well.
+They did not know that they had sealed the loss of their culture and their identity. The imperial army took the captured elves as slaves, brought them to the cities and fields of the empire, and thus founded the race and culture of the <font color="green">[City Elves](#CityElves)</font>. With them, the servants' quarters - also called the lower city in Civis Primae (at that time Civis Nova) - were created.
+
+
+### The Golden Years
+
+The next 100 years went very well for the Empire. Territorial expansion continued until the empire bordered Silva Nacia to the south and Iceland to the north.
+Economic stability and peace were characteristic of this period and the number of legions was reduced from 17 to 6. Stable treaties with the border counts of Eldria allowed a relatively quiet life even on the border.
+
+In the golden years of the Empire, the Empire began to expand its borders wherever it could, and it was during this time that the first expeditions to the Ice Country took place. Before that time, the people who lived in the region known as the Heartland were not interested in exploring the cold wasteland of the Ice Country. They believed that nothing could be gained by colonizing a habitat unsuitable for humans. However, in the Nors region, where people had adapted to life in a colder environment, several expeditions were made to the Ice Country. These were all short-lived, however, as no expedition succeeded in penetrating far into the Ice Country before making acquaintance with one of the Ice Country's dangerous monsters. It was only after the founding of the Empire that resources were put into another Iceland expedition, led by a descendant of the Thrax family - Argenius. Many people considered the inexperienced Argenius unsuitable to lead the newly founded expedition, but due to the many military achievements and the influence of the Thrax family, he was granted permission to lead the Ice Country expedition.
+
+![Argenius in Iceland[^FritzVicariBalticSea]](Pictures/Flavor/Animali/by_fritzvicari_ArgeniusImEisland.jpg)
+
+
+Unlike the many expeditions before him, Argenius was equipped with enough resources and manpower to venture further into the ice country than any man before him. After many weeks and slain beasts, the expedition team finally had their first encounter with the Animali. This first encounter between the two races was not to be peaceful, however, as Argenius' arrogance and inexperience made him see the Animali as nothing more than an unintelligent group of monsters standing between him and glory. As soon as he saw the Animali, he signaled his troops to attack. Thus, he triggered the beginning of what we know today as the <font color="green">[Animali Contact War](#AnimaliContactWar)</font>. Although the Animali were outnumbered, they had the advantage of fighting on their own territory. Not long after the fighting began, Argenius ordered his troops to withdraw. Upon his return to the Empire, Argenius - who had led his men to their deaths and failed in his mission to explore the regions of Iceland - was demoted and stripped of his military titles.
+
+In the following years, many skirmishes took place between Animali and the most distant outposts of the Empire. Only after the Animalus elected Valsak as the leading shaman did peace break out between the two races.
+
+After the end of the Animali contact war, the idea of trade agreements to stabilize the fragile relations between the races was brought up. Although there was much unease during the initial trade deals between Heartland and Iceland, this led to an end to the tensions between the races and eventually to good relations between the Empire and the Animali.
+
+Furthermore, the emperor at the time, Dorocletian Secundus, achieved a protectorate over the agriculturally enormously productive area of <font color="green">[Yondalla](#Yondalla)</font>.
+
+![Yondalla's Hill](Pictures/Flavor/Placeholder/Yondalla.jpg)
+
+Due to the very good economic and political situation - and due to pressure from the Ecclesia, which had meanwhile changed its position towards slavery of the elves - slavery was abolished during these years - also by Dorocletian. Many city elves still refer to him as "one of the few good emperors".
+
+### The Punishment of the All-God {#SlaveryRiga}
+
+After Dorocletian's death at the hands of his second-born, Nematus Dorocletianus, the "Golden Years" (according to modern doctrine) came to an end.
+
+Many influential commanders and dignitaries did not want to make the emperor's assassin the new emperor and went into the field against him. The resulting civil war became a test of strength for the empire.
+After 3 years of civil war and the accompanying famine, Nematus was betrayed and killed by his own bodyguard in besieged Riga. This first good news, however, came with evil consequences: There was no legitimate heir to the throne.
+The very next day, the coalition of legates and noblemen disintegrated into factions that sought only to expand and consolidate their own power. One civil war was followed by another.
+
+Due to the civil war in the empire, borders and relations with other states were grossly neglected, this led to the first eldritch invasion. The Lord of Aerlham, Thedisius VI, formed a coalition with Hasting and Austen and invaded the imperial borderlands with an army. The third legion confronted him alone - an act for which it still holds the name "Protectoria Patria" - and suffered a heavy defeat. Almost completely annihilated, the heroic efforts of a centuria from Nors alone brought the survivors of the battle and the standard of the legion to safety.
+
+![The heroine from the field of mourning](Pictures/Flavor/Placeholder/KaisKriegheldin.jpg)
+
+The first act of the Eldrians was the annexation of Yondalla and with it the cessation of all life supplies to the Empire.
+Since many fields of the Heartland were destroyed by the civil war and Yondalla was the only reliable source of food, a great famine ensued. Even some nobles did not manage to get enough on their plates every day to feed their families.
+
+> Feel it! Feel the wrath of the All-God! Our actions and our shameful arrogance have brought us to ruin! Repent before the All-God!
+>
+> --- Excerpt from "the palmphlet of the street priest" from 340 after the battle of Riga
+
+However, the hunger and the war were followed by something far worse: a disease known as "Irae Omnideus" stretched its fingers through the empire. Already in the first months more people died of the disease than the ecclesiarchy could bury. It is estimated that by the time the disease stopped raging, 3 out of 10 people had fallen victim to it, mostly the elderly and children.
+However, the disease had two positive effects for the Empire: the Eldrier army, fearing the disease, quickly retreated behind the border. In addition, the power-hungry factions in the empire no longer had enough soldiers to fight each other. It became quiet in the empire.
+
+![The Plague Hunts the Healthy Child - A Painting](Pictures/Flavor/Plague.jpg)
+
+Taking advantage of this calm, an up-and-coming strategos named Lucillus Prodius forged alliances and rallied the strategoi of the second and fourth legions behind him. He himself led the fifth legion. With three of the five remaining legions, he managed to unite a larger and more powerful army than his opponents.
+
+In light of these new developments and the poor state of the empire, Lucillus managed to convince all the influential factions of the empire to negotiate peace. These were to take place in Riga and each participant swore non-armament and non-violence, the honor of the truce and to arrive with no more than 30 armed men.
+
+The peace negotiations came to results after 3 weeks. The factions agreed on a new emperor named Flavius Servarius. In return, the regional rulers were granted more autonomy and power - including the right to have their own armed forces and internal politics. Lucillus was praised as "the bringer of peace." At the conclusion of the negotiations, the whole city celebrated wildly until late at night - times would get better! Neither the now careless, drunken and exuberantly celebrating guards and inhabitants of Riga, nor the noblemen of the negotiating factions got to see how the fifth legion marched up in front of the city at night.
+
+Nobody had expected this step of the "peace-bringer" Lucillus. The fifth legion came upon the city like a storm upon a ship at sea. Before anyone in Riga knew what was happening, the walls were stormed. Screams and flames covered the city. The fifth legion reduced the city to rubble. "The grinding of Riga" had come. Those who were not massacred by soldiers died from the smoke or the flames. It is said that one could not cross the main forum without falling over several corpses, and, that the blood of people foolish enough to flee to the Ekklesia stood so high on the church floor that one waded in it up to the knees.
+Lucillus himself led a cohort into the imperial palace and killed the new emperor, as well as all the rulers who did not support him. When the sun rose again over the destroyed city, he - Lucillus Prodius - was the undisputed emperor of the empire. The Treaty of Riga was declared null and void, as was Riga itself. The almost 55000 inhabitants of Riga did not live to see that day.
+
+![The grinding of Riga](Pictures/Flavor/Placeholder/SchleifungRiga1.jpg)
+
+Emperor Lucillus moved his troops to Civis Nova and made it the capital of the empire - Civis Primae. He established a new dynasty and greatly increased the number of legions. Citizens and elves alike were partially put to forced labor to rebuild the empire.
+After the threat of disease had passed, Thedisius VI of Aerlham tried to claim Yondalla again. This time he encountered 8 legions armed to the teeth under Lucillus I - neither Theodisius nor his army survived their expedition. It is said that Lucillus had their heads brought by carts all the way to Aerlham. For saving the empire, the ecclesia declared him "Restitutor Orbis" - the one who restored order to the world.
+
+![The Strategoi swear allegiance to the Restitutor Orbis](Pictures/Flavor/Placeholder/KaisSpeztrup.jpg)
+
+Lucillus' dynasty survives to this day, and the current emperor Licinius Proximus is descended from his line. Under this dynasty the empire regained its strength, but the price was high.
+
+### The Conquest of Eldria
+
+In 408, a groundbreaking invention occurred in the military history of the empire - the large cannon. This powerful weapon was capable of destroying walls of both stone and soldiers.
+
+The young Emperor Licinius Proximus, who had recently ascended the throne and wanted to demonstrate his strength to everyone, immediately recognized the potential of this weapon. After barely a year of preparation, he moved to Eldria with 243 battle-ready large cannons and 15 of his 22 legions.
+
+Eldria's nobles reacted quickly. They knew that an imperial attack was imminent, and Eldria's landsknechts were no match for the empire's soldiers. By the time Emperor Licinius Proximus arrived in Eldria, they had assembled an army that outnumbered even the imperial contingent. Almost all the principalities of Eldria had sent their soldiers - a colorful sea of lances, armor, and flags - more than a match for the imperials in an open field battle.
+
+The young emperor Proximus was aware of the strength of his enemy. Therefore, he sent five cohorts under a strategos to attack Austen and instigate as much chaos there as possible - a decoy.
+The Eldrians took the bait that was thrown to them. Firmly assuming that this was the main force of the Imperials, they marched to Austen to face Proximus' army. Halfway there, they learned that Proxiumus had begun the siege of Aerlham.
+
+![The Eldrian army rides to its doom](Pictures/Flavor/Placeholder/EldriaArmy.jpg)
+
+With few situations more strategic than stabbing an enemy army in the back during a siege, the Eldria army immediately turned around and marched on besieged Aerlham. They would painfully teach the young emperor how to lead an army. In their certainty of victory, they walked right into the trap of Proximus.
+Those who have not seen large cannons in action do not understand why these steel tubes are so feared. Against infantry, you take two small bullets connected by a chain and shoot them full force into the enemy ranks. The bullets break through almost any formation and leave a pile of severed limbs.
+Proximus had positioned his cannons precisely to shoot the Eldrians in the flank. Since he had set the trap, he knew where the Eldrian army would have to come from and attack. His prediction proved to be correct.
+Confident of victory, the Eldrian army charged toward the supposedly vulnerable Imperial Army - only to find itself caught in the crossfire of 243 large cannons. Never in the history of the world had such a large army been destroyed so quickly. On the side of the Elders, 75000 people died. The Imperial lost just 4000 people before the Eldrians surrendered.
+
+> This was not a battle, this was a crime. How could we have known what those devil devices could do? I'll never forget the sight of my comrades being torn apart next to me."
+>
+> --- Eldrian survivor of the Battle of Aerlham
+
+Proximus occupied Aerlham and renamed it Civis Principes. He placed an imperial contingent of troops in each principality in Eldria and had fortresses built for his troops. He plundered the treasuries of the principalities and had two legions posted in Ghent.
+
+![The Prince of Aerlham capitulates to the Emperor](Pictures/Flavor/Placeholder/CapitulationEldria.jpg)
+
+Although the Empire occupies Eldria to this day, it does not have the manpower to gain real control. It manages to keep the main roads and the capitals under control, but nothing more is possible. Many military advisors have therefore recommended that the emperor abandon his prestige project and end the occupation. However, the emperor does not want to hear about it.
+But in Eldria, resistance is stirring - even more active since the Great War.
+
+### The Great War {#KaisGroKrieg}
+
+three years after the occupation of Eldria, the Rah Kari struck. The strange desert people soon felt threatened by the expansive Empire. This war was to be fought in a manner completely unknown to the Empire.
+
+Without a formal declaration of war, the Rah Kari began a war on two fronts. Their main force crossed the Bonefield Gorge in 858 and inflicted heavy casualties on the unsuspecting 13th Legion, causing them to fall back to the Reik.
+Fortunately for the 13th Legion, five other legions had already arrived in Nors, and - once the Emperor realized what had happened - they were hastily deployed to defend the Empire. The emperor himself took command of the northern force and sent for further reinforcements.
+
+![The Rah Kari beasts ravage imperial cities in Nors](Pictures/Flavor/Placeholder/BattleRah3.jpg)
+
+Although outnumbered, the emperor sought battle. But no matter what strategic tricks he tried to use, he failed to fool the Rah Kari. They seemed to know at all times exactly what the situation was regarding troop movements, supply lines and the army's supply situation. They always knew how to strike exactly where the imperial army was weakest. Thus, although the imperial soldiers were far superior to those of the Rah Kari, the army lost skirmish after skirmish. Supplies were increasingly targeted for raids by the Rah Kari, and soon the resource situation of the forces in Nors was so bad that major actions were no longer possible. The Rah Kari force circled them like a vulture circles a dying animal.
+
+But even the Rah Kari's information network was not without flaws. Tullius Agrepios, the strategos of the remnants of the 13th Legion, managed to cut off the Rah Kari force's way back after a raid in Nors by occupying the bridge to the Bone Field. Seizing this opportunity, the great imperial army fell to the Rah Kari from Nors. Although Agrepios and the entire 13th Legion fell at this bridge, it was their sacrifice that led to the Rah Kari army suffering heavy losses for the first time. The Rah Kari retreated through the gorge later that year to bring reinforcements and prevent a complete annihilation of their army.
+
+![The Defeat in the Bonefield](Pictures/Flavor/Placeholder/StormAufMauer.jpg)
+
+The Empire made the mistake of going after the Rah Kari directly and found that the Rah Kari had built a powerful defense on their side of the Bonefield Gorge. In the ensuing battle, the Empire lost two legions and retreated to build a fortress on their side of the gorge as well. The fortress was named "Obex Agrepios" in honor of the strategos of the 13th legion.
+
+Due to the fact that the way through the gorge was now blocked on both sides, the war came to an end on this front - after a few more attempts with great losses on both sides.
+
+The other front emerged in Eldria. Simultaneously with the invasion of Nors, a smaller, very cavalry-heavy army crossed into occupied Eldria. The imperial soldiers, who already had more than enough problems with rebellious Eldirians and marauding elves, orcs and bandits, were quickly cornered by the army attacking them in a coordinated manner. At the same time, several regional lords, supported by Rah Kari money, rose up against the imperial occupation.
+
+Encircled by various sources of danger, the imperial troops barricaded themselves in the cities while their enemies wrestled for control of everything outside the cities. Many imperially held cities were besieged and surrendered - the prisoners were at worst executed by Eldrians or enslaved by the Rah Kari. Only the brigades in Ghent and Aerlham withstood the siege - thanks to the big guns - with Aerlham being besieged by the Eldrians and Ghent by the Rah Kari.
+
+![The Siege of Aerlham](Pictures/Flavor/Placeholder/SiegeAerlham.jpg)
+
+After a year, reinforcements arrived from the Empire. The emperor's uncle, Arminius Prodius, gathered eight legions around him and fell upon the rebellious Elders. Their armies were quickly crushed, as they were outnumbered and worse trained than the imperial legions.
+With Aerlham secured, Prodius set out for Ghent to end the Rah Kari siege of the city.
+
+When the Rah Kari prisoners - who were to be transported south to serve as slaves - learned of Arminius Prodius' reinforcements they took heart. A soldier named Georg Handler managed to free himself and a few comrades and with them to overpower a group of guards. The situation quickly escalated into a full-scale prisoner uprising. This slowed down the Rah Kari army enough to create an opportunity for the brigade from Ghent and Prodius' army to attack almost simultaneously.
+The Rah Kari army was crushed.
+
+![The Army Defeats the Rah Kari](Pictures/Flavor/Placeholder/BattleRah.jpg)
+
+However, with the defeat of the Rah Kari, peace did not return. To this day, the Empire tries to secure the border at the Nebula Grove, but the Nebula Grove is not manageable: Again and again, Rah Kari troops manage to cross over and wreak havoc.
+
+> "These guardians are everywhere. These little pests set whole swaths of land on fire when they see the option. All they want to do is cause chaos and see the empire crumble as a result. The bad thing is: Their plan is working!"
+>
+> --- Report of Arminius Prodius to the Emperor
+
+The war has now cooled to a situation where both empires are eyeing each other and seeing how they can best harm each other. <font color="green">[The Guardian Cult]()</font> has built up its network in the Empire, as well as in Eldria, supporting criminals as well as rebels to weaken the Empire as much as possible. The imperial intelligence service has little to oppose them with.
+Most of the fighting is now done via guerrilla tactics or in the Misty Grove, and neither side manages to gain the upper hand. To this day, this is the largest and most defining conflict in Orbis Astea.
+
+## The Imperial Society
+
+### The Nobility
+
+Unlike the nobility in Eldria, the nobility in the Empire is not a fixed institution: with membership in the nobility comes no automatic special rights or better positions in society. Despite this, nobles are usually much more successful and wealthy than the commoners. This is due to the fact that, on average, the nobility nevertheless possesses significantly higher assets and better connections, which in turn lead to more success and more money for the nobles.
+
+There are many minor nobles and a few major ones. The large ones are those that have provided great politicians, strategoi, officials or even emperors.
+
+The great noble families include:
+ 
+* Prodius
+* Thrax
+* Ancira
+* Stellter
+* Sevarius
+
+Of particular interest is the Thrax family, the only one not dispossessed by Caesarius Unificatorus, although it opposed the unification of the empire.
+
+Some nobles, as well as other rich individuals, are in possession of their own mercenaries, that is, a personal militia. Although the Empire does not like this, they usually allow their own militias under 500 men.
+
+### The Emperor
+
+![The Emperor at the Battle of Aerlham - A Portrait by Frangillius Tarsius](Pictures\\Flavor\\Platzhalter\\Emperor1.jpg)
+
+As the highest office in the Empire, the Emperor is automatically the head of the military and judiciary of the state. His power is absolute and orders are very rarely questioned. Insults against the Emperor's honor can be punished by death in the Empire.
+
+The ecclesia alone is independent of the emperor and a strong independent part of the empire.
+
+### The general population
+
+Most citizens of the empire are rather poorly educated and
+
+### The ecclesia
+
+The Ecclesiarchy has existed longer than the Empire itself. Even when relations between Nors and the Heartland began, the Ecclesiarchy launched missions that ultimately led to a monotheistic position of the All-God.
+
+The Ecclesia also manages to be very politically relevant. Its chairman - the Pontifex Maximus - is considered the second most influential person in the entire empire. The guiding opinions of the Ekklesia partly lead the day-to-day politics and have often brought about social changes. Due to its great political control, the Ecclesia managed to ban other faiths in the Empire and to be granted its own armed force with far-reaching powers.
+
+The Ekklesia is responsible for burying the dead and spreading and preserving the faith. Its priests perform blessings, confessions and masses.
+
+Furthermore, the Ekklesia funds many research teams that are leaders in all scientific fields - but especially in the study of the <font color="green">[blood gods](#blood cult)</font>.
+
+Every year, each church takes in a number of young men and women - so-called god servants - and trains them to become priests, inquisitors, or - in most cases -
+
+#### The Inquisiton
+
+> "We now know that evil exists. The emperor will not - no, cannot stop it. Only the holy ecclesia is able to do so. Brave men and women - strong in battle and even stronger in faith - uncorruptible souls are needed for our Empire to survive. Only the Church offers this incorruptibility. Therefore, the Emperor has relented and allowed us to establish the Inquisition - and has promised the full support of the army to the Inquisition.
+We will not rest until every form of worship of deceitful demons is eradicated and the light of the All-God has prevailed!"
+>
+> --- Pontifex Boroius at the Council of Riga
+
+5 years after the <font color="green">[incident in Darada Uld](#Grimand)</font> - and brought into being by the Council of Riga - the Inquisition is the private army of the Church, whose main purpose is to ward off all blood cult activity. They are empowered to detain and interrogate private individuals, regardless of evidence, should there be any suspicion of connections with the blood cult. They can also request troops from imperial garrisons or armies, should it be demonstrably necessary. However, this "demonstrable" is interpreted very differently by different imperial commanders. While some commanders are absolutely in bondage to an Inquisitor and will provide whatever resources they have based on a hunch alone, others demand solid proof of a cult before they will lift a finger.
+However, although the army is not always obedient, the office of Inquisitor is one of the most empowered in the Empire. The Ecclesia - to which the Inquisition is subordinate - has quickly noticed the advantages of this power, and so the Inquisition is often used to eliminate enemies of the Church and to enforce the interests of the Church. It often happened that the suspicion against a farmer was coincidentally lifted exactly when he had decided to sell his land to the ecclesia at a ridiculous price.
+
+The Ekklesia trains only those who have shown absolute loyalty and devotion to the Inquisitor. Thus, the number of inquisitors is not too high. Inquisitors are mostly recruited directly from the servants of God who have special martial skills.
+
+#### Cult of the Dead
+
+
+
+### The City Elves {#CityElves}
+
+About 600 years ago, Emperor Dorocletian declared slavery illegal in the Empire. Many elves who were slaves at that time were given freedom on that day. Although life has improved for the elves in many ways, it is still not easy for them and the differences between humans and elves are noticeable.
+Elves are on average much poorer, have worse jobs and fewer opportunities in life. They live almost exclusively in the worse quarters of the cities: in Civis Primae, for example, in the - many times more dangerous - Lower City. So they are still trapped in a form of Skaverei 2.0, so to speak.
+Most city elves are descendants of the elves who once inhabited the forests of the Heartland and Midden Realm. Due to many clearings on the part of the humans, conflicts between elves and humans occurred again and again, which the humans, due to their larger numbers, were mostly able to win. These conflicts resulted in many war captives elves who were enslaved.
+For many wood elves, the cultural closeness and habituation of the city elves to the humans is a thorn in their side. City elves are seen as lepers, and depending on the Wood Elf tribe, a disgrace to the race. Therefore, city elves are generally not welcome among their fellow forest elves.
+
+### Orcs in the Empire
+
+Orcs are rarely encountered in the Empire. At least outside the army. Within the army, they mostly serve as heavy troops.
+
+![Most orcs serve the empire as heavy infantry](Pictures\\Flavor\\Placeholder\\OrkHeavyInfKais.jpg)
+
+## The Imperial Army {#KaisArmy}
+
+> Other nations have an army for their state, we have a state for our army!
+>
+> --- A famous imperial joke
+
+Although many parts of the Empire are broken and have deep structural problems, the military was largely spared - which actually made a lot of sense for the Empire itself. It can be argued that the Empire is more of an army with a state, than a state with an army - though the army has so far always been considered loyal to the Emperor, and unlike the Imperial Secret Service, the Penitius Oculatus, has never tried to replace or dethrone the Emperor.  The Imperial Army has both the duty of an army and that of a police force.
+
+![A legate training new soldiers](Pictures\\Flavor\\Platzhalter\\KaisAusbilder1.jpg)
+ 
+The structure of the imperial army is closely based on the Roman system and was used before the merger with Nors.
+The army includes 21 legions. In about 210000 men. This makes it one of the largest - if not the largest - standing army in the world. The first four legions are the Legiones Praetoriae and are stationed in the Heartland. It is claimed that they are the best legions in the army. However, this is highly unlikely, as the 16th-21st legions have been consistently at war with all sorts of enemies of the Empire for the last 10 years and are therefore battle-hardened, while the Legiones Praetoriae lead a rather quiet life in the Heartland.
+A legion consists of 8000 infantry, 1000 cavalry (300 heavy/700 light) and 1000 variable forces, which usually include artillery.
+A legion (led by a strategos) includes 10 cohorts (a 1000 men led by a praefectus). These in turn consist of four maniple (250 men led by a legate), which consists of two centurions and an auxiliary (auxiliary is cavalry and variable forces - 2 centurions, an equitos possibly also a centurion tormentorum). Each of these consists of 10-man squads (led by a decimus) - so-called decimi. Within a centuria all troops have the same armament in case of war - in case of peace this counts for a decim. The commander-in-chief of the army is the emperor himself.
+
+
+### Weapon types of the imperial army
+
+#### Infantry {- #KaisInfantry}
+
+![The Imperial infantry represents the heart of the army](Pictures\\Flavor\placeholder\\KaisInfanterie1.jpg)
+
+##### Spearmen {-}
+Spearmen are rarely seen in the army, only quickly thrown together/hauled out and poorly trained troops are so poorly armed.
+
+##### Halberdists {-}
+The Halberdist is the Empire's weapon of choice against cavalry. They are well trained at the long rifle and negate any form of rush. They are also useful against infantry - as long as they are in formation - though their focus is on fighting cavalry.
+
+##### Militates {-}
+
+![Militates on the way to the bone field](Pictures\\Flavor\\Placeholder\\KaisInfanterie2.jpg)
+
+Militates are so called because of their shield. They are equipped with a short spear, shield and sword and are the backbone of the imperial army. Most of the imperial soldiers are Militates.
+
+##### Heavy Infantry {-}
+
+Affectionately known as Steel Crabs, the Empire's Heavy Infantry is the means of breaking formations in dirty front-line combat. Heavy weapons, heavy armor, and single combat training make them a dangerous weapon against anything in their path. Artillery fire or muskets are best against them, otherwise they should not be encountered in the field. Many Imperial Orcs serve in the heavy infantry.
+
+![Heavy Troop - One of Many Variations](Pictures\\Flavor\Platzhalter\\KaisSchwereInfant.jpg)
+
+#### Ranged Infantry {- #KaisRanged}
+
+##### Crossbowmen {-}
+Crossbowmen are they flexible ranged infantry of the Imperials. These very accurate weapons, while not too effective against heavy armor, are very useful against normally armored or lightly armored enemies and require little training. Imperial crossbowmen use light crossbows and manage 5-6 shots a minute.
+
+##### Musketeers {-}
+Musketeers are the imperial remedy for everything, though they are very useless on their own. In a line of fire they destroy light and heavy infantry, ranged, cavalry, etc.
+They manage 2-3 shots a minute, yet the destructive power is enormous. However, they are very expensive and inflexible, need good organization and should be protected by infantry.
+
+#### Cavalry {- #KaisKavallerie}
+
+##### Light Cavalry {-}
+Light cavalry is most often used to disrupt enemy formations, flank, or perform tasks that need speed. They usually wield one melee and one ranged weapon (usually a sword and a crossbow/light musket) along with a spear.
+
+##### Heavy Cavalry {-}
+Slower than the light cavalry, though heavily armored and equipped with greatswords or lances, this unit is made to ride down enemy formations.
+
+![Imperial Heavy Cavalry](Pictures\\Flavor\\Placeholder\\KaisKavallerie.jpg)
+
+#### Artillery {- #KaisArtillery}
+
+##### Ballista {-}
+The ballista is the oldest version of imperial artillery. It is good against single targets and can destroy anything not protected by stone walls. Even the largest creatures are mortally wounded or incapacitated after one or two shots from a ballista. However, it is completely unsuitable against infantry masses, which is why the ballista has been largely replaced by the cannon.
+The ballista needs a crew of 1-2 men. If it is not manned to the maximum, it only manages 33% of its firing rate of 3 rounds per minute.
+
+##### Large Cannon {-}
+
+![Concept of a large cannon from the year 411](Pictures\\Flavor\\Platzhalter\\ large-cannon.jpg)
+
+The large cannon is the backbone of the imperial artillery. With various types of ammunition, it can be used against infantry as well as single targets. Its long range and immense penetrating power allows it to sink medium sized ships in one shot.
+However, it is more expensive than the ballista and needs regular maintenance. It needs three men to crew and manages 5 shots in 2 minutes. The rate of fire decreases linearly with the crew.
+
+
+## The economy of the empire
+
+In the Empire, professions can be grouped into two major parts - guild-based and free trades. The guilds, or guilds, are divided by profession, and each settlement has its own guilds and guild groups. In small villages there may be only one guild, while in Civis Primae there are several thousand.
+
+The largest and most powerful guilds are classically the largest occupational groups - in Civis Primae, for example, the blacksmiths, weavers, tanners, and so on.
+The mission of the guilds is simple: they represent the union of an occupational group for market control. Fixed prices for goods are set. It is decided who may join the guild - and thus practice the profession - and how violators are punished. In addition, local business law is written jointly.
+
+Guilds have a guildmaster elected by the members for each city. This guild master is automatically part of the city government and is usually given a small bodyguard of imperial soldiers. Of all the guild masters, the grand master of a region is elected and is then responsible for the regional economy, planning trade routes and finalizing economic law in the region.
+All grandmasters report to the imperial trade commissioner (something like an economy minister) in Civis Primae.
+Most guild-made goods within a city are marked by the respective guild, which makes them hard to steal and sell (at least outside major cities).
+Since you can't avoid the black market in the long run to get cheaper goods or special goods, it flourishes accordingly in the imperial areas and is sometimes accomplice, sometimes enemy of the guilds.
+
+
+[^FritzVicariBalticSea]: "Across the Frozen Baltic Sea, 1227" by [FritzVicari](https://www.deviantart.com/fritzvicari/art/Across-the-Frozen-Baltic-Sea-1227-853125129). This artwork is available under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 License.

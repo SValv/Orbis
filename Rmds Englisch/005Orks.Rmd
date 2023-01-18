@@ -1,0 +1,228 @@
+---
+editor_options:
+  markdown:
+    wrap: sentence
+---
+
+# The orcs
+
+> "You don't enslave orcs. You give orcs a reason to do something and then reward them with plenty of beer and food. Then they are the most loyal and best soldiers an emperor could wish for!"
+>
+> --- Lucillus Proximus
+
+Orcs one of the races with a simpler culture, are roughly human in stature in appearance.
+Thus, lighter orcs can be mistaken for stronger and taller humans when they rush at you from the direction of the setting sun.
+Upon closer inspection, however, some glaring differences stand out.
+For example, skin colors vary more than would be the case with humans or dwarves, their height is usually just under 2 meters, and tusks on the lower jaw are the strongest features.
+Less noticeably, Orcs are rarely capable of using ranged weapons, as their short-sightedness only allows them to target at throwing range.
+Due to their superior physical strength, this was apparently enough to survive in the world.
+Another difference to humans is the less distinctive appearance of women and men among orcs.
+Although breasts and a slightly wider pelvis and less body hair are quite similar to humans, the general muscularity is less clearly distinguishable between the orc sexes.
+Conditioned also by the fact that there is no clear or permanent role assignment in the orc tribes, this fact could explain in the observed smaller difference.
+
+The mentioned diversity in skin colors or skin shades among the orcs is mostly tribe-specific and occasionally allows conclusions about tribal affinities.
+Thus, in the work of Kat-al-Taht, a scholar of the Rah Kari, in his book "Orcs, Guide, Companions, Warriors" the following was stated:
+
+> The coarser-skinned and mentally duller orcs, which are primarily active underground or in the mountains, are mostly found in shades of gray and brown.
+> Orcs of greener areas, such as in forests and also in the Misty Grove, are mostly found with dark green skin tones.
+> The physically largest orcs are found in the Iron Desert and are correspondingly rust-brown to red-brown.
+>
+> - Kat-al-Taht, from "Orcs, Guide, Companions, Warriors
+
+The physical strength of orcs is the highest of all races.
+Even city-raised orcs usually already have the physical strength of hardened soldiers.
+Among the more cultural differences, is the fact that orcs seem to be less linguistically adept, possibly due to the occasional disturbingly large tusks, or even their more modest intelligence.
+Charismatically, unsurprisingly, Orcs fall in line with the Goblin race and are thus less eloquent in courting business partners or other interacting parties.
+
+Orcs feed primarily on slain prey animals, wild gathered food such as mushrooms, berries, or grasses, or even their own dead.
+Although Orcs are short-sighted and cannot use ranged weapons effectively, they are able to kill even large boars with their bone spears at a distance of dozens of meters due to their uncanny physical strength.
+
+> Due to their "savage" lifestyle, which is actually more of an understatement for an imperial missionary like myself, orcs are nearly immune to common diseases.
+> Orcs were also the only race not affected by the great plague - the Irae Omnideus.
+>
+> --- From "The Diary of a Traveling Missionary" by Stephanus Arnelius
+
+## The story
+
+Little is known about the general history of the basal culture of the Orcs from their point of view.
+Oral traditions seem to speak of the same themes over and over again, of success, failure, growth and decay of tribes, but without recording exact dates, as do chroniclers of the Empire or the Rah Kari.
+From those very records, we can roughly confirm the oral traditions that are traditional among the Orcs.
+The somewhat less detailed history of the orcs is also due to the strongly preserved rites of the orcs, which are reflected in the society as if unchanged for centuries.
+
+## The Society
+
+Orc society is generally simple and structured by honor systems.
+Original orc tribes from the Heaven's Peak Mountains are nomadic in most cases, staying only a few weeks or months in one place.
+Orc tribes on the edges of the Heaven's Peak Mountains as well as in other areas, on the other hand, are more often sedentary.
+The nomadic lifestyle is due to the "harvesting" of everything edible in the region and the presence of the Nugrat orc eaters. The latter are one and a half to two meter tall insect-like animals that lead a parasitoid lifestyle with their orcish victims. Nugrat orc eaters, for reasons incomprehensible to scholars, hunt only orcs, overpowering them and laying their eggs in living orcs. Because of their agility and leaping abilities and visual camouflage, it is extremely difficult for orcs to detect them. Since the nugrat orc eaters can apparently only multiply with the help of orcs, and orcs hunting and gathering in too small a group can be overwhelmed by the insectoids, the nomadic orc tribes are forced to move on in order to keep the number of nugrat orc eaters in the vicinity down. From this naturalistic view, according to well-known learned Kat-al-Taht, arises the lack of developed sedentary culture, as is the case for elves, dwarves or humans. This also results in the more simplistic culture with relatively simple and small networks within an orc tribe. The orc tribe is led by a tribal leader, who represents the tribe to the outside world and is also the master of ceremonies. Thus, the tribe leader does not have to be the "most powerful" or influential orc per se, as is common with other races.
+As the "Great Zrokta", this tribal leader serves as long as he is elected or supported by the voting orcs. Usually 5 years. However, if the will of the tribe is not respected, and the Grand Zrokta would frequently violate it, it is customary to disown or eat him, the former being a greater disgrace.
+
+Among the orc tribes, not everyone is eligible to vote on tribal issues, which of course is not the same as ignoring the needs of those not eligible to vote.
+Every fifth orc or or orkin holds a vote, which is ceremonially certified via the bracelet on their left forearm.
+Orcs consequently do not receive a bangle themselves at birth, but may acquire them during their lives for special services to the tribe.
+The tribe decides collectively which services are worthy of a bracelet, depending on the situation.
+Often it is service in battles for the tribe or for other cultures such as Rah Kari or the Empire.
+Bracelets are also awarded retroactively in rarer cases, should an orc have made a relevant contribution to a heated situation.
+
+For orcs themselves, it is considered a great shame to lose a bracelet or have it taken from them in a fight.
+The latter is considered unnecessarily cruel to Orcs and usually indicates a prolonged feud between the parties.
+However, the stealer of the bracelet can be sure to have created a mortal enemy, which is why foreign cultures such as the Empire or the Dwarves even have written decrees that punish the stealing of an orc's bracelet with up to 15 years in dungeon.
+
+It is also considered disgraceful to treat prisoners of war caught in proclaimed tribal feuds badly.
+They are chained at night, but during the day they can move freely in the tribe with strong leg shackles. Thus, contrary to the cultures of humans and elves, torture is not a legitimate means of obtaining information. Their custom and honor states that after two days, the orc may disgracefully reveal information about his tribe or group. Surprisingly, this is a similar time period under which tortured prisoners also reveal information. If the prisoner demonstrably passes on false information, it is possible to take away his bracelet and bring it to the associated tribe by messenger.
+
+Contrary to the order of the Doctrine of the All-God or the Theocracy of Rah Kari, all orcs are allowed to form their abilities as they wish.
+It should be mentioned here that this only applies to tasks relevant to the tribe, and these are determined by the voters.
+
+Orcs do not live monogamously, as is common for the Empire or the Rah Kari, but keep harems when possible.
+Members in the harem are gained by someone winning a ritualized fight called "Frash Olat" against the desired one or one of his intercessors. In frash olat, this is announced and performed in such a ritualized manner that even the absence of spectators does not alter this ritual "courting" of a potential harem member.
+After the direct address or the proclamation of a frash olat, the fight is started at a point close in time and place, usually within a few days and in the current settlements.
+Thus, the challenged chooses the weapons for the fight as well as the armor.
+Combat drugs like adrenaline or healing potions are not allowed.
+After a distance of 30 steps has been chosen, the fight begins until someone gives up or dies.
+However, surrendering is the more common ending.
+In the case of unexpectedly unequal opponents, such as a large tribal warrior who for some strange reason has a problem claiming the woman or man, this leads to surrender even before the melee distance has been reached.
+The winner then takes the already visibly charmed orc lady or orc man into his harem.
+For the orcs who are "bound" in the harem, however, there are no obligations of eternal loyalty. They can claim the right of a Frash Olat even against their main partner, but this only happens in the cases of older harem leaders, if they have not yet been challenged again.
+
+Artistic, literary or vocal masterpieces are in vain among orcs, however.
+Either by their long historical roots as nomads or because the within a tribe rarely lying orcs, in higher poetry or the representation of a yondallesischen sunset in the summer nothing can win.
+Even the architecture is modest.
+Primarily huts and half-caves built of wood or on neatly cobbled stones are the buildings to be seen in orc settlements.
+Although pallisade walls can be found in some occasionally inhabited "orc settlements" in the Himmelspitze Mountains if sufficient stone or wood is available, a field of randomly erected pinnacle pillars is usually favored as a defense. This allows for both quick enclosure tactics and the "staking" of attackers into those "forest nails" by means of a spirited body blow.
+
+Orc tribes also lack dedicated groups of scholars.
+These may be found in larger permanent orc settlements such as Grimgrod, or as a special enclave in Naphtanium.
+This leads to several weak points in the society.
+For example, fortresses never reach proportions like those of humans, dwarves, or elves.
+Their ability to organize seems to be slower as well, due to the lack of widespread writing, and the much rarer use of horses makes even larger orc tribes "vassals" of larger and better organized empires.
+
+![Orc Settlement in the Southwestern Mountains of Eldria](Pictures%5CFlavor%5Cplaceholder%5Corcstronghold.jpg)
+
+Orcs do not usually farm and, as mentioned, rarely erect tall buildings, as they lack architectural and construction skills, and farming in the mountains is extremely precarious.
+As a result, orcs rely almost exclusively on natural food sources, which are far more diverse than human stomachs could handle.
+Thus, stone worms are eaten raw or dried, or even the tough flesh of rock crawlers is consumed.
+Thus, orc feasts, which take place at certain or undetermined times, are usually covered with barbaric amounts of meat, nuts and fruits as well as, for humans poisonous, starchy roots.
+Orcs, unsurprisingly, have no cooking specialties, and their dishes are usually cooked in or on the fire, or simply enjoyed raw.
+Orcs are neutral to most other races, excluding Halflings who like to be eaten at celebrations, as long as their hunting grounds and territories are not restricted.
+Orcs hunt with spears, which are too heavy for humans, but wild boars are also hunted without weapons for the sake of the fight.
+The weapons consist mostly, if no trade with higher civilizations exists, of the bones of various monsters or qualitatively medium-value iron or bronze, which are melted and processed in not always permanent settlements with blast furnaces.
+
+If orcs are placed in the service of the Emperor and the All-God, the use of heavy armor is especially recommended.
+Due to their strength, orcs were often equipped with heavy armor, which gives great advantages over enemy crossbows or archers.
+Orcs are very rarely able to use ranged weapons due to their short-sightedness, which means that their culture has never learned bow making.
+
+![Ranked Orc frontline fighter in plate armor in the service of the Imperial Army -painted by Vilus Traainim around 120 AD](Pictures%5CFlavor%5Cplaceholder%5COrk_Plattenr%C3%BCstung.jpg)
+
+## The religion
+
+Orcs, much to the chagrin of the missionaries of the Doctrine of the All-God, worship different but very similar nature gods.
+As an example, the orcs in Grimgrod, the permanent orc settlement at the northeastern end of the Heaven's Peak Mountains.
+Their god is called Akunmaahn.
+The crude drawings on a long lindworm-like hewn rock which lies in the settlement itself is their most sacred relic of it.
+According to their religion, this is a giant lindworm, which, according to their stories, eats all life after certain times.
+According to the orcs of Grimgrod, this represents the end of an era.
+Each new era begins as soon as the lindworm consumes the devoured world and disposes of its unusable remains. For the orcs of Grimgrod, their gray-brown skin color is proof that they have already been devoured.
+Besides the inevitability of this end, for orcs this very end, the end of their world, is the moment of the birth of a new world.
+Interestingly, it is about being absorbed into the eternal lindworm, the world devourer.
+Thus, as part of Akunmaahn, one can escape the cycle and eat and ingest whatever one pleases.
+In honor of Akunmaahn, sacrificial feasts are held regularly as a religious rite, where mostly old and weak orcs are sacrificed.
+Thus, in the body of a strong orc, you should have another chance to be accepted into Akunmaahn.
+At these festivals orcs dance in a very battle-like style and eat and copulate again and again in between which can be seen as a celebration of life.
+
+> "May Akunmaahn continue to give us these pleasures for a long time to come."
+>
+> - Kasck-Hal tribal leader in Grimgrod on the day of the eternal feast
+
+The eternal feast, which is also their kind of "paradise", is held on several dates not fixed to the imperial calendar.
+An indicator of the holding of the feast is the slaying of great beasts or abominations with the subsequent consumption of the same.
+
+Besides the "gluttony", another important religious act is the hunting of lime worms and the consumption of stone worms.
+This serves to demonstrate that orcs are superior to mundane lindworms, but yet by eating the stone worms, someone who does not want to anger Akunmaahn by considering the meal of lindworms as "low". Akunmaahn allows anyone who is eaten by the Lindworm, according to their beliefs, to be reborn as an even more powerful warrior, who will acquire its skin during the next Lindworm hunt, which will continue the eaten orc's life as part of the Lindworm until a more powerful orc hunts down that very Lindworm and consumes it.
+
+Other of the partly nomadic orc tribes have alternative "god-monsters" as their redeeming or ultimately devouring central element. Here, the goal is to be absorbed as part of the god-monster.
+
+The only known orc tribe about which almost nothing of the sort is known, and yet with this scant knowledge already blatantly breaks from these patterns, are the pale orcs from the Grey Wasteland.
+Little is known about the orcs of the Grey Wasteland, as only the traveling scholar Justanian Hertesin managed to find this orc tribe.
+
+Justanian himself could only share his knowledge through his incomplete work, which was found near H'abunaptra - the Sacred Mountain of Rah Kari-.
+
+> "Everybody knows orcs. Gray, green or red. All strong in body and weak in spirit. Now these orcs are different. They seem to have a culture which assumes that their creation was intentional and that their god lost his power in the battle with death. It should be noted that their god had no form and did not demand anything from them. One may marvel at the fact that these pale orcs, who call themselves Urk-Shum-Toks, live in peace for the most part and show little of the barbaric behavior that the other orcs exhibit. Their deity has disappeared, leaving the orcs themselves to serve their lives. As a result, the orcs lived in the greatest possible harmony. Resources were divided fairly, the whole tribe, which resembled a polyamorous bred, showed no violence towards me, although I was apparently the first light-skinned person these orcs saw. Their intelligence and charisma were equal to an educated citizen of the Empire or the Rah Kari and yet fundamentally different. A wonder what freedom their God gave to these infidels."
+>
+> --- Justanian Hertesin in "The Pale Orcs"
+
+## The plague of the orcs -- the nugrat orc eaters
+
+Particularly related to the thriving of orc tribes are the insect-like Nugrat Orc Eaters.
+These gliding denizens of the Sky Peak Mountains are widespread throughout nearly all of the Sky Peak Mountains.
+When adult, unless cornered, they show no aggression toward humanoids that are not orcs.
+Nugrat orc eaters feed primarily on plants in their adult state, occasionally eating small animals such as mice or fluffy runners in the mountains.
+Nugrats are extremely shy towards non-orcs and flee as soon as you try to approach them.
+
+Towards orcs, however, nugrat orc eaters are a nightmare made real.
+The animals, which are well adapted to the color of the mountains, have a longer spine, which they use to overpower and poison orcs.
+The nugrat orc eaters then lay an egg inside these orcs, which are paralyzed by the poison.
+After a few hours, the orc wakes up and rarely realizes that it has been attacked at all.
+The poison itself causes a short-term amnesia, which is comparable to that of obivisker potions.
+The puncture, if found, is usually only circular and hardly larger than a thumb.
+The orc itself is unaware of its deadly cargo, as the sting itself is said to be painless.
+Over the days and weeks, the larva grows inside the orc.
+Although every fourth orc apparently does not die from a sting, since no larva develops from it, it is an inglorious end for the other orcs.
+Thus, at a certain point, the orc itself loses control of its body, according to Rah Kari scholar Kat-al-Taht.
+However, the latter apparently remains conscious, as the eyes occasionally still respond to orc speech.
+The inglorious end of the orc itself, begins to shudder as the larva of the nugrat orc eater begins to make unnatural movements with the orc body.
+Thus, in the skin of the orc, which can then be imagined as a "leather bag with an insect", the body parts of the Nugrat-Orkesser intermediate stage are already growing. In this phase the insect also begins to slowly lose the gained control over the vocal cords again, considering the dissolution of these orcish tissues. In the meantime, it is possible for the nugrat larva to formulate crude sentences. The larva tries to have other orcs follow it out into nature to hunt and gather. This is, especially when harem leaders are affected, sometimes very successful. If a few unfortunates then follow this grotesque promise, the full-grown nugrat orc eaters usually lie in wait, overwhelming more orcs in the process. Unarmed orcs are inferior to the agile nugrats even in groups of 5 and turn into ticking time bombs as well. The "lure orc" warps into caves or under ledges, abandoning what's left of its once-proud shell and becoming a festering yellow-green hard websack from which the full-grown nugrat orc eater hatches.
+
+For the rarely diseased orcs themselves, this primordial plague in the form of the nugrats is probably one of the greatest forming components in their way of life.
+Thus, the orc tribes move around the Heaven's Peak Mountains to avoid being confronted with an overabundance of nugrat orc eaters after a few summers.
+In the outskirts of the Heaven's Peak Mountains, orc tribes occasionally resort to human or dwarven mercenaries, who pay them a tidy sum for each nugrat they kill, or provide them with tidy fighters for later.
+The mercenaries themselves use ranged weapons and skilled marksmen and local herders to find and hunt the visually well camouflaged nugrats.
+
+Grimgrod itself, despite high orc numbers for several centuries, has never been raided or besieged by nugrat orc eaters.
+The reasons for this are speculative.
+Either something else is driving the nugrat orc eaters away, or the high numbers of orcs and their rites are protecting the orcs.
+No Nugrat Orc Eaters are found in orc tribes outside the Sky Peak Mountains, such as around the Night Mountains or the Haze Peaks.
+However, their oral traditions prove just that.
+Orcs, child or adult, should never go gathering or hunting alone in the mountains.
+Only death by the Nugrat Orc Eaters lurks there.
+
+The human and dwarven cultures have made a business out of hunting nugrat orc eaters for centuries.
+This is lucrative in that the nugrats pose no threat to non-orcs, which is greater than forgetting that you've been out in the mountains for the last 6 hours if you get stung by a nugrat orc eater.
+
+## The legends
+
+### Themadorc - Worshipper of the Idols
+
+The story of Themadorc is as well known among the orcs of Grimgrod as it is among smaller mountain tribes south of the Bonefield Gorge.
+According to the story, Themadorc, as an orc of the Iron Red Desert, seemed so outlandish that he was cast out of the tribe.
+
+The story was confirmed by a scholar who accompanied an orc tribe (Toak-Chark-Aahn) in the Iron-Red Desert for several years, insofar as Themadorc was banished as an orc.
+Thermadorc was exiled for worshipping idols, and according to the story he spent years wandering the deserts where his body was seen wandering in moonless nights.
+Themadorc's legends probably reappeared a few years later in the stories of two orc tribes from the Misty Grove, also as a wandering orc who eats orc children who are not skilled in fighting, running and swimming.
+Again, some years later, in the middle of the southern sky peaks, there was a legend that an orc with burning eyes wandered through the mountains looking for strange stones.
+At some point, Thermadorc - which means "the hot-blooded one" or "of burning heart" - came to an orc tribe, which was Grimgrod, looking for sparkling stones.
+The gems, however, were recently bought from a dwarven merchant (supposedly from the dwarven city of Istval).
+The dwarf paid in the form of several dozen carts full of meat and dried fruit.
+For reasons unknown, Thermadorc then began to attack the orcs of Grimgrod, and was defeated by them after cutting down a dozen of their best warriors.
+
+His body was then thrown into a ditch outside the gates, where he lay for two days and then disappeared.
+Since the orcs assumed that shadow magic did not exist, according to the prevailing scholarly opinion, they set out to hunt and try to find Themadorc.
+However, this was not crowned with success.
+Neither his body as an Awakened nor his normal "I" could be found. Since that time, the orcs in Grimgrod no longer sell gems to dwarves, thinking that Thermadorc would return and collect their children's eyes as gems. The legend of the orcs themselves ends here, but there is a report from the dwarves of a brown-skinned, grotesque orc who fought his way slaughtering through the halls of Istval. Allegedly, this orc was also looking for gems and was not willing to pay for them. The dwarves tried to kill him with weapons, which was not crowned with success, and finally decided to bury him with an explosive charge under rubble with the words "Let the mountain take care of him".
+Even today there are dwarven tales that in the buried caves of Istval the scratching and grunting of an orc sitting on a sack of gems can be heard.
+![Depiction of the fight of the dwarves against the brown orc- probably Thermadorc](Pictures%5CFlavor%5Cplaceholder%5COrksVsDwarves.jpg)
+
+### Umchrug-Hal - the giant of Grimgrod
+
+Umchrug-Hal is a, presumably still living, legend among the orcs of Grimgrod and is considered to be the embodiment of an orc's goals - although even these goals are out of reach for the normal orc.
+Umchurg-Hal is believed to be the largest living orc and measures more than 2.5 meters, though reports sometimes suggest 3 meters.
+Although he comes from a tribe of Eldria's forest orcs - hence his green color - Umchurg-Hal was accepted into the tribe of Grimgrod under Kasck-Hal.
+Umchurg's life was characterized by orgies, the slaying of three lindworms, and the single-handed killing of an usukat.
+According to stories, during the Austen Massacre, Umchurg single-handedly killed an usukat, popularly known as the "Demon of Hell", and then bathed in its blood.
+As proof of this act, Umchurg-Hal wears the tanned skin, provided with the teeth of an Usukat as the only piece of armor, even in the cold nights of Grimgrod.
+The head, with the teeth torn out, is still found in the sleeping house of the tribal chief.
+Umchurg-Hal himself is now an old, but surprisingly fit orc, who is rarely seen directly in Grimgrod, at least no scholar has seen him for more than 20 years.
+
+In the course of his admission to the clan, Umchurg received his second name Hal - as a tribute to Kasck-Hal.
+
+![Umchurg-Hal the Giant of Grimgrod](Pictures%5CFlavor%5Cplaceholder%5CUmchurg-Hal_the_giant_of_grimgrod.jpg)

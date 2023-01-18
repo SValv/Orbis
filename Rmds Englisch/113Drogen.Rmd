@@ -1,0 +1,388 @@
+#Drugs and Plants {#DrugsPlants}
+
+## Effect of various drugs:
+
+Drugs include:
+
+* The <font color="green">[Euphorika](#Euphorika)</font>
+* The <font color="green">[Madnika](#Madnika)</font>
+* The <font color="green">[narcotics](#narcotics)</font>
+* The <font color="green">[sedatives](#sedatives)</font>
+* The <font color="green">[adrenalinics](#adrenalinics)</font>
+   
+<br>
+
+### Euphorics {#Euphorics}
+  * Lift mood,
+  * generate confidence,
+  * generate self-confidence.
+  * Lower inhibitions
+  * Lower aggressiveness
+  * Risk of addiction higher the stronger the euphoric used
+  * Addictiveness of level I is very low.
+  * Addiction risk from level IV - VI is very high.
+
+<br>
+
+### Madnika {#Madnika}
+  * Improve sensory and visual responsiveness
+  * Lower inhibition threshold
+  * Increase aggressiveness
+  * Decrease insight
+  * Massively decrease the sensation of pain
+  * Produce hallucinations (audio, visual, sensory)
+  * Trigger amnesia
+  * High risk of addiction!
+
+<br>
+
+### Narcotics {#narcotics}
+  * Make you sleepy
+  * Lower blood pressure
+  * Lower pain sensation
+  * Massively reduce reaction speed.
+  * Very high risk of addiction!
+
+<br>
+
+### Sedatives {#Sedatives}
+  * Lower the aggressiveness
+  * Decrease alertness
+  * Increase lethargy
+  * Lower blood pressure
+  * Make people easily tired.
+  * Slightly addictive.
+
+<br>
+
+### Adrenaline drugs {#adrenaline drugs}
+  * Improve reaction time.
+  * Lower the sensation of pain.
+  * Lower the inhibition threshold.
+  * Increase access to physical power reserves
+  * High risk of addiction!
+    
+## Drugs and their ingredients {#App}
+
+Drugs in Orbis Astera are obtained from different plants
+
+```{r}
+gr=read_xlsx("Container/Data/AllaroundDataStorage.xlsx",sheet="Plants")
+
+gr=gr[-c(1,nrow(gr)),-c(2,27)] %>% pivot_longer(2:25, names_to = "Region") %>% filter(value==1) %>%
+  select(-c(value,rarity,frequency)) %>% arrange(region,name)
+
+
+
+htmltools::browsable(
+  tagList(
+    div(
+      div(tags$label("Region: ", `for` = "region-filter")),
+      tags$select(
+        id = "region-filter",
+        onchange = "Reactable.setFilter('region-filter-table', 'Region', this.value)",
+        tags$option("All", value = ""),
+        lapply(unique(gr$Region), tags$option),
+        
+      )
+    ),
+    
+    #tags$hr("aria-hidden" = "false"),
+    
+    reactable(gr, searchable = T,
+              columns = list(
+                Cost = colDef(format = colFormat(suffix = " Reiks")),
+                Region = colDef(show=F)
+              ), bordered = T, highlight = T, showPageSizeOptions = TRUE,
+              striped=T,
+              pageSizeOptions = c(5,10, 20, 50),
+              defaultPageSize = 10, paginationType = "jump",
+              theme= overallThemeReactable, defaultColDef = colDef(
+                align = "center"
+              ),
+              elementId = "region-filter-table")
+  ),
+)
+
+
+```
+
+## Drugs in different civilizations
+
+### Dealing with drugs by the empire {#DrugsEmperor}
+
+> "Drugs bring out the worst in men and the most immoral side of women."
+>
+> --- Pontifex Maximus Arturius Seius
+
+Drugs belong to the history of the people of the Empire, to the reluctance of the ecclesia. The common citizen uses in most times beer, wine and liquor which all belong to the simplest euphorics. The effects of these are known to almost every humble person.
+The toast with beer, belongs for the normal population to every tavern visit. Here, a tolerable amount of beer is usually consumed.
+
+Better-off classes prefer to drink wines. The effect is identical to that of a tankard of beer.
+
+In more recent times, the plague of Madnika mainly affected Eldria and partly in rituals among various orc tribes. Due to the Empire's stringent crackdown, Madnika abuse has been largely contained.
+It should be mentioned that Madnika are not taken by the general population, as the conditions are not fun, let alone consequence-free, as under the intoxication of Madnika often other laws are broken.
+Madnika are, however, used by drug addicts to compensate for the adverse effects of withdrawal.
+
+Sedatives are used in the treatment of various diseases.
+In particular, the treatment of traumatized soldiers who are no longer actively serving the emperor is also recommended by official bodies.
+
+Narcotics are available up to level IV medically relevant interventions, such as severe injuries or prevention of suffering directly in severe injuries without prospect of medical treatment. Light level I & II narcotics are used in the treatment of minor injuries (infection of teeth).
+However, when using narcotics, care should be taken to minimize the amount and frequency of application.
+
+Adrenalin drugs are forbidden for the general population. They are usually used in battles and in the suppression of riots or in intensive operations of the forces of law and order.
+Because of the advantages in combat, the penalties for possession by the civilian population are relatively high.
+Adrenaline is an addictive substance and a problem that the Empire is aware of, but does not have an effective solution for, especially for soldiers who have served on the front lines for many years. Off-duty soldiers are usually allowed to take sedatives in individual cases by official decree.
+
+
+Narrowly defined drugs that are restricted by law are all euphorics of level III and higher.
+Level II and higher sedatives are legally available only to trained alchemists and healers and may be administered only by them.
+Level III and IV sedatives may be used only under special circumstances (wars, operations).
+Level I and II narcotics may be sold by healers and alchemists.
+Level III- IV narcotics may only be used under special (wars, operations) circumstances by trained professionals.
+
+Adrenalina are legally available only to law enforcement officers of the Empire and the Imperial Army.
+
+Madnika are not allowed by law in any level and are therefore completely forbidden.
+
+Possession of the above substances is punishable by up to 10 years imprisonment. Repeat offenders can be judged by the axe. There is no blessing by the ecclesia.
+
+The possession of the above mentioned substances leads under all circumstances - apart from direction by axe - to purification under the direction of the regional department of the Ekklesia.
+
+
+## Use of the plants
+
+The diverse flora of the formerly large forests cannot be overlooked even by laymen today. The local elves possess an incredible wealth of knowledge about all this flora, which would be worth its weight in gold to alchemists from the Empire, as well as the realm of Rah Kari. However, the elves are not particularly eager to share their alchemical knowledge, despite trade with the Empire.
+
+Thus, alchemists and healers have often had to pay with their lives, or unwittingly send their patients and clients to the realms of the All-God just to better understand the effects of plants and certain animal ingredients.
+
+Although the flora and fauna of the rest of the Empire has been put in the service of food since the subjugation of the countryside, and accordingly the non-human world has already lost much of its wealth, the remaining fauna and flora serves the Empire and the All-God quite successfully, as well as the savages of the Rah Kari.
+Orcs in particular, despite low intelligence, have accumulated an incredible wealth of benefits and effects of plants over the centuries of their presumably earlier some culture.
+
+However, what is far more important and fundamental than the production of aphrodisiacs or drugs, is the nutrition of the people.
+
+Here, the pastures, forests and fields, as well as the rivers and lakes and, of course, the sea count as essential.
+
+Here, originally, in addition to wringing the forests from the elves, the generation of arable land and pastures was inevitably necessary, because otherwise the empire could not feed its growing population. In this respect, the displacement of the elves was justified in the name of preserving the supreme creation of the All-God.
+
+> "My brothers and sisters, I say to you, subdue the earth. Plow it. Sow it, reap it, for thereby the All-God shows your love. If nothing grows out of the ground, you have not paid homage to the All-God. Repent, then, so that the goodness of the All-God may come to you."
+>
+> Father Arhenius Ritionian - 213 after Riga in his sermon on the occasion of the annual harvest festival of the All-God
+
+
+Although by now it is sufficiently known that primarily sufficient fertilization and the absence of the Kriiin fungus are of paramount importance for a rich harvest, one should still worship Saint Torius because, after all, the All-God still influences the rain.
+
+
+### Crops
+
+The basic source of food for the people of the Empire is wheat and primarily the bread made from it.
+There are different "types" of wheat, which have been selectively bred to produce other varieties.  These include oats, barley, maiak, and the Kariok root tuber, which grows only in Yondalla.
+These few plants are the basis for the population wealth of the empire and are widely cultivated and various breeds.
+
+
+
+![Wheat Fields of Yondalla](Pictures\Flavor\Placeholder\WheatField.jpg)
+
+They are mainly used to meet basic needs and are easy to store. Explicitly, the Kariok root tuber has excellent storage properties and, with blue beans, provides the cheapest simplest but safest food for the population and is generally referred to as the food of the common people.
+
+Barley grows everywhere, except in the steppily cold areas around the Ice Desert, and is used to make the liquid bread called beer.
+
+Oats are excellent for better soils and are used to cover the staple food, especially in colder years, as oats are easier to store and can cope with more adverse conditions than the sometimes sensitive wheat varieties that can be grown in Yondalla beiahes every year.
+
+Maiak is a cereal staple food originally believed to have come from the Berma Valley. Although it is much richer and more filling, it is usually eaten only by nobles and princes and military commanders.
+
+
+An incredible variety of tasty fruits are grown on the borders of the Great Forest and Yondalla, as well as in Eldria. The most widespread fruits are huge plantations of stain pears, rose apples, torius cleavers, walok fruits - which is due to their easy storage.
+
+
+The diet of the richer strata of the population is often more meat-heavy than that of regular peasants.
+The carnal pleasures, which may be indulged according to the All-God, are the consumption of game, pork, fat pigeons, chickens. Although the consumption of monster meat is not forbidden in general, due to its rarity, apart from the orcs, you will not find good cuisine that processes these absurdities and rarities.
+
+For example, the flesh of a lindworm is described as tough, bitter and stinking of sulfur, which is intensified after cooking. Only orcs regularly eat almost raw lindworm meat.
+
+Fish and crustaceans, for many cities, especially lakes and coastal areas, such as Nors and Riga, offers a wide range of tasty and sometimes inexpensive fish which is often eaten by the general population as well as the nobility (which led to a regional disdain for fat pigeon meat).
+
+
+
+![Wheatfields of Yondalla](Pictures\\Flavor\Platzhalter\Toriusspalte.jpg)
+
+
+![Wheat fields of Yondalla](Pictures\Flavor\Placeholder\Wheatfield.jpg)
+
+
+### Use of plants for common ailments and afflictions
+
+The list of plagues, chills, fevers, pestilences, and inconveniences that the All-God sent us into this world is well known to anyone who has spent time in the poor quarters of the cities.
+
+However, by the grace of the All-God, every herb has been given a benefit for the sheep of the All-God.
+
+A short list of well known remedies:
+
+Golden Mushroom:
+In smallest quantities, the expensive gold mushroom lifts against diarrhea and sufferings of the head such as madness and prowling. Large quantities quickly become toxic and cause both watery and red eyes for days and vomiting.
+
+Pearl Water Herb:
+Together with boiled-down wine and some gelatin, this can be used to make an excellent remedy for those meddlesome mosquitoes or blood spirits. The resulting ointment is left to dry on the skin and should be renewed about every 2 days.  An overdose of pearl water herb in contact with the eyes or mucous membranes causes only a sneezing attack, which stops immediately when washed off with water.
+
+Sweet Stain Pear:
+The widely used and used sweet stain pear helps with states of exhaustion and sleepiness of the limb. For this, the stain pear must be dried, cut and then boiled with black oil. The resulting paste can be further dried and thus chewed with relish or simply swallowed with sufficient water.
+
+Ji-Tai Mushroom:
+Ji-Tai mushrooms have no use in the alchemy of combat, but are excellent for relieving tension in the muscles, and so in dried form are the frequent companion for farmers doing heavy physical labor. Jitai mushrooms should not be mixed with alcohol under any circumstances, as this can cause the dreaded mental disease of prostitution.
+
+Ratian Root:
+The root, along with some pork fat and dried chicken feathers are used as an ointment for rashes on the skin. They have a soothing and antipruritic effect and were recommended when wandering through the southern elven forests to help control the itching of the bedbug bites. Ratian root cannot be overdosed and several reports say that soldiers sold their greaves to rub their bodies with ratian root just to sleep peacefully.
+
+Peskin Brush Tubers:
+Peskin brush tubers are excellent in helping with the dreaded fat pigeon plague (which is NOT from fat pigeons). To do this, the root, raw or cooked must be eaten every 2 hours at the first symptoms of the disease. Due to the bitter sharp taste is recommended to eat the tubers with fruit.
+
+
+Uraninan leaves:
+Originating from the southern elven forests, this plant, despite its price, is found in the warehouses of almost all princely alchemists, as it prevents the transmission of the bluetongue plague. This is also the reason why often the head priest of an ecclesia has a small stock of uranium leaves. This is then given to the generous donor of the ecclesia at plague times with the typical sip of mass wine.
+Uranian leaves must be taken before meals and during long plague epidemics often cause nobles to be thin, which is why it is considered chic in the higher social classes to be thin, because this shows that the blue tongue plague stays away from you.
+
+
+Warty Hump Root:
+Its properties in potions are well known. Less known is that the mastoid root is an ideal remedy against hangovers from too much alcohol and against fleas from real hangovers. It is possible to soak wart hump root in alcohol and then drink it in a highly diluted form.
+However, wart hump roots are slightly gitfig fresh and lead to vomiting.
+
+
+Heinrich's wort:
+Heinrichskraut is among the most complicated medicinialinkan to make, but provide in curing the dreaded back wart maggot infestation.
+It should ONLY be made by trained and accredited alchemists/healers.
+
+Manufacture:
+Heinrichskraut is first boiled in red wine for about 4 days, always adding red wine, otherwise it will evaporate. (A pot with a lid reduces the amount of red wine used).
+
+The red wine must be poured off afterwards after the 4 days in the still HOT condition, best over a sieve.
+The Heinrichskraut must NOT cool down.
+After draining, the Heinrichskraut must simmer for 15 minutes (a suitable hourglass is obligatory) in the blood of the person to be treated - here the blood must already be heated with willow bark extract (a popular remedy for hangovers or headaches).
+After 15 minutes of simmering, the remains of the herb can be drained off with a sieve. The mixture of blood and herb components must then be allowed to cool to body temperature.
+The body-warm liquid must then be reheated in a copper pot (in no case use a copper pot beforehand) until it becomes a viscous mass. The viscosity is comparison with the sputum from a late cold.
+
+Afterwards, the viscous mass must be placed again in alcohol as pure as possible and stirred WITHOUT heat until the mass has dissolved.  The mass is then transferred to a pot containing purified (blood-free) sheep's liver. The sheep's liver should ideally be finely pureed.
+Then the alcohol-Heinrichskraut blood solution is added and stirred continuously for 1 day (it is recommended to use a maid for this as the time of the alchemist/healer can be better used).
+
+Thus, the preparation of the remedy takes a little more than 5 days and requires the person to be treated on site (for the blood).
+
+The healing houses set up in the big cities usually have several rooms available where each sick person has to be treated individually, because under certain circumstances the maggots already shoot out of the pus-filled humps/warts 5 days ago. The pus fluid is infectious, the maggots themselves probably transmit their own disease, since even the manual, painful removal of the maggots does not bring any relevant improvement of the disease.
+
+It is therefore recommended to wear masks, ideally made of leather, which cover the entire body of the alchemist. The eyes should be covered with glasses. In later states, those to be cured can no longer move and must be fed and supplied with the remedy until their condition improves.
+
+Sick people should be reported to the offices of the authorities, because in cities the disease spreads rapidly.
+
+
+
+### Diseases and plagues:
+
+
+Mosquitoes: - Antidote: Pearl waterweed -
+Small winged insects, breed in pools are a year-round pest especially in more southern or warmer elven geibetas. In more northern areas, the harvest months are affected by infestations. Mosquito bites are not fatal, but can be problematic for livestock in mountainous regions due to the painfulness of the bites, as livestock can fall from kilps when a swarm of mosquitoes plague them.
+In Edlria, because of this, fishnet robes have always been fashionable for women in the nobler social groups during the summer months.
+
+Blood Spirits: - Antidote: Pearly Waterweed
+Blood spirits are worm-like conchenless animals and look like leaves when lurking. In the cooler months, they are usually only drifted from the bushes to which they cling and quickly warm up on the skin of the victim wodruch they become active and bite, which is not noticed by the victims, because the bite only about 2 hours later begins to itch. The itch remains untreated for about 5 days and is usually strongest on the 4th day, which is a torment for soldiers of the artillery, as they must remain concentrated.
+Blood ghosts Fall off (females) or fly off (males) after sucking the blood.
+In the summer months, especially in dense forests around and in the great elven forest, it is impossible to avoid the blood spirits because the males explicitly fly at humans (but not elves or orcs).
+If there is no antidote as an ointment, torches are recommended.
+The beasts fly only during the day and can be wiped off at night, as in winter.
+
+
+
+Wart bugs: - Antidote: Ratian root
+
+
+Fat pigeon plague: - antidote: peskin brush tuber
+
+The plague, which has to be reported to the official departments of the offices, is fatal in about every fifth case.
+Fat pigeon plague is transmitted by mason beetles and this usually takes place in the neighborhoods abandoned by Allgott. This led to the cleansing of the poor quarters in 234, 256, 289, 354, 389, 653, 799 and 801. Since 801, the fat pigeon plague occurs only sporadically.
+The Kranhketi expresses itself by a bloated abdomen, swollen legs and complete hoarseness of the affected. The fatal cases die mostly by externally or internally torn abdominal cavity, whereby it comes to bleeding to death.
+
+> "Fat pigeons transmit the pestillence you say, but I claim your mind is abandoned by the All God. The pestilence is transmitted by the contact with mason beetles in the bad houses. Behold, Emperor, as this beetle bites me, so will I enter the realms of the All-God in 5 days "
+>
+> --- Healer Varin Sol Aian - Died 5 days after the presentation to the Emperor from fat pigeon plague
+
+
+Bluetongue plague: - Antidote: Uraninan leaves
+
+Bluetongue plague is not apparent externally, when wearing robes. However, when the robes are removed, the blue coloration of the upper part of the body and the swelling of the chest quickly become apparent. During the first days of the infection, the libido of the affected person increases to almost immeasurable levels, which leads to the disease of male lust (sexual intercourse between 2 sons of the All-God).
+In this phase most of the infections take place.
+Blue tongue plague is fatal in 4 out of 10 cases. When treated with urananine leaves, which primarily prevents transmission, but also increases the likelihood of survival, only 1 in 10 sufferers die.
+The stages of the disease are as follows:
+
+Day 0: Transmission
+Day 1-2: Lustus: Massively increased desire for sexual intercourse
+Day 2-7: No symptoms except for blue upper body and swelling of the chest - no pain of the affected person
+Day 7-14: Deterioration of breathing (weak, shallow breathing, becoming irregular) Death by suffocation.
+
+
+Dorsal wart maggot infestation: - Antidote: Heinrichskraut
+
+Infection occurs by contact with fluid from an infected person or by infestation with the maggots of the yellow legged fly.
+The cure is costly and long lasting. Without treatment, all patients die.
+With treatment, about half of the patients die.
+
+Day 0: Infection
+Day 1-2: Tension in the back, small yellow-red spots with a small hole in the center.
+Day 3-5: Formation of the typical wart-like bumps, mostly on the back of the patients.
+Day 6-9:Bursting of the first wart-like bumps - IMMEDIATELY WEAR LED MASK. Patients cannot wear the clothing as it is extremely painful for them. The bursting of the humps usually leads to blood loss, fainting and death in the following days.
+
+Treatment must start at the first symptoms, otherwise the maggots are too advanced.
+
+In poorer areas, the infestation of backworm maggots usually leads to the immediate exclusion of the affected person from society, if the latter cannot afford the cost of treatment.
+In many cases, suicide is chosen by those affected, as the pain increases immeasurably from day 3 onwards.
+With day 6-9, the patients, after sometimes days of screaming hoarse or faint.
+
+### Known diseases & ailments of humanoids and their companion animals
+
+In principle, 2 major groups of ailments are known. Parasitic and physical ailments.
+This classification has the meaning in the everyday life of healers, because they can primarily only alleviate the symptoms when it comes to body weaknesses. In the case of parasitists, on the other hand, the cause, the infestation by small living creatures, can be remedied, whereby the sick person can be cured.
+
+Although not all parasitists can be cured in all cases, healers and alchemists usually know how to prevent these diseases. In the case of body weaknesses, on the other hand, the cause is unknown. From evil spirits, curses of werewolves, blessings of blood gods or work of redheads, everything is possible in the vernacular. However, healers always point out in vain that there are also cases without these causes, but this is often ignored.
+
+Parasitists:
+The natural ones, which are caused by small living creatures.
+These include maggot infestations, worm infestations, beetles and other creatures that move on and in our bodies, causing suffering to their hosts.
+
+Body weaknesses:
+When the body is not as strong as usual, it is generally referred to as body weaknesses. The technical term corpuslauchhi is used among healers, but it usually only says that the symptoms should be alleviated.
+
+Diseases of the skin
+
+Diseases of the loins
+
+Diseases of the intestines
+
+Diseases of the bones
+
+Diseases of the head
+
+
+
+#### Parasitists:
+
+##### parasitists of the skin
+
+##### Parasitists of the loins
+
+##### Parasitists of the intestines
+
+##### Parasitists of the bones
+
+##### Parasitists of the head
+
+
+#### Body weaknesses:
+
+##### body weaknesses of the skin
+
+##### Body weaknesses of the loins
+
+##### Body weaknesses of the intestines
+
+##### Body weaknesses of the bones
+
+##### Body weaknesses of the head
+
+
+####

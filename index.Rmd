@@ -1,7 +1,7 @@
 ---
 title: "Orbis Astea"
 date: "Version vom: `r format(Sys.Date(),'%d.%m.%Y')`"
-author: "DM-App Version: 3.6"
+author: "DM-App Version: 3.605"
 site: bookdown::bookdown_site
 favicon: "roundIco.ico"
 ---
@@ -12,15 +12,15 @@ favicon: "roundIco.ico"
 
 ![](Pictures/Team/OrbisAsteaSchriftzugT.png)
 
-## Was ist Orbis Astea
+## Was ist Orbis Astea?
 
-Orbis Astea ist ein Open Source Pen and Paper Rollenspiel, welches von einem deutschsprachigen [Team](#Team) entwickelt wird. Momentan ist es zum kostenlosen [Download](DMAppDownload) über diese Website verfügbar. Die Idee von Orbis Astea besteht darin einen flüssigen und einfachen Spielspaß für Spieler und DM zu garantieren, während Regeln und Abläufe so automatisiert und einfach wie möglich zu halten. Gerade für Spieler ist Orbis Astea ein einfach zugängliches und schnell erlernbares System (einen Spieler spielfähig zu machen dauert 15 Minuten bis eine Stunde). Auch hat Orbis Astea den Vorteil, dass Aktionen sehr schnell durchführbar sind. Außerdem bietet Orbis Astea viele zusätzliche Funktionen wie eine vielzahl direkt spielbarer und dennoch leicht unterschiedlicher Profile für NPCs, automatische Händlerinventare, anonyme Charaktersheets und und und - am besten probiert man es einfach aus. Orbis Astea benötigt einen Computer auf dem der DM das Programm ausführt.
+Orbis Astea ist ein Open Source Pen & Paper Rollenspiel, welches von einem deutschsprachigen [Team](#Team) entwickelt wird. Momentan steht es zum kostenlosen [Download](DMAppDownload) über diese Website zur Verfügung. Die Idee von Orbis Astea besteht darin einen flüssigen und einfachen Spielspaß für Spieler und DM zu garantieren, indem Regeln und Abläufe so automatisiert und so einfach wie möglich gehalten werden, während gleichzeitig eine umfassende Palette an Spiel-Facetten/Funktionalität geboten wird. Gerade für Spieler ist Orbis Astea ein einfach zugängliches und schnell erlernbares System (einen Spieler spielfähig zu machen dauert 15 Minuten bis eine Stunde). Auch hat Orbis Astea den Vorteil, dass Aktionen, wie beispielsweise ein Kampf, das Schaffen eines erholsamen Pauseplatzes oder das Lenken von Fahrzeugen, sehr schnell durchführbar sind. Orbis Astea bietet darüber hinaus viele zusätzliche Funktionen, wie eine vielzahl direkt spielbarer und dennoch leicht unterschiedlicher Profile für NPCs, automatische Händlerinventare, anonyme Charaktersheets und und und - am besten probiert man es einfach aus. Orbis Astea benötigt einen Computer auf dem der DM das Programm ausführt.
 
-Orbis Astea ist ein low-fantasy Setting, welches kein aktives Magiesystem besitzt. Das System selbst funktioniert mit jedem Worldbuilding welches ähnliche Umstände hat - also etwas näher an der Realität ist - allerdings funktioniert das System natürlich am besten mit der Lore von Orbis Astea - da viele Gegenstände und manche Mechaniken an diese Welt angepasst sind.
+Orbis Astea bietet sowohl Elemente aus dem High- als auch Low-fantasy Setting, verfügt jedoch über kein aktives Magiesystem. Das System selbst funktioniert mit jedem Worldbuilding welches ähnliche Umstände hat - also etwas näher an der Realität ist (XXXX MAN KANN ES AUCH AUF ANDERE EIGENE wELTEN ANWENDEN; SOLANGE ES NÄHER AN DER REALITÄT DRAN IST, ein hoch anpassbares System, das verschieden angepasst werden kann). Allerdings funktioniert das System natürlich am besten mit der Lore von Orbis Astea - da viele Gegenstände und manche Mechaniken an diese Welt angepasst sind.
 
 ## Übersicht über die Welt
 
-Wir schreiben das Jahr 426 seit Gründung des Kaiserreichs. Der Große Krieg zwischen den Rah Kari und dem Kaiserreich liegt 5 Jahre zurück, seitdem befinden sich die beiden Großen Reiche in einem kalten Krieg miteinander. Hierbei kommt es immer wieder zu Auseinandersetzungen zwischen Truppen der Rah Kari und des Kaiserreichs - genauso wie zu vielen Stellvertrerkriegen.
+Wir schreiben das Jahr 426 seit Gründung des Kaiserreichs. Der Große Krieg zwischen den Rah Kari und dem Kaiserreich liegt 5 Jahre zurück, seitdem befinden sich die beiden großen Reiche in einem kalten Krieg miteinander. Hierbei kommt es immer wieder zu Auseinandersetzungen zwischen Truppen der Rah Kari und des Kaiserreichs - genauso wie zu vielen Stellvertrerkriegen.
 
 # Die Karte
 
