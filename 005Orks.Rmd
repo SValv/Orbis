@@ -4,34 +4,18 @@ editor_options:
     wrap: sentence
 ---
 
-<<<<<<< HEAD
 # Die Orks {#Orks}
-=======
-# Die Orks
->>>>>>> 4f7394010f2cd1aae5fc4dd8250b84ce1458194a
 
 > "Man versklavt Orks nicht. Orks gibt man einen Grund etwas zu tun und belohnt sie anschließend mit reichlich Bier und Essen. Dann sind sie die treuesten und besten Soldaten, die sich ein Kaiser nur wünschen kann!"
 >
 > --- Lucillus Proximus
 
-<<<<<<< HEAD
 Orks, eine der Rassen mit einer einfacheren Kultur, sind im Erscheinungsbild von grob menschlicher Statur.
 So kann man schmächtigere Orks mit kräftigeren und größeren Menschen verwechseln, wenn diese aus Richtung der Abendsonne auf eine Person zustürmen.
 Bei näherer Betrachtung zeichnen sich jedoch einige eklatante Unterschiede ab.
 So sind die Hautfarben stärker variierend als dies bei Menschen oder Zwergen der Fall wäre. Ihre Körpergröße ist meist knapp unter 2 Metern, und Stoßzähne am unteren Kiefer sind die stärksten Merkmale.Es gibt jedoch auch zunehmend Orks, die über dieses auszeichnende Merkmal nicht verfügen. Um sich in ihrer Stammeszugehörigkeit nicht gemindert zu fühlen, tragen sie auffälligen Unterlippenschmuck oder Helme, die über zusätzliche Spikes und Hörner verfügen.
 Weniger auffällig ist, dass Orks in den seltensten Fällen fähig sind Fernkampfwaffen zu nutzen, da ihre Kurzsichtigkeit nur das anvisieren in Wurfreichweite ermöglicht. Ihre insgesamt dennoch körperliche Überlegenheit reichte jedoch augenscheinlich dafür aus, um in der Welt zu überleben.
 Ein weiterer Unterschied zu den Menschen ist die geringer ausfallende Unterscheidbarkeit von Frauen und Männern bei Orks. Zwar sind Brüste, ein etwas breiteres Becken und geringere Körperbehaarung durchaus ähnlich wie bei Menschen erkennbar, jedoch lässt die allgemeine Muskulösität diese Unterschiede deutlich in den Hintergrund treten. Hinzu kommt, dass es in Orkstämmen keine klare oder permanente traditionelle Rollenzuweisung gibt, könnte diese Tatsache in den beobachteten geringeren Unterschied erklären.
-=======
-Orks eine der Rassen mit einer einfacheren Kultur, sind im Erscheinungsbild von grob menschlicher Statur.
-So kann man schmächtigere Orks mit kräftigeren und größeren Menschen verwechseln, wenn diese aus Richtung der Abendsonne auf einen zustürmen.
-Bei näherer Betrachtung zeichnen sich jedoch einige eklatante Unterschiede ab.
-So sind die Hautfarben stärker variierenden als dies bei Menschen oder Zwergen der Fall wäre, ihre Körpergröße ist meist knapp unter 2 Metern, und Stoßzähne am unteren Kiefer sind die stärksten Merkmale.
-Weniger auffällig ist, dass Orks in den seltensten Fällen fähig sind Fernkampfwaffen zu nutzen, da ihre Kurzsichtigkeit nur das anvisieren in Wurfreichweite ermöglicht.
-Aufgrund ihrer überlegenen Körperlichen Kraft reichte dies augenscheinlich aus, um in der Welt zu überleben.
-Ein weiterer Unterschied zu den Menschen ist die geringer ausfallende Unterscheidbarkeit von Frauen und Männern bei Orks.
-Zwar sind Brüste und ein etwas breiteres Becken und geringere Körperbehaarung durchaus ähnlich wie bie Menschen, jedoch lässt sich die allgemeine Muskulöstität weniger klar zwischen den Ork Geschlechtern Unterscheiden.
-Bedingt auch durch die Tatsache, dass es in den Orkstämmen keine klare oder permanente Rollenzuweisung gibt, könnte diese Tatsache in den beobachteten geringeren Unterschied erklären.
->>>>>>> 4f7394010f2cd1aae5fc4dd8250b84ce1458194a
 
 Die angesprochene Mannigfaltigkeit bei den Hautfarben oder Hautschattierungen bei den Orks ist meist stammspezifisch und lässt gelegentlich Rückschlüsse auf Stammesverwandtschaften zu.
 So wurde, im Werk von Kat-al-Taht, einem Gelehrten der Rah Kari, in seinem Buch "Orks, Wegweiser, Gefährten, Krieger" folgendes dargelegt:
@@ -42,22 +26,12 @@ So wurde, im Werk von Kat-al-Taht, einem Gelehrten der Rah Kari, in seinem Buch 
 >
 > -   Kat-al-Taht, aus "Orks, Wegweiser, Gefährten, Krieger"
 
-<<<<<<< HEAD
 Die körperliche Stärke von Orks ist die höchste aller Rassen. Selbst jene Orks, die in der Stadt aufgewachsen sind, haben meist bereits im jungen Erwachsenenalter die körperliche Kraft hart gesottener Soldaten.
 Zu den eher kulturellen Unterschieden, dass Orks sprachlich weniger gewandt zu sein scheinen, wird angenommen, dass diese womöglich aufgrund der gelegentlich störend großen Stoßzähne oder auch ihrer bescheideneren Intelligenz bedingt sind.
 Charismatisch, wenig überraschend, Reihen sich Orks in die Rasse der Goblins ein und sind somit weniger geschickt im Umwerben von Geschäftspartnern oder sonstigen interagierenden Parteien.
 
 Orks ernähren sich primär von erlegten Beutetieren, wild gesammelter Nahrung wie Pilzen, Beeren oder Gräsern oder auch ihren eigenen Toten.
 Obwohl Orks kurzsichtig sind, und dementsprechend keine Fernkampfwaffen effektiv benutzen können, sind diese allerdings, aufgrund ihrer unheimlichen körperlichen Stärke, in der Lage selbst große Eber mit ihren Knochenspeeren auf eine Distanz von mehreren dutzenden Metern zu erlegen.
-=======
-Die körperliche Stärke von Orks ist die höchste von allen Rassen.
-Selbst in der Stadt aufgezogene Orks haben meist bereits die körperliche Kraft von hartgesottenen Soldaten.
-Zu den eher kulturellen Unterschieden, ist die Tatsache, dass Orks sprachlich weniger gewandt zu sein scheinen, womöglich bedingt aufgrund der gelegentlich störend großen Stoßzähne oder auch ihre bescheidenere Intelligenz.
-Charismatisch, wenig überraschend, Reihen sich Orks in die Rasse der Goblins ein und sind somit weniger eloquent im Umwerben von Geschäftspartnern oder sonstigen interagierenden Parteien.
-
-Orks ernähren sich primär von erlegten Beutetieren, wild gesammelter Nahrung wie Pilzen, Beeren oder Gräsern oder auch ihren eigenen Toten.
-Obwohl Orks kurzsichtig sind und dementsprechend keine Fernkampfwaffen effektiv benutzen können, sind diese allerdings, aufgrund ihrer unheimlichen körperlichen Stärke, in der Lage selbst große Eber mit ihren Knochenspeeren auf eine Distanz von mehreren dutzenden Metern zu erlegen.
->>>>>>> 4f7394010f2cd1aae5fc4dd8250b84ce1458194a
 
 > Aufgrund ihres "wilden" Lebensstils, was für einen kaiserlichen Missionar wie mich tatsächlich eher eine Untertreibung darstellt, sind Orks gegenüber herkömmlichen Krankheiten beinahe immun.
 > Orks waren auch die einzige Rasse, welche nicht von der großen Seuche - der Irae Omnideus - befallen wurde.
@@ -66,20 +40,12 @@ Obwohl Orks kurzsichtig sind und dementsprechend keine Fernkampfwaffen effektiv 
 
 ## Die Geschichte {#OrkGeschichte}
 
-<<<<<<< HEAD
 Über die allgemeine Geschichte der basalen Kultur der Orks ist wenig aus eigenen Schilderungen der Orks bekannt. Mündliche Überlieferungen scheinen immer denselben Themen, von Erfolg, Misserfolg, Wachstum und Zerfall von Stämmen zu handeln. Jedoch werden dabei keine genauen Daten festgeschrieben, wie dies Chronisten des Kaiserreichs oder der Rah Kari tun.
 Aus eben jenen Aufzeichnungen lassen sich grob die mündlichen Überlieferungen bestätigen, welche bei den Orks Tradition haben.
 Die etwas weniger ausführliche Geschichte der Orks bedingt sich auch in den stark konservierten Riten der Orks, welche sich seit Jahrhunderten unverändert in deren Gesellschaft widerspiegeln.
-=======
-Über die Allgemeine Geschichte der basalen Kultur der Orks ist wenig bekannt, was aus Sicht der Orks geschildert wäre.
-Mündliche Überlieferungen scheinen zwar von immer denselben Themen, von Erfolg, Misserfolg, Wachstum und Zerfall von Stämmen zu reden, jedoch ohne genaue Daten festzuhalten, wie dies Chronisten des Kaiserreichs oder der Rah Kari tun.
-Aus eben jenen Aufzeichnungen lassen sich grob die mündlichen Überlieferungen bestätigen, welche bei den Orks Tradition haben.
-Die etwas weniger ausführliche Geschichte der Orks bedingt sich auch in den stark konservierten Riten der Orks, welche sich wie seit Jahrhunderten unverändert in der Gesellschaft widerspiegeln.
->>>>>>> 4f7394010f2cd1aae5fc4dd8250b84ce1458194a
 
 ## Die Gesellschaft {#OrkGesellschaft}
 
-<<<<<<< HEAD
 Die Gesellschaft der Orks ist im Allgemeinen einfach und von Ehren-Strukturen gegliedert. Ursprünglichere Orkstämme aus den Himmelspitzengebirgen sind in den meisten Fällen nomadisch und verbleiben nur wenige Wochen oder Monate an einem Ort. Orkstämme an den Rändern der Himmelsspitzengebirge, so wie in anderen Bereichen, sind hingegen häufiger sesshaft.
 Bedingt wird der nomadische Lebensstil über das „abernten" von allem Essbaren in der Region und der Anwesenheit der Nugrat-Orkesser. Letztere sind eineinhalb bis zwei Meter große insektenähnliche Tiere, welche einen parasitoiden Lebensstil mit ihren Orkopfern führen. 
 Nugrat-Orkesser jagen, aus für Gelehrten unverständlichen Gründen, nur Orks, überwältigen diese und legen ihre Eier in den weiterhin lebenden Ork. Aufgrund der Agilität und Sprungflugfähigkeiten und visuellen Tarnung ist es für Orks äußerst schwer diese Angreifer zu erkennen. Da sich die Nugrat-Orkesser augenscheinlich nur mit Hilfe von Orks vervielfältigen können und Orks beim Jagen und Sammeln in zu kleinen Gruppen von den Insektoiden überwältigt werden können, ergibt sich für die nomadischen Orkstämme der Zwang weiterzuziehen, um die Anzahl an Nugrat-Orkesser in der Nähe geringer zu halten. Aus dieser naturalistischen Ansicht heraus, so bekannte gelehrte Kat-al-Taht, ergibt sich der Mangel an entwickelter sesshafter Kultur, wie es für Elfen, Zwerge oder Menschen der Fall ist. Dadurch ergibt sich auch die simplistischere Kultur mit relativ einfachen und kleinen Netzwerken innerhalb eines Orkstammes. 
@@ -88,56 +54,8 @@ Als „Groß Zrokta" dient dieser Stammesführer so lange wie er von den stimmbe
 
 Bei den Orkstämmen ist nicht jeder geborene Ork für Stammesbelange stimmberechtigt. Dies bedeutet jedoch nicht, dass die Bedürfnisse der nicht Stimmberechtigten ignoriert werden würden.
 Jeder fünfte Ork oder Orkin hat eine Stimme inne, welche über den Armreif am linken Unterarm zeremoniell bescheinigt wird.
-=======
-Die Gesellschaft der Orks ist im Allgemeinen einfach und von Ehren-Strukturen gegliedert.
-Ursprünglichere Orkstämme aus den Himmelspitzengebirge sind in den meisten Fällen nomadisch und bleiben nur wenige Wochen oder Monate an einem Ort.
-Orkstämme an den Rändern der Himmelsspitzengebirge so wie in anderen Bereichen sind hingegen häufiger sesshaft.
-Bedingt wird der nomadische Lebensstil über das „abernten" von allem Essbaren in der Region und der Anwesenheit der Nugrat-Orkesser. Letztere sind eineinhalb bis zwei Meter große insektenähnliche Tiere, welche einen Parasitoiden Lebensstil mit ihren Orkopfern führen. Nugrat-Orkesser jagen, aus für Gelehrten unverständlichen Gründen, nur Orks, überwältigen diese und legen ihre Eier in lebende Orks. Aufgrund der Agilität und Sprungflugfähigkeiten und visuellen Tarnung ist es für Orks äußerst schwer diese zu erkennen. Da sich die Nugrat-Orkesser augenscheinlich nur mit Hilfe von Orks vervielfältigen können und Orks beim Jagen und Sammeln in zu kleinen Gruppen von den Insektoiden überwältigt werden können, ergibt sich für die nomadischen Orkstämme der Zwang weiterzuziehen, um die Anzahl an Nugrat-Orkesser in der Nähe geringer zu halten. Aus dieser naturalistischen Ansicht heraus, so bekannte gelehrte Kat-al-Taht, ergibt sich der Mangel an entwickelter sesshafter Kultur, wie es für Elfen, Zwerge oder Menschen der Fall ist. Dadurch ergibt sich auch die simplistischere Kultur mit relativ einfachen und kleinen Netzwerken innerhalb eines Orkstammes. Den Orkstamm führt ein Stammesoberhaupt, welcher den Stamm nach außen vertritt und auch gleichzeitig der Zeremonienmeister ist. So muss der Stammesführer nicht per se der „mächtigste" oder einflussreichste Ork sein, wie es bei anderen Rassen üblich ist.
-Als „Groß Zrokta" dient dieser Stammesführer so lange wie er von den Stimmberechtigten Orks gewählt oder unterstützt wird. Für gewöhnlich 5 Jahre. Wird der Wille des Stammes allerdings nicht geachtet, und würde der Groß Zrokta häufig dagegen verstoßen, so ist es Usus diesen zu verstoßen oder zu fressen, wobei ersteres eine größere Schmach darstellt.
-
-Bei den Orkstämmen ist nicht jeder für Stammesbelange stimmberechtigt, was natürlich nicht gleichbedeutend ist mit dem Ignorieren der Bedürfnisse der nicht Stimmberechtigten.
-Jeder fünfte Ork oder Orkin hat eine Stimme inne, welche über den Armreif am linken Unterarm zeremoniell bescheinigt wird.
-Orks erhalten folglich bei ihrer Geburt selbst keinen Armreif, sondern können sich diese im Laufe ihres Lebens für besondere Dienste für den Stamm erwerben.
-Die Festlegung, welche Dienste eines Armreifs würdig sind, trifft der Stamm gemeinschaftlich und je nach Situation.
-Häufig sind es Dienste in Schlachten für den Stamm oder für andere Kulturen wie Rah Kari oder das Kaiserreich.
-Armreife werden in selteneren Fällen auch rückwirkend verliehen, sollte ein Ork einer hitzigen Situation einen relevanten Beitrag geleistet haben.
-
-Für Orks selbst gilt es als große Schande einen Armreif zu verlieren oder diesen in einem Kampf abgenommen zu bekommen.
-Letzteres gilt als für Orks unnötig grausam und deutet auf meist eine längere Fehde zwischen den Beteiligten hin.
-Der Entwender des Armreifes kann sich allerdings sicher sein, sich dadurch einen Todfeind geschaffen zu haben, weshalb fremde Kulturen wie das Kaiserreich oder die Zwerge sogar schriftliche Erlasse haben, welche das Entwenden eines Armreifes eines Orks mit bis zu 15 Jahren Kerker bestraft.
-
-Ebenfalls als Schande gilt es Kriegsgefangene, welche in ausgerufenen Stammesfehden gefangen werden, schlecht zu behandeln.
-Diese werden zwar durchaus angekettet des Nachts, können sich allerdings Tagsüber mit starken Beinfesseln im Stamm auch „frei" bewegen. So ist Folter, entgegen den Kulturen der Menschen und Elfen, kein legitimes Mittel um an Informationen zu kommen. Ihr Brauch und Ehre besagt es, dass nach zwei Tagen der Orks schandfrei Informationen über seinen Stamm oder seine Gruppe verraten darf. Erstaunlicherweise ist dies eine ähnliche Zeitperiode unter welcher Gefolterte ebenfalls Informationen preisgeben. Gibt der Gefangen nachweislich falsche Informationen weiter, so ist es möglich ihm den Armreif abzunehmen und dem zugehörigen Stamm per Boten zu bringen.
-
-Entgegen der Ordnung der Lehre des Allgottes oder der Theokratie der Rah Kari, allen Orks erlaubt ihre Fähigkeiten zu bilden, wie diese das möchten.
-Beschränkend erwähnt werden sollte hier, dass dies nur für den Stamm relevante Aufgaben gilt, und diese eben von den Stimmberechtigten festgelegt werden.
-
-Orks leben im Sinne nicht monogam, wie es für das Kaiserreich oder für die Rah Kari üblich ist, sondern halten sich Harems, wenn dies möglich ist.
-Mitglieder in dem Harme werden darüber gewonnen, dass jemand einen ritualisierten Kampf Namens „Frash Olat" gegen den Begehrten oder einen seiner Fürsprecher gewinnt. Beim Frash Olat, wird dies angekündigt und in einer so ritualisierten Form durchgeführt, dass selbst die Abwesenheit von Zuschauern dieses rituelle „Buhlen" um ein potenzielles Haremsmitglied nicht verändert.
-Nach der direkten Ansprache beziehungsweise der Ausrufung eines Frash Olats, wird an einem örtlich und zeitliche Nahen Punkt, meist innerhalb weniger Tage und in den aktuellen Siedlungen der Kampf begonnen.
-So wählt der Herausgeforderte die Waffen für den Kampf als auch die Rüstungen.
-Kampfdrogen wie Adrenalinika oder Heiltränke sind hierbei nicht gestattet.
-Nachdem ein Abstand von 30 Schritten gewählt wurde, beginnt der Kampf, bis dass jemand aufgibt oder verstirbt.
-Hierbei ist allerdings das Aufgeben das häufigere Ende.
-Bei unerwartet ungleichen Kontrahenten, wie ein großer Stammeskrieger, der aus merkwürdigen Gründen ein Problem mit der Inanspruchnahme der Frau oder des Mannes hat, führt dies schon zur Aufgabe, bevor die Nahkampfdistanz erreicht wurde.
-Der Sieger nimmt dann den bereits sichtlich bezauberte Ork-Dame oder den Ork-Mann in sein Harem auf.
-Für die Orks, welche im Harem „gebunden" sind, ergeben sich allerdings keine Pflichten von ewiger Treue. Sie können selbst gegen ihren Hauptpartner das Recht eines Frash Olats fordern, was allerdings nur in den Fällen von älteren Haremsführern zum Schlagen kommt, wenn eben diese noch nicht erneut herausgefordert wurden.
-
-Künstlerische, literarische oder gesangliche Meisterwerke sucht man bei Orks allerdings vergebens.
-Entweder durch ihre langen historischen Wurzeln als Nomaden oder weil die innerhalb eines Stammes selten lügenden Orks, in höherer Poesie oder der Darstellung eines yondallesischen Sonnenuntergangs im Sommer nichts abgewinnen können.
-Selbst die Architektur ist bescheiden.
-Primär aus Holz oder auf säuberlich geschlichteten Steinen errichtete Hütten und Halbhöhlen sind die in Orksiedlungen zu erspähenden Gebäude.
-Zwar sind, falls ausreichend Steinmaterial oder Holz vorhanden sind, Pallisadenwände durchaus auch in manchen gelegentlich bewohnten „Orksiedlungen" im Himmelsspitzegebirge zu finden, jedoch wird meist ein Feld aus wahllos angerichteten Spitzen Pfeilern als Verteidigung favorisiert. Dies erlaubt sowohl schnelle Umschließungstaktiken, als auch das „Pfählen" von Angreifern in jene „Waldnägel" mittels eines beherzten Körperstoßes.
-
-Ebenfalls mangelt es in den Orkstämmen an dezidierten Gruppen von Gelehrten.
-Diese sind gegebenenfalls in größeren permanentnen Orksiedlungen wie Grimgrod anzutreffen, oder als Sonderenclave in Naphtanium.
-Das führt zu mehreren Schwachpunkten in der Gesellschaft.
-So erreichen Festungen nie Ausmaße wie jene der Menschen, Zwerge oder Elfen.
-Ihre Organisationsfähigkeit scheint, mangels verbreiteter Schrift ebenso langsamer zu sein, und die deutlich seltenere Verwendung von Pferden machen, selbst größere Orkstämme zu „Vasallen" größerer und besser organisierter Reiche.
->>>>>>> 4f7394010f2cd1aae5fc4dd8250b84ce1458194a
 
 
-<<<<<<< HEAD
 
 Orks erhalten folglich bei ihrer Geburt selbst keinen Armreif, sondern können sich diese im Laufe ihres Lebens für besondere Dienste für den Stamm erwerben.
 Die Festlegung, welche Dienste eines Armreifs würdig sind, trifft der Stamm gemeinschaftlich und je nach Situation.
@@ -184,16 +102,6 @@ Kochtechnische Spezialitäten weisen Orks, unüberraschenderweise, keine auf und
 Orks sind den meisten anderen Rassen neutral gesonnen, sofern ihre Jagdgründe und ihre Gebiete nicht eingeschränkt werden.Dies gilt nicht für Halblinge, da sie diese, aufgrund ihres zarten Fleisches, gerne zu Feierlichkeiten verzehren.
 Die Jagd der Orks erfolgt prinzipiell mit, für Menschen zu schweren, Speeren wobei hier auch teils wilde Eber, des Kampfes willen ohne Waffen erlegt werden.
 Die Waffen bestehen meist, sofern kein Handel mit höheren Zivilisationen besteht, aus den Knochen diverser Monster oder qualitativ mittelwertigem Eisen oder Bronze, welche in nicht immer permanenten Siedlungen mit Hochöfen geschmolzen und verarbeitet werden.
-=======
-Orks betreiben für gewöhnlich keine Landwirtschaft und errichten, wie erwähnt, selten hohe Gebäude, da ihnen das architektonische und Bauherrenwissen fehlt, und die Landwirtschaft im Gebirge sich als äußerst prekär darstellt.
-Dadurch verlassen sich Orks beinahe ausschließlich auf natürliche Nahrungsquellen, welche weitaus diverser sind als menschliche Mägen verkraften würden.
-So werden Steinwürmer, roh oder getrocknet gegessen, oder gar das zähe Fleisch von Felsenkriechern verzehrt.
-So sind Orkfestmahle, welche an bestimmten oder unbestimmten Zeiten stattfinden, meist mit barbarischen Mengen Fleisch, Nüssen und Früchten als auch, für Menschen giftige, stärkehaltige Wurzeln gedeckt.
-Kochtechnische Spezialitäten weisen Orks, unüberraschenderweise, keine auf und ihre Gerichte sind meist im oder am Feuer gegart/geröstet oder werden einfach roh genossen.
-Orks sind den meisten anderen Rassen, exklusive Halblinge welche gerne zu Feierlichkeiten verspeist werden, neutral gesonnen, sofern ihre Jagdgründe und ihre Gebiete nicht eingeschränkt werden.
-Die Jagd der Orks erfolgt prinzipiell mit, für Menschen zu schweren, Speeren wobei hier auch teils wilde Eber, des Kampfes willen ohne Waffen erlegt werden.
-Die Waffen bestehen meist, sofern kein Handel mit höheren Zivilisationen besteht, aus den Knochen diverser Monster oder qualitativ mittelwertigen Eisen oder Bronze, welche in nicht immer permanenten Siedlungen mit Hochöfen geschmolzen und verarbeitet werden.
->>>>>>> 4f7394010f2cd1aae5fc4dd8250b84ce1458194a
 
 Stellt man Orks in den Dienste des Kaisers und des Allgottes, so kann man die Nutzung von schwerer Rüstung besonders empfehlen.
 Aufgrund ihrer Stärke wurden Orks oft mit schweren Rüstungen ausgestattet, was große Vorteile gegenüber feindlichen Armbrüsten oder Bogenschützen bringt.
@@ -201,7 +109,6 @@ Orks sind, aufgrund der Kurzsichtigkeit, in nur sehr seltenen Fällen dazu in de
 
 ![Ranghoher Orkfrontkämpfer in Plattenrüstung im Dienste der Kaiserlichen Armee -gemalt von Vilus Traainim um 120 n. R.](Pictures\Flavor\Orks\MidjourneyHighRankedOrcPlatearmour.png)
 
-<<<<<<< HEAD
 ## Die Religion {OrkReligion}
 
 Orks beten, zum Leidwesen der Missionare der Lehre des Allgotts, verschiedene, aber sehr ähnliche Naturgötter an. Als Beispiel werden die Orks in Grimgrod, der dauerhaften Orksiedlung am nordöstlichen Ende des Himmelsspitzengebirges angeführt. Ihr Gott wird Akunmaahn genannt. Den kruden Zeichnungen an einem langen Lindwurmähnlichen behauen Felsen, welcher in der Siedlung selbst liegt, ist ihre heiligste Reliquie davon.
@@ -221,91 +128,14 @@ Dies dient zum einen der Darlegung, dass Orks weltlichen Lindwürmern überlegen
 Andere, der teils nomadischen, Ork Stämme haben Alternative „Gott-Monster" als ihr erlösendes oder am Ende verschlingendes zentrales Element. Hierbei ist die Aufnahme durch das Gott-Monster das Ziel, um ein Teil dessen werden zu können.
 
 Der einzige bekannte Orkstamm, über den beinahe nichts dergleichen erwähnt wird und aber mit diesem spärlichen Wissen bereits aus diesen Mustern eklatant ausschert, sind die blassen Orks aus der Grauen Ödnis.
-=======
-## Die Religion
-
-Orks beten, zum Leidwesen der Missionare der Lehre des Allgotts, verschiedene, aber sehr ähnliche Naturgötter an.
-Als Beispiel werden die Orks in Grimgrod, der dauerhaften Orksiedlung am nordöstlichen Ende des Himmelsspitzengebirges angeführt.
-Ihr Gott wird Akunmaahn genannt.
-Den kruden Zeichnungen an einem langen Lindwurmähnlichen behauen Felsen welche in der Siedlung selbst liegt ist ihre heiligste Reliquie davon.
-Ihrer Religion zufolge handelt es sich hierbei um einen riesigen Lindwurm, welcher, entsprechend ihren Geschichten, nach gewissen Zeiten alles Leben frisst.
-Dies stellt den Orks von Grimgrod zu Folge, dass Ende einer Ära dar.
-Jede neue Ära beginnt, sobald der Lindwurm die verschlungene Welt verzehrt sich deren unverwertbaren Überresten entledigt Für die Orks in Grimgrod ist ihre grau-braune Hautfarbe ein Beweis dafür, dass Sie bereits verschlungen wurden.
-Neben der Unausweichlichkeit dieses Endes ist für Orks eben dieses, das Ende ihrer Welt, aber der Zeitpunkt der Geburt einer neuen Welt.
-Interessanterweise geht es darum in den ewigen Lindwurm, den Weltenverschlinger aufgenommen zu werden.
-Damit kann man, als Teil Akunmaahns dem Kreislauf entfliehen und fressen und Aufnehmen was einem beliebt.
-Zu Ehren Akunmaahns werden als religiöser Ritus regelmäßig Opferfeste abgehalten, wobei hier meist alte und schwache Orks geopfert werden.
-So sollen Sie im Leibe eines kräftigen Orks eine weitere Chance haben in Akunmaahn aufgenommen zu werden.
-Bei diesen Festen tanzen Orks in einem sehr kampfähnlichen Stil und fressen und kopulieren immer wieder zwischendurch welches als eine Feier des Lebens gesehen werden kann.
-
-> "Auf das uns Akunmaahn noch auf lange Zeit diese Freuden bereitet"
->
-> -   Kasck-Hal Stammesführer in Grimgrod zum Tag des ewigen Festmahls
-
-Das ewige Festmahl, das zugleich ihre Art von "Paradies" darstellt, wird zu mehreren, nicht am kaiserlichen Kalender fixierten Daten, abgehalten.
-Ein Indikator für das Abhalten des Festmahls ist das Erlegen großer Bestien oder Scheusale mit dem anschließenden Verzehr eben dieser.
-
-Neben der "Völlerei" ist ein weiterer wichtiger religiöser Akt, die Jagd nach Lindwürmern und der Verzehr von Steinwürmern.
-Dies dient zum einen darzulegen, dass Orks weltlichen Lindwürmern überlegen sind, aber doch durch den Verzehr der Steinwürmer, jemand der Akunmaahn nicht verärgern will indem er die Mahlzeit von Lindwürmern als „nieder" betrachtet. Akunmaahn ermöglicht jedem, der durch den Lindwurm verspeist wird, nach ihrem Glauben, die Wiedergeburt als noch mächtigerer Krieger, welcher bei der nächsten Lindwurmjagd dessen Haut erwerben wird, was dem verspeisten Orks Leben als Teil des Lindwurmes weiter führt, bis ein mächtigerer Ork eben jenen Lindwurm erlegt und diesen verzehrt.
-
-Andere der teils nomadischen Ork Stämme haben Alternative „Gott-Monster" als ihr erlösendes oder am Ende verschlingendes zentrales Element. Hierbei ist die Aufnahme als Teil des Gott-Monsters das Ziel.
-
-Der einzige bekannte Orkstamm, über den beinahe nichts dergleichen bekannt ist und aber mit diesem spärlichen Wissen bereits aus diesen Mustern eklatant ausschert, sind die blassen Orks aus der Grauen Ödnis.
->>>>>>> 4f7394010f2cd1aae5fc4dd8250b84ce1458194a
 Über die Orks der Grauen Ödnis ist wenig bekannt, da es lediglich dem reisenden Gelehrten Justanian Hertesin gelang, diesen Orkstamm zu finden.
 
 Justanian selbst konnte lediglich über sein unvervollständigtes Werk, welches man in der Nähe von H'abunaptra - dem Heiligen Berg der Rah Kari- fand, sein Wissen mitteilen.
 
-<<<<<<< HEAD
 > "Ein jeder kennt Orks. Grau, grün oder rot. Alle stark im Körper und schwach im Geiste. Nun sind diese Orks anders. Sie scheinen eine Kultur zu besitzen, welche davon ausgeht, dass ihre Schaffung Absicht war und ihr Gott im Kampf mit dem Tod seine Macht verlor. Hierbei sei angemerkt, dass ihr Gott keine Gestalt hatte und auch nichts von ihnen verlangte. Man möge hierbei Staunen, dass diese bleichen Orks, welche sich als Urk-Shum-Toks bezeichnen, in weitestgehendem Frieden leben und wenig von dem barbarischen Verhalten zeigen, dass die anderen Orks aufweisen. Ihre Gottheit ward verschwunden und habe den Orks selber aufgetragen ihrem Leben zu dienen. Dadurch lebten die Orks in weitestgehender Harmonie. Ressourcen wurden fair aufgeteilt, der ganze Stamm, welcher einem polyamorösen Unzuchthaus gleichte, zeigte auch mir gegenüber keinerlei Gewalt, obwohl ich scheinbar der erste hellhäutige Mensch wart, den diese Orks erblickten. Ihre Intelligenz und auch ihr Charisma wart gleichwertig einem gebildeten Bürger des Kaiserreiches oder der Rah Kari und doch Grund verschieden. Ein Wunder welche Freiheit ihr Gott diesen Ungläubigen gegeben hat."
 >
 > --- Justanian Hertesin in "Die bleichen Orks"
 
-=======
-> "Ein jeder kennt Orks. Grau, grün oder rot. Alle Stark im Körper und schwach im Geiste. Nun sind diese Orks anders. Sie scheinen eine Kultur zu besitzen, welche davon ausgeht, dass ihre Schaffung Absicht war und ihr Gott im Kampf mit dem Tod seine Macht verlor. Hierbei sei angemerkt, dass ihr Gott keine Gestalt hatte und auch nichts von ihnen verlangte. Man möge hierbei Staunen, dass diese bleichen Orks, welche sich als Urk-Shum-Toks bezeichnen in weitestgehendem Frieden leben und wenig von dem barbarischen Verhalten zeigen, dass die anderen Orks aufweisen. Ihre Gottheit ward verschwunden und habe den Orks selber aufgetragen ihrem Leben zu dienen. Dadurch lebten die Orks in weitestgehender Harmonie. Ressourcen wurden fair aufgeteilt, der ganze Stamm, welcher einem polyamorösen Unzuchthaus gleichte, zeigte auch mir gegenüber keinerlei Gewalt, obwohl ich scheinbar der erste hellhäutige Mensch wart, den diese Orks erblickten. Ihre Intelligenz und auch ihr Charisma wart gleichwertig einem gebildeten Bürger des Kaiserreiches oder der Rah Kari und doch Grund verschieden. Ein Wunder welche Freiheit ihr Gott diesen Ungläubigen gegeben hat."
->
-> --- Justanian Hertesin in "Die bleichen Orks"
-
-## Die Plage der Orks -- die Nugrat-Orkesser
-
-Besonders verworben mit dem Gedeih und Verderb von Orkstämmen sind die Insektenartigen Nugrat-Orkesser.
-Diese gleitend fliegenden Bewohner der Himmelsspitzengebirge sind über fast das gesamte Himmelsspitzengebirge verbreitet.
-Im adulten Zustand zeigen, sofern nicht in die Ecke getrieben, keine Aggression gegenüber Humanoiden welche keine Orks darstellen.
-Nugrat-Orkesser ernähren sich im erwachsenen Zustand vorwiegend von Pflanzen und essen gelegentlich kleine Tiere wie Mäuse oder Flauschläufer in den Bergen.
-Die Nugrats sind gegenüber Nicht-Orks äußerst scheu und fliehen sobald man sich diesen versucht zu nähern.
-
-Gegenüber Orks sind Nugrat-Orkesser hingegen ein real gewordener Albtraum.
-Die farblich gut an die Gebirge angepassten Tiere besitzen einen längeren Legestachel, welchen Sie nutzen, um Orks zu überwältigen und zu vergiften.
-In diese durch das Gift gelähmten Orks legen die Nugrat-Orkesser alsdann ein Ei hinein.
-Nach einigen Stunden wacht der Ork auf und merkt selten dass dieser überhaupt überfallen wurde.
-Das Gift selbst löst eine kurzfristige Amnesie aus, welchen mit der von Obiviskertränken zu vergleichen ist.
-Die Einstichstelle, sofern diese gefunden wird, ist meist nur kreisrund und kaum größer als ein Daumen.
-Der Ork selbst merkt nichts von seiner tödlichen Fracht, da der Stich selbst schmerzlos sein soll.
-Über die Tage und Wochen wächst die Larve innerhalb des Orks heran.
-Obwohl jeder vierte Ork scheinbar nicht an einem Stich verstirbt, da sich keine Larve daraus entwickelt, ist es für die anderen Orks ein unrühmliches Ende.
-So verliert ab einem gewissen Punkt der Ork selbst die Kontrolle über seinen Körper, so der Rah Kari Gelehrte Kat-al-Taht.
-Allerdings bleibt dieser scheinbar bei Bewusstsein, da die Augen gelegentlich noch auf Orksprache reagieren.
-Das unrühmliche Ende des Orks selbst, beginnt erschaudernd zu werden, sobald die Larve des Nugrat-Orkesser beginnt unnatürliche Bewegungen mit dem Orkkörper zu vollführen.
-So wachsen in der Haut des Orks, welche man sich dann als „Lederbeutel mit Insekt" vorstellen kann bereits die Körperteile des Nugrat-Orkesser Zwischenstadiums heran. In dieser Phase beginnt das Insekt auch damit langsam die gewonnene Kontrolle über die Stimmbänder wieder zu verlieren, in Anbetracht der Auflösung dieser orkischen Gewebe. Zwischenzeitlich ist es der Nugrat-Larve möglich kruder Sätze zu formulieren. Die Larve probiert, dass andere Orks ihr in die Natur raus jagen und sammeln folgen. Dies ist, insbesondere wenn Haremsführer betroffen werden, teils sehr erfolgreich. Folgen dann einige wenige Unglückliche dieser grotesken Verheißung lauern meist die ausgewachsenen Nugrat-Orkesser und überwältigen so weitere Orks. Ungerüstete Orks sind selbst in 5er Gruppen den agilen Nugrats unterlegen und verwandeln sich ebenso in tickende Zeitbomben. Der „Anlock-Ork" verzieht sich in Höhlen oder unter Felsvorsprünge und gibt den Rest seiner einst stolzen Hülle auf und wird zu einem eitrig-gelb-grünen harten Gespinstsack, woraus der ausgewachsene Nugrat-Orkesser schlüpft.
-
-Für die selten Erkrankenden Orks selbst ist diese Urplage in Form der Nugrats vermutlich eine der größten Formenden Komponenten in ihrer Lebensweise.
-So ziehen die Ork-Stämme in den Himmelsspitzengebirge umher um nicht nach wenigen Sommern sich mit einer Überzahl an Nugrat-Orkessern konfrontiert zu sehen.
-In den Randgebieten des Himmelsspitzen Gebirges greifen Orkstämme gelegentlich auf menschliche oder zwergische Söldner zurück, welche diese für jeden erlegten Nugrat eine ordentliche Summe, oder ordentliche Kämpfer für später zur Verfügung stellen.
-Die Söldner selbst nutzen Fernkampfwaffen und geübte Schützen und lokale Hirten um die visuell gut getarnten Nugrats zu finden, und zu erjagen.
-
-Grimgrod selbst, trotz der seit etlichen Jahrhundert hohen Orkzahlen ist bis jetzt nie von Nugrat-Orkessern überfallen oder belagert worden.
-Die Gründe dafür sind spekulativ.
-Entweder etwas anderes Vertreibt die Nugrat-Orkesser, oder die hohe Anzahl an Orks und deren Riten schützen die Orks.
-In Orkstämmen Außerhalb der Himmelsspitzengebirge, wie um die Nachtberge oder den Dunstspitzen, werden keine Nugrat-Orkesser gefunden.
-Ihre mündlichen Überlieferungen belegen aber auch genau dies.
-Orks, ob Kind oder Erwachsen sollten nie alleine sammeln oder jagen gehen in den Bergen.
-Es lauert dort nur der Tod durch die Nugrat-Orkesser.
-
-Die menschlichen und zwergischen Kulturen machen sich, seit Jahrhunderten ein Geschäft daraus Nugrats-Orkesser zu jagen.
-Dies ist insofern lukrativ als dass die Nugrats für Nicht-Orks eben keine Bedrohung darstellen, welche größer ist als zu vergessen dass man die letzten 6 Stunden auch in den Bergen unterwegs war, sollte man doch von einem Nugrat-Orkesser gestochen werden.
-
-## Die Legenden
->>>>>>> 4f7394010f2cd1aae5fc4dd8250b84ce1458194a
 
 ## Die Plage der Orks -- die Nugrat-Orkesser {#NugratOrkesser}
 
@@ -353,11 +183,7 @@ Weder sein Körper als Erwachter noch sein normales „Ich" konnten gefunden wer
 Noch heute gibt es Zwergen Geschichten, welche in den verschütteten Höhlen von Istval das Scharren und Grunzen eines Orks hören soll, welcher auf einem Sack voller Edelsteine sitzt.
 ![Darstellung des Kampfes der Zwerge gegen den braunen Ork- vermutlich Thermadorc](Pictures%5CFlavor%5CPlatzhalter%5COrksVsZwerge.jpg)
 
-<<<<<<< HEAD
 ### Umchrug-Hal - der Riese von Grimgrod {#UmchrugHal}
-=======
-### Umchrug-Hal - der Riese von Grimgrod
->>>>>>> 4f7394010f2cd1aae5fc4dd8250b84ce1458194a
 
 Umchrug-Hal ist eine, vermutlich noch lebende Legende unter den Orks in Grimgrod und gilt als Verkörperung der Ziele eines Orks - wenngleich auch diese Ziele für den normalen Ork nicht zu erreichen sind.
 Umchurg-Hal ist der vermutlich größte Lebende Ork und misst mehr als 2,5 Meter, wobei die Berichte teils von 3 Metern ausgehen.

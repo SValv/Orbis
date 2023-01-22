@@ -33,14 +33,14 @@ legenden-der-elfen
 üräid-die-weise
 päliuüd-wächter-der-himmelsspitzen
 fägriaäs-samen-und-dorn
-die-orks
-die-geschichte
-die-gesellschaft
-die-religion
-die-plage-der-orks-die-nugrat-orkesser
-die-legenden
-themadorc---verehrer-der-götzen
-umchrug-hal---der-riese-von-grimgrod
+Orks
+OrkGeschichte
+OrkGesellschaft
+die-religion-orkreligion
+NugratOrkesser
+die-legenden-orklegenden
+Themadorc
+UmchrugHal
 goblins
 die-geschichte-der-rasse-1
 die-gesellschaft-der-rasse
@@ -971,4 +971,3 @@ Team
 impressum-und-kontakt
 impressum
 kontakt
-legenden-der-region-1
