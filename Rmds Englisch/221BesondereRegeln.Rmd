@@ -1,0 +1,865 @@
+# Special rules
+
+Of course, the rules article does not map every special feature, so this article includes rarer character-related or campaign-related uses.
+
+## The Alchemy {#AlchemySystem}
+
+Alchemy is one of the crafting disciplines. With the help of two different plants, alchemists can brew various potions.
+
+### Potion Making {#PotionMaking}
+
+Potions must always be made from two ingredients. The maximum level of the potion that can be created is the sum of the effect sizes of the plants/2. Apart from that, the potions will be the strongest possible that a threshold allows.
+
+Plants have up to four effects, if the name of a potion is in these effects you can brew the potion with this ingredient (and another with matching effect).
+
+To get an overview of the plants look [here](#App) for the exact [effects here](#Potions)
+
+Here are the respective thresholds and information about the levels of the plants, the cooldown describes how long the toxic effect is active in the body:
+
+| Stage | Threshold | Production | Cooldown | Toxicology |
+|:-------:|:---------:|:-------------:|:-----------:|:-----------:|
+| level 1 | 1.7 | On the run | 30 min | 1 |
+| level 2 | 2,4 | On the run | 90 min | 2 |
+| level 3 | 2,6 | camp | 4h | 3 |
+| level 4 | 3,5 | camp | 10h | 4 |
+| level 5 | 4,5 | alchemy table | 24 h | 5 |
+| level 6 | 4,75 | alchemy lab | 3 days | 6 |
+
+For example, if you brew a stamina potion that could reach level 5 from the ingredients, but only has a threshold of 4, it will be a level 4 potion. Furthermore it is important which potions can be made where. While level 1 & level 2 can be made everywhere and spontaneously, you need more time for level 3 and 4 potions and have to make them in the warehouse. Level 5 potions need an alchemy table (you can find one at most alchemists) and level 6 potions need an alchemy lab, which is only available in big cities.
+
+Furthermore, an alchemist needs a bottle to put his brew into. For bombs, only a bombshell bottle comes into consideration. For all other potions you need metal bottles. Here are the prices for the different bottles:
+
+| bottles | price |
+|:----------------:|:-----:|
+| metal bottle | 200 |
+| bombshell bottle | 1000 |
+
+### Inhibitors
+
+You don't always want potion effects to kick in right away. Sometimes it makes sense to be out of the building for a long time before the poisoned target dies. For this case, there are so-called inhibitors. Inhibitors are made like normal potions and ensure that a player can determine in advance the delay with which a potion takes effect.
+
+### Epinephrinics {#Epinephrine}
+
+Epinephrinics are special potions. they wake up a faint immediately (+100 Health if the Health was at zero before). However, epinephrinics must be made on the run because it loses its effect after five minutes. Therefore, smart groups always have the ingredients for epinephrines with them.
+
+### Downtime Alchemy Actions
+
+The number of alchemy checks per downtime is determined by the brewer's effectiveness, this increases with his tools, the more different auxiliary utensils the more checks are possible in the same time. Some utensils can increase the number of craft checks as well as alchemy checks.
+
+| tool | additional <br>checks | weight | price | note |
+|-------------------|:----------------------:|:-------:|:-----:|:----------------------------------------------------------------------------------------------------:|
+| retort | 1 | 1 | |
+| Mortar and pestle | 2 | | | |
+| Distilling flask | 3 | 10 | | |
+| knife | 1 | 0.5 | | can also be used as an alchemy tool |
+| fire catalyst | 1 | 1 | | can also be used as alchemy tool |
+| dragon breath | 3 | 3 | replaces fire catalyst<br>can also be used as alchemy tool |
+| Ancient Mortar | 4 | 2 | -- | Replaces Mortar; Can be used to create T4 material |
+| Mortar of the Gods | 4 | 2 | -- | Replaces mortar increases intelligence for alchemy checks, each check is at the expense of mental strength |
+
+: Tools of Alchemy
+
+## The Craft {#Craft System}
+
+Another crafting skill in Orbis Astea is crafting. Crafting is important to maintain, improve and modify weapons. These are things you have to pay a blacksmith to do, or you can do it yourself if you have the right skills and materials.
+
+Like the equipment, the material is divided into levels, for example, to improve a level 1 weapon you also need level 1 material.
+
+Material is measured in kilograms and sold in units of 1kg each. The material consumption always depends on the purchase price of the respective weapon or armor, for example, the production of a sword costs exactly 1kg of material, but the production of a dagger only 0.3kg. The same is true for improving, the lower the price the less material is needed.
+
+### Material costs
+
+| Level | Price in Reiks |
+|---------|----------------|
+| level 1 | 1000 |
+| level 2 | 3000 |
+| level 3 | 6000 |
+| level 4 | 12000 |
+
+### Tool
+
+Most applications of the crafting skill are found in the downtime in which it is possible to create new items, improve, modify, repair and recycle.
+
+The number of possible checks is determined by the tool of the craftsman, the better the tool the more checks are possible. A hobby craftsman without tools can do one craft check per downtime, while a professional with the best tools can do up to 10 checks in the same time.
+
+The number of craft checks per downtime is determined by the effectiveness of the craftsman, this increases with his tools, the more different auxiliary utensils the more checks are possible in the same time. Some utensils can increase the number of craft checks as well as alchemy checks.
+
+| tool | additional <br>checks | weight | price | note |
+|-----------------------|:----------------------:|:-------:|:-----:|:------------------------------------------------------------------------------------------------------:|
+| pliers | 1 | 1 | |
+| hammer | 2 | |
+| Anvil | 3 | 10 | |
+| knife | 1 | 0.5 | | can also be used as alchemy tool |
+| fire catalyst | 1 | 1 | | can also be used as alchemy tool |
+| dragon breath | 3 | 3 | replaces fire catalyst<br>can also be used as alchemy tool |
+| Ancient Dwarven Hammer | 4 | 2 | -- | Replaces Hammer; Can be used as T4 material |
+| Hammer of the Gods | 4 | 2 | -- | Replaces Hammer; increases intelligence for crafting checks, each check is at the expense of mental strength |
+
+: Tools of the trade
+
+### Repair
+
+Equipment loses condition over time. The Repair action restores the condition. A repair consumes 0.1 material per repaired condition, regardless of the equipment's value.
+
+| Repair | Threshold | Material cost |
+|:----------:|:---------:|:--------------:|
+| level 1 | 1,5 | 1000 |
+| level 2 | 2,3 | 3000 |
+| level 3 | 3 | 6000 |
+| level 4 | 4 | 12000 |
+
+### Modify / Special Equipment {#modify}
+
+Modifying and creating special equipment is a special part of the craft, as it does not use normal materials, but instead monster materials. These can be purchased on the hunt or from certain merchants.
+
+**revise** There is a difference between monster material of a certain level that allows direct production of a weapon of a higher tier without previous improvement and the special monster materials for modifying and special equipment.
+
+In this category fall for example the use of a poison fang to supply for example a dagger endlessly with some poison to enable poisoning in combat without having to apply it every time. But just as well a camouflage cloak could be produced which is then entered by the player in one of the two special equipment slots in the profile.
+
+It is only possible to modify weapons, mods that would fall into the Rubirk armor are to be regulated via the special equipment.
+
+Besides hunting as the usual way to acquire special monster material, it is also possible to come across curiosity traders who offer a very changing inventory at even more changing prices, but among other things also special monster materials. As already mentioned, the prices for these products change a lot because no one really succeeds in defining a real value since the demand is hard to define and the material is sometimes hard to get sometimes massively available due to high population.
+
+### Make, improve and level up {#levels}
+
+All equipment is crafted at level 1 and continues to improve from that point. (With the exception of monster material this allows you to craft a weapon directly to the level of the material). Each piece of equipment has two improvement levels before it reaches the next higher level, each of these improvements increases the damage by 25% of the difference to the next higher level. After two improvements a reforging is possible which increases the level of the equipment, for this not the current animal is to be used for the material consumption but a material of the next higher level. An example: Level 1 sword with two improvements (which needed level 1 material) needs a level 2 material for the upgrade to level 2.
+
+| Level | Threshold | Material cost |
+|:-------:|:---------:|:--------------:|
+| level 1 | 2,4 | 1000 |
+| level 2 | 3,3 | 3000 |
+| level 3 | 4 | 6000 |
+| level 4 | 5 | 12000 |
+
+In case of failure, material is lost depending on the crafting check made, so especially bad checks lead to the loss of all material, but almost successful checks lead to the loss of only parts of the material. The determining factor for this is the percentage of the target value reached, if the player reaches 90% of the value that was necessary for the check, he also gets 90% of the material back. In addition, the condition of the equipment that should be improved is reduced by 1.
+
+The improvement of *armor* skip the between steps under can be improved directly with the next higher material to the next level.
+
+### Recovery
+
+Allows equipment to be broken down into material of the respective equipment level. How much material is gained depends on the price of the equipment. Example $Standard value \cdot 1.3$ results in 1.3 material.
+
+### Forge
+
+In addition to your own activity, it is possible for players to outsource crafting checks to professional blacksmiths, for a price of course. The more talented the blacksmith, the higher the price but also his chance of success. It is possible to give material directly to a blacksmith for the upcoming check or to buy it from him instead. In villages there are fewer blacksmiths to choose from than in cities.
+
+## Music and its effect in battle {#InstrumentsRules}
+
+You fight better with a good rhythm. Certain songs bring power-ups or debuffs in battle and can be applied to groups and individuals.
+
+To sing a song in combat a Performace check is made as normal. The effect lasts four actions and only one genre can be applied to a person at a time. Songs can be motivating or demotivating, so they can act as buffs or debuffs - so with a song of the genre Folk you can increase the physique value of a person if it is motivating and decrease it if it is demotivating. If you try to make a song affect a group of targets, it is much harder - the Theshold doubles. Songs - like almost everything in our system - can have a level (tier) from 1 to 4. This level makes a song harder to play, but it also makes the effect stronger.
+
+Songs can be accompanied and supported by different instruments - depending on the genre - with the matching main instrument giving a +6 die modifier and the matching secondary instrument giving a +3 die modifier. A song can be played with an instrument that is in a [Holster](#Holster1) for a main action.
+
+Here you can see an overview of the genres:
+
+| genre | action | main instrument | accompanying instrument |
+|:-------------:|:-------------------:|:---------------:|:-----------------:|
+| minnesong | charisma | violin | lute |
+| rock | critical<br>chance | drum | bagpipe |
+| folk | physique | flute | drum |
+| tavern music | agility | lute | fiddle |
+| metal | strength | bagpipe | trumpet |
+| polka | attack | horn | flute |
+| anthem | single action | trumpet | horn |
+
+Attack target means that you can choose from one or more targets who will attack whom of your opponent(s).
+
+Single Action gives the targets an additional single action if the song was motivating and takes the single action if the song was demotivating - the random defense chance remains unaffected.
+
+Songs are obtained by practicing and playing a lot. What these songs are about is up to the player, but the genre, animal and whether it is a motivating or demotivating song is given to him. This can happen during performance checks or [Training](#Training). Additionally, songs can be learned from time to time in the local tavern for an expense allowance.
+
+## The war at sea
+
+The seas in Orbis Astea are as dangerous and contested an area as the land, and so it is useful to be familiar with combat at sea.
+
+Since the sea, lakes and rivers are essential for both trade and military operations, it is hard to imagine a good fleet out of the factions' power politics.
+
+### General
+
+Combat at sea differs significantly from combat on the mainland. While heavy armor is one of the most powerful types of weapons on land, soldiers clad in metal are rarely seen at sea. No matter how well you can swim, the enormous weight of armor will drag you to certain death should you go overboard.
+
+Instead, you'll see mostly light armor, as it's hardly debilitating if you want to survive - though good swimmers can embark on ships in medium armor without fearing for their lives.
+
+Ranged weapons are also much more common at sea - most notably crossbows and muskets, whose biggest drawback, reload time, is relatively well negated by the distance from ship to ship.
+
+#### Capture and sink
+
+There are two ways to win an engagement with another ship: capturing and sinking.
+
+Sinking involves doing enough damage to the ship that it sinks (i.e., its durability drops to zero). Capturing is taking over the opponent's ship by capturing or killing the crew and taking control of the ship.
+
+For each of these options, there are different tools designed to better achieve the goal.
+
+#### Types of ships
+
+There are three major supertypes into which ships can be divided. Two of these ship types are relevant because hardly anyone will pilot or fight a ship of state. The relevant ship types are oars and sailing ships.
+
+##### Rudder Ships {#RudderGeneral .unnumbered}
+
+Rowing ships have been around much longer than sailing ships and are the most common type of ship, especially in river traffic. Their low profile and low center of gravity, combined with maneuverability, makes them the perfect class of ship for a combat style that emphasizes ramming. However, the low profile also makes it harder to board sailing ships, as well as people on the deck of a low profile ship have little chance of covering themselves from gunners on a higher elevation (such as a taller ship).
+
+Crews on rowing ships tend to be larger due to the rowing crew and therefore need more supplies, which is why long voyages are only possible near the coast unless there is support from sailing ships. Even rowing ships can have sails for voyages, but they are hardly maneuverable with them. Thus, the sail must be taken in at every change of direction.
+
+Advantages:
+
+-   Less to no dependence on wind
+-   Easy to maneuver
+-   Needs few experienced sailors
+-   Fast acceleration
+-   Low profile
+-   Cheap
+
+Disadvantages:
+
+-   Need more supply
+-   Significantly more people to move around
+-   Low profile
+-   Can only be used alone near the coast
+-   Worse for long distances
+-   More vulnerable to storms
+
+##### Sailships {#SailsGeneral .unnumbered}
+
+Advantages:
+
+-   Need fewer people to move around
+-   Can carry a lot of cargo and supplies
+-   High profile
+-   Seaworthy
+-   Fast
+
+Disadvantages:
+
+-   Wind dependent
+-   more difficult to maneuver
+-   Needs competent sailors
+-   Expensive
+-   High profile
+
+##### Stateships {.unnumbered}
+
+No one really knows where stateships come from, but these maritime behemoths are considered invincible. Their size alone is enough to dwarf fleets and send them fleeing, as a stateship can easily outrun smaller ships, given enough acceleration. Stateships seem to miraculously repair themselves with whatever materials are available, be it flotsam or other ships. Therefore, to date, there is no known case of a ship of state having sunk.
+
+The sheer size, giant profile and resilience of a Stateship makes it the ideal object to place massive artillery on or use as a Maritime City.
+
+Stateships have a complex central control unit and only a few are able to control a stateship with it - but if you can master such a control the possibilities are enormous. However, even without suitable helmsmen, the inhabitants of these colossi have found ways to steer them. By building hundreds of small sails, the ships of state are somewhat steerable, although it is still a challenge and many times less effective than central steering. Directed control of a stateship without a control unit is considered impossible.
+
+### Ship types
+
+Various ship types with their own characteristics, advantages and disadvantages, special features and purposes can be found in Orbis Astea.
+
+#### Rowing ships
+
+##### Barque {.unnumbered}
+
+Barques are usually small boats without a mast that can accommodate up to 8 people. They are not seaworthy and are mostly used for small transports or by fishermen close to the harbor. A barque is very cheap, but of limited importance. On larger ships they are used as tenders.
+
+##### bireme {.unnumbered}
+
+A bireme is a rowboat with two rows of oars. It is the smallest rowing boat that really has a meaning. With a minimum crew of 40 and capacity for 40 more, the bireme is a cost-effective option that can be used almost anywhere. Fully seaworthy, it is slowed down by its food capacity alone.
+
+Biremes come with both an open deck and a closed combat deck.
+
+##### galleys {.unnumbered}
+
+Galleys have a wide, usually open deck, and are designed for artillery rather than troop transport. Since many galleys are converted or still in service merchant ships, they also more often have storage spaces and the typical - often disadvantageous open deck.
+
+![A converted merchant galley[^1]](Pictures/Flavor/ShipsBoats/Wikimedia_Galley_Transparent.png)
+
+[^1]: This image is taken from [wikimedia](https://commons.wikimedia.org/wiki/File:Galley-knightshospitaller.jpg) and is available under a Creative Commons Attribution-Share Alike 3.0 Unported license.
+
+Nevertheless, galleys are widespread and common in both civilian and military use. And are characterized primarily by their versatility. Hardly any other type of ship is so versatile and adaptable.
+
+##### Trireme {.unnumbered}
+
+With 130 oarsmen and room for 150 soldiers, the Trireme is a feared sight in any naval battle. Their immense acceleration makes them the ideal ship for ramming and capturing other ships, and so they are really only found in military use.
+
+![A trireme on patrol[^2]](Pictures/Flavor/ShipsBoats/wikimedia_Trireme.png)
+
+[^2]: This image is taken from [wikimedia](https://commons.wikimedia.org/wiki/File:Trireme_1.jpg) and is available under a Creative Commons Attribution-Share Alike 2.0 France license.
+
+Although triremes are rather expensive, they are widely used due to their combat power and the speed with which new sailors are incorporated. Triremes also have room for artillery and are equipped with a ram as standard, they are always built with a closed battle deck.
+
+#### Sailing ships
+
+##### *Cutter* {.unnumbered}
+
+A cutter is usually a small fishing boat that can fit up to 8 people. It is neither seaworthy nor particularly spacious and is the sailing ship counterpart to the barque with the advantage of higher range and speed and that one does not have to row constantly.
+
+##### brig {.unnumbered}
+
+The brig is the smallest ocean-going vessel and comes with one to two masts and sails. Depending on the size, it can hold different amounts of people and artillery. While on small brigs only 1-2 scorpions can fit, on larger brigs even catapults or ballistae can be installed.
+
+##### Longship {.unnumbered}
+
+The Longship is a design of the Ska'en and is equipped with hardly any artillery or a ram, yet the ship is feared for its speed and maneuverability. It combines advantages from both worlds of shipping in that it has both sails and rudders and can quickly and reliably transport a large amount of warriors that can be used both for capturing other ships and for landings on the mainland.
+
+![The Longboat is a rather exotic type of ship](Pictures/Flavor/Placeholder/Longboat.jpg)
+
+Without the warriors, however, the longboat is relatively stuck in combat, as the low profile and lack of artillery makes the ship barely capable of action on its own.
+
+##### Frigate {.unnumbered}
+
+The frigate is a large sailing ship with room for two to three ballistae or catapults. It needs 25 sailors to be piloted and can transport about 80 additional people. Frigates are common in both civilian and military use - but are usually armed in both cases, as they are popular targets for pirates. They can travel for long periods of time and are often the main part of maritime fleets.
+
+![A frigate cruising against the wind[^3]](Pictures/Flavor/ShipsBoats/Fregatte_Pixaby.jpg)
+
+[^3]: This image was taken from the [Pixabay](https://pixabay.com/es/illustrations/vela-barco-mar-1506158/) site and is available for commercial use.
+
+Frigates are considered the smallest of the large sailing ships.
+
+##### Caravel {.unnumbered}
+
+The caravel is the middle of the large sailing ships and is a ship not to be underestimated. It is probably the fastest class of ship on the sea (although it cannot compete with oars in acceleration) and is only surpassed in firepower by the galleon. Her high deck ensures that high waves and light storms can hardly harm her.
+
+Already 35 men are enough to keep a caravel fully operational, but up to 140 passengers can be accommodated on the caravel.
+
+##### Galleon {.unnumbered}
+
+![A Galleon](Pictures/Flavor/Placeholder/Galeone.jpg)
+
+Galleons are often the flagships of fleets. These enormous cruisers cost fortunes and are equipped with a lot of artillery and soldiers. The 60 sailors it takes to man the boat still leave room for up to 320 other passengers - who are usually the bodyguards of a very rich and powerful person.
+
+The galleon usually sails with an escort fleet and despite its size is a bit slower than a frigate.
+
+#### Values and overview
+
+| Combat | Type | Durability | Movement Points | Maneuverability | Acceleration |
+|:----------:|:-----:|:-----------:|:---------------:|:----------------:|:--------------:|
+| barque | oar | 1500 | 2 | 20 | 10 |
+| cutter | sail | 2000 | 1 | 18 | 6 |
+| barge | oar | 10000 | 2 | 17 | 14 |
+| brig | sail | 8000 | 2 | 14 | 13 |
+| longship | sail | 15000 | 3 | 16 | 17 |
+| galley | oars | 18000 | 3 | 13 | 15 |
+| Frigate | Sail | 15000 | 2 | 9 | 12 |
+| trireme | rudder | 25000 | 4 | 10 | 20 |
+| caravel | sail | 18000 | 2 | 7 | 11 |
+| Galleon | Sails | 30000 | 1 | 5 |
+
+<small> <small>
+
+| cruise | type | crew size | supply | number of passengers | draught | speed | profile height |
+|:----------:|:-----:|:----------------:|:---------:|:-------------:|:--------:|:---------------:|:----------:|
+| barque | oar | 1 | 0 days | 7 | 20 cm | 7 | 40cm |
+| cutter | sail | 1 | 1 day | 9 | 40cm | 9 | 70cm |
+| barge | oar | 40 | 4 days | 40 | 80cm | 10 | 2m |
+| brig | sail | 10 | 2 weeks | 80 | 1.2 m | 15 | 5m |
+| longship | sail | 40 | 8 days | 110 | 80cm | 17 | 3m |
+| galley | oars | 80 | 5 days | 90 | 1m | 12 | 4m |
+| frigate | sail | 30 | 8 weeks | 80 | 3m | 18 | 7m |
+| trireme | rudder | 130 | 6 days | 160 | 1.5m | 14 | 5m |
+| caravel | sail | 45 | 10 weeks | 140 | 4.5m | 20 | 9m |
+| galleon | sail | 60 | 8 weeks | 320 | 6m | 16 | 20m |
+
+</small> </small>
+
+### Ship armament
+
+#### Artillery {#Sail Artillery}
+
+| Weapon slots | Small | Medium | Large |
+|:-----------:|:-----:|:------:|:----:|
+| Barque | 0 | 0 |
+| Cutter | 1 | 0 | 0 |
+| bireme | 2 | 0 | 0 |
+| brig | 2 | 1 | 0 |
+| longship | 2 | 0 | 0 |
+| galley | 4 | 1 | 0 |
+| Frigate | 6 | 2 | 0 |
+| trireme | 4 | 1 | 1 |
+| caravel | 6 | 2 |
+| galleon | 10 | 6 | 4 |
+
+Which <font color="green">[artillery options there are can be looked up here](#ArtilleryOverall)</font>.
+
+#### ramming
+
+All rowing boats can beesitzen rams. To ram successfully a Vehicle check is thrown.
+
+#### Capture equipment
+
+To capture a ship you can use the following equipment:
+
+-   Ropes
+-   Throwing hooks
+-   Bridges
+
+#### Other weapons
+
+##### Saldic Fire {.unnumbered}
+
+Saldic fire comes from the island of Saldis, where an inventor found a way to use an ignitable powder to create a jet of flame that could be fired directionally from a pipe. Captains quickly adopted this invention, which was extremely useful at sea, and used it as a weapon against upper decks filled with soldiers.
+
+Saldic fire is capable of inflicting enormous damage on the crew in a very short time, so this easy-to-hide weapon is enormously feared.
+
+### Ships in battle
+
+A naval battle involving two or more ships takes place on a special "battle map". This map is divided into boxes that indicate certain length dimensions. Ships move during the battle depending on their acceleration, the higher it is the more squares can be covered per turn. Movement on the battlemap can be divided into 2 actions: the ship either moves forward or turns in one direction. Each of these actions costs one movement point.
+
+In addition, an acceleration roll can be made to cover an additional box. The chance for this again depends on the acceleration value, the higher the better. The quality of the captain and the crew also plays a role in equal parts.
+
+The weather also plays a role depending on where the wind is blowing from. If there is no wind, the normal movement points apply, if you move against the wind these points are halved (minimum one) - with the wind they are doubled.
+
+The goal in these sea battles is to sink or incapacitate the opponent. This can be done by aiming shots at the masts or rudders, as the destruction of the respective part severely limits the ship's fighting ability. This is achieved by bringing your own ship into position in the smartest possible tactical maneuvers and attacking the enemy with the guns. Alternatively, the enemy ship can be boarded to take control or sabotage it. For example, the gun batteries can be ignited or perhaps the powder supply can be blown up.
+
+Guns in the respective slots corresponding to the ship profiles can be assigned to one of four positions on the ship. These positions are port forward aft and starboard forward aft. These four positions can be targeted with an aimed shot and have life according to the number of guns placed in the position, so busy positions have more life than those with little to no guns. Furthermore, these four positions have fields of fire that are approximately 180°, which leads to overlapping fields of fire on the sides. For the front and back, only one side can shoot straight forward or backward, this is determined by a Luck Throw of the target.
+
+By cleverly placing the guns on the ship, various tactics are possible, for example, to provide one side with a particularly large number of guns and to let the enemy only on one side to arm him with superior force, but these strategies are accompanied by a certain risk.
+
+The enemy artillery fire is automatically avoided, the success of this action depends on the maneuverability of the ship, as well as the captain and crew.
+
+## Constructs {#Constructs}
+
+### General
+
+Constructs - the greatest wonders of mechanical craftsmanship - represent the zenith of Dwarven innovation. They are the only race capable of bringing these colossi, some of which weigh tons, to life. The constructs exist in all shapes and colors and cover every possible field of work. For example, they are one of the most powerful parts of the Rah' Kari army, are used by dwarven caravans to transport incredibly heavy goods, and are also equipped with heavy ballistae. Nearly every job a construct does could just as easily be done by an animal, a simple mechanic, or just a person. But constructs offer, among many other advantages, one in particular: unconditional loyalty. This makes them attractive companions for people with the right "change" in their pockets.
+
+### Control {#ConstructResonance}
+
+No construct will willingly betray its master, for they are in want of just that. Who can give orders to a construct is clearly regulated, by what is called a master stone. This is created together with the construct core and receives a unique pattern. This pattern is in resonance with the core, which carries the same pattern. However, the range of this resonance is limited. Within this distance, however, the construct will carry out any command given by the owner of the master stone. This command does not have to be said aloud, an explicit thought is already enough. As important as the range is, as a master you shouldn't worry so much about it, if a construct leaves the range the construct will finish the current routine / execute the command to the end. After that the construct automatically starts a previously determined behavior routine, like return to the owner of the master stone, fight or escape. The master stone, despite its name, can have many different shapes, since the pattern is imprinted only during the creation of the core. Possible master stones would be, for example, an amulet, bracelet or actually a decorated stone. In rare cases, masters of their craft may even apply the pattern to the skin as a tattoo. Such tattoos bring advantages as well as disadvantages, so it is virtually impossible to transfer control over the construct, but in return it is also virtually impossible to steal the master stone from its owner. So this is used only by the most suspicious dwarves. It should be noted, however, that the use of constructs per master is limited, because too many master stones under one master interfere with each other's resonance.
+
+### Essences
+
+Essences represent a mysterious energy source that is extracted from the freshly dead using a needle-like mechanism. This energy source requires special storage and can currently only be used for certain things. However, what can be achieved with it seems to be far beyond the level of development of current civilization.
+
+With it, construct cores can be constructed and even further improved. Furthermore, depending on the application, constructs use it as a drive, be it long-term in batteries or as a short-term charge boost.
+
+The "suction" from the corpses of not yet awakened, allows the decapitation of the deceased without having to fear an awakening. However, since decapitation of the deceased is considered a capital sin in many realms, it is of limited use.
+
+$$HIDDEN LORE$$
+
+Forerunners used the virus to extract essences from living tissue.
+
+![A Dwarf](Pictures/Flavor/PLatzhalter/Dwarf.jpg)
+
+#### Race relations
+
+While most races know dwarves only as traveling merchants or at their residences as a marketplace, the Rah Akari maintain a special trade in that one of their main defenses ,the constructs, come from the dwarves.
+
+![A rare construct](Pictures/Flavor/Placeholder/ConstructRahKari.jpg)
+
+### Applications of constructs {#ConstructApplication}
+
+Constructs differ in many ways. in this case, limits are basically set only by the craftsmanship and creativity of its builder. Starting with the **construct core**, this heart of each construct, with the damage of this also ends the activity. The core is not directly imprinted with its task, but rather represents the possible memory and energy source, the better the core, the more complicated commands the later construct can execute. Even independently several functions to each other series to successfully execute the command. Furthermore, there are differences in the armor, as you can well imagine a being that due to its nature already consists exclusively of metals is already well armored which already leads to a high defense value, but parts of the inner life of the constructs are easy to destroy due to their filigree and precise structure.
+
+#### Construct types
+
+Basically, constructs are sorted into five classes.
+
+##### Utility:
+
+Constructs of this class are mainly found in rich dwarven households, they fulfill purposes that could also be performed by an employee but are much more discrete. Tasks range from crafting tasks such as the construction and maintenance of buildings to administrative tasks. In general, they serve to improve the quality of life. They are the expression of pure decadence.
+
+![Constructs are not only useful on the battlefield - they can also be used as helpers in everyday life](Pictures/Flavor/Placeholder/ConstructLibrary.jpg)
+
+##### Transportation:
+
+Both above and below ground often need to move larger amount of goods or large loads, here for there are all sorts of options, the best of course again represents a construct, here is an example where would they rather store their cash, in a saddlebag of an animal already known for its stubbornness and reluctance or in the vault inside their Loyal Companion who would follow them into the Wormfall without hesitation. This class of constructs differs greatly in their designs, although they all have the same goal, from the number of legs, armor and useful gadgets, the most important is of course the possible load capacity. These constructs are often used by the surface dwarven caravans, in them everything from mystical beasts to gems can be transported safely, often they are equipped with useful gadgets and weapons that can be used by the crew.
+
+![Equipped transport construct](Pictures/Flavor/Placeholder/Construct_Transport.jpg)
+
+> I thought after years on all the battlefields I had seen it all, but when my boys were torn apart by these four-armed devils a shiver ran down my spine, no sugar came over this monster when old Joshua hit it with the warhammer and none when it split him in half.
+>
+> --- Abiter Kox mercenary captain on an advance battle against the Rah Kari
+
+Nothing is more efficient on a battlefield than a close combat construct with the simple order to kill the enemy. Everyone knows never is man more creative than in war, the effective destruction of others seems to inspire creativity and nothing is more efficient than a construct for that task. The armor often seems impenetrable to many enemies, but once broken through this armor most constructs are very fragile, but this already represents a mammoth task. As hard as the fight against them is, the reward is worth it, if the construct core remains undamaged and the master stone is obtained, both can be sold to dwarven clans for a high price, even without the construct, since they are reusable.
+
+a construct - made for battle](Pictures/Flavor/Placeholder/ConstructBattlefield.jpg)
+
+A ranged construct is much less adapted for close combat, but not to be underestimated. They are slower but still powerful, equipped with ballistae or crossbows they are deadly even at long range. Note that ranged combat requires significantly more resources of the construct core than melee combat, simply because of the higher complexity.
+
+![BattleConstruct](Pictures/Flavor/Placeholder/BattleConstruct.jpg)
+
+![Ranged Construct](Pictures/Flavor/Placeholder/Construct_Ballista.jpg)
+
+##### Titan class:
+
+This class is the rarest of it only a handful of models exist even in the records. These partly huge creations carry cores of unbelievable dimensions and immense purity. One does not want to imagine how much essence must have flowed into the creation of such a core, whole peoples erased from the face of the earth. What makes these constructs dangerous is not primarily their size, striking power or "intelligence" of which everything is present in measures but much more the endurance. Every military strategist knows that constructs are dangerous but can also be destroyed if you penetrate their armor, that may also be true here, but the clever inventors have found a solution. The constructs are inhabited by many small constructs, all programmed with only one permanent command to repair the titanium class artifact. However, even these require cores of great purity due to their small size, although capacity is saved by the permanent installation of the command, it is still highly complex and always requires several steps.
+
+#### Construction
+
+What drives these constructs is a so-called construct core. These exist in different sizes and purities and are created with the help of the souls of sentient beings. The larger and purer the more essence is needed, from these adjusting screws depends on the later "intelligence" of the constructs since these determine the memory size, so to speak. It is rumored that the purest and largest cores can develop a consciousness, but this theory has not yet been proven.
+
+To obtain the souls for the expensive creation of constructs, surface dwarves have a special tool -- the soul catcher -- in the process of capturing the souls, the bodies must be burned. This poses no problem in a dwarven city with a volcano or a forge, but is rather difficult to accomplish on the road. Therefore, the soul catcher comes with a vial filled with a highly combustible special oil for quick cremation of corpses. This oil is obtained from enzymes of the fire organ of the Linddrachen, it constantly produces new oil, but these also consume over time.
+
+![The Forges of the Dwarves](Pictures/Flavor/Placeholder/DwarfForge2.jpg)
+
+The dwarves found inspiration for these marvels in the remnants of Forrunner technology, but even their masterpieces of today can't hold a candle to those of yesteryear.
+
+### Distribution of constructs
+
+For many reasons, constructs are rarely encountered, but when they are, they are usually found in the company of dwarves, Rah Kari, or some shrewd businessmen and craftsmen. In rare cases, however, one also encounters constructs roaming alone, so-called wanderers, who have often been roaming the land for centuries with the sole purpose of following the last orders of their respective masters, but who they are is unknown. Especially in the subterranean city of Wandia and in forgotten dwarven cities you can find a lot of wanderers.
+
+## Constructs Rules {#Constructs Rules}
+
+### Combat
+
+A construct follows the commands of its master in combat, should the master not be available it follows either the last command uttered or a simple standard routine. Commands can be transmitted either verbally or even mentally. Thus, a construct is not capable of complex independent thought.
+
+A construct, like the players in the campaign, has two actions per turn. Provided enough charges are available, there is a chance for a third action per turn (see [Vehicle Check](#Vehicles)).
+
+Example commands: Basically any action that requires a charge. Attack this enemy; protect me/this ally, block this enemy, sit (aim) at this cover, etc.
+
+### Limbs / Weak Points
+
+Each construct consists of 6 attackable parts, its 4 limbs, a core cover, and the core itself. The core by itself is virtually unarmored, but can only be attacked *after* the core cover has been destroyed. The core replaces the head and the core cover replaces the torso when targeted.
+
+### Charges
+
+Charges are stored in the battery. Each active action consumes charges from the battery. Depending on the type of application, several charges can be consumed for one application. Normal actions, such as walking or looking, are free.
+
+During downtime, the battery recharges 100% by itself.
+
+### Applications for charges
+
+| 1 charge (standard application) | 1 charge (only with addons) | 2 charges |
+|------------------------------|--------------------------------------------------------------------|------------------------------------------|
+| Attack | Protect (block for someone) | Heavy Attack with any melee weapon |
+| Sprint | Ram | Special Weapon Types |
+| block | knock down (grappling) |
+| Dodging | Attilerie Use |
+| Climb | Rope Thrower | |
+| smoke thrower | |
+| | bola thrower | |
+| | \*All other functions that do not explicitly require 2 charges | |
+
+### Vehicle capability {#VehicleCapabilityConstruct}
+
+The owner of the construct is able to briefly take control of a constuct even from a distance, this manifests as an additional action for the construct. This action depends on a vehicle check, the difficulty of which is based on the core and size of the construct. The stronger the construct, the more difficult the check. If successful, the player's Main Action is used up; if unsuccessful, the Single Action is used up, as less time is spent.
+
+The difficulty of the check is automatically calculated in the construct profile. The difficulty can be halved by a pilot seat in the construct.CROSSREFERENCE XXXX
+
+### Repair
+
+Of course, it happens that constructs are demolished in battle, i.e. the construct's lives drop to 0. In this case, it must be repaired during the downtime.
+
+Depending on the size of the construct, between one and three downtime craft actions must be spent.
+
+The difficulty of the check is based on the animal of the corpus and the corresponding repair values of the material.
+
+However, these repairs do *not* require materials.
+
+| Repair | Threshold |
+|:----------:|:---------:|
+| level 1 | 1,5 |
+| level 2 | 2,3 |
+| Level 3 | 3 |
+| level 4 | 4 |
+
+### Design and manufacture
+
+A construct is not unlike a player character in structure, but differs in the source of attributes and ability points, among a few other additions.
+
+A construct consists of:
+
+-   Construct Core: the heart and brain of the construct determines life and ability points.
+
+-   Accumulator: determines the amount of charge, i.e. the number of possible actions of the construct.
+
+-   Corpus: specifies the available attributes and armor.
+
+These three components must always be present for a functioning construct. However, the individual parts can be swapped with other parts of the same class as desired.
+
+For a better and easier understanding of the creation of a construct, a look into the Excel file is recommended. Since with only few inputs the construct game is ready. Note that the left side of the profile should not be edited because these values complete themselves.
+
+#### Skills {#SkillsConstruct}
+
+Not all abilities can be developed by constructs, as they have limitations as well.\
+The following skills can be improved:
+
+| |
+|------------------|
+| Block |
+| melee weapons |
+| Ranged Weapons |
+| Unarmed |
+| Running |
+| Sneak |
+| Perception |
+| dodging |
+| Acrobatics |
+| throwing |
+| swimming |
+| dexterity |
+| intimidation |
+
+#### Core
+
+The construct core represents both the heart and the brain of each construct. The level of the core is increased by applying essences in downtime. This level affects many areas of the construct:
+
+-   The maximum attributes that can be used effectively. If more points have gone into an attribute than the level of the core, only the attribute points up to the core level will be applied.
+
+-   In addition to being limited by the maximum attributes, two attributes also level directly with the core level: intelligence by a factor of 1 to 1 and instinct by a factor of 1 to 0.75.
+
+-   The maximum lives of the construct correspond to 15 times the core level and are distributed among the limbs as follows: 50% core (head), 50% core shielding (torso), all other parts 30% each
+
+-   The ability base level: with each core level, the base level of each ability also increases. If this is higher than the improved level of the ability, the base level will be used for the calculation instead.
+
+-   Ability level: by using essences, regardless of the level of the core, individual abilities can be improved.
+
+*Base price of the core: 5,000 reiks*
+
+*The core starts at level 10*
+
+| core level | price per level (essences) | total price (essences) |
+|-----------|---------------------------|------------------------|
+| 11-15 | 1 | 5 |
+| 16-20 | 2 | 15 |
+| 21-25 | 3 | 30 |
+| 26-30 | 4 | 50 |
+| 31-35 | 5 | 75 |
+| 36-40 | 6 | 105 |
+| 41-45 | 7 | 140 |
+| 46-50 | 8 | 180 |
+
+Increase skill level after manufacture:
+
+| skill level | price per level | total price (essences) |
+|------------------|----------------|------------------------|
+| 0-20 | 1 | 20 |
+| 21-40 | 2 | 60 |
+| 41-60 | 3 | 120 |
+| 61-80 | 4 | 200 |
+| 81-100 | 5 | 300 |
+
+*Essences can be purchased directly when buying the core for a price of 500 reiks per essence.*
+
+Each core comes with matching resonance circuit i.e. a control unit, either as a piece of jewelry of choice or as a tattoo for an additional cost of 5,000 reiks.
+
+The jewelry must always be worn on the body to command the construct, however, it is in the nature of things that these trigger a gleam in the eyes of cunning thieves. However, they are transferable.
+
+The tattoo, on the other hand, is neither hereditary nor can it be stolen.
+
+The choice of the two options is made when buying the core.
+
+#### Corpus
+
+The corpus determines the following properties of a construct.
+
+-   Size: Small, Medium, Large
+
+-   Attribute level: the higher the level, the more attributes can be distributed among strength, agility and physique
+
+-   Attribute points are awarded linearly, so increasing an attribute by one point costs only one point,
+
+-   Armor value 20/ 26/ 29/ 32 per part averaged as a percentage of the total: Core 5%, Core Cover 20% Arms 20%, Belt 35%, Legs 20%
+
+-   Basic carrying capacity: this is calculated automatically and can be found in the profile of the respective construct.
+
++---------+---------+-----------+---------------+
+| Armor | Attributes | Price (Reiks) |
++:=======:+:=======:+:=========:+:=============:+
+| Tier 1\ | 100 | 10 | 6.000 |
+| small | |
++---------+---------+-----------+---------------+
+| animal 2\ | 130 | 15 | 18.000 |
+| small | |
++---------+---------+-----------+---------------+
+| animal 3\ | 145 | 20 | 36.000 |
+| small | |
++---------+---------+-----------+---------------+
+| animal 4\ | 160 | 25 | 72,000 |
+| small | |
++---------+---------+-----------+---------------+
+| animal 1\ | 100 | 20 | 12,000 |
+| medium | | |
++---------+---------+-----------+---------------+
+| Tier 2\ | 130 | 30 | 36,000 |
+| medium | |
++---------+---------+-----------+---------------+
+| Tier 3\ | 145 | 40 | 72,000 |
+| medium | |
++---------+---------+-----------+---------------+
+| Tier 4\ | 160 | 50 | 144,000 |
+| medium | |
++---------+---------+-----------+---------------+
+| Tier 1\ | 130 | 30 | 18,000 |
+| large | |
++---------+---------+-----------+---------------+
+| Tier 2\ | 169 | 45 | 54,000 |
+| large | |
++---------+---------+-----------+---------------+
+| animal 3\ | 189 | 60 | 108.000 |
+| large | |
++---------+---------+-----------+---------------+
+| Tier 4\ | 208 | 75 | 206,000 |
+| large | |
++---------+---------+-----------+---------------+
+
+Alternatively to the purchase, it is possible, with the right craftsmanship, to build a construct yourself. For this, construct parts are needed, these consist of two material each of the appropriate material. 1 construct part is consumed per size. The mixing of material in the construct parts is not possible.
+
+##### Attributes
+
+Each attribute starts at 1 by default and can be increased by the corpus or by [Addons](#ConstructAddons). Addons, however, are limited to strength, agility, and physique. As the construct core level increases, the value of instinct and intelligence also increases.
+
+#### Battery
+
+Like the core, a battery is a steadily increasing element of the construct, a battery is purchased with 0 maximum charges and can either be improved at the blacksmith at the conditions mentioned below or you can simply improve the efficiency directly yourself via crafting checks, however you should note that both price and difficulty level of this tuning procedure increase significantly.
+
+In addition, essences can be used during the session to refill the battery.
+
+*Base price: 5.000*
+
+| Charge Count | Price per Charge (Reiks) | Total (including base price) | Improvement Difficulty (Craft Check) |
+|---------------|--------------------------|-------------------------------|---------------------------------------------|
+| 1-5 | 500 | 7500 | 1,5 |
+| 6-10 | 1.000 | 12500 | 2,3 |
+| 11-15 | 1.500 | 20.000 | 3 |
+| 16-20 | 2.000 | 30.000 | 4 |
+| 21-30 | 5000 | 155.000 | 5 |
+| 31-50 | 6000 | 355.000 | 6 |
+
+### Charge battery in session
+
+To recharge the battery without pausing: use the essence collector for this purpose. One charge corresponds to 10 essences. However, it is difficult to estimate when to draw off the collectors, which is why inaccurate draw-offs often occur. In the worst case, this can lead to the loss of all the collected souls in the collector. Due to the high price of this application, it is recommended only in an absolute emergency.
+
+### Enhancements: Weapons, upgrades and additional
+
+A construct can equip up to 5 add-ons of any kind at the same time.\
+Whether it is weapons, addons or upgrades.
+
+These can either be purchased or even made with the appropriate materials.
+
+#### Upgrades:
+
+Upgrades increase either the attributes, armor or life of a construct as long as they are equipped.
+
+| Level | Attributes | Health | Armor |
+|-------|-----------|--------------|-----------|
+| 1 | 3 | 30 | 5 |
+| 2 | 5 | 50 | 10 |
+| 3 | 8 | 70 | 15 |
+| 4 | 12 | 90 | 20 |
+
+#### Construct Weapons:
+
+A construct can use the full arsenal of weapons that players can access. In addition, some other special construct weapons can be used, such as the combat drill and the flamethrower.
+
+-   here maybe ne overview over the weapons? can we automate the?
+
+#### Addons: {#ConstructAddons}
+
++-------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------+----------------+----------------+----------------+
+| Addons | Description | Level 1 | Level 2 | Level 3 | Level 4 |
++=========================+=============================================================================================================================================================================================================+================+================+================+================+
+| Transport | increases the load limits of the transport weight | +75KG | +125KG | +200KG | +300KG |
++-------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------+----------------+----------------+----------------+
+| Armor Mode | 100% Passive Block Chance but no attacks possible | Shield Value +10 | Shield Value +15 | Shield Value +20 | Shield Value +30 |
++-------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------+----------------+----------------+----------------+
+| guard mode | default available but needs slot, construct stands guard due to perception check | | | |
++-------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------+----------------+----------------+----------------+
+| Artillery | Human-operated fixed artillery only, but retractable | | | | |
+| | | | | | |
+| | to be used only in fixed position | | | |
++-------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------+----------------+----------------+----------------+
+| Shooting Range | Allows artillery use while moving and without dismounting, provides additional cover for the shooter | | | | |
++-------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------+----------------+----------------+----------------+
+| Artillery Reloading Module | provides automatic reloading without the shooter's intervention, but consumes charges | | | | |
++-------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------+----------------+----------------+----------------+
+| Ranged Stance | allows ranged fighters to take up positions on the construct and seek cover (only possible on large constructs) | | | | |
++-------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------+----------------+----------------+----------------+
+| pilot seat | allows vehicle check with half difficulty and riding on the construct. Small breeds can already ride on medium constructs, normal-sized breeds need large constructs | | | | |
++-------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------+----------------+----------------+----------------+
+| Pilot Seat Armor | Protects pilot seat so only construct can be attacked, pilot hides behind cover like core (Called shot) | | | | |
++-------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------+----------------+----------------+----------------+
+| Utility Thrower | Smoke, Rope and Bola this Apparatus always finds something to throw.                                                                                                                                        | | | | |
++-------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------+----------------+----------------+----------------+
+| ramming module | allows the construct to start a ramming maneuver to stun / disrupt an opponent with some chance | | | | |
++-------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------+----------------+----------------+----------------+
+| Overcharge Dazzle Module | A core overcharge at the cost of 5 charges blinds bystanders in addition the construct receives damage.                                                                                     | | | | |
++-------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------+----------------+----------------+----------------+
+
+### Example construct creation
+
+An example of creating a construct, an able trader in the group has decided after some saving to compensate for the group's weakness in combat by creating a construct. The group lacks a frontline fighter, as the entire group has decided to become Stealth Archer.
+
+After the general alignment is determined and a suitable merchant is found, the selection begins. First he chooses a corpus suitable for the role, not too flashy big but not too small. So it will be a medium corpus with the attributes evenly distributed between strength and physical to be able to best block and attack in close combat. For this the cost for T1 is 12.000R.\
+Next the core for 5000, at low level it is advisable to invest in the core level instead of skill level for core level 10 another 5.000R.\
+Now the battery, for 12.500R you get a battery with 10 charges.
+
+Now only the equipment is missing, for the beginning the old shield and sword is still enough.
+
+Total cost would be about: 34,500 + equipment
+
+The values are flux in the sample Excel sheet entered all other information is automatically supplemented so it can already go.
+
+## Animals as companions {#AnimalHandling}
+
+Animals not only represent an important part of the ecosystem, they can also be of great use to the characters. Because they can not only be useful in terms of food production , but also become loyal companions.
+
+### Animals to consider
+
+What makes animals unique in the system are some values and functions that are not found anywhere else in the game. For example, animals have a *taming value,* which shows how easily an animal can be persuaded to submit and join the player. The *Training value,* which indicates how easy it is to teach an animal new commands. This increases the chance of execution in a chaotic battle. Loyalty,* this value becomes relevant only after taming and starts at zero and grows with time. In parallel, this also increases the obedience that is shown to the respective player.
+
+### Learnable skills
+
+Animal companions can be useful in all sorts of situations by learning various skills that a character can profitably bring to bear during a session. The following list gives an overview of possible commands.
+
+Since not all possible events can be covered, it is recommended to choose a similar behavior prompt for commands outside the list and let the DM determine a difficulty level. This offers the possibility to create new and exciting interaction possibilities with animals during a campaign, be it in combat or a rescue mission, for example.
+
+Not every animal can learn all abilities, as this is not always possible for them according to their nature. For example, some actions are only possible for flying animals, while others can only be performed by large animals. In addition, there are also special abilities exclusively available to certain mythical creatures.
+
+The number of skills that can be learned depends on the intelligence of the animal. Per intelligence point it is possible to teach an animal one ability. For example, a dog that has 5 intelligence can learn 5 skills.
+
+Depending on the animal, abilities of the following table can be learned:
+
+```{r}
+dft = read_excel(allgdatapath, sheet = "animal skills")
+
+colnames(dft) = c("Ability", "Difficulty", "Execution Limit", "Description", "Check", "Addition")
+
+dft %>% relocate("Ability", "Description", "Difficulty", "Execution Limit") %>%
+  select("Ability", "Description", "Difficulty", "Execution limit") %>%
+  replace_na(list(description="")) %>%
+  knitr::kable(align = c('c', 'c', 'c', "c"))
+```
+
+### Taming a wild animal
+
+Meeting a wild animal in the wild, even if it seems hostile to you, need not be a bad thing, as a good tamer will instead see this potentially dangerous situation as an opportunity to find a new ally.
+
+This is where the [Animal Handling](#AnimalHandling) skill comes into play when dealing with animals. It can be applied both in downtime to train an animal, and actively in session to tame animals, or give commands to tamed animals.
+
+In order to give a command to an animal, it must be tamed beforehand. This works by the DM rolling Animal Handling checks four times (plus bonus chances), the values of which must accumulate to exceed a fixed value, depending on the animal. If a PC attempts to tame an animal outside of combat, the four checks are rolled consecutively. It is open to the player to increase their own chances of successful taming by, for example, laying out bait or coming up with other ideas to get the animal positively attuned to a character. If the player is in combat and wants to tame an animal, the four rolls cannot reroll in a single combat round. The player now has the option to choose whether to give away the main and side action for one check each round, or to split the checks over several rounds. One check can be thrown per main or side action, but no attack or defense is possible anymore depending on the action choice. If an animal tries to escape during the taming process, the characters have the option to interrupt the attempt by throwing a bola, or wounding the animal [(targeted shots)](#CalledShots).
+
+Upon successful taming, an animal status(profile) is entered into the owner's profile in which further management of the animal takes place. This works by copying the default profile of the animal from the animal Excel file into the PC profile as a separate spreadsheet. Now the spreadsheet is given a desired name and the DM can initialize the animal profile.
+
+### Training {#TierTraining}
+
+After successfully taming an animal, the tamer should start training the animal in the following downtimes to get optiomal benefit from the animal. Through training, ability points are gained that can be exchanged for learned commands. Furthermore, loyalty is gained - both effects ensure that the animal unconditionally executes even difficult commands in the thick of battle.
+
+For earning training points the training value of the animal is the center of attention. This value indicates how fast the animal is ready to learn new commands. For example, a dog will learn very quickly, but a cat will be more reluctant. For training, a simple Animal Handling roll is made by the DM and the value is reported, this value is then entered into the animal's profile (in the player profile) and added up (accumulated value) with all previous training rolls when these accumulated values reach the training value, a training point is earned and the loyalty increases by 1 (up to a maximum of 6 by training). Afterwards, the training progress is deleted, but everything that was achieved above the training value is added back. So the training points can be earned slowly over several sessions and no check is wasted.
+
+#### Price
+
+The skill points obtained can now be exchanged for learning various skills. The skills shown in the table above also indicate the price in skill points that must be paid for them.
+
+### Loyalty
+
+The execution of the ability is related to loyalty. The more loyal an animal is to the command giver, the easier it will follow the commands. This works by reducing the difficulty of a command to be executed by the value of the loyalty, so the value of the check only has to exceed the difference value. The loyalty can correspond to a value from 0 to 10, where 0 stands for a strange animal and 10 for loyalty until death.
+
+*How do you get Loyalty?*
+
+Training Loyalty: For each time the progression bar fills up, the trainer animal team receives one loyalty point. This works out to a maximum of six times, so the relationship may well strengthen due to the sheer amount of training.
+
+Furthermore, up to 4 points can be achieved through interaction in gameplay. However, this does not only apply to the trainer. If, for example, other players besides the trainer take care of the animals without actively training them, they can also receive up to four loyalty points through the game-play loyalty. The DM can award these at his discretion if PCs actively involve the animals in the game-play by feeding them, explicitly grooming them, or giving them attention during downtime. Note that the loyalty of each animal is tracked player-dependently (in the animal's status spreadsheet in the respective profile of the player interacting with the animal).
+
+### Execution
+
+Any animal companion can be given any command, however animals have minds of their own and not every command will be executed. The more complex the command, the less likely it will be understood. However, there are some ways to increase the chance: Primarily by increasing the player's Animal Handling skill, secondarily the you can learn the skill so that execution by the animal's trainer is already known, finally by being loyal to the animal's companion(s).
+
+As a formula, the execution probability looks like this:
+
+$$difficulty < learned\; skill - \frac{loyalty}{2} - animal\; handling\; check$$
+
+### Maximum number of animals
+
+The number of animals you carry should remain realsitic. What this means exactly is to be judged by the DM in the particular situation of the group. For example, a flock of chickens will have little to no effect, but a player will have a hard time caring for a herd of elephants.
+
+In addition, the number of animals a player can use in combat is also limited, due to both the balance that must be considered and the fact that only a certain number of commands can be given in combat.
+
+### Animal damage
+
+Small and medium animals basically dodge any attack, basically the smaller the animal the higher the dodge value but also lower the lives. Large animals, on the other hand, due to their sluggishness, have like player 2 actions but also correspondingly more lives.

@@ -1,0 +1,237 @@
+# Das Herzland
+
+![Karte des Herzlandes](Pictures/Maps/Herzland.jpg)
+
+## Ortschaften der Region
+
+#### **Civis Primae** {.unnumbered}
+
+Hauptstadt des Herzlandes und des Kaiserreichs. Bürokratisches, militärisches und finanzielles Herz des Kaiserreiches. Sitz des Kaisers mit der Villam autem Caesar. Hauptsitz der Ekklesia. Extremes Reichtumsgefälle. Unterstadt als größtes Bewohntes Kavernensystem. Sitz etlicher Banden. Unterstadt ist Schwarzmarktgeprägt und bietet sämtliche Schattenseiten der Menschlichen Zivilisation. Civis Primae besitzt rund 300 Kirchen und Tempel der Ekklesia. im Norden der Stadt ist die größte bekannte Ledergerberei.
+
+Einwohner: rund 2.000.000
+
+#### **Riga** {.unnumbered}
+
+Größte Stadt am Reiksee, verlor stark an Bedeutung nach der <font color="green">[Schleifung Rigas](#SchleifungRiga)</font> . Berühmt für Wettkampfarenen und Schwarzmarktgeschäfte. Ursprung der vieler der besten Soldaten des Kaiserreiches.
+
+Einwohner: rund 30.000
+
+#### **Wagenfurt** {.unnumbered}
+
+Zoll, Handel, Holzwirtschaft, Rüstungsmanufaktur
+
+Inoffiziell vollständig von einem Zwerg verwaltet. Massiv Korrupt. Offiziell untersteht die Rüstungsmanufaktur in Wagenfurt Civis-Primae.
+
+Einwohner: 7.000
+
+#### **Agiontum** {.unnumbered}
+
+Hauptsitz der Adelsfamilie Thrax. Größte Sprengstoffmanufaktur. Kaiserliche Stahlplattenrüstungsmanufaktur. Äußerst wohlhabende Stadt. Behielt größtenteils Autonomierechte. Besitzt eigene Armee aus 3000 Mann. Zweitgrößter Sitz der Ekklesia. Hauptaufenthalts Orts des Ekklesiaoberhauptes (Pontifex Maximus). Weitgehend frei von Korruption. Hauptsitz der Inqusitatore scholae.
+
+Einwohner: rund 170.000
+
+#### **Farriontum** {.unnumbered}
+
+Metallmanufaktur für Musketen und Großkanonenmanufaktur und schwere Rüstung - mit kaiserlicher Festung schwerst bewacht.
+
+Einwohner: 11.000
+
+#### **Meantum** {.unnumbered}
+
+Bergwerk und Siedlung mit den ertragreichsten Kupfer und Eisenminen im Herzland. Liefern die reinsten Kupfer und Erzvorkommen. Liefern rund 10% des gesamten Eisen und Kupfer Erzes des Kaiserreiches. Große Pechgruben im angrenzenden Wald/Sumpf.
+
+Großteils Metallverarbeitung und Holzabbau für die Weiterverarbeitung in Farriontum
+
+Einwohner: 9800
+
+#### **Arstior-Farm** {.unnumbered}
+
+Anbau Weizen, Gerste und Weidetierhaltung
+
+Einwohner: 1300
+
+#### **Licinius-Farm** {.unnumbered}
+
+Anbau Weizen, Gerste und Weidetierhaltung. Größte Käserei des Herzlandes.
+
+Vor kurzem erschlossene Farm zu Ehren Kaiser Licinius Proximus
+
+Einwohner: 1800
+
+#### **Castellum-Reik** {.unnumbered}
+
+Größtes Militärisches Lager des Kaiserreiches. Die Gesamte Stadt ist ein militärisch geprägt. Die Außerhalb der Mauer lebt die Allgemeine Bevölkerung mit einem umfangreichen Rotlichtmileu welches Vertretern des Allgottes ein Dorn im Auge ist.
+
+Einwohner: 123.000
+
+#### **Hadrius-Farm** {.unnumbered}
+
+Weizen, Gerste, Hopfen, Weidetiere, Geflügel. Militärisch organisierte Landwirtschaft welche direkt für die Versorgung von des Militärlagers Castellum-Reik zuständig ist.
+
+Einwohner: 23.000
+
+#### **Minor-Civis** {.unnumbered}
+
+Berühmt für Webstoffe, Zimmerei und Lederverarbeitung und die Armbruster-Gilde. Einflussreichste Juweliersgilde. Sitz der Alchemistenfamilie Chantius - größter Trankhersteller im Dienste des Kaisers, abseits von Civis Primae. Beliebter Schwarzmarktumschlagplatz.
+
+Einwohner: 64.000
+
+#### **Lirundum** {.unnumbered}
+
+Handel, Heilquellen und Badehäuser
+
+Lirundum gilt als eine bedeutsame Heilstätte wo heißes Thermalwasser und in den angrenzenden Wäldern einige seltenere Heilpflanzen wachsen. Die Lage als Verbindung zwischen Vaichatum, Orantium und Minor-Civis abhängig von den erhobenen Zöllen der Produkte. Die ausgedehnten Thermalbäder sind für alle Bevölkerungsschichten zugänglich.
+
+Einwohner: 10000
+
+#### **Orantium** {.unnumbered}
+
+Holzverarbeitende Industrie. Jagdrecht für die Länderein zwischen Grimgrod und Orantium. Export von Haltbarem Fleisch und Wurst. Handel mit Grimgrod - Edelsteine, Fleisch, Bier, Waffen und starken Tränken.
+
+Einwohner: 11.000
+
+#### **Vaichatum** {.unnumbered}
+
+Größter Holzproduzent südlich der Reik. Ausgedehnte Kräuter und Pflanzengärten für die Belieferung von Civis Primae und der Armee. Familiensitz des Adelsgeschlechtes der Ancira. Fischerrei Monopol des Vaichatumsees. Würde ehemals über die nun leeren Goldminen des Vaichberges Reich und verdankte dem Geschlecht der Ancira ihren Einfluss. Das diversen Mikroklimata Zwischen dem Reiksee des Vaichatumsee, des angrenzndes Waldes des Sumpfes und der Ebene bringen floristisches Reichtum.
+
+Verbot des Pflanzensammelns in Verwaltungsgebiete von Vaichatum.
+
+Universität publica in Bereichen des Holzhandwerkes, Alchemie, Steinhandwerkes und Bauherrentum.
+
+Einwohner: 89.000
+
+#### **Vaichatum-Farm** {.unnumbered}
+
+Die Farm und Bergbruch welche im Verwaltungsgebiet von Vaichatum steht. Fisch, Gerste, Marmor, Weizen, Kräuterfarm mit alchemistisch wertvollen Pflanzen. Zucht von Pferden.
+
+Einwohner: 6400
+
+#### **Thraxium** {.unnumbered}
+
+Rückzugsort der Adelsfamilie Thrax. Lebt von den Geschäftsbeziehungen der Familien Thrax und des Vyrnholzabbau (nicht Brennbares äußerst stabiles Holz für Spezialanwedungen).
+
+Einwohner: 1500
+
+#### **Meapontenum** {.unnumbered}
+
+Fischfang, geringer Erzabbau, bedeutsamste Route zwischen Civis-Primae und Yondalla, Schwarzmarkt und Gastgewerbe.
+
+Einwohner: 8500
+
+#### **Viscutum** {.unnumbered}
+
+Fischfang, Holzwirtschaft, Weinproduktion, Webstoffe, Belagerungswaffen.
+
+In Viscutum wird seit rund 60 Jahren eine weitere Brücke über die Reik gebaut um Castellum-Reik besser an die Nordhälfte des Kaisereiches mit dem Protektorat in Yondalla zu verbinden. Die Fertigstellung der Brücke wird im Laufe der nächsten Jahre erfolgen.
+
+Einwohner: 13.000 (+ 1000 Brückenbaugesellen)
+
+#### **Piscaim-Farm** {.unnumbered}
+
+Weizen, Honig, Trocken/Früchte, Dörr/Fisch, Dünger, Weidetiere.
+
+Durch den Piscaimsee wohlhabendere Farm durch den Verkauf von Fischprodukten und durch die ausgezeichneten Böden um den See hohe Erträge.
+
+Einwohner: 1100
+
+#### **Tantum-Farm** {.unnumbered}
+
+Handwerk, Früchte, Honig, Weizen, Weidetiere, Erzbau (, Holzwirtschaft, Steinbrüche, Edelsteine, Uraninan Plantagen.
+
+Bedeutenste Farm im Herzland durch mildes Klima, ausreichend Regen und geschützt vor Nordstürmen durch den Tantumberg. Unter dem Adelsgeschlecht Uraninan seit 300 Jahren kontinuierlich wachsend und Kleinstadt-Charakter. Bedeutend in vielerlei Hinsicht. Einziger Ort im Herzland wo Uraninanblätter (Gegenmittel der Blaulungenpest) kommerziell angepflanzt werden.
+
+Einwohner: 7500 (+3000-4000 Erntehelfer im Sommer)
+
+#### **Groß-Tantium** {.unnumbered}
+
+Handwerk, Steinmetz-Gilde, Holzbau, Holzhandwerk, Handel, Kunstschmieden
+
+Verbindungstadt zwischen den nördlichen Ausläufern des Herzlandes und des Kaiserreiches.
+
+Einwohner: 48.000
+
+####  {.unnumbered}
+
+#### **Muranum-Farm** {.unnumbered}
+
+Ehemals: Holzwirtschaft, Weidetierhaltung, Gerste, Hafer, Hopfen, Weizen.
+
+Seit Überfall von Höllenbrut Abscheulichkeiten im Jahr 417 n. R. verlassen. Quelle zahlloser Erwachter.
+
+Einwohner: 0
+
+####  {.unnumbered}
+
+#### **Grimgrod** {.unnumbered}
+
+Wildfleisch, Monsterzutaten, Orksoldaten, Edelsteine, Tränke.
+
+Formal dem Kaiserreich untergeordnete größte bekannte Orksiedlung im Kaiserreich. Orks selbst ermordern gelegentlich Jäger von Orantium und Vaichatum. Orks aus Grimgrod werden häufig als schwere Infanterie für die Kaiserliche Armee eingesetzt. Der Edelsteinverkauf der Orks ist für das Kaiserreich äußerst lukrativ und der Gewinn wird teils als Kompensationszahlung für ermorderte Jäger der oben erwähnten Ortschaften umgemünzt.
+
+Einwohner: 1000 - 15000
+
+### Infrastruktur
+
+Das Herzland hat vermutlich mit Nors die beste bekannte Infrastruktur. Straßen werden von designierten Gilden gewartet und die zentralen Wege sind häufig frei von größeren Bedrohnungen, da die Kaiserliche Armee hierfür Sorge trägt. Es ist meistens möglich zwischen den großen Städten zu reisen ohne unter freien Himmel zu schlafen. Trinkwasserversorgung ist größtenteils sauber und wird über Viadukte oder tiefe Brunnen bereitgestellt. Heiler und Alchemisten helfen gegen die meisten Verletzungen, sofern der Geldbeutel stimmig ist.
+
+## Die Geschichte der Region
+
+Die Historie des Herzlandes ist eng mit der Lehre des Allgottes und der darauffolgenden Gründung des Kaiserreiches verbunden. Civis-Primae ist, Historikern zufolge die Wiege der Zivilisation und seit es Schrift gibt, besiedelt. Die Umliegenden Gegenden wurden durch das Wachstum der Menschenlichen Bevölkerung unter menschliche Obacht gestellt und abgeholzt und/oder in dem Dienste der Landwirtschaft gestellt. Durch die Siedlungen entstanden kleine Fürstentümer welche sich in ständig wechselnden Allianzen und Feindschaften entwickelten und vergingen. Ruinen und ehemalige reiche Fürstentümer fanden durch Krieg, Krankheit oder Unglück ihr Ende, während andernorts der Zufall des Lebens gütiger war. Aufgrund der geringen Bevölkerungsdichte war es weitaus schwieriger gegen <font color="green">[Monster und andere Abscheulichkeiten](#Monster)</font> vorzugehen. Diese, prägten sich in der Kultur und den Lebensrhytmus der ansäßigen Menschen, wie auch in anderen frühen Kulturen ein. Die Verbreitung der Animali als Monsterjäger war dadurch in manchen Kulturen in Form von Guten Geister belegt. Je besser sich allerdings die Dörfer und Fürstentümer entwickelten, desto eher störten die Animali die Landwirtschaft oder die Jagd, wodurch auch über die Jahrhunderte vor dem Krieg zwischen Animali and Kaiserreich keine einheitliche Betrachtungsweise gefunden werden kann. Die Monster hingegen werden durchwegs als böse Geister oder Dämonen bezeichnet und führten, laut mündlichen Überlieferungen des öfteres zum Aufgeben von siedlungen. Ein weiteres Problem der frühsten Siedlungen stellten Erwachte dar welche Nutztiere und auch Menschen selbst ins Jenseits beförderten.
+
+Es dauerte lange bis sich die Lehre des Allgottes mit seinen Bestattungsriten durchsetzte, da die unheitliche Organisation und die ständigen Scharmützel dies vereitelten. Über die Jahrhunderte setzte schlussendlich die Lehre des Allgottes mit den Bestattungsritualen durch und konnte so den Grundstein für Ertragreichere Landwirtschaft legen.
+
+Civis-Primae ist hier der Moloch von welchen die meisten Geschichten ihren Anfang nehmen. So krönten sich Kaiser, verbündeten sich Fürsten und der Adel oder wurden Geheime Abkommen geschlossen. Äußerst militaristisch geprägt ist dies auch heute noch für teils starre Bürokratische Abläufe zu spüren sowie in der Omnipräsenz des Kaisers und der kaiserlichen Armee. Dem Kaiser dienten die klügsten Köfpe welche das Land über die Jahrhunderte hervorbrachte und so, wurde es trotz diverser Plagen und Kriege doch nie vollständig von der ansäßigen kaiserlichen Kultur befreit. Dadurch etablierten sich tief verwurzelte und Einflussreiche Gilden in sämtlichen Bereichen, wodurch der Fortschritt, trotz mancher Rückschritte stets im Herzland und Civis-Primae seinen Ursprung nahm.
+
+## Wirtschaftliche Lage
+
+Das Herzland gehört zum reichsten Gebiet des Kaiserreiches, aufgrund verschiedener Gewalt- und Rechtsmonopole. Civis-Primae und Agiontum stellen die Wirtschaftlichen Monolithen des Herzlandes. Militärische am stärksten ist, unüberraschender Weiße, Castellum-Reik. Eine großstadt wo Militates unterschiedlichster Ausführung ausgebildet werden. Seien es Spezialisten der Artillerie oder flinke Reitertruppen oder schwere Infanterie in Form von Männern und Orks stark wie Ochsen. Dadurch ergibt sich der legendäre Ruf der kaiserlichen Armee als perfekt korrdiniert. Da nur die wenigsten Landschaften im Dienste nicht unter der Flagge des Kaisers dienen, ist das Herzland bei geringerer Militärischer Ausprägung selbstversorgend. Seit der Annektion Yondallas und der Besetzung von Eldria hat sich die wirtschaftliche Lage allerdings deutlich angespannt, und es ist die Zentrale drehscheibe für die Erz- und Kriegslieferungen aus Nors und Nahrung aus Yondalla mit dem intellektuellen und bürokratischen Zentrum im Herzland.
+
+### Die Ressourcen der Region
+
+Selbstversorgend in Holz und größtenteils über Nahrungsmittel. Erze und speziellen Hölzer sind nicht ausreichend vorhanden und werden über Nors und die Grenzen von Silva-Nacia sowie aus dem Grenzland geliefert. Nahrungsengpässe werden durch Yondalla abgefedert. Versuche Erzminen in den orkdominierten nordöstlichen Ausläufern des Himmelsspitzengebirge scheiterten noch vor wenigen Jahrzehnten, werden allerdings weiterhin aktiv verfolgt.
+
+Spezialbedürfnisse wie Edelsteine, seltene Erze und <font color="green">[Alchemistische Pflanzen](#DrogenPflanzen)</font> werden primär über Importe gedeckt.
+
+## Soziopolitische Lage
+
+### Herrschaftsystem/Organisation
+
+## Klimatische Bedingungen
+
+Das Herzland zeichnet sich durch mildes und regenreiches Wetter aus. Winter sind etwas milder als in Nors. Kälte und Hitzetote sind auf Obdachlose und Gesinde beschränkt.
+
+### Die Flora und Fauna
+
+Im Herzland sind die häufigsten und relevantesten Tiere: Rotwild, Wildschweine, diverse Vögel, Wölfe und Bären in den Wäldern, Dachse, Herzland-Füchse
+
+Die Flora im Herzland ist Verhältnismäßig reich an Heilpflanzen, da diese bereits lange kultiviert werden und so verbreitet wurden. Dadurch sind mittlerweile 40 verschiedene häufig verwendete Heilpflanzen im Herzland zu finden. Kommerziell sind die beinahe unberührte Restwälder aus einer großen Diversität an Bäumen bestehend. Kommerziell werden der Zuckerahorn und diverse Harthölzer angepflanzt.
+
+Nahrungspflanzen liefern vielerorts nicht die Erträge von Yondalla pro Hektar, reichten jedoch lange aus um die Population des Kaiserreichs zu stützen. Verbreitet sind die regulären Nahrungspflanzen wie Gerste, Weizen, Hafer und Roggen.
+
+Die Diversität an nicht Alchemistisch brauchbaren Pflanzen wird von gelehrten als mittelmäßig beschrieben und reicht allemal, für extravagante Dekorationen von Festbanketen und Adeligen Hochzeiten.
+
+#### Monster in der Region
+
+Am häufigsten sind der Kathakan, Werwolf, Gravis, Fleischsauger und Erwachte anzutreffen. Die Liste an Monstern ist jedoch nicht Vollständig und in seltenen Ereignissen finden sich Usukate, manche Foedukuli und zumindest 2 Berichte über kleine Knochenschädler.
+
+## Gerüchte der Region
+
+**Die Läuterung der Muranum-Farm**: Ein von einer Söldnerkompanie durchgedrehter Gravis tötet seine eigne Kompanie und den größten Teil der ansässßigen Wachen und Soldaten. Zwei Tage darauf streunten mehrere Erwachte und "Die Menschenfresser", vermutlich eine Gruppe von Usukaten, in das Farmgebiet und massakrierten die Bevölkerung welche nicht rechtzeitig fliehen konnte. Die Ursache für beide Ereignisse sind nicht bekannt. Der Erwachter Gravis wird als Riese im Wald in Kindergeschichten eingebaut. Gesehen wurde er allerdings seit langem nicht.
+
+**Der Schatz im Vaichtum-See**:
+
+Angeblich wurde ein Truhe mit Edelsteinen im Sommer 143 n. Riga über den Vaichtumsee transportiert. Durch einen Sturm kaperte das Boot und die Mannschaft kam ums leben. Angeblich tauschten die Händler an Bord mit Orkstämmen der Himmelsspitzen illegal große Mengen Waffen und bekamen im Gegenzug eine Truhe voller Smaragden, Granat-Steinen, Amethysten und Diamanten. Die Truhe wurde bis heute nicht gefunden, jedoch stimmten die fehlenden Waffen aus dem kaiserlichen Arsenal und der Fund einiger dieser bei Orkstämmen damit überein.
+
+## Sehenswürdigkeiten
+
+Vaichatum-See
+
+Reik-See
+
+Monument der Menschen
+
+Piscaimsee
+
+Minen von Meapontenum
+
+Monument der Gefallenen

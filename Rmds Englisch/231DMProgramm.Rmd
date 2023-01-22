@@ -1,0 +1,475 @@
+# Installation and use of Orbis Astea
+
+``{r, eval=FALSE}
+dfDMAppArgs = read_excel("BookdownData/DMAppParameter.xlsx")
+
+
+getargs = function(Tab){
+  
+  tab = dfDMAppArgs %>% filter(Tab == Tab) %>%
+    arrange(position) %>%
+    select(command, parameter, description) %>%
+    reactable(groupBy = "command",
+              columns = list(
+                
+                Command = colDef(
+                  grouped = JS("function(cellInfo) {
+                            return cellInfo.value
+                          }")
+                  
+                )
+              ), bordered = F,
+              highlight = T, showPageSizeOptions = F,
+              defaultPageSize = 17,
+              theme= overallThemeReactable,
+              defaultColDef = colDef(
+                align = "center"
+              ), outlined = T,
+              striped=T, filterable = T)
+  
+  return(tab)
+  
+}
+```
+
+The following chapter gives an overview and an introduction to the functionality of the Orbis Launcher and thus the whole range of the Orbis Astea experience. Hereby, each person is taken by the hand, who takes on the honorable task of wanting to act as a DM.
+
+The Orbis Launcher application is a program that makes it possible to bring a Pen&Paper campaign to life. The program offers the possibility of fully inviting player characters, letting players fight monsters of all kinds, tame animals, forge items, collect plants and brew potions from them, go on high seas and steer ships, as well as enable social persuasion and other intriguing approaches, such as poisoning characters or killing them by assassination. Since some of the functionality is as broad as there are courses of action in reality, this article aims to provide an understanding of what the program can do and offer guidance on how to use it.
+
+By the end of this guide, all DMs and those who wish to become one should be familiar with how to use the Orbis Launcher and likewise know where to find specific information to bring their own campaign to life.
+
+If you still have questions or comments after reading this guide, we welcome your input on improving our game experience with an email to [orbisastea\@gmail.com](mailto:orbisastea@gmail.com){.email}.
+
+For those interested in learning more about how the Orbis Launcher was programmed, there is an opportunity to do so [here](#TechnicalBackground).
+
+## Installation {#DMAppDownload}
+
+Starting with accessing the Orbis Launcher, which is the application that allows you to play Orbis Asteas. The installation of Orbis is in itself an easy thing. On the [homepage](https://svalv.github.io/Orbis/index.html) of Orbis Astea, there is an option to download a zip file via the download button on the top left. Alternatively you can [click here](https://svalv.github.io/Orbis/DownloadContainer/OrbisGame.zip).
+
+![Location and icon of the download button](Pictures%5CRules%5CDownloadSymbol.png)
+
+This zip file can be moved to any destination folder, where it will also be unzipped. To do this, right-click on the zip file and select "Unzip here". After that two folders should appear in the destination folder: *OrbisGame* and *Orbis Launcher*.
+
+### Folder OrbisGame {#OrbisGame}
+
+The "OrbisGame" folder should contain the three folders *Container*, *SessionOrganization* and *ZZZ Character Sheets*. The "Container" folder contains all the Excel files that the app will need to function properly later. This includes the list of all items in the game, weapons, armor, but also the pre-made profiles that will be explained in detail later in this guide. The "SessionOrganization" folder contains the folder where the [Session Backups](#SessionBackup) are loaded, the Plants folder which contains the Excel list of the flower girls' collected plants, and the Excel file ["lootliste"](#DMAppLootliste). If [cities](#DMAppCitiesTraders) are created during a session, they will also be output to this folder as an Excel file.
+
+For simplified [loading of player characters into the program](#DMAppPersons) it is advisable to make the folder *ZZZ Character Sheets* accessible for all players. This can be done, for example, by using a cloud - e.g. [Dropbox](https://www.dropbox.com) - or a shared drive. This way the DM has access to the latest version of the player's Excel file at any time and all Excel files are stored in the same place.
+
+### Orbis Launcher and App Execution folder {#OrbisDMApp}
+
+In order to run the DM App, the application must be located in the "Orbis Launcher" folder. This is the only application in the folder in the Type column:
+
+![Appearance of the application in the OrbisDMApp folder](Pictures%5CRules%5COrbisAppAnwendung.jpg)
+
+This application is started by double-clicking on it. Here now a window opens, which asks to select a folder. This is where the "OrbisGame" folder comes into play. Please select this folder.
+
+Since the app is a privately programmed app, the following error message may appear: XXXX
+
+INSERT IMAGE
+
+Click here on "More information" and release the execution.
+
+To be able to skip this step of searching for the application in the future, it is recommended to create a shortcut to the application.
+
+If the steps just described have been performed and the app still does not open, please refer to the [Known Errors](#KnownErrors) chapter for further assistance.
+
+## Using the DM app
+
+When the app is launched, you should come out at the environment tab. It is important to note that the following guide is an overview that also explains each tab with its subtabs. Thus, it serves as an overview and a solid introduction to using the DM app. For this reason, the explanation of the tabs is explained according to the usage of the DMApp and does not correspond to the tab order within the app itself. Another helpful feature integrated into the user interface is that the mouse arrow can be hovered over an element, giving hints as to which setting can be made with this element.
+
+![Example of additional information by moving the mouse pointer over the element for which information is needed](Pictures%5CRules%5CDMAppHovern.png)
+
+### Creation {#DMAppCreation}
+
+At the beginning of the application is the creation tab: In order for knights, orcs and giant spiders to fight each other or dance with each other, they must first be read into the DM app. This can be done in the "Creation" tab. This is where all the people, animals, monsters and any other actors that will be used in the session are initialized. This also includes [Vehicles](#Vehicles), [Constructs](#Constructs), [Structures](#Structures) and lists.
+
+#### persons {#DMAppPersons .unnumbered}
+
+In the first SubTab "Persons" already prefabricated *Profiles* from the [OrbisGame folder](#OrbisGame) and the Excel files of the players can be invited or an NPC can be created spontaneously by yourself.
+
+##### *Profiles* {#DMAppPersonsProfiles .unnumbered}
+
+![SubTab Profiles in SubTab Persons](Pictures%5CRules%5CDMAppCreationPersonnelProfile.jpg)
+
+It is recommended to give the profiles names that are unique but short. These names have to be entered manually for different actions. Therefore, it is recommended for example for a nobleman names like "a" or "nobility". Under "Profile" you can draw from the entire profile database. This can be viewed and completed in the [OrbisGame folder](#OrbisGame) by selecting the "Container" --\> "Data" folder and opening the "Profiles" Excel file. (Details on creating your own pre-built profiles are available [here](#ProfileCreationDatabase) for instructions) If a specific profile is sought, such as an innkeeper, the first letter of the profile can be entered while the dropdown menu has been selected. The number determines how many of the profiles will be created. This can save time when players encounter a group of knights or bandits, for example. If a large number of actors of a profile is initialized, the program numbers the names automatically.
+
+![SubTab Profiles in SubTab Persons](Pictures%5CRules%5CDMAppCreationPersonsProfileNumber.jpg)
+
+The check box *Random Factor* stands for the possibility to introduce a random deviation of the character characteristics regarding attributes, abilities and equipment. If this box is not selected, all loaded profiles will have the attribute values as defined in the Excel file. If the random factor is selected, the characteristics will vary up and down. This has the advantage that a group of loaded profiles can be displayed as diversified as it probably would be in reality.
+
+By pressing the "Create" button, the profile is initialized. In the box on the right side, the program displays the message whether the initialization was successful.
+
+##### *PC* - Playable characters {#DMAppPersonenPC .unnumbered}
+
+The SubTab *PC* stands for the playable characters. So here you can read the profiles of the players of the session. Again, it is worthwhile to keep the names short and to the point. If a name is entered and the "Create"-button is pressed, a new window opens, which asks to select the Excel-file of the player in the *ZZZ Character Sheets*-folder.
+
+![SubTab Profiles in SubTab People](Pictures%5CRules%5CDMAppCreationPC.png)
+
+If an Excel file is selected, the character will be loaded automatically. Again, a message is displayed in the box on the right that reads "*Name* initialized successfully" if everything worked.
+
+##### *Npc* - non-playable characters {#DMAppPersonsNpc .unnumbered}
+
+If a DM wants to create a person on the fly, which should have certain ability and attribute characteristics, there is the possibility to create a *Npc* (non-player character).
+
+The options to set the abilities are based on the sub-tabs of the game tab. While the [Attributes](#Attributes) can be set individually, the [Skills](#Skills) are grouped into ranges.
+
+![SubTab Profiles in SubTab Persons](Pictures%5CRules%5CDMAppPersonsNPC.jpg)
+
+*Combat* includes all skills related to fighting as listed under Combat in the [Status](#Status) tab. This includes riding, melee weapons, unarmed, blocking, artillery, ranged weapons, throwing, and dodging.
+
+An overview of which abilities belong to each supergroup (Rogue, Social, Locomotion, Intelligence, and Utility) can be found in the figure below.
+
+![Abilities assigned to the respective supercategory](Pictures%5CRules%5CDMAppCreationPersonsNPCAbilities.jpg)
+
+*sigmaSkills* represents the deviation of each skill within the supercategories. *sigmaAttr* provides variation within the attribute points. This is especially useful when multiple NPCs are to be created, or in general when a random factor is of interest.
+
+If an NPC is to have a mount, it can be selected from the associated dropdown menu. This allows, for example, the [Combat from mount](#CombatFromMount), or advantages in locomotion through a larger [Movement radius](Movement radius) bring with it. If a Rettier-less NPC is to be created, the dropdown menu option *None* must be selected under Rettier.
+
+Under *Weapon* a selection can be made from all available weapons. To simplify the search, it is possible to enter the first letter of the weapon and thus get there directly in the alphabet. The *Shield* offers the choices for the defense option of blocking.
+
+#### Monster {#DMAppMonster .unnumbered}
+
+All other creatures, structures and objects can be created by expanding the respective tab by clicking on it.
+
+![Overview of all other objects that can be created](Pictures%5CRules%5CDMAppCreationOverview.jpg)
+
+For monsters just select the *Monsters* tab. Here you just have to enter the name of the monster in the name field, select the desired [Monster](#Monster) in the dropdown menu at Monster Profile and enter the number of monsters to be created. Whether the initialization of the monster was successful can be seen in the box on the right side.
+
+If you want your own monsters to be part of the game, you have to add them to the database. How to do that can be read [here](#ProfilErstellungDatenbank).
+
+#### Animals {#DMAppAnimals .unnumbered}
+
+The creation of animals is similar to the [Monster](#DMAppMonster), except for the difference that here there is the possibility to enter an owner. This field is to be filled in when a player buys an animal, for example, or tames it using [Animal Handling](#animalhandling). If a player chooses this option, they must include the associated animal profile spreadsheet in their character Excel file. If a player owns an animal,
+
+XXXX consider where to include this guide to link here XXXX
+
+#### constructs {#DMAppConstructs .unnumbered}
+
+[Constructs](#Constructs) can be read in if a player or DM has already created their own construct profile, or a new construct can be created for the session.
+
+To read in a construct, a name must be entered for the construct, as well as the name of the player (under owner), if this belongs to a player. A construct profile must also be read in. For the creation of a construct all details can be determined. There is also the possibility to assign an owner. The core level indicates the strength of the construct core. The charges represent the number of actions a construct can perform.
+
+An explanation of the other options can be found in the section [Npc](#DMAppPersonenNpc) or by hovering over the respective field.
+
+#### Ships, carts and other vehicles {#DMAppVehicles .unnumbered}
+
+Ships, wagons and other vehicles can be uncomplicatedly selected from the list and named. It is important to understand that the success of maneuvering depends on the [vehicle skill](#vehicleskill) of the captain/driver. Likewise, for some vehicles, like ships, how good the crew on board is is relevant. A poor crew, will have some problems executing maneuvers and thus will have lower success than a crew that is intermediate or perhaps experienced. A masterful crew is a well-rehearsed team, where one maneuver goes into another and the crew mates trust each other blindly.
+
+#### Structures {#DMAppStructures .unnumbered}
+
+Structures include walls, ramparts, and other devices that can be called upon for protection as well as cover against [Ranged Combat Attacks](#DMAppCombatRanged Combat), or attacks against [Thrown Weapons](#DMAppCombatThrown Weapons). These can be drawn from the given list, or you can create them yourself. Custom structures have a health maximum (life) and armor. The armor blocks a certain amount of damage from attacks and thus reduces how much life the selected structure loses. If a structure loses all of its life, it is considered destroyed and cannot provide further protection for players to cover. The program automatically removes the created profile from the loaded lists when it is destroyed.
+
+#### Lists {#DMAppListen .unnumbered}
+
+XXXX is still to be revised
+
+### DM overview {#DMAppDMoverview}
+
+The DM overview gives the most important information about the actors invited in the creation tab and at the same time allows to modify them to a certain degree.
+
+Here, the DM overview is structured in such a way that the four tabs *Describe*, *Status*, *Reset* and *Delete* are listed on the left side. On the right side are the two tabs *Elements* and *Show-Tab*, as shown in the following figure.
+
+#### Elements and Show Tab {#DMAppElementsShow .unnumbered}
+
+![The *Elements* tab on the right side of the DM overview.](Pictures%5CRules%5CDMAppOverviewElementsTab.jpg)
+
+The elements tab shows which profiles have already been invited. For the overview there is information about the name, a description, which profile it is, and the type of the profile. In the example shown above, these are different profiles that were read in during a test run. The Show tab plays an important role in connection with the *Describe* tab.
+
+#### Describe {#DMAppDescribe .unnumbered}
+
+The Describe tab offers the possibility to display the most important values of a character and its Excel file. At Object you select which actor should be looked at more closely. Here you can select all objects that have already been loaded in the program using the Create tab. For this purpose, the respective actor that is of interest can be selected in the drop-down menu. Under *Subobject* you can select what is to be viewed in detail. Here you can select the object itself, which includes all the information that exists about an actor, or all active weapons such as armor or weapons. If an actor owns an animal, there is also the possibility to view the [loyalty](#loyalty) as well as the [animal skills](#learnable-skills). After specifying the details to be displayed and clicking the *Show* button, the requested information will be displayed in the Show tab on the right.
+
+![The *Show-Tab* on the right side of the DM-Overview with the setting to show the object "Example 1" as a whole](Pictures%5CRules%5CDMAppOverviewShowTab.jpg)
+
+#### Status {#DMAppStatus .unnumbered}
+
+If the DM wants to quickly check how much health and stamina a character has, or if there are any [status effects](#damage-over-time), such as poisoning, there is an option to select the desired actor under Object and have this information displayed in the field below.
+
+![Example status for actor *B*, who was poisoned by a poison arrow and therefore suffers 58 damage per turn for nine turns](Pictures%5CRules%5CDMAppOverviewStatus.jpg)
+
+#### Reset {#DMAppReset .unnumbered}
+
+If, for example, an attack was carried out unintentionally, *Reset* can be used to correct this error. However, it is important that this function resets only one object! In case of an incorrect attack, the involved objects must be reset separately. It is important that all involved actors must be reset separately. This means in the case of an attack by actor A on a victim B, both object A and B must be selected to regain lost stamina and health.
+
+![Successfully resetting an attack to recover life and stamina.](Pictures%5CRules%5CDMAppOverviewReset.jpg)
+
+To check if a player's health has been restored, you can additionally check under [Status](#DMAppStatus) or [Describe](#DMAppDescribe) which values are attributed to the actor.
+
+#### Delete {#DMAppLoeschen .unnumbered}
+
+If one or more objects are to be deleted, they can be removed in the Delete tab. For this, only the names of the affected objects have to be inserted manually into the input field.
+
+![Deleting an actor.](Pictures%5CRules%5CDMAppUebersichtLoeschen.jpg)
+
+Each input field that contains an *(L)* after the element name includes the possibility to enumerate several actors. These are to be separated from each other with a comma.
+
+### Environment {#DMAppEnvironment}
+
+The environment allows the DM to help shape the game environment of Orbis Astea and create special characters for players to interact with. Most often, environment functions are used at the beginning of a session to prepare scenarios for players. This includes determining the weather conditions.
+
+In order for the DM to generally start with the different environment tabs, a region must first be selected, as this will affect some tabs. For example, when determining the weather, it makes a big difference if the area is in the north, like the Ice Country, or in the south, like the Iron Red Desert.
+
+#### Weather {#DMAppWeather .unnumbered}
+
+If an area has already been selected, all that remains is to select the time of day and the desired season. Then you just have to read the box next to it to see what the weather is like.
+
+![The weather for the Wurmfall region on an autumn day.](Pictures%5CRules%5CDMAppEnvironmentWeather.jpg)
+
+#### Cities and merchants {#DMAppCitiesMerchants .unnumbered}
+
+Cities and Merchants are a bit more informative compared to Weather, but not much harder to understand. For city, the default is considered a general variable that affects all options at different merchants. For example, when a village is selected, there is only one general vendor, 2 innkeepers, and 6 flower girls, each with a small inventory of items to sell to players. In comparison, a town has many more different merchants with larger inventories, but fewer flower girls. However, it is important to note that the default settings for inventory size and the number of vendors can always be changed by simply clicking on the box next to it and selecting the desired settings. Once all the settings have been selected, the *Go* button can be chosen. Once the creation is complete, the checkbox and the button will show *Done*.
+
+![The creation of a small city with the given parameters.](Pictures%5CRules%5CDMAppEnvironmentCity.jpg)
+
+After that all traders can be found in the folder "OrbisGame" under "SessionOrganization" in the Excel file "downtimestadt".
+
+![The location of the downtime city Excel file](Pictures%5CRules%5CDMAppEnvironmentCityExcel.jpg)
+
+If you only want to generate a single dealer, this is also possible in the *dealer* tab. Here you only have to select the type of merchant and the amount of items. This allows you to get a direct insight into the contents of the merchant's inventory:
+
+![A direct insight into the inventory of the merchant.](Pictures%5CRules%5CDMAppEnvironmentHaendler.jpg)
+
+Afterwards, the dealer can also be found in the "SessionOrganization" folder. Thus, the Excel file is also accessible to the players.
+
+![The location of the Excel file of the additional trader.](Pictures%5CRules%5CDMAppEnvironmentHaendlerExcel.jpg)
+
+#### Events {#DMAppEvents .unnumbered}
+
+The events tab allows to generate random encounters without the DM having to invent them himself. All that needs to be done is to select whether the event should take place in a city or on the way between two places. The scenario is output by the program in the box on the right and is drawn from a database of different events.
+
+![An example event with additional information for the DM](Pictures%5CRules%5CDMAppEnvironmentEvents.jpg)
+
+It is worthwhile to read through the text briefly before reading out the event. As in the example above, it is quite possible that the DM is playing with the situation. In this way, a pursuit of the players can be staged without actually being the case. In this way, new storylines can emerge.
+
+#### Bearings {#DMAppBearings .unnumbered}
+
+Camps are the implementation of the [Pause and Rest System](#PauseRastSystem). It is important to manually enter under *People (L)* which profiles will be considered when attempting to camp. It is always advisable that the player with the highest level of the skill [Survival Art](#Survival Art) performs the attempt for the whole group. For example, if there is a dispute between the players in the group, each person can set up a camp for themselves. The length, quality, and provider must be set. The DM can, based on the environmental variables, arbitrarily decide what quality is available, e.g., if the players are sleeping outside in the rain without tents or sleeping mattresses, then the conditions are clearly bad. The result of the camp must be communicated to the players by the DM, as this may result in an improvement or deterioration of health and endurance.
+
+!(Pictures%5CRules%5CDMAppUmgebungLagern.jpg) A list of characters that have recovered 50% due to camping
+
+The state change is automatically applied to the profiles by the program. It is recommended that players mention their new values using [Status](#DMAppStatus) or [Describe](#DMAppDescribe) in the [*DMOverview* tab](#DMAppDMOverview) so that they can note them in the [Status spreadsheet](#Status).
+
+#### PlantCollect {#DMAppPlantCollect .unnumbered}
+
+If a player wants to collect plants by themselves at the beginning of a session, the DM just needs to define how good the conditions are for doing so. For example, if the player is in a forest in Yondalla where the locals do not collect natural resources, then the conditions are very good. However, if the player is in a desert, the conditions are poor. Also, the DM is free to prohibit plant gathering.
+
+![An example selection of plant collecting conditions for an Npc with the result of plants found.](Pictures%5CRules%5CDMAppEnvironmentCollectingPlants.jpg)
+
+The flowers found by the player can be found in the *OrbisGame* folder under *SessionOrganization* in the Excel file *Plants*. The name of the player is noted in the name of the plant file to be able to keep them apart if several players collect plants.
+
+![An example selection of the plant collecting conditions for a npc with the result of the found plants.](Pictures%5CRules%5CDMAppEnvironmentCollectingPlantsExcel.jpg)
+
+#### Text generator {#DMAppTextgenerator .unnumbered}
+
+The text generator allows the DM to spontaneously create stories and other scenarios. Here the functionality of ChatGPT is used. In the field *statement* must be entered, which text should be generated. An example for this is "XXXX". Over the setting possibilities can be steered beyond that, how long and creatively the text is to become. Under *Model* can be selected, how much time should flow into the text generation. "Best" is the most time-consuming, although the quality is the highest.
+
+In addition, there is the option of having the generated text read aloud by a computer voice. To do this, simply select the *read* button after generating the text.
+
+### Settings {#DMAppSettings}
+
+The settings allow the DM to make various global game settings that individualize the handling of the Orbis Launcher. Furthermore, in this tab there is the possibility to choose a design for the app that matches the own preferences, to load a session backup and to enter an identification number for the [text generator](#DMAppTextgenerator).
+
+![An overview of the settings in the Arcade design](Pictures%5CRules%5CDMAppSettings.jpg)
+
+The program saves snapshots of the settings, states of people, environment variables and more at regular intervals.
+
+#### *Session Backup* {#DMAppSessionBackup .unnumbered}
+
+For example, if there is an operator error, such as accidentally closing the window, this option can be used to load one of the automatic backups. These are automatically saved by the program in the *Orbis Game*, *SessionOrganization* folder in the *backupsSession* folder. Here are about 40 backups, which can be loaded. The files are regularly overwritten when a maximum backup number is reached. Accordingly, manual deletion is not necessary.
+
+To load a backup, simply press the *Load Backup* button and select the file of the desired backup time. Please note that the most recent time is not necessarily the one listed at the top.
+
+selecting a backup file](Pictures%5CRules%5CDMAppSettingsBackup.png)
+
+After selecting the file, the backup will be loaded automatically. It is recommended to check the success with [DM-Overview](#DMAppDMOverview).
+
+#### *Game Settings* {#DMAppGameSettings .unnumbered}
+
+For simplified illustration, the game settings are explained in tabular form.
+
+| Option | Effect | Default |
+|-----------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|----------|
+| Reset Called/Advantage after attack | Should the field for Called Shots and Advantage be reset after the attack?                                                        | Yes |
+| Reset Heavy Attack after Attack | Should the option heavy attack be reset to no after heavy attack?                                                  | Yes |
+| Reset count to 1 after creation | After initializing more than one object, should the count counter for the next object be reset to 1 at the same time? | No |
+| Limit Value and Damage | Should the Damage be capped at 550 and the Value at 13? This is the "safety-mode" so to speak | No |
+| Maximum Round Backups | How many actions should you be able to reset an object? Higher number needs minimal more memory | 6 |
+| Initiative table Actions to advance | XXXX | 1 |
+| Design | Which design should be used | Arcade |
+
+: Options and their meaning
+
+#### *Openai identification* {#DMAppSettingOpenAI .unnumbered}
+
+If the DM wants to use the [Text generator](DMAppText generator) option in the [Environment tab](DMAppEnvironment), this field can be used to enter the identification number that will enable the creation of the texts. This option is related to the payment of ChatGPT XXXX link to the website, so the marginal costs can be borne by the group itself.
+
+### Game {#DMAppGame}
+
+The game tab is that tab that brings the world of Orbis Astea to life. This is where the actions happen that make the campaigns interesting for DM and players. The SubTabs are structured as it is the case in the character Excel file of the players.
+
+![Skills assigned to the respective super category](Pictures%5CRules%5CDMAppCreationPersonsNPCSkills.jpg)
+
+As with the [creation](#DMAppCreation) of the objects, there are also different SubTabs in the game tab. These are very easy to use. If you are unclear about the individual elements of the user interface, there is the possibility to hover over the respective term, so that it is displayed what this stands for.
+
+![Example of additional information by hovering the mouse pointer over the element for which information is needed](Pictures%5CRules%5CDMAppHovern.png)
+
+To execute the casts of the game tab, it is absolutely necessary to create all relevant objects in the [Creation tab](#DMAppCreation) beforehand.
+
+On the right side there are four additional tabs. The initiative shows which object can perform an action next in the sequence. This can be created [here](#DMAppFightInitiative). The [weather](#DMAppWeather) is used to remind the DM of the environment variables set. The *Console* displays the [Status](#DMAppStatus) of an object previously selected in the DM overview also in the game tab.
+
+#### Social {#DMAppSocial .unnumbered}
+
+The Social tab includes all checks for social skills. An actor must always be specified, plus usually a target or victim. If there is a "(L)" after the term *victim* or *target*, a list of people who will be affected by the action attempt can be listed here. If more than one object is listed, it is necessary to separate them by a comma.
+
+*Amod* here represents a modifier for the actor specified by the DM, while the *Pmod* represents a modifier for the target objects. This modifier provides an advantage to the roll for the particular object selected. If several objects are socially influenced, it is important that they are enumerated separated by a comma, just as in the field above.
+
+#### Combat {#DMAppCombat .unnumbered}
+
+The Combat SubTab is a bit more complicated than the Social SubTab, so those subtabs that contain elements that have not been described before will be described here separately.
+
+##### *Armed* {#DMAppCombatArmed .unnumbered}
+
+This subtab enables armed close combat. Special here is the possibility to execute a [heavy attack](#heavy-attack). Here, the player uses his [main and single action](#SingleAction) to increase the damage dealt. For this the DM has to put a check in the box *Heavy*.
+
+In addition, a [Targeted Attack](#TargetedShot) can be executed by selecting the body part the player wants to attack under *Called*.
+
+The [*Dot*](#damage-over-time) stands for a status effect, such as poisoning or bleeding, which can be caused by the attack if the damage level is high enough. This is selected by default and must be removed by the DM.
+
+The field *Advantage* gives the DM the possibility to execute the attack to the advantage, or disadvantage of the attacker. If an opponent runs past a player, this results in an Attack of Opportunity. In this case the defender has no possibility to defend himself and does not see the attack coming. Here the selection *Advantage* would have to be made. However, if a player is lying on the ground because he stumbled and still wants to attack, this is an unfavorable starting situation for the attack. In this case, *Disadvantage* would have to be selected.
+
+##### *RemoteCombat* {#DMAppCombatRemoteCombat .unnumbered}
+
+For the Ranged Combat tab, it is important to note that players have the ability to purchase and apply different [Ammo Types](#Ammo) which can trigger different Dots. This is to be selected under *Muni*.
+
+Against ranged attacks, in addition to dodging, defenders can use shields and other cover options to negate the damage. For this purpose there is the possibility to create the cover. This can be created spontaneously, or it can be created in advance via the [Create tab](#DMAppCreation) under [Structures](#DMAppStructures). In the case of spontaneous creation, the DM of the cover possibility must still assign a cover value under *Custom cover*, by which this possibility can reduce the damage in case of success.
+
+##### *ThrowingWeapons* {#DMAppCombatThrowingWeapons .unnumbered}
+
+##### *Unarmed* {#DMAppCombatUnarmed .unnumbered}
+
+The Unarmed subtab covers melee combat without weapons and is divided into unarmed combat and the grappling option. Unarmed combat is used for classic fistfighting. Grappling, however, allows the player to pin another object or wrestle it to the ground. For this reason, under *Defense* in the Grapple SubTab, there is the option of melee as well as dodging. Melee compares [Unarmed Skills](#unarmed) against each other, while dodge is used to avoid the attack.
+
+##### *devices* {#DMAppCombatDevices .unnumbered}
+
+In the vehicle ramming tab, the attacker is always a vehicle. This must be initialized in advance in the [creation tab](#DMAppCreation).
+
+In the trap tab there is the possibility under *Action* to select in what way an object interacts with a trap of choice. It is important that the interacting person is selected in the first field, no matter if he falls into a trap, frees himself from it or disarms it.
+
+##### *Constructs* {#DMAppCombatConstructs .unnumbered}
+
+In this subtab, an actor has the option to recharge the battery of a [construct](#constructs) or take its control.
+
+XXXX Max Souls & Target Souls XXXX
+
+##### *Initiative* {#DMAppCombatInitiative .unnumbered}
+
+The [Initiative](#Initiative) specifies the order in which the participants of the battle can perform an action. For this reason, it is important to create an initiative list before starting a fight. For this, all participant objects must be inserted manually and separated by commas into the field *Create initiative table*.
+
+XXXX Insert image what the output looks like when the list is created --\> Reference to the console on the right where the different SubSubSub tabs are explained and explained.
+
+If more objects are added later, they can be added in the *Add to initiative table* field.
+
+##### Utility {#DMAppUtility .unnumbered}
+
+INTRODUCTION TEXT MISSING
+
+##### *perception* {#DMAppUtilityPerception .unnumbered}
+
+XXXX Thres
+
+##### *SurvivalArt* {#DMAppUtilitySurvivalArt .unnumbered}
+
+Here there is an opportunity to apply a bandage that the player has acquired in advance. This improves the chance of successful wound care by giving a modification to the value spent.
+
+##### *Throw* {#DMAppUtilityThrow .unnumbered}
+
+If a player wants to throw an object, it can be done in this tab. It is primarily irrelevant what is being thrown.
+
+XXXX Why dot selection option here?
+
+#### Rogue {#DMAppSchurke .unnumbered}
+
+##### *assassination* {#DMAppRascalAssassination .unnumbered}
+
+The [assassination](#the-assassination) allows for the direct death of a target if it is a *normal assassination*. For this reason, the DM must select this box when a player wishes to assassinate another object.
+
+If the DM refuses a normal assassination due to the importance of an object, an assassination attack can be performed. This is also useful if a player wants to do high damage on a monster or similar. For this the DM leaves the box *Normal assassination* unselected.
+
+#### Locomotion {#DMAppLocomotion .unnumbered}
+
+##### *Vehicle* {#DMAppFortbewegungVehikel .unnumbered}
+
+#### Intelligence {#DMAppIntelligence .unnumbered}
+
+#### Saves {#DMAppSaves .unnumbered}
+
+##### *willpower* {#DMAppSavesWillpower .unnumbered}
+
+Via the *Thres* element, the DM determines what value a player's roll must reach in order to pass the Willpower check.
+
+##### *OtherSaves* {#DMAppSavesOtherSaves .unnumbered}
+
+This provides the DM with the ability to check individual [attributes](#attributes) of the players. For example, whether an actor is strong or agile enough to perform an action.
+
+#### Other {#DMAppOther .unnumbered}
+
+The Other tab allows the DM to check drinking potions, putting out fires on actors, and modifying, stripping/breaking, and poisoning weapons and armor pieces for successful execution.
+
+If something is changed on the equipment, this change can be displayed in the [DM overview](#DMAppDMoverview) under [Describe](#DMAppDescribe). For this the object must be selected and the changed subobject must be determined or the entire object must be selected.
+
+### Downtime {#DMAppDowntime}
+
+[Downtime](#downtime-activities) includes all activities that are possible during a longer period between two sessions. These activities can provide players with various benefits such as money, better skills, or more knowledge points. When one of the downtime activities is performed, no other actions that take a lot of time are possible. However, actions that require only a short time, such as talking to other characters, are still possible
+
+In order for a downtime activity to begin, the player must first create a character in the Create tab and then invite them into the downtime tag either at Work, Training, or Study under Person.
+
+#### Work {#DMAppWork .unnumbered}
+
+Work allows the player to earn money during downtime. All forms of work are linked to skills. For example, if a player tries to engage in fist fights, it is recommended to have a high Unarmed level. One also needs the Acrobatics skill for, for example, acrobatic performance. Once the character and activity are selected, you just need to press the Go button and read the result in the box below. The money earned can then be entered directly into the player's inventory.
+
+#### Training {#DMAppTraining .unnumbered}
+
+As with work, a character must be selected. In addition, the player must select which skill to train, and a teacher if one is available. If the player is successful in training, the field below will show how much the skill has improved.
+
+#### Study {#DMAppStudy .unnumbered}
+
+Ultimately, only one person needs to be selected when studying. The reason for this is that knowledge skills can be selected in the abstract, and therefore have no defined list to be selected from. When knowledge skill points are successfully earned, the player can record the points received in their character sheet.
+
+### Loot list
+
+The Loot List allows the DM to generate a list of items that profiles were carrying when they died. All that needs to be entered is which people are picking up items, such as armor and weapons, from the deceased and what percentage of the items are available as potential loot. By pressing the *Go* button, a loot list is automatically output in the form of an Excel file. This can be found in the *OrbisGame* folder in the subfolder *SessionOrganization* under the name "lootliste". Of course it is open to every DM to send loot to the players.
+
+The important thing is that the players have to transfer the loot of the list manually into their own inventory.
+
+## Help create the world of Orbis {#OrbisDIY}
+
+Since the world of Orbis offers many opportunities to create your own elements and develop your own version of it, below is an insight into how the program works so that your own creatures, profiles, plants and more can be created.
+
+### Working with the Excel databases {#DMAppExcelDatabases}
+
+Orbis Asteas functionality is based on working with Excel files. The devil is in the details here. If a new spreadsheet is formatted or filled in only minimally different from the original ones, the program cannot execute a proper query. The consequence: errors happen and the applicability of the new ideas is not given. For this reason, the following explains what special attention must be paid to.
+
+#### Profiles {#ProfileCreationDatabase}
+
+Person profiles:
+
+Monster Profiles: If custom monsters are invented, they must be entered into the "ProfilesMonster" Excel file in a new spreadsheet. This can be found in the *OrbisGame* folder under OrbisGame\Container\Data\ProfilesMonster. It is important here that the spreadsheet follows the exact structure of the other spreadsheets. This structure serves a correct query of the values for the DM App.
+
+## Known errors {#KnownErrors}
+
+### My window has disappeared
+
+This is a problem that can occur due to the implementation. Pressing *F11* on the keyboard will automatically center the window on your main screen, after that you can move it as you want.
+
+### Layout is verbugged
+
+If the font looks strange, or the terms of the individual tabs are not displayed correctly, as in the example INSERT PICTURE, then this can be due to the fact that .... is not displayed correctly.
+
+When new version is downloaded, the folders of the old download should be deleted
+
+### The OrbisGame folder cannot be found
+
+If you download the ZIP file multiple times, the old OrbisGame folders will not be overwritten. One of the folders is slightly older from the modification date and can therefore be found further down in the downloads
+
+## The technical background of the Orbis Launcher {#TechnicalBackground}

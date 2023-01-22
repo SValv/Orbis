@@ -1,0 +1,440 @@
+---
+editor_options:
+  markdown:
+    wrap: sentence
+---
+
+#The Blood Cult {#Blood Cult}
+
+Describing the blood gods, or often the blood cult, as a single religion is actually a false habit.
+The term blood cult is just a catch-all term describing the many different cults that follow the blood gods willingly or unwillingly.
+
+Unlike many other gods, the blood gods appear to be significantly older, as scholars claim to have found references to the blood cult as early as the writings of the <font color="green">[precursors](#precursors)</font>.
+The most vehement of these representatives was <font color="green">[Alfied Grimand](#Grimand)</font>, who in the end could also provide proof.
+
+The blood cults are basically in twist with each other, this extends especially to their cults that also harm each other or try to.
+
+While most blood gods try to wreak havoc in the material world and play a game that cannot be understood by mortals, others try to penetrate the material world itself as a material form - and still others simply feast on human suffering or try to satisfy other lower needs.
+
+## The Call of the Blood
+
+![Representation of the Call of Hartemus](Pictures/Flavor/Placeholder/CallOfTheBloodGod.jpg)
+
+Unlike normal religions, blood cults can seemingly arise out of thin air.
+This is due to an ability of the blood gods that has come to be known as "the call."
+The Call has only been studied since it became known that the Blood Gods were behind the whole development, and thus since the Inferata has been studied.
+
+The Call of the Blood can befall any person the Blood God chooses based on certain characteristics or purely at random.
+It starts with repetitive dreams that haunt the person for months and gradually bring him closer to the Blood God.
+Later, hallucinations are added, then sleep disturbances as the dreams turn into horrible nightmares, and a complete blurring of reality and vision/hallucination.
+From here on, the victim usually falls into madness due to the inability to process these stimuli and falls for the blood god.
+
+> "The real problem is not the madmen who kill 5-6 people in the village square, or go hang themselves in the forest, the real problem is the cults that infiltrate our bourgeoisie and our cities, that grow and conspire. These must be eradicated."
+>
+> --- Idran Stonesaw, Inquisitor
+
+Depending on the blood god, the called now leaves his life to sacrifice himself or join a cult, commits several massacres (this is the so-called demonic delusion) or remains inconspicuous in his life and forms cults within society to serve his god or harm society.
+According to the Ekklesia, the third group of blood cults is the most dangerous.
+
+## The demonic delusion
+
+The demonic delusion is known today as the final "stage" of the call of the blood.
+Although the onset of this phenomenon appears sudden, it is preceded by the long series of dreams, visions, and hallucinations known as the Call of the Blood.
+
+> The demonic delusion is a very striking phenomenon: a person with whom one could talk yesterday suddenly becomes unresponsive and usually violent towards everything around him. A variety of anti-God destructive acts are committed in this state."
+>
+> --- an early textbook from Darcy on the demonic delusion
+
+Since the demonic delusion, by its very nature, claimed many victims and wreaked some havoc, the churches began early research into this condition, which led to the revelation - through the discovery of Grimand - of some of the blood gods.
+
+## The Inferata
+
+The Inferata is the central work of the blood cults and is considered the highest sanctuary a cult can possess.
+Many cults are willing to give anything to get their hands on a copy of the Inferata.
+This work seems to be determined by the content alone - and thus independent of the form and language in which it exists - and thus has certain characteristics, which are described in more detail below.
+
+According to the research commission of the Ekklesia on the Inferata, the following things turned out:
+
+-   Individuals who read the Inferata without special training or an exceptionally strong will fall almost directly into madness.
+    Even resistant individuals can read only small excerpts and then have to take a longer break, their physical and mental health suffers.
+
+-   Writing a transcript of the Inferata invariably costs the mind and corrupts the spirit to the extent that any conversation with the author of the transcript becomes impossible.
+
+-   The transcripts of the Inferata have an influence on their environment, which is reflected in people, nature and events
+
+Due to these characteristics of the inferata, no one knows a full or only significant part of their content.
+This content cannot be written down without unintentionally creating a transcript and thus destroying one's own mind, so scholars can only quote from their knowledge.
+Not many scholars dare to study the Inferata, since intensive study more than halves one's lifetime - and even then one does not get more than a tenth of the Inferata read.
+
+So, although there is only shadowy half-knowledge about the Inferata, scholars agree that the Inferata contains all there is to know about the blood cult, the demonic delusion, and the cult's reputation.
+Nevertheless, little to no knowledge can be extracted, and the Inferata is also unsuitable as a reference work, as the absence of organization and structure makes it impossible to track down specific information, and thus only draws the reader in and the dangers of normal reading strike.
+
+In the last 100 years, the Ekklesia, supported by many Eldrian local churches, has hunted down the Inferata, destroying - except for its two archival copies - every copy they could get their hands on.
+
+## History of the Blood Cult
+
+The history of the Blood Cult begins with the fact that it first had to be identified as existing.
+In the beginning, all that caused researchers and society to devote themselves to this field was the massacres that took place from time to time as a result of the demonic delusion.
+Scholars searched long and in vain for the causes of demonic delusion, neither diet, social isolation or lack of sleep could be identified.
+The breakthrough in this field came only through a scholar named Alfried Grimand.
+
+### Alfried Grimand's discovery {#Grimand}
+
+Alfried Grimand was a Darcy-funded scholar whose writings made wide circles in the professional community.
+His area of research was the cure for "demonic madness" - as the Eldrians called the influence of the blood cult before it became known.
+
+Like any conscientious researcher, he first examined the scriptures for instances and soon found that he needed to dig deeper.
+So he got into the research field of studying the texts of the forerunners and became one of the few who were able to translate their signs rudimentarily.
+
+> "The signs of the ancients are complex to interpret, since many of their words, even if they can be translated, have no meaning known to us. Nevertheless, especially in texts concerning the demonic delusion, there are often divergent signs or languages that do not correspond to the lingua of the ancients. Translating these is clearly more difficult."
+>
+> --- Alfried Grimand before his expedition to Darada Uld
+
+In the year 120 before Riga there was a joint expedition of Alfried Grimand and some scholars from the Heartland.
+Together they explored a ruin of the forerunners called "Darada Uld".
+After barely a week of excavations, they reached a chamber which they described as a "red chamber" because of the red walls.
+The red chamber was littered with obscure characters, quite different from the usual writing of the Forerunners, and Grimand and his colleague Constelianus - one of the scholars from the Heartland - immediately devoted themselves to translating it, while the rest of the company continued their excavations.
+
+> "At first, Constelianus and Grimand could not identify a single letter of these texts, but the longer they stared at the words, the easier they found the translation, until they even began to converse in this strange language. They wrote and translated so quickly that it hardly seemed humanly possible. The leap from absolute incomprehension of the language without any approach to fluent use was so fast that one almost had the feeling that the text wanted to be translated by itself.
+>
+> --- Unknown companion of the expedition of Darada Uld
+
+Grimand and Konstelianus devoted themselves more and more intensively to the translation, soon they even gave up sleep and food - just to get on with their translation, which captivated them more and more.
+Thus it came about that within two weeks they had translated and written down all the texts on the walls.
+
+When the rest of the research group rejoined Grimand and Kostelianus, they were confronted with a gruesome picture: Grimand had gone into a frenzy and had slain Kostelianus with the help of a pickaxe and was feasting on his flesh, which was draped all over the floor.
+With Kostelianus and his own blood, Grimand had painted disturbing signs on the walls.
+Grimand's mind was so shattered that he attacked the research party on sight.
+The Heartland escort made short work of him, however, and both bodies - or what was left of them - were buried according to the rites of the Allgod.
+The explorers attributed the events at Darada Uld to the translators' lack of sleep and food; they did not know that the first copy of the Inferata had just been created.
+
+When the expedition was over, the copy passed through the hands of many scholars - and everyone who read it was haunted by nightmares and hallucinations until they were finally seized by madness.
+A madness that coincides in many points with the "demonic madness".
+
+### The Ecclesia and Other Countermeasures
+
+After the Inferata became more and more widely copied and studied, and the consequences of it became more and more clear, the churches also began to concern themselves with the work.
+They quickly understood the threat posed by the spread of the Inferata and also the threat posed by the blood gods in the background.
+
+The churches reacted differently: while the Ecclesia created a private army - the Inquisition - and entrusted it with the task of eradicating the blood cult, Darcy tried to inform all the rulers and scholars in the known world about the dangers of the newly discovered sects.
+
+## Known Blood Idols
+
+### Sakessa {#Sakessa}
+
+Sakessa is a blood goddess who is most notable for her jealousy.
+Her reputation is almost always for attractive young women, whom she envies for their beauty.
+But also men are not safe from her, whereby she calls here mostly artists.
+
+Classically for the call of blood, the call of Sakessa begins with dreams that plague the called.
+With Sakessa, however, this phase proceeds differently than with most other blood gods.
+The dreams turn enormously quickly into nightmares, in which Sakessa tries to break her target with strength and viciousness and force them into submission.
+Thus, Sakessa's call becomes a mental rope pull that continues until Sakessa's victim gives up and submits to Sakessa's will.
+Through the process, Sakessa destroys large parts of the victim's will to live and hollows him out internally.
+
+> "I keep walking through our house in my dreams and seeing the maggot-eaten corpses of my parents.... of my brother. I feed on the rotten meat and it tastes like nothing I've ever eaten in my life. Then I look at my reflection in the water trough, but I don't have my face. The face I have is bluish with pointy disgusting teeth and unimaginably ugly. And my reflection is laughing in the same shrill voice that has been going "you're mine" over and over again throughout the dream. You are mine. You are mine. You are mine.
+>
+> --- An unknown called about her dreams
+
+After Sakessa claims a victim, the victim's journey is usually very very short.
+Guided by Sakessa, the girl seeks out one of several secret places, a shrine of Sakessa.
+There lies an old knife.
+The girl takes this knife and skins her face with it - cuts it away until the skull is exposed.
+Then the girl hangs her pretty face on the wall with the others.
+Only then Sakessa allows her victim to die.
+
+![Image of Sakessa](Pictures/Flavor/Placeholder/jealosy.jpg)
+
+Some stories also tell of Faceless Women guarding the shrine and keeping it clean, though this has rarely been confirmed by people who have discovered such a shrine.
+
+Sakessa is already rooted in folklore, though far from the actual horror of this blood deity.
+In the tales of the common people, Sakessa is an old woman who steals too vain girls at night, and thus no more than a story with which mothers scare their daughters for educational purposes.
+
+### Dream Blood God
+
+Iwie something like that, people sleep and then sorry or tomato
+
+### Jiraad the burning god {#Jiraad}
+
+Jiraad is generally known as the blood god of fire and destruction.
+Followers, chosen ones, or victims, depending on the view, of Jiraad interference with humans ends, as is common with blood gods, in drifting into madness and self-destructive behavior.
+
+Jiraad is by far the best known blood god.
+Its cultists and followers retain their sanity and abilities to reproduce speech far longer, and usually retain sufficient sanity to be long inconspicuous citizens of the Empire.
+This makes the cult's followers probably the most dangerous blood cultists.
+
+Jiraad himself summons his disciples in dreams, and also often in cases of severe fever.
+The beginning usually represents a look before Jiraad.
+Here there are always slightly different variants of the reported representations of Jiraad.
+Partly as a grimace purely of fire, partly as a lava-like golem and partly as almost human form.
+Depending on the duration of the shouts, Jiraad's figure changes to an increasingly flaming and burnt face and landscape.
+
+! [Representation of Jiraad if one does not bow to his wishes. Drawn by the cultist and former famous painter Arzin Steinmähre [^000Fesbra000WingsOfDeathAndFire]](Pictures/Flavor/Blutg%C3%B6tter/000Fesbra000_Jiraad_appearance.jpg)
+
+[^000Fesbra000WingsOfDeathAndFire]: "Wings of Death and Fire" by [000Fesbra000](https://www.deviantart.com/000fesbra000/art/Wings-of-Death-and-Fire-589826133).
+    This artwork is available under a Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 License.
+
+These can arise over the months, vivid dreams.
+This allows the victims of Jiraad to vividly imagine the future and long for it more day by day.
+Interestingly, many dreamers who do not die from self-inflicted burns learn how to make black powder, incendiary devices, and moltovika.
+The production usually takes place in a trance-like state and causes the summoned ones to stand in the laboratory sometimes for days without interruption.
+This has been proven several times by the Ekklesia in experiments with the called.
+If the alchemical ingredients run out, the hand movements are also performed without equipment or Ingridientien.
+
+> "Devil's work I tell you. Look at him. He keeps trying to brew moltovika and ends up filling the blasting glass bottles with nothing. That's just absurd. How are we supposed to win against something like that, which robs people of their minds? How are we supposed to stop people like that? I hit one of them with a stick. He just picked himself up and continued brewing without any ingredients. I stabbed him in the leg with a dagger. He took a chair and continued brewing until he passed out from blood loss. It is as if he had read the inferata."
+>
+> --- High Inquisitor Oranius Bahrenjaege observing one called by Jiraad.
+
+Cultists who awaken from trances usually report a contented feeling and pleasant warmth throughout their bodies, not noticing injuries until the following hours.
+
+![Illustration of the dreams at the beginning of Jiraad's calls by the cultist and former famous painter Arzin Steinmähre](Pictures/Flavor/Placeholder/jiraaddream.jpg)
+
+The cultists' dreams usually culminate in the same image.
+This is a scorched landscape without living beings.
+Only one figure, which according to the dreamers is Jiraad, remains in the area and you hear the same words over and over again.
+
+> "At last you have the peace and tranquility you sought, my faithful friend. May this world remain for you."
+>
+> --- Jiraad to the dreamer
+
+![Representation of the black peace, final vision of Jiraad,by the cultist and former famous painter Arzin Steinmähre](Pictures/Flavor/Placeholder/jiraadendvision.jpg)
+
+People who reach the endivsion or final dream of Jiraad invariably commit suicide.
+Often the victims set themselves on fire.
+
+#### Dealing of the empire with followers of Jiraad
+
+Senior members of the Jiraad followers, hereinafter referred to as the sect, usually have high alchemical abilities and are, in addition to the Ekklesia, militarily sought after and often infiltrated by Imperial assassins and spies.
+The reason for this is that members of the sect often store moltovika, or incendiary devices, which poses a massive threat to infrastructure and relevant buildings.
+The infiltrations carried out by the Ekklesia, the Imperial Army, or in 7 cases so far, the Penitius Occulatus, are aimed at stealing supplies of moltovika, black powder or incendiary devices, or if not otherwise possible, destroying them.
+For this purpose, at least in earlier years, all methods were used that enabled the achievement of the goal, i.e. the securing of the explosives and incendiaries.
+These include extortion, torture, robbery, imprisonment, military suppression and infiltration.
+
+The success rate of such operations is not known, nor is the actual extent of Jiraad's supporters in the population groups.
+
+Scholars believe that there are waves of Jiraad's dreams in the population that recur periodically every 17 years.
+Accordingly, the Ekklesia and the Pentius Occulatus are particularly active during these years.
+
+The largest act of terror of these madmen so far led in the year 453 before Riga to the complete destruction of 2 cities.
+In a coordinated and weather-technically favorable situation 2 cities were destroyed in such a way that the reconstruction was no longer possible.
+
+> "Jiraad is burning. He is believed the red chamber, the devil, he burns. He wants to see everything burn, because only by the fire the people are purified. Finally he lightens up about pyromaniacs which are not even called by him. But burned he only leaves behind. The souls of his disciples, the bodies of his disciples and the hopes of those who thought to free themselves from his curse by obedience and fulfillment of Jiraad's wishes. After all, that's what the Red Chamber wants. Free."
+>
+> --- Alfied Grimand on Jiraad, shortly before his demise.
+
+Al-Rumain, of which the remains are said to lie south of the Holy Rah-Kari Mountain H'abunaptra burned out completely and the population which at that time amounted to about 15000 people, was completely wiped out except for 12 surviving families.
+As a desert city, which was called the foot of humanity, firefighting efforts were in vain.
+Exact data about the course of events of this act of terror in the foothills of the gray wasteland, are missing.
+Since the destruction in 453 B.C. Riga, the remains of the city have been investigated several times and more unexploded fire and explosive remains have been found.
+3 other expedition teams lost a good part of their men during the investigation of the city.
+
+Old Haag, which would be located in today's Misty Grove, was also destroyed by followers of Jiraad in 453 BC.
+Old Haag was a formerly militarily fortified but thriving black market metropolis in what were then the plains of what is now Misty Grove.
+The city had been severely thinned out a decade earlier by a plague of dorsal wart maggots, which, unfavorably, thinned out the upper echelons of the Ekklesia in particular.
+Alt- Haag was then destroyed in the course of 3 weeks in such a way, with estimated 700kg black powder like approximately 2300 Moltovika.
+A handful of Jiraad sect leaders were convicted of involvement and executed.
+These showed no disillusionment despite their atrocities and their skin had burn marks all over the back.
+
+![Depiction of Old Haag during the terror of Jiraad's followers [^ButteredbapEmber]](Pictures/Flavor/SceneryPlacesLandscapes/ember_by_butteredbap.jpg)
+
+[^ButteredbapEmber]: "Ember" by [Butteredbap](https://www.deviantart.com/butteredbap/art/Ember-410011561).
+    This artwork is available under a Creative Commons Attribution 3.0 License.
+
+![Illustration of the ember symbols on 4 of the 6 executed Jiraad followers](Pictures/Flavor/Placeholder/jiraadsymbol.jpg)
+
+The burning of Old Haag caused such outrage in Eldria and also in the Rah-Kari kingdom that both "kingdoms" coordinated their intelligence activities, thereby severely limiting Jiraad's activities in the following decades.
+Thus, Jiraad's activities were effectively suppressed in the medium term.
+
+![Skeletal remains of the inhabitants of Alt-Haag who tried to save themselves from the flames at Arinshügel](Pictures/Flavor/Placeholder/AltHaagCorpses.jpg)
+
+Since this incident, the Ekklesia became aware of this group, but it was not until several centuries later that Alfred Grimand dedicated himself to the eradication of the Blood Cult and its modifications.
+This also significantly reduced the activities of Jiraad's disciples and, incidentally, opened up a favorable source of moltovika.
+
+### Pux-Haik Ruler of Pestilence {#PuxHaik}
+
+Everyone knows the diseased in the poor quarters of the cities.
+The poor suffer from all sorts of plagues which the All-God sends to the less pious.
+However, some of the afflicted do suffer from the calls of the blood god known as Pux-Haik.
+In general, the calls of Pux-Haik have always gone out to those who were already weaker as a child or almost entered the realms of the All-God due to illness.
+
+The calls of the Plague God always start with dreams of illness, or physical decay.
+In this case, the nocturnal interferences become more and more real over time and, if one believes the minority of scholars about Pux-Haik, often end up in a real illness.
+Scholars of diseases, on the other hand, believe that diseases can sometimes be transmitted without symptoms, which can give the impression of a blood-divine scourging.
+
+Pux-Haik's allows only a very few called to survive the first diseases.
+These develop after a short disease-free but
+
+![Appearance of the choking and undoubtedly terrifying Pux-Haik[^TaonaviMor]](Pictures/Flavor/Bloodg%C3%B6tter/by_taonavi_PuxHaik.jpg)
+
+[^TaonaviMor]: "Mor" by [Taonavi](https://www.deviantart.com/taonavi/art/Mor-764606189).
+    This artwork is available under a Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 License.
+
+#### Empire's handling of followers Pux-Haik
+
+The Empire and the Ekklesia have officially banned adherence to Pux-Haik, as with all blood gods, and placed it under the criminal offense of blasphemy, usually making confession punishable by death.
+However, the followers of Pux-Haik are not organized in the traditional sense and do not organize festivals, celebrations or devilish types of masses, but a few followers spread the word Pux-Haik.
+Their words, however, usually do not represent a logical structure for normal people who are in bondage to the All-God, but rather hit in the notch of the normal imbeciles.
+
+According to official announcements of the Ekklesia above all humans are noticeable those animals around itself to cherish seem which do not rank among the farm animals.
+Rats, flies and cockroaches are named here.
+
+The few called who survive the first diseases usually become the host for their plague-spreading beast.
+The body is eaten by the animals and the longer they live, the more likely they are to spread the plague, intentionally or unintentionally.
+Thus, in retrospect, the paths of the plague spreaders can usually be retraced.
+At the end of the paths are usually found the almost dead remains of the "people".
+These flagellated ones already have body parts of their host animals and are therefore usually no longer able to move regularly or to perform ordinary functions.
+
+However, since earlier stages can hardly be distinguished externally from healthy individuals.
+Examination of the stool, on the other hand, provides an indication of the disease, since it is usually the animals, maggots, flies, beetles or cockroaches that are found alive in the stool.
+However, since the activity of the intestines ceases after the approximately one-week phase, the ecclesia usually cuts open the abdomen to determine whether it is indeed a disciple of Pux-Haik.
+
+![Depiction of the ecclesia of Pux-Haik summoned at the end of its miserable life](Pictures/Flavor/Placeholder/Puxhaikgerufenertod.jpg)
+
+The real witch hunts that are carried out, where mostly innocent people lose their lives, actually pay off, because one such summoned person can infect about 200-300 people.
+
+### Saath Valar {#SaathValar}
+
+Saath Valar is a mystery to many, generally believed to have written the Inferata, and to be the father or creator of all other blood gods.
+Only those deepest in the research of the Inferata and already on the verge of madness know anything at all about Saath Valar, he seems to be the most powerful of the Blood Gods, yet he is not seen acting actively anywhere in the world.
+
+![Representation of Saath Valar](Pictures/Flavor/Placeholder/SaathValar.jpg)
+
+His call is also very unusual, he calls people passively rather than actively.
+This happens when reading the inferata by the human himself.
+The immediate delusion is nothing else than the bursting of the human mind at the almost infinite amount of knowledge and confused form of enlightenment that is pumped into the reader - this is known, because especially intelligent and strong-willed persons need a little longer until they fall into the demonic delusion.
+Until today, however, no person is known to have survived this in a form useful for Saath Valar.
+There is also no known active call by Saath Valar, which is why he plays no role outside of research on the blood gods.
+He does not threaten cities or people, does not create dangers, and the only thing known about him are hard-to-find traces in the Inferata, where his name is often associated with the terms "fall," "resurrection," and "betrayal.
+
+Because of Saath Valar's apparent absence from the world, it is often assumed that Saath Valar is either dead or powerless, and the Inferata has been mistranslated on this point.
+
+### Ciresh - Mistress of Illusions {#Ciresh}
+
+![Illusion God](Pictures/Flavor/Placeholder/IllusionGod.jpg)
+
+Extended arm is the [Ricor](#Ricor)
+
+### Hardmus the Collector {#Hardmus}
+
+Hartemus is a minor blood god with no actual area of influence.
+He is called the Collector because he is known to summon assassins and soldiers, which he uses to strike against other blood gods.
+
+![Image of Tharnator](Pictures/Flavor/Placeholder/Collector.jpg)
+
+Hartemus is known for summoning individuals, focusing more on mass rather than class.
+He often gathers groups of his summoned to destroy shrines and sanctuaries of other blood gods.
+Such actions often result in the death of some of his summoned, but Hartemus is able to quickly summon new cannon fodder.
+Hartemus also lets particularly promising or capable individuals undertake such missions alone.
+The more capable a single summoned person proves to be, the higher he is esteemed by Hartemus and the more of his favor the summoned person receives.
+His gifts are not comparable to those of higher blood gods, but they are not to be mocked either.
+
+Hartemus' reputation is easier to resist than that of other blood gods, which is why the ecclesia hunts Hartemus' cults less than other blood gods.
+
+> Initially, he was strong and the logical end for any of the [blood gods] who allowed themselves even a moment of weakness.
+> He fulfilled his part of the plan and made sure that none of the [Blood Gods] left his place.
+> But they joined forces and destroyed everything that made Hartemus strong.
+> Today he is a shadow of his former self - and the [Blood Gods] are free.
+>
+> --- Excerpt from the Inferata (The word blood god does not appear in the Inferata and was therefore inserted)
+
+![The mark of Hartemus](Pictures/Flavor/Placeholder/MarkHartemus.jpg)
+
+Called of Hartemus are usually marked by Hartemus with his mark.
+This mark is like a tattoo and is a death sentence if you fall into the clutches of the Inquisition or the Guardians.
+
+### Ga'ar - Mother of Beasts {#Gaar}
+
+Ga'ar is one of the most powerful blood goddesses, but while other blood goddesses retain at least a female form in the dreams of their summoned, Ga'ar appears as a huge, massive monster.
+
+This form of representation is very appropriate for Ga'ar, as she is the mother of all monsters.
+From the smallest ghoul to the most massive worldworm, they are all children of Ga'ar.
+Therefore, Ga'ar's reputation hits not only humans, but monsters as well.
+
+> "We were chasing a werewolf - so far no problem. But already at the first confrontation with it, its speed and power surprised us, it tore four of us to pieces and injured two others. The injured died of poisoning within the next day. Normally, werewolves do not have poison. Since half of us - experienced monster hunters - had died unsuccessfully, we decided to flee. But while escaping, we were ambushed by several werewolves led by our target. Werewolves don't usually travel in packs, as all of them are alphas. They killed all of them, only I was able to escape into this cave. But I hear them coming, this will be my end too."
+>
+> --- Diary of Arug Kauk, monster hunter from the Tans'end tribe, collected in "The Bleak Forest Legend"
+
+These monsters, selected by Ga'ar, usually develop different abilities and skills than their fellows, making them many times more dangerous and unique.
+For example, a <font color="green">[Great Lindworm](#Great Lindworm)</font> achieves its incredible size and power only because of Ga'ar's call - in a natural way, this would be unattainable.
+
+![Depiction of the Mother of Beasts materializing](Pictures/Flavor/Placeholder/Gaar.jpg)
+
+However, Ga'ar's human summoned are not to be neglected, often helping Ga'ar spread terror by smuggling monsters into cities, protecting them, or even riding them.
+Sometimes the Call goes so far that humans can turn - reversibly and irreversibly - into beasts and try to bring chaos to the world.
+
+Ga'ar is a highly destructive goddess who seeks to largely destroy human civilizations, taking more of a "head through the wall" approach, which is why most of her summoned beings who experience mutations die from them.
+She and her summoned are the group most hunted by Hartemus and his followers.
+
+### Tunis - the spoiler of innovation {#Tunis}
+
+Only those who thrive in their craft are able to hear the faint and faint whisper of this call, as the urge for new ideas makes them listen deep within, but what they find there is not always what they expect, nor does it always come from them.
+Tunis plants the shadow of an idea in the minds of the unfortunate.
+In their urge to catch and grasp this idea, they delve further and further into their work until this one idea constitutes their whole being.
+Only then does Tunis reveal to them the creation he has conceived for them.
+Deprived of any logic, they build whatever he tells them to build.
+Now there are two exits: the first, far more common, breaks the victim's spirit and the madness that comes with it destroys almost every constructive skill of the former master craftsman.
+Tunis punishes the vessels of his will, which in his eyes are flawed, by creating a final project whose only purpose of existence is to destroy.
+Be it a bomb or a shabbily thrown together construct that does not hesitate to kill the environment of the master while the last spark of his life goes out in his own howls and laughter.
+
+But those vessels that do not break, whose desire for innovation is greater than anything else, are rewarded by being able to make their will real, creating projects and techniques that no craftsman of this era has ever seen.
+But no soul survives this almost direct connection with a blood god and so, in the long run, those chosen vessels of Tunis also break at his spirit.
+
+Tunis is arguably one of the most malevolent of the blood gods.
+The course of his worship and calling is always parabolic.
+At first, the one called experiences more innovation, more energy, and more fine motor skills.
+But in the long run, his skill and the purpose of his innovations become more and more perverted and soon harm his environment.
+However, following Tunis always leads to ruin.
+
+Fortunately, Tunis very rarely calls people, but those he calls are able to do great harm, and without even realizing it.
+
+> "This damned craftsman has persuaded us all that the construction of a sewerage system will be the best thing for Cerdem. He was brilliant and had an excellent reputation, so we trusted him. When the sewer was finished after 3 years of his tireless work we were full of anticipation - finally less plagues in our beautiful city. But then the sewer collapsed, taking the whole city with it. Now Cerdem is just a hole in the ground.
+>
+> --- Earl Hammond, Earl of Cerdem ca 60.
+> to Riga
+
+### Marak - creator of faith {#Marak}
+
+The blood god Marak saw the millennia of conflict and simply decided not to fight for either side, the other group, or greatly for himself,
+
+He found it more amusing to work with the ordinary humanoids.
+
+He decided to show them the absurdity and hopelessness of everything.
+
+He tried to accomplish this by arbitrarily shaping the reality of people according to their thoughts.
+
+Thus, they would always be in conflict with each other, since everyone could truly claim that the gods were on his side.
+This would obligatorily lead to eternally smoldering conflicts and at the same time disturb or even destroy the technological development of the relatively primitive humanoids.
+
+Not that the humans with their technical abilities would pose a threat unless they found the weapons of Marak's brothers and sisters, so they equipped themselves with weapons of the forerunners.
+But safe was now times safer - what the blood gods themselves partly welcome.
+In Marak's case, he simply found it more fun.
+
+
+The other blood gods, who usually fought their conflicts without humans, cared little.
+Although Jiraad as well as Pux Haik and Hartemus are always involved in the affairs of humans to get power, they are only the minority and a less dangerous weapon.
+
+
+Thus it comes that the religion is still much more at the heart of the people, since there is actually confirmation for their abstruse views.
+
+Marak himself does not own any shrines worshipped by humans in the strict sense.
+He also does not harbor any known plans.
+He does not put visions into people's heads or deface them like his brother Pux-Haik.
+
+Thus, the Imperial Inquisition or the Rahkari Guardian Cult has no record of him.
+It is also impossible to pray to him in the sense of followers of the blood cult.
+In the worst case, he arbitrarily ends the life of those who managed to find out something about him.
+
+## The spread of great cults
+
+## The saint of war
+
+The only thing that counts in this world is one's own strength and using it to impose one's will on the world.
+To do this there is only one way, to be the strongest, but to become this there is only one way.
+To prove this over and over again.
+
+wanderer children thieves (lena image, folk belief representation) aspirants reborn aspirants can challenge the god when they have gathered enough recognition.
+
+Appointment by the god is done through its aspirants, who kidnap the children and train them to be true warriors and receive the memories of one of their predecessors if they have collected enough recognition.
+
+Aspirants are also recruited by the army, but with the reservation that they are not subordinated to any unit, but can freely choose their opponents on the battlefield, but this is only to the benefit of the high military, because the coveted targets of the aspirants are usually generals or other enemy troops who have won glory in previous battles.
+

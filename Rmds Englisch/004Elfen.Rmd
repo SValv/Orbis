@@ -1,0 +1,541 @@
+---
+editor_options:
+  markdown:
+    wrap: sentence
+---
+
+# The elves
+
+Elves, lanky humanoids with pointed ears and normal height, populate the forests of Orbis Astea.
+In general, the elves are said to be more adept with animals than other humanoids and to have a culturally more natural approach to them.
+Night vision proves advantageous to the elves over other races in many ways.
+According to scholars, this ability is an adaptation to the dense evergreen forests of their [Silva Nacia](#SilvaNacia) homeland.
+This thesis is disputed, however, as elves were and still are found in the northernmost forested areas of the known world, as ancient Animali lore attests.
+
+## History
+
+Elves once populated all known forests in Orbis Astea.
+Gradually, however, the elves were forced to retreat from these forests, partly because of the spread of humans and partly because of the establishment of effective burial rites by humans, which did not allow the dead to become awakened, unlike elves, and thus elves lost their usefulness as morticians for humans.
+Deforestation of the humans and internal quarrels of the elves pushed them back piece by piece.
+In addition, formed bands of heavily armed orcs and humans appeared in increasing numbers, driving the elven people from their homes and burning their lands.
+
+Subsequently, humans built new cities in the now abandoned areas and enslaved many of the elves displaced from their homeland - a historical stage generally referred to as the early uprooting.
+The elves - who, under their predominantly human masters, submitted to the other races - later became city elves over the centuries.
+
+Although the forests are now fragmented, they still provide the elves with an excellent environment for defense, but it often makes effective communication between the tribes impossible.
+
+Among the elves themselves, the prevailing view for centuries has been that humans build their cities where it most disturbs the elves.
+
+> Everywhere people build their fortifications to shield themselves from the forest and nature.
+> If my mothers let people live in our forests out of mercy, they took more and more of it, like addicts.
+> If at first there were only single trees to build houses, mills for their grain followed.
+> Then came the forges to create tools for farming.
+> Then bigger forges for weapons, because one had to keep other - evil - people in check.
+> Then you had to keep the evil orcs in check.
+> For that you needed iron armor.
+> Then you needed ballistae, you couldn't defeat the orcs, they were suddenly running around in iron armor too.
+> Then you had to build roads to connect with other villages.
+> The people didn't want to "sacrifice elves, because they are our friends", so you needed people from other villages. Then again you needed more fields and more mills and more wood and more game. More and more the evil parts of the humans and the orcs became evil. At some point the roads were so dense and the hunger so great that we asked ourselves: Why don't we fight the orcs ourselves? But suddenly there were orcs in iron armor guarding ballistae, no longer hunting humans and game in our forests, but hunting US elves like crazy.
+>
+> The humans said they couldn't fight the orcs in the forests, so they cut down piece by piece, while the orcs ate us like wild pigs, since we were now easy victims without the protection of the dense forest.
+
+> So I ask you ?
+> How long do we want to watch the humans take our lives and our forest?
+
+> --- Alian Bluetongue -- Envoy of the Head, 320 v. Riga from "Chronicles of the Displaced Woodlanders
+
+After centuries of fighting against the humans invading the elven habitat and claiming it for their own, a tremendous anger against the humans ignited among the elves.
+Especially over the last two centuries, huge areas of forest were cleared and brought under human control.
+Enslavement was the fate of all elves until approx.
+600 years ago the fate of all elves who did not die in battle.
+For today's elves, this very period in history represents the time of uprooting.
+
+> *"We lost everything, our home, parts of our families, parts of our culture...">
+>
+> --- Description of a slave in his diary
+
+Elves, who had to be subordinated, officially lived as slaves or in slave-like conditions.
+The prohibition to practice their cultural and religious customs, which were very strongly connected with nature and especially the forests, led to the formation of new belief structures.
+These include the inflationary worship of idols or simply living in "guilds," which are not unlike sects. The greatest influx of new elves, coupled with the terretorial expanisve policy of the empire proclaimed around 0 after Riga will later be referred to as "the uprooting".
+
+## The Uprooting {#The Uprooting}
+
+Around 17 after Riga, the Preserver of Silence, the highest priest of the Religion of Allgod issued a short decree with which subjugations were to be legitimized.
+3 years later, the newly united Empire, only two decades old, launched a campaign against most of the elven tribes that were in the immediate vicinity of the major cities of the Empire.
+The poorly coordinated elven tribes, cut off from communication with each other by the humans who had been spreading for centuries, could do little to oppose the imperial army.\
+
+Elven tribes that preferred to die were wiped out, along with their women and children.
+Their forest villages were burned or cut down
+
+The elven tribes, in which the matriarchs (leaders) preferred the survival of the tribes, were incorporated into the cities of the Empire.
+However, after giving up their weapons and killing their riding spiders, the elves found themselves in a position where they were exposed to the savagery of the Empire.
+The city guards then especially controlled elves, because the rebellious potential and the handling of weapons were still given by the members of the warrior caste.
+
+The local non-elf population, which until then had often lost relatives or grandparents to provoked and unprovoked elven attacks, hated the elves in many places.
+This was followed by the incorporation of the elves into the last link of the chain of social hierarchy.
+
+Thus the elves populated the poor quarters of the cities, which could no longer live out many of their own rites or lifestyles, or in Civis Primae, the capital of the Empire, the lower city.
+
+Without the possibility to follow their former customs, their own new versions of them developed.
+Discrimination, crime, prostitution, gang wars and fencing were ways for hungry elves to get food or at least some wealth.
+
+Over the decades, this reinforced the prejudices of the rest of the population.
+"Just as, on the one hand, memories of forest elves raiding farmers' farms with riding spiders disappeared, so, on the other hand, people in the cities shaped memories of elf thugs beating up their husbands, or lightly dressed elf women spectacularly ending the marriages of many a nobleman."\
+\
+The elves now living there are referred to, usually derogatorily, as city elves. For elven tribes that successfully defended themselves against the empire, city elves are considered the treacherous rabble and a cautionary example not to submit to the empire or humans.
+
+## The life of the elves today
+
+Wood elves, unsurprisingly, live in forests.
+The tribes, usually numbering 500-800 people each, usually have loose, fragile bonds with each other, as they are geographically distant from each other due to the historical clearing of the elven forests.
+However, Silva Nacia, the largest remaining contiguous forest area, is home to a much larger amount of elves.
+It is estimated that there are nearly 500,000 to 1,000,000 elves in the entire Silva Nacia area.
+
+The greatest density of elves can be found in the sizeable city-like settlement of Sildrem Ird.
+
+Several different, but each rather small elven tribes live here geographically very close but peaceful - apart from usual smaller blood feuds - next to each other and form a closed federation.
+
+Elven tribes are always led by a matriarch.
+She is the highest authority in the tribe and decides for or against matters.
+She is supported by the highest tribal members of the individual groups -- the envoys.
+Envoys themselves often take on the function of diplomats, hence the obvious translation.
+
+In principle, all tribes have very similar divisions of labor, each with four "tiers."
+
+-   Youngling - Young Elves before they have chosen a path.
+
+-   Learner -- Elves after completing their maturity exam with chosen path and own riding spider.
+
+-   Upright -- Fully grown elves of a path, usually between 25 and 50 winters old.
+
+-   Envoy -- Often elder(s) of the path with the most experience or skill.
+
+-   Matriarch -- Female elf who is nominated by the Envoys of the Paths and sworn in at Sacred Plateau Mountain by Deus Arboris.
+    Supreme decision maker for tribal matters.
+    Is called Mirän by the elves themselves.
+
+The types of work by paths:
+
+-   Path of the Claw
+
+    -   Members of the Path of the Claw fulfill a dual function in the tribes with the hunting of prey animals as well as with the defense of the tribe as ordinary warriors.
+
+-   Path of the gaze
+
+    -   Somewhat unusual compared to other tribes is a separate scout caste in the society of elves. These scouts explore territories, often make the first contacts with other tribes - including the other humanoid races, and are thus the eyes of a tribe.
+
+-   Path of the paw
+
+    -   The members of the Path of the Paw are responsible for the selective breeding of all farm animals in order to improve their characteristics. They also teach all other elves in the tribe how to handle both wild and domesticated animals.
+
+-   Path of the head
+
+    -   What the rest of the world understands by the term scholars are the members of the Path and Head for the elves. These occupy themselves, often changing the field of study, with the study and understanding of the world. In doing so, they may well get in the way of the other paths intellectually, but they pursue their spirit of discovery independently of this, which means that this group often tries to overturn established knowledge. In the more conservative paths, established knowledge is mainly applied directly.
+
+-   Path of the Wood
+
+    -   If the carpenter tells the tree how to grow, then you are either looking at a crazy carpenter or an elf of the Path of Wood. The most important task of this group is to change the growth directions and growth forms of trees to meet various needs of the tribe. Small living quarters, storage facilities, or even vaults formed from living trees are all requests that are fulfilled by the members of the Path of Wood. As a special feature, this group is also capable of making armor from spider silk or the armor plates and bones of various animals.
+
+-   Path of the Flower
+
+    -   When it comes to making the forest and nature thrive with more fruits, less parasites, other plants, or even man-eating plants, the members of the Path of Blossom are quick to help. From the simple planting of seeds and seedlings, to the artful pruning of trees at lofty heights to make the tree produce extra fruit the next year, are activities not every farmer from human cultures would pursue.
+
+Consequently, there are, for example, Uprights of the Claw, who represent the warriors and hunters of the tribe, and Envoys of the Wood, who make armor from spider silk and convert trees into dwellings.
+
+### The path of the elf children to the learner
+
+Elf children usually accompany the Flower Pathers for the first few years to learn the basal ecosystem care services.
+After that, they are free to explore their paths on their own, and to accompany adult elves.
+
+Young elves must take their maturity test at a time of their choosing.
+If this very brutal exam is passed, the elf is immediately a learner of his path.
+
+The maturity test begins with the young elf choosing his future Grawä spider, i.e. his riding spider, from an envoy of the paw within a period of 3 days.
+Here, the harmony between future partners is taken into account.
+It is of secondary importance whether the spider race of a foreign path is chosen, much more important is the closest expected communication.
+For this, the young elf is given traditional intoxicating herbs such as the bonding herb.
+The gray spiders are put into an intoxicated state with oils from the Zädilöä tree.
+Within this one-day intoxication, hangover, and sobering phase, both the boy elf and the spider dance.
+Although understood as a dance, this rather serves to give both sides an intuitive feeling for each other.
+The most important indicator for a good relationship is that both partners do not attack each other violently.
+
+Once this dance is over, the spider, at this age as large as a dog, now represents the companion for the duration of the exam and, if successfully completed, a partner for life.
+The young elf must then survive with the spider in the forest for 2 months without the help of other elves, provided with an examination mark, a tattoo on the forehead, and return with it.
+The tattoo serves as a signal to other elves not to help the young elf in this test.
+If the youngster returns without the spider, he is cast out by the tribe, as the youngster is not considered worthy to take care of his tribe.
+Outcasts either wander the woods, or are eaten over time, or die another death.
+Occasionally, these outcasts also move into the cities of the people.
+
+During maturity, the relationship between the domesticated spiders and their new "owner" quickly becomes closer, as they have only each other during this time, are dependent on each other, and must learn to trust each other if they are to survive together. Over the later years, partly inseparable bonds develop. In other cultures there is nothing comparable. Dogs are often closely bonded with humans, but never reach the age or usefulness of these spiders. Domesticated 8-legged creatures are also said to have greater intelligence than other domesticated animals. If the spider dies, it usually causes great grief to its elven partner. The grief is not unlike that of a lost family member.
+
+Upon completion of the maturity exam, these elves are officially on the status of learner.
+
+The rest of the hierarchy is generally flat.
+Except for the Path of the Claw, where a stricter hierarchy and order of command prevails, decisions are made freely and independently.
+Tasks are freely sought and instructions are given only in emergency situations, to which then, however, must be strictly adhered to.
+
+### Food procurement and habitat design
+
+Elves, like all simple cultures, do not live primarily from agriculture, but from hunting and gathering food.
+Although trees and plants are also planted by the elven peoples, they are planted in widely ramified areas with many natural plant species in between.
+Commonly planted are:
+
+-   Food plants such as the Krotat bushes whose roots are processed, becoming a very rich but slightly rancid tasting puree.
+
+-   Medicinal plants: A large bouquet of different plants with healing or harmful effects are grown as needed.
+
+-   Trap plants: The forests, especially of Silva-Nacia still contain a large number of different carnivorous plants.
+    While most of these plants do not become dangerous to humans, there are some species, such as the Great Strangler or the Pit Eater, which strangle humans or drown them in a pool of digestive juices.
+
+-   Trees for Wood: Of course, the Wood Elves also explicitly plant different trees for the extraction of wood.
+    Here, too, several types of wood are used for more specific purposes than is given in the realms of humans.
+
+-   Trees for future scouting posts or living quarters: Mostly reserved for the envoys of wood, special tree species are planted for growing and shaping scouting posts, emergency camps, or simply for the multiple functions of a trunk, such as storage or sleeping quarters.
+
+In addition to harvesting food plants, members of the claw path roam the forests, setting traps for animals or hunting them directly.
+Members of the flowering path, on the other hand, collect the adult Orits.
+
+The riding spiders of these two paths help hunt and transport the killed prey, the collected farm animals, or dig up and crush the remaining food.
+
+### Farm animals
+
+#### Orits
+
+As insects that attach themselves to trees and live by drinking their sap, Orits find themselves in the same role among Wood Elves as aphids do among ants - guarded farm animals.
+The six-legged, on the back gray-brown striped, moderately mobile animals have been bred and "herded" by the elves for several centuries.
+The animals themselves are defenseless in the true sense of the word, as neither great biting tools nor dangerous claws are found on the animals.
+Their primary defense strategy consists of secreting a foul-smelling secretion as soon as disturbances appear in their environment.
+Thus, these farm animals weighing about 60-100 kilograms are of interest to very few predators.
+Little is known about the natural cousins of these animals, which is probably due to the fact that over time either the elves have eradicated the less useful wild representatives, or these have disappeared from the face of the earth for other reasons.
+
+The "herding" of these animals is seen as a secondary activity by members of the Path of Blossom.
+This involves placing the Orits on selected trees, while they still weigh around 5 kg, with extra spines and poisonous mushroom powders smeared on their backs so that even fewer other animals or diseases will suck on the Orits' life forces.
+
+Each molt of these animals, usually two until the "harvest," represents the same routine for the flower peepers with the renewal of the spines and the renewed powdering with poisonous mushroom dust.
+After several months, the orits are "harvested." During this time, the initially emaciated and somewhat wrinkled Orits have grown into fully suckled, sometimes somewhat pear-shaped animals. During this process, the Orit is struck several times on the head, causing it to retract its proboscis to suck the tree juices. Its legs are then bandaged and the orite is loaded onto the flower peacock's riding spider. The chitinous carapace and the very elastic intervening skin of these animals is used for bows, weak armor, and to improve tree houses. The meat, which tastes very sweet, and the offal, which also tastes sweet, are food for the elves. These Orit products are safe for elves to consume, however, they are poisonous to humans when raw and have a strong bitter taste.
+
+#### Riding spiders
+
+Called Gray Spider by the elves, these eight-legged creatures are made for fast and coordinated movement in the forest due to their excellent agility and acrobatics.
+They can easily jump several meters, but do not produce spider silk, except for safety ropes.
+Their vision is extremely accurate at around 30-50 meters, which is why they can also track lost Orits much more easily than elves or humans could with their eyes.
+Beyond these distances, however, their vision decreases significantly.
+For each path there is a domesticated breed of these riding spiders, whose functions in the paths are matched to their individual abilities and characteristics.
+For example, the spiders of the scout path are significantly more nimble and smaller than those of the warrior path.
+The stronger and more cumbersome physique of the spiders of the flowering path, on the other hand, is ideal for transporting larger amounts of material.
+
+## Religion
+
+Elves possess no belief in an afterlife paradise that would reward a pious life.
+Their only unifying goal is the expansion of the forest.
+
+Thus, once the forest has spread to the peaks of the Heaven's Peak Mountains, the world shall finally live in natural balance.
+
+According to the elven tales, the world should not be completely covered by a canopy of leaves, but should also include some less wooded areas, similar to a natural pasture, with less densely distributed trees and shrubs and pastures in between.
+
+The more xenophobic Wood Elves of Silva-Nacia also follow this belief, but explicitly exclude all other humanoid races from the idea of this all-encompassing forest.
+
+The reason may be that elves from the other forest areas have lived with the other races for much longer and presumably have an inherited right in this "paradise".
+
+In it another "lack" of this "religion" distinguishes itself.
+There are few uniform rituals.
+One of them is, for example, that the appointment of a Mirän, that is, a matriarch, is tied to special places - so-called places of attachment - such as the Plateau Mountain in the Silva Nacia.
+
+On the other hand, the consumption of nuts from their sacred tree Säritaä, reserved for the highest path dying or matriarchs, can be called a "religious ritual". According to the elves themselves, this enables communication with spiders or the deceased or the tree Säritaä itself. The wood elves in Silva Nacia refer to this communication with the deceased as "reverberation", or in elven "Kiräaöt".
+
+A small percentage of these particular deceased, revive, provided nuts of Säritaä were consumed shortly before death occurred.
+Most of the mental functions of the reawakened are altered.
+For example, the ability to speak is usually lost.
+The descriptions of the initial stages are reminiscent of the behavior of people infected with rabies.
+Drooling, salivation, slow staggering, but without aggressiveness and the risk of infection by bites.
+
+Shortly after the "resurrection" the skin on the extremities becomes pale.
+After some time, about 4-5 days, the skin of these elves begins to form a bark, which is not unlike the bark of the sacred tree Säritaä.
+Over 5-10 years, the former elf becomes more and more like a tree, which causes his mobility and the rest of his humanity to atrophy more and more.
+Thus, after a few months, small green leaves already grow on the bark.
+After 2-3 years the appearance already resembles more a tree than a human being, the face is often hardly recognizable and cartilage tissue usually already falls off completely, so that ears, nose tips or even joints lose their originality.
+Remarkably, the elves are still capable of many movements, although these are less fluent and more halting than was the case before the "death".
+Increasingly "vertebrate" elves also grow beyond their typical height of 1.7 meters and occasionally reach a height of 4 meters when moving.
+After 5 years, most of these "tree elves" have become an immobile, mute, eyeless tree.
+In size, these easily reach 10-15 meters over the decades.
+
+In the beginning, some month to about 4-5 years after the "death" of the original person, such tree-elves, which allegedly can still take orders from the matriarch, are suitable as defenders of the forest.
+The Mirän is, allegedly, under the intoxication of the nuts of Säritaä possible to read the thoughts and feelings of the "tree elf".
+
+Thus, the elves believe that a certain part of the trees in the forest are their ancestors.
+It is therefore obvious that Säritaä, as the oldest and largest tree, could have been an elf in the past, who witnessed all the important decisions of the Plateau Mountain.
+
+Envoys of the paths, as well as Miränen are traditionally buried in the widely branched rootstock of the Saritaäs "to fertilizer" as the elves call it. The spiders of the Miränen and the Envoys of the Paths, usually half a century old or more, still keep vigil at the tree for some time, but visibly go wild and at some point migrate back to the woods, and from that moment on they are described by the elves as "Good Spirits".
+Their reputation as "Good Spirits" is due to the fact that many an elf tribe has survived because an 8 meter long spider suddenly ate orcs or humans for breakfast.
+
+The burial of elves, which in the past was also seen as the only way for humans to get rid of the dead without them haunting the world as Awakened, is a processing into fertilizer.
+Elves are hung here in bags made of orith skin and a cup full of special worms for about 4 weeks in the trees.
+There is no resurrection here, nor do decomposition odors occur.
+
+After this time, the worms break through the bag of orite skin and burrow into the ground.
+According to the elves, the trees thus regain what was stolen from them through orite and elves.
+
+> How shall you meet death when it is at the door?
+> Should you hope, should you pray, should you plead that it goes on?
+>
+> Yes !
+> He should only go on - you think and forget that only death can understand when the elf says: It's time.
+>
+> If it is hard to let him go, the elf who was so close to you, you want to keep yourselves in silence: The forest god gladly took him by the hand.
+>
+> Already the evening bells were ringing and the hall was in slumber, when the stars were rising the dead man was already lying under the ground.
+>
+> Old elf poem, scribbled in the dungeon cells of Civis Primae and Calvert.
+
+### The life of the subjugated: City Elves
+
+City elves, have at some point over time, though not always necessarily by choice, transitioned to a life in the realms of men.
+Usually kept as the lowest and poorest class in society or as slaves, uprooted from their customs, elves often eke out an existence living on the fringes of the law until they eventually perish miserably in the alleys along with sewer rats.
+
+Despite the socially bad position in all human kingdoms, most elves try to follow a regular everyday life, free from harassment by guards or gangs.
+Thus, simple tasks are usually reserved for elves.
+Fetching water, cutting vegetables, occasionally tending others' children.
+A smaller percentage of city elves actually find rewarding employment in the guilds, guilds, or cults of the ruling human race.
+
+However, since many elves do not always make ends meet with the income from the more legal activities due to poor pay, tradition, or poor life choices, city elves often end up doing other activities to earn their daily bread.
+
+Theft, robbery, extortion, prostitution, receiving stolen goods, assassinations and all sorts of other shameful deeds are often on their account, at least if you believe the local population.
+There are craftsmen and blacksmiths in many large cities who advertise with the term "elf-proof", which means that even elves can't get in here unintentionally.
+
+The survival of city elves also depends largely on their individual skills in these lawbreaking areas.
+The lives of lawbreakers require a certain amount of skill and cunning to get away scot-free with robberies, assassinations, and the like.
+Such schemes must be carefully planned and executed, as elves face disproportionately harsh penalties if caught.
+
+From time to time there have been elves who have attempted to escape this fate as outcasts, but in many cases they have been prevented from doing so by members of their own ranks, as this would require them to adapt to the human way of life and adopt its customs and mores, which is equated with a denial of their own origins and allegiance.
+Furthermore, an integration of elves is also from the side of the humans a quite difficult undertaking, since they harbor quite a few prejudices against the elves and the view of the humans on elves as scum will not change just because individual elves have undergone a more or less successful humanization.
+
+Not infrequently, people try to escape the sewer-rat-like living conditions in other ways as well.
+Blackmail, graffiti on the houses or lynchings are common offenses for elves who try to free themselves from the morass.
+
+> "That damned elf.
+> Lubricates me first and offers me the night of life.
+> I, as a venerable man, of course want to help her escape from the morass of the underworld.
+> Only in the end I am unconscious and this stupid whore steals my most expensive wine for 1400 reiks.
+> Luckily she was arrested by our city guard and then freed by some drug-addicted vagabond.
+> That's why the elves should stay in their huts.
+> Races belong separated, like the senseless words of a bard from his intentions.
+>
+> --- Nobleman from Nors
+
+In their physical and mental characteristics, however, the city elves hardly differ from their forest-dwelling relatives.
+In intellect, it is said, city elves are higher than their wild counterparts, but also possibly more clumsy with animals.
+Undoubtedly, the city elves are more specialized in their skills for life in the cities than their wild brothers and sisters.
+
+### The Life of the Elves in the Sable Forest
+
+Although elven tribes usually have many rites very well preserved over the centuries, the elves in the Sable Forest, located between Upper Reik and the Ice Country, are characterized by changes in their culture, mainly due to the Sable Blight.
+
+Sable rot is a nasty disease that slowly rots the flesh of all humanoid races except humans and Animali, and turns every other living creature into the worst and most terrifying version of itself.
+The disease, according to alchemists and healers, is released by a powder found in the heartwood of large ironwood trees.
+Although the Church of the Allgod and its chroniclers claim that sable rot is caused by the blood of the [World Worm](#WorldWorm), both sides cannot agree on what the actual source of this calamity is.
+
+For the elves in the forest, cutting down the forests has meant the loss of their homeland.
+It is therefore not surprising that the forest dwellers are not pleased with the presence of the loggers.
+Supposedly, the matriarchs of the forest have cursed all people who cut down their "sacred" trees.
+
+Interestingly, the definitely existing disease, has also harmed the elves themselves.
+The sable rot itself, turns monsters and many animals into abominations of their natural form.
+Readers may think that monsters cannot get any more horrible, but a werewolf with a half-digested and crying child screaming from its belly is a disturbing sight even for hardened soldiers.
+
+The disease, also makes eating most wild animals a gamble.
+Mutated animals are only eaten by elves anyway, as they do not seem to suffer from eating poisoned or cursed food.
+
+The effects of this can now be seen throughout the tribal structures of the elves of the Sable Forest.
+Riding spiders, are extremely rare, because of their low resistance to the disease that occurs, quickly go mad, go blind or simply die.
+It has been tried for centuries by the caste of the paws, that is, the keepers/breeders, to breed gray spiders which cannot be infected with the disease.
+Chroniclers of the empire have not recorded any successes so far.
+This complicates especially the situation of the clawed spiders, because they have great difficulties in hunting without the help of riding spiders.\
+
+The long isolation, in combination with the changed nature due to the sable rot made the sable elves forget the sacred sites in Silva Nacia.
+As a result, even the sacred tree Säritaä no longer has any meaning in the elf culture.
+
+Despite the ongoing deforestation in the Sable Forest, the unity and determination of the elves to act against the Empire is extremely low.
+Although elven envoys have repeatedly claimed that the elves will not tolerate any further deforestation of the forest, the Empire has not known of any attacks where more than 50 soldiers died in battle for several decades.
+This is especially remarkable since the elf population in the Sable Forest is estimated to be at least 60,000.
+
+Scholars hold the opinion, which can be confirmed with occasional elven defections, that a lack of riding spiders and unpredictable monsters cost the elves a high toll in blood.
+
+Because of this shortage, at least in the tribes that are close to the garrisons of the Empire, deforestation seems to go on almost undisturbed.
+Trade and prostitution are also present in the logging areas with elves and humans.
+Ballistae and scorpions have been sold to the elves several times.
+
+The scholar "Alberta of Storm Cape" provides an impressive description here:
+
+*You know, when I was able to visit the tribe of Matriarch Oläludi as an envoy, I noticed a surprising number of fortifications, walls, sharpened wooden sticks, taut ropes and thorn thickets. It did seem like an elf settlement from the books, only as spiky as a hedgehog. The huge ironwood trees, which were artfully "grown around" to form sleeping quarters or camps, were clearly ingenious elf gardening, but the settlement looked like a foreign body in the forest
+
+*Even the elves themselves felt that they had incurred the wrath of the forest for not protecting it from humans.*
+
+*Despite the hospitality that was shown to me and my bodyguard, the tense situation in which elves found themselves was noticeable. Although I wasn't sure at first if this was due to our presence or fear of the forest, it had little of the typical "at one with the forest" feeling found among other elven tribes
+
+*During the night, we were forbidden to leave the camp, which we were not planning to do anyway
+
+*However, the night was anything but quiet. Screams as if they came from the depths of damnation itself were heard again and again. Elves, despite their night vision had brightly lit the camp with several torches and guards sat in iron armor around fires to warm themselves. Some boys startled at every other cry. Older guards gazed apathetically into the fire as if it were a normal spring night. It was disturbing. Screams coming from monsters or attacked mutated animals would take the breath away of any townsman in the empire, but the children's screams from outside the camp were the most horrifying. It was like slowly burning a child alive in a hot pan
+
+*The next morning, we pressed on through the forest as hurriedly as possible. Unless the emperor himself orders it, I will never return to this forest. This place is unholy
+
+*Alberta of Storm Cape from "Chronicles of an Elven Scholar"
+
+## The Lost Children - Elves in Remnant Forests
+
+Humans in the Rahkari Empire, the Empire, and Eldria were rarely kind to elves.
+Deforestations became more frequent and were carried out over larger patches of land.
+The splitting up of forest areas and the increasing dominance of humans in the areas separating the elves from one another meant that elven tribes were increasingly forced into isolation, and the size and number of forests untouched by human hands was drastically reduced.
+
+While it is still the goal in many separated elven tribes to visit Deus Arboris, your sacred plateau mountain, and Säritaä, the sacred tree, or to bury the pathway leaders there, this is not always possible.
+The paths that have existed for centuries have been devastated, and those whose sense of direction is well enough developed to find their way there even without paths ultimately put their own lives, which would be significantly threatened if they wandered through the areas taken over by humans, above visiting cultural goods.
+
+Alternatives among the Wood Elves outside Silva Nacia are gatherings, usually around the largest or most beautiful tree in the forest, which is often one of the tall and gnarled Varitans trees.
+However, the slightly different gray spiders, which are often somewhat weaker than those from Silva-Nacia, continue to be an integral part of Wood Elf culture.
+
+Also, due to their proximity to humans, a rough tone prevails, but direct confrontations between elves and humans that would require the intervention of larger forces of humans rarely occur, due in part to the fact that the elven people are severely lacking in strength due to their devastating situation.
+
+Conversely, however, the pace of deforestation has also slowed somewhat, which probably contributes to a slight easing of the situation.
+
+However, this should not obscure the fact that the simpler spirits of both sides usually do not truly trust each other due to negative experiences.
+
+## Relationship to the other races
+
+#### Wood Elves
+
+The Wood Elves have a history of eternal feuds with man-eating Orcs, but for some unknown reason, the hatred between Elves and Orcs has subsided.
+
+Wood Elves generally do not have special relationships with Dwarves, Rahkari, Halflings, Animali, and Goblins, which quickly creates cooperation, as long as it ideally harms humans or at least does no good.
+
+On the other hand, there is a deep mistrust, sometimes even blind hatred, towards the humans from Eldria or the Empire, especially in the fragmented forest areas.
+Relationships with each other consist in most cases of economic coercion.
+Something like friendships will probably not develop here, but a halfway peaceful life as neighbors will develop when no more nightly raids on the villages surrounding the forest are carried out by the elves.
+
+Wood Elves have no official relations with other races, mostly due to the lack of representative institutions.
+This means that one can find in vain official representatives such as elves of the status of envoys or upholders of human cities among the wood elves.
+Consequently, a Waldelf jurisdiction or a simple negotiation with Waldelfen concerns is extremely difficult.
+This inevitably leads to complications on larger levels.
+In this respect, the relationship between Wood Elves and villages or towns is usually shaped locally.
+That is, it often depends on the local village leaders, nobles, or military commanders as to how the relationship with the Wood Elves is.
+
+#### Town Elves
+
+On the city elf side, there are also no official "city elf-specific" priests, military commanders, or guilds.
+Since the uprooted city elves have had to assimilate into new societies, and no inferior position is given by the official side, both by the Rahkari, the Eldrian princes, and the Empire, the city elves' desire for representation is thus shot down.
+The resentment of this economic and social inferiority without being officially heard usually leads to a subliminal hatred of the city elves towards the humans.
+
+This does not change the regular, socially conditioned discrimination against city elves and the fact that they can hardly lift a finger without immediately being suspected of some unjustified crime, especially in the more upscale quarters.
+
+Accordingly, people among the city elves are generally considered arrogant, fussy, and condescending.
+
+> "What immoral times are we living in that the elven scum are suddenly allowed to own their own neighborhood? I thought the goal was to imprison them all ? I can forget about the hope of not having to worry about my wife and money being stolen by these thieves. In the cells with these bandits, you can't trust them. The dungeon would even save them from starvation and gang wars. Above all, they wouldn't spoil our walk to the market with their stench."
+>
+> --- Noble Varus Rex Hedrius in Agiontum
+
+Towards the other races, city elves usually behave more neutrally, respectively
+are usually a bit more suspicious in dealing with other races.
+Orcs are accused of not being clean enough, dwarves of being greedy, halflings of not taking them seriously or goblins of being better animals anyway.
+
+Accordingly, no particular sentiment of the city elves towards these groups can be filtered out and there is also no clue for readers of these writings, which want to show a respectable behavior towards city elves.
+
+To summarize the differences between the city elves and the wood elves, the following can be said:
+
+The destruction of the original habitats of the current city elves, enslavement, and the elimination of the "idealists" in the wake of the Uprooting events has probably simply made these city elves more pragmatic and hardened.
+Morals, values, or blind hatred are for people who don't have one foot in the dungeon or the grave.
+
+## Places
+
+### Deus Arboris
+
+Deus Arboris is the sacred plateau mountain of the Wood Elves of Silva Nacia.
+The ascent is via the sacred tree Säritaä, which can certainly be considered arduous.
+On the plateau mountain itself new matriarchs of Silva Nacia are elected, or matters of the Silva Nacia defense alliance are discussed and decided.
+The mountain itself is made of hard limestone with special red-black-brown layers and can only be climbed with great effort by experienced mountaineers.
+On the Plateuberg there are some houses, untypical for wood elves, half carved into the rock, which do not have a regular residential function.
+Sleeping places are freely chosen and food is procured from the lower lying Silva Nacia area.
+
+A gray obelisk made of a very solid rock represents the meeting place where important speeches are held.
+
+The plateau mountain allows an overview of almost the entire Silva Nacia forest, provided the air is clear.
+
+### Sildrem Ird
+
+The loosely connected elven tribes in Silva Nacia, which are located east of the road connecting Calvert and Agiontum, have, uncharacteristically for wood elves, no strict separation of residential areas.
+The individual living and storage areas, which in and of themselves are not close together, seem somewhat atypical as a result, and the entire area called "Sildrem Ird" resembles a huge village of elves that seems to have no center.
+
+The settlement is flanked in the northern part by the swamps with the river "Freiwasser" in front of it and in the south by a cliff about 15 meters high.
+
+Sildrem Ird is usually the place where most of the trade with other races takes place, which is made possible by the connecting road that lies between Agiontum and the Principality of Calvert.
+
+### Cave of Connection
+
+According to elves, this cave in the middle of Silva Nacia's forest is visited if elves have problems with their Grawä spiders.
+The myth says that the cave allows to talk with his spiders, or to read their minds.
+
+The origin of the Cave of Connection, according to ancient lore, was in a breeding ground of the still barely domesticated Grawä spiders.
+Several families of spiders repeatedly laid egg clutches there and hunted prey in the surrounding area from this "home cave."
+The wood elves themselves used the breeding grounds as a reliable source of fresh life force for their own bred spiders.
+The background was that, as with breeding cows, all sorts of afflictions crept in.
+
+Over the generations, the spiders of the Cave of Connection became accustomed to the presence of elves and the "connection" phase began for the elves.
+Elves could live here in "harmony" even with wild gray spiders.
+
+Due to an unexplained cause, varying according to tribal tales of orcs, goblins or humans, or triggered by the trembling of the earth, most of the lower sections of the cave collapsed, burying the oldest and largest spiders.
+This event also caused the collapsed rocks to partially displace the underground flow of the cave, causing it to occasionally be forced to the surface, where it took on a purple color due to amethysts that repeatedly washed up.
+
+Elves, meanwhile, come continuously to this cave, where nowadays there are significantly fewer spiders and amethysts.
+According to the elves, drinking the water with an amethyst from the cave river enables them to communicate with their own riding spiders.
+
+## Legends of the elves
+
+### Üräid the Wise
+
+Üräid the Wise was a matriarch of a particularly old age, endowed with the vitality of a young elf.
+She found her connection with Golmiäd, a grave spider, which, according to the elves, spanned a distance of 100 men with its legs and was a monster beyond compare.
+
+The spider and her matriarch Üräid went to battle against greedy dwarves in Wandia, as they were destroying the forest too much to gain building material for their city.
+A huge battle ensued, which, however, without a unified chain of events, must have taken place between 1150 and 750 before Riga.
+
+According to the elves Üräid was victorious.
+However, this view is less common outside Silva Nacia.
+There the opinion prevails that Üräid was killed along with her spider.\
+
+### Päliuüd Guardian of the Heavenly Peaks
+
+Päliuüd was the envoy of the head of the matriarch Üräid the Wise around 970 b. Riga.
+He was commissioned by her to "green the mountains and bring the blossom of life to these inhospitable worlds."
+
+He set out from the eastern slopes of the Himmelspitzen Mountains with a party of some 4000 elves to put into practice the research and writings he had accumulated over decades on cold-resistant evergreen trees and seedlings.
+
+He achieved his first successes shortly thereafter and his "tribe" was able to make an excellent living in the first valleys of the Himmelspitzen Mountains.
+Supposedly, the unity of the 4000 elves was so strong that the unspeakable cold that killed most living creatures could not harm them.
+A few decades later, when the first young Grave Elves from the Path of the Paw hatched and the Upright from the Path of the Wood transformed the first trees into permanent living and storage spaces, the tribe wanted to be formally recognized as a sub-member of the Tribe of Uraeid.
+
+However, the trail was lost shortly after this claim of Paliuüd's tribe.
+Elves say that Uraeid did not tolerate a split, because they could only exist united and therefore there was never an official recognition of their affiliation.
+Orcs reported a few years later about elves in the mountains and how best to prepare them, but only a short time later there is no evidence of their existence.
+Legends say that shortly after that, all that was left of the elves was sand.
+
+Uprights of the Claw and the Head set out again every few decades in search of Päliuüd's settlement and erected a statue in his honor, overlooking Silva Nacia and Wandia, to watch over his own forever with mind and heart.
+However, neither adapted seeds, nor spider eggs or their shells could ever be found, which would speak for a dubious disappearance without a trace.\
+
+For elves, this story means that unity and service under the matriarch is sacred and a tribe should never split.
+The statue of Päliuüd serves as a reminder to respect this, otherwise you will be swallowed up by the earth.
+
+### Fägriaäs seed and thorn
+
+The sacred tree Säritaä of the elves is barren, much to the elves' chagrin.
+All possible attempts have been made to grow another sapling of this tree.
+The envoy of the wood Fägriaä claimed that the cosmic rays prevent the growth of seedlings and that such a forest can only be created on the other side of the world with a seed Särtiaäs.
+
+Fägriaä then migrated to the end of the world with a small group of elves.
+However, in the course of the journey, the problem crystallized that no one really knew where the end of the world was.
+To get to the bottom of this question, Fägiraäs tried to extract information from human scholars by brute force and struck them all down with her weapon - "Fägriaäs Thorn".
+It was a bow made from the wood of the Säritaä tree, which was said to have miraculous properties.
+Scholars who were forced to cooperate led the "mad elf" into the Rahkari desert, further and further south, where her trail was eventually lost.
+
+It grows, as handed down among the elves, since time immemorial the forest from the end of the world unceasingly in the direction of the mother tree in the Silva Nacia.
+Rahkari scholars, however, consider this story nonsense and actively discourage explorers from exploring the desert south, saying:
+
+*"Too many dead we could not bring back to our mountain, we will not send more victims to the desert. Life is too precious, be it elves or ours "*
+
+Since then, elves have been arguing whether, where and how to spread Saritaä's seeds and what the end of the world means.

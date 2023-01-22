@@ -1,0 +1,75 @@
+book_filename: "Orbis Astea"
+language:
+  ui:
+    chapter_name: "Kapitel "
+rmd_files: ["index.Rmd",
+  "001Allgemeines.Rmd",
+
+  "002Rassen.Rmd",
+  "003Menschen.Rmd",
+  "004Elfen.Rmd",
+  "005Orks.Rmd",
+  "006Goblins.Rmd",
+  "007Animali.Rmd",
+  "008Zwerge.Rmd",
+  "009Halblinge.Rmd",
+  "010Mischlinge.Rmd",
+
+  "012Fraktionen.Rmd",
+  "104Kaiserreich.Rmd",
+  "105Eldria.Rmd",
+  "106RahKari.Rmd",
+  "107Silva-Nacia.Rmd",
+  "108Grimgrod.Rmd",
+  "109Piraten.Rmd",
+  "109Vulkanzwerge.Rmd",
+  "109YA1Wirtschaft.Rmd",
+
+  "114Regionen.Rmd",
+  "120Eisland.Rmd",
+  "120SkaenRegion.Rmd",
+  "121Herzland.Rmd",
+  "122Nors.Rmd",
+  "123YondallaRegion.Rmd",
+  "124Grenzland.Rmd",
+  "125Oberreik.Rmd",
+  "126BrennendenLander.Rmd",
+  "127Naphtanium.Rmd",
+  "130EldriaRegion.Rmd",
+  "132Vandia.Rmd",
+  "135RegionSilvaNacia.Rmd",
+  "140Himmelsspitzen.Rmd",
+  "141Nebelhain.Rmd",
+  "142BermaTal.Rmd",
+  "150Appothis.Rmd",
+  "151EidRahKari.Rmd",
+  "152EisenroteWueste.Rmd",
+  "153GraueOednis.Rmd",
+  "154EndederWelt.Rmd",
+
+  "109Z1Religion.Rmd",
+  "109Z2Allgott.Rmd",
+  "109Z3RahKas.Rmd",
+  "109Z4Darcy.Rmd",
+  "109Z5Blutkult.Rmd",
+  "109Z6ReligionAnimali.Rmd",
+
+  "110Anderes.Rmd",
+  "111Tiere.Rmd",
+  "112Monster.Rmd",
+  "112aErwachte.Rmd",
+  "113Drogen.Rmd",
+
+  "190Vorlaufer.Rmd",
+
+  "200CharCreation.Rmd",
+  "220Regeln.Rmd",
+  "221BesondereRegeln.Rmd",
+  "222Items.Rmd",
+  "223Dienstleistungen.Rmd",
+  "230DMStuff.Rmd",
+  "231DMProgramm.Rmd",
+  "400Autoren.Rmd",
+  "800Impressum.Rmd"
+    ]
+output_dir: "docs"

@@ -1,0 +1,97 @@
+# Yondalla
+
+> "Schmeiß die Samen irgendwo hin, es wächst einfach. du brauchst absolut nichts zu tun. Kein Schimmel holt die Ernte, die blätter sind weder gelb noch sonstigen. Der größte Narr könnte hier ein erfolgreicher Bauer sein."
+>
+> Fendrich Gregor - ehemaliger eldrischer Ritter und Reisender
+
+Yondalla wird geographisch von den Gebieten des Kaiserreiches und den Nachtbergen begrenzt.
+
+Das Kaisereich grenzt durch die Region "Grenzland" und "Herzland" an. Yondalla, mit der Hauptstadt Yonda zählt zu den am dicht besiedelesten Länderein überhaupt und übertrifft sogar Eldrische Verhältnisse in diesen Belangen.
+
+Die zahlreichen Flüsse welche aus der Nachtberge Gebirgskette entspringen, schwemmen wertvolle Nährstoffe in die Böden von Yondalla. Dadurch erreicht Yondalla einen deutlichen Nahrungsüberschuss, welcher durch das Protektorat des Kaiserreiches nun auch nicht mehr Banditen oder den zahllosen Überfällen von Goblinstämmen in die Hände fällt.
+
+![Karte von Yondalla - illustriert von Proximus Erian](Pictures/Maps/Yondalla.jpg "Karte von Yondalla - illustriert von Proximus Erian")
+
+Die Bevölkerung Yondallas besteht, neben der Abwesenheits von Orks, aus Halblingen und Menschen. Die Bevölkerung Yondallas lebt in einer Verhältnismäßig freien Gesellschaft. Dadurch kommen unterschiedliche Religionen zusammen und ein gewisser Schmelztigel der Bräuche kann dadurch im Tal der Nachtberge beobachtet werden.
+
+Wirtschaftlich, durch die sehr fruchtbaren Ländern, gut ausgestattet, fehlt es hingegen an höheren Verarbeitendenden Gewerben, welche sich mit den gewieften Geschäftsleuten und Handwerkern des Kaiserreichs erst langsam etablieren. Derweil besteht die Rolle der befriedeten Region als Nahrungsmittel und Alchemiezutatenlieferant. Weitaus weniger bedeutend ist die Erzgewinnung. Seltenere Metalle wie Gold und Silber werden zwar vielfach vermutet, jedoch war es Aufgrund der Widrigkeiten der Nachtberge bis jetzt nicht möglich diese Schätze zu heben. Goblins, harsche Winter und Überschwemmungen der Stollen sind, neben reizbaren Schratgärtnern herausforderungen welche private Unternehmer nur ungern auf sich nehmen, zumal ein eklatanter Mangel an brauchbaren und Gebirgsgängigen Söldnern vorherrscht.
+
+Das Kaiserreich versprach jedoch vor einigen Jahren die Nachtberge vernünftig zu erkunden und Bergwerke zu etablieren, jedoch kam es bis jetzt 426 n. R. zu keinen relevanten Vorhaben.
+
+## Ortschaften der Region
+
+### Yonda
+
+Die Hauptstadt Yondallas stellt Yonda dar. Errichtet auf dem "Fels des Titanen" , eine große, rund 30 Meter hohes Felsplateau aus Granit durch das sich der "Nachtfluss", ein Zubringer des Reik Flusses gegraben hat, bietet es Schutz vor den Überschwemmungen im Frühling, einen sicheren Rückzugsort vor Goblins, welche kaum durch das Granit Stollen schlagen können, sowie auch Schutz vor den jagenden Orkstämmen, welche bis vor wenigen Jahrzehnten noch reale Schauergeschichten für die Halblinge Yondallas darstellten. Yonda selbst hat eine blühende Gesellschaft an Nahrungsverarbeitenden Gewerben, sowie eine ideale Transportmöglichkeit zu Schiff Richtung Civis Primae.
+
+Seit der Besetzung durch das Kaiserreichs, welche von der Bevölkerung im allgemeinen als "tolerierbar" bezeichnet wird, ist die Sicherhiet vor Orks, zumindest in den größeren Siedlungen der Halblinge gegeben.
+
+Einwohner: 660.000
+
+### Alla
+
+Die Zweitgrößte Stadt Yondalla's und Ursache für den zweiten teil der Namensgebung der Region liegt die Stadt Alla weitaus näher an den Nachtbergen und stellt so wie Yonda sehr viele Nahrungsmittel bereit welche über den Illond, der zweitgrößte Zubringer der Reik, per Schiff nach Civis Primae transportiert werden können. Besonders Zeichnet sich Alla durch Verhältnismäßig vielen Stationierten Legionären, so wie einer militärisch organisierten und ausgebildeten Truppe an Halblingen aus. Die von den Legionären veräppelte "Kindertruppe " konnte durch gezielte Aktionen zumindest ihren Reichtum gegenüber hungrigen Orks und hinterlistigen Goblins lange Verteidigen, was in einer "militarisierten" Stadt mündete.
+
+Gewerbe bilden die Armbrusterein und die Bogenwerke sowie wirtschaftlich am relevantesten die Nahrungsgewerbe, sowie wie den "Besten Konditoren und Bäckern der Welt". Ich selbst vermag dies zu bestätigen, nichts geht über einen Nachtstollen nud frischer Sahne mit Blick auf die Hänge der Nachtberge an einem klaren Sommerabend
+
+Einwohner: 450.000
+
+### Ollian:
+
+Die Stadt an der Grenze zum Herzland des Kaiserreiches betreibt historisch schon lange mit Menschen handel und verkauft, mit Gewinn, Nahrungsmittel welche über die sich vereinigenden Flüsse Odrian, Ovian und Obuskus in Ollian einfinden.
+
+Neben einer kleinen aber gut ausgebildetendten Steinmetz und Schiffsbauer Zunft, besticht Ollian durch drei wie "Der Dreck auf meinen Stiefeln nach der Feldarbeit" charismatischen Zwergenfamilien, welche die Geschicke der Stadt lenken.
+
+Marmorbergbau stellt die, neben den typischen alchemistischen und Verzehrbaren Gütern eine weitere Säule dar und wird, aufgrund der Prunksucht in Civis Primae seit der Besetzung massiv ausgebaut, zum Leidwesen der für derartige Arbeit ungeeigneten Halblinge.
+
+Einwohner: 110.000
+
+### Infrastruktur
+
+Yondalla ist durch die Flüsse aus den Nachtbergen geprägt. Diese bilden ideale Wege für den raschen Transport von Nahrungsmitteln. Die Wege sind für gewöhnlich weniger sicher als die flüsse sind jedoch zumindest auf den relevanten Städten mit Marktkarren und Doppelpferdekutschen befahrbar.
+
+Fährern bilden die historische Flussüberquerungsmethode, werden jedoch nach und nach, durch Maßnahmen des Kaiserreiches durch Brücken ersetzt.
+
+## Die Geschichte der Region
+
+Es ist nicht genau bekannt wie lange Yondalla bereits besiedelt ist. Geschichten reichen bereits zahlreiche Jahrhunderte zurück und kommen womöglich den Rah-Kari nahe.
+
+Landwirtschaft hat sich bereits früh etabliert. Mildes Klima, trockenere Sommer, gute Böden ermöglichten die Körperlich schwachen Halblingen sich in allerlei Landbau zu spezialisieren.
+
+![Weizenfelder in Yondalla - Gemälde von Rumpen von Alla](Pictures/Midjourney%20Bilder/Yondalla/Ripe%20wheatfield,%20green%20trees%20on%20the%20sides,%20a%20setting%20sun%20behind%2030%20kilometers%20away%20very%20high,%20darkgrey%20mountains%20in%20summer,%20realistic,%20painting.png)
+
+Konflikte gab es früher mit Orks, welche Halblinge gern verspeisten, sowie mit den ansäßigen Goblinstämmen welche Chaos über die Länderein brachten während die Speicher und felder geplündert wurden.
+
+Militärisch konnte sich Yondalla nie behaupten und erst Kooperationen mit dem Kaiserreich ermöglichten eine etwas friedlichere Zeit und die Zurückdrängung der Goblin und Orkstämme. Seit der Annexion durch das Kaiserreich, offiziell als Protektorat dargestellt, haben sich die wirtschaftlichen Bedingungen verbessert und werden dadurch von dem guten Tei lder Bevölkerung toleriert.
+
+Unabhängigkeitsbewegungen gibt es dadurch nur in den ärmeren Regionen entlang dem Fluss Perla und Vohra.
+
+## Wirtschaftliche Lage
+
+Yondalla ist wirtschaftlich äußert gut aufgestellt und die letzte Hungersnot liegt über 340 Jahre zurück - man bedenke- trotz der Überfälle von Goblins und dem Schrecken der Orks.
+
+Handwerklich zwar weniger begabt als die Zünfte des Kaiserreichs, oder die geschickten hände der Elfen, profitiert Yondalla von dem Austausch mit dem Kaiserreich.
+
+Primär werden Nahrungsmittel in unterschiedlichsten Formen exportiert. Erzabbau deckt bei weitem nicht die eigenen Bedürfnisse. Entwaldung der letzten Jahrhunderte lässt langsam die Holzpreise steigen.
+
+Export alchemistischer Güter war inbesondere in Kriegszeiten des Kaisereichs äußerst lukrativ. In Friedenszeiten ist es ein brauchbarer Nebenverdienst für die Yondallschen Bauern.
+
+### Die Ressourcen der Region
+
+## Soziopolitische Lage
+
+### Herrschaftsystem/Organisation
+
+## Klimatische Bedingungen
+
+Gemäßigt mit trockenen Sommern. Frühling und Schneeschmelze bringen zuverlässige Überflutungen und Nährstoffe.
+
+### Die Flora und Fauna
+
+#### Monster in der Region
+
+Schratgärtner, Erwachte, Werwölfe, Fleischsauger in den nördlichsten Regionen.
+
+## Gerüchte der Region
+
+## Sehenswürdigkeiten

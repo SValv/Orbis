@@ -1,0 +1,514 @@
+---
+editor_options:
+  markdown:
+    wrap: sentence
+---
+
+# Animals and other fauna
+
+The exciting thing about animals is that they can be used as [mount](#ride) depending on the size of a race. This mainly refers to the fact that small races, like halflings or goblins can already ride medium sized animals, while all other races can only ride large animals.
+An overview of the classification of animals into small, medium and large can be found in the following overview of the animal world of Orbis.
+
+## Land
+
+Land animals include all creatures that spend most of their lives on land.
+We divide them into large, small and medium animals.
+
+### Small
+
+Starting with the small land animals.
+These have the advantage of being harder to hit, but also usually have much less health than larger animals.
+
+#### Chicken {.unnumbered}
+
+![A chicken as it is known from every village](Pictures\\Flavor\Animals\Chicken_Pixabay.jpg)
+
+The chicken is considered the most common pet in Orbis.
+This is not only because they reproduce quickly, but is also related to the fact that they are very useful in everyday life.
+They provide feathers for processing and are extremely good to eat.
+Some people think they are stupid, but chickens just have very bad eyesight.
+
+```{r}
+getTierTable("chicken")
+```
+
+#### cat {.unnumbered}
+
+![A cat as it is represented at least four times in every village](Pictures\\Flavor\Animals\Cat_Pixabay.png)
+
+
+Often described as light-footed and selfish, cats are nevertheless very good hunters, which can be especially helpful in rat-rich environments.
+They are very particular and don't let their "owners" tell them much.
+For this, however, they are excellent when it comes to sneaking up on you.
+Unlike other animals, cats are only eaten in times of famine, or when there is an overpopulation.
+
+```{r}
+getTierTable("cat")
+```
+
+#### rat {.unnumbered}
+
+![a rat as known from the gutter](Pictures\\\\Flavor\\\\animals\\\\Rat_Pixabay.png)
+
+Rats are commonly known as disease carriers because they usually live in poor, filthy neighborhoods.
+They provide little meat and are often matted and filthy.
+However, the intelligence of these animals is usually underestimated.
+Especially due to their small size, they can also gain access to buildings through small loopholes.
+Myths tell of a crazy man who bred himself many rats and used them as a kind of bio-weapon.
+However, the details never reached the masses.
+
+```{r}
+getTierTable("rat")
+```
+
+#### snake {.unnumbered}
+
+![A snake like everybody has probably seen once](Pictures\\Flavor\Animals\Snake_Pixabay.png)
+
+
+The contact with snakes is rather rare. Everyone may have seen one, but they are less often kept as pets. Overall, it is necessary to distinguish between poisonous and non-poisonous snakes.
+
+Venomous snakes are more likely to go into an attack posture once.
+![A snake getting ready to attack](Pictures\\Flavor\Tiere\Snake_Pixabay3.png)
+
+
+If you find a venomous specimen, it may well be worth trying to tap the venom - but this requires good [AnimalHandling](#AnimalHandling) on the day.
+
+```{r}
+getTierTable("snake")
+```
+
+### Medium
+
+Medium animals include everything that is neither really small nor big.
+This is where most of the discussion arises and also where they can differ between the different regions of Orbis.
+Halflings have a particularly hard time with this, as they can only distinguish between small and large.
+However, most people agree on the point, medium and large animals are very helpful in agriculture, as well as food production.
+
+#### Monkey {.unnumbered}
+
+!(Pictures\\\\Flavor\\\\animals\\\\monkey_Pixabay.png)
+
+Monkeys are a very special species.
+So close to humans, yet they differ in many ways due to their backwardness.
+Nevertheless, they can be used in many ways.
+Due to their rarity, they attract a lot of attention - owners should be aware of this effect and potentially use it profitably.
+
+```{r}
+getTierTable("monkey")
+```
+
+#### dog {.unnumbered}
+
+![Drawing of the dog of a nobleman who cherished his faithful companion for many years](Pictures\\\\Flavor\\\\Animals\\\\Dog_Pixabay.png)
+
+
+Dogs are the faithful souls of this world.
+They are easy to convince to join and would sacrifice their lives for the person who cares for them.
+They are useful in tracking animals and other creatures, due to their fine nose, but also make good guards.
+Dogs need a lot of exercise and therefore should be taken on adventures.
+Of course, this is only possible if they are well trained.
+
+```{r}
+getTierTable("dog")
+```
+
+#### boar {.unnumbered}
+
+![A picture of a wild boar from a textbook about the animals of a forest.](Pictures\\\\Flavor\\\\Animals\\\\WildPig_Pixabay.png)
+
+
+Wild boars represent a tasty food. They are very territorial and aggressive.
+Especially at the time of the freshets, so when they just throw more babies, they are particularly sensitive and prone to preemptive attacks. Thereby they quickly change into a bloodthirsty fighting mode, in which they would attack everything to protect their little ones. However, this behavior is primarily related to males.
+To avoid this is a heart recommendation.
+
+```{r}
+getTierTable("boar")
+```
+
+#### sheep {.unnumbered}
+
+Sheep provide valuable materials, such as wool, especially for winter.
+Also the milk can be drunk and further processed.
+They are herd animals and accordingly try extra effort and require space.
+A herding dog can be an advantage here.
+
+```{r}
+getTierTable("sheep")
+```
+
+#### wolf {.unnumbered}
+
+![Image of a bad wolf described to the children of a village to keep them out of the woods [^RaphtorBone1]](Pictures\\Flavor\Animal\epicyon___bone_crusher_by_raphtor.jpg)
+
+
+Wolves are known as evil animals. Yet they are also just a wild version of the dog.
+They are shy and avoid most other creatures unless they are hunting.
+They are also very good at sneaking, as they track most of their victims first and then hunt them down in a chase.
+
+```{r}
+getTierTable("wolf")
+```
+
+#### Strong Wolf {.unnumbered}
+
+A strong wolf is the pack leader who has the say.
+He is characterized by the fact that he can defend the pack against enemies.
+
+```{r}
+getTierTable("Strong Wolf")
+```
+
+### Large
+
+Large animals are characterized by the fact that they are significantly stronger and usually more valuable.
+This is because they are also more difficult to tame or obtain in most cases.
+Large animals are very expensive to maintain and are therefore usually only available to the wealthy, thieves, or successful tamers.
+
+
+#### Donkey {.unnumbered}
+
+![The donkey, the faithful workhorse.](Pictures\\Flavor\Tiere\Esel_Pixabay.png)
+
+
+In most cases, the reputation of the stubborn donkey does not do justice to these peaceful creatures.
+They are incredibly useful when it comes to transporting agricultural goods or trade goods.
+They can also be used as [mounts](#riding).
+This is especially common in poorer regions where horses are simply too expensive to maintain.
+
+```{r}
+getTierTable("donkey")
+```
+
+
+#### horse {.unnumbered}
+
+Horses are versatile and have great value as they increase mobility beyond compare.
+Not only are they great for transportation, but they also take combat to a whole new level.
+They are quite expensive to maintain, are prone to being stolen, and in fact are also very prone to becoming useless if they get injured.
+Horses need regular exercise and training.
+
+![Horses and donkeys get along quite well.](Pictures\\Flavor\Animals\HorseDonkey_Pixabay.jpg)
+
+
+```{r}
+getTierTable("horse")
+```
+
+#### Rah' Kari horse {.unnumbered}
+
+Rah Kari horses are the nobles among horses.
+Born in better conditions, they are worth more, but receive better care and education in return.
+Their bloodline has been bred to be far superior to most other horses.
+Owning one of these horses is a luxury, and outside the realm of the Rah Kari only occurs for those who can afford it and protect that property.
+
+```{r}
+getTierTable("RahKariHorse")
+```
+
+#### cow {.unnumbered}
+
+![The soft face of a dairy cow.](Pictures\\Flavor\Animals\Cow_Pixabay.png)
+
+
+Cows are an absolute necessity for every farmer.
+They provide food and materials, produce fertilizer and are not very costly to keep.
+Of course, these animals eat quite a lot, but it is quite enough to give them a run in the pasture.
+Cows can be very stubborn and if they don't want something, it will be hard to move them.
+However, if you take good care of them, they will defend their territory against other intruders.
+At the same time, these sluggish hoofed animals should not be underestimated.
+With their horns they can cause deadly damage.
+
+```{r}
+getTierTable("cow")
+```
+
+#### brownbear {.unnumbered}
+
+![Drawing of a brown bear as found in children's books](Pictures\\Flavor\Animals\BrownBear_Pixabay.png)
+
+
+The brown bear is one of the kings of a typical forest.
+Due to its mass and aggressive defensive style, most creatures avoid it.
+For an unprepared encounter with a bear, there are several behavioral recommendations.
+Some seem realistic, others more like they are part of a dare.
+These include staying calm and walking away slowly.
+If the bear follows, one should lie face down on the ground and curl up.
+If one pretends to be dead, the bear should lose interest.
+More offensive would be to run toward the bear screaming and making lots of loud noises.
+Also, putting other people on your shoulders to appear bigger is recommended in some regions.
+
+```{r}
+getTierTable("brown bear")
+```
+
+#### ox {.unnumbered}
+
+Oxen are usually calm and tired animals, as they are used as labor in agriculture.
+Their meat is usually very tender and tasty, as they are castrated early.
+
+```{r}
+getTierTable("Ox")
+```
+
+#### Tiger {.unnumbered}
+
+![A detailed drawing of a tiger. Few people have seen a real tiger, however](Pictures\\Flavor\Animals\Tiger_Pixabay.png)
+
+
+Tigers are the largest cats in the world.
+Unlike the small domestic cats, however, they do not meow, but purr and roar.
+Tigers are solitary animals and roam the forests mostly at night in their search for prey.
+They hunt pretty much everything and that both on land and in the water, because tigers are excellent swimmers.
+Mostly they avoid humans and other humanoid races.
+If they meet nevertheless on each other, then this can go out quite fatally for the victim of the tiger.
+
+```{r}
+getTierTable("tiger")
+```
+
+#### rhino {.unnumbered}
+
+The vast majority of people will never see one of these gray pachyderms in the course of their lives, even though they are the second largest land mammal next to the elephant.
+Rhinos are vegetarians and therefore not out to hunt other creatures.
+Actually they are also quite shy, but if you come too close to a rhino and it feels threatened, not even a prayer to the Allgod can save you.
+Because then attack up to 3.5 tons of pure defensive force.
+And with these pointed nose horns one would hardly like to come in contact.
+The motto is therefore: Stay calm and move away slowly.
+
+```{r}
+getTierTable("rhino")
+```
+
+#### elephant {.unnumbered}
+
+![A cuddle party of little baby elephants.](Pictures\\Flavor\Animals\Elephant_Babies_Pixabay.png)
+
+
+Elephants belong to the constructs among animals.
+They are not only the largest land mammal, but also one of the strongest.
+However, the difference between them and machines lies in their social orientation.
+Elephants are herd animals, but males also roam alone, except during the mating season.
+The females move in a fixed reference group.
+Because of their size and strength, however, they are often used as mounts in combat.
+What makes elephants special, however, is their excellent memory.
+They remember who belongs to their herd, but even after years they can still remember troublemakers or people who have done something to them.
+With an elephant, therefore, you should not mess with it.
+
+```{r}
+getTierTable("elephant")
+```
+
+#### giraffe {.unnumbered}
+
+Giraffes are huge creatures that look like a child made them up.
+Their everlasting long neck and long legs distinguish the giraffes.
+They can run fast, like a big cat, but are busy eating most of the day.
+Their blue tongue, half a meter long, helps them get to the tasty buds that are denied to other land creatures.
+
+```{r}
+getTierTable("Giraffe")
+```
+
+#### ostrich {.unnumbered}
+
+![The drawing of the oversized looking bird ostrich.](Pictures\\Flavor\Animals\Ostrich_Pixabay.png)
+
+
+Some may wonder why an ostrich is a land creature when it has wings and lays eggs like other birds?
+Well, he is simply too heavy with his up to 135Kg.
+However, this makes it the largest and heaviest bird in the world.
+
+Whoever meets an ostrich should not underestimate him.
+His powerful legs help him to kill other creatures with sometimes only one kick.
+
+```{r}
+getTierTable("ostrich")
+```
+
+#### riding-spider {.unnumbered}
+
+Riding spiders are every fighter's nightmare.
+Not only can they inflict severe injuries and poisoning with their venomous scissors, but they also always have an arm or
+a leg at their disposal to deliver a blow.
+In addition, their spider web can change the battle scene by allowing them to move above it in trees.
+
+```{r}
+#getTierTable("Riding Spider")
+```
+
+## air
+
+They are often called the "kings of the air".
+Living creatures that can move freely like a bird.
+Again, different creatures differ in size.
+
+### Small
+
+The small creatures of everyday life.
+Their song enriches the atmosphere and their dirt is said to be an oracle of luck.
+
+#### Hawk {.unnumbered}
+
+The hawk is a special bird.
+Not only because its respiratory and circulatory systems are better than those of humans.
+Moreover, it drinks only irregularly, because it covers its needed liquid by its prey.
+Now and then he hunts pigeons, but they know how to defend themselves.
+
+```{r}
+getTierTable("falcon")
+```
+
+#### goose {.unnumbered}
+
+The goose is kept as farmyard livestock, which is used to produce food and utilitarian items, such as feathers.
+
+```{r}
+getTierTable("goose")
+```
+
+#### pigeon {.unnumbered}
+
+![The commonly known street pigeon.](Pictures\\Flavor\Animals\Pigeon_Pixabay.png)
+
+
+Pigeons are very useful in communication infrastrutkur.
+They are used as curriers to cover distances faster than by carriage.
+They owe their sense of direction to the magnetic fields of the Earth.
+They can travel up to 120 kilometers an hour on their messenger routes and can be specially trained for just this purpose.
+Pigeons are clever creatures that can also recognize people.
+
+```{r}
+getTierTable("pigeon")
+```
+
+#### parrot {.unnumbered}
+
+![This colorful bird with all its colors and abilities is an absolute eye-catcher](Pictures\\Flavor\Animals\Parrot_Pixabay.png)
+
+
+Parrots are smart birds that know how to help themselves by using other tools when they get stuck with their beaks.
+They are beautiful to look at and capable of reproducing sounds they hear.
+They are able to "learn" and repeat up to 100 words.
+This ability is hardly imaginable for humans, elves, dwarves, etc. and is also met with much skepticism.
+Many say the owners of the birds, they would bring with ventriloquism their birds to "speak".
+
+In any case, because of their beauty, these birds are very sought after among those few who have been able to see and experience a parrot. Therefore, in order to increase their notoriety and thus their market value, paintings of this animal also huddle.
+
+![Paintings like this one by artist Yusef Anwar are gaining popularity](Pictures\\Flavor\Animal\ParrotPainting_Pixabay.jpg)
+
+
+```{r}
+getTierTable("parrot")
+```
+
+#### raven {.unnumbered}
+
+Ravens are exceedingly intelligent and actually beautiful birds!
+They are quite creative in finding solutions and can be found almost everywhere.
+They are social creatures that also enjoy comforting each other or playing with each other.
+If a raven forms a friendship with another raven, he is less likely to steal from him.
+
+```{r}
+getTierTable("raven")
+```
+
+### Medium
+
+Medium birds are rather rare, but it still happens from time to time that they are hit.
+
+#### Phoenix {.unnumbered}
+
+*Help needed - What is a Phoenix with us?*
+
+```{r}
+getTierTable("Phoenix")
+```
+
+### Large
+
+Large majestic birds have been seen by only a few beings.
+Therefore, they are often obfuscated as parts of myths, as no credence is given to those who have seen them.
+
+#### Griffin {.unnumbered}
+
+*Help needed - What is a griffin with us?*
+
+The griffin is a chimera between a...
+
+```{r}
+getTierTable("griffin")
+```
+
+## water
+
+The underwater world is unknown to many.
+Here nevertheless a varied life takes place.
+
+### Small
+
+#### Sea snake {.unnumbered}
+
+The common sea snake gets its name from the fact that it usually ends very badly for those people who come into contact with it.
+Due to its weightlessness, it can glide undetected through the water without its victims having to notice anything.
+If this snake bites, it is too late for the victim shortly after.
+In most cases, paralysis sets in before the water can be left.
+For this reason, some of its victims drown.
+Others succumb to the poisoning.
+
+```{r}
+getTierTable("sea serpent")
+```
+
+### Medium
+
+#### octopus {.unnumbered}
+
+Octopuses are shell-less, skeleton-less creatures that make the underwater world their playground.
+Because of their soft bodies, they can slip through the tightest of gaps, allowing them to plan ingenious ambushes. The appearance of an octopus could also fit the description of a fantasy animal.
+
+The octopus has an excellent memory and is extremely clever!
+If it becomes too dangerous for it, it ejects an ink-like liquid, which not only obscures the attacker's vision, but also numbs its sense of smell.
+By the time the attacker has regained his senses, the octopus has long since fled.
+
+```{r}
+getTierTable("octopus")
+```
+
+### Large
+
+#### crocodile {.unnumbered}
+
+![A warning image for people who like to swim close to crocodile-heavy waters.](Pictures\Flavor\Animals\Alligator_Pixabay.png)
+
+
+Crocodiles seem like leisurely and sluggish animals.
+However, you should not be deceived by their mass.
+These animals are fast and dexterous.
+The sensors in their jaws can sense any movement and react accordingly.
+Almost nothing escapes the bite of a crocodile.
+Once snatched, a crocodile pulls its prey underwater, where it eventually drowns.
+
+```{r}
+getTierTable("crocodile")
+```
+
+#### walrus {.unnumbered}
+
+![A drawing of a mother walrus with her newborn.](Pictures\\Flavor\Animals\WalrusMama_Pixabay.png)
+
+Anyone who has ever watched a walrus hunt will wonder why they so often swim on their backs while doing so.
+The answer lies in their anatomy: they can't turn their eyes to see what's going on below them.
+Therefore, they turn onto their backs.
+In fact, their tusks don't play any role at all in hunting; they are simply much too large and impractical for that.
+
+```{r}
+getTierTable("walrus")
+```
+
+### Not in yet:
+
+-   Scorpion
+-   Awakened steed
+
+[^RaphtorBone1]: "Epicyon: Bone Crusher" by [Raphtor](https://www.deviantart.com/raphtor/art/Epicyon-Bone-crusher-799407634). This artwork is licensed under a Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 License.

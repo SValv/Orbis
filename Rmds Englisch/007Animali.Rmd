@@ -1,0 +1,203 @@
+---
+editor_options:
+  markdown:
+    wrap: sentence
+---
+
+# Creatura Animali {#CreaturaAnimali}
+
+## Overview of the Animali
+
+> "Through my lifetime of service to the Rasberg Trading Company, I have had both the pleasure and displeasure of seeing all manner of sights and anomalies of this world, such as the fear in the eyes of a man drawn into darkness by the Ekklesia, the raging strength of an orc executing a man, and the pure hatred and condescension emanating from the Wood Elves. Yet despite all my life experiences, nothing could have prepared me for my first encounter with the beasts we call Animali. I was completely in awe of their dominating presence and mutated bodies, yet my trembling body left me unable to respond to my newfound curiosity and dismay."
+>
+> --- Raslan Agurious on his first encounter with an Animalus
+
+![Raslan's First Encounter with the Animali](Pictures/Flavor/Placeholder/AnimaliEncounter.jpg)
+
+The Animali are a race of humanoid creatures that live at the far end of the world in the region known as Iceland.
+Despite the fact that the Empire has established trade relations with the race, little is known about the race to the public and many myths and fabricated stories circulate in the Empire.
+The few people who have had the experience of meeting the Animali face to face describe them as muscular giant creatures that tower over humans and always bring with them a certain uneasy atmosphere.
+However, despite their somewhat bloody past, the Animali prove to be a valuable trading partner for the Empire to this day, as both sides benefit from hard-to-find materials through their reputable trade.
+
+Compared to the Empire, the Animali live a relatively conservative lifestyle, preferring the life of nomads and living in tribes.
+It is believed that the Animali choose this lifestyle because the ever-changing weather and ecosystem makes certain parts of the Ice Country habitable only at certain times.
+It is also believed that their secluded and conservative nature is mainly responsible for their slow progress as a society, and that they are culturally and scientifically (if you can call it that with the Animali), decades behind the other races.
+
+![An Animalus armed for hunting [JLazarusEBGoatman]](Pictures/Flavor/Animali/by_JLazarusLB_goat.jpg)
+
+[JLazarusEBGoatman]: "Goatman" by [JLazarusEB](https://www.deviantart.com/jlazaruseb/art/Goatman-619607162).
+    This artwork is available under a Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 License.
+
+
+## The story of the Animali
+
+## Origin of the breed
+
+The Animali were an ordinary group of people on the run from someone or something long forgotten.
+They eventually fled to the remote areas of the Ice Country, where they took shelter in the cave of Khazak.
+In this cave they found texts and murals of the forerunners.
+They tried to translate, interpret and understand these texts, but they failed completely.
+As a result of their misunderstanding, a new religion formed, which led to their transformation into the creatures we see today and call Creatura Animali, or colloquial Animali.
+
+### First Contact with the Empire {#AnimaliContactWar}
+
+That other Animali tribes exist is well known, as territorial conflicts, or battles over resources often occur.
+Therefore, it is not uncommon that after a fight between two tribes, one of the tribes joins the other to prevent the extinction of one tribe.
+Thus, in the world of the Animali, there were exclusively other Animali besides the monsters and animals of the Ice Land.
+Occasionally there were stories about other creatures that did not belong to any of these groups, but, since Animali were often not the most advanced creatures, these stories were never believed.
+
+One day, a few Animali of the Treprack tribe were following the trail of a large spearman when they were caught in a heavy snowstorm.
+Since their eyes could no longer discern paths, they had to rely on other senses such as hearing and smelling.
+During their chase, they were suddenly attacked by many, presumably smaller creatures.
+What was special about this was that they seemed to be well coordinated and could talk to each other in a different language.
+Confused by this unexpected attack, the Animali did not immediately know how great the danger would be that would come from this unknown group.
+So, at the beginning, they decided to continue pursuing the large spearer, as they were sure that it would pose the greater threat to them and their tribe.
+(how can they continue to pursue the spearer during an attack?) However, due to the noise and movements, starting from the small group, the large spearer kept changing its behavior patterns, quickly approaching and moving away from the groups.
+(in battle then? - transition from pursuit to battle?) With the target firmly in sight, the Animali took advantage of every opportunity to attack the large impaler and, over time, were able to wrestle it to the ground and, with the help of the unknown creatures, defeat it without further loss.
+
+With the death of the monster, the Animali realized great losses on the part of the unknown beings.
+Were they very confused why they supported the attack on the monster and stopped the attacks on themselves.
+(Da Najare, a young fighter of the Treprack Clan, who had great interest in everything outside her world of knowledge, convinced her tribesmen that these unknown beings certainly had no evil intentions towards them.
+They disarmed the strange group to learn more about their weapons and way of life, but decided not to kill the unknown beings, who did not seem so dissimilar to them, contrary to the usual handling of the Animali.
+Their goal was now to take one of the creatures into captivity in order to learn more about them.
+Surprisingly, one of the strangers emerged more or less voluntarily from the group and went along with them.
+Over time, a sort of rudimentary communication developed between the two peoples.
+Najare, in all her curiosity, realized that the prisoner could be a chance for her to leave her tribe and learn more about the world outside her living environment, as her big sister had done before.
+The rest of the Treprack clan countered this interest with rejection and resentment towards the prisoner.
+Thus, he would bring disaster upon the clan and want to destroy it in all malice.
+
+After learning all she could communicate from the prisoner, Najare decided to release him and arrange a repeated meeting with him.
+She could not give up her desire to learn more about these beings.
+So they agreed on a meeting that would take place 3 moons later at the place of the battle.
+
+### The Great Hunt for the World Worm
+
+> "So you want to know who was the greatest monster slayer in our history? Sadly I i have not acquired that knowledge yet, however I am able to tell you about the greatest monster hunt of our age that had an everlasting effect on our world.
+>
+> Jakob Lasmisimus - telling tales to partreons of the Thirsty Tankard Inn
+
+![Painting of the Worldworm by Rufus Vingilius](Pictures/Flavor/Placeholder/Worldworm.jpg)
+
+It is well known throughout the northwestern parts of the Empire that the Animali produce some of the finest hunters in our world, and that it is these hunters who bring down the most terrible of monsters and beasts.
+But no prey has ever come close to that of the world worm Manisiqus, hunted for more than three years.
+
+The [World Worms](#WorldWorm) are among the largest creatures on our world, and many scholars speculate to this day how a creature of this size is able to feed itself - let alone not collapse under its own weight.
+These creatures burrow deep beneath the earth of our world and are rarely seen above ground.
+Manisiquis, however, dug himself out of the ground over and over again, causing considerable damage and fear in both the Imperial Empire and Yondalla, and was also sighted in the Ice Country.
+The emperor himself therefore called in 65 n.
+Riga a [great hunt]() proclaimed.
+
+Until that time, it was believed that the Animali had not had a unified target set by their chief shaman for 80 years.
+However, soon after Manisiquis was discovered by the Rakhul tribe, the then chosen shaman Rinsimikak received a vision from the gods in which he saw the many tribes of Animali standing gloriously on the head of the slain Weltwum.
+With this vision, Rinsimikak set himself the goal of reuniting the Animali and hunting the World Worm.
+
+After many weeks and months of preparation, the Animali finally went into action and chased after Manisiquis.
+Although the Animali were accustomed to surviving underground and fighting the abominations of Orbis Astea, the hunting party is said to have lost 36% of its members to fighting the other creatures that lived underground.
+According to the writings of the late Philip Bergsam, it is also said that the Animalus Yukak - with the mutation of the Giant Mole - was the only reason the hunting party was able to pursue Manisiquis beyond the borders of Eisland.
+However, the hunters of the Empire - who had answered the call of the great hunt - were more than grateful for the Animali's competent support, as they had so far proved absolutely without a chance against the monstrosity.
+
+![Illustration of an entrance into the caverns of a worldworm](Pictures/Flavor/Placeholder/Worldworm-Entrance.jpg)
+
+After 3 grueling years and many losses, the Animali finally succeeded in bringing Manisiquis to its knees in the region now known as Misty Grove by means unknown to the Empire to this day.
+It was said that the Animali celebrated for 10 days without resting at the resting place of their greatest prey.
+What the Animali did not realize, however, was that the cave system through which they had traveled to Misty Grove had collapsed behind them due to the onslaught of Manisiquis.
+After their only known way back home was sealed, the rest of the Animali decided to colonize the area they were now in, and after a few generations, these Animli became the Lizardmen we know today.
+
+## The society of the Animali
+
+The Animali are divided into several nomadic tribes that roam the icy wasteland of Iceland, staying in one place for only a short time at a time.
+The Animali have only one fixed location that they occupy.
+The cave of Khazak.
+
+![Some Animali are perfectly adapted to the Ice Land [EmkunBearWarrior]](Pictures/Flavor/Animali/by_Emkun_Bear.png)
+
+[EmkunBearWarrior]: "Bear warrior" by [Emkun](https://www.deviantart.com/emkun/art/Bear-warrior-870124071).
+    This artwork is available under a Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 License.
+
+Each tribe is led by a shaman.
+Each year the Animali hold a festival where all the tribes gather, honor the gods, and celebrate their people.
+There is also a tournament in which all the shamans compete against each other with the goal of becoming the chief shaman of the Animali and claiming the cave for themselves, an honor that is reserved only for the winner.
+The chosen shaman and his tribe live in the cave for a year, where the shaman uses alchemical concoctions to communicate with the gods.
+Through this, the shaman learns of the best hunting grounds and acquires other valuable information to lead the tribe to greater greatness.
+
+### The Rite of Maturity {#Mutation}
+
+In the Rite of Maturity, a young animal is sent on its first hunt to become a full-fledged Animalus.
+The tribe's shaman decides when the cub is ready and prepares the associated feast.
+
+The cub sets out without weapons and equipment and returns to the tribe only when it has hunted a presentable prey.
+In this process, especially weak young animals usually die.
+
+(are they sad then or are they not so emotionally complex ? - because they are descended from humans my i)
+
+After the first hunt, the shaman of the tribe to which the young animal belongs takes the hunting trophy of the young animal.
+He brews a potion from it - the so-called mutagen - and gives this to the young animal to drink.
+The young animal then adopts certain characteristics of the hunted prey and thus becomes more powerful, the more powerful its prey was.
+This also determines the social status of the animalus in its tribe.
+A young animal can go through this process only once.
+
+![A freshly mutated Animalus, the mutations depend on its prey as a young animal[pendleburyannetteYoung]](Pictures/Flavor/Animali/Pixaby_Young.png)
+
+[pendleburyannetteYoung]: by [pendleburyannette](https://pixabay.com/de/illustrations/kreatur-werwolf-stand-fu%C3%9F-3d-4955810/).
+    This image available for free commercial use.
+
+
+### The race relations of the breed
+
+Because of their natural hunting habits, the Animali tribes often compete with each other for the upper hand when it comes to hunting grounds or resources.
+However, when they encounter a higher problem or when the Animali's chief shaman calls for a union of these, a joint alliance is forged to stop external threats or to hunt very large prey.
+
+## The religion of the race
+
+## The legends of the race
+
+### About Manticore
+
+The first manticore was composed of parts of bears, bats and scorpions.
+
+A manticore is a creature originally created by the animal tamer Rakrak of the Rikika tribe.
+Long ago, Rakrak was tasked with finding a way for the tribe to win the annual "Ancient One" contest, as his tribe was looked down upon for not winning the contest in over a hundred years.
+
+Rakrak asked the gods for guidance and was told to travel to the Heartland.
+Shortly thereafter, Rakrak left his tribe, leaving his apprentice in charge of affairs, which inevitably led to the tribe's demise.
+Even today, the tribe is but a shadow of its former self.
+During the first months of his journey, Rakrak came up with the idea of adding another mutation to an Animali to further improve its fighting ability.
+
+Many years passed, and Rakrak rigorously continued his research into further mutation.
+Slowly, a following of dedicated researchers and mad academics established itself around him.
+Rakrak created many failed experiments on his journey with the goal of creating the perfect warrior and was sometimes declared insane by contemporary witnesses.
+Despite what the doubters said, after many decades of research and failure, he finally created his first creature that could reproduce.
+The manticore.
+
+> "To create a manticore you need a living animalus. I have captured one that is unworthy. His mutations are weak, so he won't make a good manticore. But I need material to experiment with - and this one won't hurt.
+>
+> --- From the notes of Rakrak
+
+Although he had finally succeeded in creating a creature capable of reproducing, his creation could not be considered intelligent by any stretch of the imagination - the creature was so aggressive that it attacked most living things - except its creator - on sight.
+
+Many years passed, and Rakrak was never able to reach his goal.
+One day he disappeared without a trace and his fate was never known.
+Without his leadership, his research group turned more and more into a fanatical cult.
+Many members disagreed about the direction the research should take.
+As a result, many different subgroups and currents emerged, some of which also managed to create subspecies of the manticore.
+
+The Animali tribes considered the manticore an insult to their honor.
+An affront whose very existence was already an insult.
+The Animali went to war against these abominations from the Ice Country, mercilessly killing any Manticore they could find, as well as any of Rakrak's cultists.
+This was one of the few times when large numbers of Animali left the Ice Country.
+Although Rakrak himself was on their list, he remained missing and neither the Animali nor anyone else has seen him since.
+
+## The Proper Terms of the Race
+
+Shamans are the leaders of the Animali tribes and also have the task of brewing the sacred potions for the tribe.
+(chosen, inherited ?)
+
+Unworthy are called traitors or incompetent Animali, despised by the others of their species.
+Unworthy are mostly Animali who came back with a lowly prey during the rite of maturity.
+
+Rite of Maturity - in order for Animali to pass into adulthood, they must complete the Rite of Maturity.
+During this rite, the Animali have the task of hunting a beast using only their own strength to prove their worth and strength to their tribe.
+Once the Animalus returns with his trophy, the shaman of the tribe prepares a potion with mutative effects with the prey.
+In the final part of the ritual, the Animalus drinks the potion and gains the strength and attributes of his prey.
+The impressiveness of the hunted prey determines the position of the Animalus in his tribe.
+(are there beast scales according to which one can determine how impressive the prey was?)

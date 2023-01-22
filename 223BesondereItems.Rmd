@@ -1,0 +1,177 @@
+# Besondere Items und Modifikationen {#BesondereItems}
+
+In diesem Kapitel geht um spezielle Items die sich von normal Handelsüblichen durch die eine oder andere Funktionalität unterscheiden oder direkt etwas neues nie dargewesenes darstellen.
+Diese Items können entweder von Spielercharakteren mit dem Handwerksskill entworfen und gebaut werden oder von Händlern erworben werden die diese von genialen Ingneuren erhalten haben.
+
+
+## Regeln
+
+Da diese Gegenstände tendenziell von Spielern entwickelt werden und somit das Regelwerk diese nicht abdeckt ist die funktionalität mit dem DM abzuklären und ob diese überhaupt mit dem vorhandenen Handwerkskill umzusetzten sind.
+Grundsätzliches ist bei der Umsetzung alles möglich jedoch liegt verständlicherweise das Balancing im Fokus.
+
+## Waffen Mods
+
+Diese Modifikationen können entweder bestimmte Faktoren herausheben und verstärken, Nachteile ausgleichen oder rein unterstützender Natur sein.
+Diese Fallen aber alle zu lasten der Durabilty des Gegenstands.
+
+
+
+
+### Leichtbau
+Senkt das Gewwicht
+
+## Waffen Mods Nahkampf
+
+### Das Brennende Schweret
+
+Diese Visuell auffällige Mod ermöglicht es die Nahkampfwaffe in Flammen zu hüllen. Dies geschieht durch ein im Griff verstecktes Ölfläschchen und eine kleine Zündapperatur.
+Für Die Dauer von 5 Runden.
+
+Funktion: Bonus Schaden, kann Zustand brennend Auslösen mit 40% chance pro Angriff
+          Intimidation at Advantage 2
+          
+Nachteil: Jede Anwendung kostet ein Fläschen Öl das nur außerhalb des Kampfes ausgetauscht werden kann.
+          Zustsand sinkt bei jeder Anwendung
+          
+
+          
+## Bluten / Gezackte Klinge
+
+Unabhängig ob es sich um eine klingen Waffe handelt ermöglicht diese Modifikation eine Chance auf einen Blutungseffekt bei Treffern von 15%
+
+## Gift
+Hohle Teile in der Spitze die mit gift gefüllt werden können. Hits haben eine Chance von 30% zu vergiften
+
+
+
+## Waffen Mods Fernkampf
+
+### Baqonett 
+
+Ermöglicht Angriff ihm Nahkampf mit Fernkampfwaffenwert, ebenso das Parieren ohne Nachteile.
+
+Kosten: Material in Tier der zumodifizierenden Waffe
+
+### Armbrust
+
+#### Nachlade Bonus: 
+Erhöhung der chance auf ein Gratis nachladen der Armbrust, von 50% auf 25%
+
+#### Ersatz Bolzen: 
+Ein stehts geladener 2. Bolzen in der Waffe, Gratis nachlade chance unverändert für nur einen Bolzen, Je Bolzenschuss nur ein Bolzen nicht beide, single action lädt nur einen Bolzen nach?
+
+###Akebuse
+
+#### Zielstab Akebuse
+Bei dieser Zielhilfe für die Akebuse handelt es sich um einen Stab mit einer zwei Gliedrigen Gabel an einem Ende auf dem die Akebuse abgelegt werden kann.
+Dies ermöglicht keine erhöhte Trefferchance.
+
+Funktion: Trefferwahrscheinlichkeit +
+
+Nachteil: benötigt eigenen Slot und muss vorher aufgestellt werden
+
+
+## Rüstungs Mods
+
+
+
+
+
+## Andere Items und Ausrüstung
+
+
+### Fackel
+Dieser Standart Ausrüstungsgegenstand sollte bei keinem Abenteurer fehlen. Leicht zu bauen und doch so praktisch. Ein in Öl getauchter Lumpen an einem Stock spendet für einige Zeit leicht benötigt jedoch auch eine Hand. Mit ihm kann parier und auch angegriffen werden. Jedoch ist die Fackel nicht besonders Stabil also ist Vorsicht geboten.
+
+Schaden wie Knüppel, kann zustand Brennen auslösen mit Build up 50% pro Angriff.
+
+
+### Versteckter Dolch / Haarspange
+
+Dolch Mod
+80% versteck Chance
+benötigt Main Action zum "hervorholen" oooder benötigt Slot und erhöht lediglich die Versteck chance.
+
+### Schmuggel Fach Dolch
+
+Sei es in einem Instrument oder sonst wo
+in diesem Fach lässt sich ein Dolch Schmuggeln mit einer 90% Versteck chance.
+
+
+### Zoombrille & Blendschutz
+
+Diese Brille schützt nicht nur die Augen vor besonders hellem Licht sondern ermöglicht durch eine geschickte Linsen konstruktion ein besseres Zielen und Kundschaften auf Entfernung.
+
+FUNKTION: Ranged attacks sind at Advantage 2 auf Entfernung nach Justierung
+          Perception Checks sind at Advantage 2 Entfernung
+          Schütz vor den blendenden Effekten des Licht des Allgotts
+
+KOSTEN: SINGLE ACTION zum justieren
+
+Herstellung: zur Herstellung wird ein Material T2 benötigt
+Zustand: 6
+Da dieser eher fragile Gegenstand auf den Augen getragen wird nimmt der Zustand entsprechend ab bei Schaden durch einen Called shot Head ab mehr bei Crits. Auch bei einem Nat20 des Gegner nimmt die Brille mit Pech schaden da davon auszugehen ist dass hierbei der Kopf getroffen wird.
+
+
+### Enterhaken
+
+Ein Haken an einem Seil.
+Kann mit einem Wurf Check geworfen und befestigt werden, bei erfolgt steigt der Skill Acrobat beim benutzten des Seil um 10.
+
+Kosten: T1 Material
+
+### Strickleiter
+Preis 200
+Kann mithilfe eines Enterhakens in Position gebracht werden oder von oben heruntergeworfen, ermöglicht das erklimmen von Hindernissen.
+Wenn ein überbelasteter Charakter versucht die Leiter zu erklimmen findet ein luck Safe statt der darüber entscheidet ob die Leiter zerreißt.
+
+
+### Tarnnetz
+
+Ein Camouflagenetz um Personen zu verbergen. Zu beachten ist dabei dass das Muster entsprechend der Region angepasst sein muss um seinen vollen Nutzen zu entfalten.
+
+Funktion: Stealth at Advantage 3 gegen Perception Würfe
+
+Nachteil: keine Bewegung während in Netz und keine Abwehrmöglichkeit von Angriffen. Es wird eine Main Action benötigt um aus dem Netz zu kriechen.
+
+
+### Weihwasser
+
+Diese Flüssigkeit sorgt bei bespritzen von Untoten für einen Stagger effekt.
+Dieser Effekt ist mehr als einmal Anwendbar.
+
+
+
+### Licht des Allgotts
+Diese an sich Alchemisch hergestellte Flüssigkeit, erzeugt bei Kontakt mit Luft eine durchdringendes Licht. Augen die an Dunkelheit gewöhnt sind oder von Untoten da bei diesen sich die Augen nicht anpassen können werden geblendet und gestaggert. Dies funktioniert jedoch nur einmal da Lebende sich daran gewöhnen und bei untoten nur einmal die Augen verbrannt werden können.
+
+
+### Pavese
+Dieses Tragbare und aufstellbare Schild fungiert als Tragebare Deckung, siehe Deckung.
+
+### Verstecker Dolch
+
+### Giftring
+Dieser Schmuckstück hat es in sich.
+An diesem hübschen Stück versteckt sich eine kleine Nadel die unauffällig Gift in nichts ahnende Kontrahenten inizier.
+Das verwendete Gift sinkt aufgrund der eher geringen Dosis um ein Tier. Das Gift muss vorher in den "tank" geladen werden und ist dort endlos haltbar.
+
+Funktion: Vergiftung über Taschendiebstahl Check at Advantage 3
+
+Nachteil: Nicht einsetzbar im Kampf
+
+Kosten: T1 Material
+
+
+
+##Fallen
+
+### Bärenfalle
+
+Anwedung: siehe Fallen
+Kosten: T1 Material
+
+### Krähenfüße
+3 Anwedungen mit einer 60% Chance die jeweilige Anwendung wieder aufheben zu können.
+Benötigt ein T1 Material.
+

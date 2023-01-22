@@ -1,0 +1,541 @@
+---
+editor_options: 
+  markdown: 
+    wrap: sentence
+---
+
+# Die Elfen
+
+Elfen, schmächtigere Humanoiden mit spitzen Ohren und normaler Größe, bevölkern die Wälder in Orbis Astea.
+Im Allgemeinen wird den Elfen nachgesagt, dass ihr Umgang mit Tieren versierter ist als der der anderen Humanoiden und, dass sie einen kulturell bedingt natürlicheren Zugang zu ebendiesen haben.
+Die Nachtsicht erweist sich für die Elfen in vielen Hinsichten als vorteilhaft gegenüber anderen Rassen.
+Gelehrten zufolge entstammt diese Fähigkeit einer Anpassung an die dichten und immergrünen Wälder ihres [Ursprungsgebiets Silva Nacia](#SilvaNacia).
+Diese These ist allerdings umstritten, da Elfen auch in den nördlichsten bewaldeten Gebieten der bekannten Welt vorkamen und immer noch vorkommen, wie alte Überlieferungen der Animali belegen.
+
+## Geschichte
+
+Elfen bevölkerten einst sämtliche bekannten Wälder in Orbis Astea.
+Nach und nach waren die Elfen aber gezwungen sich aus diesen Wäldern zurückziehen, einerseits wegen der Ausbreitung des Menschen und andererseits auch wegen der Etablierung effektiver Beerdigungsriten der Menschen welche Tote im Gegensatz zu Elfen nicht zu Erwachten werden ließ, wodurch Elfen ihre Nützlichkeit als Bestatter für die Menschen verloren.
+Abholzung der Menschen und interne Streitereien der Elfen drängten diese Stück um Stück zurück.
+Zusätzlich traten gehäuft formierte Verbände schwer gerüsteter Orks und Menschen auf, die das Elfenvolk aus ihrer Heimat vertrieben und ihr Land niederbrannten.
+
+In weiterer Folge bauten die Menschen neue Städte in den nun verlassenen Gebieten und versklavten viele der aus ihrer Heimat verdrängten Elfen - eine historische Etappe, welche man im Allgemeinen als die frühe Entwurzelung bezeichnet.
+Die Elfen - welche sich, unter ihren vorwiegend menschlichen Herren, den anderen Rassen unterwarfen - wurden später über die Jahrhunderte zu Stadtelfen.
+
+Auch wenn die Wälder nun zerstückelt sind bieten sie den Elfen nach wie vor ein hervorragendes Umfeld zur Verteidigung, jedoch verunmöglicht es vielfach eine effektive Kommunikation zwischen den Stämmen.
+
+Unter den Elfen selbst besteht die seit Jahrhunderten vorherrschende Ansicht, dass Menschen ihre Städte dort hinbauen, wo es die Elfen am meisten stört.
+
+> Überall errichten Menschen ihre Befestigungen, um sich vor dem Wald und der Natur abzuschirmen.
+> Ließen meine Mütter die Menschen aus erbarmen in unseren Wäldern hausen, so nahmen sich diese wie Süchtige, Stück für Stück mehr davon.
+> Waren es zuerst nur einzelne Bäume um Häuser zu bauen, so folgten Mühlen für ihr Getreide.
+> Dann kamen die Schmieden, um Werkzeuge für den Ackerbau zu schaffen.
+> Dann größere Schmieden für Waffen, denn man musste andere - böse - Menschen im Zaum halten.
+> Dann musste man die bösen Orks in Zaum halten.
+> Dafür brauchte man Eisenrüstungen.
+> Dann brauchte man Ballisten, man konnte doch die Orks nicht besiegen, liefen diese doch plötzlich auch in Eisenrüstung herum.
+> Dann musste man Straßen bauen, um sich mit anderen Dörfern zu verbinden.
+> Die Menschen wollten „doch keine Elfen opfern, denn sie sind unsere Freunde", also brauchte man Menschen aus anderen Dörfern. Dann brauchte man wieder mehr Felder und mehr Mühlen und mehr Holz und mehr Wild. Immer böser wurden die bösen Teile der Menschen und der Orks. Irgendwann waren die Wege so dicht und der Hunger so groß, dass wir uns fragten: Warum bekämpfen wir die Orks nicht selber? Doch plötzlich gab es Orks in Eisenrüstungen welche Ballisten bewachten, in unseren Wäldern nicht mehr Menschen und Wild jagten, sondern UNS Elfen wie wild jagten.
+>
+> Die Menschen sagten, sie können in den Wäldern nicht gegen die Orks kämpfen, und so holzten Sie Stück für Stück ab, während die Orks uns fraßen wie Wildschweine, da wir nun ohne den Schutz des dichten Waldes ein leichtes Opfer waren.
+
+> Also frage ich euch?
+> Wie lange wollen wir den Menschen noch zusehen wie sie uns unser Leben und unseren Wald nehmen?
+
+> --- Alian Blauzunge -- Gesandter des Kopfs, 320 v. Riga aus "Chroniken der Vertriebenen Wäldler"
+
+Nach Jahrhunderte langer Bekämpfung der Menschen, die in den elfischen Lebensraum eindringen und ihn für sich beanspruchen, entfachte unter den Elfen ein gewaltiger Zorn gegen die Menschen.
+Insbesondere über die letzten beiden Jahrhunderte hinweg wurden riesige Waldgebiete gerodet und in menschliche Gewalt gebracht.
+Versklavung war bis vor ca.
+600 Jahren das Schicksal aller Elfen, welche nicht im Kampf verstarben.
+Für die heutigen Elfen stellt genau dieser Abschnitt in der Geschichte die Zeit der Entwurzelung dar.
+
+> *"Wir haben alles verloren, unser Zuhause, Teile unserer Familien, Teile unserer Kultur.."*
+>
+> --- Schilderung eines Sklaven in seinem Tagebuch
+
+Elfen, welche sich unterordnen mussten, lebten offiziell als Sklaven oder unter sklavenähnlichen Zuständen.
+Das Verbot ihre kulturellen und religiösen Bräuche auszuüben, welche sehr stark mit der Natur und insbesondere den Wäldern in Verbindung standen, führte zur Bildung neuer Glaubensstrukturen.
+Hierzu zählen die inflationäre Anbetung von Götzen oder schlichtweg das Leben in „Gilden", welche nicht unähnlich zu Sekten sind. Der größte Zustrom an neuen Elfen, gepaart durch die terretorial Expanisve Politik des um 0 nach Riga ausgerufenen Kaiserreichs wird später als "die Entwurzelung" bezeichnet.
+
+## Die Entwurzelung {#DieEntwurzelung}
+
+Um 17 nach Riga erließ der Bewahrer der Stille, der höchste Priester der Religion des Allgotts ein kurzen Dekret mit welchem Unterwerfungen legitimiert werden sollte.
+3 Jahre später, startet das erst seit zwei Jahrzehnten neu vereinigte Kaiserreich einen Feldzug gegen die meisten Elfenstämme welche in direkter Umgebung zu den großen Städten des Kaiserreichs waren.
+Die schlecht koordinierten Elfenstämme, abgeschnitten in der Kommunikation untereinander durch die sich bereits seit Jahrhunderten ausbreitenden Menschen, konnten der kaiserlichen Armee wenig entgegensetzen.\
+
+Elfenstämme welche es vorzogen zu sterben wurden, samt Frauen und Kinder ausgelöscht.
+Ihre Walddörfer wurden niedergebrannt oder abgeholzt.\
+
+Die Elfenstämme, in welchen die Matriarchinnen (Anführerin), das Überleben der Stämme vorzogen, wurden in die Städte des Kaiserreichs eingegliedert.
+Allerdings fanden sich die Elfen nach Abgabe ihrer Waffen und dem Töten ihrer Reitspinnen in einer Lage wieder, wo sie der Wilkür des Kaiserreichs ausgesetzt waren.
+Die Stadtwachen kontrollierten daraufhin besonders Elfen, denn das rebellische Potential und der Umgang mit Waffen waren durchaus noch von den Mitgleider der Kriegerkaste gegeben.
+
+Die lokale nicht-elfische Bevölkerung, welche bis dahin oft Verwandte oder Großeltern an provozierte und unprovozierte Elfenangriffe verloren hatten, hasste die Elfen vielerorts.
+Es folgte dadurch die Eingliederung der Elfen in das letzte Glied der Kette der sozialen Hierarchie.
+
+So bevölkerten die Elfen in den Städten, welche viele ihrer eigenen Riten oder Lebenstile nicht mehr ausleben konnten, die Armenvierteln der Städte, oder in Civis Primae, der Hauptstadt des Kaiserreichs, die Unterstadt.
+
+Ohne der Möglichkeit ihren früheren Gebräuchen nachzugehen entwickelten sich eigenen neue Versionen davon.
+Diskriminierung, Kriminalität, Prostitution, Bandenkriege und Hehlerei waren für hungrige Elfen Möglichkeiten um an Nahrung oder zumindest etwas Wohlstand zu kommen.
+
+Das verstärkte über die Jahrzehnte hinweg die Vorurteile der restlichen Bevölkerung.
+"Wie einerseits die Erinnerungen an die Überfälle von Waldelfen mit Reitspinnen auf die Höfe der Landwirte verschwanden, so prägten andererseits die Menschen in den Städten die Erinnerung an Elfenschläger, welche deren Ehemänner verprügelten, oder leicht bekleidete Elfinnen, welche die Ehen von so manchen Adeligen spektakulär beendeten.\
+\
+Die nun dort Lebenden Elfen werden, meist abfällig, als Stadtelfen bezeichnet. Für Elfenstämme, welche sich erfolgreich gegen das Kaiserreich zur Wehr setzten, gelten Stadtelfen als das verräterische Gesocks und als mahnendes Beispiel sich nicht dem Kaiserreich oder Menschen zu unterwerfen.
+
+## Das heutige Leben der Elfen
+
+Waldelfen leben, wenig überraschend, in Wäldern.
+Die Stämme, die in der Regel je 500-800 Personen umfassen, haben meist lose, zerbrechliche Bande untereinander, da sie sich aufgrund der geschichtlichen Rodung der Elfenwälder in geographisch großer Distanz voneinander befinden.
+In Silva Nacia, dem größten noch zusammenhängenden Waldgebiet, lebt allerdings eine weitaus größere Menge von Elfen.
+Geschätzt werden knapp 500.000 bis 1.000.000 Elfen im gesamten Gebiet von Silva Nacia.
+
+Die größte Dichte an Elfen findet sich in der größentechnisch stadtähnlichen Siedlung Sildrem Ird.
+
+Mehrere verschiedene, jedoch jeweils eher kleine Elfenstämme leben hier geographisch sehr dicht aber friedlich - abgesehen von üblichen kleineren Blutfehden - nebeneinander und bilden eine geschlossene Föderation.
+
+Geführt werden Elfenstämme immer von einer Matriarchin.
+Sie entscheidet als oberste Instanz im Stamm für oder gegen Belange.
+Unterstützt wird sie von den höchsten Stammesmitgliedern der einzelnen Gruppen -- den Gesandten.
+Gesandte selbst übernehmen oftmals die Funktion von Diplomaten, daher die naheliegende Übersetzung.
+
+Prinzipiell haben alle Stämme sehr idente Arbeitsaufteilungen mit jeweils vier „Stufen":
+
+-   Jüngling - Jungelfen bevor diese sich für einen Pfad entschieden haben.
+
+-   Lernender -- Elfen nach Abschluss ihrer Reifeprüfung mit gewähltem Pfad und eigener Reitspinne.
+
+-   Aufrechter -- Vollerwachsene Elfen eines Pfades, in der Regel zwischen 25 und 50 Winter alt.
+
+-   Gesandter -- Häufig Älteste/r des Pfades mit der meisten Erfahrung oder dem größten Geschick.
+
+-   Matriarchin - Weiblicher Elf, welcher von den Gesandten der Pfade vorgeschlagen wird und am Heiligen Plateauberg von Deus Arboris vereidigt wird.
+    Oberste Entscheiderin für stammliche Belange.
+    Wird von den Elfen selbst Mirän genannt.
+
+Die Arbeitstypen nach Pfaden:
+
+-   Pfad der Klaue
+
+    -   Mitglieder des Pfades der Klaue erfüllen in den Stämmen mit der Jagd von Beutetieren als auch mit der Verteidigung des Stammes als gewöhnliche Krieger eine Doppelfunktion.
+
+-   Pfad des Blicks
+
+    -   Etwas ungewöhnlich im Vergleich zu anderen Stämmen ist eine eigene Späher-Kaste in der Gesellschaft der Elfen. Diese erkunden Territorien, knüpfen häufig die ersten Kontakte zu anderen Stämmen - auch der anderen humanoiden Rassen und sind somit die Augen eines Stammes.
+
+-   Pfad der Pfote
+
+    -   Für die selektive Züchtung von allen Nutztieren, um deren Eigenschaften zu Verbessern sind die Angehörigen des Pfades der Pfote zuständig. Des weiteren lehren diese auch allen anderen Elfen im Stamm den Umgang mit wilden als auch domestizierten Tieren.
+
+-   Pfad des Kopfes
+
+    -   Was die restliche Welt unter dem Begriff Gelehrte versteht, sind die Mitglieder des Pfades und des Kopfes für die Elfen. Diese beschäftigen sich, häufig das Fachgebiet wechselnd mit der Erforschung und dem Verstehen der Welt. Dabei kommen sie zwar durchaus den anderen Pfaden intellektuell in die Quere, gehen aber davon unabhängig ihrem Entdeckergeist nach, wodurch diese Gruppe häufiger etabliertes Wissen über den Haufen zu werfen versucht. In den wissenstechnisch konservativeren Pfaden wir hauptsächlich etabliertes Wissen direkt angewandt.
+
+-   Pfad des Holzes
+
+    -   Wenn der Schreiner, dem Baum sagt, wie er zu wachsen hat, dann hat man entweder einen verrückten Schreiner oder einen Elfen des Pfades des Holzes vor sich. Als wichtigste Aufgabe dieser Gruppe gilt das Verändern der Wuchsrichtungen und Wuchsformen von Bäumen, um diverse Bedürfnisse des Stammes zu erfüllen. Kleine Wohnräume, Lagerstätten oder auch aus lebenden Bäumen geformte Tresore sind alles Wünsche, welche von den Mitgliedern des Pfades des Holzes erfüllt werden. Als Besonderheit ist diese Gruppe ebenfalls zur Herstellung von Rüstungen aus Spinnseide oder den Panzerplatten und Knochen diverser Tiere fähig.
+
+-   Pfad der Blüte
+
+    -   Wenn es darum geht, den Wald und die Natur dazu zu bringen, mehr Früchte, weniger Parasiten, andere Pflanzen, oder gar menschenfressende Pflanzen gedeihen zu lassen, sind die Mitglieder des Pfades der Blüte schnell zur Hand. Angefangen mit dem einfachen Pflanzen von Samen und Setzlingen, bis hin zum kunstvollen Beschneiden von Bäumen in luftigen Höhen, um den Baum im nächsten Jahr besonders viele Früchte erzeugen zu lassen, sind Tätigkeiten welche nicht jeder Bauer aus menschlichen Kulturen nachgehen würde.
+
+Folglich gibt es beispielsweise Aufrechte der Klaue, welche die Krieger und Jäger des Stammes darstellen und Gesandte des Holzes welche Rüstungen aus Spinnseide herstellen und Bäume als Wohnungen umfunktionieren.
+
+### Der Pfad der Elfenkinder zum Lernenden
+
+Elfenkinder begleiten die ersten Jahre meist die Blütenpfadler um die basalen Ökosystempflegedienste zu erlernen.
+Anschließend steht es ihnen frei ihre Pfade selbst auszuprobieren, und erwachsene Elfen zu begleiten.
+
+Jungelfen müssen, an einem von ihnen frei gewähltem Zeitpunkt, ihre Reifeprüfung ablegen.
+Wird diese, doch sehr brutale, Prüfung abgelegt, ist der Elf ab sofort ein Lernender seines Pfades.
+
+Die Reifeprüfung beginnt damit, dass sich der Jungelf in einem Zeitraum von 3 Tagen bei einem Gesandten der Pfote seine künftige Grawä-Spinne, also seine Reitspinne, aussucht.
+Hierbei wird auf die Harmonie zwischen künftigen Partnern geachtet.
+Dabei ist es zweitrangig, ob die Spinnenrasse eines fremden Pfades gewählt wird, viel wichtiger ist die engste erwartbare Kommunikation.
+Hierbei werden dem Jungelfen traditionelle berauschende Kräuter wie das Verbindungskraut gegeben.
+Die Grawäspinnen werden mit Ölen des Zädilöä-Baums in einen berauschten Zustand versetzt.
+Innerhalb dieser eintägigen Rausch-, Kater- und Nüchterungsphase tanzen sowohl der Jungelf als auch die Spinne.
+Zwar als Tanz verstanden, dient dies eher dazu das beide Seiten ein intuitives Gespür füreinander bekommen.
+Wichtigster Indikator für eine gute Beziehung ist, dass beide Partner sich nicht gegenseitig gewaltsam attackieren.
+
+Ist dieser Tanz überstanden, stellt die Spinne, in diesem Alter groß wie ein Hund, nun den Begleiter für die Prüfungsdauer dar und bei erfolgreichem Abschluss einen Partner für das Leben.
+Der Jungelf muss daraufhin ohne die Hilfe anderer Elfen, versehen mit einem Prüfungsmal, ein Tattoo auf der Stirn, für 2 Monate mit der Spinne im Wald überleben und mit ihr zurückkehren.
+Das Tattoo dient anderen Elfen als Signal, dem Jungelfen bei dieser Prüfung nicht zu helfen.
+Kehrt der Jüngling ohne Spinne zurück, wird er vom Stamm verstoßen, da dieser nicht als würdig angesehen wird sich um seinen Stamm zu kümmern.
+Verstoßene ziehen entweder durch die Wälder, oder werden mit der Zeit gefressen oder sterben eines anderen Todes.
+Gelegentlich ziehen diese Verstoßenen auch in die Städte der Menschen.
+
+Während der Reifeprüfung wird das Verhältnis der domestizierten Spinnen und ihres neuen „Besitzers" rasch enger, da sie in dieser Zeit nur sich haben, voneinander abhängig sind und lernen müssen sich zu vertrauen, wenn sie gemeinsam überleben wollen. Über die späteren Jahre ergeben sich dabei teils unzertrennliche Bande. In anderen Kulturen gibt es nichts Vergleichbares. Hunde sind zwar mit Menschen oft eng verbunden, erreichen jedoch nie das Alter oder die Nützlichkeit dieser Spinnen. Nachgesagt wird dem domestizierten 8-Beinern auch eine größere Intelligenz als sonstigen domestizierten Tieren. Stirbt die Spinne löst dies meist großes Leid bei seinem Elfenpartner aus. Die Trauer ist nicht unähnlich der, eines verlorenen Familienmitglieds.
+
+Nach Abschluss der Reifeprüfung sind diese Elfen offiziell auf dem Status des Lernenden.
+
+Die weitere Hierarchie ist im Allgemeinen flach.
+Abgesehen vom Pfad der Klaue, wo eine striktere Hierarchie und Befehlsordnung herrscht, werden Entscheidung frei und selbstständig getroffen.
+Aufgaben werden frei gesucht und Weisungen gibt es nur in Notsituationen, an welche sich dann allerdings strikt gehalten werden muss.
+
+### Nahrungsbeschaffung und Lebensraumgestaltung
+
+Elfen, so wie alle einfachen Kulturen, leben nicht primär von der Landwirtschaft, sondern vom Jagen und Sammeln von Nahrung.
+Zwar werden auch von den Elfenvölkern Bäume und Pflanzen angepflanzt, jedoch in weit verzweigten Arealen mit vielen natürlichen Pflanzenarten dazwischen.
+Häufig angepflanzt werden:
+
+-   Nahrungspflanzen wie die Krotat-Sträucher dessen Wurzeln verarbeitet, zu einem sehr gehaltvollen aber leicht ranzig schmeckendem Pürree werden.
+
+-   Heilpflanzen: Ein großes Bouquet an verschiedenen Pflanzen mit heilenden oder schädigenden Wirkungen werden je nach Bedarf angebaut.
+
+-   Fallen-Pflanzen: Die Wälder, insbesondere von Silva-Nacia beinhalten noch immer eine große Anzahl an unterschiedlichen fleischfressenden Pflanzen.
+    Die meisten dieser Pflanzen werden zwar Menschen nicht gefährlich, jedoch gibt es einige Arten wie den Großen-Würger oder den Grubenfresser, welche Menschen erdrosseln oder in einem Pool aus Verdauungssäften ertränken.
+
+-   Bäume für Holz: Selbstverständlich, pflanzen die Waldelfen auch explizit unterschiedliche Bäume für die Gewinnung von Holz an.
+    Auch hierbei kommen mehrere Holzarten für spezifischere Zwecke zum Einsatz als dies in den Reichen der Menschen gegeben ist.
+
+-   Bäume für künftige Spähposten oder Lebensstätten: Meist den Gesandten des Holzes vorbehalten, werden spezielle Baumarten zum Wachsen und Formen von Spähposten, Notfalllagern oder schlicht für die vielfältigen Funktionen eines Stammes, wie Lager- oder Schlafräume angepflanzt.
+
+Neben dem Abernten der Nahrungspflanzen durchstreifen die Mitglieder des Klauenpfades die Wälder, stellen Fallen für Tiere auf oder jagen diese direkt.
+Die Mitglieder des Blütenpfades hingegen sammeln die ausgewachsenen Orits ein.
+
+Die Reitspinnen dieser beiden Pfade helfen bei der Jagd und dem Transport der erlegten Beute, der gesammelten Nutztieren, oder dem Ausgraben und Zerkleinern der restlichen Nahrung.
+
+### Nutztiere
+
+#### Orits
+
+Als Insekten, welche sich an Bäumen festsaugen und davon leben deren Saft zu trinken, finden sich Orits bei den Waldelfen in derselben Rolle wieder wie Blattläuse bei Ameisen - gehütete Nutztiere.
+Die sechsbeinigen, auf dem Rücken grau-braun gestreiften, mäßig mobilen Tiere werden seit etlichen Jahrhunderten von den Elfen gezielt gezüchtet und "gehütet".
+Die Tiere selbst sind im eigentlichen Sinne wehrlos, da weder großartige Beißwerkzeuge noch gefährliche Klauen an den Tieren zu finden sind.
+Ihre primäre Verteidigungsstrategie besteht darin ein übel riechenden Sekret abzusondern, sobald sich Störungen in ihrer Umwelt auftun.
+So sind diese rund 60-100 Kilogramm schweren Nutztiere für die wenigsten Raubtiere interessant.
+Über natürliche Vettern dieser Tiere ist wenig bekannt, was vermutlich daran liegt, dass mit der Zeit entweder die Elfen die weniger nützlichen, wilden Vertreter ausgemerzt haben, oder diese aus anderen Gründen vom Antlitz der Erde verschwunden sind.
+
+Das "Hüten" dieser Tiere wird von Mitgliedern des Pfades der Blüte als Nebentätigkeit gesehen.
+Hierbei werden die Orits an ausgewählte Bäume gesetzt, während diese noch rund 5 kg wiegen, mit extra Stacheln und giftigen Pilzpulvern am Rücken eingeschmiert, damit noch weniger andere Tiere oder Krankheiten an den Lebenskräften der Orits saugen.
+
+Jede Häutung dieser Tiere, für gewöhnlich sind es zwei bis zur "Ernte" stellt für die Blütenpfadler dieselbe Routine mit dem Erneuern der Stacheln und dem erneuten Bepudern mit Giftpilztstaub dar.
+Nach einigen Monaten werden die Orits „geerntet". In dieser Zeit sind die anfangs abgemagerten und etwas faltigen Orits zu vollgesogenen, teils etwas birnenförmigen Tieren herangewachsen. Hierbei wird der Orit über mehrmalige Faustschläge am Kopf dazu veranlasst seinen Saugrüssel zum Absaugen der Baumsäfte einzufahren. Anschließend werden ihm die Beine verbunden und der Orit wird auf die Reitspinne des Blütenpfadlers aufgeladen. Der Chitinpanzer und die sehr elastische, dazwischen liegende Haut dieser Tiere wird für Bögen, schwache Rüstungen und zur Verbesserung der Baumhäuser verwendet. Das Fleisch, welches sehr süßlich schmeckt und die ebenfalls süß schmeckenden Innereien sind Nahrung für die Elfen. Diese Orit Produkte sind für Elfen bedenkenlos verzehrbar, allerdings sind sie in rohem Zustand für Menschen giftig und stark bitter schmeckend.
+
+#### Reitspinnen
+
+Die von den Elfen Grawä Spinne genannten Achtbeiner sind aufgrund ihrer hervorragenden Agilität und Akrobatik wie geschaffen für eine schnelle und koordinierte Fortbewegung im Wald.
+Sie können problemlos mehrere Meter springen, produzieren aber, abgesehen von Sicherungsseilen, keine Spinnseide.
+Ihre Sicht ist auf rund 30-50 Meter extrem genau, weshalb sie verlohrene Orits auch deutlich leichter aufspüren können als Elfen oder Menschen dies mit ihren Augen könnten.
+Über diese Distanzen hinaus nimmt ihre Sicht aber signifikant ab.
+Für jeden Pfad gibt es eine domestizierte Rasse dieser Reitspinnen, deren Funktionen in den Pfaden jeweils auf ihre individuellen Fähigkeiten und Eigenschaften abgestimmt sind.
+So sind die Spinnen des Späherpfades deutlich flinker und kleiner als die des Kriegerpfades.
+Der stärkere und schwerfälligere Körperbau der Spinnen des Blütepfades eignet sich hingegen hervorragend, um größere Mengen an Material zu transportieren.
+
+## Religion
+
+Elfen besitzen keinen Glauben an ein Paradies nach dem Tod, welches ein frommes Leben belohnen würde.
+Ihr einziges vereinendes Ziel ist die Ausbreitung des Waldes.
+
+So soll, sobald der Wald sich bis zu den Gipfeln des Himmelsspitzengebirges ausgebreitet hat, die Welt endlich in einem natürlichen Gleichgewicht leben.
+
+Hierbei soll, laut den elfischen Erzählungen kein komplett geschlossenes Blätterdach die Welt zieren, sondern es sollen durchaus auch einige weniger bewaldete Gebiete, ähnlich einer natürlichen Weide, mit weniger dicht verteilten Bäumen und Sträuchern und dazwischen liegenden Weiden inkludiert sein.
+
+Die etwas fremdenfeindlicheren Waldelfen aus Silva-Nacia folgen auch diesem Glauben, schließen aber explizit alle anderen humanoiden Rassen aus der Vorstellung von diesem allumfassenden Wald aus.
+
+Der Grund liegt womöglich darin, dass Elfen aus den sonstigen Waldgebieten schon deutlich länger mit den anderen Rassen leben und diese, vermutlich, ein ersessenes Recht in diesem "Paradies" besitzen.
+
+Darin zeichnet sich ein weiterer „Mangel" dieser „Religion" aus.
+Es gibt wenige einheitliche Rituale.
+Eines davon ist beispielsweise, dass die Ernennung einer Mirän, also einer Matriarchin, an besondere Orte - sogenannte Orte der Bindung - wie den Plateauberg im Silva Nacia gebunden ist.
+
+Als „religiöses Ritual" kann hingegen der Verzehr von Nüssen ihres Heiligen Baumes Säritaä, der den pfadeshöchsten Sterbenden oder den Matriarchinnen vorbehalten ist, bezeichnet werden. Laut den Elfen selbst ermöglicht dies die Kommunikation mit Spinnen oder Verstorbenen oder dem Baum Säritaä selbst. Die Waldelfen in Silva Nacia bezeichnen diese Kommunikation mit den Verstorbenen als "Nachhall", oder auf elfisch "Kiräaöt".
+
+Ein geringer Prozentsatz dieser besonderen Verstorbenen, wacht wieder auf, sofern kurz vor Eintritt des Todes Nüsse von Säritaä verzehrt wurden.
+Der Großteil der geistigen Funktionen der Wiederauferwachten ist verändert.
+So ist meist die Fähigkeit für Sprache abhanden gekommen.
+Die Beschreibungen über die Anfangsphasen erinnern an das Verhalten von mit Tollwut infizierten Menschen.
+Sabbern, Speichelfluss, langsames Taumeln, jedoch ohne Aggressivität und der Ansteckungsgefahr durch Bisse.
+
+Bereits kurz nach der "Auferstehung" wird die Haut an den Extremitäten fahl.
+Nach einiger Zeit, rund 4-5 Tagen, beginnt die Haut dieser Elfen eine Rinde auszubilden, welche der Rinde des heiligen Baumes Säritaä nicht unähnlich ist.
+Über 5-10 Jahre hinweg wird der einstige Elf immer mehr zu einem Baum, was seine Mobilität und den Rest seiner Menschlichkeit immer mehr verkümmern lässt.
+So wachsen nach wenigen Monaten bereits kleine grüne Blätter auf der Rinde.
+Nach 2-3 Jahren ähnelt das Erscheinungsbild schon mehr einem Baum als einem Menschen, das Gesicht ist oft kaum noch erkennbar und Knorpelgewebe fällt meist schon komplett ab, so dass Ohren, Nasenspitzen oder auch Gelenke ihre Ursprünglichkeit verlieren.
+Bemerkenswerterweiße sind die Elfen noch zu sehr vielen Bewegungen in der Lage, obwohl diese weniger fließend und mehr stockend ausgeführt werden können als dies vor dem "Versterben" der Fall war.
+Die zunehmend "verbaumenden" Elfen wachsen auch über ihre typische Körpergröße von 1,7 Meter hinaus und erreichen im beweglichen Zustand auch gelegentlich noch eine Größe von 4 Metern.
+Nach 5 Jahren sind die meisten dieser "Baumelfen" zu einem unbeweglichen, stummen, augenlosen Baum geworden.
+In der Größe erreichen diese über die Jahrzehnte problemlos 10-15 Meter.
+
+Anfangs, also einige Monat bis ca 4-5 Jahre nach dem "Versterben" der Ursprungsperson, eignen sich solche Baumelfen, welche angeblich von der Matriarchin noch Befehle entgegennehmen können, als Verteidiger des Waldes.
+Der Mirän ist es, angeblich, unter dem Rausch der Nüsse von Säritaä möglich die Gedanken und Gefühle des „Baumelfen" zu lesen.
+
+So glauben die Elfen, dass ein gewisser Teil der Bäume im Wald ihre Urahnen sind.
+Naheliegend ist dadurch auch, dass Säritaä, als ältester und größter Baum, früher ein Elf gewesen sein könnte, welcher alle wichtigen Entscheidungen des Plateauberges miterlebt hat.
+
+Gesandte der Pfade, sowie Miräne werden traditionell im weit verzweigten Wurzelstock des Saritaäs „zu Dünger beerdigt" wie es die Elfen nennen. Die Spinnen der Miränen und der Gesandten der Pfade, für gewöhnlich ein halbes Jahrhundert alt oder älter, wachen für einige Zeit noch bei dem Baum, verwildern aber zusehends und wandern irgendwann zurück in die Wälder und werden ab diesem Zeitpunkt von den Elfen als „Gute Geister" beschrieben.
+Bedingt ist deren Ruf als „Gute Geister" dadurch, dass schon so manch ein Elfenstamm überlebte, da eine 8 Meter lange Spinne plötzlich Orks oder Menschen frühstückte.
+
+Die Beerdigung der Elfen, welche früher auch als einzige Möglichkeit der Menschen gesehen wurde, Tote loszuwerden, ohne dass diese als Erwachte die Welt heimsuchten, ist eine Verarbeitung zu Dünger.
+Elfen werden hierbei in Beuteln aus Orithaut und einem Becher voll spezieller Würmer für rund 4 Wochen in die Bäume gehängt.
+Es erfolgt hierbei weder eine Auferstehung noch treten Verwesungsgerüche auf.
+
+Nach dieser Zeit durchbrechen die Würmer den Sack aus Orithaut und verkriechen sich im Erdboden.
+Laut den Elfen erhalten die Bäume so wieder, was ihnen über Orite und Elfen gestohlen wurde.
+
+> Wie sollt ihr dem Tod begegnen, wenn er vor der Türe steht?
+> Sollt ihr hoffen, sollt ihr beten, flehen, dass er weitergeht?
+>
+> Ja!
+> Er soll nur weitergehen - denkt ihr und vergesst dabei, dass nur der Tod kann es verstehen, wenn der Elf sagt: Es ist soweit.
+>
+> Ist es auch schwer, ihn geh'n zu lassen, den Elfen, der so nah euch stand, wollt ihr euch doch in Schweigen fassen: Der Waldgott nahm ihn gern an seine Hand.
+>
+> Schon die Abendglocken klangen und die Flur im Schlummer liegt, wenn die Sterne aufgegangen der Tote schon unter der Erde liegt.
+>
+> Altes Elfengedicht, gekritzelt in den Kerkerzellen von Civis Primae und Calvert.
+
+### Das Leben der Unterworfenen: Stadtelfen
+
+Stadtelfen, sind irgendwann im Laufe der Zeit, allerdings nicht immer unbedingt freiwillig, zu einem Leben in den Reichen der Menschen übergegangen.
+Meist als unterste und ärmste Schicht in der Gesellschaft oder als Sklaven gehalten, entwurzelt von ihren Bräuchen, fristen Elfen häufig ein Dasein, welches sie am Rande der Gesetze lebend vor sich dahinvegetieren lässt bis sie schließlich kläglich in den Gassen zusammen mit Kanalratten verenden.
+
+Trotz der sozial schlechten Stellung in allen menschlichen Reichen, versuchen die meisten Elfen einem geregelten Alltag, frei von Drangsalierungen von Wachen oder Banden nachzugehen.
+So sind meist einfache Aufgaben Elfen vorbehalten.
+Wasser holen, Gemüse schneiden, gelegentlich Kinder von anderen hüten.
+Ein geringerer Anteil der Stadtelfen findet tatsächlich eine lohnende Beschäftigung in den Gilden, Zünften oder Kulten der herrschenden Menschenrasse.
+
+Da viele Elfen aber aus Gründen schlechter Bezahlung, Tradition oder falscher Lebensentscheidungen nicht immer auskommen mit den Einkünften der legaleren Aktivitäten, enden Stadtelfen häufig bei anderen Tätigkeiten zum Erwerb des täglich Brots.
+
+Diebstahl, Raubüberfall, Erpressung, Prostitution, Hehlerei, Attentate und allerlei andere schandwürdige Taten gehen, zumindest wenn man der lokalen Bevölkerung glaubt, häufig auf ihr Konto.
+So gibt es in etlichen Großstädten Handwerker und Schmiede, welche mit dem Begriff "elfensicher" werben, was so viel heißt, wie, dass selbst Elfen hier nicht ungewollt reinkommen.
+
+Das Überleben der Stadtelfen hängt auch maßgeblich von ihren individuellen Fähigkeiten in diesen ordnungswidrigen Bereichen ab.
+Das Leben von Gesetzeswidrigen erfordert ein gewisses Maß an Geschick und Gerissenheit, um bei Raubüberfällen, Attentaten und dergleichen ungeschoren davon kommen zu können.
+Derartige Vorhaben müssen sorgfältig geplant und durchgeführt werden, da den Elfen im Falle einer Verhaftung unverhältnismäßig harte Strafen drohen.
+
+Von Zeit zu Zeit gab es auch Elfen, die den Versuch wagen wollten sich diesem Schicksal als Verstoßene zu entziehen, doch in vielen Fälle wurden sie von Mitgliedern aus den eigenen Reihen davon abgehalten, da dies eine Anpassung an die menschliche Lebensweise und ein Übernehmen von deren Bräuche und Sitten erfordern würde, was mit einer Verleugnung der eigenen Herkunft und Zugehörigkeit gleichgestellt wird.
+Des weiteren ist eine Eingliederung von Elfen auch von Seiten der Menschen ein durchaus schwieriges Unterfangen, da sie nicht wenige Vorurteile gegenüber den Elfen hegen und sich die Sicht der Menschen auf Elfen als Abschaum nicht ändern wird nur weil einzelne Elfen sich einer mehr oder wenige erfolgreichen Vermenschlichung unterzogen haben.
+
+Nicht selten wird auch auf andere Arten und Weisen versucht den Kanalratten-ähnlichen Lebensbedingungen zu entkommen.
+Erpressung, Schmierereien an den Häusern oder Lynchmorde sind häufige Vergehen für Elfen, welche sich aus dem Morast versuchen zu befreien.
+
+> „Diese verdammte Elfin.
+> Schmiert mir zuerst Honig ums Maul und bietet mir die Nacht des Lebens an.
+> Ich, als Ehrwürdiger Mann, möchte ihr natürlich helfen aus dem Morast der Unterwelt zu entkommen.
+> Nur am Ende bin ich bewusstlos und diese dumme Hure klaut mir meinen teuersten Wein um 1400 Reiks.
+> Sie wurde zum Glück von unserer Stadtwache festgenommen und dann doch von irgendeinem Drogensüchtigen Vagabunden befreit.
+> Deshalb sollen die Elfen gefälligst in ihren Hütten bleiben.
+> Rassen gehören getrennt, wie die sinnlosen Worte eines Bardens von dessen Absichten.
+>
+> --- Adeliger aus Nors
+
+In ihren physischen und psychischen Eigenschaften unterscheiden sich die Stadtelfen allerdings kaum von ihren im Wald-lebenden Verwandten.
+Im Intellekt, so heißt es, sind Stadtelfen zwar höher als ihre wilden Kollegen, jedoch auch womöglich ungeschickter mit Tieren.
+Zweifelsohne sind die Stadtelfen in ihren Fähigkeiten spezialisierter auf ein Leben in den Städten, als dies ihre wilden Brüder und Schwestern sind.
+
+### Das Leben der Elfen im Zobelwald
+
+Obwohl in den Elfenstämme für gewöhnlich viele Riten sehr gut über die Jahrhunderte erhalten wurden, zeichnen sich die Elfen im Zobelwald, der zwischen Oberreik und dem Eisland gelegen ist, durch Veränderungen ihrer Kultur aus, was hauptsächlich auf die Zobelfäule zurückzuführen ist.
+
+Die Zobelfäule ist eine scheußliche Krankheit, welche das Fleisch von den humanoiden Rassen bis auf Menschen und Animali langsam verrotten lässt und jedes sonstige Lebewesen zur schlimmsten und furchteinflößendsten Version seiner selbst werden lässt.
+Freigesetzt wird die Krankheit, laut Alchemisten und Heiler von einem Pulver welches im Kernholz großer Eisenholzbäume vorkommt.
+Obwohl die Kirche des Allgotts und deren Chronisten behaupten, dass die Zobelfäule durch das Blut des [Weltenwurms](#WeltenWurm) ausgelöst wird, können sich beide Seiten nicht einigen was die tatsächliche Quelle für dieses Unheil ist.
+
+Für die Elfen im Wald, hat das Abholzen der Wälder den Verlust ihrer Heimat zu bedeuten.
+Es ist folglich wenig überraschend, dass die Waldbewohner nicht erfreut über die Anwesenheit der Holzfäller sind.
+Angeblich haben die Matriarchinnen des Waldes alle Menschen verflucht, welche ihre "heiligen" Bäume abholzen.
+
+Interessanterweise, hat die definitiv existierende Krankheit, auch den Elfen selbst geschadet.
+Die Zobelfäule selbst, macht Monster und viele Tiere zu Abscheulichkeiten ihrer Naturform.
+Leser mögen denken, dass Monster nicht noch schrecklicher werden können, aber ein Werwolf, aus dessen Bauch ein halb verdautes und weinendes Kind schreit, ist selbst für hartgesottene Soldaten ein verstörender Anblick.
+
+Die Krankheit, macht auch den Verzehr der meisten Wildtieren zu einem Glücksspiel.
+Mutierte Tiere werden ohnehin nur von Elfen verzehrt, da diese, zumindest augenscheinlich nicht darunter leiden, vergiftete, oder verfluchte Nahrung aufzunehmen.
+
+Die Auswirkungen dessen lassen sich nun in den gesamten Stammesstrukturen der Elfen des Zobelwaldes sehen.
+Reitspinnen, sind äußerst selten, da diese aufgrund ihrer geringen Resistenz gegenüber der auftretenden Krankheit, rasch verrückt werden, erblinden oder schlichtweg sterben.
+Es wird von der Kaste der Pfote, also den Tierpflegern/Züchtern seit Jahrhunderten versucht, Grawäspinnen zu züchten welche mit der Krankheit nicht infiziert werden können.
+Erfolge haben Chronisten des Kaiserreichs bis jetzt nicht vermerkt.
+Dies erschwert vor allem die Situation der Klauenpfadler, da diese ohne die Hilfe von Reitspinnen große Schwierigkeiten bei der Jagd haben.\
+
+Die langjährige Isolation, im Verbund mit der durch die Zobelfäule veränderten Natur brachte die Zobelelfen dazu, dass die heiligen Stätten in Silva Nacia vergessen wurden.
+Auch der heilige Baum Säritaä hat in der Elfenkultur dadurch keine Bedeutung mehr.
+
+Trotz der weiter andauernden Abholzungen im Zobelwald ist die Einigkeit und Entschlossenheit der Elfen gegen das Kaiserreich vorzugehen äußerst gering.
+Obwohl es seitens der Gesandten der Elfen immer wieder behauptet wird, dass die Elfen jede weitere Abholzung des Waldes nicht dulden würden, sind dem Kaiserreich seit mehreren Jahrzehnten keine Angriffe mehr bekannt, wo mehr als 50 Soldaten bei einer Schlacht verstorben wären.
+Dies ist insbesondere bemerkenswert, da die Elfenpopulation im Zobelwald auf mindestens 60.000 geschätzt wird.
+
+Gelehrte vertreten die Meinung, welche mit gelegentlichen Elfenüberläufern bestätigt werden kann, dass ein Mangel an Reitspinnen und unberechenbare Monster den Elfen einen hohen Blutzoll kosten.
+
+Aus diesem Mangel heraus, scheint zumindest bei den Stämmen welche nahe den Garnisonen des Kaiserreichs liegen, die Abholzung beinahe ungestört vonstattenzugehen.
+Handel und Prostitution sind in den Holzfällergebieten mit Elfen und Menschen auch gegeben.
+So wurden Ballisten und Skorpione bereits mehrfach an die Elfen verkauft.
+
+Die Gelehrte "Alberta von Sturmkap" liefert hier eine eindrückliche Beschreibung:
+
+*Wissen Sie, als ich als Gesandte den Stamm von Matriarchin Oläludi besuchen konnte, fielen mir erstaunlich viele Befestigungen, Mauern, Angespitzte Holzstöcke, gespannte Seile und Dornendickicht auf. Es wirkte zwar wie eine Elfensiedlung aus den Büchern, nur so stachelig wie ein Igel. Die riesigen Eisenholzbäume, welche kunstvoll zu Schlafstätten oder Lagern "umgewachsen" wurden, waren zwar eindeutig geniale Elfengärtnereikunst, allerdings wirkte die Siedlung wie ein Fremdkörper im Wald.*
+
+*Auch die Elfen selbst meinten, dass Sie den Zorn des Waldes auf sich gezogen haben, da sie diesen nicht vor Menschen geschützt haben.*
+
+*Trotz der Gastfreundlichkeit, welche mir und meiner Leibgarde entgegengebracht wurde, merkte man die angespannte Situation in der sich Elfen befanden. Obwohl ich mir anfangs nicht sicher war, ob das aufgrund unserer Anwesenheit war, oder der Furcht vor dem Wald, hatte es wenig von dem typischen "eins mit dem Wald" Gefühl wie dies bei anderen Elfenstämmen anzutreffen ist.*
+
+*In der Nacht wurde es uns verboten das Lager zu verlassen, was wir auch ohnehin nicht planten.*
+
+*Die Nacht war allerdings alles andere als ruhig. Schreie als kämen Sie aus den Tiefen der Verdammnis selbst waren immer wieder zu hören. Elfen, trotz ihrer Nachtsicht hatten das Lager mit etlichen Fackeln hell erleuchtet und Wachen saßen in eisernen Rüstungen um Feuer um sich zu wärmen. Manche Jungen schreckten bei jedem zweiten Schrei auf. Ältere Wachen blickten apathisch ins Feuer, als sei es eine ganz normale Frühlingsnacht. Es war verstörend. Schreie welche von Monstern oder angegriffenen, mutierten Tieren kamen raubten einem jedem Städtner im Kaiserreich den Atem, aber die Kinderschreie von außerhalb des Lagers waren das Entsetzlichste. Als ob man ein Kind lebendig in der heißen Pfanne langsam verbrennt.*
+
+*Am nächsten Morgen, pressten wir uns möglichst eilig durch den Wald. So es der Kaiser selbst nicht befiehlt werde ich nie mehr in diesen Wald zurückkehren. Dieser Ort ist unheilig.*
+
+*Alberta von Sturmkap aus "Chroniken einer Elfengelehrten"*
+
+## Die verlorenen Kinder - Elfen in Restwäldern
+
+Menschen im Reich der Rahkari, des Kaiserreiches und Eldrias waren Elfen selten wohl gesonnen.
+Abholzungen wurden immer häufiger und über größere Landflecke hinweg vollzogen.
+Die Aufspaltung der Waldgebiete und die steigende Dominanz der Menschen in den die Elfen voneinander abtrennenden Gebieten, führte dazu, dass Elfenstämme zunehmend in die Isolation gezwungen wurden und die Größe und Anzahl von durch Menschenhand unberührten Wäldern sich drastisch verkleinerte.
+
+Es ist zwar in vielen abgetrennten Elfenstämmen noch immer das Ziel, Deus Arboris, dein heiligen Plateauberg und Säritaä, den heiligen Baum, zu besichtigen, bzw die Pfadeshöchsten dort zu beerdigen, jedoch ist das nicht immer möglich.
+Die über Jahrhunderte hinweg bestandenen Pfade wurden verwüstet und diejenigen, deren Orientierungssinn gut genug ausgeprägt ist, um auch ohne Pfade dorthin zu finden, stellen letztendlich doch das eigene Leben, das bei der Durchwanderung der von Menschen vereinnahmten Gebiete signifikant bedroht wäre, über die Besichtigung kultureller Güter.
+
+Alternativen bei den Waldelfen außerhalb Silva Nacias sind Versammlungen, meist um den größten oder schönsten Baum des Waldes, welcher oft einer der hohen und knorrigen Varitans Bäume ist.
+Die sich leicht von anderen unterscheidenden Grawäspinnen, die häufig etwas schwächer sind als die aus Silva-Nacia sind jedoch weiterhin fester Bestandteil der Kultur der Waldelfen.
+
+Auch, aufgrund der Nähe zu Menschen herrscht zwar ein rauer Ton, allerdings kommt es selten zu direkten Konfrontationen zwischen Elfen und Menschen, welche das Einschreiten größerer Streitkräfte der Menschen nötig machen würde, was zum Teil daran liegt, dass es dem Elfenvolk durch ihre verheerende Situation sehr an Kräften mangelt.
+
+Umgekehrt, hat sich das Tempo der Abholzung allerdings auch etwas reduziert, was vermutlich zu einer leichten Entspannung der Situation beiträgt.
+
+Dies sollte allerdings nicht darüber hinwegtäuschen, dass die einfacheren Geister beider Seiten einander meist aufgrund negativer Erlebnisse nicht wahrhaftig über den Weg trauen.
+
+## Verhältnis zu den anderen Rassen
+
+#### Waldelfen
+
+Bei den Waldelfen sind zwar geschichtlich ewige Fehden mit menschenfressenden Orks belegt, jedoch hat sich, aus kaum bekannten Gründen, hier der Hass zwischen Elfen und Orks gelegt.
+
+Waldelfen unterhalten im Allgemeinen keine besonderen Beziehungen zu Zwergen, Rahkari, Halblingen, Animali und Goblins wodurch hier rasch Kooperationen erzeugt werden, sofern diese den Menschen im Idealfall Schaden zufügen oder zumindest nichts nützen.
+
+Zu den Menschen aus Eldria oder dem Kaiserreich hingegen, herrscht vor allem in den zerstückelten Waldgebieten tiefes Misstrauen, manchmal auch blinder Hass.
+Beziehungen zueinander bestehen in den meisten Fällen aus wirtschaftlichem Zwang.
+So etwas wie Freundschaften werden hier wohl nicht mehr entstehen, aber ein halbwegs friedliches Leben als Nachbarn entsteht dann, wenn keine nächtlichen Überfälle mehr auf die den Wald umringenden Dörfer von Seiten der Elfen durchgeführt werden.
+
+Waldelfen haben, meist mangels repräsentativer Institutionen keine offiziellen Beziehungen zu anderen Rassen.
+Das bedeutet, dass man vergeblich offizielle Repräsentanten wie Elfen des Status der Gesandten oder Aufrechte der menschlichen Städte bei den Waldelfen findet.
+Folglich ist eine waldelfische Rechtsprechung oder eine schlichte Verhandlung mit Anliegen der Waldelfen äußerst schwierig.
+Dies führt unweigerlich zu Komplikationen auf größeren Ebenen.
+Insofern wird das Verhältnis von Waldelfen und Dörfern oder Städten meist lokal geprägt.
+Das heißt, häufig hängt es von den lokalen Dorfvorstehern, Adeligen oder Militärkommandanten ab wie das Verhältnis zu den Waldelfen ist.
+
+#### Stadtelfen
+
+Auf Seite der Stadtelfen bestehen ebenfalls keine offiziellen "stadtelfenspezifischen" Priester, Militärkommandanten oder Zünfte.
+Da die entwurzelten Stadtelfen sich in neue Gesellschaften einfügen mussten und von offizieller Seite, sowohl von den Rahkari, den eldrischen Fürsten als auch vom Kaiserreich keine schlechtere Stellung gegeben ist, wird der Wunsch der Stadtelfen nach Repräsentation damit abgeschmettert.
+Der Groll auf diese wirtschaftliche und soziale Schlechterstellung ohne offizielles Gehör zu bekommen mündet damit meist in unterschwelligen Hass der Stadtelfen gegenüber den Menschen.
+
+Das ändert beileibe wenig an der regulären, sozial bedingten Diskriminierung gegenüber Stadtelfen und dass sie, insbesondere in gehobeneren Vierteln kaum einen Finger rühren können ohne sofort ungerechtfertigter Weise irgendeines Verbrechen verdächtigt zu werden.
+
+Dementsprechend werden die Menschen unter den Stadtelfen im Allgemeinen als überheblich, pingelig und herablassend angesehen.
+
+> "In welch unsittlichen Zeiten leben wir, dass der Elfenabschaum plötzlich ein eigenes Stadtviertel besitzen darf? Ich dachte das Ziel war sie alle einzukerkern ? Die Hoffnung mir irgendwann keine Sorgen mehr machen zu müssen, dass mir Frau und Geld von diesen Dieben gestohlen werden, kann ich wohl vergessen. In die Zellen mit diesen Banditen, denen kann man nicht über den Weg trauen. Der Kerker würde sie sogar vor Hungertod und Bandenkriegen bewahren. Vor allem aber würden sie uns nicht mit ihrem Gestank den Marktspaziergang versauen."
+>
+> --- Adeliger Varus Rex Hedrius in Agiontum
+
+Gegenüber den anderen Rassen verhalten sich Stadtelfen meist neutraler bzw.
+sind üblicherweise etwas argwöhnischer im Umgang.
+So werden Orks bezichtig nicht reinlich genug zu sein, Zwerge seien geldgierig, Halblinge nicht ganz für voll zu nehmen oder Goblins ohnehin gerade mal so als bessere Tiere zu sehen.
+
+Demnach ist keine besondere Stimmung der Stadtelfen gegenüber diesen Gruppen herausfilterbar und es gibt auch keinen Anhaltspunkt für Leser dieser Schriften, welche ein angesehenes Verhalten gegenüber Stadtelfen aufzeigen wollen.
+
+Um zusammenfasssend noch einmal die Unterschiede der Stadtelfen zu den Waldelfen hervorzuheben kann folgendes gesagt werden:
+
+Die Zerstörung der ursprünglichen Lebensräume der derzeitigen Stadtelfen, Versklavung und das Beseitigen der "Idealisten" im Zuge der Ereignisse um die Entwurzelung hat diese Elfen der Städte vermutlich einfach pragmatischer und abgebrühter werden lassen.
+Moral, Werte, oder blinder Hass, sind etwas für Leute, welche nicht mit einem Bein im Kerker stehen oder im Grab liegen.
+
+## Orte
+
+### Deus Arboris
+
+Der Deus Arboris ist der heilige Plateauberg der Waldelfen von Silva Nacia.
+Der Aufgang erfolgt über den heiligen Baum Säritaä, welcher durchaus als beschwerlich betrachtet werden kann.
+Am Plateauberg selbst werden neue Matriarchinnen von Silva Nacia gewählt, oder Belange des Silva-Nacia Verteidigungsbündnisses besprochen und entschieden.
+Der Berg selbst ist aus hartem Kalkstein mit besonderen rot-schwarz-braunen Schichten und lässt sich nur äußerst mühevoll von geübten Bergsteigern erklimmen.
+Auf dem Plateuberg finden sich einige, für Waldelfen untypische, zur Hälfte in den Fels gemeißelte Häuser, welche keine reguläre Wohnfunktion übernehmen.
+Schlafplätze werden frei gewählt und Nahrung wird aus dem tiefer liegenden Silva Nacia Gebiet besorgt.
+
+Ein grauer Obelisk aus einem sehr festen Gestein stellt den Versammlungsort dar, wo wichtige Reden abgehalten werden.
+
+Der Plateauberg erlaubt einen Überblick über beinahe den gesamten Silva Nacia Wald, sofern die Luft klar ist.
+
+### Sildrem Ird
+
+Die lose zusammenhängenden Elfenstämme in Silva Nacia, welche sich östlich der Verbindungsstraße zwischen Calvert und Agiontum befinden, haben, untypisch für Waldelfen keine strikte Trennung der Wohngebiete.
+Die an und für sich nicht dicht beieinanderliegenden einzelnen Wohn- und Lagerräume wirken dadurch etwas untypisch und das gesamte "Sildrem Ird" genannte Gebiet gleicht einem riesigen Dorf von Elfen, welches kein Zentrum zu haben scheint.
+
+Flankiert wird die Siedlung im nördlichen Teil von den Sumpfgebieten mit dem davor liegenden Fluss "Freiwasser" und im Süden von einer rund 15 Meter hohen Klippe.
+
+In Sildrem Ird findet üblicherweise ein Großteil des Handels mit anderen Rassen statt, welche durch die Verbindungstraße, die zwischen Agiontum und dem Fürstentum Calvert liegt, ermöglicht wird.
+
+### Höhle der Verbindung
+
+Laut Elfen wird diese Höhle mitten im Wald Silva Nacias aufgesucht, falls Elfen Probleme mit ihren Grawä-Spinnen haben.
+Der Mythos besagt, dass die Höhle es ermöglicht mit seinen Spinnen zu reden, oder ihre Gedanken zu lesen.
+
+Der Ursprung der Höhle der Verbindung, so die alten Überlieferungen, lag in einem Brutgebiet der noch kaum domestizierten Grawäspinnen.
+Mehrere Spinnenfamilien legten dort immer wieder Eigelege an und jagten von dieser "Heimathöhle" aus Beute in der Umgebung.
+Die Waldelfen selbst nutzten die Brutgebiete als verlässlichen Quell frischer Lebenskraft für die eigenen gezüchteten Spinnen.
+Der Hintergrund war, das wie beim Züchten von Kühen sich allerlei Gebrechen einschleichen.
+
+Im Laufe der Generationen, waren die Spinnen der Höhle der Verbindung die Präsenz von Elfen gewohnt und die Phase der "Verbindung" begann für die Elfen.
+Elfen konnten hier auch mit wilden Grawäspinnen in "Harmonie" leben.
+
+Durch eine ungeklärte Ursache, je nach Stammeserzählungen der Orks, Goblins oder Menschen variirend oder durch das Erzittern der Erde ausgelöst, stürzte der Großteil der tiefer gelegenen Abschnitte der Höhle ein, und begrub so die ältesten und größten Spinnen.
+Dieses Ereignis führte auch dazu, dass die eingestürzten Felsen den Untergrundfluss der Höhle teilweise verdrängten, was dazu führte, dass dieser gelegentlich an die Oberfläche gepresst wurde, wo dieser durch wiederholt hochgespülte Amethysten eine purpurne Farbe annahm .
+
+Elfen kommen indes ununterbrochen zu dieser Höhle, wo heutzutage deutlich weniger Spinnen und Amethysten anzutreffen sind.
+Den Elfen zufolge ermöglicht das Trinken des Wassers mit einem Amethyst aus dem Höhlenfluss die Kommunikation mit den eigenen Reitspinnen.
+
+## Legenden der Elfen
+
+### Üräid die Weise
+
+Üräid die Weise war eine Matriarchin besonders hohen Alters, ausgestattet mit der Vitalität einer Jungen Elfin.
+Ihre Verbindung fand sie zu der Grawäspinne Golmiäd, die laut Elfen mit ihren Beinen eine Distanz von 100 Männern umspannte und ein Monstrum sondergleichen war.
+
+Die Spinne und ihre Matriarchin Üräid zogen gegen gierige Zwerge in Wandia in die Schlacht, da diese den Wald zu sehr zerstörten, um Baumaterial für ihre Stadt zu gewinnen.
+Es folgte eine riesige Schlacht, welche allerdings ohne einheitliche Ereigniskette zwischen 1150 und 750 vor Riga stattgefunden haben musste.
+
+Laut den Elfen war Üräid siegreich.
+Allerdings ist diese Ansicht außerhalb Silva Nacias weniger verbreitet.
+Dort herrscht die Meinung, dass Üräid samt ihrer Spinne getötet wurde.\
+
+### Päliuüd Wächter der Himmelsspitzen
+
+Päliuüd war der Gesandte des Kopfes von der Matriarchin Üräid der Weisen um 970 v. Riga.
+Er wurde von ihr beauftragt, "die Berge zu ergrünen und die Blüte des Lebens in diese unwirtlichen Welten zu bringen".
+
+Er brach mit einem Tross von rund 4000 Elfen von den östlichen Hängen des Himmelspitzengebirges auf um seine über Jahrzehnte angesammelten Forschungen und Schriften zu kälteresistenten immergrünen Bäumen und Setzlinge in die Tat umzusetzen.
+
+Seine ersten Erfolge erzielte er kurz darauf und sein "Stamm" konnte in den ersten Tälern der Himmelsspitzengebirges hervorragend leben.
+Angeblich war die Einigkeit der 4000 Elfen so stark, dass die unsägliche Kälte, die die meisten Lebewesen tötete, ihnen nichts anhaben konnte.
+Als einige Jahrzehnte später die ersten jungen Grawäspinnen vom Pfad der Pfote schlüpften und die Aufrechten vom Pfad des Holzes die ersten Bäume in permanente Wohn- und Lagerräume umgestalteten, wollte der Stamm formal als Unterglied des Stammes Uräids anerkannt werden.
+
+Allerdings verlor sich die Spur kurz nach dieser Forderung des Paliuüd'schen Stammes.
+Elfen sagen dass Uräid eine Abspaltung nicht duldete, da man nur vereint bestehen konnte und es deshalb nie zu einer offiziellen Annerkennung deren Zugehörigkeit kam.
+Orks berichteten wenige Jahre später zwar von Elfen in den Gebirgen, und wie man diese am besten zubereitet, aber nur kurze Zeit danach finden sich keine Nachweise ihrer Existenz mehr.
+Die Legenden besagen, dass kurz danach von den Elfen nur noch Sand zu finden war.
+
+Aufrechte der Klaue und des Kopfes begeben sich alle paar Jahrzehnte wieder auf die Suche nach Päliuüds Siedlung und errichteten ihm zu Ehren eine Statue, welche Silva Nacia und Wandia überblickt um für immer mit Verstand und Herz über die Seinen zu wachen.
+Allerdings konnten weder angepasste Samen, noch Spinneneier oder deren Hüllen je gefunden werden, was für ein dubioses Spurloses verschwinden sprechen würde.\
+
+Für Elfen bedeutet diese Geschichte, dass Einigkeit und der Dienst unter der Matriarchin heilig ist und sich ein Stamm nie spalten sollte.
+Die Statue von Päliuüd dient als Mahnmal dafür, dies zu achten, da man ansonsten von der Erde verschlungen wird.
+
+### Fägriaäs Samen und Dorn
+
+Der heilige Baum Säritaä der Elfen ist, zum Leidwesen der Elfen, unfruchtbar.
+Es wurden alle erdenklichen Versuche unternommen einen weiteren Schößling dieses Baumes zu ziehen.
+Die Gesandte des Holzes Fägriaä behauptete, dass die kosmischen Strahlen den Wuchs von Keimlingen verhindern und, dass solch ein Wald nur am anderen Ende der Welt mit einem Samen Särtiaäs entstehen kann.
+
+Fägriaä wanderte daraufhin mit einer kleinen Gruppe von Elfen ans Ende der Welt.
+Allerdings kristallisierte sich im Laufe der Reise das Problem heraus, dass niemand wirklich wusste, wo sich das Ende der Welt befand.
+Um dieser Frage auf den Grund zu gehen versuchte Fägiraäs mittels roher Gewalt Informationen aus menschlichen Gelehrten herauszupressen und streckte alle mit ihrer Waffe - "Fägriaäs Dorn" - nieder.
+Es handelte sich um einen Bogen aus dem Holz des Säritaä Baumes, welcher angeblich wundervolle Eigenschaften hatte.
+Gelehrte welche gezwungenermaßen kooperierten, führten die "wahnsinnige Elfin" in die Wüste der Rahkari, immer weiter Richtung Süden, wo sich ihre Spur irgendwann verlor.
+
+Es wächst, wie bei den Elfen überliefert, seit jeher der Wald vom Ende der Welt unaufhörlich in Richtung des Mutterbaumes im Silva Nacia.
+Rahkari Gelehrte allerdings halten diese Geschichte für Unsinn und halten Forschende aktiv davon ab, die Wüste im Süden zu erkunden mit den Worten:
+
+*"Zu viele Tote konnten wir nicht zurück zu unserem Berg bringen, wir werden nicht noch mehr Opfer in die Wüste schicken. Leben ist zu kostbar, seien es Elfen oder die Unsrigen"*
+
+Seitdem streiten sich Elfen, ob, wo und wie die Samen Saritaäs verbreitet werden können und was das Ende der Welt bedeutet.

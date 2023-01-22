@@ -1,0 +1,388 @@
+# Drogen und Pflanzen {#DrogenPflanzen}
+
+## Wirkung verschiedener Drogen:
+
+Zu den Drogen zählen:
+
+* Die <font color="green">[Euphorika](#Euphorika)</font>
+* Die <font color="green">[Madnika](#Madnika)</font>
+* Die <font color="green">[Narkotika](#Narkotika)</font>
+* Die <font color="green">[Sedativika](#Sedativika)</font>
+* Die <font color="green">[Adrenalinka](#Adrenalinika)</font>
+   
+<br>
+
+### Euphorika  {#Euphorika}
+  * Heben die Stimmung,
+  * erzeugen Zuversicht,
+  * erzeugen Selbstbewusstsein.
+  * Senken Hemmschwelle
+  * Senken Aggressivität
+  * Suchtgefahr höher je stärker das verwendete Euphorika
+  * Suchtgefahr von Stufe I ist sehr gering.
+  * Suchtgefahr von Stufe IV - VI ist sehr hoch.
+
+<br>
+
+### Madnika  {#Madnika}
+  * Verbessern die sensorische und Visuelle Reaktionsfähigkeit
+  * Senken Hemschwelle
+  * Erhöhen Aggressivität
+  * Senken Einsichtsvermögen
+  * Senken das Schmerzempfinden massiv.
+  * Erzeugen Halluzinationen (Audio, visuell, sensorisch)
+  * Amnesie auslösend
+  * Hohe Suchtgefahr!
+
+<br>
+
+### Narkotika  {#Narkotika}
+  * Machen schläfrig
+  * Senken Blutdruck
+  * Senken Schmerzempfinden
+  * Senken die Reaktionsgeschwindigkeit massiv.
+  * Sehr hohe Suchtgefahr!
+
+<br>
+
+### Sedativika {#Sedativika}
+  * Senken die Aggressivität
+  * Senken die Wachsamkeit
+  * Erhöhen die Lethargie
+  * Senken den Blutdruck    
+  * Machen leicht müde.
+  * Leichte Suchtgefahr.
+
+<br>
+
+### Adrenalinika {#Adrenalinika}
+  * Verbessern die Reaktionsgeschwindigkeit. 
+  * Senken das Schmerzempfinden.
+  * Senken die Hemmschwelle.
+  * Erhöhen den Zugang zu körperlichen Kraftreserven
+  * Hohe Suchtgefahr!
+    
+## Drogen und ihre Zutaten {#App}
+
+Drogen in Orbis Astera werden aus verschiednen Pflanzen gewonnen
+
+```{r}
+gr=read_xlsx("Container/Data/AllaroundDataStorage.xlsx",sheet="Pflanzen")
+
+gr=gr[-c(1,nrow(gr)),-c(2,27)] %>% pivot_longer(2:25, names_to = "Region") %>% filter(value==1) %>% 
+  select(-c(value,Rarität,Häufigkeit)) %>% arrange(Region,Name)
+
+
+
+htmltools::browsable(
+  tagList(
+    div(
+      div(tags$label("Region: ", `for` = "region-filter")),
+      tags$select(
+        id = "region-filter",
+        onchange = "Reactable.setFilter('region-filter-table', 'Region', this.value)",
+        tags$option("Alle", value = ""),
+        lapply(unique(gr$Region), tags$option),
+        
+      )
+    ),
+    
+    #tags$hr("aria-hidden" = "false"),
+    
+    reactable(gr, searchable = T,
+              columns = list(
+                Kosten = colDef(format = colFormat(suffix = " Reiks")),
+                Region = colDef(show=F)
+              ), bordered = T, highlight = T, showPageSizeOptions = TRUE,
+              striped=T,
+              pageSizeOptions = c(5,10, 20, 50),
+              defaultPageSize = 10,  paginationType = "jump",
+              theme= overallThemeReactable, defaultColDef = colDef(
+                align = "center"
+              ),
+              elementId = "region-filter-table")
+  ), 
+)
+
+
+```
+
+## Drogen in verschiedenen Zivilisationen
+
+### Umgang des Kaiserreiches mit Drogen {#DrogenKaiser}
+
+> "Drogen bringen das Schlechteste im Manne hervor und die unsittlichsten Seiten der Frauen."
+>
+> --- Pontifex Maximus Arturius Seius
+
+Drogen gehören zur Geschichte der Menschen des Kaiserreiches, zum Widerstreben der Ekklesia. Der gewöhnliche Bürger nutztz in den meisten Zeiten Bier, Wein und Schnaps welche alle zu den einfachsten Euphorika zählen. Die Effekte sind so ziemlich jeden besitteten Menschen bewusst.
+Das Anstoßen mit Bier, gehört für die normale Bevölkerung zu einem jeden Tavernenbesuch dazu. Hierbei wird meist eine verträgliche Menge an Bier konsumiert.
+
+Besser gestellte Klassen trinken bevorzugt Weine. Die Wirkung ist ident mit dem eines Humpen Bieres.
+
+Die Plage der Madnika umfasste in rezenteren Zeiten vor allem Eldria und teils in Ritualen bei verschiedenen Orkstämmen. Aufgrund des stringenten Durchgreifens des Kaiserreichs konnte der Missbrauch durch Madnika großteils eingedämmt werden.
+Hierbei sollte erwähnt werden dass Madnika von der allgemeinen Bevölkerung nicht genommen werden, da die Zustände nicht dem Spaße dienen, Geschweige denn Konsequenzenlos bleibt, da unter dem Rausche der Madnika häufig weitere Gesetze gebrochen werden.
+Madnika werden allerdings von Drogensüchtigen verwendet um die unvorteilhaften Wirkungen eines Entzugs zu kompensieren.
+
+Sedativika finden bei der Behandlung von diversen Krankheiten verwendung.
+Vor allem wird die Behandlung von traumatisierten Soldaten, welche nicht mehr aktiv im Dienst für den Kaiser stehen, auch von offiziellen Stellen empfohlen.
+
+Narkotika stehen bis zur Stufe IV medizinisch relevanten Eingriffen, wie schweren Verletzungen oder Vermeidung von Leid direkt bei schweren Verletzungen ohne Aussicht auf medizinsche Behandlung. Leichte Narkotika der Stufe I & II werden bei der Behandlung von kleineren Verletzungen (Infektion der Zähne) verwendet.
+Bei der Verwendung von Narkotika ist allerdings darauf zu achten die Anwendungsmenge und die Häufigkeit der Applikation möglichst gering zu halten.
+
+Adrenalinika sind für die gemeine Bevölkerung Verboten. Verwendet werden Sie für gewöhnlich in Kämpfen und bei der Niederschlagung von Aufständen beziehungsweise bei intensiven Einsätzen der Ordnungskräfte.
+Aufgrund der Vorteile im Kampfe sind die Strafen für den Besitz der Zivilbevölkerung Verhältnismäßig hoch.
+Adrenalinika stellen eine Suchtgefahr dar und ist vor allem bei langjährig an der Front dienenden Soldaten ein Problem dessen sich das Kaiserreich bewusst ist aber keine effektive Lösung dazu hat. Soldaten außer Dienst ist für gewöhnlich per Behördendekret im Einzelfall die Einnahme von Sedativikas erlaubt.
+
+
+Zu den Drogen im engeren Sinne welche gesetzlich eingeschränkt sind sind alle Euphorika der Stufe III und höher. 
+Sedativika der Stufe II und höher sind gesetzlich nur ausgebildetetn Alchemisten und Heilern zugänglich und dürfen nur von diesen verabreicht werden.
+Sedativika der Stufe III und IV dürfen nur unter speziellen Umständen eingesetzt werden (Kriege, Operationen).
+Narkotika der Stufe I und II dürfen von Heilern und Alchemisten verkauft werden.
+Narkotika der Stufe III- IV sind nur unter speziellen (Kriege, Operationen) Umständen von ausgebildetem Fachpersonal anzuwenden.
+
+Adrenalinka stehen gesetzlich nur Ordnungsräften des Kaiserreiches und der Kaiserlichen Armee zur Verfügung.
+
+Madnika sind gesetzlich in keiner Stufe erlaubt und sind daher gänzlich Verboten.
+
+Der Besitz  obig erwähnter Substanzen wird mit bis zu 10 Jahren Freiheitsentzug geahndet. Wiederholungstäter können durch das Beil gerichtet werden. Es erfolgt hierbei keine Segnungen durch die Ekklesia.
+
+Der Besitz obig erwähnter Substanzen führt unter allen Umständen - abgesehen von Richtung durch Beil - zu einer Läuterung unter der Leitung der regionalen Abteilung der Ekklesia.
+
+
+## Verwendung der Pflanzen
+
+Die diverse Flora der ehemals großen Wälder  sind auch heute selbst für Laien nicht zu übersehen. Die Ansäßigen Elfen besitzen einen unheimlichen Reichtum an Wissen über diese ganze Flora, welches für Alchemisten aus dem Kaiserreich, wie auch dem Reiche der Rah Kari bares Gold wert wären. Allerdings sind die Elfen nicht besonders erpicht, trotz Handel mit den Kaiserreich, ihr Alchemistischen Wissen zu vermitteln.
+
+So mussten Alchemisten und Heiler, bereits vielfach mit dem Leben bezahlen, oder ihre Patienten und Kunden unabsichtlich in die Reiche des Allgottes schicken nur um die Wirkungen der Pflanzen und gewisser Tierbestandteile besser zu verstehen.
+
+Obwohl die Flora und Fauna des restlichen Kaiserreiches seit der Unterjochung der Landschaft in den Dienste der Ernährung gestellt wurde, und dementsprechend die nicht menschliche Welt ihren Reichtum schon stark verlor, dient die übrig gebliebene Fauna und Flora durchaus sehr erfolgreich dem Kaiserreich und dem Allgott, wie auch den Wilden der Rah Kari.
+Orks im speziellen haben, trotz geringer Intelligenz einen unheimlichen Reichtum an Nutzen und Effekten von Pflanzen über die Jahrhunderte ihrer vermutlich früher  einigen Kultur gesammelt.
+
+Was allerdings weitaus bedeutender und grundlegender ist, als die Herstellung von Aphrodisika oder Drogen, ist die Ernährung der Menschen.
+
+Hierbei zählen die Weiden, Wälder und Felder, wie auch die Flüsse und Seen und natürlich das Meer als essentiell.
+
+Hierbei war, ursprünglich, neben dem Abwringen der Wälder von den Elfen, die Generierung von Ackerland und Weideflächen zwangsläufig notwendig, da das Kaiserreich sonst seine wachsende Bevölkerung nicht ernähren konnte. Insofern war das Verdrängen der Elfen im Namen der Bewahrung der obersten Schöpfung des Allgottes gerechtfertigt.
+
+> "Meine Brüdern und Schwester, ich sage euch, macht euch die Erde untertan. Pflüget sie. Sähet Sie, Erntent Sie denn damit zeigt der Allgott eure Liebe. Wachset nichts aus dem Boden hervor, so habt ihr dem Allgott nicht gehuldigt. So tut Buße auf das die Güte des Allgottes euch erfahren soll."
+>
+> --- Pater Arhenius Ritionian - 213 nach Riga in seiner Predigt zur alljährlichen Allgotterntefest
+
+
+Obwohl mittlerweile ausreichend bekannt ist, das primär eine ausreichende Düngung und die Abwesenheit des Kriiin Pilzes für eine reiche Ernte von oberster Bedeutung ist, so sollte man doch den Heiligen Sankt Torius anbeten denn schließlich beeinflusst der Allgott noch immer den Regen.
+
+
+### Nutzpflanzen
+
+Die Prinzipielle Nahrungsquelle der Menschen im Kaiserreich ist der Weizen und primär das daraus verarbeitete Brot.
+Hierbei gibt es unterschiedliche "Arten" von Weizen welche über Züchtung gezielt andere Varianten hervorbrachte.  Hierzu zählen Hafer, Gerste, Maiak, und die nur in Yondalla wachsende Kariok Wurzelknolle.
+Diese wenigen Pflanzen sind die Grundlage für den Bevölkerungsreichtum des Kaiserreiches und werden und verschiedenen Züchtungen breit angebaut.
+
+
+
+![Weizenfelder von Yondalla](Pictures\\Flavor\Platzhalter\Weizenfeld.jpg)
+
+Sie dienen vor allem der Deckung der Grundbedürfnisse und sind einfach zu lagern. Explizit die Kariok Wurzelknolle verfügt über exzellente Lagereigenschaften und ermöglicht mit Blauen Bohnen die billigste einfachste aber sicherste Versorgung der Bevölkerung und wird im allgemeinen als das Essen der einfachen Leute bezeichnet.
+
+Gerste wächst, abgesehen von den Steppig kalten gebieten rund um die Eiswüste, überall und dient zur Herstellung des flüssigen Brotes, Bier genannt.
+
+Hafer ist für bessere Böden hervorragend geeignet und dient zur Abdeckung der Grundnahrungsmittel, vor allem in kälteren Jahren, da Hafer einfacher zu lagern ist und  mit widrigeren Bedingungen zurecht kommt als die teils sensibelen Weizensorten welche in  Yondalla beiahes jedes Jahr angebaut werden können.
+
+Maiak ist eine Ursprünglich vermutlich aus dem Bermatal stammende getreideartiges Grundnahrungsmittel. Obwohl es weitaus reichhaltiger und sättigender ist wird es meist nur von Adeligen und Fürsten und Kommandanten des Militäres verspeist.
+
+
+Eine unheimliche Vielzahl wohlschmeckender Früchte wird an den Grenzen des Großen Waldes und Yondallas, wie auch in Eldria angebaut. Hierbei zählen riesige Plantagen an Stainbirnen, Rosäpfeln, Toriusspalten, Walokfrüchten zu den am weitest Verbreiteten Früchten - was durch ihre einfache Lagerung bedingt ist.
+
+
+Die Ernährung der Reicheren Bevölkerungsschichten ist vielfach fleischlastiger als die regulärer Bauern. 
+Die Fleischeslust, welchen man gemäß dem Allgott fröhnen darf, ist der Verzehr von Wild, Schwein, Fetttauben, Hühnern. Obwohl der Verzehr von Monsterfleisch im Allgemeinen nicht verboten ist, so findet man doch, aufgrund der Rarität, abgesehen von den Orks, keine gute Küche welche diese Absurditäten und Raritäten verarbeitet.
+
+Zum Beispiel wird das Fleisch eines Lindwurms als zäh, bitter und nach Schwefel stinkend beschrieben, was nach dem Kochen noch  verstärkt wird. Lediglich Orks verspeisen regelmäßig, fast rohes Lindwurmfleisch.
+
+Fisch und Krustengetier, bietet für viele, vor allem an Seen und Küstengebieten gelegenen Städte, wie Nors und Riga, eine breite Palette an wohlschmeckenden und teils auch günstigen Fischen welche von der Allgemeinn Bevölkerung wie uach vom Adel häufig verspeist wird ( was vor allem zu einer regionalen Verachtung von Fetttaubenfleisch führte).
+
+
+
+![Weizenfelder von Yondalla](Pictures\\Flavor\Platzhalter\Toriusspalte.jpg)
+
+
+![Weizenfelder von Yondalla](Pictures\\Flavor\Platzhalter\Weizenfeld.jpg)
+
+
+### Nutzung von Pflanzen für allgemeine Gebrechen und Leiden
+
+Die Liste der Plagen, Fröste, Fieber, Seuchen und Unannehmlichkeiten welche uns der Allgott in diese Welt gesendet hat ist ein jedem, welcher sich in den Armenvierteln der Städte aufhielt hinreichend bekannt.
+
+Hierbei ist, durch die Gnaden des Allgottes allerdings ein jedem Kraute ein Nutzen für die Schäfchen des Allgottes gegeben worden.
+
+Eine kurze Liste mit gut bekannten Heilmitteln:
+
+Goldpilz: 
+In kleinsten Mengen hlift der teure Goldpilz gegen Durchfall und leiden des Kopfes wie Wahnsinn und Herumhurerei. Große Mengen wirken schnell toxisch und verursachen sowohl tagelange tränende und rote Augen als auch erbrechen.
+
+Perliges Wasserkraut:
+Zusammen mit eingekochtem Wein und etwas Gelantine lässt sich daraus ein hervorragendes Mittel gegen die aufdringlichen Stechmücken oder Blutgeister herstellen. Die entstehende Salbe lässt man auf der Haut trocknen und sollte rund alle 2 Tage erneuert werden.  Eine Überdosis mit Perligem Wasserkraut verursacht bei Kontakt mit den Augen oder Schleimhäuten lediglich einen Niesanfall welcher bei Abwaschen mit Wasser sofort stoppt.
+
+Süße Stainbirne:
+Die weit verbreitete und genutzte Süße Stainbirne hilft bei Erschöpfungszuständen und Schlafheit des Gliedes. Hierfür muss die Stainbirne getrocknet, geschnitten und anschließend mit Schwarzöl gekocht werden. Die entstehende Paste kann weiter getrocknet werden und so genüßlich gekaut werden oder schlichtweg mit ausreichend Wasser geschluckt werden.
+
+Ji-Tai Pilz:
+Ji-Tai Pilze haben keine Verwendung in der Alchemie des Kampfes, eignen sich jedoch hervorragend um Verspannugen in den Muskeln zu beseitigen und sind so in getrockneter Form  der häufige Begleiter für Bauern welche schwere körperliche Arbeit verrichten. Jitaipilze sollten unter **keinen** Umständen mit Alkohol gemischt werden da dadurch die gefürchtete Geisteskrankheit der Herumhurerei entstehen kann.
+
+Ratian Wurzel:
+Die Wurzel werden, zusammen mit etwas Schweinefett und getrockenten Hühnerfedern als Salbe gegen Ausschläge der Haut verwendet. Sie haben eine beruhigende und Juckreizstillende Wirkung und wurden beim Durchwandern der südlichen Elfenwälder empfohlen um  der Wartwanzenbisse in ihrem Juckreiz Herr zu werden. Ratianwurzel kann nicht überdosiert werden und mehrere Berichte belgen, dass Soldaten ihre Beinschienen verkauften um ihren Körper mit Ratianwurzel einzureiben, nur um ruhig schlafen zu können.
+
+Peskinpinselknollen:
+Die Knollen der Peskinpinsel helfen hervorragend bei der gefürchteten Fetttaubenpest (welche NICHT von Fettauben stammt). Hierzu müssen die Wurzel, roh oder gekocht bereits bei den ersten Krankheitssysmptomen  alle 2 Stunden gegessen werden. Aufgrund des bitteren scharfen Geschmackes wird empfohlen die Knollen mit Obst zu verzehren.
+
+
+Uraninanblätter:
+Diese aus dem südlchien Elfenwäldern stammende Pflanze ist, trotz ihres Preises, in den Lagern fast sämtlicher Fürstlicher Alchemisten zu finden, da Sie die  Übertragung der Blaulungenpest verhindert. Dies ist auch der Grund warum Hufig der oberste Pater einer Ekklesia einen kleinen Vorrat an Uraninanblättern besitzt. Dieser wird dann zu Pestzeiten den großzügigen Spenderin der Ekklesia mit dem typischen Schluck Messwein gegeben.
+Uranianblätter müssen vor den Mahlzeiten eingenommen werden und führen bei langen Pestepidemien dazu, dass Adelige häufig Dünn sind, weswegen es in den höheren gesellschaftlichen Schichten als Schick gilt dünn zu sein, denn so zeigt man, dass die Blaulungenpest einem Fern bleibt.
+
+
+Warzenhöckerwurzel:
+Die Eigenschaften in Tränken sind inreichend bekannt. Weniger bekannt ist, dass die Warzenhöckerwurzel als Ideales Mittel gegen einen Kater, von zu viel Alkohol, und gegen Flöhe, von echten Katern, hilft. Hierbei kann man Warzenhöckerwurzeln in Alkohol einlegen und diesen dann stark verdünnt, trinken.
+Warzenhöckerwurzel sind allerdings frisch leicht gitfig und führen zu erbrechen.
+
+
+Heinrichskraut:
+Heinrichskraut zählt den am kompliziersten Medicinialinkan zum herstellen, bieten aber in der Heilung vom gefürchtetn Rückenwarzenmaden Befall.
+Die Herstellung sollte NUR von ausgebildeten und akkreditierten Alchemisten/Heilern erfolgen.
+
+Herstellung:
+Das Heinrichskraut wird zuerst in Rotwein rund 4 Tage gekocht, wobei immer wieder Rotwein nachgegossen werden muss, da dieser sonst verdunstet. (Ein Topf mit Deckel reduziert die verwendete Menge Rotwein).
+
+Der Rotwein muss anschließend nach den 4 Tagen im noch HEISSEN Zustand abgegossen werden, am Besten über ein Sieb.
+Das Heinrichskraut darf dabei NICHT auskühlen.
+Nach dem Abgießen muss das Heinrichskraut 15 Minuten (Eine geeignete Sanduhr ist obligatorisch) im Blut des zu behandelnden köcheln - hierbei muss das Blut bereits vorher mit Weidenrindenextrakt (ein beliebtes Mittel gegen Kater oder Kopfschmerzen) erhizt werden.
+Nach dem 15 minütigen Köcheln kann mit einem Sieb die Überreste des Krautes abgegeosen werden. Die Mischnug aus Blut und den Bestandsteilen des Heinrichskrautes muss dann  auf Körpertemperatur abkühlen. 
+Die Körperwarme Flüssigkeit muss dann in einen Kupfertopf (auf keinem Fall davor einen Kupfertopf verwenden) wieder erhitzt werden bis eine zähe Masse daraus entsteht. Die Zähigkeit ist Vergleich mit dem Auswurf von einer späten Erkältung.
+
+Anschließend muss die Zähe masse erneut in möglichst reinen Alkohol gelegt werden und OHNE Hitze umgerührt werden bis sich die Masse aufgelöst hat.  Die masse wird dann in einen Topf überführt welcher gereinigte (Blutfreie) Schafsleber enthält. Die Schafsleber sollte im idealfall fein prüriert sein.
+Anschließend wird die Alkohol-Heinrichskraut-Blutlösung hinzugegeben und 1 Tag kontinuierlich gerührt (Es wird emfpohlen hierbei eine Magd zu verwenden da die Zeit des Alchemisten/Heilers besser genutzt werden kann).
+
+Dadurch benötigt die Herstellung des Mittels etwas mehr als 5 Tage und benötigt den zu Behandelden Vor Ort (für das Blut).
+
+Die in den Großen Städten eingerichtet Heilhäuser haben meist mehrere Räume zur Verfügung wo jeder Erkrankte einzeln versorgt werden muss, da unter Umständen die Maden bereits vor 5 Tagen aus den Eitergefüllten Höckern/Warzen herausschießen. Die Eiterflüssigkeit ist infektiös, die Maden selbst übertragen vermutlich die eigene Krankheit, da selbst das manuelle, schmerzhafte Entfernen der Maden  keine relevante Verbesserung der Krankheit mit sich bringt.
+
+Es wird daher empfohlen Masken zu tragen, ideal aus Leder, welche den gesamten Körper des Alchemisten bedecken. Die Augen sollten hierbei mit Gläsern abgedeckt werden. In Späteren Zuständen können die zu Heilenden sich nicht mehr bewegen und müssen dann gefüttert und mit dem Heilmittel versorgt werden bis sich deren Zustand verbessert.
+
+Erkrankte sind den Offizialstellen der Ämter zu melden da in Städten sich die Krankheit rasch ausbreitet.
+
+
+
+### Krankheiten und Plagen:
+
+
+Stechmücken: - Gegenmittel: Perliges Wasserkraut - 
+Kleine geflügte Insekten, brüten in Tümpeln sind vor allem in südlicheren bzw wärmeren Elfengeibeten ganzjährlich eine Plage. In nördlicheren Gebieten sind die Erntemonate betroffen von Plagen. Stechmückenstiche sind nicht tödlich, können jedoch aufgrund der Schmerzhaftigkeit für Viehherden in Gebirgigen Regionen problematisch werden, da die Viehherden von Kilppen stürzen können wenn ein Schwarm an Stechmücken sie plagt.
+In Edlria sind aufgrund dessen in den edleren Gesellschaftsgruppen bei Frauen Netzgewänder in den Sommermonaten seit jeher Mode.
+
+Blutgeister: - Gegenmittel: Perliges Wasserkraut
+Blutgeister sind Wurmartige Konchenlose Tiere und sehen im lauernden Zustand aus wie Blätter. Sie werden in den kühleren Monaten meist nur abgestriffen von dem Gebüsch an welchen Sie sich festhalten und erwärmen sich rasch an der Haut des Opfers wodruch sie aktiv werden nud zubeißen, was von den Opfern nicht bemerkt wird, da der biss erst ca 2h nachher zu Jucken beginnt. Der Juckreiz bleibt unbehandelt rund 5 Tage und ist meist am 4 Tage am stärksten, was für Soldaten der Artellerie eine Qual ist, da diese konzentriert bleiben müssen.
+Blutgeister Fallen nach dem absaugen des Blutes ab (Weibchen) oder fliegen davon (Männchen).
+In den Sommermonaten ist vor allem in dichten Wäldern  um und im großen Elfenwald es unmöglich den Blutgeistern aus dem weg zu gehen da die Männchen explizit Menschen (aber keine Elfen oder Orks) anfliegen.
+Falls kein Gegenmittel als Salbe vorliegt sind Fackeln zu empfehlen.
+Die Tiere fliegen nur Tagsüber und lassen sich in der Nacht, wie eben im Winter abstreifen.
+
+
+
+Wartwanzen: - Gegenmittel: Ratianwurzel
+
+
+Fetttaubenpest: - Gegenmittel: Peskinpinselknollen
+
+Die Pest, welche bei den Offizialstellen der Ämter zu melden ist, ist in rund jedem fünften Falle tödlich.
+Fettaubenpest wird von Mauerkäfern übertragen und dies findet meist in den von Allgott verlassenen Stadtvierteln statt. Dies führte zu den Säuberungen der Armenvierteln im Jahre 234,  256, 289, 354, 389, 653, 799 und 801. Seit 801 tritt die Fettaubenpest nur mehr vereinzelt auf.
+Die Kranhketi äußerst sich durch einen aufgedunsenen Bauch, geschwollene Beine und kompletter Heiserkeit der Betroffenen. Die tödlichen Fälle sterben meist durch äußerlich oder innerlich aufgerissenen Bauchraum, wodurch es zum verbluten kommt.
+
+> "Fetttauben übertrügen doch die Pestillenz sagen Sie, doch ich behaupte euer Verstand sei vom Allgott verlassen. Die Pest wird vom Kontakt mit Mauerkäfern in den schlechten Häusern übertragen. Sehet, Kaiser so wie dieser Käfer mich beißet, so werde ich in die Reiche das Allgottes in 5 Tagen betreten "
+>
+> --- Heiler Varin Sol Aian - Gestorben 5 Tage nach der Vorführung vor dem Kaiser an Fetttaubenpest
+
+
+Blaulungenpest: - Gegenmittel: Uraninanblätter
+
+Blaulungenpest ist äußerlich, bei Tragen von Gewändern nicht ersichtlich. Beim Ablegen der Gewänder zeigt sich jedoch rasch die Blaufärbung des Oberkörpers sowie die Anschwellung der Brust. In den ersten Tagen der Infektion steigert sich die Libido der Betroffenen ins Beinnahe unermessliche wodurch auf  die Krankheit der Männermännerlust aufkommt ( Geschlechtsverkehr zwischen 2 Söhnen des Allgottes).
+In dieser Phase finden die meisten Infektionen statt.
+Die Blaulungenpest verläuft in 4 von 10 Fällen tödlich. Bei Behandlung mit Urananinblättern, was die Übertragung primär verhindert, allerdings auch die Überlebenswahrscheinlichkeit ehöht, sterben lediglich 1 von 10 Erkrankten.
+Die Stadien der Krankheit sind folgende:
+
+Tag 0: Übertragung
+Tag 1-2: Lustus: Massiv erhöhter Wunsch nach Geschlechtsverkehr
+Tag 2-7: Keine Symptome abgesehen von Blauer Oberkörper und Anschwellen der Brust - keine Schmerzen der Betroffenen
+Tag 7-14: Verschlechterung der Atmung (schwacher, flacher Atem, unregelmäßig werdend) Tod durch Ersticken.
+
+
+Rückenwarzenmaden Befall: - Gegenmittel: Heinrichskraut
+
+Die Infektion erfolgt durch Kontakt mit Flüssigkeit eines Infizierten oder durch den Befall mit den Maden der Gelbbeinfliege.
+Die Heilung ist Aufwendig und langwirrig. Ohne Behandlung versterben alle Patienten.
+Mit Behandlung versterben rund die Hälfte der Patienten.
+
+Tag 0: Infektion
+Tag 1-2: Verspannungen im Rücken, kleine Gelbroteflecken mit kleinem Loch in der Mitte.
+Tag 3-5: Ausbilden der typischen Warzenartigen Höcker, meist auf dem Rücken der Patienten.
+Tag 6-9:Aufplatzen der ersten Warzenhöcker - UMBEDINGT LEDERMASKE TRAGEN. Die Kleidung kann von Patienten nicht getragen werden da dies für sie extrem schmerzhaft ist. Das Aufplätzen der Höcker führt meist z Blutverlust, Ohnmacht und in den darauf folgenden Tagen zum Tod.
+
+Die Behandlung muss bei den ersten Symptomen starten, ansonsten sind die Maden zu weit entwickelt.
+
+Der Rüclenwarzenmadenbefall  führt in ärmeren Gebieten meist zum sofortigen Auschließen der betroffenen aus der Gesellschaft, sofern diese die Behandlungskosten nicht aufbringen kann.
+Vielfach wird auch der Freitod von Betroffenen gewählt, da ab dem 3 Tage die schmerzen ins unermessliche Steigen.
+Mit Tag 6-9 werden die Patienten, nach teils tagelangen schreien  Heiser oder Ohnmächtig. 
+
+### Bekannte Erkrankungen & Leiden der Humanoiden und ihrer Gefährtentiere
+
+Prinzipiell sind 2 große Gruppen von Leiden bekannt. Parasitisten und Körperschwächen.
+Diese Einteilung hat im Alltag der Heiler die Bedeutung, da diese primär nur die Symptome lindern können wenn es sich um Körperschwächen handelt. Bei Parasitisten hingegen lässt sich die Ursache, der Befall durch kleine Lebewesen, beheben, wodurch der Erkrankte geheilt werden kann.
+
+Zwar lassen sich nicht alle Parasitisten in allen Fällen heilen, jedoch wissen Heiler und Alchemisten für gewöhnlich wie sich diese Krankheiten verhindern lassen. Bei Körperschwächen hingegen ist die Ursache unbekannt. Vom bösen Geistern, Flüchen von Werwölfen, Segnungen von Blutgöttern oder Werk von Rothaarigen ist im Volksmund alles möglich. Heiler weißen jedoch vergeblich immer wieder darauf hin, dass es auch Fälle ohne diese Ursachen gibt, jedoch wird dies häufig ignoriert.
+
+Parasitisten:
+Die natürlichen, welche von kleinen Lebewesen hervorgerufen werden.
+Dazu zählen Madenbefälle, Wurmbefälle, Käfer und sonstiges Getier was sich auf und in unseren Körpern bewegt und dabei seinen Wirten Leid zufügt.
+
+Körperschwächen:
+Wenn der Körper nicht so kräftig ist wie sonst, spricht man im Allgemeinen über Körperschwächen. Der Fachterminus Corpuslauchhi wird zwar unter Heilern verwendet, sagt aber meist lediglich aus, dass die Symptome gelindert werden sollten.
+
+Krankheiten der Haut
+
+Krankheiten der Lenden
+
+Krankheiten der Innereien
+
+Krankheiten der Knochen
+
+Krankheiten des Kopfes
+
+
+
+#### Parasitisten:
+
+##### Parasitisten der Haut
+
+##### Parasitisten der Lenden
+
+##### Parasitisten der Innereien
+
+##### Parasitisten der Knochen
+
+##### Parasitisten des Kopfes
+
+
+#### Körperschwächen:
+
+##### Körperschwächen der Haut
+
+##### Körperschwächen der Lenden
+
+##### Körperschwächen der Innereien
+
+##### Körperschwächen der Knochen
+
+##### Körperschwächen des Kopfes
+
+
+#### 

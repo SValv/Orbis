@@ -1,0 +1,167 @@
+# Das Grenzland
+
+![Karte von Grenzland](Pictures/Maps/Grenzland.jpg)
+XXXXXXXXXX Allgemeine Anmerkungen zur Vereinheitlichung:
+- Empire oder empire?
+- Erwachte oder *Erwachte*
+- 
+
+
+Das Grenzland ist die Außengrenze des Kaiserreichs mit Eldria und damit eine der Regionen, die mit der blutigen Vergangenheit eines Kriegsgebietes mithalten können. Aufgrund der vergangenen Konflikte sind Erwachte dort häufiger als im Herzland und lokale Garnisionen müssen oft Kräfte mobilisieren, um Friedhöfe, Gruften und ehemalige Schlachtfelder so weit abzuschirmen, dass jegliche Transportwege sicher sind. 
+Denn diese genannten Transportwege sind eine der wichtigsten Eigenschaften des Grenzlandes. Das Grenzland stellt nämlich den sichersten Weg nach Eldria dar, da der kürzere Weg durch den [Silva Nacia](#RegionSilvaNacia) geht, der bekannterweise aufgrund der elfischen Aktivitäten nicht der sicherste Weg ist.
+
+## Ortschaften der Region 
+
+### Lugnux
+
+XXXX Revise XXXX
+- ähnlich wie oben, die Inhalte der Sätze vermitteln wenig Informationen, bzw. sind sie den Sätzen davor zu ähnlich.
+
+Lugnux is the biggest city in Grenzland and serves as an important trade point in the region with a lot of trafic goes through the city. Many people from the region come to the city to trade their goods and find capable manpower. Grenzland is not known for being the safest region, which has led many people from the countryside to move to the city in the last years in search for a place to settle down. Many of the districts are relative new and some people even decide to life in tents in the outskirts of the city.
+
+Halfings often travel to the city and sell their unique products for a good price in this city, such as alcohol, which is highly sought after in the region. However in the last few years the city has encountered many problems related to alcohol and drunkards. Districts are filled with empty bottles of yondalla alcohol and the almost lifeless people who lost their lives to alcohol because of the high addictiness and potency of yondalla drugs and various products. The city has tried to solve these problems, however the merchandise from the neibhouring region has become a central part of Lugnux's economy and it has become ever harder to fix these complications withouth damaging their own ecocomy.
+
+nonetheless Lugnux has other redeeming qualities such as the many craftsmen that provide the region high quality goods ranging from pottery, wine-making, artisans and mercenaries who will accept any task
+
+Inhabitants: 110.000
+
+### Arx Libertas 
+
+Arx Libertas' history is deeply connected with the Red Shock Battle, as the city's founder Laurenz Mox Julianus was the soldier that managed to flee the battlefield with the banner of the then third legion. Julianus eventually led a resistance after the battle against Eldria and founded the city. Nowadays the city greatly evolves around the Mercenary guild and its HQ, which can be found in the city. Mercenaries can be found in almost every street and bar and they serve a important role in the region. The citizens of Grenzland can't always rely on the Empire's soldiers to solve the many problems that can be found in the region, ranging from clearing undead to killing goblins. 
+
+The city also has an impressive amount of blacksmiths and war supplies. It is said that you can even find illegal equipment and hardened steel if you have enough money. As a results, many adventures travel to the Arx Libertas to gear up and prepare for their adventure.
+
+Inhabitants: 55.000
+
+
+### Orb Latar
+
+Orb Latar is the last city of the empire before entering Eldria and is the new gem of the region. It is right at the edge of the two regions and functions as a stronghold and blockgade to Eldria and its forces. However despite this gloomy reality, Orb Latar is a festive city. It is hard to pinpoint how the city became so merry, but it has a long history of friendly festivals were people from Eldria and the Empire meet up to celebrate. 
+
+The city is also known for its wine and other fine alcohol as well as its extensive wine-fields. Orb Latar both produces and and consumes a lot of food and alcohol and somehow it always have enough for a spontaneous festival. Many world renowned brands such as Kenkensen, Berrin and Sma-blä also come from the city.
+
+Inhabitants :90.000
+
+### Infrastruktur
+
+Grenzland only has a few roads, which are well kept. These included the roads that originate from Herzland and lead to Eldria. These roads are the safest as many troops use them when traveling from the two regions and they play an important role in the Empire since they offer the safest way to Eldria. However the undead can be found everywhere in the region and one should always be prepared to encounter them. Most of the other roads in the region are well-worn from the conflicts of the region. Some small village repair their roads close to them but the majority them are in poor condition. 
+
+## Die Geschichte der Region
+
+### The Battle of Klyln Field
+
+XXXX Revise XXXX
+- Wenn Geschehnisse zeitgleich ablaufen, müssen diese auch so erzählt werden und nicht erst das Ergebnis des einen und dann des anderen - hier fällt es mir schwer zu folgen, wer was warum macht?
+- bitte entscheiden, ob Empire groß oder klein geschrieben werden soll (Einheitliche Schreibweise)
+
+Das Grenzland hat seinen Anteil an blutigen Konflikten und Kriegen, da es oft das Schlachtfeld für viele Zusammenstöße zwischen dem Kaiserreich und den Mächten Eldrias war. Both sides kept fighting over the land for many years. In the beginning of the conflict there were mainly just small skirmishes as both factions were getting to know each others strengths but as time passed the battles grew bigger and bigger. 
+One of the battles, which shaped the early history of Grenzland, was the battle of Klyln field. Klyln field was an important passage in between the mountains of Grenzland. The empire believed that they could send the third legion through this field as they believed that the goblins, that used to live there, had wandered away. However Eldria leaked false information to the empire in other to get them to fall into their trap. Eldria's forces were waiting for the third legion and ambushed it from both sides of the field. The annihilation of the third legion left Grenzland very vulnerable and for a time Eldria ruled over most of the region. 
+However some soldiers of the third legion managed to survive the battle and split up into multiple groups and after some time they managed to build resistance groups with the help of the locals. A surviving soldier, called Laurenz Mox Julianus, managed to flee the battle of Klyln field with the banner of the third legion and he became the leading symbol of the resistance. His resistance was financed by the empire and also secretly from the Hüter Kult (XXXX WARUM?). The Hüter Kult made a deal with the resistance fighters, which would enable them to use the Mercenary guild, which was later established in the city of Arx Libertas, to hide their spies and agents in the land of the empire. During the war, the resistance faction created the city of Arx Libertas. Arx Libertas was founded close to Yondalla because it blocked the main route to Yondalla in Grenzland. This passage to Yondalla was the only second route to the empire's land. (XXXX WIESO BLOCKIERT DIE RESISTENCE DEN WEG ZUM EMPIRE WELCHES SIE FINANZIERT?). The city came under attack many times by Eldria's forces but the city always survive because of the brilliant tactics of Julianus. Ones the Empire regained control of the region it signed a contract with the resistance fighters. The Empire was given the land and loyalty of the various resistance groups in Grenzland but the Resistance leaders were made into lords with great autonomy. They were allowed to keep their soldiers in their armies and raise their own taxes. After this the importance of Arx Libertas grew weaker because it no longer held its important political reach over the empire. After time the mercenary guild was founded in Arx Libertas and wowadays the guild can be found in every mayor town of Grenzland.
+
+### Die Rote Schock-Schlacht
+
+Ein Zusammenstoß während des Krieges war die "Rote-Schock-Schlacht" im Jahr 188. Die Fürsten von Eldria bereiteten sich darauf vor, ihre Streitkräfte ins Grenzland zu verlegen, um ihre Vorherrschaft in der Region zu stärken. Doch das Kaiserreich hatte Spione in die Reihen Eldrias eingeschleust, die ihre Pläne verrieten. 
+Mit diesen Informationen schickte das Imperium eigene Truppen in die Region, um die rivalisierenden Armeen in einen Hinterhalt zu locken und die Kontrolle über die Region an sich zu reißen. In dieser Schlacht enthüllte das Kaiserreich eine der geheimen Waffen, die "Hammerer von Alt-Greifenstadt". Es war das erste Mal, dass die Armeen Eldrias auf diese Streitkräfte trafen und folglich hatten sie einen massiven Einfluss auf die Schlacht. Denn sie waren darauf spezialisiert, die Ritter Eldrias effektiv auszuschalten (XXXX CROSSREFERENCE). Die Schlacht endete mit einem entscheidenden Sieg für das Kaiserreich. Auch wenn dies nicht die letzte Schlacht zwischen den beiden Mächten war, so war es doch eine der wichtigen kriegerischen Konfrontationen, die den Krieg zu Gunsten des Reiches entschied.
+
+### Die Qirrik Hügeln Schlacht 
+
+Eine weitere berüchtigte Schlacht, die zu einer der schrecklichsten Zeiten im Grenzland führte, war die Schlacht bei den Qirrik-Hügeln. Auch hier standen sich die Streitkräfte Eldrias und des Kaiserreichs gegenüber. Doch diese Schlacht war keineswegs wie viele andere davor.
+Beide Mächte hatten große Verluste zu beklagen, doch am Ende ging Eldria als Sieger hervor. 
+Trotz ihres Sieges befanden sie sich in feindlichem Gebiet und ihnen blieben lediglich eine handvoll Soldaten, die ohne Kommandanten dastanden. Traurigerweise mussten die Soldaten die unehrenhafte Entscheidung treffen, das Schlachtfeld zu verlassen, ohne sich um die Toten zu kümmern. Diese Entscheidung führte zur Entstehung dessen, was heute als die "Verfallenen Hügel von Qirrik" bekannt sind.  Nach nicht allzu langer Zeit wurde das Grenzland von einer ganzen Armee Erwachter heimgesucht. Viele Wochen lang war das Leben der Grenzlandbewohner durch das Einfallen der Erwachten bedroht. Es bedurfte der vereinten Kräfte der 7. Legion und der im Grenzland stationierten Truppen, um die Erwachten-Armee zu besiegen. 
+Erwachte zeichneten sich im Verlauf der Schlachten immer wieder als großes Problem ab. Oftmals war es den Überlebenden nicht möglich, die gefallenen Soldaten angemessen zu bestatten, weshalb viele Leichen unbeaufsichtigt zurückgelassen wurden. 
+
+> The commander of the legion – Brakus Tertius Servarius - battled on with 7 arrows in his back and killed many enermy soldiers before getting killed himself.
+>
+> --- Marcus Olinius - telling tales of the many great battles in the Far Far Inn in Lugnux
+
+(Ich glaube der Kasper hat irgendwann lore zu den Goblins in Grenzland geschrieben, aber ich kann es nicht finden. Es wäre gut wenn wir noch die Geschichte zu den Goblins in Grenzland schreiben XXXX)
+
+## Wirtschaftliche Lage
+
+### Die Ressourcen der Region
+
+Das felsige und hügelige Gelände des Grenzlandes macht den normalen Ackerbau sehr schwierig. Die Region lebt deswegen vor allem von der Viehzucht. Infolgedessen produziert das Grenzland jedes Jahr eine große Menge an Fellen und Pelzen. Die Felle reichen von Nerzfellen bis hin zu Ziegenfellen. Wer das Grenzland durchstreift, wird höchstwahrscheinlich auf mehrere Pelzproduzenten treffen, die sich auf bestimmte Tiere spezialisiert haben.
+
+Eine weitere Ressource, die im Grenzland weit verbreitet ist, ist Holz - spezieller: Brennholz. Aufgrund des eigenartigen Klimas und der wechselnden Temperaturen im Grenzland, ist das meiste Holz in der Region nicht stark genug, um in großen Gebäuden oder Schiffen verwendet zu werden. Aus diesem Grund haben sich die Menschen im Grenzland dafür entschieden, Geschäfte mit Brennholz und Holzkohle zu betreiben. Das Geschäft mit der Holzkohle ist so bedeutend geworden, dass über die Hälfte der Holzkohle des Herzlandes aus dem Grenzland importiert wird. Das einzige Ressourcen-Problem, mit dem das Grenzland konfrontiert ist, sind Erze und Salze. Zwar gibt es im Grenzland einige seltsame Erze, jedoch konnte deren Nutzen bisher nicht herausgefunden werden und weshalb sie nutzlos sind.
+
+## Soziopolitische Lage 
+
+Aufgrund der eher desolaten Lage des Grenzlandes, migrieren viele junge Erwachsene in Richtung des Herzlandes. Dort sind die wirtschaftlichen Chancen in den Großstädten deutlich besser und aussichtsreicher als die, die die kleinen und mittleren Städte des Grenzlandes bieten können. Dieser Mangel an jungen Menschen macht sich sowohl wirtschaftlich als auch militärisch bemerkbar. (XXXX IN WELCHER FORM BEISPIELSWEISE)
+
+The undead have been a major problem for a long time in Grenzland although a lot is being done to combat the undead. This includes, among other things, the calling of the Order of the Cleansing. Yet the citizens of the region still fear to travel the roads as they might be attacked by the undead.
+
+### Der Orden der Läuterung
+
+Der Orden der Läuterung wurde mit dem einzigen Ziel gegründet: die Ländereien des Grenzlandes von den Erwachten zu säubern, die wie eine Plage sind. Der Orden wurde kurz nach dem Sieg über die Erwachte Armee der Qirrik-Hügel gegründet. Das Imperium wusste, dass es, wenn es die Region übernehmen und eine Infrastruktur aufbauen wollte, dafür sorgen musste, dass die Erwachten kein Problem mehr darstellen würden. Der Orden setzt sich aus Soldaten zusammen, die sich auf die Vernichtung von Erwachten spezialisiert haben. Als solche tragen sie stets Ausrüstung für die Bestattung der Toten bei sich. Sie sind an ihrem Symbol zu erkennen, das eine Blume unter einer strahlenden Sonne darstellt. Der Orden hat sogar besondere Beziehungen zur Kirche, da er eine Unterabteilung der Ekklesia ist. Eines der größten Probleme des Ordens ist jedoch, dass er einfach nicht über genügend Truppen verfügt, um größere Gruppen Erwachter zu bekämpfen (z. B. nach einer großen Schlacht). Deshalb stockt er seine Reihen oft mit Veteranen aus der Söldnergilde auf. Natürlich bezahlen sie diese mit Geld. Ihre Hauptbezahlung besteht jedoch darin, dass der Orden seinen politischen Einfluss, der von der Kirche ausgeübt wird, nutzt, um Mitglieder der Gilde vor rechtlichen Konsequenzen zu schützen.  
+
+### Herrschaftsystem/Organisation
+
+## Klimatische Bedingungen 
+
+Grenzland shares a very similar climate to Herzland. The weather is very mild through the first half of the year. The regions has enough rain to grow crops adequately and plenty of clear sky in the summer.
+
+### Die Flora und Fauna
+
+#### Monster in der Region
+
+Monsters such as Kathakans, Werwolfs, Gravis und many different Vampiridae can be found in the region, however the region is mainly dominated by the undead.
+
+## Gerüchte der Region
+
+### Der Henker von Pikliven
+
+XXXX Überarbeitung XXXX
+
+Die Geschichte hat uns gezeigt, dass sich in Zeiten von Konflikten und Kriegen Nachbarn, Freunde und sogar Familienmitglieder aufgrund der Krise, in der sie sich befinden, oft gegeneinander wenden. Manche Menschen sehen diese Krisen sogar als Gelegenheit, ihre eigenen bösartigen Absichten zu verfolgen. Eine solche Person war der Henker von Pikliven.  Niemand kennt seine wahre Identität oder weiß, woher er kommt. Viele spekulieren, dass er ein ehemaliger Zenturio des Kaiserreichs ist, der einen großen Hass auf Eldria hegt. Manche sagen, er sei ein vom Allgott gesandter Vergeltungserfüller, der das Volk des Grenzlandes für die unzähligen Kriege zwischen den Fraktionen bestrafen soll. Der Henker wird als ein großer, grau gekleideter Mann mit einem modifizierten Menschenfänger dargestellt, der selbst die besten Ritter enthaupten kann. Der Henker von Pikliven wurde erstmals 207 nach der Schlacht von Krissweg gesichtet als er die Köpfe der toten Soldaten einsammelte. Es heißt, dass man die Schreie der enthaupteten Seelen hören konnte, die an seiner Hüfte hingen und um Hilfe riefen. 7 Jahre nach seinem ersten Auftauchen berichtete ein Bauer in Pikliven, dass er unter der Erde Menschen in Todesangst schreien hörte. Später stellte sich heraus, dass es sich um die enthaupteten Köpfe handelte, die vermutlich vom Henker von Pikliven in den Boden gesteckt worden waren. Auch heute noch kann man die Schreie der Opfer des Henkers hören, wenn man durch die Landschaft von Pikliven fährt.
+
+
+(XXXX HIER NOCH BILD VON TYP - ARTWORK BITCH!)
+
+
+## Die verlorene Stadt Ferinstill
+XXXX Überarbeitung
+- Vervollständigen der markierten Stellen
+
+
+Die Geschichte von Ferinstill beginnt mit seinem Gründer, der Familie Kishiv. Die Kishiv-Familie erlangte nach dem Niedergang der "SLova"-Familien in Eldria große Bedeutung. Obwohl sie zuvor mehrere Bauernhöfe in Eldria verwaltet hatten, stiegen die Kishivs nach dem Machtverlust der "Slova"-Familie auf, indem sie neue Technologien im landwirtschaftlichen Bereich einführten. Im Jahr "177" schließlich ernannte der Führer von Aerlham das Oberhaupt der Familie Kishiv, Hostus Sai Kishiv, offiziell zur Speerspitze des landwirtschaftlichen Fortschritts in der relativ neuen Region Eldrias, dem Grenzland. Die seltsame Fauna und das Ökosystem des Grenzlandes faszinierten Hostus, und so beschloss er, sein neues Hauptquartier inmitten der Wälder und Berge des Grenzlandes zu errichten, das schließlich zur Stadt Feringstill wurde. 
+
+Obwohl es für die Familie anfangs schwierig war, sich im Grenzland niederzulassen und eine Wirtschaft aufzubauen, die auf den verschiedenen Produkten der Region basierte, war der schwierige Teil ihrer Geschichte noch nicht zu Ende.  Nach einigen Jahren kamen zahlreiche Migranten, in der Hoffnung auf neue Möglichkeiten, ins Grenzland, und folglich mussten Tausende von neuen Mündern in der Region ernährt werden. Eine Aufgabe, die die Familie Kishiv auf sich nahm. Diese Aufgabe erwies sich jedoch als besonders schwierig, da die Familie mit ihrer derzeitigen Technologie und Infrastruktur einfach nicht in der Lage war, genügend Getreide anzupflanzen und Vieh zu ernähren. Sie versuchten alles, was ihnen einfiel, auch wenn sie dafür moralische Grauzonen betraten. Sie versuchten, neue essbare Pflanzen und Nahrungsquellen zu entdecken, was dazu führte, dass viele Bürger an Vergiftungen starben. Sie versuchten, verschiedene Gemüsesorten und Pflanzen zu kreuzen, was dazu führte, dass mehrere Ernten ungenießbare Lebensmittel erbrachten.
+
+Schon bald wurde die Familie mit der harten Realität der Situation konfrontiert.  Trotz aller Bemühungen war es ihnen nicht möglich, die vielen Menschen im Grenzland zu ernähren. Im Jahr 189, nicht viele Tage nach einer weiteren Missernte, kam ein Brief aus Aerlham. Die Fürsten von Eldria rüsteten sich für einen neuen Krieg, und Kishiv wurde damit beauftragt, genügend Nahrung für die Truppen zu beschaffen.
+
+>Wisset, dass ihr Grenzen habt, meine Söhne. Am Ende des Tages sind wir Menschen. Nicht mehr und nicht weniger. Obwohl Gott uns seine Gestalt und seine Gaben gegeben hat, sind wir nicht er. Unser Volk sieht uns zwar als eine Familie ohne Grenzen, aber das sind wir nicht. Auch wenn wir in der Vergangenheit Großes erreicht haben, können wir dies nicht immer tun. Merkt euch das, meine Söhne, und wenn der Tag kommt, an dem ihr mit unserer lächerlichen Realität konfrontiert werdet, werdet ihr nicht so leiden wie ich.
+>
+> --- Hostus an seine 2 Söhne
+
+XXXX Überarbeitung
+- Sprachlich noch ganz schwach - 1:1 Deepl Übersetzung, viele falsche Begriffe, unverständliche Satzstrukturen
+- Mir fällt es schwer den roten Faden der Geschichte zu erkennen --- Die ganze Geschichte soll mysteriös
+
+In dieser schlimmen Zeit, in der Kishivs strahlende Gnade schwand, kam die Erlösung in Form ihres zweiten Sohnes Atin Curius Kishiv. Denn Atin wurde für eine Reise in die Wildnis des Grenzlandes auserwählt, die noch viele Geheimnisse barg, die darauf warteten, von Eldria entdeckt zu werden. ( Atin was a curious child and he would often travel into the mountains and forest of Grenzland in order to discover and unravell any mysterious that could help his family)
+/
+Da er außerdem der zweite Sohn war, wurden viele Aufgaben der Familie auf seinen älteren Bruder abgewälzt, so dass Atin viel Zeit für sich selbst hatte. Als er eines Abends von seiner Reise in die Berge zurückkam, schien er noch erschöpfter und ausgelaugter zu sein als sonst, und eilte mit guten Neuigkeiten zu seinem Vater. Offenbar hatte er einen Weg gefunden, mehr zu ernten, als sie jemals erhoffen konnten. Er hatte einen Weg gefunden, die Ehre und den Ruhm ihrer Familie wiederherzustellen. Am nächsten Tag wagten sich beide in Begleitung ihrer Leibwächter in die Wildnis und kehrten nach vielen Stunden zu ihrem Landsitz zurück, doch seltsamerweise fehlte dem Vater ein Auge, // (but his other eye was filled with hope) 
+. Am nächsten Tag wurde der älteste Sohn Martin Vetious Kishiv beauftragt, nach Aerlham zu reiten und persönlich einen Brief an die Familie zu überreichen, in dem verkündet wurde, dass genug Nahrung für die Armee des Fürsten und zwei weitere bereitstehen würden. Nach vielen Monaten ritt Martin, begleitet von vielen Beamten der Armee, zurück ins Grenzland, doch irgendetwas war nicht in Ordnung. Nachdem sie die Hauptstraße, die nach "Orb Latar" führte, verlassen hatten, sahen sie immer mehr Moos und Straßenrand, wohin sie auch blickten. Martins Herzschlag stieg und mit ihm die Angst um seine Familie, und diese Angst war nicht unberechtigt. Als sie in Feringstill ankamen, war keine Menschenseele zu sehen, aber es gab auch keine Anzeichen für irgendwelche Kämpfe. Jedes Gebäude war von der Flora des Grenzlandes überwuchert. Es war, als ob die Stadt seit Jahrzehnten sich selbst überlassen worden war. Die Gruppe versuchte, nach Hinweisen auf das Geschehene zu suchen, doch es war nichts zu finden. Nirgendwo war eine menschliche Spur zu finden, außer den Werkzeugen der Menschen, die auf dem Boden lagen, und den Tellern und Tassen, die auf den Tischen standen.
+
+Bis heute ist es keinem Historiker gelungen, herauszufinden, was sich in Feringstill wirklich zugetragen hat, und es gibt nur Theorien ohne soliden Beweis. Martin Vetious Kishiv, der einzige Überlebende der Stadt, hat jedoch sein ganzes Leben lang nach Antworten gesucht. Obwohl er keine Beweise für die Geschehnisse fand, versuchen seine Nachkommen bis heute, die Wahrheit über die verschwundene Stadt Feringstill herauszufinden.
+
+### The dead man wanderer
+
+XXXX Revise XXXX
+- Hier vielleicht etwas mehr Kontext geben - an sich aber okay geschrieben
+- Man könnte ein größeres Mysterium darum machen, dass er nicht attackiert wird - so wirkt das Ganze ziemlich understating und eher langweilig, aber ganz nett es zu sehen, wenn man ihn zufällig sehen kann
+--> Idee, dass es Personen gibt, wie der Kult, die diese "Fähigkeit" für die eigene Arbeit spannend finden/gefunden haben
+- Zeit in der er lebt, ist das relevant?
+
+It is a known fact that there are a lot of undead in Grenzland that appeared after the many battles during the war. Some bodies were returned home and some families are still looking for the body of their family members years after. However there are rumours of one person who can be found near the battlefields. For normal people this would be a deathtrap since there is a high chance that you would be attacked by undead. However people have sighted a man wandering next to the undead. The man somehow doesn't get attacked by them. They simply walk past him. Many theories exist about why he doesn't get attacked by the undead. Some people say that he is a undead himself. Other people believe that he is and agent of the devil. But one thing that the people who have spotted him can agree upon is that this man is looking for someone who died long ago as they can hear him mumbling "It is alright Theresa. I'll soon find you and then you won't be alone anymore". People have started to call him the dead man wanderer. He can even be found in Lugnux sometimes if you happen to be in the city during the right time but most people are afraid to approach him. However some fools have tried to follow him ones he leaves the city because they want to understand the mystery behind the man but all of them never return from the battelfield ones they go with him.
+
+## Sehenswürdigkeiten
+
+### Die Hammerer von Alt-Greifenstadt
+
+XXXX Revise XXXX
+- Querverweis in den Text oben, wo sie vorab mal erwähnt werden
+- Text bitte zu Ende formulieren
+
+Diese Einheiten der kaiserlichen Armee hat sich frühzeitig auf rüstungsbrechende Waffen spezialisiert, um die eldrischen Ritter effektiver zu bekämpfen. They are the seen as the proud sons of Grenzland ever since the Red Shock battle .They often march through the cities and towns of Grenzland and inspire the people.
+
+Die Hammerer von Alt-Greifenstadt .....
