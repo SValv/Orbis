@@ -1,0 +1,38 @@
+# Services
+
+## Forge {#Forge cost}
+
+```{r}
+dfs=read_xlsx(bookdownallgdatapath,sheet="forgecost")
+
+
+
+dfs = dfs %>% select("Item", "Tier", "Repair cost per +1 condition at smith", "Rep from 1 to Max condition",
+                "upgrade cost", "upgrade to higher animal")
+colnames(dfs)[3:6]= c("Repair by one condition", "Full repair", "Improvement", "Upgrade by one animal")
+
+dfs %>% arrange(item) %>%
+  mutate(`repair by one state` = round(`repair by one state`)) %>%
+  reactable(groupBy = "item",
+            columns = list(
+              
+              Object = colDef(
+                grouped = JS("function(cellInfo) {
+                            return cellInfo.value
+                          }"), align="left", minWidth= 150, filterable=T
+                
+              ),
+              Tier = colDef(filterable=T)
+            ), bordered = F,
+            highlight = T,
+            #showPageSizeOptions = T,
+            filterable = F,
+            pageSizeOptions = c(5,10, 20, 50),
+            defaultPageSize = 24, paginationType = "jump",
+            theme= overallThemeReactable, defaultColDef = colDef(
+              align = "center"
+            ), outlined = T,
+            striped=T, resizable = T)
+```
+
+##

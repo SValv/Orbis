@@ -1,0 +1,150 @@
+# General {#General}
+
+## The awakening
+
+> "The Awakening represents one of the greatest constants in our world, whether human, elf, or orc - the corpse rises again, thirsting for the blood of the innocent!"
+>
+> --- Harnod Cowell III, Eldric Scholar
+
+Since the beginning of the Chronicles, the Awakening has been an integral part of the known world of Orbis Astea. A deceased - if not properly buried - rises again within two to six days, but most within 3-4 days. The Awakened - as the living dead are widely called - are hostile to almost any life form that is not also seen as one of "their own". Killing these "Awakened" is not always easy, as one must literally destroy large parts of their bodies, or tick off the head until the living dead cease to be alive again.
+However, containing this plague, sometimes described as the dark side of life, is possible because they seem to have no tactical or logical understanding. In this respect, it is advised to avoid these dead. Alternatively, one can buy mercenaries with enough change, or hope that the army or other institutions of society will take care of these problems.
+But instead of having to fight these stinking, biting, armed, disease-spreading cadavers suddenly at the nightly campfire unexpectedly with difficulty, it would be better to prevent this resurrection.
+
+Some religious rituals of different faiths have found solutions. Thus, orcs eat their deceased in cannibalistic indifference, elves fertilize their trees with it, or the Empire, which buries the deceased and places a seal stone over it.
+
+![The Shadow Side of Life[^JimmyNijsLich]](Pictures%5CFlavor%5CEawakened%5Cby_jimmynijs_awakened1.jpg)
+
+[^JimmyNijsLich]: "Lich" by [JimmyNijs](https://www.deviantart.com/jimmynijs/art/Lich-634417921). This artwork is licensed under a Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 License.
+
+
+The way the omnipresent raising of the dead is dealt with is formative to societies, as it affects the character and systems of all peoples.
+
+## The role of religion
+
+In Orbis Aestea, according to scholars, it is the faith of the people that gives supernatural power to the funeral ritual. Furthermore, the inhabitants of Orbis Astea believe that you just have to believe in something with enough like-minded people for it to come true. Thus, the firmer the belief in certain burial rituals, the more certain it is that bodies buried in this manner will remain buried. Faith can move mountains in other areas as well: Mortally wounded soldiers whose will nevertheless does not break in battle, plague sufferers who shake off their illness just because they pray hard enough, and monsters who spare the faithful while mercilessly hunting down heretics are all cited as examples of why it is important to believe. Well, more skeptical contemporaries interject that even priests die, emperors are pelted with dirt, or the child dies of a disease, but rather testify to the fact that this faith does not move all mountains. The believers against, one has not enough and doubtless surrendered to the divine.
+
+The special role of religion also ensures that religious institutions play a supporting role in most peoples - or at least are very powerful. In the Empire, for example, the Inquisition, the military arm of the Doctrine of the All-God, often called the Ekklesia, is de facto above the law. Among the Rah Kari, the whole system is structured in the form of a theocracy, in which the high priests of the cults rule over the empire, and in Eldria, well, that's where it gets complicated.
+
+![a priestess of the Rah Kari anointing a dead [^EgyptianPriestessMidjourney]](Pictures\Flavor\Allgemeines\EgyptianPriestess_Midjourney.png)
+
+## The history of Orbis Asteas
+
+``{css , echo= F}
+
+
+.vis-timeline {
+  border: 2px solid grey;
+  font-size: 13pt;
+  background: #FDF6E3;
+}
+
+.vis-item {
+  border-color: darkgrey;
+  background-color: #FDF6E3;
+  font-size: 11pt;
+  color: black;
+  box-shadow: 3px 3px 12px rgba(128,128,128, 0.5);
+}
+
+ .vis-item,
+ .vis-item.vis-line {
+  border-width: 2px;
+}
+
+ .vis-item.vis-dot {
+  border-width: 6px;
+  border-radius: 6px;
+}
+
+ .vis-item.vis-selected {
+  border-color: black;
+  background-color: darkred;
+  color: black;
+}
+
+ .vis-background .vis-minor.vis-odd {
+  background-color: blue;
+}
+
+ .vis-time-axis .vis-text {
+  color: darkred;
+  padding-top: 10px;
+  padding-left: 10px;
+}
+
+ .vis-time-axis .vis-grid.vis-minor {
+  border-width: 1.5px;
+  border-color: grey;
+}
+
+ .vis-time-axis .vis-grid.vis-major {
+  border-width: 3px;
+  border-color: black;
+}
+```
+
+``{r cars, echo=FALSE}
+library(lubridate)
+library(timevis)
+
+
+df = read_xlsx(bookdownallgdatapath, sheet="TimelineData")
+
+timeLinePrep = function(df) {
+  df$Start = as.character(as.Date(df$Start, format = "%d.%m.%Y"))
+  for (i in 1:nrow(df)) {
+    if (df$DirectionStart[i] == "VR") {
+      df$Start[i] = paste0("-00", df$Start[i])
+    }
+  }
+  
+  df$End = as.character(as.Date(df$End, format = "%d.%m.%Y"))
+  for (i in 1:nrow(df)) {
+    if (!is.na(df$end[i])) {
+      if (df$DirectionEnd[i] == "VR") {
+        df$end[i] = paste0("-00", df$end[i])
+      }
+    } else {
+      df$end[i] = NA
+    }
+  }
+  
+  df = df %>% select(-c(directionStart, directionEnd)) %>%
+    rename(
+      start = start,
+      content = event name,
+      end = end,
+      title = short explanation,
+      group = relevance group
+    )
+  
+  dfg = df %>% select(group) %>%
+    distinct() %>% mutate(id = group) %>%
+    rename(content = group)
+  
+  return(list(df, dfg))
+}
+
+stylecap= "background-color: brown;"
+
+df = timeLinePrep(df)
+
+config <- list(
+      editable = F,
+      align = "center",
+      orientation = "both",
+      snap = NULL
+      #margin = list(item = 30, axis = 50)
+    )
+
+tva = df[[1]] %>% timevis(df[[2]], options = config) %>%
+  fitWindow() %>%
+  setCurrentTime("0426-1-1")
+```
+
+``{r, fig.width= 8}
+tva
+```
+
+
+[^EgyptianPriestessMidjourney]: This artwork was created using [Midjourney](https://midjourney.com/home/?callbackUrl=%2Fapp%2F), so it is available to us indefinitely.

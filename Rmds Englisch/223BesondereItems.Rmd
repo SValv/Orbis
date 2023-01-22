@@ -1,0 +1,177 @@
+# Special items and modifications {#SpecialItems}
+
+This chapter is about special items that differ from normal commercial items by one or another functionality or directly represent something new never seen before.
+These items can either be designed and built by player characters with the crafting skill or purchased from merchants who have obtained them from ingenious engineers.
+
+
+## Rules
+
+Since these items tend to be developed by players and thus the rulebook does not cover them, the functionality has to be clarified with the DM and whether they can be implemented at all with the existing crafting skill.
+In principle, everything is possible in the implementation, but understandably the balancing is the focus.
+
+## Weapons Mods
+
+These modifications can either highlight and strengthen certain factors, compensate for disadvantages or be of a purely supportive nature.
+However, these all fall at the expense of the Durabilty of the item.
+
+
+
+
+### Lightweight construction
+Lowers the weight
+
+## Weapons mods melee
+
+### The burning sword
+
+This visually striking mod allows the melee weapon to be engulfed in flames. This is done by an oil vial hidden in the handle and a small ignition appliance.
+For the duration of 5 rounds.
+
+Function: Bonus damage, can trigger burning condition with 40% chance per attack
+          Intimidation at Advantage 2
+          
+Disadvantage: Each use costs a vial of oil that can only be replaced outside of combat.
+          Zustsand decreases with each application
+          
+
+          
+## Bleed / Serrated Blade
+
+Regardless of whether it is a bladed weapon, this modification allows a 15% chance of a bleeding effect on hits
+
+## Poison
+Hollow parts in the tip that can be filled with poison. Hits have a 30% chance to poison
+
+
+
+## Weapons mods ranged combat
+
+### Baqonet
+
+Enables attack him melee with ranged weapon value, as well as parry without disadvantages.
+
+Cost: material in tier of the weapon to be modified
+
+### Crossbow
+
+#### Reload Bonus:
+Increase the chance of a free reload of the crossbow, from 50% to 25%
+
+#### Replacement bolt:
+A constantly loaded 2nd bolt in the weapon, free reload chance unchanged for only one bolt, per bolt shot only one bolt not both, single action reloads only one bolt?
+
+###Akebuse
+
+#### Akebuse aiming stick
+This aiming aid for the Akebuse is a stick with a two-link fork at one end on which the Akebuse can be placed.
+This does not allow for an increased chance of hitting.
+
+Function: Hit probability +
+
+Disadvantage: needs own slot and must be set up beforehand
+
+
+## Armor Mods
+
+
+
+
+
+## Other items and equipment
+
+
+### Torch
+This standard piece of equipment should not be missing from any adventurer's kit. Easy to build and yet so practical. A rag dipped in oil on a stick gives light for some time but also requires a hand. With him can be parried and also attacked. However, the torch is not particularly stable so caution is advised.
+
+Damage like club, can trigger state burning with build up 50% per attack.
+
+
+### Hidden Dagger / Hair Clasp
+
+Dagger mod
+80% hiding chance
+requires Main Action to "bring out" oooor requires slot and only increases hiding chance.
+
+### Smuggle compartment dagger
+
+Be it in an instrument or anywhere else
+in this compartment you can smuggle a dagger with a 90% chance of hiding it.
+
+
+### Zoom glasses & glare shield
+
+These goggles not only protect the eyes from extra bright light but also allow for better aiming and scouting at a distance due to a clever lens design.
+
+FUNCTION: Ranged attacks are at Advantage 2 at distance after adjustment
+          Perception checks are at Advantage 2 distance
+          Protects from the blinding effects of the Light of the Allgod
+
+COST: SINGLE ACTION to adjust
+
+Production: a material T2 is needed for production
+Condition: 6
+Since this rather fragile item is worn on the eyes, the condition decreases accordingly with damage from a Called shot Head and more with Crits. Also with a Nat20 of the opponent the glasses take damage with bad luck since it is to be assumed that here the head is hit.
+
+
+### Grappling hook
+
+A hook on a rope.
+Can be thrown and attached with a throw check, when done the Acrobat skill increases by 10 when using the rope.
+
+Cost: T1 Material
+
+### Rope ladder
+Price 200
+Can be brought into position with the help of a grappling hook or thrown down from above, allows you to climb obstacles.
+When an overloaded character tries to climb the ladder, a luck safe takes place that decides whether the ladder breaks.
+
+
+### Camo Net
+
+A camouflage net to hide people. Note that the pattern must be adapted to the region in order to be fully effective.
+
+Function: Stealth at Advantage 3 against Perception rolls
+
+Disadvantage: no movement while in net and no defense against attacks. A Main Action is needed to crawl out of the net.
+
+
+### Holy water
+
+This liquid provides a stagger effect when splashed on undead.
+This effect can be used more than once.
+
+
+
+### Light of the Allgod
+This alchemically produced liquid produces a piercing light when it comes into contact with air. Eyes that are accustomed to darkness or undead because their eyes can not adapt are blinded and staggered. However, this works only once because living people get used to it and undead eyes can be burned only once.
+
+
+### Pavese
+This portable and erectable shield acts as a portable cover, see Cover.
+
+### Hide dagger
+
+### Poison Ring
+This trinket has it all.
+Hidden on this pretty piece is a small needle that inconspicuously injects poison into unsuspecting opponents.
+The poison used drops by one animal due to the rather low dose. The poison must be loaded into the "tank" beforehand and can be kept there indefinitely.
+
+Function: Poisoning via pickpocket Check at Advantage 3
+
+Disadvantage: Not usable in combat
+
+Cost: T1 material
+
+
+
+##Traps
+
+### Bear trap
+
+Application: see traps
+Cost: T1 Material
+
+### Crow's feet
+3 applications with a 60% chance of reversing each application.
+Requires a T1 material.
+

@@ -1,0 +1,639 @@
+# Basics of the game
+
+This is where the more technical part of the book starts. The following explains how to play, what is important and how to make the game as enjoyable as possible.
+
+## Checks and rehearsals
+
+In Orbis Astea - like in any other pen and paper rpg - dice are rolled. In our game this is done by a program, so there is nothing to calculate by yourself. Nevertheless it is very relevant to know how which sample is rolled. For each sample there is a so called [Skills](#Skills) that matches the action - e.g. ["Armed"](#Armed) for hitting with a weapon or ["Sneak"](#Sneak) for sneaking up on a situation. The matching sample for the action is then rolled with the ability and associated attribute - for the sneaking example, this would be "Agility".
+
+Attributes here always represent physical characteristics, e.g. a top athlete would have a value in his specialized attribute of 17-18, an attribute of 20 would be equivalent to a demigod. The same counts for skills, where the "best" are between 75 and 85. The average of the abilities is 20 and that of the attributes is 10.
+
+Here is a schematic representation of the abilities and the attributes associated with them:
+
+![For a faster view just look at the colors](Pictures/Rules/AttrSkills.png){width="697"}
+
+As you can see, it sometimes happens that one skill has multiple attributes associated with it. In this case, take the average of the attributes and round up to the nearest integer.
+
+### The simple sample
+
+The simple trial is to be rolled when there is no direct opponent. It is usually linked to a threshold in Value[^220rules-1] or Damage, which the DM sets arbitrarily. For example, if you are trying to pick a lock, the DM will specify that the Value should be above 3 to achieve that. For harder/easier locks the value has to be adjusted of course.
+
+[^220rules-1]: Value is a form of quality criterion of a roll - the higher the Value, the better the roll.
+
+Which values correspond to which order of magnitude can be found [here](#gradations).
+
+### The difference sample
+
+A difference check is to be thrown when there is a direct opponent. For example, if 2 people start arm wrestling in a tavern. Here, the respective skills and attributes are rolled against each other and the difference of the values is interpreted.
+
+Which values correspond to which order of magnitude can be found [here]().
+
+#### Untypical Samples {#UntypicalSamples .unnumbered}
+
+Normally, samples normally cast ability and attribute against the same ability/attribute combination. For example, in the arm wrestling example, you would cast Strength and Unarmed of one person against Strength and Unarmed of the other person. However, this principle does not apply to all rehearsals. The following samples are thrown differently:
+
+-   Sneak: Sneak against Perception
+-   Lie/convince: Lie/convince against insight
+-   Attack: Melee Weapons/Unarmed/Ranged Weapons/Throw against Dodge/Block
+-   Intimidate: Intimidate vs. Insight with Instinct as attribute
+-   Pickpocket: Pickpocket against Perception
+-   Stagecraft: Stagecraft vs Perception
+
+### The Save
+
+A save is something else than a trial, it is also usually cast against a threshold and is a way to save yourself from something bad. However, the save is only thrown with the attributes, abilities have no influence here. The threshold is usually 3, but can be adjusted by the DM depending on the situation.
+
+### Advantage/disadvantage
+
+In some situations, you are at advantage or at disadvantage, which basically just means that the same roll is made several times (usually 3 times). If the player is at advantage the most favorable result for the player is selected, at disadvantage the most disadvantageous result for the player is selected.
+
+### Momentary modifiers
+
+Sometimes there are modifiers on attributes or abilities, these are only active for a short time (maximum the session) and are entered in the character sheet on the status page at modifier. They are to be added to or subtracted from the value of the attribute/ability.
+
+### Critical values {#Critical}
+
+For each safe, a D20 is also rolled - the so-called critical roll (like almost everything, this is automated by the program). If this is a 20, it is called a Nat 20 - the best possible result, if it is a 1, it is called a Nat 1 - the worst possible result. Furthermore, each character has a positive and a negative critical limit, which make critical successes or failures more likely.
+
+## Typical Saves
+
+These saves are typical and you will encounter them again and again:
+
+### stamina save {#stamina save}
+
+The stamina save happens automatically with any action that taxes physical stamina. It is rolled with the Physique value subtracted from the [Active Weight/5](#ActiveWeight). The negative difference is subtracted from Stamina. Why stamina and this save are important is explained [here](#Stamina).
+
+### Toxicology Save
+
+The toxicology save is rolled with the dice of the attributes Physis, Instinct, Luck and Faith - note that this is the sum, not the average.
+
+Since each potion has toxic potential, a Toxi-Save is always rolled against the Threshold of all cumulative potion levels of the potions taken after a potion is consumed. If you fail this, you will fall into [Faint](#Faint).
+
+### Faith/Luck Save {#Lucksave}
+
+This is by far the most common and important save. Here, the sum (again, not the average) of the Luck and Faith attributes is taken as the Threshold. This save is always thrown when the DM is not sure if positive or negative consequences will occur. The DM rolls a D20 die, if the rolled value is below the Threshold the positive consequence occurs, otherwise the negative consequence.
+
+This save is also used if a player loses all his health. Then the die is rolled against the Threshold 3. If the save is passed, the player only falls into [Faint](#Faint), otherwise the character dies.
+
+When creating the character, formulate a vague goal of the character, when fulfilled the luck lvl increases. This helps the DM to plan the sessions in the long term. These goals can also change in the course of the campaign.
+
+Also, in general, results that make the character happy in the long term can increase the happiness value.
+
+## The fight
+
+Combat, as in any pen and paper system, is one of the more complicated processes. In Orbis Astea, a lot of things run through a program, which makes everything much easier and faster. In general, the system tries to keep the game as fluid as possible.
+
+### The Initiative {#Initiative}
+
+Initiative takes place at the beginning of the fight, meaning everyone rolls Initiative (Instinct + Physique)/2. The values are ordered by size and the one with the highest value gets to attack, then the one with the second highest, and so on. Sometimes the DM determines this order mutatis mutandis (e.g. for sneak attacks or distance and ranged fighters). Generally, ranged fighters get +1 die on the initiative check. If there is a tie in stats, crossbows and muskets are preferred since they just have to pull the trigger. These advantages do not apply if the distance is very short.
+
+### The combat round and combat actions
+
+Up to 4 actions are possible in a combat round:
+
+-   The [Movement](#Movement)
+-   The [Single Action](#SingleAction)
+-   The [Main Action](#MainAction)
+-   The [Bonus Action](#BonusAction)
+
+#### The movement and the radius {#MovementRadius .unnumbered}
+
+Movement is at the beginning of a combat phase. The player can move according to his movement radius, however the DM has the final say here. The movement radius is calculated by the agility value rounded down by 2. Thus, a normally agile person can move 5 meters per round. By [Riding](#Riding) this value can of course be significantly higher.
+
+In a running check, the ability value is converted times the radius of movement in a round. The movement radius of animals or monsters can therefore be significantly higher than that of the players.
+
+#### The Single Action {#SingleAction .unnumbered}
+
+A single action is an action that is small enough not to be a main action. What exactly counts as a Single Action is decided by the Dm, but some Single/Main Actions are fixed.
+
+Overview of Main and Single Actions:
+
+| Main Actions | Single Actions |
+|:-------------------------:|:--------------------------------------:|
+| Attack | Use Potion in Potion Bag |
+| Help Ally | Block/Dodge/Parry |
+| Get item from backpack | Stand up |
+| Play Instrument | Load a Crossbow |
+| Potion Making | Item From Holster |
+| Mount/Dismount | Make Potion (Level 1) |
+| Improvised Action | Use Object |
+| Loading Musket | Improvised Small Action |
+| Load Artillery | Attack Unarmed/Dual Wield/Second Hand |
+| Disarm some traps | Take cover |
+| Throwing Weapon |
+| Shield Strike |
+
+The Single Action - just like the Bonus Action - can be saved for the opponent's turn and used at any time. Mostly to block/dodge or to use throwing weapons.
+
+#### The Main Action {#MainAction .unnumbered}
+
+Any action can be performed in the Main Action, however it is recommended to use the Main Action well as this is the most crucial part of the fight.
+
+#### The Bonus Action {#BonusAction .unnumbered}
+
+The Bonus Action is another Single Action, but this one is usually unavailable and rarely granted by certain buffs or the DM.
+
+The Bonus Action, just like the Single Action, can be saved for the opponent's turn and used at any time.
+
+#### Defensive Actions {#BlockDodge .unnumbered}
+
+For defense, a character can Block, Parry, or Dodge. All of these defensive actions reduce the damage a character takes from enemy attacks, because any attack can be responded to with Block, Parry, or Dodge, unless you don't see the attack coming. Blocking is without a doubt the strongest choice, but you lose a hand to a shield and can no longer use large weapons or dual wield, because blocking is not possible without a shield. When blocking it is possible to disarm the opponent, this happens with a good block depending on the [shield](#Shields)
+
+Parrying is the weakest form of defense and has - besides the fact that only melee weapons can parry - the additional disadvantage that a critical hit of the opponent or an own critical fail reduces the weapon by state 1. In the case of an opponent's Nat 20/own Nat 1, the condition even goes down by 2. The advantage of parrying, however, is that you don't have any additional losses of options (like for example with the shield, where you use one hand on the shield). So parrying is a "costless" option there, where a block becomes impossible. However, only a melee attack can be parried.
+
+Although parrying is basically only available for melee attacks and requires a melee weapon, in an emergency, ranged combatants can also parry with their weapon - but at a higher cost. The ranged weapon always loses 2 condition, 5 for critical events and 10 for a Nat1. However, this high cost can be prevented with the [Modification](#Modify) "Bayonet", then the ranged weapon is treated like a melee weapon when parrying.
+
+Parry is rolled like an attack, the defense value is the weapon damage times the parry value of the weapon in question. If the damage of the defender is higher than that of the attacker, it is called a "counter". A counterattack enables a cost-free counterattack - the so-called counterstrike. If the defender (the one who successfully parried and got the counter) [Dual Wielding](#Dual%20Wielding), he has the choice of a direct counterattack at advantage. In all other cases the defender throws the attacker to the ground and the attacker has to get up again in his next turn (this can also happen with Dual Wielding, there you have a right of choice).
+
+If you have a Single/Bonus Action left, you can block, parry or dodge an attack with a probability of 100%.
+
+If you have no action left, you can block with a probability of 60%, parry with 40% and dodge with 20%.
+
+![Schematic overview of the combat round](Pictures/Rules/Attack.png)
+
+#### Block for others {.unnumbered}
+
+Defensive actions for others are only possible exclusively with single action and by blocking.
+
+#### Cover {.unnumbered}
+
+Cover is an alternative to blocking/dodging. Cover can only deflect ranged attacks, melee opponents are not touched/considered by cover as they can simply go around the outside. Taking cover costs a single action. If cover is not declared before the enemy attack, you need an Acrobatics check to get into cover. Otherwise, the normal procedure occurs (block/dodge, with chance at no free action).
+
+There are two types of cover - natural and buildable cover. Each buildable cover needs a single and a main action.
+
+The cover has a percentage chance to completely nullify the attack. The more extensive the cover, the higher this chance. This is because the chance of not being hit is approximately how much % of the body is covered by the cover times 0.75. This gives smaller characters an advantage, so as not to increase this too much we always assume a normal sized body (human) and small races get a 5% higher chance, while large races get a 5% lower chance.
+
+Once you are in cover, you no longer have a direct overview of the battlefield, which can make strategic action quite difficult. The DM decides how exactly to implement this, it is recommended to assume that the player does not have certain info.
+
+If enough damage hits the cover, the effect of the cover is cancelled. The amount of damage depends on the material and the width of the cover. As a rule, this table applies:
+
+| life | examples |
+|--------|:-----:|:-----------------------------------------:|
+| Tier 1 | 350 | Poor wood cover/trickle pile/pavese |
+| Tier 2 | 3500 | Stone piles/Better wood cover |
+| Tier 3 | 9000 | Solid stone walls/rocks |
+
+Values can also deviate in special cases
+
+If the damage value of a cover is exceeded, the cover is considered destroyed and is therefore no longer effective. Attacks "punch through".
+
+Cover can also be negated. This is done either by artillery or by explosives thrown behind the cover (the threshold must be adjusted to the size of the cover and the circumstances). Another strategy against cover is "sitting". Here, an attacker declares cover as the Main Action and pays close attention to it. This results in him being able to make an attack in the opponent's turn on any target that emerges or peeks out from behind cover, the defense is thrown at Disatvantage. However, if a creature needs to throw another check while sitting, it throws it ad Disatvantage and loses focus on cover (this ends the sitting). While sitting, you cannot use a single action to start a defensive action (block, dodge, parry), but the die decides.
+
+### Interrupt {#interrupt}
+
+Some attacks have the ability to interrupt a target. In this case, the target's next turn is skipped.
+
+### Heavy attack
+
+Instead of using the single action for another action, it is possible to use a single "heavy melee attack" at the cost of the main and single action. This special type of attack increases the dice pool from the attributes for an "Armed" attack by 50%, thus increasing the player's attributes for this action by 50%. This action is not possible in parallel with riding.
+
+### Dual Wielding
+
+Very brave creatures try to fight with two weapons. This can bring advantages and disadvantages. One disadvantage is that you can't block. An advantage is that you can strike with one weapon even in single action.
+
+### The Shield Strike
+
+Characters with shields can also perform a shield kick. This is done by attacking with the Block skill and using the shield value as the weapon value (the program does this automatically). If the value is 2 higher than the defense action of the other character, the other character is knocked down and has to get up (the program also shows this).
+
+### Other attacks during single actions
+
+Other attacks can also be performed as Single Actions. These include [small throwing weapons](#ThrowingWeapons) and unarmed attacks such as a fist punch, as well as bow and slingshot ranged attacks.
+
+### Sneak attacks {#Sneak attacks}
+
+Unexpected attacks can be incredibly effective and follow a certain pattern. First, you cast a [Sneak Probe](#UntypicalProbes) against the target or anyone else who might see you. If this fails, [Initiative](#Initiative) is cast normally. If not, a sneak attack is made. This can be done with anything that is not a large weapon.
+
+With the sneak attack no defensive action of the opponent is possible, otherwise the sneak attack runs like a normal attack.
+
+"After a sneak attack, another Sneak Probe is rolled to decide whether the character has been detected or not. When making a sneak attack with a melee weapon, you get a -5 modifier to the Agility attribute used to cast Sneak for the trial. For a sneak attack with a ranged weapon, this modifier is only -2, or -1 with the crossbow. This modifier remains as long as the sneak attack lasts, and each subsequent sneak attack made as part of this action adds another modifier, these modifiers expire immediately upon detection or escape."
+
+> A character (with 12 Agility and 43 Sneak) sets an ambush with a bow. He passes the first Sneak check (with 12 Agility and 43 Sneak) and is able to land a sneak attack. He then has to make another Sneak check (with 10 Agility and 43 Sneak - due to the ranged weapon, he gets a -2 modifier on the Sneak check). He passes and makes a second sneak attack. Now comes another Sneak check (with 8 Agility and 43 Sneak - Due to the ranged weapon, he gets another -2 modifier on the Sneak check). He passes and makes a second sneak attack - this time with his dagger. Now comes another Sneak check (with 3 Agility and 43 Sneak - Due to the melee weapon, he gets a -5 Modifier on the Sneak check). This time he is spotted and the targets attack him, now he has again 12 Agility and 43 Sneak.
+>
+> --- Example
+
+When sneaking, also note the [modifiers due to overcharge](#charge level).
+
+#### The assassination {.unnumbered}
+
+When a sneak attack is made with an assassin-enabled weapon, it becomes an assassination attack on lesser opponents. The assassination kills the opponent directly. If the DM objects, an assassination attack is performed. It ignores the armor of the opponent and is performed with five times the normal amount of dice.
+
+This assassination attack mainly affects monsters and certain characters where it is not credible that an assassination is sufficient to kill them. In this case, the decision is up to the DM.
+
+### Throwing weapons and throwing weapons
+
+Any weapon can also be thrown for a little damage. In this case, the damage of the weapon is multiplied by the throw value and used as the weapon damage. Throwing a weapon is thrown with the Throwing ability and can be outcast or blocked.
+
+Throwing weapons usually work the same way. In a pinch, you can use them as normal melee weapons, but you should only do so in an emergency. Otherwise, throwing weapons are thrown for a single action. They have a chance to [interrupt](#interrupt) enemy actions, however they also have a chance to break each time they are used. A [list of thrown weapons can be seen here](#thrownweapons). If you save the single action, you can also interrupt the opponent in the action.
+
+### Aimed shots {#AimedShot}
+
+Sometimes you want to attack a specific part of the opponent. This is called a targeted shot. However, here the hit probability - and thus the damage - is greatly reduced, depending on what you plan to hit. There are four ranges:
+
+-   Head - This has the chance to stun an opponent
+-   Torso - Internal injuries as decided by the DM (recommended Luck/Belief roll)
+-   Arms - This has the chance to disarm
+-   Legs - This has the chance to knock an opponent down
+
+Limbs are of course each available in pairs.s
+
+These areas also each have their own health values and can be gradually brought down to safely achieve the effects. If damage is done to a part, the overall health of a target will also drop.
+
+It is recommended to use a targeted shot only when the opponent is not guaranteed to block, parry or dodge.
+
+### Objects during combat {#FreeHand}
+
+Objects can be used during combat as a secondary action. However, it is important here that you are already carrying them in your hand, holster (for weapons), or potion bag (for potions). Everything that has to be fetched from the backpack - i.e. the rest of the inventory - costs a main action.
+
+To be able to use most objects quickly, you need the so-called "free hand" - that is, a hand that can be used to use the object. You have this if you are wielding a one-handed or two-handed weapon (polearm or large weapon). If you are wielding two one-handed weapons or a shield, you have no free hand and can therefore use the [Quiver](#Koecher) less well. Wielding fist weapons always counts as "free hand".
+
+#### Holster {#Holster1 .unnumbered}
+
+there are three unrestricted holsters, all types of objects - i.e. weapons, throwing weapons, shields and instruments can be used in them:
+
+-   Primary holster - This is where the main weapon used should be placed.
+-   Secondary holster
+-   Tertiary holster
+
+In addition, there are two holsters into which only certain objects may be placed:
+
+-   Auxiliary Holster - This is where the shield is placed, however this slot can also be used as a secondary quiver. An instrument can also be placed in the additional holster.
+-   Quiver - this is the quiver for throwing weapons or special ammunition
+
+Each holster allows one to draw or swap weapons with a single action. [Throwing weapons](#Throwing weapons) have the advantage that they can be thrown directly from the quiver or the additional holster with a single action.
+
+#### Quiver {#Quiver .unnumbered}
+
+Either special ammunition or throwing weapons can be carried in a quiver. This has the advantage that the special ammunition can be used directly in a ranged attack (this costs the Main Action like a normal ranged attack), while throwing weapons can be thrown in the quiver for the Side Action.
+
+However, this rule only applies to characters who have a [Free Hand](#FreeHand) available.
+
+#### Potion Bags {.unnumbered}
+
+A potion bag allows you to use potions and bombs with a single action as long as they are in the potion bag. A character can only carry one potion bag. You can read more about potion bags [here](#PotionBagItems). You don't need a [free hand](#FreeHand) to use a potion bag
+
+### Combat from mount and riding {#CombatFromMount}
+
+Should you fight from a mount there are several special features:
+
+1.  The [movement radius](#BewRadius) is no longer that of the character, but that of the mount
+2.  One counts as a large target, i.e. one should be wary of [polearms](#Polearms).
+3.  Before the attack roll, a trial of Riding is rolled, which decides how much of the mount's multiplier gets through.
+4.  Otherwise, the [Rules of Riding](#Riding) count.
+
+There are a few things to keep in mind when riding. Besides the fact that mounts cost extra [Maintenance](#LifeSupport), two skills are necessary to use their full potential - [Riding](#Riding) and [Animal Handling](#AnimalHandling). Riding determines how well you can hold and act on the mount, or control the mount. Animal Handling determines what else you can make the mount do. This can be necessary for special actions. After an action that frightens a mount a ride check is necessary to see if the respective character is thrown off. The threshold is decided by the DM.
+
+-   Animal Handling against flight reflex or aggressive nature of the animal
+
+-   Riding during certain special actions of a mounted player
+
+With mounts, it is important to exceed a minimum ride value to be able to mount them at all. Traveling is faster and more comfortable with mounts, but expensive mounts (unless they are scary animals) will also get you mugged more often. Animals can be both a means of transportation and a carrier for luggage when traveling.
+
+### The Unarmed Fight {#UnarmedFight}
+
+Unarmed combat has two applications - pugilism and melee. Pugilism describes "conventional" fighting with fists or fist weapons. One remains in a defensive position, strikes deliberately, and does damage. Pugilism runs like the normal fight - only with the damage of the fist or fist weapon and with the skill "Unarmed melee". Each blow has the ability to [interrupt](#interrupt) the opponent.
+
+Melee runs the same as Pugilism with the skill "Unarmed Melee" - but does not do any damage, but is either to knock the opponent down or hold him down and then knock him out completely, or to disarm the opponent. If the melee is successful, the attacker holds the defender - either standing or on the ground. Neither the attacker nor the defender is able to use [Defensive Actions](#BlockDodge) during a melee.
+
+While the attacker is holding the defender, he can make an unarmed attack on the defender once per turn without the defender having a defensive action. The defender can try to get out of the melee every round, for this he must win a melee check against the attacker - after that the melee is automatically over. If a person is in the melee for more than three rounds, they will [pass out](#faint).
+If a character attempts to melee another, that character can either [single action or passive chance dodge](#BlockDodge), or engage in the melee.
+
+Note: Melee is risky because if it goes badly, you can get knocked down yourself. Other countermeasures like daggers can also be very effective against a grapple attempt.
+
+It often makes sense to use these actions in conjunction with each other - for example, in one round a character can attack with the single action and start a melee with the main action at the same time.
+
+### Artillery {#ArtilleryOverall}
+
+Attacking enemies with artillery is always a good idea - should the artillery be available. Artillery trials work cumulatively - depending on how many people are manning the unit - the value is added. Furthermore, the damage is executed in whole on the hit. If the crew does not exceed the threshold of the weapon, the shot will miss.
+
+Stats and types of artillery:
+
+<small>
+
+| Artillery | Damage | Range | In Boxes | Weight | Threshold | Price | Price/Shot |
+|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
+| Scorpion | 300 | 150m | 3 | 30 kg | 2,3 | 90000 | 100 |
+| Ballista | 1000 | 300m | 6 | 250 kg | 3,3 | forbidden | 300 |
+| hand cannon | 400 | 50m | 1 | 50 kg | 3 | forbidden | 200 |
+| large cannon | 3600 | 400m | 8 | 900 kg | 3.6 | forbidden | 750 |
+| catapult | 600 | 200m | 4 | 300 kg | 4 | forbidden | 200 |
+| trebouchet | 2900 | 350m | 7 | 600 kg | 4,7 | forbidden | 600 |
+
+</small>
+
+| Artillery | Minimum Crew | Maximum Crew | Negated Cover | Size | Addition |
+|:---------:|:---------:|:---------:|:---------:|:---------:|:---------------:|
+| Scorpion | 1 | 2 | -- | Small | Buildup in combat: 3 rounds if only 1 crew: Reload as Main Action |
+| Ballista | 2 | 3 | Tier 1 | Medium | Reload 1 round minimum, 2 rounds if crew \<2 |
+| Hand Cannon | 1 | Tier 1 | Small | Reload 1 round |
+| Large Cannon | 2 | 3 | Tier 2 | Large | Reload 1 round minimum, 2 rounds if crew \<3 |
+| Catapult | 2 | 3 | Tier 1 | Medium | Reload 1 round minimum, 2 rounds if crew \<3, Area Damage 2m |
+| Trebouchet | 4 | 8 | Tier 2 | Large | Reload 1 round minimum, 2 rounds if crew \<6 , Area Damage 8m |
+
+### The damage calculation
+
+Damage is calculated relatively simply:
+
+1.  The program outputs the damage
+2.  Deduction of block/dodge effects (also via the program if nrun=2)
+3.  Deduct armor value
+4.  Deduct Damage from Life
+
+### Damage Over Time
+
+Damage over time - so-called status effects - can be triggered by a variety of things. Weapon mods, special ammo types, and even monsters can cause poison, bleeding, or burning. There are several concepts to understand here: a Dot is applied over a certain "duration" of rounds and causes a certain debuff (almost always "damage") each round. Furthermore, a Dot is only triggered with a certain "probability" and only if the opponent who is going to cause the Dot causes damage.
+
+If a Dot is triggered with a melee weapon, a "charge" is lost if Poison is used. Dots can also accumulate, so each successful application of a Dot causes a "stack" of the respective status effect - which of course multiplies the Damage by the number of stacks. Against each Dot there is a counter possibility. This system may seem very complicated at the beginning, but it is adopted 100% by our program.
+
+DoTs only take effect when a person takes an action that requires either a Single or Main Action. If a person does without both, the DoT will not take effect. So the person can only remove himself from the fight with Move actions, for example, where his fate will be decided by the DM, taking into account the DoTs.
+
+#### Poison {.unnumbered}
+
+Poison is the wildcard among status effects, often poisoning is not noticed until it has already eaten through some of the target's health - because every time a stack casts poison, a Perception check is cast against a damage-dependent Threshold - which must be managed for the character to notice his poisoning.
+
+Poison can be administered in 2 to 9 charges, and a stack of poison usually lasts 10 rounds. The damage done per round depends on the level of the poison, and can be determined by the following formula: $$DamagePerRound = \frac{miniDamage}{charges} + ((\frac{miniDamage}{100}) \cdot charges \cdot 1,1)$$ More charges do more damage overall and to possibly more enemies, but must be applied more often - so are slower. (The min damage for one level of poison is [viewable in the potion list](#potions)).
+
+``{r,echo=F}
+Minschaden=c(rep(125,8), rep(200,8),rep(275,8),rep(350,8))
+Charges=rep(c(2:9),4)
+ll=data.frame(mindamage,charges)
+ll$DamageRound=round(mindamage/charges+((mindamage/100)*charges*1.1))
+ll$DamageTotal=round(ll$DamageRound*c(2:9))
+ll$Tier= c(rep(1,8), rep(2,8),rep(3,8),rep(4,8))
+ll$Cost= c(rep(200,8), rep(420,8),rep(900,8),rep(1300,8))
+
+llm=ll %>% filter(animal==1) %>%
+  select(-c(tier, cost)) %>%
+  tidyr::pivot_longer(c(-charges,-min damage))
+
+ggplot(llm,aes(x=charges,y=value,col=name))+geom_line(size=1) + theme_bw() +
+  theme(panel.grid.major = element_line(linetype = "blank"),
+        panel.grid.minor = element_line(linetype = "blank"),
+        panel.background = element_rect(fill = "#F3EACB"),
+        plot.background = element_rect(fill = "#F3EACB"),
+        legend.key = element_rect(fill = "#F3EACB"),
+        legend.background = element_rect(fill = "#F3EACB"))+
+  labs(y="damage",title="rendering for tier 1") + scale_colour_manual(name="",labels=c("damage when all charges are applied", "damage per charge"),values=c("black", "red"))
+
+```
+
+The variable DamageTotal stands for the total damage a poison does when all charges are applied. If you don't want to calculate by yourself, you can read all relevant values in this table:
+
+```{r}
+ll %>% arrange(charges,animal) %>%
+  select(-c(mindamage,cost)) %>%
+  relocate(animal,charges) %>%
+  reactable(groupBy = "charges",
+            columns = list(
+              
+              Charges = colDef(
+                filterable = TRUE,
+                grouped = JS("function(cellInfo) {
+                            return cellInfo.value
+                          }"), align="left", minWidth= 150
+                
+              ),
+              Animal = colDef(
+              filterable = TRUE )
+            ), bordered = F,
+            highlight = T, showPageSizeOptions = T,
+            pageSizeOptions = c(5,10, 20, 50),
+            defaultPageSize = 20, paginationType = "jump",
+            theme= overallThemeReactable, defaultColDef = colDef(
+              align = "center"
+            ), outlined = T,
+            striped=T, resizable = T)
+```
+
+As a countermeasure against poison, unfortunately, only other potions help - for example, antidote.
+
+#### Bleeding {.unnumbered}
+
+Bleeding usually causes the victim to lose a percentage of their maximum health each round - usually 6% per stack - making it very effective against strong single targets. By default, you bleed for 3 rounds, and as a countermeasure to bleeding, you can bandage your wounds using a Survival skill check. This check requires a threshold of 4 without bandages and 2 without bandages to stop bleeding.
+
+#### Burn {.unnumbered}
+
+The damage of a burn status effect is usually 50 per round, but the duration of this effect can vary. Burning can be countered by burning characters rolling on the ground for one round. Water or other means of combating fires can also be helpful. This usually consumes one Main Action.
+
+For example, if the fire was started with oil, the DM may declare certain counter actions - such as rolling on the ground - not possible.
+
+#### Other Status Effects {.unnumbered}
+
+Other status effects with
+
+## Itineraries
+
+The traveling player group in downtime usually has two choices for their journey. One is the rural route, which takes them through small villages, the countryside, and sometimes into a small town, and the urban route, which takes them along main roads, through walled towns with markets, and major cities. Both options have advantages and disadvantages, so the group should consider which option they prefer.
+
+| rural route | urban route |
+|:----------------:|:--------------------:|:-------------------------------:|
+| Supply / Accommodation | Camping, eaten is what is hunted and gathered | In addition to duties, costs for hostels and food amount to 350 Reiks |
+| Merchants | rather plant collectors and small merchants with little specialization | various merchants with large inventories and high specialization, but few plant collectors |
+| default setting in the app | village or small town | small town or city - even big city if it fits into the story |
+| job opportunities | depending on DM | completely possible |
+| dangers if downtime actions go wrong | bandits and highwaymen | the city guard |
+
+When traveling, there is also a one-third chance that players will find a specific merchant where special items can be bought or crafted. Possible merchants here are:
+
+-   Dwarven enclaves where you can buy constructs
+-   friendly wood elf tribes where you can buy animals
+-   Master blacksmiths where weapons and armor can be made
+
+With a matching [Knowledge Skill](#Knowledge Skills), players can search for specific merchants.
+
+## Pause and Rest {#PauseRestSystem}
+
+When a character loses either health or stamina in a battle or through other activities, it is possible to regenerate these stats up to a certain point. This system includes 3 different rests that are available, namely:
+
+| length | duration |
+|:-----------:|:---------------------------------------------------------:|
+| Short break | 3-4 hours |
+| Long break | 7-8 hours |
+| Downtime | Time between 2 sessions <br>(usually several days) |
+
+When players are between sessions (downtime), their stamina and health always regenerate up to 100% unless the Dungeon Master announces a major wound that needs to be treated by a professional or cancels the downtime completely. For short or long downtimes, it is important to note that the Dungeon Master can decide how long the downtime should last, but the time periods given should be used as a general measure of how long downtimes should last. Also, playable characters must complete the entire break without strenuous activity or interruptions, or regeneration will not be possible. Another important factor is the circumstances in which players rest, these can be bad, average or good. Bad can be considered a rest on the road in cold weather, average when sleeping in a carriage suitable for long journeys (roof, windproof walls, etc.), and good when resting in a tavern with a warm room and a well-prepared room. The Dungeon Master has the responsibility of deciding what conditions players are in when they attempt to use the rest system. The following table shows how the condition is affected by the quality of the rest:
+
+| Circumstances | Short | Long |
+|:--------:|:----:|:----:|
+| Poor | 10% | 30% |
+| Medium | 20% | 40% |
+| Good | 40% | 60% |
+
+The values are a percentage recovery measured against the player's maximum values. Example: A short bad rest restores 10% of the maximum missing stamina and life. The values are rounded up in case of doubt.
+
+Another way to increase the value of a rest is to have an able member of the party tend to you - preparing food and tending to wounds. To do this, the player has the option of making a Survival skill check. It is recommended that only those who are actually skilled in survival attempt this, as a poor score can cause players to lose health and stamina during the break as well - by serving poor food or infecting wounds through improper care. The survival skill check can be applied to any number of players.
+
+## Downtime activities
+
+In the downtime characters can do anything, but it is categorized, so only an activity is possible that brings a character advantage, such as a job auzüben or a skill to train. Other activities that may bring a player advantage, such as talking to NPCs, writing letters or shopping, are unlimited.
+
+### Jobs and other activities
+
+-   Collecting plants (this is rolled at the beginning of the session via the tool)
+
+-   Various earning opportunities these include for example:
+
+``{r DowntimeActs}
+DFActivity= read_excel(allgdatapath, sheet="DowntimeActs")
+
+colnames(DFActivity)[1:3]=c("activity", "mean", "standard deviation")
+
+riskassessment= function(x){
+  vec=c()
+  for (i in x){
+    if (i > 0.5){
+      vec=c(vec, "large")
+   }else if (i>0.3){
+     vec=c(vec, "medium")
+   }else{
+     vec=c(vec, "small")
+   }
+ }
+ return(vec)
+}
+
+DFActivity %>% select(activity,mean,standard deviation) %>%
+  mutate(risk = riskestimate(standard deviation / mean)) %>%
+  select(-standard deviation) %>%
+  knitr::kable(align = c("c", "c", "c"))
+```
+
+The mean value describes the average income in Reiks, the risk tells how much the actual income deviates from the mean value. This can be positive as well as negative - sometimes a high risk makes you lose money. This is especially true in the case of illegal activities: if the income is negative, it means that the thief has been caught and will have to pay a fine, and he may also be known to the security forces as a criminal in the session.
+
+### Training {#Training}
+
+A character can also sacrifice his complete downtime to improve a dedicated skill. There are two forms of training: either training alone or training with a teacher (note that the teacher also loses his full downtime).
+
+Training works as follows:
+
+1.  You choose a dedicated skill you want to train (of course the external conditions must be given, you can't train persuation in full isolation)
+
+2.  You decide if you want to train alone or with a teacher
+
+3.  You roll the dice and interpret the success of the training
+
+The interpretation is strongly dependent on how you learn or how good the teacher is. Teachers come in different levels. The level of the teacher is determined by the difference between the student and the teacher in the relevant skill:
+
+``{r,echo=F}
+Differenz<-seq(10,70,20)
+Level<-c(1,2,3,4)
+ll<-data.frame(difference,level)
+knitr::kable(ll,align = "cc")
+```
+
+We now interpret the throw as follows:
+
+Without teacher:
+
+-   75% fail chance (50% if person's skill is below 30)
+-   otherwise +1 skill
+-   +2 Skill if Nat 20
+
+With teacher:
+
+-   50% fail chance
+-   up to 16: + half teacher level skill
+-   From 16: + Teacher level Skill
+-   Nat 20: + Teacher level\*1.5 Skill
+
+Since teaching is time consuming, most characters want something in return. However, teachers also have a chance to learn something while teaching. The smaller the difference, the higher the chance. The probabilities for this are listed in the following table:
+
+``{r,echo=F}
+Differenz<-c(10,20,30,40,50)
+Probability<-c(20,15,10,5,0)
+ll<-data.frame(difference,probability)
+colnames(ll)[2]<-"probability in %"
+knitr::kable(ll,align = "cc")
+```
+
+### Study {#Study}
+
+Just as you can train skills, you can also learn knowledge or languages. For this you first need a book or a teacher - because you can not learn such content yourself. Of course, non-fiction books or lessons with scholars are not cheap. Furthermore, you need the knowledge skill writing at level 1 to be able to learn from books.
+
+As with training, you must first specify what you want to study - that is, in what area you want to further your education. The study is closely related to the knowledge skill system, which you should look at.
+
+Studying is a long process. You spend a full downtime every time you study. Studying is closely related to the [knowledge system](#knowledgeskills), which one should have understood.
+
+Each specified downtime is thrown a D20. If the achieved value is above the intelligence value, studying counts as failed. If it is below the intelligence value, the difference between the roll and intelligence is added as a value and with the already existing points in this area.
+
+> A character with intelligence 14 wants to learn elfish. He rolls D20 and gets a 2. The difference +1 is 13, so he has improved his value in Elfish from 0 to 13. This is equivalent to Elfish 2. If he rolled a 15 instead of a 2, he would have learned nothing in that session.
+>
+> --- Example
+
+If you have enough added points you can upgrade your knowledge skill according to this cummulative key:
+
+| level/level of language or knowledge: | cost points: | level of knowledge | level of language |
+|:-----------------:|:---------------:|:---------------:|:-----------------:|
+| Level 0 | 0 | No knowledge in the field | No language ability |
+| level 1 | 5 | Basic knowledge | Very simple conversations possible |
+| Level 2 | 10 | Well read & experienced in the subject area | Communication awkward but complete |
+| level 3 | 10 | Proficient in the subject | law text and native language level |
+
+So an upgrade from level one to level 2 would cost 10 such points, while an upgrade to level 1 would cost only 5.
+
+Furthermore, you can also learn with the help of "remedies", so taking intelligence potions for one learning session is perfectly fine. However, you need 2 potions instead of one, since a downtime is a bit longer. The value of the intelligence potions is averaged.
+
+## The levels {#Tiers}
+
+All equipment, potions, weapons, instruments, etc. come in Orbis Astea in so-called "tiers" or levels. The higher the tier, the better and more valuable the equipment. In a tier, pieces of equipment can be of different material, i.e. the tier decides what the values of the weapon are, while the appearance and material, as long as it is tier-compliant, may mostly be determined by the player. This concept is discussed in more detail in [Items](#Items).
+
+Which materials belong to which tiers?
+
+| Tier 1 | Tier 2 | Tier 3 | Tier 4 | Tier 5 |
+|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
+| Iron | Steel | Hardened Steel | Dwarf Material | Forerunner Material |
+| beech | larch | ash | Silva Nacia spider silk |
+| fabric | leather | chain fitting | |
+
+While Tier 1 is quite common and Tier 2 is available to the experienced or rich adventurer, Tier 3 is already equipment that is very rarely seen and reserved for absolute elite units. Tier 4 still have legendary warriors and prestigious rulers who can afford a guard large enough that not every bandit group or assassin and thief in a tavern will try to take such a rare and powerful item from you.
+
+Tier 5 is a completely different league, these items possess god-like powers and when unleashed and controlled can destroy entire armies and make true dragons look like small dogs. However, controlling and operating them is even more difficult than finding or recognizing them. They have completely independent effects and every DM should think carefully about what he is doing before introducing them.
+
+## Money and Exchange Rates {#Currency}
+
+In Orbis Astea there are different currencies, while in the Empire Reiks is the denoting currency, in the Rah Kari it is the temple coins, which are often called Rahs. Dwarven crowns are the standardized currency of the dwarves. The Sea People and the citizens of Skaen use the currency of Thalers. All currencies are worth the same.
+
+### Classification of the proportions of monetary amounts
+
+The income of an average unskilled worker is 5,000 reiks, this income is enough to feed a family of three for a month. A skilled worker, be it a master craftsman or merchant, can expect about 7,500 reiks at the end of the month.
+
+A simple meatless dinner costs about 30 reiks. A piece of meat has the luxurious price of 100 reiks. An overnight stay in an inn costs between 80 and 100 reiks.
+
+Enclosed is a table of the monthly and annual income of some professions to get a better idea of what the money in Orbis Astea is worth.
+
+```{r}
+dfe=read_xlsx(bookdownallgdatapfad,sheet="profession income ")
+
+dfe = dfe[,c(1,5,6)]
+colnames(dfe) = c("occupation", "monthly income", "annual income")
+
+
+dfe %>% arrange(annual income) %>%
+  reactable(bordered = F,
+            highlight = T,
+            showPageSizeOptions = T,
+            filterable = F,
+            pageSizeOptions = c(5,10, 20, 50),
+            defaultPageSize = 10, paginationType = "jump",
+            theme= overallThemeReactable, defaultColDef = colDef(
+              align = "center"
+            ), outlined = T,
+            striped=T, resizable = T)
+```
+
+
+## trading system (to be implemented) {#trading system}
+
+## cost of living {#cost of living}
+
+Both in downtime and per session, living costs are at a minimum of 150 reiks/day. In individual cases, these may be higher and include ongoing costs. Ongoing costs include:
+
+-   Repair of constructs/atrillery/weapons
+-   Maintenance for mounts
+-   Payment for possible servants
+
+What are the running costs is determined by the DM.
+
+With certain actions costs can also be reduced, here are the typical:
+
+-   Hunting/Fishing
+-   Services for tavern owners

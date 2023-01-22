@@ -1,0 +1,127 @@
+---
+editor_options:
+  markdown:
+    wrap: sentence
+---
+
+# The region Oberreik
+
+## Villages of the region
+
+### Infrastructure
+
+## The history of the region
+
+### The history of the region before colonization
+
+Little is known about Oberreik from the times before the Empire attempted to colonize the region.
+It is believed that the Wood Elves ruled the forest, as is common throughout the world, and that the Orcs established their stronghold several hundred years before the founding of Kreuzburg.
+People soon discovered the wonders of ironwood, which came from the Sable Forest.
+However, it took many decades before proper trade lines were created and production could take place.
+In 209 AD, General Decius Primus Servarius, along with his younger brother Julianos Secundos Servarius, was tasked with establishing a garrison in the region to protect the many caravans that transported ironwood to the Heartland from elven raids.
+
+Decius was a man of human race who was born in the Heartland.
+His father was a soldier who fell in the war against Eldria.
+Soon after, Decius followed in his father's footsteps and quickly rose through the ranks of the military.
+Decius provided his younger brother Julianos with everything he needed.
+The latter thus managed to establish himself as an assistant professor in Civis Primae.
+Soon after their arrival in the region, the duo founded the outpost of Sulondos, now known as the city of Kreuzburg.
+The brothers were very successful in their first years in Upper Reik.
+However, although the seeds of growth had been planted, Decius often discouraged his brother from expanding their base of operations.
+However, over time, the small outpost developed into a small village and eventually the town of Kreuzburg.
+The city, due to its geographical location, had great potential for trade and it did not take long for various merchants to realize this as well.
+Despite the fact that Decius was the man in charge of the whole operation, many of the citizens of Kreuzburg preferred the ever-popular younger brother Julianos, as he was the reason for the prosperity of the city.
+But with prosperity came resentment.
+For the older brother knew how to stick to his original orders and not deviate from them.
+Moreover, he was known to discriminate against anyone who was not from the Empire.
+As such, he detested the Animali, the people from Ska'en, and the Orcs that moved about his city.
+At some point, Decius grew fed up with his younger brother and his outspoken views and attempted to beat him into submission.
+This was to prove to be perhaps the biggest mistake he ever made.
+For this attack was to lead to his downfall.
+Julianos fled the city and set out on a new journey to Civis Primae.
+He was aware of the great potential of Civis Primae, but he knew that he would never be able to fully exploit it as long as his brother was able to stop the progress of the city.
+Julianos made the decision to take the future of the city into his own hands and overthrow his own brother.
+When he arrived in Civis Primae, he managed to get an audience with the Emperor himself and soon after he explained to him the situation around Kreuzburg.
+Together, the two hatched a plan to take over the city.
+Two months after Julianos left the city, he returned, but he was not alone.
+With him was the might of an entire legion and the famous general Quintis Egnatius Leddicus.
+Many people would think that Decius would abandon his folly and kneel before the strength of the Empire, but unfortunately this was not the case.
+Despite everything, Decius remained faithful to his orders and he created a well-fortified station for himself and his men.
+He had even managed to procure some cannons in case the city was attacked.
+However, when one man and his few loyal soldiers faced an entire legion, the chances of victory were slim.
+Eventually all his soldiers fell and Decius was taken into custody.
+Many historians say that after the battle the first true golden age of the region began, as Julianos now led the region without being constrained by his brother.
+
+## Economic situation
+
+### The resources of the region
+
+## Sociopolitical situation
+
+### Ruling system/organization
+
+## Climatic conditions
+
+### Flora and fauna
+
+#### Monsters in the region
+
+## Rumors of the region
+
+## Sights
+
+### The capital Kreuzburg
+
+The capital of Upper Reik is Kreuzburg.
+It is the most important trading center in the entire region, as various beings of many races come to this city to trade.
+Kreuzburg is considered one of the most important trading centers in the empire, as many exotic goods can be found in the marketplace.
+Not only is it the city where many of the Ska'en goods are imported and sold, but it is also one of the most sacred places where traders can get their hands on fresh Animali goods.
+The city is also famous for its renowned carpenters, who process the wood of the Sable Forest into the wooden goods prized by the Empire.
+
+Although it is rare to encounter groups of Animali in the Empire, Animali caravans can be encountered heading to Kreuzburg if you are lucky.
+Kreuzburg also thrives on the products and labor of the orcs found in Oberreik.
+These come from the orc stronghold of Grurdir.
+Kreuzburg is also one of the only places outside of Ska'en where you can find large gatherings of *"Ska'en's people" (we don't have a word for the people right now)*, as Kreuzburg is home to one of their only trading centers.
+Although there are many prejudices about different races in the neighboring region of Nors, Upper Reik is considered one of the most tolerant regions of the Empire.
+However, this attitude has not always been so.
+
+## A valuable commodity - the ironwood
+
+Upper Reik is known for its strong and resistant wood, which is obtained from the sable forest.
+The ironwood is especially important when it comes to the construction of large buildings.
+However, the wood is also associated with a certain prestigious status.
+It also has many other uses, for example
+in carpentry, as its products are highly sought after by many people in Riga and Civis Primae.
+Many theories have been put forward to date to explain the special quality of the wood produced.
+One of them comes from one of the first human settlers "Lucius Minicus Melissus", which states .
+Some natives, however, prefer a theory that originated with the Animali of the Ice Country.
+This states that the land on which the forest stands was dipped in the blood of the world worm Aersiqus after the battle with the Animali god.
+It was believed that Aersiqus had consumed mountains of ores during his life.
+The various minerals contained in them were absorbed into his blood and when the worm died, the blood from his body gave miraculous properties to the soil, thus creating the trees of the Sable Forest.
+
+## The coexistence of the different races
+
+Although the Animali trade peacefully with the Empire today, it was not always so.
+The Animali were the first people to harvest the resources of the Sable Forest.
+When they discovered that humans were beginning to harvest the trees themselves, they attacked them.
+Many of the first outposts built by the humans around Sable were attacked and burned down by the Animali.
+However, as contact between the humans and the Animali steadily increased, many of the Animali laid down their weapons and stopped their attacks.
+Interactions with the orcs were mostly peaceful, as they provided and still provide Kreuzburg with good and strong labor and interesting orcish goods.
+On the other hand, the Empire still has many conflicts with the Wood Elves, who live in the region.
+
+## The Sable Rot
+
+Sable rot is a disease that affects the woodcutters of the sable forest.
+When an iron tree is cut down and sawn open, the tree releases dangerous spores.
+These spores cause the flesh of the tree feller to itch and slowly rot over time.
+However, the disease does not cause the cutting of ironwood trees to stop.
+Trade in this commodity is very lucrative.
+And as many people know, it is better to be sick and have money than to go hungry or die in the streets.
+But not only humans, orcs and other forest workers are affected by the spores of the trees.
+Perhaps an even more frightening fact concerns the monsters that inhabit the Sable Forest.
+Many monsters that became native to the forest learned to live with the sable rot and became grotesque creatures because of their mutagens, which were created by adapting to the disease.
+
+## The army in Oberreik
+
+The Empire's army is mainly known for its strong infantry.
+However, due to the tundra landscape of Upper Reik, it has opted for an army composition based on light cavalry to better take advantage of the region's landscape features.
