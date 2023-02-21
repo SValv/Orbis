@@ -4,7 +4,7 @@ editor_options:
     wrap: sentence
 ---
 
-# (PART) Deep Lore {-}
+# (PART) Deep Lore {.unnumbered}
 
 # Forerunners and blood gods
 
@@ -20,15 +20,22 @@ So read at your own "risk".
 
 This species of intelligent developers and researchers went mad after a time due to complacency and decadence.
 This led to the loss of these special abilities as a species of developers.
-The "last" of their kind were no more than children who could handle weapons. It was not possible for them to specifically improve their weapons here or even to develop new ones, so the actions of the "Blood Gods" can rightly be considered insane by mortal humanoids.
-The abilities of the individual blood gods are accordingly manifold, since everyone tried to use his "captured technologies" and to optimize them. This is a very wide range of technologies, which of course can become weapons with malevolent intentions. This resulted in a ruthless slaughter of this once wise species, shrinking the number of their kind to a small pile. Consequently, the survivors of these barbarians are neither the most prudent nor the kindest. As a result, the entire planet on which the world known to man lies has become a shadow of its former self.
+The "last" of their kind were no more than children who could handle weapons.
+It was not possible for them to specifically improve their weapons here or even to develop new ones, so the actions of the "Blood Gods" can rightly be considered insane by mortal humanoids.
+The abilities of the individual blood gods are accordingly manifold, since everyone tried to use his "captured technologies" and to optimize them.
+This is a very wide range of technologies, which of course can become weapons with malevolent intentions.
+This resulted in a ruthless slaughter of this once wise species, shrinking the number of their kind to a small pile.
+Consequently, the survivors of these barbarians are neither the most prudent nor the kindest.
+As a result, the entire planet on which the world known to man lies has become a shadow of its former self.
 
 ### Precursors
 
 Forerunners still possess their physical bodies.
 They are able to be almost immortal, since their internal organs and brains can be rejuvenated again and again, but they suffer from the fact that the global ability to regenerate the skin was impaired when their war broke out.
 As a result, they constantly feel pain but are unable to stop it or regenerate their skin themselves.
-One of the fewer regeneration stations is located a few meters below the surface of the Sulphur Trench and is accordingly a "trap" of the non-material Blood Gods. The Forerunners are still endowed with, for humans, god-like abilities, but cannot be in all places at once, limiting their capabilities compared to the Blood Gods. However, these Forerunners are still in a more livable state than their, pre-war, richer counterparts.
+One of the fewer regeneration stations is located a few meters below the surface of the Sulphur Trench and is accordingly a "trap" of the non-material Blood Gods.
+The Forerunners are still endowed with, for humans, god-like abilities, but cannot be in all places at once, limiting their capabilities compared to the Blood Gods.
+However, these Forerunners are still in a more livable state than their, pre-war, richer counterparts.
 
 ### Blood Gods
 
@@ -51,7 +58,10 @@ These monsters are known as Stone Worms, Asworms, and World Worms.
 Based on this, thousands of species established themselves, which were also able to use these energy sources.
 Hartemus provided the clout of his weapons and troops to allow Saarth Valar to implement these plans without the other blood gods being able to stop him.
 
-However, Thanif, the goddess of the Awakened, that is, the creator of the parasites that afflict all humanoids, was dissatisfied with the power of this alliance and feared losing her "weapons", the Awakened, as soon as peace would come. Together with Ciresh, she was able to unite the remaining Blood Gods and motivate them to betray Saarth Valar. Jiraad, the burning blood god, already thought little of Saarth Valar's ideas, but Jiraad's creations were capable of living in this radiant world. He joined the attempted coup.
+However, Thanif, the goddess of the Awakened, that is, the creator of the parasites that afflict all humanoids, was dissatisfied with the power of this alliance and feared losing her "weapons", the Awakened, as soon as peace would come.
+Together with Ciresh, she was able to unite the remaining Blood Gods and motivate them to betray Saarth Valar.
+Jiraad, the burning blood god, already thought little of Saarth Valar's ideas, but Jiraad's creations were capable of living in this radiant world.
+He joined the attempted coup.
 
 H'abunaptra, the mountain in the Rahkari desert, was probably the most important remaining powerhouse of the Forerunners and Blood Gods.
 Saarth Valar resided with his attention primarily there.
@@ -60,7 +70,8 @@ In the phase where Saarth Valar wanted to devote himself completely to this anci
 She disrupted the connection.
 Saarth Valar lost access to most of his abilities during the transfer process as a result.
 Hartemus then tried to take revenge on Ciresh.
-This led to a new conflict between the Blood Gods. The attempted subversion was successful in the narrow sense.
+This led to a new conflict between the Blood Gods.
+The attempted subversion was successful in the narrow sense.
 Saarth Valar's possibilities to realize or form from the network from reality was massively weakened thereupon.
 Hartemus, as the executor of Saarth Valar, also suffered bitter losses.
 He could not keep up with the mental abilities of the united other blood gods and ended up as one of the weakest blood gods
@@ -85,7 +96,12 @@ There are two relevant different outcomes.
 If the head of the dead person is destroyed, an altered variant of an awakened person develops from the body found in the remodeling and decomposition.
 Here a tentacle or eel-like head area is formed, which protrudes from the body to a different extent.
 This forms a sensory nexus that is difficult to hit, similar to a head.
-It is not possible to be bitten by this mutated Awakened, but the "head", i.e. this small area protruding from the shoulders, secretes contact poisons. These poison humanoids and even blood gods. This makes these Awakened more difficult to fight, since the entire torso must now be destroyed. If the deceased keeps his head, the parasite forms its sensory center in the head and can thus be eliminated more easily with a decapitation. The food supply of the awakened is provided by symbiotic fungi, which settle in the rotting body. Coupled with highly throttleable metabolism of the parasite itself, it allows them to live extremely long without actually "starving".
+It is not possible to be bitten by this mutated Awakened, but the "head", i.e. this small area protruding from the shoulders, secretes contact poisons.
+These poison humanoids and even blood gods.
+This makes these Awakened more difficult to fight, since the entire torso must now be destroyed.
+If the deceased keeps his head, the parasite forms its sensory center in the head and can thus be eliminated more easily with a decapitation.
+The food supply of the awakened is provided by symbiotic fungi, which settle in the rotting body.
+Coupled with highly throttleable metabolism of the parasite itself, it allows them to live extremely long without actually "starving".
 The fact that Awakened humanoids partially eat is due to the genetic self-optimization of the parasite.
 Here, the feeding Awakened, i.e. the parasites in humanoid shell, spread themselves further.
 Thus, the most effective hunters continuously improve.
@@ -100,7 +116,9 @@ The gray wasteland forms the northern desert-like area adjacent to the Rahkari's
 It is characterized by extreme temperature fluctuations, which make it impossible for normal mortals to stay long in this area.
 This climatic peculiarity is due to blood god activity.
 This wasteland is hardly inhabited by living organisms.
-However, there are several "oases" inhabited by the pale orcs. These are very light-skinned, sun-bleached orcs. This "race" lives by the benevolence of blood gods and their artifacts.
+However, there are several "oases" inhabited by the pale orcs.
+These are very light-skinned, sun-bleached orcs.
+This "race" lives by the benevolence of blood gods and their artifacts.
 Their form of society is egalitarian, peaceful and non-interventionist.
 Thus, they have little interest in spreading into Rahkari territories.
 Especially since their gods do not allow them to leave the Grey Wasteland.
@@ -120,8 +138,7 @@ It is called the Burning Lands by the humans.
 The name was taken from the Sulphur Rift, which lies to the east of Eldria and the Borderlands.
 On the side of the Sulphur Rift there is a little stable plateau, about 200-300 meters above the ground level of the Sulphur Rift.
 On the part of the goblins on and in the Night Mountains, occasional expeditions were launched.
-The result, however, was death shortly after the invasion or
-after the return, if the burning lands were entered for a short time.
+The result, however, was death shortly after the invasion or after the return, if the burning lands were entered for a short time.
 
 They are called the Black Lands or the Burning Lands by the goblins.
 Expeditions there are becoming rare due to these legends of the curse.
@@ -170,8 +187,7 @@ Ga'ar's own children, however, are too large and independent for Ga'ar to contro
 Their minds and organisms have become too complex for Ga'ar's influence to be sufficient.
 
 The Earth Devourer -- the monster under the volcano: A gigantic monstrosity under the volcano of the dwarves in the northern Sky Peak Mountains.
-The dwarves were created by Saarth Valaar to keep this monster at bay, or rather to
-maintain the mechanisms that keep the monster in check.
+The dwarves were created by Saarth Valaar to keep this monster at bay, or rather to maintain the mechanisms that keep the monster in check.
 The Earth Devourer uses the surface magma deposits to extract energy from them.
 At the same time, this also prevents major eruptions of the volcano.
 The Thunderkeepers are the remaining group of dwarves who still roughly know about this task.
@@ -184,7 +200,8 @@ The Leviathan itself is designed to prevent precursors from traveling across the
 Humans are familiar with the Leviathan from legends, but it has not been seen in full form.
 With thousands of tentacles about a hundred meters long springing from the ventral side of its worm-like body, these are the only part visible to humans should the Leviathan attack.
 Like many of Ga'ar's creations, it draws its energy from radioactive elements, which it absorbs from the sea and the ocean floor.
-Here, the non-muscularly controlled "hairs" on the belly serve the function of filters for radioactive elements. Worms living on the leviathan eat these "hairs" and then bury themselves in the soft underside of the belly, where they die and are digested.
+Here, the non-muscularly controlled "hairs" on the belly serve the function of filters for radioactive elements.
+Worms living on the leviathan eat these "hairs" and then bury themselves in the soft underside of the belly, where they die and are digested.
 
 #### Bone skinner
 
@@ -194,6 +211,12 @@ The bone skinners among themselves see themselves more as a family.
 They can communicate with each other, share common values, and reproduce asexually from within themselves.
 They are characterized by a mixture of tentacles, gray armor plates, endless growth, and a dislike of orcs and elves.
 Bone skinners are clean in the true sense of the word and fear the spread of disease from humanoids to their own.
-Especially orcs and elves, who still carry "natural" diseases. Bone skinners secrete mucus on their skin layers, which serves to keep diseases away. Therefore, for the good of the group, infected people are always cast out. If they survive and find enough food, a new tribe of bone pests can emerge. With the time new characteristics evolved here, like further arms, color change or other rites, languages and customs. The parasites that infect all humanoids and cause the awakening, when transmitted to bone pests, lead to a miserable and long-lasting death. These infected and moribund bone skulls roam around killing humans, Awakened, and other parasite-infected mammals in order to serve the originating tribe.
+Especially orcs and elves, who still carry "natural" diseases.
+Bone skinners secrete mucus on their skin layers, which serves to keep diseases away.
+Therefore, for the good of the group, infected people are always cast out.
+If they survive and find enough food, a new tribe of bone pests can emerge.
+With the time new characteristics evolved here, like further arms, color change or other rites, languages and customs.
+The parasites that infect all humanoids and cause the awakening, when transmitted to bone pests, lead to a miserable and long-lasting death.
+These infected and moribund bone skulls roam around killing humans, Awakened, and other parasite-infected mammals in order to serve the originating tribe.
 
 Since bone skinners do not age in the true sense of the word, death itself is all the more frightening an example, and all the more painful when a family or tribe member, after 400 years of close bonding, is subjected to a gruesome martyrdom by a two-legged screaming worm.
