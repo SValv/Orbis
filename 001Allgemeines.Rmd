@@ -147,4 +147,4 @@ tva
 ```
 
 
-[^EgyptianPriestessMidjourney]: Dieses Artwork wurde mithilfe von [Midjourney](https://midjourney.com/home/?callbackUrl=%2Fapp%2F) erstellt und steht uns daher unbegrenzt zur Verfügung.
+[^EgyptianPriestessMidjourney]: Dieses Artwork wurde mithilfe von [Midjourney](https://midjourney.com/home/?callbackUrl=%2Fapp%2F) in der bezahlten Version erstellt und steht uns daher unbegrenzt zur Verfügung.

@@ -301,7 +301,11 @@ Nach Auswahl der Datei wird das Backup automatisch geladen. Es empfiehlt sich de
 Zur vereinfachten Veranschaulichung werden die Spieleinstellungen in tabellarischer Form erklärt.
 
 | Option                                        | Auswirkung                                                                                                                                 | Standard |
+<<<<<<< Updated upstream
 |------------------|-------------------------------------|------------------|
+=======
+|-----------------|--------------------------------------|-----------------|
+>>>>>>> Stashed changes
 | Called/Advantage nach Angriff zurücksetzen    | Soll nach dem Angriff das Feld für Called Shots und Advantage zurückgesetzt werden?                                                        | Ja       |
 | Schwerer Angriff nach Angriff zurücksetzen    | Soll nach dem schweren Angriff die Option schwerer Angriff auf nein zurückgesetzt werden?                                                  | Ja       |
 | Setze die Anzahl nach Erstellung auf 1 zurück | Soll nach dem Initialisieren von mehr als einem Objekt gleichzeitig der Anzahl-Counter für das nächste Objekt wieder auf 1 gesetzt werden? | Nein     |
@@ -496,7 +500,11 @@ Wie oben zu sehen ist, sieht ein Attentatsversuch, wo der Box Normales Attentat 
 
 Fingerfertigkeit ist sehr einfach in der Durchführung, da nur ein Akteur und ein Modifikator gewählt werden muss, wenn der DM es für notwendig erachtet.![](images/image-2015250072.png)
 
+<<<<<<< Updated upstream
 Nach dem Versuch muss der DM den angezeigten Wert interpretieren und wählen, wie die Welt auf den Fingerfertigkeit-Versuch reagieren wird. Da ein Wert zwischen 1 und 2 als schlechter Versuch gilt, war Akteur A erfolglos. Wenn beispielsweise ein Dieb versucht, mit seinem Messer einen Trick zu machen und einen Wert von 1,56 erhält, dann könnte er aufgrund der schlechten Ausführung seines Tricks so aussehen, als wüsste er nicht, was er tut
+=======
+Nach dem Versuch muss der DM den angezeigten Wert interpretieren und wählen, wie die Welt auf den Fingerfertigkeit-Versuch reagieren wird. Da ein Wert zwischen 1 und 2 als schlechter Versuch gilt, war Akteur A erfolglos. Wenn beispielsweise ein Dieb versucht, mit seinem Messer einen Trick zu machen und einen Wert von 1,56 erhält, dann könnte er aufgrund der schlechten Ausführung seines Tricks so aussehen, als wüsste er nicht, was er tut.
+>>>>>>> Stashed changes
 
 ##### Ausweichen {#DMAppSchurkeAusweichen .unnumbered}
 
@@ -520,7 +528,11 @@ wird der Runningcheck ohne Verfolger durchgeführt, dann wird ein Wert und die g
 
 ![](images/image-672471973.png)
 
+<<<<<<< Updated upstream
 kommt ein Verfolger zur Check hinzu, so werden beide Teilnehmer einen Wert und einen Distanzlauf im Programm angezeigt.
+=======
+kommt ein Verfolger zur Check hinzu, so werden beide Teilnehmer einen Wert und einen Distanzlauf im Programm angezeigt, mit der der DM dann sehen kann, ob es dem Akteur gelingt, vor dem Verfolger davonzulaufen.
+>>>>>>> Stashed changes
 
 ##### Aufstehen
 
@@ -532,15 +544,48 @@ Je nachdem, wie schwer die Rüstung der Person ist, muss eine andere Aktion verw
 
 ##### Reiten
 
+<<<<<<< Updated upstream
 #####  Akrobatik
 
 ##### Schwimmen
 
+=======
+##### Akrobatik
+
+Akrobatik folgt fast den gleichen Prinzipien wie das Rennen, was die Ausführung und das Verständnis der Werte betrifft. Ein Akteur ist erforderlich, um den akrobatischen Versuch zu starten.
+
+![](images/image-302046316.png)
+
+Nach dem Versuch muss der DM interpretieren, ob der Wert hoch genug ist für das, was der Spieler beabsichtigt. Wenn es um etwas ganz Einfaches geht, wie zum Beispiel über eine Pfütze zu springen, reicht ein Wert von 2,93 aus. Wenn ein Spieler jedoch versucht, ein Haus hochzuklettern, ist es fraglich, ob der Wert ausreicht. Um dies besser einschätzen zu können, wird empfohlen, den Abschnitt "[wie interpretiere ich Values und Würfe](#Abstufungen)" zu Rate zu ziehen.
+
+![](images/image-472510463.png)
+
+![](images/image-1024600385.png) Wenn ein Verfolger hinzugefügt wird, erhält der DM einen Wert, den er interpretieren kann, für jeden, der die Akteure jagt. Nehmen wir als Beispiel an, dass a versucht, vor b wegzulaufen, indem er auf ein Gebäude springt. a hat einen Wert von 1,15, was niedriger ist als der von b, der 1,53 beträgt. deshalb hat b es geschafft, a einzuholen, da sein Wert höher ist.
+
+##### Schwimmen
+
+Wie beim Sub-Tag Rennen steht dem DM auch der Sub-Tag Schwimmen zur Verfügung, der besonders in Seekampagnen nützlich ist. Hier bietet das Programm dem Benutzer zwei verschiedene Funktionen, eine mit Verfolger und eine ohne Verfolger.
+
+![](images/image-1927050662.png)
+
+wie im obigen Beispiel zu sehen ist, ist es recht einfach zu interpretieren. a erzielte einen guten Wert von 4,46 und damit eine zurückgelegte Distanz von 2,2 Metern.
+
+![](images/image-511856352.png)
+
+wenn ein Verfolger hinzugefügt wird, muss nur die Differenz interpretiert werden. in unserem Fall sehen wir, dass a 1.3 Meter schwimmen kann, b1 als Verfolger aber nur 0.8 Meter. so kommt a damit erfolgreich davon.
+
+>>>>>>> Stashed changes
 ##### *Vehikel* {#DMAppFortbewegungVehikel .unnumbered}
 
 #### Intelligenz {#DMAppIntelligenz .unnumbered}
 
+<<<<<<< Updated upstream
 ##### Alchemie 
+=======
+Auf den Tab Intelligenz kann der DM einige der komplexeren Systeme von Orbis Astea verwenden, wie z. B. das Handwerkssystem oder das Brauen von Tränken. Da dieser Abschnitt nur zeigt, wie das Programm für diese spezifischen Systeme verwendet wird, wird empfohlen, die Regeln für die Funktionsweise [hier](#AlchemieSystem) nachzuschlagen.
+
+##### Alchemie
+>>>>>>> Stashed changes
 
 Die Herstellung von Alchemietränken ist sehr einfach zu verstehen, da die einzige Interpretation, die benötigt wird, darin besteht, zu wissen, ob der Wert des Versuchs hoch genug für die Zutaten des Tranks ist, den ein Spieler herzustellen versucht. Wie im Abschnitt [Alchemie](#AlchemieSystem) erklärt wird, werden 2 Pflanzen für die Herstellung eines Tranks benötigt. Wenn die höchste erreichbare Stufe der 2 Zutaten als Beispiel 4 ist, muss der DM nur den vom Programm angezeigten Wert vergleichen.
 
@@ -554,20 +599,81 @@ ist der vom Akteur erreichte Wert jedoch zu gering für Stufe 1 (Wert 1.7), dann
 
 ##### Handwerk
 
+<<<<<<< Updated upstream
 Handwerk ist in 4 verschiedene Abschnitte eingeteilt: Reparieren, Verbessern, Modifizieren und Herstellen, dabei macht es keinen Unterschied, ob es sich um eine Waffe oder ein Rüstungsteil handelt.
+=======
+wie im Abschnitt Handwerk erklärt wird, kann ein Spieler in die Downtime durch das verwenden von Werkzeuge mehrere Versuche haben Handwerkchecks zu machen. Wichtig ist jedoch, dass die Werkzeuge im Orbis-Programm nicht berücksichtigt werden, weshalb der DM selbst darauf achten muss, wie viele Handwerkschecks ein Spieler in die Downtime hat. Die mögliche Handwerkchecks werden in 4 verschiedene Abschnitte eingeteilt: Reparieren, Verbessern, Modifizieren und Herstellen, dabei macht es keinen Unterschied, ob es sich um eine Waffe oder ein Rüstungsteil handelt.
+
+###### Reparieren {#reparieren}
+
+![](images/image-1232404044.png)
+
+will ein Spieler einen gewünschten Gegenstand reparieren, muss man nur darauf achten, welches Tier er hat. Als Beispiel möchte a sein Schwert der Stufe 1 reparieren, weil es nur einen Zustand von 4 hat. Damit sein Reparaturversuch erfolgreich ist, muss ein Wert von mindestens 1.5 erreicht werden. Da ein Wert von 1.93 erreicht wurde, wurde sein Schwert erfolgreich repariert und hat nun einen Zustand von 5 statt 4.
+
+![](images/image-477125537.png)
+
+Will a allerdings seine Stufe 2 Axt reparieren, muss ein Wert von 2,3 oder höher erreicht werden. Im obigen Fall hat a nur einen Wert von 1,93 erreicht, was bedeutet, dass der Reparaturversuch der Axt gescheitert ist und die Hälfte des Materials verloren gegangen ist. Den genauen Schwellenwert für eine erfolgreiche Reparatur für jede Stufe findet man im Abschnitt [Reparieren](#Reparieren).
+
+###### Verbessern
+
+Wie beim Reparieren von Gegenständen gibt es auch beim Verbessern eine Schwelle für jede Stufe, die für einen erfolgreichen Versuch erreicht werden muss. Darüber hinaus ist es auch wichtig, sich daran zu erinnern, dass eine Verbesserung von einer Stufe zur nächsten 3 verschiedene und erfolgreiche Versuche erfordert. Wie im Abschnitt „Verbesserungen" angegeben, werden die ersten 2 erfolgreichen Versuche einen Schadenswert hinzufügen, der 25 % der Differenz zur nächsten Stufe entspricht.
+
+![](images/image-1868295027.png)
+
+Wenn zum Beispiel Akteur a sein Stufe 1 Schwert verbessern möchte, muss er zuerst sein Versuch machen. Wie oben zu sehen ist, war er Erfolgreich. Die Differenz zwischen dem Schadenswert eines Stufe-1-Schwerts und eines Stufe-2-Schwerts beträgt 12 (42-30). Jetzt wo wir wissen, dass die Differenz zwischen den 2 Stufen 12 beträgt, müssen wir nur die 25% berechnen, die dann zum Schadenswert des Schwertes hinzugefügt werden können. die 25% von 12 beträgt 3, also darf Akteur a den Schaden seines Schwertes von 30 auf 33 erhöhen. Wenn a sein Schwert nochmal verbessert, kann er den Schadenswert wieder um 3 Punkte erhöhen, also hat sein Schwert den Schaden von 36. Nach dem 3. erfolgreichen Versuch wird das Schwert auf Stufe 2 umgewandelt, das dann den Schadenswert 42 hat. Die genauen Werte für jede Stufe findet man [hier](#Items).
+
+![](images/image-1293962246.png)
+
+das Programm teilt dem Akteur mit, wenn er keinen Wert hat, der hoch genug für die Schwelle der spezifischen Stufe ist. In diesem Fall geht das für das Upgrade verwendete Material verloren.
+
+Das Orbis Astea-Programm berücksichtigt nur, ob der Upgrade-Versuch erfolgreich war oder nicht, was bedeutet, dass der DM und die Spieler selber nachverfolgen müssen, wie viele erfolgreiche Versuche sie haben.
+
+###### Herstellung
+>>>>>>> Stashed changes
 
 ##### Einsicht
 
 #### Saves {#DMAppSaves .unnumbered}
 
+<<<<<<< Updated upstream
 ##### *Willenskraft* {#DMAppSavesWillenskraft .unnumbered}
 
 Über das Element *Thres* legt der DM fest, welchen Wert ein Wurf des Spielers erreichen muss, um die Überprüfung der Willenskraft zu bestehen.
+=======
+Wie im Abschnitt „[Der Save](#Der Save)" erklärt, sind die Saves keine normalen Proben, sondern Proben wo nur Attribute verwendet werden, was bedeutet, dass sie sehr einfach auszuführen und zu verstehen sind.
+
+##### *Willenskraft* {#DMAppSavesWillenskraft .unnumbered}
+
+Über das Element *Thres* legt der DM fest, welchen Wert ein Wurf des Spielers erreichen muss, um die Überprüfung der Willenskraft zu bestehen. Außerdem muss der DM entscheiden, wer den Willenskraft-Check machen muss.
+
+![](images/image-706119577.png) Als Beispielsituation gibt es die 3 Banditen b1, b2 und b3. Ihr Banditenanführer wurde gerade von einem Spieler getötet und so müssen sie nun einen Willenscheck bestehen, um weiterkämpfen zu können. für diesen Fall hat der DM entschieden, die Schwelle auf 4 zu setzen. b1 und b2 haben dem Willenskraft-Check erfolgreich widerstanden, aber b3 ist gescheitert und hat daher seine Waffen fallen gelassen und den Kampf gegen den Spieler aufgegeben.
+
+Der DM muss immer einen realistischen Schwellenwert für die Situation definieren, in der sich die Spieler befinden. In diesem Fall kann 4 als akzeptabler Schwellenwert angesehen werden. Wenn der DM jedoch sagt, dass die Banditen alle einen starken Willen haben, dann kann ein Schwellenwert von 3 oder vielleicht sogar 2 verwendet werden. Wenn jedoch ein 4 Meter großes Monster vor den 3 Banditen stand, konnte der threshold 5 oder sogar 6 betragen.
+
+##### Glück/Glaube
+
+Glücks/Glaube Checks werden durchgeführt, wenn der DM unsicher ist, ob positive oder negative Konsequenzen eintreten werden. Wichtig ist, dass der DM feststellen muss, ob ein Glücks/Glaube Checks erforderlich ist oder nicht. Wenn sich beispielsweise eine Krankheit in dem Dorf ausbreitet, in dem sich die Spieler befinden, kann der DM ein CHeck machen, ob die Spieler krank werden oder nicht.
+
+![](images/image-1375148703.png)
+
+wie man oben sieht hat b1 sein Check nicht geshafft und ist damit krank geworden. b2 und b3 haben es aber bestanden und sind damit von der Krankheit im Dorf nicht betroffen.
+>>>>>>> Stashed changes
 
 ##### *Andere Saves* {#DMAppSavesAndereSaves .unnumbered}
 
 Dies bietet dem DM die Möglichkeit einzelne [Attribute](#Attribute) der Akteure zu überprüfen. Beispielsweise, ob ein Akteur stark oder agil genug ist, um eine Handlung auszuführen.
 
+<<<<<<< Updated upstream
+=======
+![](images/image-662197998.png)
+
+als beispiel ist amit seinem Karawane unterwegs, jedoch versperrt ihm ein umgestürzter Baum den Weg. a sagt dem DM, dass er versuchen möchte, den Baum zu entfernen, was bedeutet, dass der DM ihm einen Stärke Check geben wird, um zu sehen, ob er stark genug ist. Es ist wichtig, dass der DM entscheidet, wie hoch der Threshold sein sollte. Da es sich um einen nicht zu großen Baum handelt, hat er einThreshold von 4 und schafft es, den Baum zu entfernen.
+
+![](images/image-1120783304.png)
+
+Wenn zum Beispiel a gebeten wird, sich an den Namen des Schmieds zu erinnern, von dem er sein Schwert gekauft hat, kann der DM einen Intelligenz Check machen, um sich an den Namen zu erinnern. Wie zu sehen, ist er aber dabei nicht erfoglreich.
+
+>>>>>>> Stashed changes
 #### Anderes {#DMAppAnderes .unnumbered}
 
 Der Anderes-Tab ermöglicht es dem DM das Trinken von Tränken, das Löschen von Bränden an Akteuren sowie das Ändern, Aus-/Abrüsten sowie vergiften von Waffen und Rüstungsteilen auf eine erfolgreiche Durchführung zu überprüfen.

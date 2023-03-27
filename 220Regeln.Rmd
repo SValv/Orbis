@@ -39,7 +39,7 @@ Normalerweise werden bei Proben normal Fähigkeit und Attribut gegen dieselbe F�
 -   Taschendiebstahl: Taschendiebstahl gegen Wahrnehmung
 -   Bühnenkunst: Bühnenkunst gegen Wahrnehmung
 
-### Der Save
+### Der Save {#Der Save}
 
 Ein Save ist nochmal etwas anderes als eine Probe, auch er wird üblicherweise gegen einen Threshold geworfen und ist ein Weg sich vor etwas Schlimmen zu bewahren. Allerdings wird der Save nur mit den Attributen geworfen, Fähigkeiten haben hierbei keinen Einfluss. Der Threshold ist üblicherweise 3, kann aber vom DM je nach Situation angepasst werden.
 
@@ -290,12 +290,11 @@ Bei Reittieren ist es wichtig, dass man einen minimalen Reiten-Wert überschreit
 
 ### Der Unbewaffnete Kampf {#UnbewaffneterKampf}
 
-Der unbewaffnete Kampf hat zwei Anwendungen - den Pugilismus und das Handgemenge. Pugilismus beschreibt den "herkömmlichen" Kampf mit Fäusten oder Faustwaffen. Man bleibt in Verteidigungsposition, schlägt bedacht zu und macht Schaden. Der Pugilismus läuft wie der normale Kampf - nur eben mit dem Schaden der Faust oder Faustwaffe und mit dem Skill "Unbewaffneter Nahkampf". Jeder Schlag hat die Fähigkeit, den Gegner zu [unterbrechen](#interrupt). 
+Der unbewaffnete Kampf hat zwei Anwendungen - den Pugilismus und das Handgemenge. Pugilismus beschreibt den "herkömmlichen" Kampf mit Fäusten oder Faustwaffen. Man bleibt in Verteidigungsposition, schlägt bedacht zu und macht Schaden. Der Pugilismus läuft wie der normale Kampf - nur eben mit dem Schaden der Faust oder Faustwaffe und mit dem Skill "Unbewaffneter Nahkampf". Jeder Schlag hat die Fähigkeit, den Gegner zu [unterbrechen](#interrupt).
 
-Handgemenge läuft ebenso wie Pugilismus mit der Fähigkeit "unbewaffneter Nahkampf" - macht allerdings keinen Schaden, sondern ist entweder dazu da den Gegner umzuwerfen oder festzuhalten und ihn anschließend ganz Auszuknocken, oder um den Gegner zu entwaffnen. Bei erfolgreichem Handgemenge hält der Angreifer den Verteidiger fest - entweder im stehen oder auf dem Boden. Weder der Angreifer noch der Verteidiger sind während einem Handgemenge fähig, [Abwehraktionen](#BlockenAusweichen) einzusetzen. 
+Handgemenge läuft ebenso wie Pugilismus mit der Fähigkeit "unbewaffneter Nahkampf" - macht allerdings keinen Schaden, sondern ist entweder dazu da den Gegner umzuwerfen oder festzuhalten und ihn anschließend ganz Auszuknocken, oder um den Gegner zu entwaffnen. Bei erfolgreichem Handgemenge hält der Angreifer den Verteidiger fest - entweder im stehen oder auf dem Boden. Weder der Angreifer noch der Verteidiger sind während einem Handgemenge fähig, [Abwehraktionen](#BlockenAusweichen) einzusetzen.
 
-Während der Angreifer den Verteidiger festhält, kann er einmal pro Runde einen unbewaffneten Angriff auf den Verteidiger starten, ohne dass dieser eine Abwehraktion hat. Der Verteidiger kann jede Runde versuchen sich aus dem Handgemenge zu befreien, dazu muss er einen Handgemenge-Check gegen den Angreifer gewinnen - danach ist der Handgemengevorgang automatisch beendet. Sollte eine Person sich mehr als drei Runden im Handgemenge befinden, wird sie [ohnmächtig](#Ohnmacht).
-Versucht ein Charakter einen anderen zu Handgemengen, kann dieser entweder mit der [single action oder der Passivchance ausweichen](#BlockenAusweichen), oder sich auf das Handgemenge einlassen.
+Während der Angreifer den Verteidiger festhält, kann er einmal pro Runde einen unbewaffneten Angriff auf den Verteidiger starten, ohne dass dieser eine Abwehraktion hat. Der Verteidiger kann jede Runde versuchen sich aus dem Handgemenge zu befreien, dazu muss er einen Handgemenge-Check gegen den Angreifer gewinnen - danach ist der Handgemengevorgang automatisch beendet. Sollte eine Person sich mehr als drei Runden im Handgemenge befinden, wird sie [ohnmächtig](#Ohnmacht). Versucht ein Charakter einen anderen zu Handgemengen, kann dieser entweder mit der [single action oder der Passivchance ausweichen](#BlockenAusweichen), oder sich auf das Handgemenge einlassen.
 
 Achtung: Handgemenge ist risikoreich, da man wenn es schlecht läuft selbst niedergerungen werden kann. Auch andere Gegenmaßnahmen wie Dolche können sehr effektiv sein gegen einen Festhalteversuch.
 
@@ -321,7 +320,7 @@ Stats und Arten der Artillerie:
 </small>
 
 | Artillerie | Minimale Besatzung | Maximale Besatzung | Negiert Deckung | Größe  |                                     Zusatz                                     |
-|:---------:|:---------:|:---------:|:---------:|:---------:|:---------------:|
+|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
 |  Skorpion  |         1          |         2          |       --        | Klein  | Aufbau im Kampf: 3 Runden wenn nur 1 Mann Besatzung: Nachladen als Main Action |
 |  Balliste  |         2          |         3          |     Tier 1      | Mittel |            Nachladen 1 Runde minimum, 2 Runden, wenn Besatzung \<2             |
 | Handkanone |         1          |         1          |     Tier 1      | Klein  |                               Nachladen 1 Runde                                |
@@ -425,7 +424,7 @@ Andere Statuseffekte mit
 Der reisenden Spielergruppe in der Downtime stehen meist zwei Entscheidungsmöglichkeiten für ihre Reise offen. Zum einen die Landroute, die durch kleine Dörfer, die Natur und manchmal in eine kleine Stadt führt und die Stadtroute, die entlang Hauptstraßen, durch ummauerte Städte mit Märkten und Großstädte führt. Beide Optionen haben Vor- und Nachteile, also sollte sich die Gruppe überlegen welche Option sie vorzieht.
 
 |                                             |                             Landroute                             |                                            Stadtroute                                             |
-|:----------------:|:--------------------:|:-------------------------------:|
+|:----------------:|:--------------------:|:------------------------------:|
 |         Versorgung / Unterbringung          |       Camping, gegessen wird was gejagt und gesammelt wird        |         Neben Zöllen fallen auch kosten für Herbergen und Essen an in Höhe von 350 Reiks          |
 |                   Händler                   | eher Pflanzensammler und kleine Händler mit wenig Spezialisierung | verschiedene Händler mit großen Inventaren und hoher Spezialisierung, aber wenige Pflanzensammler |
 |          Voreinstellung in der App          |                       Dorf oder Kleinstadt                        |             Kleinstadt oder Stadt - sogar Großstadt, wenn es in die Geschichte passt              |
@@ -562,7 +561,7 @@ Jede spezifizierte Downtime wird ein D20 geworfen. Ist der erreichte Wert über 
 Wenn man genug addierte Punkte hat kann man seinen Wissensskill nach diesem kummulativen Schlüssel aufwerten:
 
 | Niveau/Stufe der Sprache oder des Wissens: | Kosten Punkte: |          Wissensniveau           |                Sprachniveau                |
-|:-----------------:|:---------------:|:---------------:|:-----------------:|
+|:----------------:|:----------------:|:----------------:|:----------------:|
 |                  Stufe 0                   |       0        |      Kein Wissen im Bereich      |           Keine Sprachfähigkeit            |
 |                  Stufe 1                   |       5        |           Grundwissen            |      sehr einfache Gespräche möglich       |
 |                  Stufe 2                   |       10       | Belesen & Erfahren im Fachgebiet | Verständigung umständlich aber vollständig |
@@ -598,7 +597,7 @@ Das Einkommen eines durchschnittlichen unqualifizierten Arbeiters beträgt 5.000
 
 Ein einfaches fleischloses Abendessen kostet in etwa 30 Reiks. Ein Stüch Fleisch hat den luxuriösen Preis von 100 Reiks. Eine Übernachtung in einem Wirtshaus kostet zwischen 80 und 100 Reiks.
 
-Anbei ist eine Tabelle über das Monats- und Jahreseinkommen einiger Berufe um einen besseren Überblick zu bekommen was das Geld in Orbis Astea Wert ist. 
+Anbei ist eine Tabelle über das Monats- und Jahreseinkommen einiger Berufe um einen besseren Überblick zu bekommen was das Geld in Orbis Astea Wert ist.
 
 ```{r}
 dfe=read_xlsx(bookdownallgdatapfad,sheet="Beruf Einkommen ")
@@ -619,7 +618,6 @@ dfe %>% arrange(Jahreseinkommen) %>%
             ), outlined = T,
             striped=T, resizable = T)
 ```
-
 
 ## Handelssystem (to be implemented) {#Handelssystem}
 

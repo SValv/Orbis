@@ -23,9 +23,15 @@ Verglichen mit dem Imperium leben die Animali einen relativ konservativen Lebens
 Es wird angenommen, dass die Animali diesen Lebensstil wählen, weil das sich ständig ändernde Wetter und Ökosystem bestimmte Teile des Eislandes nur zu bestimmten Zeiten bewohnbar macht.
 Es wird auch geglaubt, dass ihre abgeschiedene und konservative Natur hauptsächlich für ihr langsames Fortschreiten als Gesellschaft verantwortlich ist und, dass sie kulturell und wissenschaftlich (falls man das bei den Animali so nennen kann), Jahrzehnte hinter den anderen Rassen zurückliegen.
 
+<<<<<<< Updated upstream
 ![Ein für die Jagd bewaffneter Animalus[JLazarusEBGoatman]](Pictures/Flavor/Animali/by_JLazarusLB_Ziege.jpg)
 
 [JLazarusEBGoatman]: "Goatman" von [JLazarusEB](https://www.deviantart.com/jlazaruseb/art/Goatman-619607162).
+=======
+![Ein für die Jagd bewaffneter Animalus[^JLazarusEBGoatman]](Pictures/Flavor/Animali/by_JLazarusLB_Ziege.jpg)
+
+[^JLazarusEBGoatman]: "Goatman" von [JLazarusEB](https://www.deviantart.com/jlazaruseb/art/Goatman-619607162).
+>>>>>>> Stashed changes
     Dieses Artwork steht unter einer Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 License zur verfügung.
 
 

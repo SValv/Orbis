@@ -58,23 +58,24 @@ Das wichtigste bei der Berechnung der Werte von Fernwaffen ist, dass man mit dem
 
 Dies sind die Fernkampfwaffen, die einem als Abenteurer zur Auswahl stehen:
 
-+---------------------+---------------------+----------------------+---------+-------------------+-----------------------------------------------------------------+
-| Waffe               | Schaden             | Preis                | Gewicht | Armor Penetration | Zusatz                                                          |
-+:===================:+:===================:+:====================:+:=======:+:=================:+:===============================================================:+
-| Bogen               | Fernkampfwert       | Standartpreis        | 1 kg    | nein              | nein                                                            |
-+---------------------+---------------------+----------------------+---------+-------------------+-----------------------------------------------------------------+
-| Armbrust            | Fernkampfwert x 1.5 | Standartpreis        | 2 kg    | nein              | Sneak Advantage 4, Nachladen mit 50% wsl Single action          |
-+---------------------+---------------------+----------------------+---------+-------------------+-----------------------------------------------------------------+
-| Einhändige Armbrust | Fernkampfwert       | Standartpreis x 0.85 | 1 kg    | nein              | Sneak Advantage 4, Nachladen mit 50% wsl Single action          |
-+---------------------+---------------------+----------------------+---------+-------------------+-----------------------------------------------------------------+
-| Muskete             | Fernkampfwert x 3   | Standartpreis x 2.5  | 5 kg    | 90%               | Sneak Advantage 4, 1 Runde nachladen <br> negiert Deckung Tier1 |
-+---------------------+---------------------+----------------------+---------+-------------------+-----------------------------------------------------------------+
++---------------------+---------------------+----------------------+---------+-------------------+---------------------------------------------------------------------+
+| Waffe               | Schaden             | Preis                | Gewicht | Armor Penetration | Zusatz                                                              |
++:===================:+:===================:+:====================:+:=======:+:=================:+:===================================================================:+
+| Kurzbogen           | Fernkampfwert       | Standartpreis        | 1 kg    | nein              | kann ohne Kosten gewechselt werden                                  |
++---------------------+---------------------+----------------------+---------+-------------------+---------------------------------------------------------------------+
+| Langbogen           | Fernkampfwert       | Standartpreis        | 1 kg    | nein              | hat die Möglichkeit auf einen zweiten Angriff mit der single Action |
++---------------------+---------------------+----------------------+---------+-------------------+---------------------------------------------------------------------+
+| Armbrust            | Fernkampfwert x 1.5 | Standartpreis        | 2 kg    | nein              | Sneak Advantage 4, Nachladen mit 50% wsl Single action              |
++---------------------+---------------------+----------------------+---------+-------------------+---------------------------------------------------------------------+
+| Einhändige Armbrust | Fernkampfwert       | Standartpreis x 0.85 | 1 kg    | nein              | Sneak Advantage 4, Nachladen mit 50% wsl Single action              |
++---------------------+---------------------+----------------------+---------+-------------------+---------------------------------------------------------------------+
+| Muskete             | Fernkampfwert x 3   | Standartpreis x 2.5  | 5 kg    | 90%               | Sneak Advantage 4, 1 Runde nachladen <br> negiert Deckung Tier1     |
++---------------------+---------------------+----------------------+---------+-------------------+---------------------------------------------------------------------+
 
 Besonderheiten:
 
 -   Mit der Muskete verbraucht das Nachladen eine Single und eine Main Action. Ausweichen ist während diesem Prozess nicht möglich, außer man hat eine Aktion übrig.
 -   Alle Fernwaffen haben einen Wurfwert von 0.05
--   Mit einem Bogens erhält der Spieler die Möglichkeit, in einer Runde 2 Mal anzugreifen, der zweite Angriff kostet eine single Action.
 -   Während eines Kampfes hat der Spieler nur 10 Pfeile Spezialmunition in seinem Köcher zur Verfügung. Wenn es vollständig aufgebraucht ist, ist eine Main action erforderlich, um es wieder aufzufüllen.
 -   Die Einhändige Armbrust hat eine 50% Versteckchance.
 
@@ -140,7 +141,7 @@ Sonstige Informationen:
 |    Dolch     | 0.5 kg  | Standartpreis x 0.45 |
 |   Knüppel    |  1 kg   | Standartpreis x 0.5  |
 
--   Besonderheiten Dolch: Attentat, Versteckchance 50%
+-   Besonderheiten Dolch: Attentat, Versteckchance 50%, kann ohne Kosten gewechselt werden
 
 ### Großwaffen {#Großwaffen}
 
@@ -271,15 +272,15 @@ Kampfrelevante Informationen:
 
 Sonstige Informationen:
 
-+---------------+---------------------+-------------+--------------------+-------------+
-| Waffe         | Preis               | Gewicht     | Versteck<br>chance | Zusatz      |
-+:=============:+:===================:+:===========:+:==================:+:===========:+
-| Schlagring    | Standartpreis x 0.4 | 0,2 kg      | 90%                |             |
-+---------------+---------------------+-------------+--------------------+-------------+
-| Faustmesser   | Standartpreis x 0.8 | 0,5 kg      | 70%                | Attentat    |
-+---------------+---------------------+-------------+--------------------+-------------+
-| Metallkrallen | Standartpreis       | 1 kg        |                    |             |
-+---------------+---------------------+-------------+--------------------+-------------+
++---------------+---------------------+------------+--------------------+------------+
+| Waffe         | Preis               | Gewicht    | Versteck<br>chance | Zusatz     |
++:=============:+:===================:+:==========:+:==================:+:==========:+
+| Schlagring    | Standartpreis x 0.4 | 0,2 kg     | 90%                |            |
++---------------+---------------------+------------+--------------------+------------+
+| Faustmesser   | Standartpreis x 0.8 | 0,5 kg     | 70%                | Attentat   |
++---------------+---------------------+------------+--------------------+------------+
+| Metallkrallen | Standartpreis       | 1 kg       |                    |            |
++---------------+---------------------+------------+--------------------+------------+
 
 -   Alle Faustwaffen haben einen Wurfwert von 0.1
 
@@ -584,17 +585,16 @@ dfag %>% select("Kategorie","Gegenstand","Preis","Gewicht","Händler","Beschreib
 
 Kleinode sind religiöse Gegenstände, die zumeist von Kirchen verkauft werden oder durch Rituale hergestellt werden können. Diese Kleinode können konsumiert werden, was einem für eine Session +1 Glaube zusätzlich gibt. Diese Kleinode können beispielsweise sein:
 
-+---------------------+---------------+-----------------------------+
-| Gegenstand          | Religion      | Preis                       |
-+:===================:+:=============:+:===========================:+
-| Glücksschaufel      | Allgott       | 2000                        |
-+---------------------+---------------+-----------------------------+
-| Geheiligter Knochen | Rah Kari      | Heiligung alleine: 1500<br> |
-|                     |               |                             |
-|                     |               | Heiligung + Knochen: 2500   |
-+---------------------+---------------+-----------------------------+
-| Riddinöl            | Darcy         | 2000                        |
-+---------------------+---------------+-----------------------------+
++---------------------+----------------+-----------------------------+
+| Gegenstand          | Religion       | Preis                       |
++:===================:+:==============:+:===========================:+
+| Glücksschaufel      | Allgott        | 2000                        |
++---------------------+----------------+-----------------------------+
+| Geheiligter Knochen | Rah Kari       | Heiligung alleine: 1500<br> |
+|                     |                |                             |
+|                     |                | Heiligung + Knochen: 2500   |
++---------------------+----------------+-----------------------------+
+| Riddinöl            | Darcy          | 2000                        |
++---------------------+----------------+-----------------------------+
 
 Ein Kleinod ist nur wirksam, wenn es zur Religion des Charakters passt. Nur eines pro Session kann konsumiert werden.
-
