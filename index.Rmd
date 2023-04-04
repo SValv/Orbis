@@ -35,51 +35,7 @@ library(sp)
 library(leaflet.extras)
 library(htmltools)
 library(tidyverse)
-library(zip)
 library(reactable)
-
-pfad=str_remove(getwd(),"###Orbis")
-
-print(getwd())
-
-source(paste0(pfad,"Readme Hilfe Tools/Codes/KeyIndexErstellen.R"))
-
-file.copy(paste0(pfad,"Container/",c("CCSheetBlank.xlsx","CCrand.xlsx", "Einstieg in Orbis.pdf")), 
-          "DownloadContainer",overwrite =T)
-
-
-from <- paste0(pfad,"Container/Data")
-to   <- "OrbisGame/Container/Data"
-file.copy(list.files(from, full.names = TRUE), 
-          to, 
-          recursive = TRUE,overwrite =T)
-
-from <- paste0(pfad,"Container/Data")
-to   <- "Container/Data"
-file.copy(list.files(from, full.names = TRUE), 
-          to, 
-          recursive = TRUE,overwrite =T)
-
-zip(
-  "DownloadContainer/OrbisAstea.zip",
-  c("../Orbis Launcher",
-    "OrbisGame"),
-  recurse = TRUE,
-  compression_level = 9,
-  include_directories = TRUE,
-  root = ".",
-  mode = c("cherry-pick")
-)
-
-from <- "DownloadContainer"
-to   <- "docs/DownloadContainer"
-file.copy(list.files(from, full.names = TRUE), 
-          to, 
-          recursive = TRUE,overwrite =T)
-
-file.copy("Pictures/Maps/OrbisAstea.jpg", 
-          "docs", 
-          recursive = TRUE,overwrite =T)
 
 overallThemeReactable=reactableTheme(backgroundColor = "transparent", borderColor = "black",
                                      stripedColor = "#FDF6E3", headerStyle=list(backgroundColor="#FDF6E3"))
