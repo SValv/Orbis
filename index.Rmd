@@ -1,7 +1,7 @@
 ---
 title: "Orbis Astea"
 date: "Version vom: `r format(Sys.Date(),'%d.%m.%Y')`"
-author: "DM-App Version: 3.608"
+author: "DM-App Version: 3.65"
 site: bookdown::bookdown_site
 favicon: "roundIco.ico"
 ---

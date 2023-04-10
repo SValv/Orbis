@@ -1,137 +1,237 @@
+---
+editor_options: 
+  markdown: 
+    wrap: sentence
+---
+
 # Goblins
 
 ## Biologie der Goblins
 
-Als neben den Halblingen die kleinste Humanoide Spezies sind Goblins, dank ihrer Thermalsicht, die unangefochtenen Herrscher der Tiefe – zumindest, wenn man ihre vermutete Anzahl als Maßstab hernimmt. Die Thermalsicht, als größte Besonderheit der Goblins, ermöglicht diese selbst in dunkelsten Kämmerchen oder den tiefsten Höhlen sehr feine Temperaturunterschiede wahrzunehmen und so zu sehen.
-Dadurch können die schmächtigen und dadurch körperlich schwachen Goblins die Welt unterhalb der Oberfläche ihr Eigen nennen. Zumindest so lange keine Zwergen Expeditionstruppen beschließen diese auszurauben.
-Als Besonderheit im Gegensatz zu den anderen Rassen, ist die Kombination der Sinnesorgane für ihre Weltwahrnehmung. So nutzen Goblins neben der Thermalsicht auch Klicklaute und Fackeln und die schwachen Lichtquellen der weit verbreiteten Brent-Würmer, welche sich an von Steinwürmern gegrabenen Rändern der Höhlen niederlassen.
-Damit ist es Goblins möglichst in der schwärzesten Höhle auch sicheren Trittes an ihr Ziel zu kommen.
+Neben den Halblingen sind die kleinste Humanoide Spezies die Goblins, zumindest, wenn man ihre vermutete Anzahl als Maßstab heranzieht.
+Dank ihrer Thermalsicht sind sie die unangefochtenen Herrscher der Tiefe.
+Die Thermalsicht, als größte Besonderheit der Goblins, ermöglicht diesen selbst in den dunkelsten Kämmerchen und den tiefsten Höhlen sehr feine Temperaturunterschiede wahrzunehmen und sich ein Bild ihrer Umgebung zu machen.
+Dadurch können die schmächtigen und dadurch körperlich schwachen Goblins die Welt unterhalb der Oberfläche ihr Eigen nennen.
+Zumindest so lange keine Zwergen-Expeditionstruppen beschließen sie auszurauben.
+Als Besonderheit im Gegensatz zu den anderen Rassen, ist die Kombination der Sinnesorgane für ihre Weltwahrnehmung.
+So nutzen Goblins neben der Thermalsicht auch Klicklaute und Fackeln und die schwachen Lichtquellen der weit verbreiteten Brent-Würmer, welche sich an von Steinwürmern gegrabenen Rändern der Höhlen niederlassen.
+Somit ist es Goblins möglichst in der schwärzesten Höhle auch sicheren Trittes an ihr Ziel zu kommen.
 
-Der Kopf der Goblins, von der Farbe her wie der restliche Körper meist in Grüntönen gehalten, weist große, spitz zusammenlaufende Ohren auf, welche die Wahrnehmung von Geräuschen vermutlich verbessert. Ihre Zähne sind eine wilde Mischung aus Spitzen Vorderzähnen und flachen Kauzähnen im hinteren Teil des Gebisses. Ihre Augen wirken fremdartig aufgrund ihrer dunkelgrauen bis schwarzen Färbung.
+Der Kopf der Goblins, von der Farbe her wie der restliche Körper meist in Grüntönen gehalten, weist große, spitz zusammenlaufende Ohren auf, welche die Wahrnehmung von Geräuschen vermutlich verbessert.
+Ihre Zähne sind eine wilde Mischung aus Spitzen Vorderzähnen und flachen Kauzähnen im hinteren Teil des Gebisses.
+Ihre Augen wirken fremdartig aufgrund ihrer dunkelgrauen bis schwarzen Färbung.
 Der restliche Körper ist schmächtig dünn und weist leicht verlängerte Zehen auf.
-Ein besonderes Merkmal ist die „Geschlechtslosigkeit“ des überwiegenden Teils der Goblins. Bei Menschen kommt im Schnitt auf eine Frau ein Mann. Bei Goblins ist dieses Verhältnis gravierend anders. So sind fruchtbare Goblinweibchen äußerst selten und vermutlich jede 1000 oder 5000ste Goblin wird tatsächlich zu einer gebärenden Frau oder Stammesmutter.
-Hier darf sich der gewiefte Leser allerdings keine Frau im eigentlichen Sinne vorstellen, sondern eine groteske Monster Variante, welche wage an einen Goblin erinnert.
-Die „Stammesmutter“ oder in der Sprache der Goblins genannte „Wakür“ ist mehrere Meter groß. Ihre Oberarme sind in Länge und Muskelmasse weit über jenem was selbst die stärksten Orks zu bieten haben. Ihr Kopf erinnert noch von der Form her an Goblins, wenn auch deutlich gewachsen und von stark gedehnter Haut bedeckt. So wie die restlichen Goblins sind die Wakürs am Kopf kahl.
-Die Beine sind im Verhältnis zu den Oberarmen beziehungsweise dem Brustbereich schmächtig und können alleine den monströs aufgedunsenen Körper kaum längere Zeit stützen. Dadurch kann die Wakür zwar theoretisch aufrecht laufen, jedoch, bedingt durch die niedere Deckenhöhe vieler Höhlen eher nur wie ein beinloser Mensch robben.
-Die Stammesmutter verliert im schmerzhaften Prozess der „Formung“ von einem Goblin zur Wakür viele ihrer „menschlicheren“ Eigenschaften. Ihr Aggressionslevel nimmt im selben Maße zu, wie ihr Intellekt abnimmt. Der Vergleich mit einem viel zu starken halbstarken 15 Winter alten Menschen liegt da Nahe. Triebe lassen die Wakür die meiste Zeit nur fressen, rumliegen, Eier gebären oder sich zwecks der Fortpflanzung mit Goblins Vergnügen.
-Das Gebären der Kinder ist nicht in Lebendform, wie dies bei Menschen der Fall ist, sondern in Form von Eiern welcher mit einer lederartigen Haut überzogen sind. Diese Eier produziert die Wakür auf ihrem stark verlängerten Rücken, wo diese von den Goblins „Faask“ genannten Eier dann von einer dezidierten Goblin Berufsgruppe mittels Werkzeugs und Krafteinsatz herausgezogen werden.
+Ein besonderes Merkmal ist die „Geschlechtslosigkeit" des überwiegenden Teils der Goblins. Bei Menschen kommt im Schnitt auf eine Frau ein Mann. Bei Goblins ist dieses Verhältnis gravierend anders. So sind fruchtbare Goblinweibchen äußerst selten und vermutlich jede 1000 oder 5000ste Goblin wird tatsächlich zu einer gebärenden Frau oder Stammesmutter. Hier darf sich der gewiefte Leser allerdings keine Frau im eigentlichen Sinne vorstellen, sondern eine groteske Monster Variante, welche wage an einen Goblin erinnert. Die „Stammesmutter" oder in der Sprache der Goblins genannte „Wakür" ist mehrere Meter groß. Ihre Oberarme sind in Länge und Muskelmasse weit über jenem was selbst die stärksten Orks zu bieten haben. Ihr Kopf erinnert noch von der Form her an Goblins, wenn auch deutlich gewachsen und von stark gedehnter Haut bedeckt. So wie die restlichen Goblins sind die Wakürs am Kopf kahl. Die Beine sind im Verhältnis zu den Oberarmen beziehungsweise dem Brustbereich schmächtig und können alleine den monströs aufgedunsenen Körper kaum längere Zeit stützen. Dadurch kann die Wakür zwar theoretisch aufrecht laufen, jedoch, bedingt durch die niedere Deckenhöhe vieler Höhlen eher nur wie ein beinloser Mensch robben. Die Stammesmutter verliert im schmerzhaften Prozess der „Formung" von einem Goblin zur Wakür viele ihrer „menschlicheren" Eigenschaften. Ihr Aggressionslevel nimmt im selben Maße zu, wie ihr Intellekt abnimmt. Der Vergleich mit einem viel zu starken halbstarken 15 Winter alten Menschen liegt da Nahe. Triebe lassen die Wakür die meiste Zeit nur fressen, rumliegen, Eier gebären oder sich zwecks der Fortpflanzung mit Goblins Vergnügen. Das Gebären der Kinder ist nicht in Lebendform, wie dies bei Menschen der Fall ist, sondern in Form von Eiern welcher mit einer lederartigen Haut überzogen sind. Diese Eier produziert die Wakür auf ihrem stark verlängerten Rücken, wo diese von den Goblins „Faask" genannten Eier dann von einer dezidierten Goblin Berufsgruppe mittels Werkzeugs und Krafteinsatz herausgezogen werden.
 Für die Wakür ist dieser Prozess unangenehm im besten Fall und sehr schmerzhaft im schlechtesten.
-Die geernteten Eier werden dann zu Bruthöhlen gebracht. Dort lagern die Eier dann für rund 2 Jahre und werden wöchentlich mit einer Art blauem Nährschleim versorgt. Dieser ist notwendig, dass die Eier nicht verhungern beziehungsweise austrocknen. Der Lebenszyklus einen Goblins beginnt vom Schlüpfen aus dem rund 40-70 cm großen Ei. Goblins sind beim Schlüpfen, je nach Ernährung Status und Glück rund 90 bis 100 cm. Im Laufe von 5-10 Jahren wachsen die Goblins langsam auf eine Körpergröße von rund 130 bis 150 Zentimeter, wobei der Durchschnitt eher im unteren Bereich dieser Skala angesiedelt ist.
-Bereits 3-4 Jahre nach der Geburt beginnen die jungen Goblins damit Aufgaben im Stamm zu übernehmen. Sei es die Reinhaltung der Wohnhöhlen, das Sammeln und Ernten von Nahrung in sicheren und etablierten Bereichen der Höhlen oder das Versorgen von älteren oder erkrankten Goblins. Nach dieser Zeit Arbeiten die Goblins meist in den dezidierten Kasten oder Berufsfeldern und bleiben diesen in den allermeisten Fällen treu.
+Die geernteten Eier werden dann zu Bruthöhlen gebracht.
+Dort lagern die Eier dann für rund 2 Jahre und werden wöchentlich mit einer Art blauem Nährschleim versorgt.
+Dieser ist notwendig, damit die Eier nicht verhungern beziehungsweise austrocknen.
+Der Lebenszyklus eines Goblins beginnt vom Schlüpfen aus dem rund 40-70 cm großen Ei.
+Goblins sind beim Schlüpfen, je nach Ernährung, Status und Glück rund 90 bis 100 cm groß.
+Im Laufe von 5-10 Jahren wachsen die Goblins langsam auf eine Körpergröße von rund 130 bis 150 Zentimeter, wobei der Durchschnitt eher im unteren Bereich dieser Skala angesiedelt ist.
+Bereits 3-4 Jahre nach der Geburt beginnen die jungen Goblins damit Aufgaben im Stamm zu übernehmen.
+Sei es die Reinhaltung der Wohnhöhlen, das Sammeln und Ernten von Nahrung in sicheren und etablierten Bereichen der Höhlen oder das Versorgen von älteren oder erkrankten Goblins.
+Nach dieser Zeit arbeiten die Goblins meist in den dezidierten Kasten oder Berufsfeldern und bleiben diesen in den allermeisten Fällen treu.
 
-Die Herstellung des Nährschleims für die Eier wird über die Vermengung mehrerer Pilze und Steinwurmfleisch, also Grundzutaten welche man in Höhlen einfacher findet, sichergestellt. Diese Bottiche beziehungsweise aus dem Boden geschlagenen Steinpools werden gut bewacht und gewartet, hängt doch das Überleben des Stammes davon ab, dass dieser Nährschleim die wehrlosen Eier mit Energie versorgt, da diese ansonsten nach runden 2 Monaten verkümmern.
+Die Herstellung des Nährschleims für die Eier wird über die Vermengung mehrerer Pilze und Steinwurmfleisch, also Grundzutaten welche man in Höhlen einfacher findet, sichergestellt.
+Diese Bottiche beziehungsweise aus dem Boden geschlagenen Steinpools werden gut bewacht und gewartet, hängt doch das Überleben des Stammes davon ab, dass dieser Nährschleim die wehrlosen Eier mit Energie versorgt, da diese ansonsten nach rund 2 Monaten verkümmern.
 
-Für den kontinuierlichen Nachschub an frischen Eiern sorgt die Waküre, welche sich mit von ihr oder dem Stammesschamanen auserwählten „Geschlechtslosen“ Goblins verpaart. Dieser Prozess besitzt auch nichts anmutiges, sondern gleicht eher einer animalischen Begattung wie diese bei Vögeln vorkommt.
+Für den kontinuierlichen Nachschub an frischen Eiern sorgt die Waküre, welche sich mit von ihr oder dem Stammesschamanen auserwählten „geschlechtslosen" Goblins verpaart. Dieser Prozess besitzt auch nichts anmutiges, sondern gleicht eher einer animalischen Begattung wie diese bei Vögeln vorkommt.
 
-Die wenigsten erzeugten Eier haben allerdings das Potential, eine Waküre zu werden. Der geringe Prozentsatz an Eiern welche die Mutation aufweisen um daraus eine Waküre zu gestalten muss mit einem besonderen „Wakürengelee“ versorgt werden, anstatt des normalen Nährschleims. Dieser löst dann biologische Veränderungen dieser speziellen Goblins aus. Über Jahr hinweg kann dann, sofern die richtigen Eier mit Wakürengelee versorgt wurden, aus dem jungen Goblin mit der Y-förmigen Roten Narbe auf dem Bauch eine Waküre gezogen werden. Dieser Prozess, welcher vom Stammesschamanen geleitet wird, ist für den Goblin selbst schmerzhaft. Unter der Gabe von betäubenden Pilzen werden Knochen gebrochen, Schienen gesetzt oder Häute eingeschnitten und neu vernäht. Dieser schmerzhafte und unschöne Prozess führt zur geistigen Verkümmerung und allgemeiner schlechter Laune der Waküren.
-Daraus ergeben sich für Goblinstämme Probleme. 
-Zum einen kann diese anfangs zwangsgefütterte Waküre enorme Mengen an Nahrung verschlingen, welches für kleine Stämme ein logistisches Problem sein kann, zum anderen führt die schlecht gelaunte Waküre schnell zu ein paar toten Goblins. Weiters  ist das deuten der Wünsche der geistig verarmenden Waküre über die Zeit zunehmend schwerer. Häufig ist die Interpretation dem geistigen Anführer eines Stammes, dem Goblinschamanen überlassen. Gleichzeitig legen aber ältere Waküren aber größere Eier, woraus körperlich stärkere Goblins heranwachsen können. Dies wiederum verleitet manche Schamanen die Waküren so lange am leben zu lassen, oder diese gar zu fesseln um damit die Waküren nicht unnötig viele Goblins töten. Problematisch ist dies insbesondere, wenn eine wütende Waküre dann beschließt, dass der Stamm ihrer Anmut nicht würdig ist und zunehmend mehr Goblins tötet, da diese nicht genug oder nicht die richtige Nahrung heranschaffen, oder das kopulieren unzufriedenstellend ist. Dann braucht es mehrere dutzend Goblins, um die Waküre zu überwältigen oder im Notwendigen Fall zu töten.
+Die wenigsten erzeugten Eier haben allerdings das Potential, eine Waküre zu werden.
+Der geringe Prozentsatz an Eiern welche die Mutation aufweisen um daraus eine Waküre zu gestalten muss mit einem besonderen „Wakürengelee" versorgt werden, anstatt des normalen Nährschleims. Dieser löst dann biologische Veränderungen dieser speziellen Goblins aus. Über Jahre hinweg kann dann, sofern die richtigen Eier mit Wakürengelee versorgt wurden, aus dem jungen Goblin mit der Y-förmigen Roten Narbe auf dem Bauch eine Waküre gezogen werden. Dieser Prozess, welcher vom Stammesschamanen geleitet wird, ist für den Goblin selbst schmerzhaft. Unter der Gabe von betäubenden Pilzen werden Knochen gebrochen, Schienen gesetzt oder Häute eingeschnitten und neu vernäht. Dieser schmerzhafte und unschöne Prozess führt zur geistigen Verkümmerung und allgemeiner schlechter Laune der Waküren. Daraus ergeben sich für Goblinstämme Probleme. Zum einen kann diese anfangs zwangsgefütterte Waküre enorme Mengen an Nahrung verschlingen, welches für kleine Stämme ein logistisches Problem sein kann, zum anderen führt die schlecht gelaunte Waküre schnell zu ein paar toten Goblins. Weiters ist das deuten der Wünsche der geistig verarmenden Waküre über die Zeit zunehmend schwerer. Häufig ist die Interpretation dem geistigen Anführer eines Stammes, dem Goblinschamanen überlassen. Gleichzeitig legen ältere Waküren aber größere Eier, woraus körperlich stärkere Goblins heranwachsen können. Dies wiederum verleitet manche Schamanen die Waküren so lange am leben zu lassen, oder diese gar zu fesseln um damit die Waküren nicht unnötig viele Goblins töten. Problematisch ist dies insbesondere, wenn eine wütende Waküre dann beschließt, dass der Stamm ihrer Anmut nicht würdig ist und zunehmend mehr Goblins tötet, da diese nicht genug oder nicht die richtige Nahrung heranschaffen, oder das kopulieren unzufriedenstellend ist. Dann braucht es mehrere dutzend Goblins, um die Waküre zu überwältigen oder im Notwendigen Fall zu töten.
 
-Es kommt äußerst selten vor, dass ein größerer Stamm mehrere Waküren  zu versorgen hat. Dies ist, sofern die Logistik welche der Stammesführer zentral steuert, kein Problem, solange ausreichend gute Nahrung für die Waküre bereit gestellt werden können. Ist dies nicht mehr der Fall können sich auch Waküren gegenseitig bekämpfen. Zum Unterbinden dieser Kämpfe werden teils hunderte Goblins geopfert, was den Wert dieser monströsen „Mütter“ für einen Stamm vermittelt.
-Da wie oben erwähnt nicht alle Eier welche mit Wakürengelee versorgt werden tatsächlich Waküren werden, können sich die restlichen Ungeborenen Goblins auf ein Lebens als „Elitewache“ der Waküre freuen. Die im Durchschnitt etwas größeren Goblins, sind von der Statur her kräftiger und kämpfen dadurch besser und vehementer.
-Das Wakürengelee selbst gilt auch bei den bereits geschlüpften Goblins als Delikatesse, wenn es in kleinen Mengen genossen wird. Zwar wie der normale Nährschleim für andere Rassen auch giftig, befähigt dieser Schleim angeblich die Fähigkeiten eines Goblins. Gewarnt werden sollte allerdings davor, zu viel von diesem Wakürengelee zu essen, da dann Effekte wie bei Missbrauch von Madnika auftreten können. Verlust des Realitätsbezugs, Aggression, Idiotie seien hier warnend erwähnt.
+Es kommt äußerst selten vor, dass ein größerer Stamm mehrere Waküren zu versorgen hat.
+Dies ist, sofern die Logistik welche der Stammesführer zentral steuert, kein Problem, solange ausreichend gute Nahrung für die Waküre bereit gestellt werden kann.
+Ist dies nicht mehr der Fall können sich auch Waküren gegenseitig bekämpfen.
+Zum Unterbinden dieser Kämpfe werden teils hunderte Goblins geopfert, was den Wert dieser monströsen „Mütter" für einen Stamm vermittelt. Da wie oben erwähnt nicht alle Eier, welche mit Wakürengelee versorgt werden tatsächlich Waküren werden, können sich die restlichen Ungeborenen Goblins auf ein Lebens als „Elitewache" der Waküre freuen.
+Die im Durchschnitt etwas größeren Goblins, sind von der Statur her kräftiger und kämpfen dadurch besser und vehementer.
+Das Wakürengelee selbst gilt auch bei den bereits geschlüpften Goblins als Delikatesse, wenn es in kleinen Mengen genossen wird.
+Zwar wie der normale Nährschleim für andere Rassen auch giftig, befähigt dieser Schleim angeblich die Fähigkeiten eines Goblins.
+Gewarnt werden sollte allerdings davor, zu viel von diesem Wakürengelee zu essen, da dann Effekte wie bei Missbrauch von Madnika auftreten können.
+Verlust des Realitätsbezugs, Aggression, Idiotie seien hier warnend erwähnt.
 
-Da Goblins zwar für andere humanoiden Rassen sich alle gleichen, aber für Goblins sehr wohl Unterschiede zwischen den Individuen bestehen, ist es weniger verwunderlich, dass jeder einzelne Goblin auch seine eigenen Ziele Pläne, Hoffnungen und Träume hat.
+Da Goblins zwar für andere humanoiden Rassen sich kaum voneinander zu unterscheiden scheinen, aber für Goblins selbst sehr wohl Unterschiede zwischen den Individuen bestehen, ist es weniger verwunderlich, dass jeder einzelne Goblin auch seine eigenen Ziele Pläne, Hoffnungen und Träume hat.
 
-> „Natürlich würde ich gerne eine schönere Höhle haben, oder die Lichtwelt sehen. Nur wie soll ich das Anstellen? Sowohl meine Sammlerkollegen brauchen mich wie auch die Mutter und der Schamane selbst. Soll ich allein durch diese Höhlen wandern, nur dass Gob mich verschlingt? Oder ich an der Oberfläche von einem von euch dann aufgespießt werde? Oder gar als Erwachter dann meinen Stamm ins Unglück stürze? Nein. Ich denke, hier ist zwar nicht alles perfekt, aber besser als das Ungewisse da draußen.“
+> „Natürlich würde ich gerne eine schönere Höhle haben, oder die Lichtwelt sehen.
+> Nur wie soll ich das Anstellen?
+> Sowohl meine Sammlerkollegen brauchen mich wie auch die Mutter und der Schamane selbst.
+> Soll ich allein durch diese Höhlen wandern, nur dass Gob mich verschlingt?
+> Oder ich an der Oberfläche von einem von euch dann aufgespießt werde?
+> Oder gar als Erwachter dann meinen Stamm ins Unglück stürze?
+> Nein.
+> Ich denke, hier ist zwar nicht alles perfekt, aber besser als das Ungewisse da draußen."
 >
-> - Goblin aus dem Tiefenstamm der Dunstspitzen
+> -   Goblin aus dem Tiefenstamm der Dunstspitzen
 
-Dadurch ist es durchaus möglich, dass sich einzelne Gruppen von Goblins abspalten und versuchen ihren eigenen Stamm zu gründen - Sei dies unter der Erde, oder von höhlen bewohnenden Goblins gehassten Oberweltstammgoblins. Diese Stämme sind häufig deutlich kleiner und Aufgrund des Fehlens der Stammesmutter nicht in der Lage sich zu reproduzieren.
+Dadurch ist es durchaus möglich, dass sich einzelne Gruppen von Goblins abspalten und versuchen ihren eigenen Stamm zu gründen.
+Dies ist sowohl unter der Erde, als auch darüber in Form von Oberweltgoblinstämmen möglich, die aber den Höhlen bewohnenden Goblins aufs äußerte verhasst sind.
+Diese Stämme sind häufig deutlich kleiner und Aufgrund des Fehlens der Stammesmutter nicht in der Lage sich zu reproduzieren.
 Während Untertagesplitterstämme, Gob-Saiks genannt, häufig mit den anderen Stämmen Handel treiben um Eier zu erhalten, müssen die Oberweltstämme, Vrak-Saiks genannt auf plündern, Hinterhalte, Erpressung oder sonstiges zurückgreifen um an frische Eier zu kommen.
 
-
-## Die Gesellschaft – das soziale Untereinander der Goblins
+## Die Gesellschaft -- das soziale Untereinander der Goblins
 
 Die wichtigsten Positionen in einem Goblinstamm sind die der Waküre, des Stammesschamanen und des Häuptlings.
 
 ### Die Stammesmutter- Waküre
-Die Waküre, als meist einzig Verantwortliche für die Produktion des Nachwuchs steht theoretisch an der Spitze eines Stammes. Obwohl ihre intellektuellen und sprachlichen Fähigkeiten nicht hilfreich sind um einen Stamm zu leiten, ist es die Produktion der teilweise ein Dutzend Eier pro Tag, welche ihre Rolle im Stamm zementiert. 
+
+Die Waküre, als meist einzig Verantwortliche für die Produktion des Nachwuchs steht theoretisch an der Spitze eines Stammes.
+Obwohl ihre intellektuellen und sprachlichen Fähigkeiten nicht hilfreich sind um einen Stamm zu leiten, ist es die Produktion der teilweise ein Dutzend Eier pro Tag, welche ihre Rolle im Stamm zementiert.
 
 ### Der Schamane
-Der Schamane ist das geistige Oberhaupt eines Stammes. Dieser kennt die Waküre meist am Besten und ist am ehesten befähigt deren Wünsche zu deuten um eine möglichst durchgehende Eiproduktion zu ermöglichen. Als Religiöses Oberhaupt startet und beendet dieser Feierlichkeiten in den Kultstätten, Gobhöhlen genannt. Ihm unterstellt sind neben seinem regulären Dienern der „Gobkaste“ auch die Wachen der Waküren. Letztere sind die Leibwachen der Waküren. Der Schamane selbst hat die Verfügungsgewalt über die Eigelege und wann/wo diese angelegt, versorgt oder auch mit anderen Stämmen getauscht werden. Weiters kennt nur der Schamane das Rezept für das Wakürengelee. Die Auswahl des Nachfolger des Stammesschamanen unterliegt dem Schamanen selbst und kann nur vom Stammeshäuptling beeinsprucht werden. Der Stammeshäuptling selbst kann aber keine Vorschläge bringen. So ist es häufig Usus unter den Goblins, dass ein paar Dutzend Goblins als Anwärter vorgeschlagen werden und diese, entsprechend ihre Verdienste auserwählt werden. Als Schamanen besteht das Anrecht auf Verpaarung mit der Waküre.
+
+Der Schamane ist das geistige Oberhaupt eines Stammes.
+Dieser kennt die Waküre meist am Besten und ist am ehesten befähigt deren Wünsche zu deuten um eine möglichst durchgehende Eiproduktion zu ermöglichen.
+Als Religiöses Oberhaupt startet und beendet dieser Feierlichkeiten in den Kultstätten, Gobhöhlen genannt.
+Ihm unterstellt sind neben seinem regulären Dienern der „Gobkaste" auch die Wachen der Waküren. Letztere sind die Leibwachen der Waküren. Der Schamane selbst hat die Verfügungsgewalt über die Eigelege und wann/wo diese angelegt, versorgt oder auch mit anderen Stämmen getauscht werden. Weiters kennt nur der Schamane das Rezept für das Wakürengelee. Die Auswahl des Nachfolger des Stammesschamanen unterliegt dem Schamanen selbst und kann nur vom Stammeshäuptling beeinsprucht werden. Der Stammeshäuptling selbst kann aber keine Vorschläge bringen. So ist es häufig Usus unter den Goblins, dass ein paar Dutzend Goblins als Anwärter vorgeschlagen werden und diese, entsprechend ihre Verdienste auserwählt werden. Als Schamanen besteht das Anrecht auf Verpaarung mit der Waküre.
 
 ### Gob-Saikiht - Der Häuptling
-Der Stammeshäuptling, Gob-Saikiht genannt, übernimmt die organisatorische Rolle. Was des Kaiserreichs oberster Bürokrat ist, ist der Goblins deren Gob-Saikiht. Er hat meist eine Funktion auf Lebenszeit. Sein Dienst endet mit seinem Ableben. Aufgrund des Anrechts auf Verpaarung mit der Waküre und des schlechteren „Einfühlungsvermögen“ gegenüber der Waküre kommt es allerdings hier immer wieder zu blutigen Bettgeschichten. Der getötete Gob-Saikiht hinterlässt keinen ernannten Nachfolger, sondern diese werden vom Schamanen und den wertvolleren Klassen bestimmt.
 
-
+Der Stammeshäuptling, Gob-Saikiht genannt, übernimmt die organisatorische Rolle.
+Was des Kaiserreichs oberster Bürokrat ist, ist der Goblins deren Gob-Saikiht.
+Er hat meist eine Funktion auf Lebenszeit.
+Sein Dienst endet mit seinem Ableben.
+Aufgrund des Anrechts auf Verpaarung mit der Waküre und des schlechteren „Einfühlungsvermögen" gegenüber der Waküre kommt es allerdings hier immer wieder zu blutigen Bettgeschichten. Der getötete Gob-Saikiht hinterlässt keinen ernannten Nachfolger, sondern diese werden vom Schamanen und den wertvolleren Klassen bestimmt.
 
 Die sonstigen höheren Kasten in den Stämmen setzen sich aus den Wachen der Waküre, Sammler der Waküren, Schamanenhelfer und die Kriegerkaste.
-Die niederen Kasten bestehen aus Sammlern, Erntern und Faask Versorgern. Die niederste Kaste sind die Minenarbeiter, häufig Dreckschaufler genannt.
+Die niederen Kasten bestehen aus Sammlern, Erntern und Faask Versorgern.
+Die niederste Kaste sind die Minenarbeiter, häufig Dreckschaufler genannt.
 
 ### Die Wachen der Waküre
-Die Elitewache, vergleichbar mit den Wachen der Hohepriester der Rahkari, dient dem Schutz der Waküre. Ihre Aufgabe besteht zum allergrößten Teil die Waküre zu beobachten, Auffälligkeiten dem Stammeschamanen zu melden, und all jene Fern zu halten, welche der Waküre Schaden wollen.
-Die Wakürenwachen werden immer aus den Eiern welche mit Wakürengelee versorgt wurden gezogen. Dieses gibt den darin wachsenden Goblins deutlich mehr kämpferische Fähigkeiten als dies von normalen Goblins zu erwarten wäre.
+
+Die Elitewache, vergleichbar mit den Wachen der Hohepriester der Rahkari, dient dem Schutz der Waküre.
+Ihre Aufgabe besteht zum allergrößten Teil die Waküre zu beobachten, Auffälligkeiten dem Stammeschamanen zu melden, und all jene Fern zu halten, welche der Waküre Schaden wollen.
+Die Wakürenwachen werden immer aus den Eiern welche mit Wakürengelee versorgt wurden gezogen.
+Dieses gibt den darin wachsenden Goblins deutlich mehr kämpferische Fähigkeiten als dies von normalen Goblins zu erwarten wäre.
 
 ### Sammler der Waküren
-Entgegen der Vermutung, sammelt diese Goblinkaste keine Stammesmütter ein, sondern sucht im Auftrag des Stammesschamanen nach den besonderen Zutaten für das Wakürengelee. Diese Aufgabe ist meist gefährlich und führt Goblins immer wieder an die Oberfläche. Ihre Lebensdauer ist im Schnitt kürzer als die anderer Goblins, jedoch können diese sich den höchsten Ehren in den Stämmen zuteilwerden lassen, wenn ihre Suche von Erfolg gekrönt ist.
 
-### Schamanenhelfer – Diener von Gobs Willen
-Ein Schamane alleine kann nicht die religiösen Bedürfnisse von mehrere tausend Goblins befriedigen. Die Suche nach Gob, die Ehrung von Gob wie auch die Einhaltung der Festtage und der Riten gehören zu den Aufgaben der Schamanenhelfer. Als Gegenstück zum Allgott der Kaiserlichen, findet sich Gob im Alltag der Goblins wieder. So werden spenden an Gob, die Wartung der Kultstätten oder das Verbreiten der Religion „Gobs Wille“ von dieser Kaste übernommen.
+Entgegen der Vermutung, sammelt diese Goblinkaste keine Stammesmütter ein, sondern sucht im Auftrag des Stammesschamanen nach den besonderen Zutaten für das Wakürengelee.
+Diese Aufgabe ist meist gefährlich und führt Goblins immer wieder an die Oberfläche.
+Ihre Lebensdauer ist im Schnitt kürzer als die anderer Goblins, jedoch können diese sich den höchsten Ehren in den Stämmen zuteilwerden lassen, wenn ihre Suche von Erfolg gekrönt ist.
+
+### Schamanenhelfer -- Diener von Gobs Willen
+
+Ein Schamane alleine kann nicht die religiösen Bedürfnisse von mehrere tausend Goblins befriedigen.
+Die Suche nach Gob, die Ehrung von Gob wie auch die Einhaltung der Festtage und der Riten gehören zu den Aufgaben der Schamanenhelfer.
+Als Gegenstück zum Allgott der Kaiserlichen, findet sich Gob im Alltag der Goblins wieder.
+So werden spenden an Gob, die Wartung der Kultstätten oder das Verbreiten der Religion „Gobs Wille" von dieser Kaste übernommen.
 
 ### Die Kriegerkaste
-Einfach erklärt ist die Kriegerkaste. Das bekämpfen feindlicher Stämme, feindlicher Waküren, Monstern, Lindwürmern oder zu gierigen Zwergen wird von der Kriegerkaste vollführt. Die Kriegerkaste wird aktiv, sofern der Stamm selbst direkt bedroht wird, oder der Schamane und der Häuptling im Einklang Aufgaben erteilen. Meist mit Fernkampfwaffen und Giften bewaffnet, ziehen diese dann durch die Höhlen oder die Oberwelt um größere Bedrohungen zu bewältigen.
 
-### Sammler – Die Sucher in der Finsternis
-Eine Mischung aus Schatzsucher und Jäger werden die Sammler ausgesandt um außerhalb der etablierten Bereiche des Stammes nach wertvollem zu Suchen. Seien dies die Jagd nach Tieren, das stehlen von Zwergenwaffen, das ernten besondere alchemistische Zutaten oder die Erbeutung wertvoller Kleidung – all dies wird explizit von den Sammlern besorgt. Dabei sind Sammler, im Gegensatz zu den Erntern größeren Bedrohungen ausgesetzt und verzeichnen teils große Verluste in der eigenen Kaste. Sich selbst bezeichnen Sammler häufig als „Näher an Gob, als der Schamane“, inbesondere wenn besonders gefährliche Aufträge erledigt oder Gegenstände gefunden werden müssen.
+Einfach erklärt ist die Kriegerkaste.
+Das bekämpfen feindlicher Stämme, feindlicher Waküren, Monstern, Lindwürmern oder zu gierigen Zwergen wird von der Kriegerkaste vollführt.
+Die Kriegerkaste wird aktiv, sofern der Stamm selbst direkt bedroht wird, oder der Schamane und der Häuptling im Einklang Aufgaben erteilen.
+Meist mit Fernkampfwaffen und Giften bewaffnet, ziehen diese dann durch die Höhlen oder die Oberwelt um größere Bedrohungen zu bewältigen.
 
-### Ernter – Bauern der Goblins
-Einer der sichersten Kasten bei den Goblins ist die der Ernter. Diese versorgen die Zinoberpilz-Farmen, halten Vielschreiwürmer. Neben diesen Aufgaben, kümmern sich die Ernter um frisch geschlüpfte Goblins bis diese nach 3-5 Jahren selbständig durch das Leben schreiten können. Dabei wird nicht zwangsläufig eine Enge Bindung zu den Ziehkindern aufgebaut, da das Aufziehen als Kastenaufgabe gesehen wird. Weiters stellen die Ernter den regulären Nährschleim für die Eier her.
+### Sammler -- Die Sucher in der Finsternis
 
-### Faask Versorger – Versorgung des Nachwuchses
-Da im Durchschnitt ein Ei 2 Jahre benötigt, um zu schlüpfen und in dieser Zeit wöchentlich der Nährschleim erneuert werden muss, während eine Waküre bis zu einem Dutzend Eier am Tag legt, ergeben sich unvorstellbare Mengen an Eiern. Diese müssen nicht nur mit frischen nährschleim versorgt werden. Der alte nährschleim muss entsorgt werden, Pilzbefall verhindert und Eier im Idealfall umgeschlichtet und untersucht werden, um beschädigte zu entfernen.
-Dezidiert versorgt werden die besonderen Eier, welche mit Wakürengelee ernährt werden. Hier sind sowohl der Stammesschamane als auf die Diener Gobs Willen gelegentlich involviert und fachsimpeln über die besten Methoden.
+Eine Mischung aus Schatzsucher und Jäger werden die Sammler ausgesandt um außerhalb der etablierten Bereiche des Stammes nach wertvollem zu Suchen.
+Seien dies die Jagd nach Tieren, das stehlen von Zwergenwaffen, das ernten besondere alchemistische Zutaten oder die Erbeutung wertvoller Kleidung -- all dies wird explizit von den Sammlern besorgt.
+Dabei sind Sammler, im Gegensatz zu den Erntern größeren Bedrohungen ausgesetzt und verzeichnen teils große Verluste in der eigenen Kaste.
+Sich selbst bezeichnen Sammler häufig als „Näher an Gob, als der Schamane", inbesondere wenn besonders gefährliche Aufträge erledigt oder Gegenstände gefunden werden müssen.
 
-### Dreckschaufler – Minenarbeiter
-Die unterste Kaste eines Stammes bilden die Minenarbeiter. Neben der körperlich schwerer Arbeit von Wohnhöhlen in den bloßen Fels zu schlagen, ist auch das errichten neuer Stollen oder das beistigen des sandigen Steinwurmkotes ihre Aufgabe. Dadurch meist an der vordersten Front unterwegs und mit oft wenig Begleitschutz verzeichnet diese Kaste die höchste Sterblichkeit und auch den geringsten Respekt in der Kaste. Hierbei werden meist körperlich schwache Goblins oder mit anderen Nachteilen, wie schwacher Thermosicht oder Taubheit der Kaste zugeordnet.
+### Ernter -- Bauern der Goblins
 
+Einer der sichersten Kasten bei den Goblins ist die der Ernter.
+Diese versorgen die Zinoberpilz-Farmen, halten Vielschreiwürmer.
+Neben diesen Aufgaben, kümmern sich die Ernter um frisch geschlüpfte Goblins bis diese nach 3-5 Jahren selbständig durch das Leben schreiten können.
+Dabei wird nicht zwangsläufig eine Enge Bindung zu den Ziehkindern aufgebaut, da das Aufziehen als Kastenaufgabe gesehen wird.
+Weiters stellen die Ernter den regulären Nährschleim für die Eier her.
+
+### Faask Versorger -- Versorgung des Nachwuchses
+
+Da im Durchschnitt ein Ei 2 Jahre benötigt, um zu schlüpfen und in dieser Zeit wöchentlich der Nährschleim erneuert werden muss, während eine Waküre bis zu einem Dutzend Eier am Tag legt, ergeben sich unvorstellbare Mengen an Eiern.
+Diese müssen nicht nur mit frischen nährschleim versorgt werden.
+Der alte nährschleim muss entsorgt werden, Pilzbefall verhindert und Eier im Idealfall umgeschlichtet und untersucht werden, um beschädigte zu entfernen.
+Dezidiert versorgt werden die besonderen Eier, welche mit Wakürengelee ernährt werden.
+Hier sind sowohl der Stammesschamane als auf die Diener Gobs Willen gelegentlich involviert und fachsimpeln über die besten Methoden.
+
+### Dreckschaufler -- Minenarbeiter
+
+Die unterste Kaste eines Stammes bilden die Minenarbeiter.
+Neben der körperlich schwerer Arbeit von Wohnhöhlen in den bloßen Fels zu schlagen, ist auch das errichten neuer Stollen oder das beistigen des sandigen Steinwurmkotes ihre Aufgabe.
+Dadurch meist an der vordersten Front unterwegs und mit oft wenig Begleitschutz verzeichnet diese Kaste die höchste Sterblichkeit und auch den geringsten Respekt in der Kaste.
+Hierbei werden meist körperlich schwache Goblins oder mit anderen Nachteilen, wie schwacher Thermosicht oder Taubheit der Kaste zugeordnet.
 
 ## Ablauf eines Tages eines typischen Goblins
-Durch das Leben Untertage haben die meisten Goblins andere Rhythmen, welche nicht durch den Wechsel von Tag Nacht oder Winter/Sommer geprägt sind. Vielmehr besteht das Leben aus einem, idealerweise freiwilligen wechsel von Schlafenzeiten, Ruhezeiten und Arbeitszeiten. So beginnt, nach dem Aufwachen der „Tag“ meist mit einem einfachen Frühstück und dann dem Weg zur Arbeit der Kaste, sei dies nun das Leben eines Ernters oder das eines Dreckschauflers. Dort wird über etliche Stunden die Arbeit verrichtet, bis die Müdigkeit oder Erschlaffung einsetzt. Ob die Arbeitsleistung reicht entschließt meist die Kaste gemeinsam. Hierbei sind die Goblins untereinander erstaunlich ehrlich und betrügen selten ihre eigenen Kasten. Zwischen den Kasten allerdings ist das Niedermachen der anderen Leistungen Standard und wird entweder als Ansporn gesehen oder zumindest als Grund der anderen Gruppe bei einer Schlägerei eines auszuwischen. Diese Kastenbasierten Fehden und Erfahrungen schweißen auch diese Gruppen enger zusammen.
 
-Als Zeitgeber dienen die Diener von Gobs Wille. Zu regelmäßigen Gebeten, Gesängen oder Pausen rufen diese aus. Das Ritual des Beten ähnelt jenem anderer humanoider Kulturen. Die stille Einkehr oder das Lauschen der Worte der Deiner von Gobs Willen sind hier die Hauptelemente.
-In diesen Pausen finden auch die Wechsel der Arbeitsgruppen statt. Nach der Arbeit, kehren die Goblins zurück zu den Haupthöhlen, waschen sich in den Steinpools und kehren für kurze Zeit in Schlafbereiche zurück, wo diese dösen. Anschließend folgt in der Kultstätte „Lotrat“, was ähnlich ist zu dem Tempel und Kirchen der Rahkari und Lehre des Allgotts, ein „Abendgebet“. Daraufhin ziehen sich die Goblins für den richtigen Schlaf zurück in ihre Schlafhöhle. In dieser Schlafhöhle, welche eine rund 4 Meter Tiefe Ausbuchtung in den Fels darstellt, schlafen die Goblins dann mit ihren engsten Mitgoblins. Hierbei handelt es sich immer um dieselben Mitglieder der eigenen Kaste.
+Durch das Leben Untertage haben die meisten Goblins andere Rhythmen, welche nicht durch den Wechsel von Tag Nacht oder Winter/Sommer geprägt sind.
+Vielmehr besteht das Leben aus einem, idealerweise freiwilligen wechsel von Schlafenzeiten, Ruhezeiten und Arbeitszeiten.
+So beginnt, nach dem Aufwachen der „Tag" meist mit einem einfachen Frühstück und dann dem Weg zur Arbeit der Kaste, sei dies nun das Leben eines Ernters oder das eines Dreckschauflers. Dort wird über etliche Stunden die Arbeit verrichtet, bis die Müdigkeit oder Erschlaffung einsetzt. Ob die Arbeitsleistung reicht entschließt meist die Kaste gemeinsam. Hierbei sind die Goblins untereinander erstaunlich ehrlich und betrügen selten ihre eigenen Kasten. Zwischen den Kasten allerdings ist das Niedermachen der anderen Leistungen Standard und wird entweder als Ansporn gesehen oder zumindest als Grund der anderen Gruppe bei einer Schlägerei eines auszuwischen. Diese Kastenbasierten Fehden und Erfahrungen schweißen auch diese Gruppen enger zusammen.
 
-Neben etlichen Festen sind die sonstigen Taktgeber Jagden auf größere Monster oder das ansteigen der Pegel der unterirdischen Flüsse und Seen, was durch Starkregenereignisse oder in den nördlicheren Höhlen, durch die Schneeschmelze ausgelöst wird. 
+Als Zeitgeber dienen die Diener von Gobs Wille.
+Zu regelmäßigen Gebeten, Gesängen oder Pausen rufen diese aus.
+Das Ritual des Beten ähnelt jenem anderer humanoider Kulturen.
+Die stille Einkehr oder das Lauschen der Worte der Deiner von Gobs Willen sind hier die Hauptelemente.
+In diesen Pausen finden auch die Wechsel der Arbeitsgruppen statt.
+Nach der Arbeit, kehren die Goblins zurück zu den Haupthöhlen, waschen sich in den Steinpools und kehren für kurze Zeit in Schlafbereiche zurück, wo diese dösen.
+Anschließend folgt in der Kultstätte „Lotrat", was ähnlich ist zu dem Tempel und Kirchen der Rahkari und Lehre des Allgotts, ein „Abendgebet".
+Daraufhin ziehen sich die Goblins für den richtigen Schlaf zurück in ihre Schlafhöhle.
+In dieser Schlafhöhle, welche eine rund 4 Meter Tiefe Ausbuchtung in den Fels darstellt, schlafen die Goblins dann mit ihren engsten Mitgoblins.
+Hierbei handelt es sich immer um dieselben Mitglieder der eigenen Kaste.
 
-## Religion – Gobs Wille
-Der Ursprung der Religion der Goblins ist ihren Überlieferungen zufolge in der Verdrängung von der Oberfläche zu finden. Laut dem wichtigsten Schriftwerk der Goblins „Gobs Wille“ zwang die Verdrängung durch andere Humanoide die Goblins dazu Untertage auskommen zu müssen. Dies war, Anfangs ein äußerst schweres Unterfangen. Neben einer gänzlich unbekannten Welt war die Dunkelheit ein großes Problem. Fackeln brachten einen nur so lange voran, wie die Fackel brannte, war diese einmal erloschen war man verdammt. Als leichte Mahlzeit für zwischendurch war ein Goblin eine willkommene Abwechslung für Lindwurmer und Höhlenspinnen.
-Goblins gaben sich über die Jahre einem gewissen Fatalismus hin. Ihre Kinder starben häufig und größere Gemeinschaften wurden immer wieder von den anderen Zweibeinern der Oberfläche ausgelöscht.
-Als ritueller Ort für verzweifelte Stämme um ihre Opfer an Goblins darzulegen war die schwärzeste und tiefste Höhle „Gob“ ausgewählt. kranke Goblins, schwache Goblins wie auch gesunde wurden von den Schamanen geopfert, damit die alten Götter die Oberflächen Bewohner von der Erde fegten.
+Neben etlichen Festen sind die sonstigen Taktgeber Jagden auf größere Monster oder das ansteigen der Pegel der unterirdischen Flüsse und Seen, was durch Starkregenereignisse oder in den nördlicheren Höhlen, durch die Schneeschmelze ausgelöst wird.
 
-Laut dem Buch „Gobs Wille“ wurden die geopferten Goblins immer wieder von der Höhle verschluckt und sie ertranken in den sauren und warmen Wasser de schwärzesten Höhle. So war es die Aufgabe der Goblins in den Himmel von Gob zu starren und so endlich wieder zwischen den Sternen zu sein um die Seele dort hin zu verfrachten.
-Die wenigsten Goblins, besonderen Herzens überlebten das verschlungen werden der Höhle mit einem Geschenk von Gob. Sie konnten in der Finsternis sehen. Sie konnten andere Goblins in der schwärzesten Nacht vernehmen.
-Sie konnten auch die wahren Ausmaße von Gob besser vernehmen. Für diese neuen Goblins, laut den Stammesschamanen gezeichnet durch die Fähigkeit der Wärmesicht und dem Mangel an Frauen, brach ein neues Zeitalter an. Plötzlich war durch Gob plötzlich die Beherrschung der Höhlenwelten möglich. 
-Allerdings hatte dies einen Preis. Die allerwenigsten Goblinfrauen überlebten das verschlungen werden von Gob. Die wenigen welche den sauren See überstanden waren für den Erhalt des Stammes verantwortlich. Erst durch die Entdeckung des Wakürenschleims konnten die wenigen Frauen ausreichend Kinder gebären. Für den Stamm waren diese unersetzlich und ihnen wurde jeder Wunsch von den Augen abgelesen, damit diese möglichst viele Kinder gebären.
-So wie damals sind auch heute noch die Stammesschamanen dafür verantwortlich die Waküren bei Laune zu halten, um so noch mehr Kinder zu gebären.
+## Religion -- Gobs Wille
 
-Nach dem Verschlingen durch Gob und der Geburt der ersten Kinder der Verschlungenen, begann die neue Ära. Sie nannten sich fortan Goblins, oder Kinder Gobs.
+Der Ursprung der Religion der Goblins ist ihren Überlieferungen zufolge in der Verdrängung von der Oberfläche zu finden.
+Laut dem wichtigsten Schriftwerk der Goblins „Gobs Wille" zwang die Verdrängung durch andere Humanoide die Goblins dazu Untertage auskommen zu müssen. Dies war, Anfangs ein äußerst schweres Unterfangen. Neben einer gänzlich unbekannten Welt war die Dunkelheit ein großes Problem. Fackeln brachten einen nur so lange voran, wie die Fackel brannte, war diese einmal erloschen war man verdammt. Als leichte Mahlzeit für zwischendurch war ein Goblin eine willkommene Abwechslung für Lindwurmer und Höhlenspinnen. Goblins gaben sich über die Jahre einem gewissen Fatalismus hin. Ihre Kinder starben häufig und größere Gemeinschaften wurden immer wieder von den anderen Zweibeinern der Oberfläche ausgelöscht. Als ritueller Ort für verzweifelte Stämme um ihre Opfer an Goblins darzulegen war die schwärzeste und tiefste Höhle „Gob" ausgewählt.
+kranke Goblins, schwache Goblins wie auch gesunde wurden von den Schamanen geopfert, damit die alten Götter die Oberflächen Bewohner von der Erde fegten.
 
-Seit dessen ist es für einen Stamm Pflicht, sobald eine Waküre das erste Ei legt, eine Höhle zu Gobs Ehren „Lotrat“ genannt zu errichten. Diese Höhlen sind immer ähnlich aufgebaut. Ein dutzende Meter langer und tiefer künstlicher Teif wird in den Felsen gehauen. Leuchtende Brentwürmer werden gesammelt und an den Decken der Höhle, insbesondere über dem See angesiedelt. Die Wände  werden mit schwarzer Farbe ausgemalt. Der Eingang markiert von schwarzen spitzen dolchförmigen Steinen ist ebenso in schwarz gehalten. Hinter dem künstlichen Teich ist ein langer sich windender Pfad mit kleinen Vertiefungen, wo die Augen der verstorbenen Goblins hineingeworfen werden. Dies symbolisiert den Verlust und den Gewinn des Augenlichtes.
+Laut dem Buch „Gobs Wille" wurden die geopferten Goblins immer wieder von der Höhle verschluckt und sie ertranken in den sauren und warmen Wasser de schwärzesten Höhle. So war es die Aufgabe der Goblins in den Himmel von Gob zu starren und so endlich wieder zwischen den Sternen zu sein um die Seele dort hin zu verfrachten. Die wenigsten Goblins, besonderen Herzens überlebten das verschlungen werden der Höhle mit einem Geschenk von Gob. Sie konnten in der Finsternis sehen. Sie konnten andere Goblins in der schwärzesten Nacht vernehmen. Sie konnten auch die wahren Ausmaße von Gob besser vernehmen. Für diese neuen Goblins, laut den Stammesschamanen gezeichnet durch die Fähigkeit der Wärmesicht und dem Mangel an Frauen, brach ein neues Zeitalter an. Plötzlich war durch Gob plötzlich die Beherrschung der Höhlenwelten möglich. Allerdings hatte dies einen Preis. Die allerwenigsten Goblinfrauen überlebten das verschlungen werden von Gob. Die wenigen welche den sauren See überstanden waren für den Erhalt des Stammes verantwortlich. Erst durch die Entdeckung des Wakürenschleims konnten die wenigen Frauen ausreichend Kinder gebären. Für den Stamm waren diese unersetzlich und ihnen wurde jeder Wunsch von den Augen abgelesen, damit diese möglichst viele Kinder gebären. So wie damals sind auch heute noch die Stammesschamanen dafür verantwortlich die Waküren bei Laune zu halten, um so noch mehr Kinder zu gebären.
 
-Der Ausgang der Höhle ist eine zentrale Vertiefung der Haupt und Schlafhöhle der Goblins und windet sich von unten nach oben. Der Zugang zu der Höhle der Waküre wird am höchsten Punkt der Höhle angelegt, um die Wichtigkeit der überlebenden Mutter des Stammes zu signalisieren.
+Nach dem Verschlingen durch Gob und der Geburt der ersten Kinder der Verschlungenen, begann die neue Ära.
+Sie nannten sich fortan Goblins, oder Kinder Gobs.
 
-Die Leichen der Goblins werden, sobald die Augen entnommen wurden und die engsten Kastenmitglieder Abschied genommen haben und die „Wurmgrube“ geworfen, wo Prudak-Würner due Leichen verzehren. Die Prudakwürmer können so täglich mehrere verstorbene Goblins verschlingen. Die Prudakwürmer selbst werden von den Diener von Gobs Wille regelmäßig eingefangen und zu alchemistische Zutaten, Medizin oder Nahrung verarbeitet.
+Seit dessen ist es für einen Stamm Pflicht, sobald eine Waküre das erste Ei legt, eine Höhle zu Gobs Ehren „Lotrat" genannt zu errichten. Diese Höhlen sind immer ähnlich aufgebaut. Ein dutzende Meter langer und tiefer künstlicher Teif wird in den Felsen gehauen. Leuchtende Brentwürmer werden gesammelt und an den Decken der Höhle, insbesondere über dem See angesiedelt. Die Wände werden mit schwarzer Farbe ausgemalt. Der Eingang markiert von schwarzen spitzen dolchförmigen Steinen ist ebenso in schwarz gehalten. Hinter dem künstlichen Teich ist ein langer sich windender Pfad mit kleinen Vertiefungen, wo die Augen der verstorbenen Goblins hineingeworfen werden. Dies symbolisiert den Verlust und den Gewinn des Augenlichtes.
+
+Der Ausgang der Höhle ist eine zentrale Vertiefung der Haupt und Schlafhöhle der Goblins und windet sich von unten nach oben.
+Der Zugang zu der Höhle der Waküre wird am höchsten Punkt der Höhle angelegt, um die Wichtigkeit der überlebenden Mutter des Stammes zu signalisieren.
+
+Die Leichen der Goblins werden, sobald die Augen entnommen wurden und die engsten Kastenmitglieder Abschied genommen haben und die „Wurmgrube" geworfen, wo Prudak-Würner due Leichen verzehren. Die Prudakwürmer können so täglich mehrere verstorbene Goblins verschlingen. Die Prudakwürmer selbst werden von den Diener von Gobs Wille regelmäßig eingefangen und zu alchemistische Zutaten, Medizin oder Nahrung verarbeitet.
 
 Die Goblins selbst glauben nicht mehr an ein Paradies im eigentliche Sinne, sondern hoffen, dass Gob ihnen ein weiteres Mal die Goblins verbessert, so dass Sie endlich wieder die anderen von der Oberfläche vertreiben können und von da an wieder ihren angestammten Platz in der Welt übernehmen können.
 
-Die Trauer um die Toten hält sich meist kurz. Die Dankbarkeit zwischen den einzelnen Goblins auch während ihrer teils kurzen Lebensspanne ist stark ausgeprägt, denn jeder Goblins weis alleine hätten man keine Chance zu überleben. Weiters haben die meisten Goblins eines Stammes die selbe Wküre als Mutter, welche deutlich älter wird als die normalen Goblins. Die Akzeptanz des eigen Ablebens ist inbesondere bei den Krieger- und Dreckschauflerkasten stark ausgeprägt, da diese die mitunter gefährlichsten Aufgaben im Stamm vollführen.
-Aufgrund des Ritus der Beseitigung der Kadaver in den Prudakwürmergruben haben Goblinstämme auch nur geringe Probleme mit Erwachten. Allerdings ist es für die körperlich schwachen Goblins schwer die körperlich kühlen Erwachten immer rechtzeitig zu erspähen, um zu verhindern in einen Nahkampf mit der Schattenseite des Lebens zu führen.
+Die Trauer um die Toten hält sich meist kurz.
+Die Dankbarkeit zwischen den einzelnen Goblins auch während ihrer teils kurzen Lebensspanne ist stark ausgeprägt, denn jeder Goblins weis alleine hätten man keine Chance zu überleben.
+Weiters haben die meisten Goblins eines Stammes die selbe Wküre als Mutter, welche deutlich älter wird als die normalen Goblins.
+Die Akzeptanz des eigen Ablebens ist inbesondere bei den Krieger- und Dreckschauflerkasten stark ausgeprägt, da diese die mitunter gefährlichsten Aufgaben im Stamm vollführen.
+Aufgrund des Ritus der Beseitigung der Kadaver in den Prudakwürmergruben haben Goblinstämme auch nur geringe Probleme mit Erwachten.
+Allerdings ist es für die körperlich schwachen Goblins schwer die körperlich kühlen Erwachten immer rechtzeitig zu erspähen, um zu verhindern in einen Nahkampf mit der Schattenseite des Lebens zu führen.
 
-Die familiären Ziele sind aufgrund der Struktur mit der Waküre, den Schamanen und dem Stammeshäuptling häufig eng mit den religiösen Zielen verflochten. So ist die Aufzucht der Eier, die Suche nach dem verschwundenen Gob wie auch das Wohl der Waküre an vielen Tagen ein und das selbe Ziel.
+Die familiären Ziele sind aufgrund der Struktur mit der Waküre, den Schamanen und dem Stammeshäuptling häufig eng mit den religiösen Zielen verflochten.
+So ist die Aufzucht der Eier, die Suche nach dem verschwundenen Gob wie auch das Wohl der Waküre an vielen Tagen ein und das selbe Ziel.
 Die Religiösen Feste ehren dementsprechend die einzelnen Kasten oder das führende Trio des Stammes, den Tag der Verschlungenen, so wie das Ende der Herrscher der Oberwelt.
 
-Einflussnahmen des Blutkults oder Blutgötter sind im Verhältnis zur Oberwelt doch deutlich seltener. Die Ursachen liegen womöglich im religiösen Eifer oder der kurzen Lebensdauer oder einer geringeren biologischen Anfälligkeit gegenüber derartige Phänomene.
+Einflussnahmen des Blutkults oder Blutgötter sind im Verhältnis zur Oberwelt doch deutlich seltener.
+Die Ursachen liegen womöglich im religiösen Eifer oder der kurzen Lebensdauer oder einer geringeren biologischen Anfälligkeit gegenüber derartige Phänomene.
 
-Trotz der religiösen Einheit und der engen Verwandtschaftsbande und dem Zusammenhalt innerhalb der Kasten, kommt es immer wieder zu Abspaltungen von einigen dutzend Goblins. Sofern diese nicht zum Stamm zurückkehren werden diese Gob-Saiks oder Vrak-Saiks genannt.
+Trotz der religiösen Einheit und der engen Verwandtschaftsbande und dem Zusammenhalt innerhalb der Kasten, kommt es immer wieder zu Abspaltungen von einigen dutzend Goblins.
+Sofern diese nicht zum Stamm zurückkehren werden diese Gob-Saiks oder Vrak-Saiks genannt.
 
 ## Gob Saiks
-Die Splittergruppen eines Goblinstammes mit einer Waküre werden Gob-Saiks genannt. Hierbei beschließen Goblins, teils mit der Segnung des Führungstrios, teils ohne einen neuen Stamm zu Gründen. Dabei sind diese auf die Eierlieferungen anderer Goblinstämme angewiesen. Diese werden meist im Handel erworben mit den anderen Stämmen erworben. Seltener kommt es zum Diebstahl von Eiern, wenn der Splitterstamm sich als nicht erfolgreich darstellt. Häufiger ist allerdings die Rückeingliederung in den Ursprungsstamm möglich.
+
+Die Splittergruppen eines Goblinstammes mit einer Waküre werden Gob-Saiks genannt.
+Hierbei beschließen Goblins, teils mit der Segnung des Führungstrios, teils ohne einen neuen Stamm zu Gründen.
+Dabei sind diese auf die Eierlieferungen anderer Goblinstämme angewiesen.
+Diese werden meist im Handel erworben mit den anderen Stämmen erworben.
+Seltener kommt es zum Diebstahl von Eiern, wenn der Splitterstamm sich als nicht erfolgreich darstellt.
+Häufiger ist allerdings die Rückeingliederung in den Ursprungsstamm möglich.
 
 ## Vrak Saiks
-Verhasster bei den Untertagestämmen sind die Vrak-Saiks. Als  Splittergruppen welche sich an der Oberwelt niedergelassen haben, spürt diese Gruppe den Hass der Unterweltstämmen. Goblinschamanen verfluchen die Vrak Saiks als Verräter und Ketzer, da diese Gob im Lichte nicht ehren können. Die Vermischung mit den anderen Spezies führt auch zum ausplaudern von Geheimnissen der Goblins und bedrohe das überleben der Stämme.
-Die Vrak Saiks selbst sid meist kleine Gruppen von Goblins welche als Opportunisten durch die Welt streifen und so jenen dienen welche ihnen die beste Bezahlung bieten. Für Nachwuchs sorgt immer der Diebstahl von Eiern von Untertage Stämmen.
-Das Vorgehen ist hierbei äußert brutal. So Jagen die Vrak Saik explizit die Waküren Sammler, foltern diese um wichtige Informationen über die Stämme zu erhalten. Als grotesker Schlüssel nutzen diese dann die getöteten Waküren Sammler Goblins als tickende Zeitbombe, welche nach 2-3 Tagen aufersteht und so durch die Tunnel streift. Hierbei werden die Köpfe der armen Seelen abgeschlagen, was diese deutlich schwerer zu töten macht. Für die körperlich schwachen Goblins ist dies eine besondere Herausforderung, da die Erwachten sowohl Eigelege vergiften, als auch normale Goblins mit Krankheiten anstecken können.
+
+Verhasster bei den Untertagestämmen sind die Vrak-Saiks.
+Als Splittergruppen welche sich an der Oberwelt niedergelassen haben, spürt diese Gruppe den Hass der Unterweltstämmen.
+Goblinschamanen verfluchen die Vrak Saiks als Verräter und Ketzer, da diese Gob im Lichte nicht ehren können.
+Die Vermischung mit den anderen Spezies führt auch zum ausplaudern von Geheimnissen der Goblins und bedrohe das überleben der Stämme.
+Die Vrak Saiks selbst sid meist kleine Gruppen von Goblins welche als Opportunisten durch die Welt streifen und so jenen dienen welche ihnen die beste Bezahlung bieten.
+Für Nachwuchs sorgt immer der Diebstahl von Eiern von Untertage Stämmen.
+Das Vorgehen ist hierbei äußert brutal.
+So Jagen die Vrak Saik explizit die Waküren Sammler, foltern diese um wichtige Informationen über die Stämme zu erhalten.
+Als grotesker Schlüssel nutzen diese dann die getöteten Waküren Sammler Goblins als tickende Zeitbombe, welche nach 2-3 Tagen aufersteht und so durch die Tunnel streift.
+Hierbei werden die Köpfe der armen Seelen abgeschlagen, was diese deutlich schwerer zu töten macht.
+Für die körperlich schwachen Goblins ist dies eine besondere Herausforderung, da die Erwachten sowohl Eigelege vergiften, als auch normale Goblins mit Krankheiten anstecken können.
 Der Tumult mit den Erwachten wird von den Vrak Saik Goblins ausgenutzt um weitere Goblins zu meucheln oder Eier, Wakürengelee oder andere Gegenstände zu stehlen.
 
 Je nach Vraik Saik ist auch das Verhältnis zu den anderen Humanoiden, friedlich, gleichgültig oder territorial, was dementsprechend zu keinen größeren machtpolitischen Verwerfungen führt, aber zu früheren Ableben mancher Menschen welche die kleinen Wesen nicht mit ausreichend Respekt begegnet.
@@ -141,9 +241,13 @@ Je nach Vraik Saik ist auch das Verhältnis zu den anderen Humanoiden, friedlich
 > --- Die letzten Gedanken von Brago Tachus, Abenteurer
 
 ## Beziehungen zu den anderen Rassen
-Goblin unterhalten, nicht überraschenderweise, keine diplomatischen Beziehungen zu Großreichen, lediglich zu einzelnen Humanoiden der Oberwelt. Diese Beziehungen sind folglich unabhängig von großpolitischen Vorgängen, wie dem Krieg des Kaiserreiches gegen die Rah Kari.
 
-Aufgrund ihres Hangs zu dunklen Orten und ihrer Neigung zu Hinterhalten sowie zum Einsatz von Giften, werden sie oft von anderen Völkern für Ungeziefer gehalten, das es zu entfernen gilt. Jedoch scheitern diese Versuche nicht selten. Insbesondere der Hass des Yondalles'schen Volks gegenüber den Goblins ist groß und auf Goblins ist in Yondalla ein allgemeines Kopfgeld ausgesetzt.
+Goblin unterhalten, nicht überraschenderweise, keine diplomatischen Beziehungen zu Großreichen, lediglich zu einzelnen Humanoiden der Oberwelt.
+Diese Beziehungen sind folglich unabhängig von großpolitischen Vorgängen, wie dem Krieg des Kaiserreiches gegen die Rah Kari.
+
+Aufgrund ihres Hangs zu dunklen Orten und ihrer Neigung zu Hinterhalten sowie zum Einsatz von Giften, werden sie oft von anderen Völkern für Ungeziefer gehalten, das es zu entfernen gilt.
+Jedoch scheitern diese Versuche nicht selten.
+Insbesondere der Hass des Yondalles'schen Volks gegenüber den Goblins ist groß und auf Goblins ist in Yondalla ein allgemeines Kopfgeld ausgesetzt.
 
 Seit der Besetzung durch das Kaiserreich ist dieser Hass abgeebbt, da Goblins, nach herberen Verlusten, sich nicht gegen die schwerbewaffnete Kaiserliche Armee zu kämpfen trauen und sich wieder in tiefere Höhlensysteme zurückzogen.
 
@@ -151,12 +255,26 @@ Seit der Besetzung durch das Kaiserreich ist dieser Hass abgeebbt, da Goblins, n
 >
 > Travius Tandemus Sekundus Geistllicher der Ekkletia
 
-Besonders erwähnt werden sollte, dass einige Orkstämme Goblins als Nahrung ansehen und diese wie Halblinge auf ihren Festen verzehren. Gelegentlich treffen dann Orkstämme auf Goblin Erkundungstrupps. Für Orks und Goblins sind die jeweils anderen nicht mehr als „Gleichstarke“ Gegner welchen man im Gegenseitigen Respekt versucht aus dem Weg zu gehen – zumindest solange die Orks nicht zu hungrig sind.
+Besonders erwähnt werden sollte, dass einige Orkstämme Goblins als Nahrung ansehen und diese wie Halblinge auf ihren Festen verzehren.
+Gelegentlich treffen dann Orkstämme auf Goblin Erkundungstrupps.
+Für Orks und Goblins sind die jeweils anderen nicht mehr als „Gleichstarke" Gegner welchen man im Gegenseitigen Respekt versucht aus dem Weg zu gehen -- zumindest solange die Orks nicht zu hungrig sind.
 
-Speziell hingegen ist der Hass welchen Zwergen entgegengebracht wird. Expansiv wie Zwergenstädte sind, ist es in den Höhlensystemen welche von Weltenwürmer, Aschwürmern oder Steinwürmern gegraben wurden, so dass nicht genug Platz für alle Seiten ist. So sind die Zwerge zwar oft Zahlenmäßig unterlegen, jedoch aufgrund ihrer Konstrukte, welche Goblins schlecht sehen können, meist im Kampf überlegen. Zwerge selbst geben keine Gründe bekannt warum diese häufig Goblinstämme versuchen auszurotten oder immer wieder in ihrer Anzahl stark reduzieren.
+Speziell hingegen ist der Hass welchen Zwergen entgegengebracht wird.
+Expansiv wie Zwergenstädte sind, ist es in den Höhlensystemen welche von Weltenwürmer, Aschwürmern oder Steinwürmern gegraben wurden, so dass nicht genug Platz für alle Seiten ist.
+So sind die Zwerge zwar oft Zahlenmäßig unterlegen, jedoch aufgrund ihrer Konstrukte, welche Goblins schlecht sehen können, meist im Kampf überlegen.
+Zwerge selbst geben keine Gründe bekannt warum diese häufig Goblinstämme versuchen auszurotten oder immer wieder in ihrer Anzahl stark reduzieren.
 Goblins selbst, sagen das Zwerge Blasphemische Dinge anstellen und die Leichen schänden.
 
->„ Während die Goblins still andächtig beten und nach einigen Minuten wieder zurück an ihr Werk dem Schaufeln und Hämmern gehen, hört man mit dann hinter den Spitzhaken und Meißeln der Goblins weitaus kräftigere Spitzhaken. Wie ein Donnerschlag auf Stein. Dan bricht im Staub ein Stahlungetüm durch die Wand und von Schräg unten strömt das blaue Licht der Zwergenlampen. Die metallischen Kolosse  mit den Spitzhaken weichen zurück und schon fliegen in den Staubschichten die ersten Bolzen der riesigen Ballisten der Konstrukte.  Etliche Goblins werden von dem Bolzen halbiert, ihre Innereien als feiner Nebel versprüht, während die Kriegerkaste auf die Ungetümer zustürmen. Wie Ameisen versuchen diese den riesigen sechsbeinigen Metallkäfer zu überwältigen. Vergeblich. Kleinere Konstrukte, Zwerge gekleidet in fürstlichen Zwergenstahlrüstungen rücken organisiert mit Schilden vor und picken mit den Lanzen die Goblins, welche die Konstrukte auseinander nehmen wollen. Schreie von Goblins, welchen die Beine von den zweiten Bolzen der Konstrukte abgetrennt wurden Hallen durch die Höhle. Das blaue Licht leuchtet nun tiefer in die Stollen der Goblins. Die Zwerge lachen und marschieren weiter und im Hintergrund eine tiefe Zwergenstimme mit den Worten „Ich bezahl euch nicht fürs lachen.“.“
+> „ Während die Goblins still andächtig beten und nach einigen Minuten wieder zurück an ihr Werk dem Schaufeln und Hämmern gehen, hört man mit dann hinter den Spitzhaken und Meißeln der Goblins weitaus kräftigere Spitzhaken.
+> Wie ein Donnerschlag auf Stein.
+> Dan bricht im Staub ein Stahlungetüm durch die Wand und von Schräg unten strömt das blaue Licht der Zwergenlampen.
+> Die metallischen Kolosse mit den Spitzhaken weichen zurück und schon fliegen in den Staubschichten die ersten Bolzen der riesigen Ballisten der Konstrukte.
+> Etliche Goblins werden von dem Bolzen halbiert, ihre Innereien als feiner Nebel versprüht, während die Kriegerkaste auf die Ungetümer zustürmen.
+> Wie Ameisen versuchen diese den riesigen sechsbeinigen Metallkäfer zu überwältigen.
+> Vergeblich.
+> Kleinere Konstrukte, Zwerge gekleidet in fürstlichen Zwergenstahlrüstungen rücken organisiert mit Schilden vor und picken mit den Lanzen die Goblins, welche die Konstrukte auseinander nehmen wollen.
+> Schreie von Goblins, welchen die Beine von den zweiten Bolzen der Konstrukte abgetrennt wurden Hallen durch die Höhle.
+> Das blaue Licht leuchtet nun tiefer in die Stollen der Goblins.
+> Die Zwerge lachen und marschieren weiter und im Hintergrund eine tiefe Zwergenstimme mit den Worten „Ich bezahl euch nicht fürs lachen."."
 >
-> - Bericht von Valus Rinten Elfischer Gelehrter im Auftrag von Calvert während seines Aufhalts bei einem Goblinstamm.
-
+> -   Bericht von Valus Rinten Elfischer Gelehrter im Auftrag von Calvert während seines Aufhalts bei einem Goblinstamm.
