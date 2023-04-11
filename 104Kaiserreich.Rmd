@@ -27,7 +27,7 @@ Das Kaiserreich wurde vor 426 Jahren gegründet. Es erhob sich aus einer Konföd
 
 Der letzte Widerstand des regionalen Adels wurde in der Schlacht von Riga niedergeschlagen: Eine vereinigte Armee des rebellischen Adels unter der Führung von Manilius Thrax unterlag der Armee der Konföderation unter Virius Proximus - dem Caesarius Unificatorus. An diesem Tag rief sich Proximus selbst zum Kaiser aus und gestaltete die Konföderation zum heute bekannten Kaiserreich um. Riga wurde die Hauptstadt des Kaiserreichs.
 
-![Die Schlacht von Riga](Pictures/Flavor/Platzhalter/SchlachtRiga.jpg)
+![Die Schlacht von Riga](Pictures/Flavor/Kaiserreich/SchleifundRiga_Medjourney.png)
 
 Da Proximius' Neuerungen mit einem großen Machtverlust des Adels einhergingen, psotestierten diese. Jedoch wurden sie schnell überzeugt, dass einzulenken die klügste Option war - nämlich durch die unerschütterliche Loyalität, die die Armee gegenüber ihrem Kaiser entwickelt hatte. Die Folgen davon sind bis heute zu spüren: Während in Eldria der Adel bis heute das Heft in der Hand hat, ist der Adel im Kaiserreich weit weniger mächtig und meist nur Aufgrund ihres monetären Besitzes in Machtpositionen stärker vertreten als das gemeine Volk.
 
