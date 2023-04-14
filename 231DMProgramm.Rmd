@@ -1224,7 +1224,7 @@ In diesem Fall geht das für das Upgrade verwendete Material verloren.
 
 Das Orbis Astea-Programm berücksichtigt nur, ob der Upgrade-Versuch erfolgreich war oder nicht, was bedeutet, dass der DM und die Spieler selber nachverfolgen müssen, wie viele erfolgreiche Versuche sie haben.
 
-###### *Herstellung*
+###### *Herstellung* {#DMAppIntelligenzHerstellung .unnumbered}
 
 Das Herstellen von Gegenständen funktioniert nicht viel anders als die anderen Tabs des Handwerks.
 Zuerst muss einen Akteur ausgewählt werden, danach muss man einfach die Stufe des gewünschten Gegenstands auswählen.
