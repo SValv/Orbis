@@ -1,6 +1,8 @@
 library(tidyverse)
 library(zip)
 
+version = 3.651
+
 dropboxpfad="E:/Dropbox/OrbisAsteaDropbox/"
 projektepfad = str_remove(getwd(),"###Orbis")
 
@@ -10,6 +12,9 @@ projektepfad = str_remove(getwd(),"###Orbis")
 ## First Copy the Rmd files from Dropbox to Disk
 
 file.copy(list.files(paste0(dropboxpfad,"Orbis Texte"), ".Rmd", full.names = T),getwd(),recursive = T)
+
+file.copy(list.files(paste0(dropboxpfad,"Orbis Texte","/BookdownData"), full.names = T),
+          paste(getwd(),"BookdownData", sep="/"), recursive = T)
 
 source(paste0(projektepfad,"SmallCodes/KeyIndexErstellen.R")) # Then make The KeyIndex File
 

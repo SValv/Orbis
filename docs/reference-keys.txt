@@ -265,7 +265,7 @@ das-freie-seevolk-und-sein-mangel-an-schmieden
 übersicht
 das-eisland
 ortschaften-der-region
-die-höhle-von-khazak-the-cave-of-khazak
+TheCaveOfKhazak
 Sro
 Roslos
 infrastruktur
@@ -282,8 +282,10 @@ die-flora-und-fauna
 monster-in-der-region
 gerüchte-der-region
 Mantikore
+kultur
 sehenswürdigkeiten
 the-gathering-points-of-the-animali
+feiertage
 Skaen
 ortschaften-der-region-1
 infrastruktur-1

@@ -9,7 +9,7 @@ Eisland ist eine kalte, karge Tundra am Rande der bekannten Welt.Die Region ist 
 
 Aufgrund der tödlichen Natur von Eisland ist es äußerst schwierig, Siedlungen zu errichten. Das Imperium hat versucht, einige Außenposten in der Region zu errichten, aber mit sehr geringem Erfolg. Sie wurden immer wieder von Monstern angegriffen, und es dauerte lange, bis das Imperium und die Animali eine freundschaftliche Beziehung zueinander aufbauten. Trotz der nomadischen Natur der Animali haben sie nur einen Ort, der als der wichtigste Ort für das Volk gilt. Dies ist die Höhle von Khazak. 
 
-### Die Höhle von Khazak {#The cave of Khazak}
+### Die Höhle von Khazak {#TheCaveOfKhazak}
 
 Die Höhle von Khazak befindet sich im westlichen Teil der Region. Die Höhle ist der heiligste Ort für die animali und sie ist auch der Ort, an dem die ursprünglichen Menschen, die sich in animali verwandelten, ursprünglich ankamen. Sie enthält die ursprünglichen Texte, die die animali zu den Wesen gemacht haben, die sie heute sind, und sie ist auch der Ort, an dem der Hauptschamane der animali lebt und mit ihren Göttern kommuniziert. Die Höhle ist auch einer der wenigen Orte, an denen sich die verschiedenen Stämme jedes Jahr versammeln. Einmal im Jahr versammeln sich alle Stämme und halten ein Turnier ab, um herauszufinden, wer zum Hauptschamanen ihres Volkes gewählt wird, was als große Ehre angesehen wird. Während dieser Zeit feiern die Animali auch und beten zu ihrem Gott für das vergangene und kommende Jahr. Bislang hat noch kein einziger Mensch, Zwerg, Goblin oder Elf die Höhle von Khazak gesehen, da die Animali ihren heiligsten Ort im Eisland sehr beschützen.
 
@@ -178,10 +178,18 @@ Die Animali zogen aus dem Eisland in den Krieg gegen diese Abominationen und tö
 Dies war eins der wenigen Male, als eine große Anzahl Animali das Eisland verließ.
 Obwohl auch Rakrak selbst auf ihrer Liste stand, blieb er verschollen und weder die Animali noch sonst irgendwer hat ihn seitdem gesehen.
 
-## Sehenswürdigkeiten
+## Kultur
 
-### The gathering points of the Animali
+### Sehenswürdigkeiten
+
+#### The gathering points of the Animali
 
 
-Einige der sehenswertesten Orte im Eisland gehören zu den Sammelplätzen der Animali. Dazu gehören <font color="green">[The mountaing top of Sro](#Sro)</font> und auch die Orte <font color="green">[The cave of Khazak](#The cave of Khazak)</font>, an denen sich die Animali bekanntlich versammeln. Khazak ist der einzige Ort, an dem sich alle Animali-Stämme jedes Jahr versammeln, und obwohl kein Mensch die Höhle je betreten hat, soll sie eine wahre Augenweide sein.
+Einige der sehenswertesten Orte im Eisland gehören zu den Sammelplätzen der Animali. Dazu gehören <font color="green">[The mountaing top of Sro](#Sro)</font> und auch die Orte <font color="green">[Die Höhle von Khazak](#TheCaveOfKhazak)</font>, an denen sich die Animali bekanntlich versammeln. Khazak ist der einzige Ort, an dem sich alle Animali-Stämme jedes Jahr versammeln, und obwohl kein Mensch die Höhle je betreten hat, soll sie eine wahre Augenweide sein.
+
+### Feiertage
+
+```{r}
+getFeiertage("Eisland")
+```
 

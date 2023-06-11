@@ -109,9 +109,9 @@ Die Animali sind in mehrere Nomadenstämme aufgeteilt, die durch das eiskalte Ö
 Die Animali haben nur einen festen Ort, den sie besetzen.
 Die Höhle von Khazak.
 
-![Manche Animali sind perfekt ans Eisland angepasst[EmkunBearWarrior]](Pictures/Flavor/Animali/by_Emkun_Bear.png)
+![Manche Animali sind perfekt ans Eisland angepasst[^EmkunBearWarrior]](Pictures/Flavor/Animali/by_Emkun_Bear.png)
 
-[EmkunBearWarrior]: "Bear warrior" von [Emkun](https://www.deviantart.com/emkun/art/Bear-warrior-870124071).
+[^EmkunBearWarrior]: "Bear warrior" von [Emkun](https://www.deviantart.com/emkun/art/Bear-warrior-870124071).
     Dieses Artwork steht unter einer Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 License zur Verfügung.
 
 Die einzelnen Stämme werden von einem Schamanen geführt.
@@ -136,9 +136,9 @@ Das Jungtier übernimmt dann bestimmte Merkmale der erlegten Beute und wird dami
 Dies determiniert auch den sozialen Status des Animalus in seinem Stamm.
 Diesen Prozess kann ein Jungtier nur einmal durchlaufen.
 
-![Ein frisch mutierter Animalus, die Mutationen hängen von seiner Beute als Jungtier ab[pendleburyannetteJungtier]](Pictures/Flavor/Animali/Pixaby_Jungtier.png)
+![Ein frisch mutierter Animalus, die Mutationen hängen von seiner Beute als Jungtier ab[^pendleburyannetteJungtier]](Pictures/Flavor/Animali/Pixaby_Jungtier.png)
 
-[pendleburyannetteJungtier]: von [pendleburyannette](https://pixabay.com/de/illustrations/kreatur-werwolf-stand-fu%C3%9F-3d-4955810/).
+[^pendleburyannetteJungtier]: von [pendleburyannette](https://pixabay.com/de/illustrations/kreatur-werwolf-stand-fu%C3%9F-3d-4955810/).
     Dieses Bild zur freien kommerziellen Nutzung zur Verfügung.
 
 
