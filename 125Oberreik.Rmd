@@ -6,9 +6,76 @@ editor_options:
 
 # Die Region Oberreik
 
+![Karte von Oberreik](Pictures/Maps/Oberreik.jpg)
+
 ## Ortschaften der Region
 
+### Kreuzburg
+
+Die Hauptstadt von Oberreik ist Kreuzburg.
+Sie ist der wichtigste Handelsplatz der gesamten Region, da verschiedene Wesen vieler Völker in diese Stadt kommen, um Handel zu betreiben.
+Kreuzburg gilt als einer der wichtigsten Handelsplätze im Imperium, da auf dem Marktplatz viele exotische Waren zu finden sind.
+Es ist nicht nur die Stadt, in die viele der Ska'en-Waren importiert und verkauft werden, sondern auch einer der weihevollen Orte, an dem Händler frische Animali-Waren in die Hände bekommen können.
+Die Stadt ist darüber hinaus berühmt für ihre bekannten Tischler, die das Holz des Zobelwaldes zu den vom Imperium geschätzten Holzwaren verarbeiten.
+
+Obwohl es selten ist, Gruppen von Animali im Imperium anzutreffen, so kann man doch Animali-Karawanen begegnen, die nach Kreuzburg ziehen, wenn man etwas Glück hat.
+Auch lebt Kreuzburg von den Produkten und Arbeitskräften der Orks, die in Oberreik zu finden sind.
+Diese stammen aus der Ork-Hochburg Grurdir.
+Kreuzburg ist darüber hinaus einer der einzigen Orte außerhalb von Ska'en, an dem man große Ansammlungen von *"Ska'en's people" (wir haben gerade kein Wort für das Volk)* antreffen kann, da sich in Kreuzburg eine ihrer einzigen Handelszentralen befindet.
+Obwohl in der Nachbarregion Nors viele Vorurteile über verschiedene Rassen herrschen, gilt Oberreik als eine der tolerantesten Regionen des Reiches.
+Doch diese Einstellung war nicht schon immer so.
+
+### Dul Morgrakh
+
+In the west of the vast Obereik region, nestled among the dense mountains, lies the orcish city Dul Morgrakh belonging to the Gmuth tribe.
+Before the empire migrated into the region, the orcs were the dominant race in the region and they traversed the land and mountains hunting down animals and monsters for various materials.
+Dul Morgrakh is a city steeped in orcish tradition and craftsmanship.
+The city is renowned for producing exquisite items from the horns and bones of the ferocious monsters that roam in the region.
+The few people of the empire who have had the pleasure of seeing the city have given it the nickname city of bones, as the city is adorned with beautiful artisanal products.
+Moreover many elements of the buildings in the city are made out of giant bones further adding to the aesthetics of the city of bones.
+
+In the heart of the city, lies a grand ground adorned with statues of the legendary hunters and leaders of the orcish tribe.
+Carved by the best craftsmen with meticulous detail and a weapon made out of the bones of their strongest prey, these towering monuments serve as a testament to the valor and wisdom of those who have shaped the tribe into what it is today.
+At the forefront of the ground stands the statue of Ohmash the hunter, a legendary figure in the region who bested the stone lord of the mountain, with a greataxe in his left hand and the red gem that he harvested from its head.
+As the sun rises in the morning this gem illuminates the ground with a red shinning light.
+
+### Poysee
+
+Nestled along the azure shores of the ocean, lies the bustling harbor city of Poysee as a testament to the mastery of shipbuilding.
+Renowned throughout the human empire, Poysee is celebrated for its production of magnificent vessels, both crafted with and without the coveted iron-wood---a rare and sturdy found only in the region.
+As one approaches the city from the ocean, the sight of grand shipyards dominates the shore, their busy docks alive with hammers striking wood and saws carving through planks.
+Skilled shipwrights, meticulously shape the timbers, bringing forth the grandes ships, which can be found in the empire.
+
+The city's waterfront teems with life, as fishmongers sells their daily catch, and seagulls swoop and dive, hoping for a morsel.
+Wharves stretch like sturdy arms into the water, where glistening ships stand poised for their next voyage, with many adventures souls wanting to start the adventure into the vast ocean.
+Furthermore many taverns can be found next to the hustling harbour, were some of the best fish are served fresh from the water and were tales and stories can be heard from the many sailors, who have even had encounters with few cityships that dominant the across the ocean.
+
+Nestled within the city of Poysee stands a grand library, an architectural marvel that holds an extraordinary collection of books, stories mysteries from many cultures and races throughout the world.
+A sanctuary for adventure seekers, who seek knowledge of the many mysteries of the world, which cannot be found elsewhere within the empire.
+
+### Vilbirge
+
+Nestled on the outskirts of the majestic Zobel forest, the town of Vilbirge stands as a vital hub in the empire's timber industry.
+Renowned for its proximity to the sole source of iron wood, Vilbirge serves as the primary center where this prized timber is gathered, processed, and distributed throughout the empire.
+
+The Zobel forest, a realm of towering trees, holds within its depths the secrets of the resilient and coveted iron-tree, known for their exceptional strength and durability, yield timber that is highly sought after for construction and craftsmanship.
+Vilbirge, with its strategic location, has become the gateway to this precious resource.
+
+Every day, woodcutters venture deep into the forest, their axes and saws echoing through the ancient trees.
+As they fell the Zobel trees, they risk exposure to a perilous affliction known as the Zobel rot.
+The sickness, a consequence of prolonged contact with the tree's sap, brings suffering and hardship to those unfortunate enough to contract it.
+
+In Vilbirge, a dedicated group of healers and researchers tirelessly work to alleviate the effects of the Zobel rot.
+Herbal remedies and innovative treatments are developed and dispensed to the afflicted, offering hope and relief in the face of this debilitating disease.
+The town has become a center of medical expertise, drawing experts from far and wide to study and combat the Zobel rot.
+
 ### Infrastruktur
+
+The region boasts a modern and well-maintained infrastructure, including an extensive network of recently constructed roads.
+These roads provide efficient travel, connecting villages, towns, and cities while showcasing the region's stunning landscapes.
+With convenient signposts and resting areas, travelers can navigate with ease.
+The region's commitment to sustainability is evident in the thoughtful construction of the roads, blending progress with environmental preservation.
+This infrastructure promotes trade, fosters community collaboration, and invites exploration of the region's natural wonders.
 
 ## Die Geschichte der Region
 
@@ -56,34 +123,73 @@ Viele Historiker sagen, dass nach der Schlacht das erste wahre goldene Zeitalter
 
 ### Die Ressourcen der Region
 
+The most important resource, which can be found in the region is the iron-wood from the Zobel forest.
+It is one of the most sought after types of wood in the entire empire, as it holds many unique properties and is considered to be the strongest type of wood in the entire world.
+Other resources, which makes the region unique are the different types of exotic seafood and pearls, which can be found in the harbour city Poyssee.
+Furthermore Poysee is also known for bringing in various marine, alchemy ingredients such unique seaweed, shells or marine organisms with unique alchemical properties.
+The orcish tribe Gmuth also sells various gemstones, which can be found in their mountains, however they always comes in batches at no specific intervalls and are almost always sold out immediatly.
+
 ## Soziopolitische Lage
 
-### Herrschaftsystem/Organisation
+In the wake of a conflict resolved between the two Servarius brothers, the sociopolitical situation in the region has stabilized, ushering in a period of peace and cooperation.
+This newfound unity has established the region as a beacon of tolerance, welcoming all races within the human empire.
+
+While tensions have eased, some orcs still harbor resentment towards the humans.
+Previously, the orcs hunted the "" monster, which has had an important cultural value to the orcs, but the arrival of humans disrupted their traditions and hunting grounds.
+Cultural frustrations persist among the orcs, but despite the presenting challenge the humans and orcs are both working towards a better future together.
+
+As wounds heal, the region remains committed to building a harmonious society.
+Ongoing dialogue, cultural exchange, and acknowledgment of the past pave the way for coexistence and the stability of the region has attracted scholars, merchants, and artisans, contributing to a flourishing economy and an environment that embraces different perspectives.
 
 ## Klimatische Bedingungen
+
+müssen wir besprechen
 
 ### Die Flora und Fauna
 
 #### Monster in der Region
 
+### Trondon
+
+The Trondon, a creature of awe-inspiring presence, is a sight to behold.
+Towering over the surrounding wilderness, it possesses a muscular physique.
+Its broad shoulders and sinewy limbs suggest immense strength, perfectly suited for the battles it faces in the wild.
+
+The defining feature of the Trondon lies in its magnificent horns.
+Sprouting from its head, these imposing structures curve gracefully, and are used as its main weapon for attacking its enemies.
+
+The hunt for this elusive beast is not only a test of skill but a part of the Gmuth tribe.
+The triumphant hunters gather the majestic horns of the Trondon, which serve as prized materials for orcish craftsmanship.
+
+In the skilled hands of orcish artisans and craftsmen, the horns are transformed into magnificent works of art.
+They are expertly shaped into formidable weapons, such as war axes and ceremonial spears, their powerful symbolism matched only by their functionality.
+The horns also find purpose in the creation of exquisite jewelry, ornamental headdresses, and talismans, each piece reflecting the spirit and strength of the Trondon.
+
+Through their mastery of working with Trondon horns, the orcs preserve the creature's essence and honor its power.
+With every piece crafted, they pay homage to the Trondon, weaving its spirit into their creations and perpetuating the deep bond between the orcish people and the magnificent beasts that roam their lands.
+
 ## Gerüchte der Region
 
+### Fire cultists
+
+Whispers and rumors have begun to circulate throughout the region, hinting at the emergence of fire cult worshippers.
+rumors of their presence drift through taverns, marketplaces, and village squares, igniting both curiosity and concern among the inhabitants.
+
+These worshippers are said to be followers of an ancient and mysterious deity, one whose dominion lies in the destructive power of fire.
+Tales of clandestine gatherings, cloaked figures, and mesmerizing rituals fuel the imagination, giving birth to tales that blend fascination with unease.
+
+While the exact nature and intentions of these fire cult worshippers remain shrouded in uncertainty, their mere existence has sparked apprehension among the populace.
+Some view them with anxiety, fearing the potential chaos and destruction that these cultist can bring to the region.
+
+### Evolving Monster
+
+Rumors have spread of various monster with unnatural mutations appearing thoughout the region.
+Monster who were known for being like ground mammals were suddenly flying in the sky or had tentacles protruding out of their backs.
+It has gotten to the point were the army encounters creatures that they no idea how to handle.
+There have even been sightings of Animali appearing in the region and ferociously killing these monster.
+Many villages have given reports of the Animali appearing aggresively and demanding information on the mutated monsters, often threatening the populace.
+
 ## Sehenswürdigkeiten
-
-### Die Hauptstadt Kreuzburg
-
-Die Hauptstadt von Oberreik ist Kreuzburg.
-Sie ist der wichtigste Handelsplatz der gesamten Region, da verschiedene Wesen vieler Völker in diese Stadt kommen, um Handel zu betreiben.
-Kreuzburg gilt als einer der wichtigsten Handelsplätze im Imperium, da auf dem Marktplatz viele exotische Waren zu finden sind.
-Es ist nicht nur die Stadt, in die viele der Ska'en-Waren importiert und verkauft werden, sondern auch einer der weihevollen Orte, an dem Händler frische Animali-Waren in die Hände bekommen können.
-Die Stadt ist darüber hinaus berühmt für ihre bekannten Tischler, die das Holz des Zobelwaldes zu den vom Imperium geschätzten Holzwaren verarbeiten.
-
-Obwohl es selten ist, Gruppen von Animali im Imperium anzutreffen, so kann man doch Animali-Karawanen begegnen, die nach Kreuzburg ziehen, wenn man etwas Glück hat.
-Auch lebt Kreuzburg von den Produkten und Arbeitskräften der Orks, die in Oberreik zu finden sind.
-Diese stammen aus der Ork-Hochburg Grurdir.
-Kreuzburg ist darüber hinaus einer der einzigen Orte außerhalb von Ska'en, an dem man große Ansammlungen von *"Ska'en's people" (wir haben gerade kein Wort für das Volk)* antreffen kann, da sich in Kreuzburg eine ihrer einzigen Handelszentralen befindet.
-Obwohl in der Nachbarregion Nors viele Vorurteile über verschiedene Rassen herrschen, gilt Oberreik als eine der tolerantesten Regionen des Reiches.
-Doch diese Einstellung war nicht schon immer so.
 
 ## Ein wertvolles Gut - das Eisenholz
 

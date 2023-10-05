@@ -46,16 +46,25 @@ Epinephrinika sind besondere Tränke. sie wecken einen Ohnmächtigen sofort aus 
 
 Die Anzahl an Alchemiechecks pro Downtime wird durch die Effektivität des Brauers bestimmt, diese erhöht sich mit seinen Werkzeugen, je mehr verschiedene Hilfsutensielien desto mehr Checks sind in der gleichen Zeit möglich. Manche Utensilien können sowohl die Anzahl für Handwerkschecks sowie Alchemie Checks erhöhen.
 
-| Werkzeug          | zusätzliche <br>Checks | Gewicht | Preis |                                              Anmerkung                                               |
-|-------------------|:----------------------:|:-------:|:-----:|:----------------------------------------------------------------------------------------------------:|
-| Retorte           |           1            |    1    |       |                                                                                                      |
-| Mörser und Stößl  |           2            |    2    |       |                                                                                                      |
-| Destillierkolben  |           3            |   10    |       |                                                                                                      |
-| Messer            |           1            |   0.5   |       |                           kann auch als Alchemiewerkzeug verwendet werden                            |
-| Feuerkatalysator  |           1            |    1    |       |                           kann auch als Alchemiewerkzeug verwendet werden                            |
-| Drachenatem       |           3            |    3    |       |             Ersetzt Feuerkatalysator<br>kann auch als Alchemiewerkzeug verwendet werden              |
-| Antike Mörser     |           4            |    2    |  --   |                              Ersetzt Mörser; Verwertbar zu T4 Material                               |
-| Mörser der Götter |           4            |    2    |  --   | Ersetzt Mörser steigert für Alchemiechecks Intelligenz, jeder Check geht zu lasten der Geistesstärke |
++-------------------+------------------------+---------+-------+------------------------------------------------------------------------------------------------------+
+| Werkzeug          | zusätzliche <br>Checks | Gewicht | Preis | Anmerkung                                                                                            |
++===================+:======================:+:=======:+:=====:+:====================================================================================================:+
+| Retorte           | 1                      | 1       |       |                                                                                                      |
++-------------------+------------------------+---------+-------+------------------------------------------------------------------------------------------------------+
+| Mörser und Stößl  | 2                      | 2       |       |                                                                                                      |
++-------------------+------------------------+---------+-------+------------------------------------------------------------------------------------------------------+
+| Destillierkolben  | 3                      | 10      |       |                                                                                                      |
++-------------------+------------------------+---------+-------+------------------------------------------------------------------------------------------------------+
+| Messer            | 1                      | 0.5     |       | kann auch als Alchemiewerkzeug verwendet werden                                                      |
++-------------------+------------------------+---------+-------+------------------------------------------------------------------------------------------------------+
+| Feuerkatalysator  | 1                      | 1       |       | kann auch als Alchemiewerkzeug verwendet werden                                                      |
++-------------------+------------------------+---------+-------+------------------------------------------------------------------------------------------------------+
+| Drachenatem       | 3                      | 3       |       | Ersetzt Feuerkatalysator<br>kann auch als Alchemiewerkzeug verwendet werden                          |
++-------------------+------------------------+---------+-------+------------------------------------------------------------------------------------------------------+
+| Antike Mörser     | 4                      | 2       | --    | Ersetzt Mörser; Verwertbar zu T4 Material                                                            |
++-------------------+------------------------+---------+-------+------------------------------------------------------------------------------------------------------+
+| Mörser der Götter | 4                      | 2       | --    | Ersetzt Mörser steigert für Alchemiechecks Intelligenz, jeder Check geht zu lasten der Geistesstärke |
++-------------------+------------------------+---------+-------+------------------------------------------------------------------------------------------------------+
 
 : Werkzeuge der Alchemie
 
@@ -84,16 +93,25 @@ Die Anzahl der möglichen Checks wird dabei vom Werkzeug des Handwerkers bestimm
 
 Die Anzahl an Handwerkschecks pro Downtime wird durch die Effektivität des Handwerkers bestimmt, diese erhöht sich mit seinen Werkzeugen, je mehr verschiedene Hilfsutensielien desto mehr Checks sind in der gleichen Zeit möglich. Manche Utensilien können sowohl die Anzahl für Handwerkschecks sowie Alchemie Checks erhöhen.
 
-| Werkzeug              | zusätzliche <br>Checks | Gewicht | Preis |                                               Anmerkung                                                |
-|-----------------------|:----------------------:|:-------:|:-----:|:------------------------------------------------------------------------------------------------------:|
-| Zange                 |           1            |    1    |       |                                                                                                        |
-| Hammer                |           2            |    2    |       |                                                                                                        |
-| Amboss                |           3            |   10    |       |                                                                                                        |
-| Messer                |           1            |   0.5   |       |                            kann auch als Alchemiewerkzeug verwendet werden                             |
-| Feuerkatalysator      |           1            |    1    |       |                            kann auch als Alchemiewerkzeug verwendet werden                             |
-| Drachenatem           |           3            |    3    |       |              Ersetzt Feuerkatalysator<br>kann auch als Alchemiewerkzeug verwendet werden               |
-| Antiker Zwergenhammer |           4            |    2    |  --   |                               Ersetzt Hammer; Verwertbar zu T4 Material                                |
-| Hammer der Götter     |           4            |    2    |  --   | Ersetzt Hammer; steigert für Handwerkschecks Intelligenz, jeder Check geht zu lasten der Geistesstärke |
++-----------------------+------------------------+---------+-------+--------------------------------------------------------------------------------------------------------+
+| Werkzeug              | zusätzliche <br>Checks | Gewicht | Preis | Anmerkung                                                                                              |
++=======================+:======================:+:=======:+:=====:+:======================================================================================================:+
+| Zange                 | 1                      | 1       |       |                                                                                                        |
++-----------------------+------------------------+---------+-------+--------------------------------------------------------------------------------------------------------+
+| Hammer                | 2                      | 2       |       |                                                                                                        |
++-----------------------+------------------------+---------+-------+--------------------------------------------------------------------------------------------------------+
+| Amboss                | 3                      | 10      |       |                                                                                                        |
++-----------------------+------------------------+---------+-------+--------------------------------------------------------------------------------------------------------+
+| Messer                | 1                      | 0.5     |       | kann auch als Alchemiewerkzeug verwendet werden                                                        |
++-----------------------+------------------------+---------+-------+--------------------------------------------------------------------------------------------------------+
+| Feuerkatalysator      | 1                      | 1       |       | kann auch als Alchemiewerkzeug verwendet werden                                                        |
++-----------------------+------------------------+---------+-------+--------------------------------------------------------------------------------------------------------+
+| Drachenatem           | 3                      | 3       |       | Ersetzt Feuerkatalysator<br>kann auch als Alchemiewerkzeug verwendet werden                            |
++-----------------------+------------------------+---------+-------+--------------------------------------------------------------------------------------------------------+
+| Antiker Zwergenhammer | 4                      | 2       | --    | Ersetzt Hammer; Verwertbar zu T4 Material                                                              |
++-----------------------+------------------------+---------+-------+--------------------------------------------------------------------------------------------------------+
+| Hammer der Götter     | 4                      | 2       | --    | Ersetzt Hammer; steigert für Handwerkschecks Intelligenz, jeder Check geht zu lasten der Geistesstärke |
++-----------------------+------------------------+---------+-------+--------------------------------------------------------------------------------------------------------+
 
 : Werkzeuge des Handwerks
 
@@ -168,6 +186,42 @@ Angriffsziel bedeutet dass man von einem oder mehreren Zielen auswählen kann, w
 Single Action gibt den Zielen eine zusätzliche single Action, falls das Lied motivierend war und nimmt die single Action, falls das Lied demotivierend war - die zufallsbasierte Verteidigungschance bleibt dabei unberührt.
 
 Lieder bekommt man indem man selbst viel übt und spielt. Worum sich diese Lieder drehen legt der Spieler fest, wobei ihm aber Genre, Tier und ob es sich um ein motivierendes oder demotivierendes Lied handelt vorgegeben wird. Dies kann bei Performance-Checks oder beim [Training](#Training) passieren. Zusätzlich können Lieder ab und zu in der lokalen Taverne gegen eine Aufwandsentschädigung erlernt werden.
+
+## Handel
+
+In der Welt von Orbis Astea werden Schweiss und Tränen für den großen Gewinn nicht nicht nur auf dem Schlachtfeld vergossen. Ebenso große Siege kann mit etwas Glück auch ein geschickter Händler erzielen.
+
+Bei dieser nebenaktivität die hauptsächlich in der Downtime und am Anfang von Sessions ausgeübt wird ist jeder Spieler seines eigenen Glückesschmied. Diverse Handelswaren können im Regionalen Handelskontor erworben oder verkauft werden, seien es nun unter Blutvergießen erworbenen Monstertrophäen, geschickte Handwerksarbeiten des Schmieds der Gruppe oder hochpreisiger Wein von den Hängen der Himmelsspitzen. Doch seit gewarnt die Preise dieser Güter sind kein feststehender Betrag wie es für bei normalen Items der Fall ist, die Preise ändern sich quasi täglich. Man muss jedoch nicht fürchten das der Schatz des einen Tages wertloser Plunder am nächsten ist, jedoch Schwanken die Preise mancher Waren mehr als andere.
+
+Das Regionale Handelskontor steht allen Spielern so wie andere Händler jederzeit offnen, kann jedoch im gegenzug zu den anderen Händlern nicht über eine Excel Datei bedient werden sondern nur in Interaktion mit dem DM in der DM-App. Da jeder Händler unterschiedlich viel Waren anbieten kann und auch nur einen begrenzt gefüllten Geldbeutel bestitzt, dieser lässt sich natürlich aber leicht mit dem kauf von Waren aufstocken.
+
+Handelswaren werden in 1KG Einheiten verkauft.
+
+### Handelswaren
+
++--------------------+------------+-----------------+------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------+
+| Handelswaren       | Startpreis | Preisschwankung | Beschaffung                                                                              | Beschreibung                                                                                                          |
++====================+============+=================+==========================================================================================+=======================================================================================================================+
+| Schmiedewaren      | 200        | Mittel          | Aus T1 Material geschmiedet, zwischen 1-10 Stück Pro herstellung möglich                 | Eisenwaren wie Schaufeln, Mistgabeln und co.                                                                          |
++--------------------+------------+-----------------+------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------+
+| Edelmetalle        | 300        | Hoch            | Seien es nun Minen oder Flüsse diese Metalle findest du nur mit Glück und harter Arbeit. | Gold, Silber und weitere Seltene aber nutzlose Erze.                                                                  |
++--------------------+------------+-----------------+------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------+
+| Schmuck            | 1000       | sehr Hoch       | Aus Edelmetallen Hergestellt. 1KG=1KG Schmuck bei erfolgreichen Schmieden                | Gold und Silberschmuck feinster Qualität.                                                                             |
++--------------------+------------+-----------------+------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------+
+| Vorräte            | 50         | sehr niedrig    | Kann in der Downtime Erjagt werden.                                                      | Alles was ein Abenteurer zu seiner Versorgung braucht.                                                                |
++--------------------+------------+-----------------+------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------+
+| Monsterkurisitäten | 500        | sehr Hoch       | Wer Monsterjagt wird mit etwas Glück eine Trophäe nach Hause bringen.                    | Sei es jetzt ein Werwolfschädel oder ein Drachenhorn, alles das Interesse weckt kann verkauft werden.                 |
++--------------------+------------+-----------------+------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------+
+| Gewürze            | 800        | Hoch            | Industriell Hergestellt                                                                  | die Würze im Leben sei es nun Salz oder seltener Pfeffer, was auch immer der Gaumen begehrt.                          |
++--------------------+------------+-----------------+------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------+
+| Stoffe             | 200        | Mittel          | Industriell Hergestellt                                                                  | Seltene Seiden und andere Stoffe                                                                                      |
++--------------------+------------+-----------------+------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------+
+| Alkohol            | 100        | Mittel          | Industriell Hergestellt                                                                  | Edle Tropfen seien es nun Hochwertige Weine von den Berghängen oder hochprotzeniger Schnaps von den Norsen Highlands. |
++--------------------+------------+-----------------+------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------+
+
+### Regionale Unterschiede
+
+Eine kleiner Händler der sich in seinem Dorf zur Ruhe gesetzt hat kann immer noch gutes Geld mit dem Handel erzielen, jedoch die wahren großen Gewinne liegen bei fahrenden Händlern die Geschickt die Preis unterschiede der Nachfrage in verschiedenen Regionen auszunutzen Wissen. So wird einem teurer Schmuck im Herzland von den Edlen Damen quasi aus der Handgerissen aber ebenso werden in den mit Weizen gefüllten Tälern von Yondalla die Händler wenig mit euren Vorräten anzufangen Wissen.
 
 ## Der Krieg auf See
 
@@ -340,18 +394,29 @@ Die Galeone fährt für gewöhnlich mit einer Begleitflotte und ist trotz ihrer 
 
 <small> <small>
 
-|   Fahrt    |  Art  | Mannschaftsgröße |  Vorrat   | Passagierzahl | Tiefgang | Geschwindigkeit | Profilhöhe |
-|:----------:|:-----:|:----------------:|:---------:|:-------------:|:--------:|:---------------:|:----------:|
-|   Barke    | Ruder |        1         |  0 Tage   |       7       |  20 cm   |        7        |    40cm    |
-|   Kutter   | Segel |        1         |   1 Tag   |       9       |   40cm   |        9        |    70cm    |
-|   Bireme   | Ruder |        40        |  4 Tage   |      40       |   80cm   |       10        |     2m     |
-|   Brigg    | Segel |        10        | 2 Wochen  |      80       |  1.2 m   |       15        |     5m     |
-| Langschiff | Segel |        40        |  8 Tage   |      110      |   80cm   |       17        |     3m     |
-|  Galeere   | Ruder |        80        |  5 Tage   |      90       |    1m    |       12        |     4m     |
-|  Fregatte  | Segel |        30        | 8 Wochen  |      80       |    3m    |       18        |     7m     |
-|  Trireme   | Ruder |       130        |  6 Tage   |      160      |   1.5m   |       14        |     5m     |
-| Karavelle  | Segel |        45        | 10 Wochen |      140      |   4.5m   |       20        |     9m     |
-|  Galeone   | Segel |        60        | 8 Wochen  |      320      |    6m    |       16        |    20m     |
++------------+-------+------------------+-----------+---------------+----------+-----------------+------------+
+| Fahrt      | Art   | Mannschaftsgröße | Vorrat    | Passagierzahl | Tiefgang | Geschwindigkeit | Profilhöhe |
++:==========:+:=====:+:================:+:=========:+:=============:+:========:+:===============:+:==========:+
+| Barke      | Ruder | 1                | 0 Tage    | 7             | 20 cm    | 7               | 40cm       |
++------------+-------+------------------+-----------+---------------+----------+-----------------+------------+
+| Kutter     | Segel | 1                | 1 Tag     | 9             | 40cm     | 9               | 70cm       |
++------------+-------+------------------+-----------+---------------+----------+-----------------+------------+
+| Bireme     | Ruder | 40               | 4 Tage    | 40            | 80cm     | 10              | 2m         |
++------------+-------+------------------+-----------+---------------+----------+-----------------+------------+
+| Brigg      | Segel | 10               | 2 Wochen  | 80            | 1.2 m    | 15              | 5m         |
++------------+-------+------------------+-----------+---------------+----------+-----------------+------------+
+| Langschiff | Segel | 40               | 8 Tage    | 110           | 80cm     | 17              | 3m         |
++------------+-------+------------------+-----------+---------------+----------+-----------------+------------+
+| Galeere    | Ruder | 80               | 5 Tage    | 90            | 1m       | 12              | 4m         |
++------------+-------+------------------+-----------+---------------+----------+-----------------+------------+
+| Fregatte   | Segel | 30               | 8 Wochen  | 80            | 3m       | 18              | 7m         |
++------------+-------+------------------+-----------+---------------+----------+-----------------+------------+
+| Trireme    | Ruder | 130              | 6 Tage    | 160           | 1.5m     | 14              | 5m         |
++------------+-------+------------------+-----------+---------------+----------+-----------------+------------+
+| Karavelle  | Segel | 45               | 10 Wochen | 140           | 4.5m     | 20              | 9m         |
++------------+-------+------------------+-----------+---------------+----------+-----------------+------------+
+| Galeone    | Segel | 60               | 8 Wochen  | 320           | 6m       | 16              | 20m        |
++------------+-------+------------------+-----------+---------------+----------+-----------------+------------+
 
 </small> </small>
 
@@ -514,16 +579,25 @@ Während der Downtime lädt sich die Batterie zu 100% von selbst wieder auf.
 
 ### Anwendungen für Ladungen
 
++------------------------------+--------------------------------------------------------------------+------------------------------------------+
 | 1 Ladung (Standartanwendung) | 1 Ladung (nur mit Addons)                                          | 2 Ladungen                               |
-|------------------------------|--------------------------------------------------------------------|------------------------------------------|
++==============================+====================================================================+==========================================+
 | Angriff                      | Schützen (für jemanden Blocken)                                    | Schwerer Angriff mit jeder Nahkampfwaffe |
++------------------------------+--------------------------------------------------------------------+------------------------------------------+
 | Sprint                       | Rammen                                                             | Besondere Waffentypen                    |
++------------------------------+--------------------------------------------------------------------+------------------------------------------+
 | Blocken                      | umwerfen (Grappling)                                               |                                          |
++------------------------------+--------------------------------------------------------------------+------------------------------------------+
 | Dodgen                       | Verbaute Attilerie Nutzung                                         |                                          |
++------------------------------+--------------------------------------------------------------------+------------------------------------------+
 | Klettern                     | Seilwerfer                                                         |                                          |
++------------------------------+--------------------------------------------------------------------+------------------------------------------+
 |                              | Rauchwerfer                                                        |                                          |
++------------------------------+--------------------------------------------------------------------+------------------------------------------+
 |                              | Bolawerfer                                                         |                                          |
++------------------------------+--------------------------------------------------------------------+------------------------------------------+
 |                              | \*Alle weitere Funktionen die nicht expliziet 2 Ladungen erfordern |                                          |
++------------------------------+--------------------------------------------------------------------+------------------------------------------+
 
 ### Vehikel Fähigkeit {#VehikelFähigkeitKonstrukt}
 
@@ -702,14 +776,21 @@ Außerdem können während der Session Essenzen genutzt werden, um die Batterie 
 
 *Grundpreis: 5.000*
 
++---------------+--------------------------+-------------------------------+---------------------------------------------+
 | Ladungsanzahl | Preis pro Ladung (Reiks) | Gesamt (inklusive Grundpreis) | Verbesserungsschwierigkeit (Handwerkscheck) |
-|---------------|--------------------------|-------------------------------|---------------------------------------------|
++===============+==========================+===============================+=============================================+
 | 1-5           | 500                      | 7500                          | 1,5                                         |
++---------------+--------------------------+-------------------------------+---------------------------------------------+
 | 6-10          | 1.000                    | 12500                         | 2,3                                         |
++---------------+--------------------------+-------------------------------+---------------------------------------------+
 | 11-15         | 1.500                    | 20.000                        | 3                                           |
++---------------+--------------------------+-------------------------------+---------------------------------------------+
 | 16-20         | 2.000                    | 30.000                        | 4                                           |
++---------------+--------------------------+-------------------------------+---------------------------------------------+
 | 21-30         | 5000                     | 155.000                       | 5                                           |
++---------------+--------------------------+-------------------------------+---------------------------------------------+
 | 31-50         | 6000                     | 355.000                       | 6                                           |
++---------------+--------------------------+-------------------------------+---------------------------------------------+
 
 ### Batterie in Session Aufladen
 
