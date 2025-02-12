@@ -4,7 +4,7 @@ editor_options:
     wrap: sentence
 ---
 
-## Einführung
+# Die Goblins
 
 > "Diese kleinen und irgendwie hässlichen Wesen, sind weder robust noch stark, doch all diese Unfähigkeiten gleichen sie durch ihre agile und hinterhältige Natur aus. Goblins brillieren, wo andere Rassen verzweifeln - nachts und in dunklen Tunneln. Nur jene, die noch nie auf eine Horde Goblins getroffen sind, halten Elfen für die Könige der Nacht. Denn im Unterschied zu den Elfen gibt es vor den Goblins kein Verstecken."
 >
@@ -72,7 +72,8 @@ Je nach Vraik Saik ist auch das Verhältnis zu den anderen Humanoiden, friedlich
 > --- Die letzten Gedanken von Brago Tachus, Abenteurer
 
 
-# Ablauf eines Tages eines typischen Goblins:
+## Ablauf eines Tages eines typischen Goblins:
+
 Durch das Leben Untertage haben die meisten Goblins andere Rhythmen, welche nicht durch den Wechsel von Tag Nacht oder Winter/Sommer geprägt sind. Vielmehr besteht das Leben aus einem, idealerweise freiwilligen Wechsel von Schlafenzeiten, Ruhezeiten und Arbeitszeiten. Zumeist erfordert allerdings die Arbeit straffere Organisation. Diese wird in Schichten geführt und von der Fackelfarbe in der Haupthöhle bestimmt. Wenn die Farbe der Fackel der Farbe des Schultertattoos übereinstimmt, ist Arbeit angesagt. Dadurch kann, solange kein Goblin sein Tattoo übermalt, gut überprüft werden, wer wann zu Arbeiten hat. So beginnt, nach dem Aufwachen der „Tag“ meist mit einem einfachen Frühstück und dann dem Weg zur Arbeit der Gruppe, sei dies nun das Leben eines Ernters oder das eines Dreckschauflers. Dort wird über etliche Stunden die Arbeit verrichtet, bis die Müdigkeit oder Erschlaffung einsetzt. Ob die Arbeitsleistung reicht, entschließt meist die der Häuptling oder sein Gefolge.. Hierbei sind die Goblins untereinander erstaunlich ehrlich und betrügen selten ihre eigenen Gruppen.
 
 In diesen Pausen finden auch die Wechsel der Arbeitsgruppen statt. Nach der Arbeit, kehren die Goblins zurück zu den Haupthöhlen, waschen sich in den Steinpools und kehren für kurze Zeit in Schlafbereiche zurück, wo diese dösen. Anschließend folgt in der Kultstätte „Lotrat“, was ähnlich ist zu dem Tempel und Kirchen der Rahkari und Lehre des Allgotts, ein „Abendgebet“. Daraufhin ziehen sich die Goblins für den richtigen Schlaf zurück in ihre Schlafhöhle. In dieser Schlafhöhle, welche eine rund 4 Meter Tiefe Ausbuchtung in den Felsen darstellt, schlafen die Goblins dann mit ihren engsten Mitgoblins. Hierbei handelt es sich immer um dieselben Mitglieder der eigenen Arbeitsgruppen.

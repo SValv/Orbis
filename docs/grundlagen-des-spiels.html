@@ -6,7 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <title>Kapitel 51 Grundlagen des Spiels | Orbis Astea</title>
   <meta name="description" content="Kapitel 51 Grundlagen des Spiels | Orbis Astea" />
-  <meta name="generator" content="bookdown 0.27 and GitBook 2.6.7" />
+  <meta name="generator" content="bookdown 0.42 and GitBook 2.6.7" />
 
   <meta property="og:title" content="Kapitel 51 Grundlagen des Spiels | Orbis Astea" />
   <meta property="og:type" content="book" />
@@ -20,7 +20,7 @@
   
   
 
-<meta name="author" content="DM-App Version: 3.7" />
+<meta name="author" content="DM-App Version: 3.75" />
 
 
 
@@ -51,30 +51,30 @@
 <link href="libs/anchor-sections-1.1.0/anchor-sections.css" rel="stylesheet" />
 <link href="libs/anchor-sections-1.1.0/anchor-sections-hash.css" rel="stylesheet" />
 <script src="libs/anchor-sections-1.1.0/anchor-sections.js"></script>
-<script src="libs/htmlwidgets-1.5.4/htmlwidgets.js"></script>
+<script src="libs/htmlwidgets-1.6.4/htmlwidgets.js"></script>
 <link href="libs/leaflet-1.3.1/leaflet.css" rel="stylesheet" />
 <script src="libs/leaflet-1.3.1/leaflet.js"></script>
 <link href="libs/leafletfix-1.0.0/leafletfix.css" rel="stylesheet" />
 <script src="libs/proj4-2.6.2/proj4.min.js"></script>
 <script src="libs/Proj4Leaflet-1.0.1/proj4leaflet.js"></script>
 <link href="libs/rstudio_leaflet-1.3.1/rstudio_leaflet.css" rel="stylesheet" />
-<script src="libs/leaflet-binding-2.0.4.1/leaflet.js"></script>
+<script src="libs/leaflet-binding-2.2.2/leaflet.js"></script>
 <link href="libs/leaflet-measure-2.1.7/leaflet-measure.css" rel="stylesheet" />
 <script src="libs/leaflet-measure-2.1.7/leaflet-measure.min.js"></script>
 <link href="libs/lfx-fullscreen-1.0.2/lfx-fullscreen-prod.css" rel="stylesheet" />
 <script src="libs/lfx-fullscreen-1.0.2/lfx-fullscreen-prod.js"></script>
-<script src="libs/fuse_js-3.2.0/fuse_js-prod.js"></script>
-<link href="libs/lfx-search-2.3.7/lfx-search-prod.css" rel="stylesheet" />
-<script src="libs/lfx-search-2.3.7/lfx-search-prod.js"></script>
-<script src="libs/lfx-search-2.3.7/lfx-search-bindings.js"></script>
-<link href="libs/lfx-draw-1.0.2/lfx-draw-prod.css" rel="stylesheet" />
-<script src="libs/lfx-draw-1.0.2/lfx-draw-prod.js"></script>
-<script src="libs/lfx-draw-1.0.2/lfx-draw-bindings.js"></script>
-<script src="libs/lfx-draw-drag-1.0.2/lfx-draw-drag-prod.js"></script>
+<script src="libs/fuse_js-7.0.0/fuse_js-prod.js"></script>
+<link href="libs/lfx-search-4.0.0/lfx-search-prod.css" rel="stylesheet" />
+<script src="libs/lfx-search-4.0.0/lfx-search-prod.js"></script>
+<script src="libs/lfx-search-4.0.0/lfx-search-bindings.js"></script>
+<link href="libs/lfx-draw-1.0.4/lfx-draw-prod.css" rel="stylesheet" />
+<script src="libs/lfx-draw-1.0.4/lfx-draw-prod.js"></script>
+<script src="libs/lfx-draw-1.0.4/lfx-draw-bindings.js"></script>
+<script src="libs/lfx-draw-drag-0.4.8/lfx-draw-drag-prod.js"></script>
 <link href="libs/visjs-7.4.9/vis-timeline-graph2d.min.css" rel="stylesheet" />
 <script src="libs/visjs-7.4.9/vis-timeline-graph2d.min.js"></script>
 <link href="libs/timeline-0.4/timevis.css" rel="stylesheet" />
-<script src="libs/timevis-binding-2.0.0/timevis.js"></script>
+<script src="libs/timevis-binding-2.1.0/timevis.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
 <script src="libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
@@ -90,14 +90,19 @@
        code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
        pre:not([class]) { background-color: white }</style>
 <script src="libs/core-js-2.5.3/shim.min.js"></script>
-<script src="libs/react-17.0.0/react.min.js"></script>
-<script src="libs/react-17.0.0/react-dom.min.js"></script>
+<script src="libs/react-18.2.0/react.min.js"></script>
+<script src="libs/react-18.2.0/react-dom.min.js"></script>
 <script src="libs/reactwidget-1.0.0/react-tools.js"></script>
-<script src="libs/reactable-binding-0.3.0/reactable.js"></script>
+<link href="libs/reactable-0.4.4/reactable.css" rel="stylesheet" />
+<script src="libs/reactable-binding-0.4.4/reactable.js"></script>
 <link rel="shortcut icon" href="E:\\User\\icn.png" />
 
 
 
+<style type="text/css">
+  
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+</style>
 
 <link rel="stylesheet" href="style.css" type="text/css" />
 </head>
@@ -180,32 +185,30 @@
 <li class="chapter" data-level="6.5.1" data-path="die-orks.html"><a href="die-orks.html#themadorc---verehrer-der-götzen"><i class="fa fa-check"></i><b>6.5.1</b> Themadorc - Verehrer der Götzen</a></li>
 <li class="chapter" data-level="6.5.2" data-path="die-orks.html"><a href="die-orks.html#umchrug-hal---der-riese-von-grimgrod"><i class="fa fa-check"></i><b>6.5.2</b> Umchrug-Hal - der Riese von Grimgrod</a></li>
 </ul></li>
-<li class="chapter" data-level="6.6" data-path="die-orks.html"><a href="die-orks.html#einführung-1"><i class="fa fa-check"></i><b>6.6</b> Einführung</a>
-<ul>
-<li class="chapter" data-level="6.6.1" data-path="die-orks.html"><a href="die-orks.html#sammler-die-sucher-in-der-finsternis"><i class="fa fa-check"></i><b>6.6.1</b> Sammler – Die Sucher in der Finsternis</a></li>
-<li class="chapter" data-level="6.6.2" data-path="die-orks.html"><a href="die-orks.html#ernter-bauern-der-goblins"><i class="fa fa-check"></i><b>6.6.2</b> Ernter – Bauern der Goblins</a></li>
-<li class="chapter" data-level="6.6.3" data-path="die-orks.html"><a href="die-orks.html#faask-versorger-versorgung-des-nachwuchses"><i class="fa fa-check"></i><b>6.6.3</b> Faask Versorger – Versorgung des Nachwuchses</a></li>
-<li class="chapter" data-level="6.6.4" data-path="die-orks.html"><a href="die-orks.html#dreckschaufler-minenarbeiter"><i class="fa fa-check"></i><b>6.6.4</b> Dreckschaufler – Minenarbeiter</a></li>
-<li class="chapter" data-level="6.6.5" data-path="die-orks.html"><a href="die-orks.html#die-krieger"><i class="fa fa-check"></i><b>6.6.5</b> Die Krieger</a></li>
 </ul></li>
-<li class="chapter" data-level="6.7" data-path="die-orks.html"><a href="die-orks.html#die-höheren-positionen-in-den-stämmen"><i class="fa fa-check"></i><b>6.7</b> Die höheren Positionen in den Stämmen</a>
+<li class="chapter" data-level="7" data-path="die-goblins.html"><a href="die-goblins.html"><i class="fa fa-check"></i><b>7</b> Die Goblins</a>
 <ul>
-<li class="chapter" data-level="6.7.1" data-path="die-orks.html"><a href="die-orks.html#sammler-der-faasksitaaren"><i class="fa fa-check"></i><b>6.7.1</b> Sammler der Faasksitaaren</a></li>
-<li class="chapter" data-level="6.7.2" data-path="die-orks.html"><a href="die-orks.html#schamanenhelfer-diener-von-gobs-willen"><i class="fa fa-check"></i><b>6.7.2</b> Schamanenhelfer – Diener von Gobs Willen</a></li>
-<li class="chapter" data-level="6.7.3" data-path="die-orks.html"><a href="die-orks.html#die-wachen-der-faasksitaare"><i class="fa fa-check"></i><b>6.7.3</b> Die Wachen der Faasksitaare</a></li>
-<li class="chapter" data-level="6.7.4" data-path="die-orks.html"><a href="die-orks.html#die-stammesmutter--faasksitaar"><i class="fa fa-check"></i><b>6.7.4</b> Die Stammesmutter- Faasksitaar</a></li>
-</ul></li>
-<li class="chapter" data-level="6.8" data-path="die-orks.html"><a href="die-orks.html#stämme-mit-und-ohne-faasksitaare-gob-saiks-und-vraksaiks."><i class="fa fa-check"></i><b>6.8</b> Stämme mit und ohne Faasksitaare – Gob Saiks und VrakSaiks.</a>
+<li class="chapter" data-level="7.0.1" data-path="die-goblins.html"><a href="die-goblins.html#sammler-die-sucher-in-der-finsternis"><i class="fa fa-check"></i><b>7.0.1</b> Sammler – Die Sucher in der Finsternis</a></li>
+<li class="chapter" data-level="7.0.2" data-path="die-goblins.html"><a href="die-goblins.html#ernter-bauern-der-goblins"><i class="fa fa-check"></i><b>7.0.2</b> Ernter – Bauern der Goblins</a></li>
+<li class="chapter" data-level="7.0.3" data-path="die-goblins.html"><a href="die-goblins.html#faask-versorger-versorgung-des-nachwuchses"><i class="fa fa-check"></i><b>7.0.3</b> Faask Versorger – Versorgung des Nachwuchses</a></li>
+<li class="chapter" data-level="7.0.4" data-path="die-goblins.html"><a href="die-goblins.html#dreckschaufler-minenarbeiter"><i class="fa fa-check"></i><b>7.0.4</b> Dreckschaufler – Minenarbeiter</a></li>
+<li class="chapter" data-level="7.0.5" data-path="die-goblins.html"><a href="die-goblins.html#die-krieger"><i class="fa fa-check"></i><b>7.0.5</b> Die Krieger</a></li>
+<li class="chapter" data-level="7.1" data-path="die-goblins.html"><a href="die-goblins.html#die-höheren-positionen-in-den-stämmen"><i class="fa fa-check"></i><b>7.1</b> Die höheren Positionen in den Stämmen</a>
 <ul>
-<li class="chapter" data-level="6.8.1" data-path="die-orks.html"><a href="die-orks.html#gob-saiks"><i class="fa fa-check"></i><b>6.8.1</b> Gob Saiks</a></li>
-<li class="chapter" data-level="6.8.2" data-path="die-orks.html"><a href="die-orks.html#vrak-saiks"><i class="fa fa-check"></i><b>6.8.2</b> Vrak Saiks</a></li>
+<li class="chapter" data-level="7.1.1" data-path="die-goblins.html"><a href="die-goblins.html#sammler-der-faasksitaaren"><i class="fa fa-check"></i><b>7.1.1</b> Sammler der Faasksitaaren</a></li>
+<li class="chapter" data-level="7.1.2" data-path="die-goblins.html"><a href="die-goblins.html#schamanenhelfer-diener-von-gobs-willen"><i class="fa fa-check"></i><b>7.1.2</b> Schamanenhelfer – Diener von Gobs Willen</a></li>
+<li class="chapter" data-level="7.1.3" data-path="die-goblins.html"><a href="die-goblins.html#die-wachen-der-faasksitaare"><i class="fa fa-check"></i><b>7.1.3</b> Die Wachen der Faasksitaare</a></li>
+<li class="chapter" data-level="7.1.4" data-path="die-goblins.html"><a href="die-goblins.html#die-stammesmutter--faasksitaar"><i class="fa fa-check"></i><b>7.1.4</b> Die Stammesmutter- Faasksitaar</a></li>
 </ul></li>
-</ul></li>
-<li class="chapter" data-level="7" data-path="ablauf-eines-tages-eines-typischen-goblins.html"><a href="ablauf-eines-tages-eines-typischen-goblins.html"><i class="fa fa-check"></i><b>7</b> Ablauf eines Tages eines typischen Goblins:</a>
+<li class="chapter" data-level="7.2" data-path="die-goblins.html"><a href="die-goblins.html#stämme-mit-und-ohne-faasksitaare-gob-saiks-und-vraksaiks."><i class="fa fa-check"></i><b>7.2</b> Stämme mit und ohne Faasksitaare – Gob Saiks und VrakSaiks.</a>
 <ul>
-<li class="chapter" data-level="7.1" data-path="ablauf-eines-tages-eines-typischen-goblins.html"><a href="ablauf-eines-tages-eines-typischen-goblins.html#physiologie-der-goblins"><i class="fa fa-check"></i><b>7.1</b> Physiologie der Goblins</a></li>
-<li class="chapter" data-level="7.2" data-path="ablauf-eines-tages-eines-typischen-goblins.html"><a href="ablauf-eines-tages-eines-typischen-goblins.html#religion-gobs-wille"><i class="fa fa-check"></i><b>7.2</b> Religion – Gobs Wille</a></li>
-<li class="chapter" data-level="7.3" data-path="ablauf-eines-tages-eines-typischen-goblins.html"><a href="ablauf-eines-tages-eines-typischen-goblins.html#beziehungen-zu-den-anderen-rassen"><i class="fa fa-check"></i><b>7.3</b> Beziehungen zu den anderen Rassen</a></li>
+<li class="chapter" data-level="7.2.1" data-path="die-goblins.html"><a href="die-goblins.html#gob-saiks"><i class="fa fa-check"></i><b>7.2.1</b> Gob Saiks</a></li>
+<li class="chapter" data-level="7.2.2" data-path="die-goblins.html"><a href="die-goblins.html#vrak-saiks"><i class="fa fa-check"></i><b>7.2.2</b> Vrak Saiks</a></li>
+</ul></li>
+<li class="chapter" data-level="7.3" data-path="die-goblins.html"><a href="die-goblins.html#ablauf-eines-tages-eines-typischen-goblins"><i class="fa fa-check"></i><b>7.3</b> Ablauf eines Tages eines typischen Goblins:</a></li>
+<li class="chapter" data-level="7.4" data-path="die-goblins.html"><a href="die-goblins.html#physiologie-der-goblins"><i class="fa fa-check"></i><b>7.4</b> Physiologie der Goblins</a></li>
+<li class="chapter" data-level="7.5" data-path="die-goblins.html"><a href="die-goblins.html#religion-gobs-wille"><i class="fa fa-check"></i><b>7.5</b> Religion – Gobs Wille</a></li>
+<li class="chapter" data-level="7.6" data-path="die-goblins.html"><a href="die-goblins.html#beziehungen-zu-den-anderen-rassen"><i class="fa fa-check"></i><b>7.6</b> Beziehungen zu den anderen Rassen</a></li>
 </ul></li>
 <li class="chapter" data-level="8" data-path="CreaturaAnimali.html"><a href="CreaturaAnimali.html"><i class="fa fa-check"></i><b>8</b> Creatura Animali</a>
 <ul>
@@ -658,7 +661,8 @@
 <li class="chapter" data-level="24.1" data-path="nors.html"><a href="nors.html#ortschaften-der-region-3"><i class="fa fa-check"></i><b>24.1</b> Ortschaften der Region</a>
 <ul>
 <li class="chapter" data-level="24.1.1" data-path="nors.html"><a href="nors.html#nors-1"><i class="fa fa-check"></i><b>24.1.1</b> Nors</a></li>
-<li class="chapter" data-level="24.1.2" data-path="nors.html"><a href="nors.html#infrastruktur-3"><i class="fa fa-check"></i><b>24.1.2</b> Infrastruktur</a></li>
+<li class="chapter" data-level="24.1.2" data-path="nors.html"><a href="nors.html#festung-kollag"><i class="fa fa-check"></i><b>24.1.2</b> Festung Kollag:</a></li>
+<li class="chapter" data-level="24.1.3" data-path="nors.html"><a href="nors.html#infrastruktur-3"><i class="fa fa-check"></i><b>24.1.3</b> Infrastruktur</a></li>
 </ul></li>
 <li class="chapter" data-level="24.2" data-path="nors.html"><a href="nors.html#geschichte-von-nors"><i class="fa fa-check"></i><b>24.2</b> Geschichte von Nors</a>
 <ul>
@@ -676,8 +680,18 @@
 <li class="chapter" data-level="24.5.1.1" data-path="nors.html"><a href="nors.html#monster-in-der-region-3"><i class="fa fa-check"></i><b>24.5.1.1</b> Monster in der Region</a></li>
 </ul></li>
 </ul></li>
-<li class="chapter" data-level="24.6" data-path="nors.html"><a href="nors.html#gerüchte-der-region-3"><i class="fa fa-check"></i><b>24.6</b> Gerüchte der Region</a></li>
-<li class="chapter" data-level="24.7" data-path="nors.html"><a href="nors.html#sehenswürdigkeiten-3"><i class="fa fa-check"></i><b>24.7</b> Sehenswürdigkeiten</a></li>
+<li class="chapter" data-level="24.6" data-path="nors.html"><a href="nors.html#gerüchte-der-region-3"><i class="fa fa-check"></i><b>24.6</b> Gerüchte der Region</a>
+<ul>
+<li class="chapter" data-level="24.6.1" data-path="nors.html"><a href="nors.html#the-zephyton-civilization"><i class="fa fa-check"></i><b>24.6.1</b> The Zephyton Civilization</a></li>
+<li class="chapter" data-level="24.6.2" data-path="nors.html"><a href="nors.html#das-lied-des-seefahrers"><i class="fa fa-check"></i><b>24.6.2</b> Das Lied des Seefahrers</a></li>
+<li class="chapter" data-level="24.6.3" data-path="nors.html"><a href="nors.html#der-fluch-des-kaiserreichs"><i class="fa fa-check"></i><b>24.6.3</b> Der Fluch des Kaiserreichs</a></li>
+</ul></li>
+<li class="chapter" data-level="24.7" data-path="nors.html"><a href="nors.html#sehenswürdigkeiten-3"><i class="fa fa-check"></i><b>24.7</b> Sehenswürdigkeiten</a>
+<ul>
+<li class="chapter" data-level="24.7.1" data-path="nors.html"><a href="nors.html#ebbe-und-flut-fest"><i class="fa fa-check"></i><b>24.7.1</b> Ebbe und Flut Fest:</a></li>
+<li class="chapter" data-level="24.7.2" data-path="nors.html"><a href="nors.html#taverne-dunkelstein"><i class="fa fa-check"></i><b>24.7.2</b> Taverne Dunkelstein</a></li>
+<li class="chapter" data-level="24.7.3" data-path="nors.html"><a href="nors.html#wasserschlüssel-gilde"><i class="fa fa-check"></i><b>24.7.3</b> Wasserschlüssel Gilde:</a></li>
+</ul></li>
 <li class="chapter" data-level="24.8" data-path="nors.html"><a href="nors.html#feiertage-der-region"><i class="fa fa-check"></i><b>24.8</b> Feiertage der Region</a>
 <ul>
 <li class="chapter" data-level="24.8.1" data-path="nors.html"><a href="nors.html#kether-tag"><i class="fa fa-check"></i><b>24.8.1</b> Kether-Tag</a></li>
@@ -948,7 +962,11 @@
 <ul>
 <li class="chapter" data-level="32.1" data-path="das-himmelsspitzen-gebirge.html"><a href="das-himmelsspitzen-gebirge.html#ortschaften-der-region-11"><i class="fa fa-check"></i><b>32.1</b> Ortschaften der Region</a>
 <ul>
-<li class="chapter" data-level="32.1.1" data-path="das-himmelsspitzen-gebirge.html"><a href="das-himmelsspitzen-gebirge.html#infrastruktur-11"><i class="fa fa-check"></i><b>32.1.1</b> Infrastruktur</a></li>
+<li class="chapter" data-level="32.1.1" data-path="das-himmelsspitzen-gebirge.html"><a href="das-himmelsspitzen-gebirge.html#irnidormir"><i class="fa fa-check"></i><b>32.1.1</b> Irnidormir</a></li>
+<li class="chapter" data-level="32.1.2" data-path="das-himmelsspitzen-gebirge.html"><a href="das-himmelsspitzen-gebirge.html#hineldur"><i class="fa fa-check"></i><b>32.1.2</b> Hineldur</a></li>
+<li class="chapter" data-level="32.1.3" data-path="das-himmelsspitzen-gebirge.html"><a href="das-himmelsspitzen-gebirge.html#thanahm"><i class="fa fa-check"></i><b>32.1.3</b> Thanahm</a></li>
+<li class="chapter" data-level="32.1.4" data-path="das-himmelsspitzen-gebirge.html"><a href="das-himmelsspitzen-gebirge.html#vigh-boldor"><i class="fa fa-check"></i><b>32.1.4</b> Vigh Boldor</a></li>
+<li class="chapter" data-level="32.1.5" data-path="das-himmelsspitzen-gebirge.html"><a href="das-himmelsspitzen-gebirge.html#infrastruktur-11"><i class="fa fa-check"></i><b>32.1.5</b> Infrastruktur</a></li>
 </ul></li>
 <li class="chapter" data-level="32.2" data-path="das-himmelsspitzen-gebirge.html"><a href="das-himmelsspitzen-gebirge.html#die-geschichte-der-region-11"><i class="fa fa-check"></i><b>32.2</b> Die Geschichte der Region</a></li>
 <li class="chapter" data-level="32.3" data-path="das-himmelsspitzen-gebirge.html"><a href="das-himmelsspitzen-gebirge.html#wirtschaftliche-lage-14"><i class="fa fa-check"></i><b>32.3</b> Wirtschaftliche Lage</a>
@@ -966,8 +984,17 @@
 <li class="chapter" data-level="32.5.1.1" data-path="das-himmelsspitzen-gebirge.html"><a href="das-himmelsspitzen-gebirge.html#monster-in-der-region-12"><i class="fa fa-check"></i><b>32.5.1.1</b> Monster in der Region</a></li>
 </ul></li>
 </ul></li>
-<li class="chapter" data-level="32.6" data-path="das-himmelsspitzen-gebirge.html"><a href="das-himmelsspitzen-gebirge.html#gerüchte-der-region-11"><i class="fa fa-check"></i><b>32.6</b> Gerüchte der Region</a></li>
-<li class="chapter" data-level="32.7" data-path="das-himmelsspitzen-gebirge.html"><a href="das-himmelsspitzen-gebirge.html#sehenswürdigkeiten-12"><i class="fa fa-check"></i><b>32.7</b> Sehenswürdigkeiten</a></li>
+<li class="chapter" data-level="32.6" data-path="das-himmelsspitzen-gebirge.html"><a href="das-himmelsspitzen-gebirge.html#gerüchte-der-region-11"><i class="fa fa-check"></i><b>32.6</b> Gerüchte der Region</a>
+<ul>
+<li class="chapter" data-level="32.6.1" data-path="das-himmelsspitzen-gebirge.html"><a href="das-himmelsspitzen-gebirge.html#durin-the-stoneforger"><i class="fa fa-check"></i><b>32.6.1</b> Durin the Stoneforger</a></li>
+</ul></li>
+<li class="chapter" data-level="32.7" data-path="das-himmelsspitzen-gebirge.html"><a href="das-himmelsspitzen-gebirge.html#sehenswürdigkeiten-12"><i class="fa fa-check"></i><b>32.7</b> Sehenswürdigkeiten</a>
+<ul>
+<li class="chapter" data-level="32.7.1" data-path="das-himmelsspitzen-gebirge.html"><a href="das-himmelsspitzen-gebirge.html#the-blades-of-unity-telarins-bond-and-elaita-embrace"><i class="fa fa-check"></i><b>32.7.1</b> The blades of Unity – Telarin’s bond and Elaita Embrace</a></li>
+<li class="chapter" data-level="32.7.2" data-path="das-himmelsspitzen-gebirge.html"><a href="das-himmelsspitzen-gebirge.html#the-dwarven-construct-brawl"><i class="fa fa-check"></i><b>32.7.2</b> The dwarven Construct Brawl</a></li>
+<li class="chapter" data-level="32.7.3" data-path="das-himmelsspitzen-gebirge.html"><a href="das-himmelsspitzen-gebirge.html#brilglimmer-depths"><i class="fa fa-check"></i><b>32.7.3</b> Brilglimmer Depths</a></li>
+<li class="chapter" data-level="32.7.4" data-path="das-himmelsspitzen-gebirge.html"><a href="das-himmelsspitzen-gebirge.html#the-everlasting-crimson-sky-of-gokhelins-camp"><i class="fa fa-check"></i><b>32.7.4</b> The Everlasting Crimson Sky of Gokhelin’s Camp</a></li>
+</ul></li>
 </ul></li>
 <li class="chapter" data-level="33" data-path="der-nebelhain.html"><a href="der-nebelhain.html"><i class="fa fa-check"></i><b>33</b> Der Nebelhain</a>
 <ul>
@@ -1523,14 +1550,7 @@
 <ul>
 <li class="chapter" data-level="" data-path="die-charaktererstellung.html"><a href="die-charaktererstellung.html#Rassenfähigkeiten"><i class="fa fa-check"></i>Rassenfähigkeiten</a></li>
 </ul></li>
-<li class="chapter" data-level="50.4.2" data-path="die-charaktererstellung.html"><a href="die-charaktererstellung.html#Fähigkeitsverbesserungen"><i class="fa fa-check"></i><b>50.4.2</b> Level- und Fähigkeitsverbesserungen</a>
-<ul>
-<li class="chapter" data-level="" data-path="die-charaktererstellung.html"><a href="die-charaktererstellung.html#kosten-attributsverbesserung"><i class="fa fa-check"></i>Kosten Attributsverbesserung</a></li>
-<li class="chapter" data-level="" data-path="die-charaktererstellung.html"><a href="die-charaktererstellung.html#kosten-gesundheitsverbesserung"><i class="fa fa-check"></i>Kosten Gesundheitsverbesserung</a></li>
-<li class="chapter" data-level="" data-path="die-charaktererstellung.html"><a href="die-charaktererstellung.html#Fähigkeitsverbesserung"><i class="fa fa-check"></i>Kosten Fähigkeitsverbesserung</a></li>
-<li class="chapter" data-level="" data-path="die-charaktererstellung.html"><a href="die-charaktererstellung.html#Fähigkeitsgruppen"><i class="fa fa-check"></i>Kosten Fähigkeitsgruppenverbesserung</a></li>
-<li class="chapter" data-level="" data-path="die-charaktererstellung.html"><a href="die-charaktererstellung.html#kosten-ausdauerverbesserung"><i class="fa fa-check"></i>Kosten Ausdauerverbesserung</a></li>
-</ul></li>
+<li class="chapter" data-level="50.4.2" data-path="die-charaktererstellung.html"><a href="die-charaktererstellung.html#Fähigkeitsverbesserungen"><i class="fa fa-check"></i><b>50.4.2</b> Level- und Fähigkeitsverbesserungen</a></li>
 <li class="chapter" data-level="50.4.3" data-path="die-charaktererstellung.html"><a href="die-charaktererstellung.html#Eigenheiten"><i class="fa fa-check"></i><b>50.4.3</b> Eigenheiten</a>
 <ul>
 <li class="chapter" data-level="" data-path="die-charaktererstellung.html"><a href="die-charaktererstellung.html#positive-eigenheiten"><i class="fa fa-check"></i>Positive Eigenheiten</a></li>
@@ -1922,9 +1942,9 @@
 <p>In Orbis Astea wird - wie in jedem anderen Pen and Paper Rpg - gewürfelt. Bei uns wird dies durch ein Programm übernommen, daher gibt es hier nichts selbst zu rechnen. Trotzdem ist es sehr relevant zu wissen wie welche Probe gewürfelt wird. Für jede Probe gibt es einen sogenannten <a href="die-charaktererstellung.html#Fähigkeiten">Fähigkeiten</a>, der auf die Aktion passt - bspw. <a href="#Bewaffnet">“Bewaffnet”</a> für das Zuschlagen mit einer Waffe oder <a href="die-charaktererstellung.html#Schleichen">“Schleichen”</a> für das Heranschleichen an eine Situation. Die passende Probe zur Aktion wird dann mit der Fähigkeit und dem verbundenen Attribut geworfen - für das Beispiel Schleichen wäre dieses “Agilität”.</p>
 <p>Attribute stellen hierbei immer körperliche Eigenschaften dar, z.B. hätte ein Spitzensportler einen Wert in seinem spezialisierten Attribut von 17-18, ein Attribut von 20 käme einem Halbgott gleich. Gleiches zählt auch bei den Fähigkeiten, bei denen die “Besten” zwischen 75 und 85 liegen. Der Durchschnitt der Fähigkeiten liegt bei 20 und der der Attribute bei 10.</p>
 <p>Hier eine schematische Darstellung über die Fähigkeiten und die damit Verbundenen Attribute:</p>
-<div class="figure">
-<img src="Pictures/Rules/AttrSkills.png" width="697" alt="" />
-<p class="caption">Zum schnelleren sehen einfach auf die Farben achten</p>
+<div class="float">
+<img src="Pictures/Rules/AttrSkills.png" width="697" alt="Zum schnelleren sehen einfach auf die Farben achten" />
+<div class="figcaption">Zum schnelleren sehen einfach auf die Farben achten</div>
 </div>
 <p>Wie man sieht, passiert es manchmal, dass einer Fähigkeit mehrere Attribute zugeordnet sind. In diesem Fall nimmt man den Durchschnitt der Attribute und rundet auf die nächste ganze Zahl auf.</p>
 <div id="die-einfache-probe" class="section level3 hasAnchor" number="51.1.1">
@@ -2088,9 +2108,9 @@
 <p>Parieren wird wie ein Angriff geworfen, als Abwehrwert gilt der Waffenschaden mal dem Parierwert der jeweiligen Waffe. Sollte der Schaden des Abwehrenden höher sein als der des Angreifers spricht man von einem “Konter”. Ein Konter ermöglicht einen kostenfreien Gegenangriff - den sogenannten Konterschlag. Falls der Verteidiger (also derjenige der erfolgreich pariert hat und den Konter bekommen hat) <a href="#Dual%20Wielding">Dual Wielding</a> betreibt, hat er die Wahl auf einen direkten Gegenangriff at advantage. In sämtlichen anderen Fällen wirft der Verteidiger den Angreifer zu Boden und dieser muss in seiner nächsten Runde wieder aufstehen (Das kann auch beim Dual Wield passieren, dort hat man ein Wahlrecht).</p>
 <p>Wenn man noch eine Single/Bonus Action übrig hat, kann man einen Angriff mit einer Wahrscheinlichkeit von 100% blocken, parieren oder ausweichen.</p>
 <p>Wenn man keine Action mehr hat, kann man mit einer Wahrscheinlichkeit von 60% blocken, mit 40% parieren und von 20% ausweichen.</p>
-<div class="figure">
-<img src="Pictures/Rules/Attack.png" alt="" />
-<p class="caption">Schematische Übersicht über die Kampfrunde</p>
+<div class="float">
+<img src="Pictures/Rules/Attack.png" alt="Schematische Übersicht über die Kampfrunde" />
+<div class="figcaption">Schematische Übersicht über die Kampfrunde</div>
 </div>
 </div>
 <div id="für-andere-blocken" class="section level4 unnumbered hasAnchor">
@@ -2249,14 +2269,14 @@
 <p><small></p>
 <table>
 <colgroup>
+<col width="13%" />
+<col width="10%" />
+<col width="13%" />
 <col width="12%" />
+<col width="10%" />
 <col width="12%" />
-<col width="12%" />
-<col width="12%" />
-<col width="12%" />
-<col width="12%" />
-<col width="12%" />
-<col width="12%" />
+<col width="11%" />
+<col width="15%" />
 </colgroup>
 <thead>
 <tr class="header">
@@ -2334,14 +2354,14 @@
 </tbody>
 </table>
 <p></small></p>
-<table style="width:100%;">
+<table style="width:98%;">
 <colgroup>
-<col width="16%" />
-<col width="16%" />
-<col width="16%" />
-<col width="16%" />
-<col width="16%" />
-<col width="16%" />
+<col width="7%" />
+<col width="12%" />
+<col width="12%" />
+<col width="10%" />
+<col width="7%" />
+<col width="47%" />
 </colgroup>
 <thead>
 <tr class="header">
@@ -2426,8 +2446,8 @@
 <p>Gift kann in 2 bis 9 Ladungen verabreicht werden und ein Stack Gift hält in der Regel 10 Runden. Der Schaden, der pro Runde gemacht wird hängt von der Stufe des Gifts ab, und kann über folgende Formel ermittelt werden: <span class="math display">\[SchadenProRunde = \frac{Minschaden}{Ladungen} + ((\frac{Minschaden}{100}) \cdot Ladungen \cdot 1,1)\]</span> Mehr Ladungen machen mehr Schaden insgesamt und auf möglicherweise mehrere Gegner, müssen allerdings öfter applied werden - sind daher also langsamer. (Der Minschaden für eine Stufe Gift ist <a href="Items.html#Tränke">in der Trankliste einsehbar</a>).</p>
 <p><img src="Orbis-Astea_files/figure-html/unnamed-chunk-43-1.png" width="672" /></p>
 <p>Die Variable SchadenGesamt steht für den gesamten Schaden den ein Gift macht wenn man alle Ladungen aufgetragen werden. Wenn man selbst nicht rechnen will sind alle relevanten Werte in dieser Tabelle zu lesen:</p>
-<div id="htmlwidget-deafa36d5df4fd61f484" class="reactable html-widget" style="width:auto;height:auto;"></div>
-<script type="application/json" data-for="htmlwidget-deafa36d5df4fd61f484">{"x":{"tag":{"name":"Reactable","attribs":{"data":{"Tier":[1,2,3,4,1,2,3,4,1,2,3,4,1,2,3,4,1,2,3,4,1,2,3,4,1,2,3,4,1,2,3,4],"Ladungen":[2,2,2,2,3,3,3,3,4,4,4,4,5,5,5,5,6,6,6,6,7,7,7,7,8,8,8,8,9,9,9,9],"SchadenRunde":[65,104,144,183,46,73,101,128,37,59,81,103,32,51,70,89,29,47,64,81,27,44,60,77,27,43,59,75,26,42,58,74],"SchadenGesamt":[130,208,288,366,138,219,303,384,148,236,324,412,160,255,350,445,174,282,384,486,189,308,420,539,216,344,472,600,234,378,522,666]},"columns":[{"accessor":"Tier","name":"Tier","type":"numeric","align":"center","filterable":true},{"accessor":"Ladungen","name":"Ladungen","type":"numeric","align":"left","filterable":true,"grouped":"function(cellInfo) {\n                            return cellInfo.value\n                          }","minWidth":150},{"accessor":"SchadenRunde","name":"SchadenRunde","type":"numeric","align":"center"},{"accessor":"SchadenGesamt","name":"SchadenGesamt","type":"numeric","align":"center"}],"pivotBy":["Ladungen"],"resizable":true,"defaultPageSize":20,"showPageSizeOptions":true,"pageSizeOptions":[5,10,20,50],"paginationType":"jump","showPageInfo":true,"minRows":1,"highlight":true,"outlined":true,"striped":true,"theme":{"backgroundColor":"transparent","borderColor":"black","stripedColor":"#FDF6E3","headerStyle":{"backgroundColor":"#FDF6E3"}},"dataKey":"353868c49dc9342debb3455fd226072d"},"children":[]},"class":"reactR_markup"},"evals":["tag.attribs.columns.1.grouped"],"jsHooks":[]}</script>
+<div class="reactable html-widget html-fill-item" id="htmlwidget-e277c5af6919b2c2cbbe" style="width:auto;height:auto;"></div>
+<script type="application/json" data-for="htmlwidget-e277c5af6919b2c2cbbe">{"x":{"tag":{"name":"Reactable","attribs":{"data":{"Tier":[1,2,3,4,1,2,3,4,1,2,3,4,1,2,3,4,1,2,3,4,1,2,3,4,1,2,3,4,1,2,3,4],"Ladungen":[2,2,2,2,3,3,3,3,4,4,4,4,5,5,5,5,6,6,6,6,7,7,7,7,8,8,8,8,9,9,9,9],"SchadenRunde":[65,104,144,183,46,73,101,128,37,59,81,103,32,51,70,89,29,47,64,81,27,44,60,77,27,43,59,75,26,42,58,74],"SchadenGesamt":[130,208,288,366,138,219,303,384,148,236,324,412,160,255,350,445,174,282,384,486,189,308,420,539,216,344,472,600,234,378,522,666]},"columns":[{"id":"Tier","name":"Tier","type":"numeric","align":"center","filterable":true},{"id":"Ladungen","name":"Ladungen","type":"numeric","align":"left","filterable":true,"grouped":"function(cellInfo) {\n                            return cellInfo.value\n                          }","minWidth":150},{"id":"SchadenRunde","name":"SchadenRunde","type":"numeric","align":"center"},{"id":"SchadenGesamt","name":"SchadenGesamt","type":"numeric","align":"center"}],"groupBy":["Ladungen"],"resizable":true,"defaultPageSize":20,"showPageSizeOptions":true,"pageSizeOptions":[5,10,20,50],"paginationType":"jump","highlight":true,"outlined":true,"striped":true,"theme":{"backgroundColor":"transparent","borderColor":"black","stripedColor":"#FDF6E3","headerStyle":{"backgroundColor":"#FDF6E3"}},"dataKey":"17c3999c57a63d1110cb081d2224b3e9"},"children":[]},"class":"reactR_markup"},"evals":["tag.attribs.columns.1.grouped"],"jsHooks":[]}</script>
 <p>Als Gegenmaßnahme gegen Gift helfen leider nur andere Tränke - beispielsweise Gegengift.</p>
 </div>
 <div id="bluten" class="section level4 unnumbered hasAnchor">
@@ -2448,11 +2468,11 @@
 <div id="reiserouten" class="section level2 hasAnchor" number="51.4">
 <h2><span class="header-section-number">51.4</span> Reiserouten<a href="grundlagen-des-spiels.html#reiserouten" class="anchor-section" aria-label="Anchor link to header"></a></h2>
 <p>Der reisenden Spielergruppe in der Downtime stehen meist zwei Entscheidungsmöglichkeiten für ihre Reise offen. Zum einen die Landroute, die durch kleine Dörfer, die Natur und manchmal in eine kleine Stadt führt und die Stadtroute, die entlang Hauptstraßen, durch ummauerte Städte mit Märkten und Großstädte führt. Beide Optionen haben Vor- und Nachteile, also sollte sich die Gruppe überlegen welche Option sie vorzieht.</p>
-<table>
+<table style="width:100%;">
 <colgroup>
-<col width="25%" />
-<col width="30%" />
-<col width="44%" />
+<col width="21%" />
+<col width="31%" />
+<col width="46%" />
 </colgroup>
 <thead>
 <tr class="header">
@@ -2502,30 +2522,36 @@
 <p>Wenn ein Charakter in einem Kampf oder durch andere Aktivitäten entweder Gesundheit oder Ausdauer verliert, ist es möglich, diese Werte bis zu einem bestimmten Punkt zu regenerieren. Dieses System umfasst 3 verschiedene Pausen, die verfügbar sind, nämlich:</p>
 <table>
 <colgroup>
-<col width="18%" />
-<col width="81%" />
+<col width="13%" />
+<col width="62%" />
+<col width="23%" />
 </colgroup>
 <thead>
 <tr class="header">
 <th align="center">Länge</th>
 <th align="center">Dauer</th>
+<th>Preise</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td align="center">Kurze Pause</td>
 <td align="center">3-4 Stunden</td>
+<td>1 Vorrat pro Person</td>
 </tr>
 <tr class="even">
 <td align="center">Lange Pause</td>
 <td align="center">7-8 Stunden</td>
+<td>2 Vorräte pro Person</td>
 </tr>
 <tr class="odd">
 <td align="center">Downtime</td>
 <td align="center">Zeit zwischen 2 Sessions <br>(üblicherweise mehrere Tage)</td>
+<td>3 Vorräte pro Person</td>
 </tr>
 </tbody>
 </table>
+<p>Jede Option kostet Vorräte die in den Örtlichen Handelskontoren erworben, oder in der Downtime erjagt werden können. Alternativ können Vorräte auch durch 1KG an Lebensmitteln ersetzt werden. Sollten keine Vorräte eingesetzt werden ist eine Erholung nicht möglich.</p>
 <p>Wenn sich Spieler zwischen zwei Sitzungen befinden (Downtime), regenerieren sich ihre Ausdauer und Gesundheit immer bis zu 100%, es sei denn, der Dungeon Master kündigt eine größere Wunde an, die von einem Profi behandelt werden muss oder streicht die Downtime vollständig. Bei kurzen oder langen Pausen ist wichtig zu beachten, dass der Dungeon Master entscheiden kann, wie lange die Pause dauern soll, jedoch sollten die angegebenen Zeiträume als allgemeines Maß für die Dauer der Pausen verwendet werden. Außerdem müssen die spielbaren Charaktere die gesamte Pause ohne anstrengende Aktivitäten oder Unterbrechungen beenden, sonst ist keine Regeneration möglich. Ein weiterer wichtiger Faktor sind die Umstände, in dem sich Spieler ausruhen, diese können schlecht, durchschnittlich oder gut sein. Als schlecht kann man eine Pause auf der Straße bei kaltem Wetter bezeichnen, als mittelmäßig, wenn man in einer Kutsche schläft, die für lange Reisen geeignet ist (Dach, windfeste Wände usw.), und als gut, wenn man in einer Taverne mit einem warmen Raum und einem gut vorbereiteten Zimmer ruht. Der Dungeon Master hat die Verantwortung zu entscheiden, in welchen Umständen sich die Spieler befinden, wenn sie versuchen, das Pausensystem zu nutzen. Die folgende Tabelle zeigt, wie der Zustand durch die Qualität der Pause beeinflusst wird:</p>
 <table>
 <thead>
@@ -2627,6 +2653,7 @@
 </tbody>
 </table>
 <p>Der Mittelwert beschreibt hierbei das Durchschnittliche Einkommen in Reiks, das Risiko sagt aus, wie sehr das tatsächliche Einkommen vom Mittelwert abweicht. Dies kann positiv sowie negativ sein - manchmal sorgt ein hohes Risiko auch dafür, dass man Geld verliert. Besonderes ist dies bei Illegalen Aktivitäten: sollte das Einkommen negativ werden bedeutet dass das der Dieb erwischt wurde und dieser Strafzahlungen in Kauf nehmen muss, desweiteren könnte er auch in der Session als Krimineller den Sicherheitskräften bekannt sein.</p>
+<p>Neben den Downtime Aktivitäten mit denen ausschließlich monetäre Güter erworben werden können existieren auch weitere wie die Suche nach Alchemistischen Kräutern, wie an anderer STelle erläutert. Jedoch ist es auch möglich auf die Jagt zu gehen. Mit dieser lassen sich die Vorräte welche für Rast und Downtime notwendig sind eigenhändig erjagen, einfluss auf das Ergebnis hat sowohl die Umgebung sei es nun in der Wildniss, die umgebung eines Dorfes oder gar eine Stadt, sowie die Fähigkeiten Wahrnehmung und schleichen sowie deren jeweiligen Attribute.</p>
 </div>
 <div id="Training" class="section level3 hasAnchor" number="51.6.2">
 <h3><span class="header-section-number">51.6.2</span> Training<a href="grundlagen-des-spiels.html#Training" class="anchor-section" aria-label="Anchor link to header"></a></h3>
@@ -2721,12 +2748,12 @@
 <p>— Beispiel</p>
 </blockquote>
 <p>Wenn man genug addierte Punkte hat kann man seinen Wissensskill nach diesem kummulativen Schlüssel aufwerten:</p>
-<table>
+<table style="width:99%;">
 <colgroup>
-<col width="25%" />
-<col width="25%" />
-<col width="25%" />
-<col width="25%" />
+<col width="31%" />
+<col width="12%" />
+<col width="24%" />
+<col width="31%" />
 </colgroup>
 <thead>
 <tr class="header">
@@ -2773,11 +2800,11 @@
 <p>Welche Materialien gehören zu welchen Tiers?</p>
 <table>
 <colgroup>
-<col width="20%" />
-<col width="20%" />
-<col width="20%" />
-<col width="20%" />
-<col width="20%" />
+<col width="10%" />
+<col width="10%" />
+<col width="22%" />
+<col width="32%" />
+<col width="25%" />
 </colgroup>
 <thead>
 <tr class="header">
@@ -2823,8 +2850,8 @@
 <p>Das Einkommen eines durchschnittlichen unqualifizierten Arbeiters beträgt 5.000 Reiks, dieses Einkommen reicht um eine drei Köpfige Familie für einen Monat zu ernähren. Ein Qualifizierter Arbeiter sei es ein Handwerksmeister oder Händler kann in etwa 7.500 Reiks am Ende des Monats erwarten.</p>
 <p>Ein einfaches fleischloses Abendessen kostet in etwa 30 Reiks. Ein Stüch Fleisch hat den luxuriösen Preis von 100 Reiks. Eine Übernachtung in einem Wirtshaus kostet zwischen 80 und 100 Reiks.</p>
 <p>Anbei ist eine Tabelle über das Monats- und Jahreseinkommen einiger Berufe um einen besseren Überblick zu bekommen was das Geld in Orbis Astea Wert ist.</p>
-<div id="htmlwidget-2f365b9da002b127381d" class="reactable html-widget" style="width:auto;height:auto;"></div>
-<script type="application/json" data-for="htmlwidget-2f365b9da002b127381d">{"x":{"tag":{"name":"Reactable","attribs":{"data":{"Beruf":["Tagelöhner","Bauer schlecht","Jagd schlecht","Korbflechter","Reisender Händler schlecht","Weber","Einfacher Soldat","Fischer","Käser","Metzger","Müller","Ruhehofebewahrer","Gerber","Kürschner","Priester","Schuhmacher","Zimmerer","Holzfäller","Bauer gut","Maler","Sattler","Schmied","Heiler","Offizier","Alchemist","Armeeheiler","Armeealchemist","Bauer Yondalla","Jagd gut","Reisender Händler gut","Zenturio"],"Monatseinkommen":[1500,2000,2000,2000,2000,2500,2800,3000,3000,3000,3000,3000,3500,3500,3500,3500,3500,3700,4000,4000,4000,4400,4500,4500,5000,5000,6000,6000,6000,7000,10000],"Jahreseinkommen":[18000,24000,24000,24000,24000,30000,33600,36000,36000,36000,36000,36000,42000,42000,42000,42000,42000,44400,48000,48000,48000,52800,54000,54000,60000,60000,72000,72000,72000,84000,120000]},"columns":[{"accessor":"Beruf","name":"Beruf","type":"character","align":"center"},{"accessor":"Monatseinkommen","name":"Monatseinkommen","type":"numeric","align":"center"},{"accessor":"Jahreseinkommen","name":"Jahreseinkommen","type":"numeric","align":"center"}],"resizable":true,"defaultPageSize":10,"showPageSizeOptions":true,"pageSizeOptions":[5,10,20,50],"paginationType":"jump","showPageInfo":true,"minRows":1,"highlight":true,"outlined":true,"striped":true,"theme":{"backgroundColor":"transparent","borderColor":"black","stripedColor":"#FDF6E3","headerStyle":{"backgroundColor":"#FDF6E3"}},"dataKey":"8b73638b262c4e36f94ae9dda3712d4b"},"children":[]},"class":"reactR_markup"},"evals":[],"jsHooks":[]}</script>
+<div class="reactable html-widget html-fill-item" id="htmlwidget-f4ee200b8cda683fa8e3" style="width:auto;height:auto;"></div>
+<script type="application/json" data-for="htmlwidget-f4ee200b8cda683fa8e3">{"x":{"tag":{"name":"Reactable","attribs":{"data":{"Beruf":["Tagelöhner","Bauer schlecht","Jagd schlecht","Korbflechter","Reisender Händler schlecht","Weber","Einfacher Soldat","Fischer","Käser","Metzger","Müller","Ruhehofebewahrer","Gerber","Kürschner","Priester","Schuhmacher","Zimmerer","Holzfäller","Bauer gut","Maler","Sattler","Schmied","Heiler","Offizier","Alchemist","Armeeheiler","Armeealchemist","Bauer Yondalla","Jagd gut","Reisender Händler gut","Zenturio"],"Monatseinkommen":[1500,2000,2000,2000,2000,2500,2800,3000,3000,3000,3000,3000,3500,3500,3500,3500,3500,3700,4000,4000,4000,4400,4500,4500,5000,5000,6000,6000,6000,7000,10000],"Jahreseinkommen":[18000,24000,24000,24000,24000,30000,33600,36000,36000,36000,36000,36000,42000,42000,42000,42000,42000,44400,48000,48000,48000,52800,54000,54000,60000,60000,72000,72000,72000,84000,120000]},"columns":[{"id":"Beruf","name":"Beruf","type":"character","align":"center"},{"id":"Monatseinkommen","name":"Monatseinkommen","type":"numeric","align":"center"},{"id":"Jahreseinkommen","name":"Jahreseinkommen","type":"numeric","align":"center"}],"resizable":true,"defaultPageSize":10,"showPageSizeOptions":true,"pageSizeOptions":[5,10,20,50],"paginationType":"jump","highlight":true,"outlined":true,"striped":true,"theme":{"backgroundColor":"transparent","borderColor":"black","stripedColor":"#FDF6E3","headerStyle":{"backgroundColor":"#FDF6E3"}},"dataKey":"d1081335d1c09b5334e53853a174b5b5"},"children":[]},"class":"reactR_markup"},"evals":[],"jsHooks":[]}</script>
 </div>
 </div>
 <div id="Handelssystem" class="section level2 hasAnchor" number="51.9">
@@ -2850,7 +2877,7 @@
 <div class="footnotes">
 <hr />
 <ol start="23">
-<li id="fn23"><p>Value ist eine Form von Gütekriterium eines Wurfes - je höher der Value, desto besser der Wurf.<a href="grundlagen-des-spiels.html#fnref23" class="footnote-back">↩︎</a></p></li>
+<li id="fn23"><p>Diese Abbildung wurde der Seite <a href="https://commons.wikimedia.org/wiki/File:Galley-knightshospitaller.jpg">wikimedia</a> entnommen und steht unter einer Creative Commons Attribution-Share Alike 3.0 Unported license zur Verfügung.<a href="grundlagen-des-spiels.html#fnref23" class="footnote-back">↩︎</a></p></li>
 </ol>
 </div>
             </section>
@@ -2912,7 +2939,7 @@ gitbook.start({
     var script = document.createElement("script");
     script.type = "text/javascript";
     var src = "true";
-    if (src === "" || src === "true") src = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML";
+    if (src === "" || src === "true") src = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.9/latest.js?config=TeX-MML-AM_CHTML";
     if (location.protocol !== "file:")
       if (/^https?:/.test(src))
         src = src.replace(/^https?:/, '');

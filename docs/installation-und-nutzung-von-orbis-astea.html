@@ -6,7 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <title>Kapitel 56 Installation und Nutzung von Orbis Astea | Orbis Astea</title>
   <meta name="description" content="Kapitel 56 Installation und Nutzung von Orbis Astea | Orbis Astea" />
-  <meta name="generator" content="bookdown 0.27 and GitBook 2.6.7" />
+  <meta name="generator" content="bookdown 0.42 and GitBook 2.6.7" />
 
   <meta property="og:title" content="Kapitel 56 Installation und Nutzung von Orbis Astea | Orbis Astea" />
   <meta property="og:type" content="book" />
@@ -20,7 +20,7 @@
   
   
 
-<meta name="author" content="DM-App Version: 3.7" />
+<meta name="author" content="DM-App Version: 3.75" />
 
 
 
@@ -51,30 +51,30 @@
 <link href="libs/anchor-sections-1.1.0/anchor-sections.css" rel="stylesheet" />
 <link href="libs/anchor-sections-1.1.0/anchor-sections-hash.css" rel="stylesheet" />
 <script src="libs/anchor-sections-1.1.0/anchor-sections.js"></script>
-<script src="libs/htmlwidgets-1.5.4/htmlwidgets.js"></script>
+<script src="libs/htmlwidgets-1.6.4/htmlwidgets.js"></script>
 <link href="libs/leaflet-1.3.1/leaflet.css" rel="stylesheet" />
 <script src="libs/leaflet-1.3.1/leaflet.js"></script>
 <link href="libs/leafletfix-1.0.0/leafletfix.css" rel="stylesheet" />
 <script src="libs/proj4-2.6.2/proj4.min.js"></script>
 <script src="libs/Proj4Leaflet-1.0.1/proj4leaflet.js"></script>
 <link href="libs/rstudio_leaflet-1.3.1/rstudio_leaflet.css" rel="stylesheet" />
-<script src="libs/leaflet-binding-2.0.4.1/leaflet.js"></script>
+<script src="libs/leaflet-binding-2.2.2/leaflet.js"></script>
 <link href="libs/leaflet-measure-2.1.7/leaflet-measure.css" rel="stylesheet" />
 <script src="libs/leaflet-measure-2.1.7/leaflet-measure.min.js"></script>
 <link href="libs/lfx-fullscreen-1.0.2/lfx-fullscreen-prod.css" rel="stylesheet" />
 <script src="libs/lfx-fullscreen-1.0.2/lfx-fullscreen-prod.js"></script>
-<script src="libs/fuse_js-3.2.0/fuse_js-prod.js"></script>
-<link href="libs/lfx-search-2.3.7/lfx-search-prod.css" rel="stylesheet" />
-<script src="libs/lfx-search-2.3.7/lfx-search-prod.js"></script>
-<script src="libs/lfx-search-2.3.7/lfx-search-bindings.js"></script>
-<link href="libs/lfx-draw-1.0.2/lfx-draw-prod.css" rel="stylesheet" />
-<script src="libs/lfx-draw-1.0.2/lfx-draw-prod.js"></script>
-<script src="libs/lfx-draw-1.0.2/lfx-draw-bindings.js"></script>
-<script src="libs/lfx-draw-drag-1.0.2/lfx-draw-drag-prod.js"></script>
+<script src="libs/fuse_js-7.0.0/fuse_js-prod.js"></script>
+<link href="libs/lfx-search-4.0.0/lfx-search-prod.css" rel="stylesheet" />
+<script src="libs/lfx-search-4.0.0/lfx-search-prod.js"></script>
+<script src="libs/lfx-search-4.0.0/lfx-search-bindings.js"></script>
+<link href="libs/lfx-draw-1.0.4/lfx-draw-prod.css" rel="stylesheet" />
+<script src="libs/lfx-draw-1.0.4/lfx-draw-prod.js"></script>
+<script src="libs/lfx-draw-1.0.4/lfx-draw-bindings.js"></script>
+<script src="libs/lfx-draw-drag-0.4.8/lfx-draw-drag-prod.js"></script>
 <link href="libs/visjs-7.4.9/vis-timeline-graph2d.min.css" rel="stylesheet" />
 <script src="libs/visjs-7.4.9/vis-timeline-graph2d.min.js"></script>
 <link href="libs/timeline-0.4/timevis.css" rel="stylesheet" />
-<script src="libs/timevis-binding-2.0.0/timevis.js"></script>
+<script src="libs/timevis-binding-2.1.0/timevis.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
 <script src="libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
@@ -90,14 +90,19 @@
        code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
        pre:not([class]) { background-color: white }</style>
 <script src="libs/core-js-2.5.3/shim.min.js"></script>
-<script src="libs/react-17.0.0/react.min.js"></script>
-<script src="libs/react-17.0.0/react-dom.min.js"></script>
+<script src="libs/react-18.2.0/react.min.js"></script>
+<script src="libs/react-18.2.0/react-dom.min.js"></script>
 <script src="libs/reactwidget-1.0.0/react-tools.js"></script>
-<script src="libs/reactable-binding-0.3.0/reactable.js"></script>
+<link href="libs/reactable-0.4.4/reactable.css" rel="stylesheet" />
+<script src="libs/reactable-binding-0.4.4/reactable.js"></script>
 <link rel="shortcut icon" href="E:\\User\\icn.png" />
 
 
 
+<style type="text/css">
+  
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+</style>
 
 <link rel="stylesheet" href="style.css" type="text/css" />
 </head>
@@ -180,32 +185,30 @@
 <li class="chapter" data-level="6.5.1" data-path="die-orks.html"><a href="die-orks.html#themadorc---verehrer-der-götzen"><i class="fa fa-check"></i><b>6.5.1</b> Themadorc - Verehrer der Götzen</a></li>
 <li class="chapter" data-level="6.5.2" data-path="die-orks.html"><a href="die-orks.html#umchrug-hal---der-riese-von-grimgrod"><i class="fa fa-check"></i><b>6.5.2</b> Umchrug-Hal - der Riese von Grimgrod</a></li>
 </ul></li>
-<li class="chapter" data-level="6.6" data-path="die-orks.html"><a href="die-orks.html#einführung-1"><i class="fa fa-check"></i><b>6.6</b> Einführung</a>
-<ul>
-<li class="chapter" data-level="6.6.1" data-path="die-orks.html"><a href="die-orks.html#sammler-die-sucher-in-der-finsternis"><i class="fa fa-check"></i><b>6.6.1</b> Sammler – Die Sucher in der Finsternis</a></li>
-<li class="chapter" data-level="6.6.2" data-path="die-orks.html"><a href="die-orks.html#ernter-bauern-der-goblins"><i class="fa fa-check"></i><b>6.6.2</b> Ernter – Bauern der Goblins</a></li>
-<li class="chapter" data-level="6.6.3" data-path="die-orks.html"><a href="die-orks.html#faask-versorger-versorgung-des-nachwuchses"><i class="fa fa-check"></i><b>6.6.3</b> Faask Versorger – Versorgung des Nachwuchses</a></li>
-<li class="chapter" data-level="6.6.4" data-path="die-orks.html"><a href="die-orks.html#dreckschaufler-minenarbeiter"><i class="fa fa-check"></i><b>6.6.4</b> Dreckschaufler – Minenarbeiter</a></li>
-<li class="chapter" data-level="6.6.5" data-path="die-orks.html"><a href="die-orks.html#die-krieger"><i class="fa fa-check"></i><b>6.6.5</b> Die Krieger</a></li>
 </ul></li>
-<li class="chapter" data-level="6.7" data-path="die-orks.html"><a href="die-orks.html#die-höheren-positionen-in-den-stämmen"><i class="fa fa-check"></i><b>6.7</b> Die höheren Positionen in den Stämmen</a>
+<li class="chapter" data-level="7" data-path="die-goblins.html"><a href="die-goblins.html"><i class="fa fa-check"></i><b>7</b> Die Goblins</a>
 <ul>
-<li class="chapter" data-level="6.7.1" data-path="die-orks.html"><a href="die-orks.html#sammler-der-faasksitaaren"><i class="fa fa-check"></i><b>6.7.1</b> Sammler der Faasksitaaren</a></li>
-<li class="chapter" data-level="6.7.2" data-path="die-orks.html"><a href="die-orks.html#schamanenhelfer-diener-von-gobs-willen"><i class="fa fa-check"></i><b>6.7.2</b> Schamanenhelfer – Diener von Gobs Willen</a></li>
-<li class="chapter" data-level="6.7.3" data-path="die-orks.html"><a href="die-orks.html#die-wachen-der-faasksitaare"><i class="fa fa-check"></i><b>6.7.3</b> Die Wachen der Faasksitaare</a></li>
-<li class="chapter" data-level="6.7.4" data-path="die-orks.html"><a href="die-orks.html#die-stammesmutter--faasksitaar"><i class="fa fa-check"></i><b>6.7.4</b> Die Stammesmutter- Faasksitaar</a></li>
-</ul></li>
-<li class="chapter" data-level="6.8" data-path="die-orks.html"><a href="die-orks.html#stämme-mit-und-ohne-faasksitaare-gob-saiks-und-vraksaiks."><i class="fa fa-check"></i><b>6.8</b> Stämme mit und ohne Faasksitaare – Gob Saiks und VrakSaiks.</a>
+<li class="chapter" data-level="7.0.1" data-path="die-goblins.html"><a href="die-goblins.html#sammler-die-sucher-in-der-finsternis"><i class="fa fa-check"></i><b>7.0.1</b> Sammler – Die Sucher in der Finsternis</a></li>
+<li class="chapter" data-level="7.0.2" data-path="die-goblins.html"><a href="die-goblins.html#ernter-bauern-der-goblins"><i class="fa fa-check"></i><b>7.0.2</b> Ernter – Bauern der Goblins</a></li>
+<li class="chapter" data-level="7.0.3" data-path="die-goblins.html"><a href="die-goblins.html#faask-versorger-versorgung-des-nachwuchses"><i class="fa fa-check"></i><b>7.0.3</b> Faask Versorger – Versorgung des Nachwuchses</a></li>
+<li class="chapter" data-level="7.0.4" data-path="die-goblins.html"><a href="die-goblins.html#dreckschaufler-minenarbeiter"><i class="fa fa-check"></i><b>7.0.4</b> Dreckschaufler – Minenarbeiter</a></li>
+<li class="chapter" data-level="7.0.5" data-path="die-goblins.html"><a href="die-goblins.html#die-krieger"><i class="fa fa-check"></i><b>7.0.5</b> Die Krieger</a></li>
+<li class="chapter" data-level="7.1" data-path="die-goblins.html"><a href="die-goblins.html#die-höheren-positionen-in-den-stämmen"><i class="fa fa-check"></i><b>7.1</b> Die höheren Positionen in den Stämmen</a>
 <ul>
-<li class="chapter" data-level="6.8.1" data-path="die-orks.html"><a href="die-orks.html#gob-saiks"><i class="fa fa-check"></i><b>6.8.1</b> Gob Saiks</a></li>
-<li class="chapter" data-level="6.8.2" data-path="die-orks.html"><a href="die-orks.html#vrak-saiks"><i class="fa fa-check"></i><b>6.8.2</b> Vrak Saiks</a></li>
+<li class="chapter" data-level="7.1.1" data-path="die-goblins.html"><a href="die-goblins.html#sammler-der-faasksitaaren"><i class="fa fa-check"></i><b>7.1.1</b> Sammler der Faasksitaaren</a></li>
+<li class="chapter" data-level="7.1.2" data-path="die-goblins.html"><a href="die-goblins.html#schamanenhelfer-diener-von-gobs-willen"><i class="fa fa-check"></i><b>7.1.2</b> Schamanenhelfer – Diener von Gobs Willen</a></li>
+<li class="chapter" data-level="7.1.3" data-path="die-goblins.html"><a href="die-goblins.html#die-wachen-der-faasksitaare"><i class="fa fa-check"></i><b>7.1.3</b> Die Wachen der Faasksitaare</a></li>
+<li class="chapter" data-level="7.1.4" data-path="die-goblins.html"><a href="die-goblins.html#die-stammesmutter--faasksitaar"><i class="fa fa-check"></i><b>7.1.4</b> Die Stammesmutter- Faasksitaar</a></li>
 </ul></li>
-</ul></li>
-<li class="chapter" data-level="7" data-path="ablauf-eines-tages-eines-typischen-goblins.html"><a href="ablauf-eines-tages-eines-typischen-goblins.html"><i class="fa fa-check"></i><b>7</b> Ablauf eines Tages eines typischen Goblins:</a>
+<li class="chapter" data-level="7.2" data-path="die-goblins.html"><a href="die-goblins.html#stämme-mit-und-ohne-faasksitaare-gob-saiks-und-vraksaiks."><i class="fa fa-check"></i><b>7.2</b> Stämme mit und ohne Faasksitaare – Gob Saiks und VrakSaiks.</a>
 <ul>
-<li class="chapter" data-level="7.1" data-path="ablauf-eines-tages-eines-typischen-goblins.html"><a href="ablauf-eines-tages-eines-typischen-goblins.html#physiologie-der-goblins"><i class="fa fa-check"></i><b>7.1</b> Physiologie der Goblins</a></li>
-<li class="chapter" data-level="7.2" data-path="ablauf-eines-tages-eines-typischen-goblins.html"><a href="ablauf-eines-tages-eines-typischen-goblins.html#religion-gobs-wille"><i class="fa fa-check"></i><b>7.2</b> Religion – Gobs Wille</a></li>
-<li class="chapter" data-level="7.3" data-path="ablauf-eines-tages-eines-typischen-goblins.html"><a href="ablauf-eines-tages-eines-typischen-goblins.html#beziehungen-zu-den-anderen-rassen"><i class="fa fa-check"></i><b>7.3</b> Beziehungen zu den anderen Rassen</a></li>
+<li class="chapter" data-level="7.2.1" data-path="die-goblins.html"><a href="die-goblins.html#gob-saiks"><i class="fa fa-check"></i><b>7.2.1</b> Gob Saiks</a></li>
+<li class="chapter" data-level="7.2.2" data-path="die-goblins.html"><a href="die-goblins.html#vrak-saiks"><i class="fa fa-check"></i><b>7.2.2</b> Vrak Saiks</a></li>
+</ul></li>
+<li class="chapter" data-level="7.3" data-path="die-goblins.html"><a href="die-goblins.html#ablauf-eines-tages-eines-typischen-goblins"><i class="fa fa-check"></i><b>7.3</b> Ablauf eines Tages eines typischen Goblins:</a></li>
+<li class="chapter" data-level="7.4" data-path="die-goblins.html"><a href="die-goblins.html#physiologie-der-goblins"><i class="fa fa-check"></i><b>7.4</b> Physiologie der Goblins</a></li>
+<li class="chapter" data-level="7.5" data-path="die-goblins.html"><a href="die-goblins.html#religion-gobs-wille"><i class="fa fa-check"></i><b>7.5</b> Religion – Gobs Wille</a></li>
+<li class="chapter" data-level="7.6" data-path="die-goblins.html"><a href="die-goblins.html#beziehungen-zu-den-anderen-rassen"><i class="fa fa-check"></i><b>7.6</b> Beziehungen zu den anderen Rassen</a></li>
 </ul></li>
 <li class="chapter" data-level="8" data-path="CreaturaAnimali.html"><a href="CreaturaAnimali.html"><i class="fa fa-check"></i><b>8</b> Creatura Animali</a>
 <ul>
@@ -658,7 +661,8 @@
 <li class="chapter" data-level="24.1" data-path="nors.html"><a href="nors.html#ortschaften-der-region-3"><i class="fa fa-check"></i><b>24.1</b> Ortschaften der Region</a>
 <ul>
 <li class="chapter" data-level="24.1.1" data-path="nors.html"><a href="nors.html#nors-1"><i class="fa fa-check"></i><b>24.1.1</b> Nors</a></li>
-<li class="chapter" data-level="24.1.2" data-path="nors.html"><a href="nors.html#infrastruktur-3"><i class="fa fa-check"></i><b>24.1.2</b> Infrastruktur</a></li>
+<li class="chapter" data-level="24.1.2" data-path="nors.html"><a href="nors.html#festung-kollag"><i class="fa fa-check"></i><b>24.1.2</b> Festung Kollag:</a></li>
+<li class="chapter" data-level="24.1.3" data-path="nors.html"><a href="nors.html#infrastruktur-3"><i class="fa fa-check"></i><b>24.1.3</b> Infrastruktur</a></li>
 </ul></li>
 <li class="chapter" data-level="24.2" data-path="nors.html"><a href="nors.html#geschichte-von-nors"><i class="fa fa-check"></i><b>24.2</b> Geschichte von Nors</a>
 <ul>
@@ -676,8 +680,18 @@
 <li class="chapter" data-level="24.5.1.1" data-path="nors.html"><a href="nors.html#monster-in-der-region-3"><i class="fa fa-check"></i><b>24.5.1.1</b> Monster in der Region</a></li>
 </ul></li>
 </ul></li>
-<li class="chapter" data-level="24.6" data-path="nors.html"><a href="nors.html#gerüchte-der-region-3"><i class="fa fa-check"></i><b>24.6</b> Gerüchte der Region</a></li>
-<li class="chapter" data-level="24.7" data-path="nors.html"><a href="nors.html#sehenswürdigkeiten-3"><i class="fa fa-check"></i><b>24.7</b> Sehenswürdigkeiten</a></li>
+<li class="chapter" data-level="24.6" data-path="nors.html"><a href="nors.html#gerüchte-der-region-3"><i class="fa fa-check"></i><b>24.6</b> Gerüchte der Region</a>
+<ul>
+<li class="chapter" data-level="24.6.1" data-path="nors.html"><a href="nors.html#the-zephyton-civilization"><i class="fa fa-check"></i><b>24.6.1</b> The Zephyton Civilization</a></li>
+<li class="chapter" data-level="24.6.2" data-path="nors.html"><a href="nors.html#das-lied-des-seefahrers"><i class="fa fa-check"></i><b>24.6.2</b> Das Lied des Seefahrers</a></li>
+<li class="chapter" data-level="24.6.3" data-path="nors.html"><a href="nors.html#der-fluch-des-kaiserreichs"><i class="fa fa-check"></i><b>24.6.3</b> Der Fluch des Kaiserreichs</a></li>
+</ul></li>
+<li class="chapter" data-level="24.7" data-path="nors.html"><a href="nors.html#sehenswürdigkeiten-3"><i class="fa fa-check"></i><b>24.7</b> Sehenswürdigkeiten</a>
+<ul>
+<li class="chapter" data-level="24.7.1" data-path="nors.html"><a href="nors.html#ebbe-und-flut-fest"><i class="fa fa-check"></i><b>24.7.1</b> Ebbe und Flut Fest:</a></li>
+<li class="chapter" data-level="24.7.2" data-path="nors.html"><a href="nors.html#taverne-dunkelstein"><i class="fa fa-check"></i><b>24.7.2</b> Taverne Dunkelstein</a></li>
+<li class="chapter" data-level="24.7.3" data-path="nors.html"><a href="nors.html#wasserschlüssel-gilde"><i class="fa fa-check"></i><b>24.7.3</b> Wasserschlüssel Gilde:</a></li>
+</ul></li>
 <li class="chapter" data-level="24.8" data-path="nors.html"><a href="nors.html#feiertage-der-region"><i class="fa fa-check"></i><b>24.8</b> Feiertage der Region</a>
 <ul>
 <li class="chapter" data-level="24.8.1" data-path="nors.html"><a href="nors.html#kether-tag"><i class="fa fa-check"></i><b>24.8.1</b> Kether-Tag</a></li>
@@ -948,7 +962,11 @@
 <ul>
 <li class="chapter" data-level="32.1" data-path="das-himmelsspitzen-gebirge.html"><a href="das-himmelsspitzen-gebirge.html#ortschaften-der-region-11"><i class="fa fa-check"></i><b>32.1</b> Ortschaften der Region</a>
 <ul>
-<li class="chapter" data-level="32.1.1" data-path="das-himmelsspitzen-gebirge.html"><a href="das-himmelsspitzen-gebirge.html#infrastruktur-11"><i class="fa fa-check"></i><b>32.1.1</b> Infrastruktur</a></li>
+<li class="chapter" data-level="32.1.1" data-path="das-himmelsspitzen-gebirge.html"><a href="das-himmelsspitzen-gebirge.html#irnidormir"><i class="fa fa-check"></i><b>32.1.1</b> Irnidormir</a></li>
+<li class="chapter" data-level="32.1.2" data-path="das-himmelsspitzen-gebirge.html"><a href="das-himmelsspitzen-gebirge.html#hineldur"><i class="fa fa-check"></i><b>32.1.2</b> Hineldur</a></li>
+<li class="chapter" data-level="32.1.3" data-path="das-himmelsspitzen-gebirge.html"><a href="das-himmelsspitzen-gebirge.html#thanahm"><i class="fa fa-check"></i><b>32.1.3</b> Thanahm</a></li>
+<li class="chapter" data-level="32.1.4" data-path="das-himmelsspitzen-gebirge.html"><a href="das-himmelsspitzen-gebirge.html#vigh-boldor"><i class="fa fa-check"></i><b>32.1.4</b> Vigh Boldor</a></li>
+<li class="chapter" data-level="32.1.5" data-path="das-himmelsspitzen-gebirge.html"><a href="das-himmelsspitzen-gebirge.html#infrastruktur-11"><i class="fa fa-check"></i><b>32.1.5</b> Infrastruktur</a></li>
 </ul></li>
 <li class="chapter" data-level="32.2" data-path="das-himmelsspitzen-gebirge.html"><a href="das-himmelsspitzen-gebirge.html#die-geschichte-der-region-11"><i class="fa fa-check"></i><b>32.2</b> Die Geschichte der Region</a></li>
 <li class="chapter" data-level="32.3" data-path="das-himmelsspitzen-gebirge.html"><a href="das-himmelsspitzen-gebirge.html#wirtschaftliche-lage-14"><i class="fa fa-check"></i><b>32.3</b> Wirtschaftliche Lage</a>
@@ -966,8 +984,17 @@
 <li class="chapter" data-level="32.5.1.1" data-path="das-himmelsspitzen-gebirge.html"><a href="das-himmelsspitzen-gebirge.html#monster-in-der-region-12"><i class="fa fa-check"></i><b>32.5.1.1</b> Monster in der Region</a></li>
 </ul></li>
 </ul></li>
-<li class="chapter" data-level="32.6" data-path="das-himmelsspitzen-gebirge.html"><a href="das-himmelsspitzen-gebirge.html#gerüchte-der-region-11"><i class="fa fa-check"></i><b>32.6</b> Gerüchte der Region</a></li>
-<li class="chapter" data-level="32.7" data-path="das-himmelsspitzen-gebirge.html"><a href="das-himmelsspitzen-gebirge.html#sehenswürdigkeiten-12"><i class="fa fa-check"></i><b>32.7</b> Sehenswürdigkeiten</a></li>
+<li class="chapter" data-level="32.6" data-path="das-himmelsspitzen-gebirge.html"><a href="das-himmelsspitzen-gebirge.html#gerüchte-der-region-11"><i class="fa fa-check"></i><b>32.6</b> Gerüchte der Region</a>
+<ul>
+<li class="chapter" data-level="32.6.1" data-path="das-himmelsspitzen-gebirge.html"><a href="das-himmelsspitzen-gebirge.html#durin-the-stoneforger"><i class="fa fa-check"></i><b>32.6.1</b> Durin the Stoneforger</a></li>
+</ul></li>
+<li class="chapter" data-level="32.7" data-path="das-himmelsspitzen-gebirge.html"><a href="das-himmelsspitzen-gebirge.html#sehenswürdigkeiten-12"><i class="fa fa-check"></i><b>32.7</b> Sehenswürdigkeiten</a>
+<ul>
+<li class="chapter" data-level="32.7.1" data-path="das-himmelsspitzen-gebirge.html"><a href="das-himmelsspitzen-gebirge.html#the-blades-of-unity-telarins-bond-and-elaita-embrace"><i class="fa fa-check"></i><b>32.7.1</b> The blades of Unity – Telarin’s bond and Elaita Embrace</a></li>
+<li class="chapter" data-level="32.7.2" data-path="das-himmelsspitzen-gebirge.html"><a href="das-himmelsspitzen-gebirge.html#the-dwarven-construct-brawl"><i class="fa fa-check"></i><b>32.7.2</b> The dwarven Construct Brawl</a></li>
+<li class="chapter" data-level="32.7.3" data-path="das-himmelsspitzen-gebirge.html"><a href="das-himmelsspitzen-gebirge.html#brilglimmer-depths"><i class="fa fa-check"></i><b>32.7.3</b> Brilglimmer Depths</a></li>
+<li class="chapter" data-level="32.7.4" data-path="das-himmelsspitzen-gebirge.html"><a href="das-himmelsspitzen-gebirge.html#the-everlasting-crimson-sky-of-gokhelins-camp"><i class="fa fa-check"></i><b>32.7.4</b> The Everlasting Crimson Sky of Gokhelin’s Camp</a></li>
+</ul></li>
 </ul></li>
 <li class="chapter" data-level="33" data-path="der-nebelhain.html"><a href="der-nebelhain.html"><i class="fa fa-check"></i><b>33</b> Der Nebelhain</a>
 <ul>
@@ -1523,14 +1550,7 @@
 <ul>
 <li class="chapter" data-level="" data-path="die-charaktererstellung.html"><a href="die-charaktererstellung.html#Rassenfähigkeiten"><i class="fa fa-check"></i>Rassenfähigkeiten</a></li>
 </ul></li>
-<li class="chapter" data-level="50.4.2" data-path="die-charaktererstellung.html"><a href="die-charaktererstellung.html#Fähigkeitsverbesserungen"><i class="fa fa-check"></i><b>50.4.2</b> Level- und Fähigkeitsverbesserungen</a>
-<ul>
-<li class="chapter" data-level="" data-path="die-charaktererstellung.html"><a href="die-charaktererstellung.html#kosten-attributsverbesserung"><i class="fa fa-check"></i>Kosten Attributsverbesserung</a></li>
-<li class="chapter" data-level="" data-path="die-charaktererstellung.html"><a href="die-charaktererstellung.html#kosten-gesundheitsverbesserung"><i class="fa fa-check"></i>Kosten Gesundheitsverbesserung</a></li>
-<li class="chapter" data-level="" data-path="die-charaktererstellung.html"><a href="die-charaktererstellung.html#Fähigkeitsverbesserung"><i class="fa fa-check"></i>Kosten Fähigkeitsverbesserung</a></li>
-<li class="chapter" data-level="" data-path="die-charaktererstellung.html"><a href="die-charaktererstellung.html#Fähigkeitsgruppen"><i class="fa fa-check"></i>Kosten Fähigkeitsgruppenverbesserung</a></li>
-<li class="chapter" data-level="" data-path="die-charaktererstellung.html"><a href="die-charaktererstellung.html#kosten-ausdauerverbesserung"><i class="fa fa-check"></i>Kosten Ausdauerverbesserung</a></li>
-</ul></li>
+<li class="chapter" data-level="50.4.2" data-path="die-charaktererstellung.html"><a href="die-charaktererstellung.html#Fähigkeitsverbesserungen"><i class="fa fa-check"></i><b>50.4.2</b> Level- und Fähigkeitsverbesserungen</a></li>
 <li class="chapter" data-level="50.4.3" data-path="die-charaktererstellung.html"><a href="die-charaktererstellung.html#Eigenheiten"><i class="fa fa-check"></i><b>50.4.3</b> Eigenheiten</a>
 <ul>
 <li class="chapter" data-level="" data-path="die-charaktererstellung.html"><a href="die-charaktererstellung.html#positive-eigenheiten"><i class="fa fa-check"></i>Positive Eigenheiten</a></li>
@@ -1930,9 +1950,9 @@ Da die Funktionalität teilweise so breit aufgestellt ist, wie es Handlungsmögl
 Die Installation von Orbis ist an sich eine leichte Sache.
 Auf der <a href="https://svalv.github.io/Orbis/index.html">Homepage</a> von Orbis Astea, gibt es oben links die Möglichkeit über den Download-Button eine Zip-Datei herunterzuladen.
 Alternativ kann man <a href="https://svalv.github.io/Orbis/DownloadContainer/OrbisGame.zip">hier klicken</a>.</p>
-<div class="figure">
-<img src="Pictures/Rules/DownloadSymbol.png" alt="" />
-<p class="caption">Ort und Symbol des Download-Buttons</p>
+<div class="float">
+<img src="Pictures/Rules/DownloadSymbol.png" alt="Ort und Symbol des Download-Buttons" />
+<div class="figcaption">Ort und Symbol des Download-Buttons</div>
 </div>
 <p>Diese Zip-Datei kann in einen beliebigen Zielordner verschoben werden, wo sie auch entpackt wird.
 Dazu die Zip-Datei mit einem Rechtsklick auswählen und “Hier entpacken” wählen.
@@ -1953,9 +1973,9 @@ Somit hat der DM zu jedem Zeitpunkt Zugriff auf die aktuellste Version der Excel
 <h3><span class="header-section-number">56.1.2</span> Ordner Orbis Launcher und App-Ausführung<a href="installation-und-nutzung-von-orbis-astea.html#OrbisDMApp" class="anchor-section" aria-label="Anchor link to header"></a></h3>
 <p>Um die DM App ausführen zu können, muss die Anwendung im “Orbis Launcher” Ordner gesucht werden.
 Es handelt sich hierbei in der Spalte Typ um die einzige Anwendung im Ordner:</p>
-<div class="figure">
-<img src="Pictures/Rules/OrbisAppAnwendung.JPG" alt="" />
-<p class="caption">Aussehen der Anwendung im OrbisDMApp Ordner</p>
+<div class="float">
+<img src="Pictures/Rules/OrbisAppAnwendung.jpg" alt="Aussehen der Anwendung im OrbisDMApp Ordner" />
+<div class="figcaption">Aussehen der Anwendung im OrbisDMApp Ordner</div>
 </div>
 <p>Diese Anwendung wird mittels Doppelklick gestartet.
 Hier öffnet sich nun ein Fenster, welches auffordert, einen Ordner auszuwählen.
@@ -1975,9 +1995,9 @@ Wichtig ist, dass der nachfolgende Guide eine Übersicht darstellt, die zugleich
 Er dient somit einem Überblick und einer fundierten Einführung in die Nutzung der DM-App.
 Aus diesem Grund wird die Erklärung der Tabs entsprechend der Nutzung der DMApp erläutert und entspricht nicht der Tab-Reihenfolge innerhalb der App selbst.
 Hilfreich ist auch die, in die Benutzeroberfläche integrierte, Funktion, dass mit dem Maus-Pfeil über ein Element drüber gehovert werden kann, wodurch Hinweise darauf gegeben werden, welche Einstellung mit diesem Element getroffen werden kann.</p>
-<div class="figure">
-<img src="Pictures/Rules/DMAppHovern.png" alt="" />
-<p class="caption">Beispiel für die Zusatzinformation durch das Verschieben des Mauszeigers auf das Element, zu welchem Informationen benötigt werden.</p>
+<div class="float">
+<img src="Pictures/Rules/DMAppHovern.png" alt="Beispiel für die Zusatzinformation durch das Verschieben des Mauszeigers auf das Element, zu welchem Informationen benötigt werden." />
+<div class="figcaption">Beispiel für die Zusatzinformation durch das Verschieben des Mauszeigers auf das Element, zu welchem Informationen benötigt werden.</div>
 </div>
 <div id="DMAppErstellung" class="section level3 hasAnchor" number="56.2.1">
 <h3><span class="header-section-number">56.2.1</span> Erstellung<a href="installation-und-nutzung-von-orbis-astea.html#DMAppErstellung" class="anchor-section" aria-label="Anchor link to header"></a></h3>
@@ -1990,9 +2010,9 @@ Dazu gehören auch <a href="die-charaktererstellung.html#Fahrzeuge">Fahrzeuge</a
 <p>Im ersten SubTab “Personen” können bereits vorgefertigte <em>Profile</em> aus dem <a href="installation-und-nutzung-von-orbis-astea.html#OrbisGame">OrbisGame Ordner</a> und die Excel-Dateien der Spieler eingeladen oder ein NPC spontan selbst erstellt werden.</p>
 <div id="DMAppPersonenProfile" class="section level5 unnumbered hasAnchor">
 <h5><em>Profile</em><a href="installation-und-nutzung-von-orbis-astea.html#DMAppPersonenProfile" class="anchor-section" aria-label="Anchor link to header"></a></h5>
-<div class="figure">
-<img src="Pictures/Rules/DMAppErstellungPersonenProfile.JPG" alt="" />
-<p class="caption">SubTab Profile im SubTab Personen</p>
+<div class="float">
+<img src="Pictures/Rules/DMAppErstellungPersonenProfile.jpg" alt="SubTab Profile im SubTab Personen" />
+<div class="figcaption">SubTab Profile im SubTab Personen</div>
 </div>
 <p>Es empfiehlt sich den Profilen Namen zu geben, die eindeutig, aber kurz sind.
 Diese Namen müssen für verschiedene Aktionen händisch eingetragen werden.
@@ -2007,9 +2027,9 @@ Die Anzahl bestimmt, wie viele der Profile erstellt werden.
 Somit kann Zeit gespart werden, wenn die Spieler bspw.
 auf eine Gruppe Ritter oder Banditen stößt.
 Wird eine Vielzahl von Akteuren eines Profils initialisiert, so nummeriert das Programm die Namen automatisch durch.</p>
-<div class="figure">
-<img src="Pictures/Rules/DMAppErstellungPersonenProfileAnzahl.JPG" alt="" />
-<p class="caption">SubTab Profile im SubTab Personen</p>
+<div class="float">
+<img src="Pictures/Rules/DMAppErstellungPersonenProfileAnzahl.jpg" alt="SubTab Profile im SubTab Personen" />
+<div class="figcaption">SubTab Profile im SubTab Personen</div>
 </div>
 <p>Die Check-Box <em>Zufallsfaktor</em> steht dabei für die Möglichkeit, eine zufällige Abweichung der Charakter-Ausprägungen hinsichtlich der Attribute, Fähgikeiten und Ausrüstung einzuführen.
 Wird diese Box nicht ausgewählt, so verfügen alle reingeladenen Profil über jene Merkmalsausprägungen, wie sie in der Excel-Datei festgelegt wurden.
@@ -2024,9 +2044,9 @@ In der Box auf der rechten Seite gibt das Programm die Meldung aus, ob die Initi
 Hier können also die Profile der Spieler der Session eingelesen werden.
 Auch hier lohnt es sich, die Namen kurz und prägnant zu wählen.
 Wird ein Name eingegeben und der “Erstellen”-Button gedrückt, so öffnet sich ein neues Fenster, welches dazu auffordert die Excel-Datei des Spielers im <em>ZZZ Character Sheets</em>-Ordner auszuwählen.</p>
-<div class="figure">
-<img src="Pictures/Rules/DMAppErstellungPC.png" alt="" />
-<p class="caption">SubTab Profile im SubTab Personen</p>
+<div class="float">
+<img src="Pictures/Rules/DMAppErstellungPC.png" alt="SubTab Profile im SubTab Personen" />
+<div class="figcaption">SubTab Profile im SubTab Personen</div>
 </div>
 <p>Wird eine Excel-Datei ausgewählt, so wird der Charakter automatisch eingeladen.
 Auch hier wird in der Box auf der rechten Seite eine Meldung ausgegeben, die “<em>Name</em> erfolgreich initialisiert” lautet, wenn alles funktioniert hat.</p>
@@ -2036,17 +2056,17 @@ Auch hier wird in der Box auf der rechten Seite eine Meldung ausgegeben, die “
 <p>Möchte ein DM selbst auf die Schnelle eine Person erstellen, welche über bestimmte Fähigkeits- und Attributsausprägungen verfügen soll, so gibt es die Möglichkeit einen <em>Npc</em> (non-player character) zu erstellen.</p>
 <p>Die Auswahlmöglichkeiten die Fähigkeiten festzulegen orientiert sich an den Sub-Tabs des Spiele-Tabs.
 Während die <a href="die-charaktererstellung.html#Attribute">Attribute</a> einzeln eingestellt werden können, werden die <a href="die-charaktererstellung.html#Fähigkeiten">Fähigkeiten</a> in Bereiche zusammengefasst.</p>
-<div class="figure">
-<img src="Pictures/Rules/DMAppPersonenNPC.JPG" alt="" />
-<p class="caption">SubTab Profile im SubTab Personen</p>
+<div class="float">
+<img src="Pictures/Rules/DMAppPersonenNPC.jpg" alt="SubTab Profile im SubTab Personen" />
+<div class="figcaption">SubTab Profile im SubTab Personen</div>
 </div>
 <p>Als Erinnerung: Der Name “Beispiel” dient hierbei nur der Veranschaulichung des Beispiels und wird nicht als Akteur-Name im Spiel empfohlen.</p>
 <p><em>Kampf</em> umfasst alle Fähigkeiten, die mit dem Kämpfen zu tun haben und wie im Tabellenblatt <a href="die-charaktererstellung.html#Status">Status</a> unter Kampf aufgeführt sind.
 Hierzu gehören das Reiten, Nahkampfwaffen, Unbewaffnet, Blocken, Artillerie, Fernwaffen, Werfen und Ausweichen.</p>
 <p>Eine Übersicht darüber, welche Fähigkeiten zur jeweiligen Übergruppe (Schurke, Sozial, Fortbewegung, Intelligenz und Utility) zugehörig sind, findet sich in der nachfolgenden Abbildung.</p>
-<div class="figure">
-<img src="Pictures/Rules/DMAppErstellungPersonenNPCFaehigkeiten.JPG" alt="" />
-<p class="caption">Fähigkeiten, die der jeweiligen Überkategorie zugeordnet werden.</p>
+<div class="float">
+<img src="Pictures/Rules/DMAppErstellungPersonenNPCFaehigkeiten.jpg" alt="Fähigkeiten, die der jeweiligen Überkategorie zugeordnet werden." />
+<div class="figcaption">Fähigkeiten, die der jeweiligen Überkategorie zugeordnet werden.</div>
 </div>
 <p><em>sigmaSkills</em> steht für die Abweichung der einzelnen Skills innerhalb der Überkategorien.
 <em>sigmaAttr</em> sorgt für eine Variation innerhalb der Attributpunkte.
@@ -2062,9 +2082,9 @@ Das <em>Schild</em> bietet die Auswahlmöglichkeiten für die Verteidungsoption 
 <div id="DMAppMonster" class="section level4 unnumbered hasAnchor">
 <h4>Monster<a href="installation-und-nutzung-von-orbis-astea.html#DMAppMonster" class="anchor-section" aria-label="Anchor link to header"></a></h4>
 <p>Alle weiteren Kreaturen, Strukturen und Objekte lassen sich erstellen, indem der jeweilige Tab durch das Anklicken ausgeklappt wird.</p>
-<div class="figure">
-<img src="Pictures/Rules/DMAppErstellungUebersicht.JPG" alt="" />
-<p class="caption">Übersicht zu allen weiteren Objekten, die erstellt werden können.</p>
+<div class="float">
+<img src="Pictures/Rules/DMAppErstellungUebersicht.jpg" alt="Übersicht zu allen weiteren Objekten, die erstellt werden können." />
+<div class="figcaption">Übersicht zu allen weiteren Objekten, die erstellt werden können.</div>
 </div>
 <p>Für Monster einfach den <em>Monster</em>-Tab auswählen.
 Hier muss lediglich der Name des Monsters im Namensfeld eingegeben, im Dropdown-Menü bei Monster-Profil das gewünschte <a href="Monster.html#Monster">Monster</a> ausgewählt und die Anzahl der zu erstellenden Monster eingegeben werden.
@@ -2121,9 +2141,9 @@ Das Programm entfernt das erstelle Profil bei Zerstörung automatisch aus den ge
 Auf der rechten Seite befinden sich die beiden Tabs <em>Elemente</em> und <em>Show-Tab</em>, wie der nachfolgenden Abbildung zu entnehmen.</p>
 <div id="DMAppElementeShow" class="section level4 unnumbered hasAnchor">
 <h4>Elemente- und Show-Tab<a href="installation-und-nutzung-von-orbis-astea.html#DMAppElementeShow" class="anchor-section" aria-label="Anchor link to header"></a></h4>
-<div class="figure">
-<img src="Pictures/Rules/DMAppUebersichtElementeTab.JPG" alt="" />
-<p class="caption">Der Tab <em>Elemente</em> auf der rechten Seite der DM-Übersicht.</p>
+<div class="float">
+<img src="Pictures/Rules/DMAppUebersichtElementeTab.jpg" alt="Der Tab Elemente auf der rechten Seite der DM-Übersicht." />
+<div class="figcaption">Der Tab <em>Elemente</em> auf der rechten Seite der DM-Übersicht.</div>
 </div>
 <p>Der Elemente-Tab zeigt dabei an, welche Akteure bereits eingeladen wurden.
 Hier gibt es zur Übersicht Informationen zum Namen, einer Beschreibung, um welches Profil es sich handelt, und dem Typ des Akteurs.
@@ -2140,17 +2160,17 @@ Unter <em>Unterobjekt</em> kann ausgewählt werden, was im Detail angeschaut wer
 Hier kann man das Objekt selber auswählen, was alle Informationen umfasst, die es zu einem Akteur gibt, oder alle aktive Waffen wie Rüstung oder Waffen.
 Besitzt ein Akteur ein Tier, so gibt es auch die Möglichkeit die <a href="besondere-regeln.html#loyalität">Loyalität</a> sowie die <a href="besondere-regeln.html#erlernbare-fähigkeiten">Tier-Fähigkeiten</a> anzuschauen.
 Nach Festlegung der Details, die ausgegeben werden sollen sowie des Klickens des <em>Show</em>-Buttons, werden die geforderten Informationen im Show-Tab auf der rechten Seite ausgegeben.</p>
-<div class="figure">
-<img src="Pictures/Rules/DMAppUebersichtShowTab.JPG" alt="" />
-<p class="caption">Der <em>Show-Tab</em> auf der rechten Seite der DM-Übersicht mit der Einstellung das Objekt “Beispiel 1” als Gesamtes anzuzeigen.</p>
+<div class="float">
+<img src="Pictures/Rules/DMAppUebersichtShowTab.jpg" alt="Der Show-Tab auf der rechten Seite der DM-Übersicht mit der Einstellung das Objekt “Beispiel 1” als Gesamtes anzuzeigen." />
+<div class="figcaption">Der <em>Show-Tab</em> auf der rechten Seite der DM-Übersicht mit der Einstellung das Objekt “Beispiel 1” als Gesamtes anzuzeigen.</div>
 </div>
 </div>
 <div id="DMAppStatus" class="section level4 unnumbered hasAnchor">
 <h4>Status<a href="installation-und-nutzung-von-orbis-astea.html#DMAppStatus" class="anchor-section" aria-label="Anchor link to header"></a></h4>
 <p>Möchte der DM schnell prüfen, wie viel Gesundheit und Ausdauer ein Charakter hat, oder ob es irgendwelche <a href="grundlagen-des-spiels.html#damage-over-time">Statuseffekte</a>, wie Vergiftungen, gibt, so gibt es die Möglichkeit den gewünschten Akteur unter Objekt auszuwählen und sich diese Informationen im darunter liegenden Feld ausgeben zu lassen.</p>
-<div class="figure">
-<img src="Pictures/Rules/DMAppUebersichtStatus.JPG" alt="" />
-<p class="caption">Beispiel-Status für Akteur <em>B</em>, der durch einen Gift-Pfeil vergiftet wurde und aus diesem Grund für neun Runden 58 Schaden pro Runde erleidet.</p>
+<div class="float">
+<img src="Pictures/Rules/DMAppUebersichtStatus.jpg" alt="Beispiel-Status für Akteur B, der durch einen Gift-Pfeil vergiftet wurde und aus diesem Grund für neun Runden 58 Schaden pro Runde erleidet." />
+<div class="figcaption">Beispiel-Status für Akteur <em>B</em>, der durch einen Gift-Pfeil vergiftet wurde und aus diesem Grund für neun Runden 58 Schaden pro Runde erleidet.</div>
 </div>
 </div>
 <div id="DMAppZuruecksetzen" class="section level4 unnumbered hasAnchor">
@@ -2160,9 +2180,9 @@ Wichtig ist jedoch, dass diese Funktion nur ein Objekt zurücksetzt!
 Bei einem fehlerhaften Angriff müssen die beteiligten Objekte separat zurückgesetzt werden.
 Wichtig ist, dass alle beteiligten Akteure einzeln zurückgesetzt werden müssen.
 Dies bedeutet im Falle eines Angriffs des Akteurs A auf ein Opfer B, sowohl das Objekt A als auch B ausgewählt werden müssen, um verlorene Ausdauer und Gesundheit wieder zurück zu gewinnen.</p>
-<div class="figure">
-<img src="Pictures/Rules/DMAppUebersichtStatus.JPG" alt="" />
-<p class="caption">Beispiel-Status für Akteur <em>u</em>, der durch einen Spitzen-Pfeil blutet und aus diesem Grund für drei Runden 66 Schaden pro Runde erleidet.</p>
+<div class="float">
+<img src="Pictures/Rules/DMAppUebersichtStatus.jpg" alt="Beispiel-Status für Akteur u, der durch einen Spitzen-Pfeil blutet und aus diesem Grund für drei Runden 66 Schaden pro Runde erleidet." />
+<div class="figcaption">Beispiel-Status für Akteur <em>u</em>, der durch einen Spitzen-Pfeil blutet und aus diesem Grund für drei Runden 66 Schaden pro Runde erleidet.</div>
 </div>
 </div>
 <div id="zurücksetzen" class="section level4 unnumbered hasAnchor">
@@ -2172,13 +2192,13 @@ Wichtig ist jedoch, dass diese Funktion nur ein Objekt zurücksetzt!
 Bei einem fehlerhaften Angriff müssen die beteiligten Objekte separat zurückgesetzt werden.
 Wichtig ist, dass alle beteiligten Akteure einzeln zurückgesetzt werden müssen.
 Dies bedeutet im Falle eines Angriffs des Akteurs A auf ein Opfer B, dass sowohl das Objekt A als auch B separat ausgewählt werden müssen, um verlorene Ausdauer und Gesundheit wieder zurück zu gewinnen.</p>
-<div class="figure">
-<img src="Pictures/Rules/DMAppUebersichtZuruecksetzen.JPG" alt="" />
-<p class="caption">Erfolgreiche Zurücksetzung eines Angriffs zur Wiederherstellung des Lebens und der Ausdauer sowie der Zurücksetzung der Statuseffekte für den Akteur <em>u</em>.</p>
+<div class="float">
+<img src="Pictures/Rules/DMAppUebersichtZuruecksetzen.jpg" alt="Erfolgreiche Zurücksetzung eines Angriffs zur Wiederherstellung des Lebens und der Ausdauer sowie der Zurücksetzung der Statuseffekte für den Akteur u." />
+<div class="figcaption">Erfolgreiche Zurücksetzung eines Angriffs zur Wiederherstellung des Lebens und der Ausdauer sowie der Zurücksetzung der Statuseffekte für den Akteur <em>u</em>.</div>
 </div>
-<div class="figure">
-<img src="Pictures/Rules/DMAppUebersichtStatus.JPG" alt="" />
-<p class="caption">Beispiel-Status für Akteur <em>u</em>, der durch einen Spitzen-Pfeil blutet und aus diesem Grund für drei Runden 66 Schaden pro Runde erleidet.</p>
+<div class="float">
+<img src="Pictures/Rules/DMAppUebersichtStatus.jpg" alt="Beispiel-Status für Akteur u, der durch einen Spitzen-Pfeil blutet und aus diesem Grund für drei Runden 66 Schaden pro Runde erleidet." />
+<div class="figcaption">Beispiel-Status für Akteur <em>u</em>, der durch einen Spitzen-Pfeil blutet und aus diesem Grund für drei Runden 66 Schaden pro Runde erleidet.</div>
 </div>
 <p>Um zu überprüfen, ob die Gesundheit eines Spieler wiederhergestellt wurde, kann zusätzlich unter <a href="installation-und-nutzung-von-orbis-astea.html#DMAppStatus">Status</a> oder <a href="installation-und-nutzung-von-orbis-astea.html#DMAppBeschreiben">Beschreiben</a> überprüft werden, welche Werte dem Akteur zugeschrieben werden.</p>
 </div>
@@ -2188,14 +2208,14 @@ Dies bedeutet im Falle eines Angriffs des Akteurs A auf ein Opfer B, dass sowohl
 Hierfür müssen lediglich die Namen der betroffenen Objekte <em>händisch</em> in das Eingabefeld eingefügt werden.
 Jedes Eingabefeld, das ein <em>(L)</em> hinter dem Elementnamen enthält, umfasst die Möglichkeit mehrere Akteure aufzuzählen.
 Diese sind mit einem Komma voneinander zu trennen.</p>
-<div class="figure">
-<img src="Pictures/Rules/DMAppUebersichtVorLoeschen.JPG" alt="" />
-<p class="caption">Eine Übersicht des Elemente-Tabs vor der Löschung verschiedener Akteure.</p>
+<div class="float">
+<img src="Pictures/Rules/DMAppUebersichtVorLoeschen.jpg" alt="Eine Übersicht des Elemente-Tabs vor der Löschung verschiedener Akteure." />
+<div class="figcaption">Eine Übersicht des Elemente-Tabs vor der Löschung verschiedener Akteure.</div>
 </div>
 <p>In der nachfolgenden Abbildung ist zu sehen, wie mehrere Objekte in eine Liste eingetragen werden können und dass deren Löschung automatisch zu einer Entfernung der Objekte aus dem Elemente-Tab führt.</p>
-<div class="figure">
-<img src="Pictures/Rules/DMAppUebersichtLoeschen.JPG" alt="" />
-<p class="caption">Das erfolreiche Löschen mehrerer Akteure.</p>
+<div class="float">
+<img src="Pictures/Rules/DMAppUebersichtLoeschen.jpg" alt="Das erfolreiche Löschen mehrerer Akteure." />
+<div class="figcaption">Das erfolreiche Löschen mehrerer Akteure.</div>
 </div>
 <p>Jedes Eingabefeld, das ein <em>(L)</em> hinter dem Elementnamen enthält, umfasst die Möglichkeit mehrere Akteure aufzuzählen.
 Diese sind mit einem Komma voneinander zu trennen.</p>
@@ -2212,13 +2232,13 @@ Bei der Bestimmung des Wetters macht es zum Beispiel einen großen Unterschied, 
 <h4>Wetter<a href="installation-und-nutzung-von-orbis-astea.html#DMAppWetter" class="anchor-section" aria-label="Anchor link to header"></a></h4>
 <p>Wurde bereits ein Gebiet ausgewählt, muss nur noch die Tageszeit und die gewünschte Jahreszeit bestimmt werden.
 Im Anschluss muss man lediglich das Kästchen auf der rechten Seite auslesen, um zu sehen, wie das Wetter ist.</p>
-<div class="figure">
-<img src="Pictures/Rules/DMAppUmgebungWetter.JPG" alt="" />
-<p class="caption">Das Wetter für die Region Wurmfall an einem Herbsttag.</p>
+<div class="float">
+<img src="Pictures/Rules/DMAppUmgebungWetter.jpg" alt="Das Wetter für die Region Wurmfall an einem Herbsttag." />
+<div class="figcaption">Das Wetter für die Region Wurmfall an einem Herbsttag.</div>
 </div>
-<div class="figure">
-<img src="Pictures/Rules/DMAppUmgebungWetter.JPG" alt="" />
-<p class="caption">Das Wetter für die Region Wurmfall an einem Herbsttag.</p>
+<div class="float">
+<img src="Pictures/Rules/DMAppUmgebungWetter.jpg" alt="Das Wetter für die Region Wurmfall an einem Herbsttag." />
+<div class="figcaption">Das Wetter für die Region Wurmfall an einem Herbsttag.</div>
 </div>
 </div>
 <div id="DMAppStädteHändler" class="section level4 unnumbered hasAnchor">
@@ -2230,27 +2250,27 @@ Im Vergleich dazu hat eine Stadt viel mehr verschiedene Händler mit größerem 
 Es ist jedoch wichtig zu beachten, dass die Voreinstellungen zur Bestandsgröße und die Anzahl der Anbieter immer verändert werden können, indem man einfach auf das Kästchen daneben klickt und die gewünschten Einstellungen auswählt.
 Wenn alle Einstellungen gewählt wurden, kann der <em>Go</em>-Button gewählt werden.
 Sobald die Erstellung fertiggestellt ist, zeigt das Kontrollkästchen und dem Button <em>Fertig</em> an.</p>
-<div class="figure">
-<img src="Pictures/Rules/DMAppUmgebungStadt.JPG" alt="" />
-<p class="caption">Die Erstellung einer Kleinstadt mit den vorgegebenen Parametern.</p>
+<div class="float">
+<img src="Pictures/Rules/DMAppUmgebungStadt.jpg" alt="Die Erstellung einer Kleinstadt mit den vorgegebenen Parametern." />
+<div class="figcaption">Die Erstellung einer Kleinstadt mit den vorgegebenen Parametern.</div>
 </div>
 <p>Danach sind alle Händler im Ordner „OrbisGame” unter „SessionOrganisation” in der Excel-Datei „downtimestadt” zu finden.</p>
-<div class="figure">
-<img src="Pictures/Rules/DMAppUmgebungStadtExcel.JPG" alt="" />
-<p class="caption">Der Speicherort der Excel-Datei der Downtime-Stadt.</p>
+<div class="float">
+<img src="Pictures/Rules/DMAppUmgebungStadtExcel.jpg" alt="Der Speicherort der Excel-Datei der Downtime-Stadt." />
+<div class="figcaption">Der Speicherort der Excel-Datei der Downtime-Stadt.</div>
 </div>
 <p>Wenn man nur einen einzelnen Händler generieren möchte, ist dies auch im <em>Händler</em>-Tab möglich.
 Hier muss lediglich die Art des Händlers und die Menge der Gegenstände ausgewählt werden.
 Die ermöglicht es zum einen direkt einen Einblick in die Inhalte des Inventars des Händlers zu bekommen:</p>
-<div class="figure">
-<img src="Pictures/Rules/DMAppUmgebungHaendler.JPG" alt="" />
-<p class="caption">Ein direkter Einblick in das Inventar des Händlers.</p>
+<div class="float">
+<img src="Pictures/Rules/DMAppUmgebungHaendler.jpg" alt="Ein direkter Einblick in das Inventar des Händlers." />
+<div class="figcaption">Ein direkter Einblick in das Inventar des Händlers.</div>
 </div>
 <p>Anschließend ist der Händler ebenfalls im Ordner “SessionOrganisation” zu finden.
 Somit ist die Excel-Datei auch für die Spieler zugänglich.</p>
-<div class="figure">
-<img src="Pictures/Rules/DMAppUmgebungHaendlerExcel.JPG" alt="" />
-<p class="caption">Der Speicherort der Excel-Datei des zusätzlichen Händlers.</p>
+<div class="float">
+<img src="Pictures/Rules/DMAppUmgebungHaendlerExcel.jpg" alt="Der Speicherort der Excel-Datei des zusätzlichen Händlers." />
+<div class="figcaption">Der Speicherort der Excel-Datei des zusätzlichen Händlers.</div>
 </div>
 </div>
 <div id="DMAppEreignisse" class="section level4 unnumbered hasAnchor">
@@ -2258,17 +2278,17 @@ Somit ist die Excel-Datei auch für die Spieler zugänglich.</p>
 <p>Der Ereignisse-Tab ermöglicht es zufällige Begegnungen zu generieren, ohne, dass der DM diese selbst erfinden muss.
 Hierfür muss lediglich ausgewählt werden, ob das Ereignis in einer Stadt oder auf dem Weg zwischen zwei Orten stattfinden soll.
 Das Szenario wird vom Programm in der Box auf der rechten Seite ausgegeben und wird aus einer Datenbank verschiedener Ereignisse gezogen.</p>
-<div class="figure">
-<img src="Pictures/Rules/DMAppUmgebungEreignisse.JPG" alt="" />
-<p class="caption">Ein Beispiel-Ereignis mit zusätzlicher Information für den DM</p>
+<div class="float">
+<img src="Pictures/Rules/DMAppUmgebungEreignisse.jpg" alt="Ein Beispiel-Ereignis mit zusätzlicher Information für den DM" />
+<div class="figcaption">Ein Beispiel-Ereignis mit zusätzlicher Information für den DM</div>
 </div>
 <p>Es lohnt sich vor dem Vorlesen des Ereignisses, den Text kurz durchzulesen.
 Wie im Beispiel obendrüber besteht durchaus die Möglichkeit, dass der DM mit der Situation spielt.
 So kann eine Verfolgung der Spieler inszeniert werden, ohne dass dies wirklich der Fall ist.
 Auf diese Weise können sich neue Handlungsstränge ergeben.</p>
-<div class="figure">
-<img src="Pictures/Rules/DMAppUmgebungEreignisse.JPG" alt="" />
-<p class="caption">Ein Beispiel-Ereignis mit zusätzlicher Information für den DM</p>
+<div class="float">
+<img src="Pictures/Rules/DMAppUmgebungEreignisse.jpg" alt="Ein Beispiel-Ereignis mit zusätzlicher Information für den DM" />
+<div class="figcaption">Ein Beispiel-Ereignis mit zusätzlicher Information für den DM</div>
 </div>
 </div>
 <div id="DMAppLagern" class="section level4 unnumbered hasAnchor">
@@ -2281,9 +2301,9 @@ Einzustellen sind die Länge, Qualität und Versorger.
 Der DM kann, aufgrund der Umgebungsvariablen, eigenmächtig entscheiden, welche Qualität verfügbar ist, z.B.
 schlafen die Spieler draußen im Regen ohne Zelte und Schlafmatratze, dann sind die Bedingungen eindeutig schlecht.
 Das Ergebnis des Lagerns ist den Spielern durch den DM mitzuteilen, da es hierbei zu einer Verbesserung oder Verschlechterung der Gesundheit und Ausdauer kommen kann.</p>
-<div class="figure">
-<img src="Pictures/Rules/DMAppUmgebungLagern.JPG" alt="" />
-<p class="caption">Eine Liste an Charakteren, die sich aufgrund des Lagerns um 20% erholt.</p>
+<div class="float">
+<img src="Pictures/Rules/DMAppUmgebungLagern.jpg" alt="Eine Liste an Charakteren, die sich aufgrund des Lagerns um 20% erholt." />
+<div class="figcaption">Eine Liste an Charakteren, die sich aufgrund des Lagerns um 20% erholt.</div>
 </div>
 <p>Die Zustandsveränderung wird vom Programm automatisch für die Profile übernommen.
 Es empfiehlt sich den Spielern ihre neuen Werte mittels <a href="installation-und-nutzung-von-orbis-astea.html#DMAppStatus">Status</a> oder <a href="installation-und-nutzung-von-orbis-astea.html#DMAppBeschreiben">Beschreiben</a> im <a href="installation-und-nutzung-von-orbis-astea.html#DMAppDMUebersicht"><em>DM-Übersicht</em>-Tab</a> zu nennen, damit sie diese im <a href="die-charaktererstellung.html#Status">Status-Tabellenblatt</a> vermerken können.</p>
@@ -2294,15 +2314,15 @@ Es empfiehlt sich den Spielern ihre neuen Werte mittels <a href="installation-un
 Befindet sich der Spieler zum Beispiel in einem Wald in Yondalla, wo die Einheimischen die natürlichen Ressourcen nicht sammeln, dann sind die Bedingungen sehr gut.
 Befindet sich der Spieler jedoch in einer Wüste, sind die Bedingungen schlecht.
 Auch steht es dem DM frei, das Pflanzensammeln zu untersagen.</p>
-<div class="figure">
-<img src="Pictures/Rules/DMAppUmgebungPflanzensammeln.JPG" alt="" />
-<p class="caption">Eine Beispielauswahl für die Bedingungen des Pflanzensammelns für einen Npc mit dem Ergebnis der gefundenen Pflanzen.</p>
+<div class="float">
+<img src="Pictures/Rules/DMAppUmgebungPflanzensammeln.jpg" alt="Eine Beispielauswahl für die Bedingungen des Pflanzensammelns für einen Npc mit dem Ergebnis der gefundenen Pflanzen." />
+<div class="figcaption">Eine Beispielauswahl für die Bedingungen des Pflanzensammelns für einen Npc mit dem Ergebnis der gefundenen Pflanzen.</div>
 </div>
 <p>Die Blumen, die der Spieler gefunden hat, sind im <em>OrbisGame</em>-Ordner unter <em>SessionOrganisation</em> in der Excel-Datei <em>Pflanzen</em> zu finden.
 Dabei wird der Name des Akteurs im Namen des Pflanzenfiles vermerkt, um diese auseinanderhalten zu können, wenn mehrere Spieler Pflanzen sammeln.</p>
-<div class="figure">
-<img src="Pictures/Rules/DMAppUmgebungPflanzensammelnExcel.JPG" alt="" />
-<p class="caption">Eine Beispielauswahl für die Bedingungen des Pflanzensammelns für einen Npc mit dem Ergebnis der gefundenen Pflanzen.</p>
+<div class="float">
+<img src="Pictures/Rules/DMAppUmgebungPflanzensammelnExcel.jpg" alt="Eine Beispielauswahl für die Bedingungen des Pflanzensammelns für einen Npc mit dem Ergebnis der gefundenen Pflanzen." />
+<div class="figcaption">Eine Beispielauswahl für die Bedingungen des Pflanzensammelns für einen Npc mit dem Ergebnis der gefundenen Pflanzen.</div>
 </div>
 </div>
 <div id="DMAppTextgenerator" class="section level4 unnumbered hasAnchor">
@@ -2323,9 +2343,9 @@ Hierfür muss nach Generierung des Textes lediglich der <em>read</em>-Button aus
 <h3><span class="header-section-number">56.2.4</span> Einstellungen<a href="installation-und-nutzung-von-orbis-astea.html#DMAppEinstellungen" class="anchor-section" aria-label="Anchor link to header"></a></h3>
 <p>Die Einstellungen ermöglichen es dem DM verschiedene globale Spieleinstellungen zu treffen, die die Handhabung des Orbis Launchers individualisiert.
 Darüber hinaus gibt es in desem Tab die Möglichkeit ein Design für die App auszuwählen, welches den eigenen Präferenzen entspricht, ein Session-Backup zu laden und eine Identifikationsnummer für den <a href="installation-und-nutzung-von-orbis-astea.html#DMAppTextgenerator">Textgenerator</a> einzugeben.</p>
-<div class="figure">
-<img src="Pictures/Rules/DMAppEinstellungen.JPG" alt="" />
-<p class="caption">Ein Überblick über die Einstellungen im Arcade-Design.</p>
+<div class="float">
+<img src="Pictures/Rules/DMAppEinstellungen.jpg" alt="Ein Überblick über die Einstellungen im Arcade-Design." />
+<div class="figcaption">Ein Überblick über die Einstellungen im Arcade-Design.</div>
 </div>
 <div id="DMAppSessionBackup" class="section level4 unnumbered hasAnchor">
 <h4><em>Session Backup</em><a href="installation-und-nutzung-von-orbis-astea.html#DMAppSessionBackup" class="anchor-section" aria-label="Anchor link to header"></a></h4>
@@ -2337,9 +2357,9 @@ Die Dateien werden regelmäßig überschrieben, wenn eine maximale Backup-Anzahl
 Eine manuelle Löschung ist dementsprechend nicht notwendig.</p>
 <p>Für das Laden eines Backups muss lediglich der Button <em>Load Backup</em> betätigt und die Datei des gewünschten Backup-Zeitpunkts gewählt werden.
 Dabei ist zu beachten, dass der aktuellste Zeitpunkt nicht zwangsläufig jener ist, der ganz oben angeführt wird.</p>
-<div class="figure">
-<img src="Pictures/Rules/DMAppEinstellungenBackup.png" alt="" />
-<p class="caption">Das Auswählen einer Backup-Datei.</p>
+<div class="float">
+<img src="Pictures/Rules/DMAppEinstellungenBackup.png" alt="Das Auswählen einer Backup-Datei." />
+<div class="figcaption">Das Auswählen einer Backup-Datei.</div>
 </div>
 <p>Nach Auswahl der Datei wird das Backup automatisch geladen.
 Es empfiehlt sich den Erfolg mittels <a href="#DMAppDMÜbersicht">DM-Übersicht</a> zu überprüfen.</p>
@@ -2370,25 +2390,25 @@ Diese Option hängt mit der Bezahlung von ChatGPT XXXX Link zur Website zusammen
 <p>Der Spiel-Tab ist jener Tab, der die Welt von Orbis Astea zum Leben erweckt.
 Hier geschehen die Aktionen, die die Kampagnen für DM und Spieler interessant werden lassen.
 Die SubTabs sind aufgebaut, wie es in der Charakter-Excel-Datei der Spieler der Fall ist.</p>
-<div class="figure">
-<img src="Pictures/Rules/DMAppErstellungPersonenNPCFaehigkeiten.JPG" alt="" />
-<p class="caption">Fähigkeiten, die der jeweiligen Überkategorie zugeordnet werden.</p>
+<div class="float">
+<img src="Pictures/Rules/DMAppErstellungPersonenNPCFaehigkeiten.jpg" alt="Fähigkeiten, die der jeweiligen Überkategorie zugeordnet werden." />
+<div class="figcaption">Fähigkeiten, die der jeweiligen Überkategorie zugeordnet werden.</div>
 </div>
 <p>Wie bereits bei der <a href="installation-und-nutzung-von-orbis-astea.html#DMAppErstellung">Erstellung</a> der Objekte, gibt es auch im Spiel-Tab verschiedene SubTabs in den SubTabs.
 Diese sind sehr leicht zu bedienen.
 Bei Unklarheiten zu den einzelnen Elementen der Benutzeroberfläche gibt es die Möglichkeit, über den jeweiligen Begriff zu hovern, sodass angezeigt wird, wofür dieses steht.</p>
-<div class="figure">
-<img src="Pictures/Rules/DMAppHovern.png" alt="" />
-<p class="caption">Beispiel für die Zusatzinformation durch das Verschieben des Mauszeigers auf das Element, zu welchem Informationen benötigt werden.</p>
+<div class="float">
+<img src="Pictures/Rules/DMAppHovern.png" alt="Beispiel für die Zusatzinformation durch das Verschieben des Mauszeigers auf das Element, zu welchem Informationen benötigt werden." />
+<div class="figcaption">Beispiel für die Zusatzinformation durch das Verschieben des Mauszeigers auf das Element, zu welchem Informationen benötigt werden.</div>
 </div>
 <p>Zur Ausführung der Würfe des Spieletabs, ist es unbedingt notwendig vorab alle relevanten Objekte im <a href="installation-und-nutzung-von-orbis-astea.html#DMAppErstellung">Erstellungs-Tab</a> zu erstellen.</p>
 <p>Auf der rechten Seite gibt es vier zusätzliche Tabs.
 Die Initiative zeigt an, welches Objekt als nächstes in der Reihenfolge eine Aktion ausführen kann.
 Diese kann <a href="installation-und-nutzung-von-orbis-astea.html#DMAppKampfInitiative">hier</a> erstellt werden.
 Das <a href="installation-und-nutzung-von-orbis-astea.html#DMAppWetter">Wetter</a> dient der Erinnerung des DMs an die festgelegten Umgebungsvariablen.</p>
-<div class="figure">
-<img src="Pictures/Rules/DMAppSpielWetter.JPG" alt="" />
-<p class="caption">Die Umgebungsvariablen, die der DM zu Beginn einer Session festgelegt hat. Das Wetter kann dabei beispielsweise Einfluss auf die Rastqualität, das Feuermachen oder die Sichtweite nehmen.</p>
+<div class="float">
+<img src="Pictures/Rules/DMAppSpielWetter.jpg" alt="Die Umgebungsvariablen, die der DM zu Beginn einer Session festgelegt hat. Das Wetter kann dabei beispielsweise Einfluss auf die Rastqualität, das Feuermachen oder die Sichtweite nehmen." />
+<div class="figcaption">Die Umgebungsvariablen, die der DM zu Beginn einer Session festgelegt hat. Das Wetter kann dabei beispielsweise Einfluss auf die Rastqualität, das Feuermachen oder die Sichtweite nehmen.</div>
 </div>
 <p>Die <em>Console</em> zeigt immer den zuletzt ausgegebenen Wert an.
 Das klingt etwas kryptisch, hilft dem DM aber dabei, nachvollziehen zu können, welchen Check er zuletzt durchgeführt hat.
@@ -2413,9 +2433,9 @@ Bei einer Auflistung mehrerer Objekte ist die Trennung dieser mittels Komma notw
 <p><em>Amod</em> steht hierbei für einen durch den DM festgelegt Modifikator für den Akteur, während der <em>Pmod</em> einen Modifikator für die Zielobjekte darstellt.
 Dieser Modifikator ermöglicht einen Vorteil für den Wurf für das jeweils ausgewählte Objekt.
 Werden mehrere Objekte sozial beeinflusst, so ist es wichtig, dass diese, ebenso wie im Feld darüber, durch ein Komma voneinander getrennt aufgezählt werden.</p>
-<div class="figure">
-<img src="Pictures/Rules/DMAppSpielAbstufungenGuterVersuch.JPG" alt="" />
-<p class="caption">Ein Beispiel dafür, wie die Maske aufgebaut ist.</p>
+<div class="float">
+<img src="Pictures/Rules/DMAppSpielAbstufungenGuterVersuch.jpg" alt="Ein Beispiel dafür, wie die Maske aufgebaut ist." />
+<div class="figcaption">Ein Beispiel dafür, wie die Maske aufgebaut ist.</div>
 </div>
 <p>Es muss immer ein Akteur bestimmt werden, zusätzlich meistens ein Ziel oder Opfer.
 Wird hinter dem Begriff <em>Opfer</em> oder <em>Ziele</em> eine “(L)” angeführt, so kann hier eine Liste an Personen aufgeführt werden, die durch den Versuch der Handlung beeinflusst werden.
@@ -2426,9 +2446,9 @@ Prinzipiell gilt “probieren geht über studieren” - das schlimmste, was pass
 <h5><em>Überzeugen</em><a href="installation-und-nutzung-von-orbis-astea.html#DMAppSozialUeberzeugen" class="anchor-section" aria-label="Anchor link to header"></a></h5>
 <p>Möchte ein Akteur einen oder mehrere andere argumentativ vom eigenen Standpunkt überzeugen, so kann dies unter <em>Überzeugen</em> ausgeführt werden.
 Die Benutzungsoberfläche sieht dabei so aus, nur dass das Ziel/die Ziele noch eingetragen und ein Akteur ausgwählt werden muss:</p>
-<div class="figure">
-<img src="Pictures/Rules/DMAppSpielSozialUeberzeugen.JPG" alt="" />
-<p class="caption">Akteur a2 überzeugt vier Personen von seinem Standpunkt mit einem Amod von 2, welcher die hohe Überzeugungskraft des Akteurs erklärt.-</p>
+<div class="float">
+<img src="Pictures/Rules/DMAppSpielSozialUeberzeugen.jpg" alt="Akteur a2 überzeugt vier Personen von seinem Standpunkt mit einem Amod von 2, welcher die hohe Überzeugungskraft des Akteurs erklärt.-" />
+<div class="figcaption">Akteur a2 überzeugt vier Personen von seinem Standpunkt mit einem Amod von 2, welcher die hohe Überzeugungskraft des Akteurs erklärt.-</div>
 </div>
 <p><em>Amod</em> steht hierbei für einen durch den DM festgelegt Modifikator für den Akteur, während der <em>Pmod</em> einen Modifikator für die Zielobjekte darstellt.
 Dieser Modifikator ermöglicht einen Vorteil für den Wurf für das jeweils ausgewählte Objekt.
@@ -2439,17 +2459,17 @@ Je kleiner eine Zahl ist, desto überzeugter sind die Opfer.</p>
 <p>Möchte beispielsweise ein Akteur eine andere Person oder eine Gruppe an Personen überzeugen, die dafür bekannt ist, nicht zuverlässig zu sein, so kann der DM ein <em>Pmod</em> für jedes Zielobjekt einzeln festlegen.
 Das nachfolgende Bild veranschaulicht, wie die Verteilung des Pmods dabei aussehen könnte.
 Ein höherer Wert bedeutet dabei bessere Chancen für das Zielobjekt einen hohen Wert zu würfeln und dem Überzeugungsversuch damit standzuhalten.</p>
-<div class="figure">
-<img src="Pictures/Rules/DMAppSpielSozialUeberzeugenPMod.JPG" alt="" />
-<p class="caption">Ein Beispiel für Modifikatoren für die Ziele eines Überzeugungsversuch..</p>
+<div class="float">
+<img src="Pictures/Rules/DMAppSpielSozialUeberzeugenPMod.jpg" alt="Ein Beispiel für Modifikatoren für die Ziele eines Überzeugungsversuch.." />
+<div class="figcaption">Ein Beispiel für Modifikatoren für die Ziele eines Überzeugungsversuch..</div>
 </div>
 <div id="DMAppAbstufungen" class="section level6 unnumbered hasAnchor">
 <h6><em>Abstufungen am Beispiel Überzeugen erklärt</em><a href="installation-und-nutzung-von-orbis-astea.html#DMAppAbstufungen" class="anchor-section" aria-label="Anchor link to header"></a></h6>
 <p>Die <a href="für-dms-und-die-die-es-werden-wollen.html#Abstufungen">Abstufungen</a> der Werte, die Akteure erreichen können, werden an Beispielen erklärt, in denen ein Akteur Einfluss auf nur eine Person nimmt.
 Beginnend mit einem sehr schlechten Wert mit <em>&lt; 1</em>:</p>
-<div class="figure">
-<img src="Pictures/Rules/DMAppSpielAbstufungenSehrSchlechterVersuch.JPG" alt="" />
-<p class="caption">Ein Beispiel für einen sehr schlechten Wert für den Akteur.</p>
+<div class="float">
+<img src="Pictures/Rules/DMAppSpielAbstufungenSehrSchlechterVersuch.jpg" alt="Ein Beispiel für einen sehr schlechten Wert für den Akteur." />
+<div class="figcaption">Ein Beispiel für einen sehr schlechten Wert für den Akteur.</div>
 </div>
 <p>Zu sehen ist, dass der Akteur a1 einen Wert (=Value unter <em>Actor</em>) von 0.83 erzielt hat.
 Dieser Wert steht für einen <em>sehr</em> schlechten Versuch eine Aktion durchzuführen und bedeutet somit, dass die Aktion, in den meisten Fällen, erfolglos verlaufen wird.
@@ -2459,9 +2479,9 @@ Aus diesem Grund wird die Differenz für die passive Seite, also die zu überzeu
 Inhaltlich könnte der DM die Situation so auslegen, dass a2 nicht von a1 überzeugt wurde, aber auch nicht in seinen eigenen Argumenten bestärkt wurde.
 Es war ein erfolgloser Überzeugungsversuch und eine eher sinnlose Diskussion.</p>
 <p>Gefolgt von einem schlechten Wert mit <em>&lt; 2</em>:</p>
-<div class="figure">
-<img src="Pictures/Rules/DMAppSpielAbstufungenSchlechterVersuch.JPG" alt="" />
-<p class="caption">Ein Beispiel für einen schlechten Wert für den Akteur.</p>
+<div class="float">
+<img src="Pictures/Rules/DMAppSpielAbstufungenSchlechterVersuch.jpg" alt="Ein Beispiel für einen schlechten Wert für den Akteur." />
+<div class="figcaption">Ein Beispiel für einen schlechten Wert für den Akteur.</div>
 </div>
 <p>Zu sehen ist, dass der Akteur a1 einen Wert (=Value unter <em>Actor</em>) von 1.79 erzielt hat.
 Dieser Wert steht für einen schlechten Versuch und bedeutet somit, dass die Aktion, in den meisten Fällen, erfolglos verlaufen wird.
@@ -2473,9 +2493,9 @@ a2 könnte dabei aber durch seinen mittleren Versuch seine Argumente vorzubringe
 Wichtig: Auf diese Weise funktioniert das Durchführen der Checks nicht!
 Hier geht es lediglich um die Betonung der Freiheiten eines DMs.</p>
 <p>Gefolgt von einem schlechten bis mittleren Wert mit <em>&lt; 2.5</em>:</p>
-<div class="figure">
-<img src="Pictures/Rules/DMAppSpielAbstufungenSchlechterMittlererVersuch.JPG" alt="" />
-<p class="caption">Ein Beispiel für einen schlechten bis mittleren Wert für den Akteur.</p>
+<div class="float">
+<img src="Pictures/Rules/DMAppSpielAbstufungenSchlechterMittlererVersuch.jpg" alt="Ein Beispiel für einen schlechten bis mittleren Wert für den Akteur." />
+<div class="figcaption">Ein Beispiel für einen schlechten bis mittleren Wert für den Akteur.</div>
 </div>
 <p>Zu sehen ist, dass der Akteur a1 einen Wert (=Value unter <em>Actor</em>) von 2.33 erzielt hat.
 Dieser Wert steht für einen schlechten bis mittleren Versuch und bedeutet somit, dass die Aktion eher erfolglos verlaufen wird.
@@ -2487,9 +2507,9 @@ Aus diesem Grund wird die Differenz für die aktive Seite, also die überzeugend
 Inhaltlich könnte der DM die Situation so auslegen, dass die Argumente von a1 jetzt eher schlecht als recht sind, aber inhaltlich logisch aufgebaut sind.
 Da das Opfer, gs, sich allerdings gar nicht im diskutierten Gebiet auskennt, ist er einigermaßen von dem überzeugt, was a1 ihm vorträgt.</p>
 <p>Gefolgt von einem mittleren Wert mit <em>&lt; 3</em>:</p>
-<div class="figure">
-<img src="Pictures/Rules/DMAppSpielAbstufungenMittlererVersuch.JPG" alt="" />
-<p class="caption">Ein Beispiel für einen mittleren Wert für den Akteur.</p>
+<div class="float">
+<img src="Pictures/Rules/DMAppSpielAbstufungenMittlererVersuch.jpg" alt="Ein Beispiel für einen mittleren Wert für den Akteur." />
+<div class="figcaption">Ein Beispiel für einen mittleren Wert für den Akteur.</div>
 </div>
 <p>Zu sehen ist, dass der Akteur a1 einen Wert (=Value unter <em>Actor</em>) von 2.85 erzielt hat.
 Dieser Wert steht für einen mittleren Versuch und bedeutet somit, dass die Aktion im Durchschnitt erfolgreich ist.</p>
@@ -2500,9 +2520,9 @@ Inhaltlich könnte der DM die Situation so auslegen, dass die Argumente von a1 a
 t ist allerdings recht gefestigt in seiner Ansicht, ist aber gewillt a1 weiterhin zuzuhören, um sich seiner Meinung anzunähern.
 Eine Differenz von 0.86 ist zwar erkennbar, aber kein allzugroßer Unterschied.</p>
 <p>Gefolgt von einem mittleren bis guten Wert mit <em>&lt; 3.5</em>:</p>
-<div class="figure">
-<img src="Pictures/Rules/DMAppSpielAbstufungenMittlererGuterVersuch.JPG" alt="" />
-<p class="caption">Ein Beispiel für einen mittleren bis guten Wert für den Akteur.</p>
+<div class="float">
+<img src="Pictures/Rules/DMAppSpielAbstufungenMittlererGuterVersuch.jpg" alt="Ein Beispiel für einen mittleren bis guten Wert für den Akteur." />
+<div class="figcaption">Ein Beispiel für einen mittleren bis guten Wert für den Akteur.</div>
 </div>
 <p>Zu sehen ist, dass der Akteur l einen Wert (=Value unter <em>Actor</em>) von 3.14 erzielt hat.
 Dieser Wert steht für einen mittleren bis guten Versuch und bedeutet somit, dass die Aktion mit zunehmender Wahrscheinlichkeit erfolgreich verlaufen wird.
@@ -2513,9 +2533,9 @@ Inhaltlich könnte der DM die Situation so auslegen, dass die Argumente von l an
 t ist allerdings argumentativ recht gefestigt in seiner Ansicht, ist aber gewillt l weiterhin zuzuhören, um seine Perspektive zu erweitern.
 Eine Differenz von 0.84 ist zwar erkennbar, aber kein allzu großer Unterschied.</p>
 <p>Gefolgt von einem mittleren bis guten Wert mit <em>&lt; 4</em>:</p>
-<div class="figure">
-<img src="Pictures/Rules/DMAppSpielAbstufungenGuterVersuch.JPG" alt="" />
-<p class="caption">Ein Beispiel für einen guten Wert für den Akteur.</p>
+<div class="float">
+<img src="Pictures/Rules/DMAppSpielAbstufungenGuterVersuch.jpg" alt="Ein Beispiel für einen guten Wert für den Akteur." />
+<div class="figcaption">Ein Beispiel für einen guten Wert für den Akteur.</div>
 </div>
 <p>Zu sehen ist, dass der Akteur l einen Wert (=Value unter <em>Actor</em>) von 3.63 erzielt hat.
 Dieser Wert steht für einen guten Versuch und bedeutet somit, dass die Aktion wahrscheinlich erfolgreich verlaufen wird.
@@ -2531,9 +2551,9 @@ Eine Differenz von 1.19 ist erkennbar und aussagekräftig.</p>
 <h5><em>Lügen</em><a href="installation-und-nutzung-von-orbis-astea.html#DMAppSozialLuegen" class="anchor-section" aria-label="Anchor link to header"></a></h5>
 <p>Möchte ein Akteur ein oder mehrere Opfer belügen, so kann dies im Lügen-Tab ausgeführt werden.
 Dieser gleicht vom Aufbau exakt dem Sub-Tab des Überzeugens.</p>
-<div class="figure">
-<img src="Pictures/Rules/DMAppSpielSozialLuegen.JPG" alt="" />
-<p class="caption">Akteur a1 belügt a3, l, gs und dieb mit Erfolg.</p>
+<div class="float">
+<img src="Pictures/Rules/DMAppSpielSozialLuegen.jpg" alt="Akteur a1 belügt a3, l, gs und dieb mit Erfolg." />
+<div class="figcaption">Akteur a1 belügt a3, l, gs und dieb mit Erfolg.</div>
 </div>
 <p>Wie der App-Output es bereits ausgibt, werden die Differenzen aus Sicht der Opfer ausgegeben, wobei kleinere Werte schlechter für die Opfer sind.
 Dies bedeutet, dass a1 erfolgreich alle vier Opfer angelogen hat, da hier vier negative Werte vorliegen.
@@ -2543,9 +2563,9 @@ a3 hingegen ist vollkommen von dem überzeugt, was a1 erzählt.</p>
 <p>Der Output sieht etwas anders aus, wenn ein Täter nur ein Opfer belügt.
 Hier werden die einzelnen Werte der Involvierten angegeben.
 Sodass auch nachvollziehbaerer ist, wie sich die Differenz aus dem vorherigen Beispiel berechnet.</p>
-<div class="figure">
-<img src="Pictures/Rules/DMAppSpielSozialLuegenEinzel.JPG" alt="" />
-<p class="caption">Akteur a1 belügt t.</p>
+<div class="float">
+<img src="Pictures/Rules/DMAppSpielSozialLuegenEinzel.jpg" alt="Akteur a1 belügt t." />
+<div class="figcaption">Akteur a1 belügt t.</div>
 </div>
 <p>Während a1 mit einem Wert von 2.73 recht gut lügt, ist die Einsicht von t aufgrund eines Critical Fails im Check mit 1.49 deutlich niedriger.
 Aufgrund der recht eindeutigen Differenzen zwischen den Werten der beiden Akteure, kann dieses Ergebnis so interpretiert werden, dass <em>a1</em> <em>t</em> erfolgreich belügt.</p>
@@ -2561,9 +2581,9 @@ Zum anderen wird hier mitgezählt, wie viele Aktionen ein Akteur im Laufe einer 
 <p>Im nachfolgenden Bild ist zu erkennen, wie m die Menge zu toben bringt und eine so starke Performance abliefert, dass er dabei in der Extase ein neues Lied des Genres Minnesang komponiert.
 Die Valenz ist demotivierend, was bedeutet, dass dieser Song jene Personen, für die er gespielt wird, ihre Single Action verlieren, was besonders gegen Gegner besonders nützlich sein kann.
 Der Wert von 5.9 ist dabei ein sehr guter Versuch einen Bühnenauftritt durchzuführen.</p>
-<div class="figure">
-<img src="Pictures/Rules/DMAppSpielSozialBuehnenkunstUeblicheBuehnenkunst.JPG" alt="" />
-<p class="caption">m liefert eine mehr als bühnenreife Show für seine Audienz ab.</p>
+<div class="float">
+<img src="Pictures/Rules/DMAppSpielSozialBuehnenkunstUeblicheBuehnenkunst.jpg" alt="m liefert eine mehr als bühnenreife Show für seine Audienz ab." />
+<div class="figcaption">m liefert eine mehr als bühnenreife Show für seine Audienz ab.</div>
 </div>
 <p>Was möglicherweise irritierend sein könnte ist, dass, aufgrund der Initiativliste, im Bild ks1 als Akteur angezeigt wird, obwohl m die Aktion zugeschrieben wird.
 Dies ist eine Funktion der Initiativliste, dass die nachfolgende Person in der Liste für die Ausführung der nächsten Aktion direkt eingetragen wird.</p>
@@ -2571,9 +2591,9 @@ Dies ist eine Funktion der Initiativliste, dass die nachfolgende Person in der L
 Die Erklärungen der einzelnen Auswahlmöglichkeiten für Genre, Tier, Valenz und Instrument können <a href="besondere-regeln.html#InstrumenteRules">hier</a> nachgelesen werden.
 Zu sehen ist, dass ein sehr guter Wert von 4.26 erreicht wurde, der, aufgrund der Genres, die Agilität steigert.
 Der Künstler m verliert für seine Bemühungen jedoch Ausdauer, da er sich vollkommen bei der Performance verausgabt.</p>
-<div class="figure">
-<img src="Pictures/Rules/DMAppSpielSozialBuehnenkunstMusizieren.JPG" alt="" />
-<p class="caption">m musiziert und steigert damit die Agilität auserwählter Zuhörer.</p>
+<div class="float">
+<img src="Pictures/Rules/DMAppSpielSozialBuehnenkunstMusizieren.jpg" alt="m musiziert und steigert damit die Agilität auserwählter Zuhörer." />
+<div class="figcaption">m musiziert und steigert damit die Agilität auserwählter Zuhörer.</div>
 </div>
 <p>Da beide Male m performt hat, steht sein Aktionen-Zähler auf 2.</p>
 </div>
@@ -2583,9 +2603,9 @@ Der Künstler m verliert für seine Bemühungen jedoch Ausdauer, da er sich voll
 <p>Es gibt einen Akteur, der eine Preisminderung erwirken möchte und ein Ziel, das den Preis hochtreiben möchte.
 Beiden Personen kann eine Modifiktation eingestellt werden, die für einen höheren Wert sorgt.
 Die Person mit dem höheren Wert bestimmt den Preis in Abhängigkeit von der Größe der Differenz</p>
-<div class="figure">
-<img src="Pictures/Rules/DMAppSpielSozialFeilschen.JPG" alt="" />
-<p class="caption">a verhandelt schlechter als m und muss daher nun einen hören Preis für den diskutierten Gegenstand zahlen.</p>
+<div class="float">
+<img src="Pictures/Rules/DMAppSpielSozialFeilschen.jpg" alt="a verhandelt schlechter als m und muss daher nun einen hören Preis für den diskutierten Gegenstand zahlen." />
+<div class="figcaption">a verhandelt schlechter als m und muss daher nun einen hören Preis für den diskutierten Gegenstand zahlen.</div>
 </div>
 </div>
 <div id="DMAppSozialEinschuechtern" class="section level5 unnumbered hasAnchor">
@@ -2593,9 +2613,9 @@ Die Person mit dem höheren Wert bestimmt den Preis in Abhängigkeit von der Gr�
 <p>Auch beim Einschüchtern muss ein Akteur festgelegt werden, der eine Person oder eine Gruppe (mit Komma zu trennende Akteur-Namen) bedroht.
 Im Beispiel schüchtert n f mit einem mittleren Wert von 2.96 ein.
 Da f jedoch nur einen sehr schlechten Wert von 0.91 aufzuweisen hat, funktioniert die Einschüchterung sehr gut.</p>
-<div class="figure">
-<img src="Pictures/Rules/DMAppSpielSozialEinschuechtern.JPG" alt="" />
-<p class="caption">n schüchtert f erfolgreich ein.</p>
+<div class="float">
+<img src="Pictures/Rules/DMAppSpielSozialEinschuechtern.jpg" alt="n schüchtert f erfolgreich ein." />
+<div class="figcaption">n schüchtert f erfolgreich ein.</div>
 </div>
 </div>
 </div>
@@ -2620,26 +2640,26 @@ Hierbei hat der Verteidiger keine Möglichkeit sie selbst zu verteidigen und sie
 Hier wäre die Auswahl <em>Advantage</em> zu treffen.
 Liegt ein Spieler jedoch am Boden, da er gestolpert ist, und möchte dennoch angreifen, so ist dies eine unvorteilhafte Ausgangssituation für den Angriff.
 In diesem Fall wäre <em>Disadvantage</em> auszuwählen.</p>
-<div class="figure">
-<img src="Pictures/Rules/DMAppSpielKampfBewaffnet.JPG" alt="" />
-<p class="caption">t greift f erfolgreich im Nahkampf an (m ist die nächste Person, die eine Aktion ausführen kann und wird daher vom Programm automatisch als Akteur für alle möglichen Aktionen im Spiel-Tab eingetragen.)</p>
+<div class="float">
+<img src="Pictures/Rules/DMAppSpielKampfBewaffnet.jpg" alt="t greift f erfolgreich im Nahkampf an (m ist die nächste Person, die eine Aktion ausführen kann und wird daher vom Programm automatisch als Akteur für alle möglichen Aktionen im Spiel-Tab eingetragen.)" />
+<div class="figcaption">t greift f erfolgreich im Nahkampf an (m ist die nächste Person, die eine Aktion ausführen kann und wird daher vom Programm automatisch als Akteur für alle möglichen Aktionen im Spiel-Tab eingetragen.)</div>
 </div>
 <p>Im Beispiel greift t Verteidiger f mit einem Kriegshammer an.
 Dabei wird so viel Schaden verursacht, dass fs Armschienen an <a href="Items.html#Zustand">Zustand</a> verlieren.
 Neben dem Ausgabefeld im jeweiligen Spiel-Tab, werden die Ergebnisse eines Checks auch auf der rechten Seite im <em>Console</em>-Tab ausgegeben.
 Somit kann dort immer das Ergebnis des zuletzt durchgeführten Checks für alle Spiel-SubTabs eingesehen werden.</p>
-<div class="figure">
-<img src="Pictures/Rules/DMAppSpielKampfBewaffnetConsole.JPG" alt="" />
-<p class="caption">Ausgabe des Ergebnisses im “Console”-Tab.</p>
+<div class="float">
+<img src="Pictures/Rules/DMAppSpielKampfBewaffnetConsole.jpg" alt="Ausgabe des Ergebnisses im “Console”-Tab." />
+<div class="figcaption">Ausgabe des Ergebnisses im “Console”-Tab.</div>
 </div>
 </div>
 <div id="DMAppKampfFernkampf" class="section level5 unnumbered hasAnchor">
 <h5><em>Fernkampf</em><a href="installation-und-nutzung-von-orbis-astea.html#DMAppKampfFernkampf" class="anchor-section" aria-label="Anchor link to header"></a></h5>
 <p>Beim Fernkampf-Tab ist wichtig zu wissen, dass die Spieler die Möglichkeit haben, verschiedene <a href="Items.html#Ammo">Munitionstypen</a> zu kaufen und anzuwenden, welche verschiedene <a href="grundlagen-des-spiels.html#damage-over-time">Dots</a> auslösen können.
 Diese ist unter <em>Muni</em> auszuwählen.</p>
-<div class="figure">
-<img src="Pictures/Rules/DMAppSpielKampfFernkampfDot.JPG" alt="" />
-<p class="caption">Ein Fernkampfangriff bei dem ein Dot ausgelöst wurde.</p>
+<div class="float">
+<img src="Pictures/Rules/DMAppSpielKampfFernkampfDot.jpg" alt="Ein Fernkampfangriff bei dem ein Dot ausgelöst wurde." />
+<div class="figcaption">Ein Fernkampfangriff bei dem ein Dot ausgelöst wurde.</div>
 </div>
 <p>Wie im Output im Bild hierüber zu erkennen, wird ausgegeben, wie viel Ausdauer ein Akteur bei der jeweiligen Aktion verliert.
 Dadurch, dass ein gezielter Schuss ausgeführt wurde, der den Torso des Verteidigers anvisiert hat, wird zudem ausgegeben, wie viel Gesundheit der spezifische Körperteil und das Zielobjekt insgesamt verliert.
@@ -2647,17 +2667,17 @@ In der letzten Zeile wird angegeben, welcher Dot für wie viele Runden ausgelös
 <p>Ob ein Akteur einem Dot ausgesetzt ist, oder nicht, kann der DM in der <a href="installation-und-nutzung-von-orbis-astea.html#DMAppDMUebersicht">DM-Übersicht</a> unter <a href="installation-und-nutzung-von-orbis-astea.html#DMAppStatus">Status</a> nachschauen.
 Darüber hinaus wird ein Status auch im Initiative-Tab auf der rechten Seite angezeigt.
 Auch, wenn ein Akteur mehrere Statuseffekte gleichzeitig erlebt.</p>
-<div class="figure">
-<img src="Pictures/Rules/DMAppSpielKampfInitiativeStatus.JPG" alt="" />
-<p class="caption">Das Anzeigen eines Statuseffekts im Initiative-Tab.</p>
+<div class="float">
+<img src="Pictures/Rules/DMAppSpielKampfInitiativeStatus.jpg" alt="Das Anzeigen eines Statuseffekts im Initiative-Tab." />
+<div class="figcaption">Das Anzeigen eines Statuseffekts im Initiative-Tab.</div>
 </div>
 <p>Gegen Fernkampfangriffe können Verteidiger zusätzlich zum Ausweichen, Schilde und andere Deckungsmöglichkeiten nutzen, um dem Schaden zu negieren.
 Hierfür gibt es die Möglichkeit die Deckung zu erschaffen.
 Diese kann spontan erstellt werden, oder aber über den <a href="installation-und-nutzung-von-orbis-astea.html#DMAppErstellung">Erstellungs-Tab</a> unter <a href="installation-und-nutzung-von-orbis-astea.html#DMAppStrukturen">Strukturen</a> vorab erschaffen werden.
 Bei der spontanen Erstellung, muss der DM der Deckungsmöglichkeit noch einen Deckungswert unter <em>Custom Deckung</em> vergeben, um welche diese Möglichkeit den Schaden bei Erfolg verringern kann.</p>
-<div class="figure">
-<img src="Pictures/Rules/DMAppSpielKampfFernkampfDeckung.JPG" alt="" />
-<p class="caption">Eine Deckung fängt den Fernkampfangriff für den Verteidiger ab.</p>
+<div class="float">
+<img src="Pictures/Rules/DMAppSpielKampfFernkampfDeckung.jpg" alt="Eine Deckung fängt den Fernkampfangriff für den Verteidiger ab." />
+<div class="figcaption">Eine Deckung fängt den Fernkampfangriff für den Verteidiger ab.</div>
 </div>
 </div>
 <div id="DMAppKampfWurfwaffen" class="section level5 unnumbered hasAnchor">
@@ -2668,9 +2688,9 @@ Es gibt zwei SubTabs.
 Beginnend beim <em>Throwing-Attack</em>-SubTab, welcher es ermöglicht, eine Reihe von Wurfwaffen zur Anwendung zu bringen.Diese bieten die Möglichkeit, einen Gegner zu interrupten, also handlungsunfähig zu machen, oder aber auch zu betäuben, sodass ein Gegner bewusstlos wird.</p>
 <p>Der Output macht hierbei jedoch den Unterschied zu den Fernkampfangriffen, da Wurfwaffen verschiedene Ergebnisse herbeiführen können.
 Eine Bola, wie im Beispiel, kann den Gegner beispielsweise interrupten, sodass dieser in der nächsten Runde keine Aktion ausführen kann.</p>
-<div class="figure">
-<img src="Pictures/Rules/DMAppSpielKampfWurfwaffen.JPG" alt="" />
-<p class="caption">Eine Bola interrupted den Gegner. Die Wurfwaffe wird zerstört.</p>
+<div class="float">
+<img src="Pictures/Rules/DMAppSpielKampfWurfwaffen.jpg" alt="Eine Bola interrupted den Gegner. Die Wurfwaffe wird zerstört." />
+<div class="figcaption">Eine Bola interrupted den Gegner. Die Wurfwaffe wird zerstört.</div>
 </div>
 <p>Erscheint, wie im Beispiel, die Meldung “Wurfwaffe zerstört”, so gibt es keine Möglichkeit, die Wurfwaffe zurückzugewinnen.
 Erscheint diese Meldung nicht, so können die Spieler die Wurfwaffe wieder einsammeln und erneut verwenden.</p>
@@ -2685,42 +2705,42 @@ Der unbewaffnete Kampf dient dem klassischen Faustkampf.</p>
 Da ks2 zwar allem Schaden ausweichen kann, verliert er doch seine Aktion für die nächste Runde.
 Diesen Output kann der DM gut in eine Geschichte verpacken, wie beispielsweise: “ks2 weicht dem Faustangriff des Angreifers mit so viel Schwung aus, dass er durch den Schwung stolpert und zu Boden geht. In der nächsten Runde braucht er seine Aktion, um wieder aufstehen zu können.”</p>
 <p>In dieser Zeit ist ks2 schutzlos und kann sich nicht gegen die Angriffe anderer Akteure verteidigen.</p>
-<div class="figure">
-<img src="Pictures/Rules/DMAppSpielKampfUnbewaffnetUnbewaffnet.JPG" alt="" />
-<p class="caption">ks2 wird im Faustkampf interrupted.</p>
+<div class="float">
+<img src="Pictures/Rules/DMAppSpielKampfUnbewaffnetUnbewaffnet.jpg" alt="ks2 wird im Faustkampf interrupted." />
+<div class="figcaption">ks2 wird im Faustkampf interrupted.</div>
 </div>
 <p>Das Handgemenge allerdings, ermöglicht es dem Spieler ein anderes Objekt zu fixieren, zu Boden zu ringen oder zu entwaffnen.
 Aus diesem Grund gibt unter <em>Abwehr</em> im Handgemenge-SubTab die Möglichkeit des Handgemenges sowie des Ausweichens.
 Im Handgemenge werden die <a href="die-charaktererstellung.html#unbewaffnet">Unbewaffnet-Fähigkeiten</a> gegeneinander verglichen, während das Ausweichen dem Entgehen des Angriffs dient.</p>
-<div class="figure">
-<img src="Pictures/Rules/DMAppSpielKampfUnbewaffnetHandgemengeHandgemenge.JPG" alt="" />
-<p class="caption">ks3 gewinnt das Handgemenge gegen Ziel a.</p>
+<div class="float">
+<img src="Pictures/Rules/DMAppSpielKampfUnbewaffnetHandgemengeHandgemenge.jpg" alt="ks3 gewinnt das Handgemenge gegen Ziel a." />
+<div class="figcaption">ks3 gewinnt das Handgemenge gegen Ziel a.</div>
 </div>
 <p>Bei der Entwaffnung wird versucht dem Ziel die Waffe zu entreißen.
 Diese Aktion kann jedoch auch, wie im Beispiel, schlecht für den Angreifer ausgehen.</p>
-<div class="figure">
-<img src="Pictures/Rules/DMAppSpielKampfUnbewaffnetHandgemengeEntwaffnung.JPG" alt="" />
-<p class="caption">Ein Angreifer möchte ein Ziel entwaffnen und wird dabei überwältigt.</p>
+<div class="float">
+<img src="Pictures/Rules/DMAppSpielKampfUnbewaffnetHandgemengeEntwaffnung.jpg" alt="Ein Angreifer möchte ein Ziel entwaffnen und wird dabei überwältigt." />
+<div class="figcaption">Ein Angreifer möchte ein Ziel entwaffnen und wird dabei überwältigt.</div>
 </div>
 <p>Die Dolchabwehr im SubSubTab Handgemenge steht für den Versuch, einen Dolchangriff als unbewaffnete Person abzuwehren.
 Dies ist vorallem für die Abwehr eines Attentats wichtig XXXX</p>
-<div class="figure">
-<img src="Pictures/Rules/DMAppSpielKampfUnbewaffnetHandgemengeDolchabwehr.JPG" alt="" />
-<p class="caption">Ein Dolchangriff gegen eine unbewaffnete Person ist sehr erfolgreich.</p>
+<div class="float">
+<img src="Pictures/Rules/DMAppSpielKampfUnbewaffnetHandgemengeDolchabwehr.jpg" alt="Ein Dolchangriff gegen eine unbewaffnete Person ist sehr erfolgreich." />
+<div class="figcaption">Ein Dolchangriff gegen eine unbewaffnete Person ist sehr erfolgreich.</div>
 </div>
 <p>Die Dolchabwehr kann nur durchgeführt werden, wenn der Angreifer einen Dolch ausgerüset hat.
 Andernfalls folgt folgende Fehlermeldung:</p>
-<div class="figure">
-<img src="Pictures/Rules/DMAppSpielKampfUnbewaffnetHandgemengeDolchabwehrFalscheWaffe.JPG" alt="" />
-<p class="caption">Fehlermeldung, wenn ein Akteur ohne Dolch anzugreifen versucht.</p>
+<div class="float">
+<img src="Pictures/Rules/DMAppSpielKampfUnbewaffnetHandgemengeDolchabwehrFalscheWaffe.jpg" alt="Fehlermeldung, wenn ein Akteur ohne Dolch anzugreifen versucht." />
+<div class="figcaption">Fehlermeldung, wenn ein Akteur ohne Dolch anzugreifen versucht.</div>
 </div>
 </div>
 <div id="DMAppKampfBeritten" class="section level5 unnumbered hasAnchor">
 <h5><em>Beritten</em><a href="installation-und-nutzung-von-orbis-astea.html#DMAppKampfBeritten" class="anchor-section" aria-label="Anchor link to header"></a></h5>
 <p>Da auch der <a href="grundlagen-des-spiels.html#KampfVomReittier">Kampf vom Reittier</a> eine Option für jene Spieler ist, die ein Reittier zur Verfügung stehen und in ihrer Excel-Datei eingefügt haben, kann dieser vorteilhafte Angriff in diesem SubTab ausgeführt werden.</p>
-<div class="figure">
-<img src="Pictures/Rules/DMAppSpielKampfBeritten.JPG" alt="" />
-<p class="caption">Ein starker Angriff vom Reittier.</p>
+<div class="float">
+<img src="Pictures/Rules/DMAppSpielKampfBeritten.jpg" alt="Ein starker Angriff vom Reittier." />
+<div class="figcaption">Ein starker Angriff vom Reittier.</div>
 </div>
 <p>Wichtig ist, dass ein Reittier bestimmt wird, da über dieses der Mount mulitplier bestimmt wird, der den Schaden vervielfacht.</p>
 </div>
@@ -2730,51 +2750,51 @@ Andernfalls folgt folgende Fehlermeldung:</p>
 Hierzu gehören Skorpione, Ballisten, Katapulte und Großkanonen.
 Um die Artillerie bedienen zu können, müssen die Angreifer diese Fähigkeit beherrschen.
 Andernfalls ergibt sich folgende Meldung:</p>
-<div class="figure">
-<img src="Pictures/Rules/DMAppSpielKampfGeraeteArtillerieUnpassendeBesatzung.JPG" alt="" />
-<p class="caption">Die Fähigkeiten der Besatzung reichen nicht aus, um die Artillerie zu bedienen.</p>
+<div class="float">
+<img src="Pictures/Rules/DMAppSpielKampfGeraeteArtillerieUnpassendeBesatzung.jpg" alt="Die Fähigkeiten der Besatzung reichen nicht aus, um die Artillerie zu bedienen." />
+<div class="figcaption">Die Fähigkeiten der Besatzung reichen nicht aus, um die Artillerie zu bedienen.</div>
 </div>
 <p>In diesem Fall müssen sich die Spieler so zusammentun, dass die Besatzung passt.
 Richtig angewandt, kann die Artillerie seehr starken Schaden anrichten und Spieler problemlos ihr Leben kosten.</p>
-<div class="figure">
-<img src="Pictures/Rules/DMAppSpielKampfGeraeteArtillerie.JPG" alt="" />
-<p class="caption">Ein Oneshot aufgrund eines Skorpionangriffs.</p>
+<div class="float">
+<img src="Pictures/Rules/DMAppSpielKampfGeraeteArtillerie.jpg" alt="Ein Oneshot aufgrund eines Skorpionangriffs." />
+<div class="figcaption">Ein Oneshot aufgrund eines Skorpionangriffs.</div>
 </div>
 <p>Darüber hinaus gibt das Programm aus, welche Aktionen aufgewandt werden müssen, um in der nächsten Runde wieder einen Angriff durchführen zu können.</p>
 <p>Im Vehikel-Rammen-Tab ist der Angreifer immer ein Vehikel.
 Dieses muss vorab im <a href="installation-und-nutzung-von-orbis-astea.html#DMAppErstellung">Erstellungs-Tab</a> initialisiert werden.
 Hier gibt es die Möglichkeit verschiedene Verteidiger einzustellen.</p>
-<div class="figure">
-<img src="Pictures/Rules/DMAppSpielKampfGeraeteVehikelSchiffe.JPG" alt="" />
-<p class="caption">Ein Langschiff rammt eine Galeere.</p>
+<div class="float">
+<img src="Pictures/Rules/DMAppSpielKampfGeraeteVehikelSchiffe.jpg" alt="Ein Langschiff rammt eine Galeere." />
+<div class="figcaption">Ein Langschiff rammt eine Galeere.</div>
 </div>
 <p>Die einzige Möglichkeit sich gegen einen Vehikel-Angriff zu schützen, ist, diesem auszuweichen.
 Werden Akteure, wie Spieler angegriffen, können diese sterben.
 Werden andere Wägen, Schiffe oder Fahrzeuge angegriffen, so werden diese bei ausreichend Schaden, zerstört.</p>
-<div class="figure">
-<img src="Pictures/Rules/UnbenanntDMAppSpielKampfGeraeteVehikelZerstoert.JPG" alt="" />
-<p class="caption">Ein Langschiff zerstört eine Galeere.</p>
+<div class="float">
+<img src="Pictures/Rules/UnbenanntDMAppSpielKampfGeraeteVehikelZerstoert.jpg" alt="Ein Langschiff zerstört eine Galeere." />
+<div class="figcaption">Ein Langschiff zerstört eine Galeere.</div>
 </div>
 <p>Im Fallen-Tab gibt es die Möglichkeit unter <em>Aktion</em> auszuwählen, inwiefern ein Objekt mit einer Falle der Wahl interagiert.
 Wichtig ist, dass die interagierende Person im ersten Feld ausgewählt wird, egal ob diese in eine Falle tappt, sich aus dieser befreit oder diese entschärft.
 Gewählt werden kann zwischen Bären-, Stolper- und Schlingfallen.</p>
 <p>Die App gibt bei jeder Aktion aus, welche Kosten dafür entstanden sind.
 Im Fall des nachstehenden Beispiels kann Feysiriel keine weiteren Hauptaktionen mehr ausführen, da diese für die Entschärfung der Bärenfalle aufgewandt wurde.</p>
-<div class="figure">
-<img src="Pictures/Rules/DMAppSpielKampfGeraeteFallenBaerenfallEntschaerfen.JPG" alt="" />
-<p class="caption">Feysiriel entschäft eine Bärenfalle.</p>
+<div class="float">
+<img src="Pictures/Rules/DMAppSpielKampfGeraeteFallenBaerenfallEntschaerfen.jpg" alt="Feysiriel entschäft eine Bärenfalle." />
+<div class="figcaption">Feysiriel entschäft eine Bärenfalle.</div>
 </div>
 <p>Soll ein Akteur eine Stolperfalle auslösen, so gibt die App aus, welchen Status die Falle ausgelöst hat, ob diese bemerkt wurde, wie sich befreit werden kann und, ob die Zielperson interrupted wurde, oder nicht.</p>
-<div class="figure">
-<img src="Pictures/Rules/DMAppSpielKampfGeraeteFallenStolperfalleAusloesen.JPG" alt="" />
-<p class="caption">m übersieht die Stolperfalle und fällt hin.</p>
+<div class="float">
+<img src="Pictures/Rules/DMAppSpielKampfGeraeteFallenStolperfalleAusloesen.jpg" alt="m übersieht die Stolperfalle und fällt hin." />
+<div class="figcaption">m übersieht die Stolperfalle und fällt hin.</div>
 </div>
 <p>Findet sich ein Spieler in der Situation wieder, in einer Schling- oder Bärenfalle gefangen zu sein, so gibt es die Möglichkeit, dass er sich daraus befreit.
 Die App gibt dabei aus, ob der Akteur erfolgreich war und welche Kosten dafür aufgwandt werden müssen.
 Im nachfolgenden Beispiel ist der Versuch gescheitert und der Spieler kann lediglich seine Side Action aufwenden.</p>
-<div class="figure">
-<img src="Pictures/Rules/DMAppSpielKampfGeraeteFallenSchlingfalleBefreiung.JPG" alt="" />
-<p class="caption">Gescheiterter Befreiungsversuch aus einer Schlingfalle.</p>
+<div class="float">
+<img src="Pictures/Rules/DMAppSpielKampfGeraeteFallenSchlingfalleBefreiung.jpg" alt="Gescheiterter Befreiungsversuch aus einer Schlingfalle." />
+<div class="figcaption">Gescheiterter Befreiungsversuch aus einer Schlingfalle.</div>
 </div>
 </div>
 <div id="DMAppKampfKonstrukte" class="section level5 unnumbered hasAnchor">
@@ -2792,22 +2812,22 @@ Hierfür müssen alle Beteiligten Objekte händisch und mittels Komma getrennt i
 <p>Kommen weitere Objekte zu einem späteren Zeitpunkt hinzu, so können diese im Feld <em>Füge zur Initiativtabelle hinzu</em> ergänzt werden.</p>
 <p>Auf der rechten Seite, im Tab <em>Initiative</em>, wird dann eine Liste ausgegeben, in welcher Reihenfolge die Akteure in einer Runde handeln dürfen.
 Hierbei werden Angreifer und Gegner zufällig gemixt.</p>
-<p><img src="Pictures/Rules/DMAppSpielKampfInitiativeListeRunde0.JPG" alt="Akteure in eine Initiativliste einfügen." /> Im drüber stehenden Bild ist erkennbar, dass der erste Akteur der Liste nun grau hinterlegt ist.
+<p><img src="Pictures/Rules/DMAppSpielKampfInitiativeListeRunde0.jpg" alt="Akteure in eine Initiativliste einfügen." /> Im drüber stehenden Bild ist erkennbar, dass der erste Akteur der Liste nun grau hinterlegt ist.
 Dies liegt daran, dass er die erste Aktion ausführen darf.
 Unten am Ende des Kastens auf der rechten Seite befindet sich ein Rundenzähler.
 Jedes Mal, wenn alle Akteure eine Aktion ausgeführt, oder es zumindest versucht, haben, springt die Initiativliste wieder zum ersten Akteur und zählt somit eine Runde.</p>
 <p>Der Initiative-Tab gibt darüber hinaus Auskunft darüber, welche Abwehraktionen ein Akteur gegen einen Angriff zur Verfügung stehen hat: D: steht für Dodge, also das Ausweichen P: steht für Parry, also das Parieren B: steht für Block, also das Blocken N: steht für None, also keine Abwehraktion möglich.</p>
 <p>Diese Information wird immer wieder neu ausgewürfelt, da jede Abwehraktion einer Wahrscheinlichkeit unterliegt, dass sie ausgeführt werden kann, wenn keine Single Action mehr zur Verfügung steht.</p>
-<div class="figure">
-<img src="Pictures/Rules/DMAppSpielKampfInitiativeListeRunde5.JPG" alt="" />
-<p class="caption">Initiativliste nach fünf Runden.</p>
+<div class="float">
+<img src="Pictures/Rules/DMAppSpielKampfInitiativeListeRunde5.jpg" alt="Initiativliste nach fünf Runden." />
+<div class="figcaption">Initiativliste nach fünf Runden.</div>
 </div>
 <p>Zusätzlich gibt der Initiative-Tab einen Überblick über mögliche Statuseffekte.
 Hierzu gehören, DoTs, ob jemand hingefallen oder ohnmächtig ist.</p>
 <p>Kommen während eines Kampfes neue Akteure hinzu, so können sie problemlos unter <em>Füge zur Initiativtabelle hinzu</em> ergänzt werden.</p>
-<div class="figure">
-<img src="Pictures/Rules/DMAppSpielKampfInitiativeListeErgaenzen.JPG" alt="" />
-<p class="caption">s und ks3 wurden später hinzugefügt.</p>
+<div class="float">
+<img src="Pictures/Rules/DMAppSpielKampfInitiativeListeErgaenzen.jpg" alt="s und ks3 wurden später hinzugefügt." />
+<div class="figcaption">s und ks3 wurden später hinzugefügt.</div>
 </div>
 <p>Später hinzugefügte Akteure starten bei null Aktionen.
 Da dieser Zähler mit jeder neuen Runde zurückgesetzt wird, sind alle Akteure ab der Folgerunde gleich auf.</p>
@@ -2823,9 +2843,9 @@ Der Utility-Tab ermöglicht es Spielern ihre Tiere aktiv einzubinden, einen verw
 <p>Da der Einstieg in einen Hinterhalt, oder einen Diebstahl oftmals damit beginnt, ob die angegriffene Person etwas bemerkt, können im Wahrnehmungs-Tab gleich mehrere Personen auf einmal eine Probe durchführen.
 Wenn der DM schon vorab weiß, welchen Wert ein Spieler mindestens erreicht muss, um zusätzliche Informationen von ihm zu erhalten, kann dieser unter <em>Thres</em> festgelegt werden.
 Das Programm gibt dann eine Differenz des geworfenen Wertes zum Threshold aus.</p>
-<div class="figure">
-<img src="Pictures/Rules/DMAppSpielUtilityWahrnehmung.JPG" alt="" />
-<p class="caption">Drei Akteure führen eine Wahrnehmungsprobe durch.</p>
+<div class="float">
+<img src="Pictures/Rules/DMAppSpielUtilityWahrnehmung.jpg" alt="Drei Akteure führen eine Wahrnehmungsprobe durch." />
+<div class="figcaption">Drei Akteure führen eine Wahrnehmungsprobe durch.</div>
 </div>
 </div>
 <div id="DMAppUtilityTierhandhabung" class="section level5 unnumbered hasAnchor">
@@ -2836,23 +2856,23 @@ So können im Tierhandhabungs-Tab Aktionen, wie Befehl, Training oder Zähmen be
 1.
 Zu Beginn erstellt der Spieler, im Stil der anderen Custom-Tierprofile, ein vom Aufbau her identes, Tierprofil erstellt werden.
 Die Excel-Datei für die Custom-Tiere, sowie der Tierprofile, welche als Grundlage herangezogen werden können, finden sich im <em>OrbisGame</em>-Ordner im Ordner Container unter Data.</p>
-<div class="figure">
-<img src="Pictures/Rules/OrbisGameContainerDataTierprofile.JPG" alt="" />
-<p class="caption">Speicherort der Excel-Dateien für Tiere.</p>
+<div class="float">
+<img src="Pictures/Rules/OrbisGameContainerDataTierprofile.jpg" alt="Speicherort der Excel-Dateien für Tiere." />
+<div class="figcaption">Speicherort der Excel-Dateien für Tiere.</div>
 </div>
 <p>Im Excel-File <em>TiereCustom</em> muss entsprechend ein Tabellenblatt für den Spieler angelegt werden, der den Namen des Tieres trägt.</p>
-<div class="figure">
-<img src="Pictures/Rules/OrbisGameContainerDataTiereCustomBoris.JPG" alt="" />
-<p class="caption">Benennung und Aufbau eines Custom-Profils in der Excel-Datei <em>TiereCustom</em> am Beispiel von Bär Boris.</p>
+<div class="float">
+<img src="Pictures/Rules/OrbisGameContainerDataTiereCustomBoris.jpg" alt="Benennung und Aufbau eines Custom-Profils in der Excel-Datei TiereCustom am Beispiel von Bär Boris." />
+<div class="figcaption">Benennung und Aufbau eines Custom-Profils in der Excel-Datei <em>TiereCustom</em> am Beispiel von Bär Boris.</div>
 </div>
 <p>Die Werte der Fähigkeiten und Attribute können sich dabei an den originalen Tierprofilen orientieren, oder, in Rücksprache mit dem DM, angepasst werden.
 Wichtig ist, dass die “Waffen” des Tieres ebenfalls bestimmt und an der richtigen Stelle eingetragen werden.</p>
 <p>Anschließend wird ein Tabellenblatt des Custom-Tieres in die Excel-Datei des Spieler-Charakters eingefügt.
 Wichtig ist, dass dieses Tabellenblatt den gleichen Namen trägt, wie das Tabellenblatt in der TiereCustom Excel-Datei.
 Nachfolgend wird ein Boris als Beispiel aufgeführt.</p>
-<div class="figure">
-<img src="Pictures/Rules/OrbisGameCharacterSheetCustomTiereBoris.JPG" alt="" />
-<p class="caption">Boris als Beispiel-Tabellenblat für ein Tier, das einem Spieler gehört.</p>
+<div class="float">
+<img src="Pictures/Rules/OrbisGameCharacterSheetCustomTiereBoris.jpg" alt="Boris als Beispiel-Tabellenblat für ein Tier, das einem Spieler gehört." />
+<div class="figcaption">Boris als Beispiel-Tabellenblat für ein Tier, das einem Spieler gehört.</div>
 </div>
 <p>Zu erkennen ist, dass, von links nach rechts gelesen, die Stats aus dem Tierprofil in Werten unter Ausprägung übernommen wurden.
 Personen steht für alle Personen, die eine Beziehung zu dem Tier haben.
@@ -2862,39 +2882,39 @@ Je höher dieser Wert ist, desto erfolgreicher werden Aktionen, wie Befehle, aus
 Wichtig ist die Spalte F. Hier werden die erlernten Fähigkeiten eingetragen, die ein Tier nach dem Training beherrscht.
 Auf diese Befehle kann ein Spieler ohne Weiteres zugreifen und diese werden mit einer hohen Wahrscheinlichkeit ausgeführt.</p>
 <p>Abschließend muss der Name des Tieres unter “Reittier” im Status-Tabellenblatt der Spieler-Exceldatei eingetragen werden.</p>
-<div class="figure">
-<img src="Pictures/Rules/OrbisGameCharacterSheetCustomTiereBorisStatus.JPG" alt="" />
-<p class="caption">Das Eintragen des Namens im Tabellenblatt Status, um eine Programmabfrage zu ermöglichen.</p>
+<div class="float">
+<img src="Pictures/Rules/OrbisGameCharacterSheetCustomTiereBorisStatus.jpg" alt="Das Eintragen des Namens im Tabellenblatt Status, um eine Programmabfrage zu ermöglichen." />
+<div class="figcaption">Das Eintragen des Namens im Tabellenblatt Status, um eine Programmabfrage zu ermöglichen.</div>
 </div>
 <p>Möchte Goldie nun ihren Bären Boris einen Befehl ausführen lassen, so kann dies im Tab Tierhandhabung ausgeführt werden.
 Im Spieler-Tabellenblatt steht, welche Fähigkeiten Boris bereits erlernt hat.
 Diese bekommen bei der Überprüfung für gewöhnlich keine schwierigeren Grenzwerte, die erreicht werden müssen, um den Erfolg des Befehls zu gewährleisten.</p>
-<div class="figure">
-<img src="Pictures/Rules/DMAppSpielUtilityTierhandhabungBefehl.JPG" alt="" />
-<p class="caption">Erfolgreiches Ausführen eines Befehls.</p>
+<div class="float">
+<img src="Pictures/Rules/DMAppSpielUtilityTierhandhabungBefehl.jpg" alt="Erfolgreiches Ausführen eines Befehls." />
+<div class="figcaption">Erfolgreiches Ausführen eines Befehls.</div>
 </div>
 <p>Da höhere Werte erreicht werden müssen, um einen unbekannten Befehl auszuführen, kann es durchaus vorkommen, dass folgende Meldung ausgegeben wird:</p>
-<div class="figure">
-<img src="Pictures/Rules/DMAppSpielUtilityTierhandhabungBefehlUnbekannt.JPG" alt="" />
-<p class="caption">Erfolgloser Befehl.</p>
+<div class="float">
+<img src="Pictures/Rules/DMAppSpielUtilityTierhandhabungBefehlUnbekannt.jpg" alt="Erfolgloser Befehl." />
+<div class="figcaption">Erfolgloser Befehl.</div>
 </div>
 <p>Aus diesem Grund ist es wichtig, dass ein Tierbesitzer die Befehle/Fähigkeiten, die ein Tier beherrscht, in das Tabellenblatt einträgt.</p>
 <p>Begegnet die Gruppe unterwegs einem Tier, so gibt es die Möglichkeit dieses zu zähmen.
 Dafür muss der DM das Tier vorher im Erstellen-Tab erstellen.
 Aufgrund der Fortschrittsmechanik im Zähmen in Orbis, gibt die App hierbei einen Wert aus, der noch erreicht werden muss, um ein Tier erfolgreich zu zähmen, wenn der zu erreichende Wert nicht auf Anhieb erreicht wird:</p>
-<div class="figure">
-<img src="Pictures/Rules/DMAppSpielUtilityTierhandhabungZaehmen.JPG" alt="" />
-<p class="caption">Erster Zähmversuch.</p>
+<div class="float">
+<img src="Pictures/Rules/DMAppSpielUtilityTierhandhabungZaehmen.jpg" alt="Erster Zähmversuch." />
+<div class="figcaption">Erster Zähmversuch.</div>
 </div>
 <p>Wird der Fortschritt erreicht, oder nutzen die Spieler besänftigende Anreize, weshalb sich ein Tier leichter zähmen lassen sollte, wie beispielsweise Snacks, so kann ein Modifyer eingestellt werden und bei Erfolg erscheint die Meldung, dass ein Tier erfolgreich gezähmt wurde.</p>
-<div class="figure">
-<img src="Pictures/Rules/DMAppSpielUtilityTierhandhabungZaehmenErfolg.JPG" alt="" />
-<p class="caption">Erfolgreiches Zähmen.</p>
+<div class="float">
+<img src="Pictures/Rules/DMAppSpielUtilityTierhandhabungZaehmenerfolg.jpg" alt="Erfolgreiches Zähmen." />
+<div class="figcaption">Erfolgreiches Zähmen.</div>
 </div>
 <p>Möchte ein Spieler ein Tier trainieren, so ist “Training” unter Aktion auszuwählen.</p>
-<div class="figure">
-<img src="Pictures/Rules/DMAppSpielUtilityTierhandhabungTraining.JPG" alt="" />
-<p class="caption">Training eines Tieres.</p>
+<div class="float">
+<img src="Pictures/Rules/DMAppSpielUtilityTierhandhabungTraining.jpg" alt="Training eines Tieres." />
+<div class="figcaption">Training eines Tieres.</div>
 </div>
 <p>Der so erreichte Wert kann im Tier-Tabellenblatt des Spielers unter “Progression” in Spalte E eingetragen werden.
 Wird hier der Wert erreicht, den es benötigt, damit ein Tier eine Fähigkeit lernt, so kann die Fähigkeit in Spalte F ergänzt werden.</p>
@@ -2905,16 +2925,16 @@ Wird hier der Wert erreicht, den es benötigt, damit ein Tier eine Fähigkeit le
 Hier gibt es die Möglichkeit einen Verband anzuwenden, den der Spieler vorab erworben hat.
 Dieser verbessert die Chance auf eine erfolgreiche Wundversorgung, indem es eine Modifizierung des ausgegebenen Wertes gibt.</p>
 <p>Ist der Versuch eines Akteurs, ein Ziel zu versorgen, gescheitert, so gibt die App folgende Meldung aus:</p>
-<div class="figure">
-<img src="Pictures/Rules/DMAppSpielUtilityUeberlebenskunstVerband.JPG" alt="" />
-<p class="caption">Wundversorgung fehlgeschlagen.</p>
+<div class="float">
+<img src="Pictures/Rules/DMAppSpielUtilityUeberlebenskunstVerband.jpg" alt="Wundversorgung fehlgeschlagen." />
+<div class="figcaption">Wundversorgung fehlgeschlagen.</div>
 </div>
 <p>Ist die Wundversorgung erfolgreich, so wird lediglich ein Wert angegeben.
 Dieser kann, entsprechend der <a href="installation-und-nutzung-von-orbis-astea.html#DMAppAbstufungen">Abstufungen</a> interpretiert und in die Geschichte eingebaut werden.
 Im nachfolgenden Beispiel würde es sich also um eine gute Wundversorgung handeln.</p>
-<div class="figure">
-<img src="Pictures/Rules/DMAppSpielUtilityUeberlebenskunstVerbandErfolg.JPG" alt="" />
-<p class="caption">Wundversorgung gelungen.</p>
+<div class="float">
+<img src="Pictures/Rules/DMAppSpielUtilityUeberlebenskunstVerbandErfolg.jpg" alt="Wundversorgung gelungen." />
+<div class="figcaption">Wundversorgung gelungen.</div>
 </div>
 </div>
 <div id="DMAppUtilityWerfen" class="section level5 unnumbered hasAnchor">
@@ -2923,9 +2943,9 @@ Im nachfolgenden Beispiel würde es sich also um eine gute Wundversorgung handel
 Dabei ist primär irrelevant, was geworfen wird.
 Hier ist der Kreativität der Spieler freien Lauf gelassen.
 Über die Mod-Einstellung kann der DM steuern, wie wahrscheinlich der Erfolg des Werfens ist.</p>
-<div class="figure">
-<img src="Pictures/Rules/DMAppSpielUtilityWerfen.JPG" alt="" />
-<p class="caption">Das Werfen eines Gegenstandes.</p>
+<div class="float">
+<img src="Pictures/Rules/DMAppSpielUtilityWerfen.jpg" alt="Das Werfen eines Gegenstandes." />
+<div class="figcaption">Das Werfen eines Gegenstandes.</div>
 </div>
 <p>Auch hier ist es sinnvoll den Wert entlang der <a href="installation-und-nutzung-von-orbis-astea.html#DMAppAbstufungen">Abstufungen</a> einzuordnen.</p>
 </div>
@@ -3163,27 +3183,27 @@ Jeder Trank für zu einer Vergiftung des Spielers, welcher, bei Überdosierung, 
 Dies dient der Ausbalancierung unendlichen Trankkonsums.</p>
 <p>Um einen Trank einzunehmen, muss ein Akteur bestimmt werden, der den Trank trinkt; eine Trank-Art benannt werden, welche Wirkung dieser haben soll und um welche Stufe, also Wirkungsstärke, es sich handelt.
 Wird die Vergiftungsstufe ausgehalten, so erscheint folgende Meldung:</p>
-<div class="figure">
-<img src="Pictures/Rules/DMAppSpielAnderesTrank.JPG" alt="" />
-<p class="caption">Ein Heiltrank stellt Leben wieder her.</p>
+<div class="float">
+<img src="Pictures/Rules/DMAppSpielAnderesTrank.jpg" alt="Ein Heiltrank stellt Leben wieder her." />
+<div class="figcaption">Ein Heiltrank stellt Leben wieder her.</div>
 </div>
 <p>Feysiriel stellt 100 Gesundheit wieder her.
 Die Vergiftungsstufe steigt von 0 auf 2 und “Saved!” bedeutet, dass diese Vergiftung ausgehalten wurde.
 Wird der Vergiftung nicht standgehalten, so folgt die Ohnmacht eines Spielers.</p>
-<div class="figure">
-<img src="Pictures/Rules/DMAppSpielAnderesTrankOhnmacht.JPG" alt="" />
-<p class="caption">Ein Trank verursacht Ohnmacht.</p>
+<div class="float">
+<img src="Pictures/Rules/DMAppSpielAnderesTrankOhnmacht.jpg" alt="Ein Trank verursacht Ohnmacht." />
+<div class="figcaption">Ein Trank verursacht Ohnmacht.</div>
 </div>
 <p>Leidet ein Spieler an verschiedenen Statuseffekten, so gibt das Programm dem DM genau aus, wie sich das Trinken eines Tranks auf den Zustand des Spielers auswirkt.
 Da das Trinken des Tranks zwar Gesundheit wiederherstellt, die Aktionsausführung an sich jedoch dazu führt, dass die DoTs ihre Wirkung zeigen, wodurch wieder Leben verloren wird.</p>
-<div class="figure">
-<img src="Pictures/Rules/DMAppAnderesTrankHeilungDot.JPG" alt="" />
-<p class="caption">Update des Zustands eines Spielers nach einem Heiltrank.</p>
+<div class="float">
+<img src="Pictures/Rules/DMAppAnderesTrankHeilungDot.jpg" alt="Update des Zustands eines Spielers nach einem Heiltrank." />
+<div class="figcaption">Update des Zustands eines Spielers nach einem Heiltrank.</div>
 </div>
 <p>Wird ein Spieler bewusstlos, so können seine Mitstreiter einen Trank namens <em>Epinephrinika</em> herstellen, welcher ihn wieder zu bewusstsein bringt.</p>
-<div class="figure">
-<img src="Pictures/Rules/DMAppAnderesTrankEpinephrinika.JPG" alt="" />
-<p class="caption">Erfolgreiche Epinephrinikaeinnahme.</p>
+<div class="float">
+<img src="Pictures/Rules/DMAppAnderesTrankEpinephrinika.jpg" alt="Erfolgreiche Epinephrinikaeinnahme." />
+<div class="figcaption">Erfolgreiche Epinephrinikaeinnahme.</div>
 </div>
 </div>
 <div id="DMAppAnderesAusruestung" class="section level5 unnumbered hasAnchor">
@@ -3191,51 +3211,51 @@ Da das Trinken des Tranks zwar Gesundheit wiederherstellt, die Aktionsausführun
 <p>Im Tab Ausrüstung gibt es die Möglichkeit die Ausrüstung, also die Waffen und Rüstung, eines Akteurs zu wechseln.</p>
 <p>Hierfür muss ein Akteur bestimmt und festgelegt werden, in welchem Holste die Waffe gewechselt werden soll.
 Ebenso wird angegeben, welche Waffe eingesteckt wird, welches Tier diese hat und in welchem Zustand sie sich befindet.</p>
-<div class="figure">
-<img src="Pictures/Rules/DMAppAnderesAusruestungAendernWaffe.JPG" alt="" />
-<p class="caption">Erfolgreiches Ändern einer Waffe.</p>
+<div class="float">
+<img src="Pictures/Rules/DMAppAnderesAusruestungAendernWaffe.jpg" alt="Erfolgreiches Ändern einer Waffe." />
+<div class="figcaption">Erfolgreiches Ändern einer Waffe.</div>
 </div>
 <p>Für die Ausrüstung sieht dieser Vorgang ähnlich aus.</p>
-<div class="figure">
-<img src="Pictures/Rules/DMAppAnderesAusruestungAendernRuestung.JPG" alt="" />
-<p class="caption">Erfolgreiches Ändern eines Rüstungsteils.</p>
+<div class="float">
+<img src="Pictures/Rules/DMAppAnderesAusruestungAendernRuestung.jpg" alt="Erfolgreiches Ändern eines Rüstungsteils." />
+<div class="figcaption">Erfolgreiches Ändern eines Rüstungsteils.</div>
 </div>
 <p>Die Veränderung der Ausrüstung kann zudem im <a href="installation-und-nutzung-von-orbis-astea.html#DMAppBeschreiben">Beschreiben-Tab</a> nachverfolgt werden.</p>
-<div class="figure">
-<img src="Pictures/Rules/DMAppAnderesAusruestungAendernRuestungUeberpruefung.JPG" alt="" />
-<p class="caption">Überprüfung der Rüstungsänderung im Beschreiben-Tab.</p>
+<div class="float">
+<img src="Pictures/Rules/DMAppAnderesAusruestungAendernRuestungUeberpruefung.jpg" alt="Überprüfung der Rüstungsänderung im Beschreiben-Tab." />
+<div class="figcaption">Überprüfung der Rüstungsänderung im Beschreiben-Tab.</div>
 </div>
 <p>Geht eine Gruppe beispielsweise gemeinsam ins Wasser, oder muss abrüsten, weil sie gesellschaftlich höhergestellte Personen besucht, so kann dies im Aus/Abrüsten-Tab erfolgen.
 Hierfür muss lediglich händisch eingetragen werden, welche Akteure sich ausziehen, bzw.
 wieder anziehen und ob sie lediglich ihre Waffen ablegen, oder aber auch ihre Rüstung betroffen ist.</p>
-<div class="figure">
-<img src="Pictures/Rules/DMAppAnderesAusruestungAbruesten.JPG" alt="" />
-<p class="caption">Erfolgreiches Ausziehen der Rüstung.</p>
+<div class="float">
+<img src="Pictures/Rules/DMAppAnderesAusruestungAbruesten.jpg" alt="Erfolgreiches Ausziehen der Rüstung." />
+<div class="figcaption">Erfolgreiches Ausziehen der Rüstung.</div>
 </div>
 <p>Die Meldung für das Anziehen ist die gleiche.</p>
 <p>Möchte ein Spieler seine Waffe mit einem Statuseffekt, wie Gift, belegen, so kann der DM dies im <em>Waffe vergiften</em>-Tab vornehmen.</p>
-<div class="figure">
-<img src="Pictures/Rules/DMAppAnderesAusruestungWaffeVergiften.JPG" alt="" />
-<p class="caption">Erfolgreiches Vergiften einer Waffe.</p>
+<div class="float">
+<img src="Pictures/Rules/DMAppAnderesAusruestungWaffeVergiften.jpg" alt="Erfolgreiches Vergiften einer Waffe." />
+<div class="figcaption">Erfolgreiches Vergiften einer Waffe.</div>
 </div>
 <p>Die Vergiftung der Waffe kann ebenfalls, unter Auswahl des korrekten Holsters als Unterobjekt, im <a href="installation-und-nutzung-von-orbis-astea.html#DMAppBeschreiben">Beschreiben-Tab</a> überprüft werden.</p>
-<div class="figure">
-<img src="Pictures/Rules/DMAppBeschreibenVergiftungWaffe.JPG" alt="" />
-<p class="caption">Vergiftung unter DoTTyp Gift erkennbar.</p>
+<div class="float">
+<img src="Pictures/Rules/DMAppBeschreibenVergiftungWaffe.jpg" alt="Vergiftung unter DoTTyp Gift erkennbar." />
+<div class="figcaption">Vergiftung unter DoTTyp Gift erkennbar.</div>
 </div>
 <p>Die Waffe, die mit einem Statuseffekt belegt wurde, kann von da an diesen Effekt auslösen, wenn ausreichend Schaden verursacht wird, wie im nachfolgenden Beispiel erkennbar:</p>
-<div class="figure">
-<img src="Pictures/Rules/DMAppAnderesAusruestungStatuseffekt.JPG" alt="" />
-<p class="caption">DoT Gift wird durch vergifteten Kriegshammer von t für 10 runden ausgelöst.</p>
+<div class="float">
+<img src="Pictures/Rules/DMAppAnderesAusruestungStatuseffekt.jpg" alt="DoT Gift wird durch vergifteten Kriegshammer von t für 10 runden ausgelöst." />
+<div class="figcaption">DoT Gift wird durch vergifteten Kriegshammer von t für 10 runden ausgelöst.</div>
 </div>
 </div>
 <div id="DMAppAnderesBrandLoeschen" class="section level5 unnumbered hasAnchor">
 <h5><em>Brand an Akteur löschen</em><a href="installation-und-nutzung-von-orbis-astea.html#DMAppAnderesBrandLoeschen" class="anchor-section" aria-label="Anchor link to header"></a></h5>
 <p>Beginnt ein Akteur das Brennen, beispielsweise durch einen Brandkapselpfeil, oder andere äußere Einflüsse, so kann dieser Brand im Tab <em>Brand an Akteur löschen</em> gelöscht werden.</p>
 <p>Hierfür muss ein Akteur bestimmt werden, der ein brennendes Ziel löscht.</p>
-<div class="figure">
-<img src="Pictures/Rules/DMAppSpielAnderesBrandLoeschen.JPG" alt="" />
-<p class="caption">m löscht den Brand an ks1.</p>
+<div class="float">
+<img src="Pictures/Rules/DMAppSpielAnderesBrandLoeschen.jpg" alt="m löscht den Brand an ks1." />
+<div class="figcaption">m löscht den Brand an ks1.</div>
 </div>
 </div>
 </div>
@@ -3257,9 +3277,9 @@ Man benötigt auch die Akrobatik-Fähigkeit für z.B.
 einen Akrobatikauftritt.
 Sobald der Charakter und die Aktivität ausgewählt wurden, müssen Sie nur noch die Go-Taste drücken und das Ergebnis im Feld unten ablesen.
 Das verdiente Geld kann dann direkt in das Inventar des Spielers eingetragen werden.</p>
-<div class="figure">
-<img src="Pictures/Rules/DMAppDowntimeArbeit.JPG" alt="" />
-<p class="caption">ks3 erwitschaftet 183 Reiks durch einen Faustkampf.</p>
+<div class="float">
+<img src="Pictures/Rules/DMAppDowntimeArbeit.jpg" alt="ks3 erwitschaftet 183 Reiks durch einen Faustkampf." />
+<div class="figcaption">ks3 erwitschaftet 183 Reiks durch einen Faustkampf.</div>
 </div>
 </div>
 <div id="DMAppTraining" class="section level4 unnumbered hasAnchor">
@@ -3267,9 +3287,9 @@ Das verdiente Geld kann dann direkt in das Inventar des Spielers eingetragen wer
 <p>Wie bei der Arbeit muss ein Akteur ausgewählt werden.
 Darüber hinaus muss der Spieler auswählen, welchen Skill er trainieren möchte, und einen Lehrer, falls einer verfügbar ist.
 Wenn der Spieler im Training erfolgreich ist, zeigt das Feld unten, wie sehr sich die Fähigkeit verbessert hat.</p>
-<div class="figure">
-<img src="Pictures/Rules/DMAppDowntimeTraining.JPG" alt="" />
-<p class="caption">Verbesserung der Bühnenkunst um einen Punkt.</p>
+<div class="float">
+<img src="Pictures/Rules/DMAppDowntimeTraining.jpg" alt="Verbesserung der Bühnenkunst um einen Punkt." />
+<div class="figcaption">Verbesserung der Bühnenkunst um einen Punkt.</div>
 </div>
 </div>
 <div id="DMAppStudieren" class="section level4 unnumbered hasAnchor">
@@ -3277,14 +3297,14 @@ Wenn der Spieler im Training erfolgreich ist, zeigt das Feld unten, wie sehr sic
 <p>Letztlich muss beim Studieren nur eine Person ausgewählt werden.
 Der Grund dafür ist, dass die Wissenskills abstrakt ausgewählt werden können und daher keine definierte Liste haben, aus der sie ausgewählt werden können.
 Wenn Wissensfertigkeitspunkte erfolgreich erworben wurden, kann der Spieler die erhaltenen Punkte in sein Charakterblatt eintragen.</p>
-<div class="figure">
-<img src="Pictures/Rules/DMAppDowntimeStudierenErfolg.JPG" alt="" />
-<p class="caption">Erfolgreiches Studieren</p>
+<div class="float">
+<img src="Pictures/Rules/DMAppDowntimeStudierenErfolg.jpg" alt="Erfolgreiches Studieren" />
+<div class="figcaption">Erfolgreiches Studieren</div>
 </div>
 <p>Lernt ein Akteur nichts, so folgt diese Meldung:</p>
-<div class="figure">
-<img src="Pictures/Rules/DMAppDowntimeStudieren.JPG" alt="" />
-<p class="caption">Erfolgloses Studieren</p>
+<div class="float">
+<img src="Pictures/Rules/DMAppDowntimeStudieren.jpg" alt="Erfolgloses Studieren" />
+<div class="figcaption">Erfolgloses Studieren</div>
 </div>
 </div>
 </div>
@@ -3293,25 +3313,25 @@ Wenn Wissensfertigkeitspunkte erfolgreich erworben wurden, kann der Spieler die 
 <p>Die Lootliste ermöglicht es dem DM eine Liste zu generieren, welche Gegenstände umfasst, die Profile an sich getragen haben als sie gestorben sind.
 Hierfür muss lediglich eingetragen werden, welche Personen Gegenstände, wie Rüstung und Waffen, von den Verstorbenen aufklauben und wie viel Prozent der Gegenstände als potenzieller Loot zur Verfügung steht.
 Dies erfolgt durch eine händische Eingabe der Akteure, die jeweils mit einem Komma voneinander getrennt werden.</p>
-<div class="figure">
-<img src="Pictures/Rules/DMAppLootlisteAusruestung.JPG" alt="" />
-<p class="caption">Vorschau der Ausrüstung des Loots.</p>
+<div class="float">
+<img src="Pictures/Rules/DMAppLootlisteAusruestung.jpg" alt="Vorschau der Ausrüstung des Loots." />
+<div class="figcaption">Vorschau der Ausrüstung des Loots.</div>
 </div>
-<div class="figure">
-<img src="Pictures/Rules/DMAppLootlisteKram.JPG" alt="" />
-<p class="caption">Vorschau über den Kram innerhalb des Loots.</p>
+<div class="float">
+<img src="Pictures/Rules/DMAppLootlisteKram.jpg" alt="Vorschau über den Kram innerhalb des Loots." />
+<div class="figcaption">Vorschau über den Kram innerhalb des Loots.</div>
 </div>
 <p>Mit betätigen des <em>Go</em>-Buttons wird zudem automatisch eine Lootliste in Form einer Excel-Datei ausgegeben.
 Diese findet sich im <em>OrbisGame</em>-Ordner im Unterordner <em>SessionOrganisation</em> unter dem Namen “lootliste”.
 Natürlich steht es jedem DM darüber hinaus offen, den Spielern Loot darüberhinaus zukommen zu lassen.</p>
-<div class="figure">
-<img src="Pictures/Rules/DMAppLootlisteSpeicherort.JPG" alt="" />
-<p class="caption">Vorschau über den Kram innerhalb des Loots.</p>
+<div class="float">
+<img src="Pictures/Rules/DMAppLootlisteSpeicherort.jpg" alt="Vorschau über den Kram innerhalb des Loots." />
+<div class="figcaption">Vorschau über den Kram innerhalb des Loots.</div>
 </div>
 <p>Innerhalb dieser Liste befindet sich der gleiche Loot, wie in der Vorschau bereits gezeigt:</p>
-<div class="figure">
-<img src="Pictures/Rules/UnbenanntDMAppLootlisteExcel.JPG" alt="" />
-<p class="caption">Der Kram des Loots in der Excel-Datei.</p>
+<div class="float">
+<img src="Pictures/Rules/UnbenanntDMAppLootlisteExcel.jpg" alt="Der Kram des Loots in der Excel-Datei." />
+<div class="figcaption">Der Kram des Loots in der Excel-Datei.</div>
 </div>
 <p>Wichtig ist, dass die Spieler den Loot der Liste händisch in ihr eigenes Inventar übertragen müssen.</p>
 </div>
@@ -3428,7 +3448,7 @@ gitbook.start({
     var script = document.createElement("script");
     script.type = "text/javascript";
     var src = "true";
-    if (src === "" || src === "true") src = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML";
+    if (src === "" || src === "true") src = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.9/latest.js?config=TeX-MML-AM_CHTML";
     if (location.protocol !== "file:")
       if (/^https?:/.test(src))
         src = src.replace(/^https?:/, '');

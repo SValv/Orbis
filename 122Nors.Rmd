@@ -21,6 +21,14 @@ Wie das Herzland spielte auch Nors eine wichtige Rolle bei der Gründung sowie d
 
 ![Karte der Hauptstadt von Nors - auch Nors genannt](Pictures/Maps/Staedte/Nors.png)
 
+###	Festung Kollag:
+erhebt sich nicht bloß als Stadt, sondern als heilige Bastion, die als erste Verteidigungslinie zwischen dem Kaiserreich und den schrecklichen Monstern in der Knochenfeld Schlucht steht. Mit Mauern so hoch, dass sie scheinen könnten, den Himmel zu berühren, wenn man direkt vor ihnen steht, bietet Kollag zweifellos die stärksten Verteidigungen im gesamten Kaiserreich. Doch nicht nur die gigantischen Mauern von Kollag beeindrucken jeden, der die Chance hat, die Festung zu betreten.
+
+Die in der Festung stationierten Soldaten, die sogenannten Gipfelwachen, sind bekannt als die angesehensten Monsterjäger in der ganzen Domäne. Wenn man für seine Fähigkeiten im Jagen von Tieren oder grotesken Kreaturen berühmt ist, dann besteht die Möglichkeit, dass das Kaiserreich auf einen zukommt und einen dazu auffordert, in der Festung Kollag Wache zu stehen.
+
+Auf dem höchsten Gipfel der Festung thront das legendäre Horn Gamnat, das von den besten Handwerkern von Nors erschaffen wurde. Es wird, dass es das raffinierteste Kunstwerk in ganz Nors ist, das niemals erklingen darf, denn sein Klang verkündet, dass die Mauern durchbrochen wurden und die Gefahren aus der Knochenfeld Schlucht in die Ländereien von Nors strömen. Eine einzige Ausnahme gibt es, den Tag von Jaronson. An diesem Tag wird das Horn erhoben, um die Gründung von Nors zu feiern. Der Klang des legendären Horns verwendet als Symbol für Stärke und Einheit, während das Volk sich vereint und die Geschichte seines tapferen Landes feiert.
+
+
 ### Infrastruktur
 
 Nors boasts a well-maintained road system, allowing for efficient movement of goods and people.
@@ -92,11 +100,16 @@ Until recently Nors was considered to be a relatively stable region.
 The region had seen a gloom since the war with the Rah Kari ended.
 Nonetheless many soldiers were sent to the region in case a conflict were to start again.
 This has led to many soldiers patrolling the region.
-However in the last year conflicts have erupted between various groups and companies throughout the region, especially in the Salt production and distribution sector. Previously allied groups and companies found themselves locked in bitter disputes, their disagreements descending into violent confrontations.
+However in the last year conflicts have erupted between various groups and companies throughout the region, especially in the Salt production and distribution sector.
+Previously allied groups and companies found themselves locked in bitter disputes, their disagreements descending into violent confrontations.
 These groups have started to attack each other facilities and they have caused discourse in different parts of the region.
-There have even been scandals were the military has been involve in these private disputes and fights. The Emperor gave the order to sent more troops to tighten the grip on the region, however his generals only saw the conflicts as minor disputes between small groups. As such they only send young and barely trained soldiers to the region. Many of these soldiers soon gave into the greedy offers that the merchants offered them to look the other way or not get invovled in the conflicts.
+There have even been scandals were the military has been involve in these private disputes and fights.
+The Emperor gave the order to sent more troops to tighten the grip on the region, however his generals only saw the conflicts as minor disputes between small groups.
+As such they only send young and barely trained soldiers to the region.
+Many of these soldiers soon gave into the greedy offers that the merchants offered them to look the other way or not get invovled in the conflicts.
 
-The fights throughout the region has course the citizens to become restless and some are even questioning the military's capabilities to secure the region despite them managing to take down a Aschwurm with the help of the Animali. Many citizens outside of the region saw the subjugation of the Aschwurm as a huge accomplishment, however the minds of Nors were not persuaded by this act.
+The fights throughout the region has course the citizens to become restless and some are even questioning the military's capabilities to secure the region despite them managing to take down a Aschwurm with the help of the Animali.
+Many citizens outside of the region saw the subjugation of the Aschwurm as a huge accomplishment, however the minds of Nors were not persuaded by this act.
 
 ### Herrschaftsystem/Organisation
 
@@ -105,9 +118,19 @@ Derzeitiges rechtliches Oberhaupt: Quintis Memmius Victricius
 
 ## Klimatische Bedingungen
 
-The climate in Nors, a region situated to the west of the Herzland, is characterized by cold and damp conditions.
-Located along the West sea, the region experiences chilly temperatures and high humidity levels.
-Winters can be harsh, and it's essential to prepare for the cold when visiting during the winter month
+In der Region Nors sind die klimatischen Bedingungen äußerst vielfältig und beeinflussen das Leben der Bewohner in vielerlei Hinsicht.
+Die Witterung in dieser Region kann von Tag zu Tag stark variieren, und die Menschen haben gelernt, sich den wechselnden Bedingungen anzupassen.
+Die Menschen der Region haben im Laufe der Zeit eine enge Beziehung zu ihrem wechselhaften Klima entwickelt.
+Sie sind stolz auf ihre Fähigkeit, sich den unvorhersehbaren Bedingungen anzupassen und das Beste aus jedem Wetter zu machen.
+Dieses Wetter, ob stürmisch oder heiter, ist ein fester Bestandteil ihrer Lebensweise und beeinflusst ihre Kultur, Traditionen und Aktivitäten.
+Die Temperaturen können von extremen Kälteeinbrüchen bis zu angenehmen Wärmeperioden reichen.
+Regen und Sonnenschein wechseln sich ab, und die Bewohner sind darauf vorbereitet, in kurzer Zeit von einem wolkenverhangenen Himmel zu strahlendem Sonnenschein zu wechseln.
+Die Küstengebiete sind oft von starken Winden geprägt, die vom nahen Ozean herüberwehen.
+Diese Winde können das Wetter schnell verändern und sind ein wichtiger Teil des Lebens der Küstenbewohner.
+Sie haben gelernt, die Winde zu nutzen, sei es beim Segeln oder beim Trocknen ihren Fischfang.
+Die Niederschlagsmuster in "Nors" sind ebenfalls vielfältig.
+In einigen Regionen regnet es häufig und reichlich, während andere Landstriche trockener sind.
+Die Bewässerung der Felder und die Sicherung von Wasserquellen sind wichtige Aspekte des täglichen Lebens in dieser abwechslungsreichen Umgebung.
 
 ### Die Flora und Fauna
 
@@ -115,28 +138,113 @@ Winters can be harsh, and it's essential to prepare for the cold when visiting d
 
 ##### Werwolf
 
+In the world of Nors, a region known for its cold and damp climate, there is a peculiar and eerie phenomenon: it is the most common place for encounters with werewolves.
+These mysterious creatures are said to thrive in the harsh winters and dense forests of Nors.
+The cold and remote landscape provides them with ample cover and isolation, making it an ideal habitat.
 
-In the world of Nors, a region known for its cold and damp climate, there is a peculiar and eerie phenomenon: it is the most common place for encounters with werewolves. These mysterious creatures are said to thrive in the harsh winters and dense forests of Nors. The cold and remote landscape provides them with ample cover and isolation, making it an ideal habitat.
-
-Norsians have long shared stories of these creatures, often passed down through generations. Some believe that the unique properties of the region, coupled with its rich history, have given rise to a higher prevalence of werewolves here than anywhere else in the world
+Norsians have long shared stories of these creatures, often passed down through generations.
+Some believe that the unique properties of the region, coupled with its rich history, have given rise to a higher prevalence of werewolves here than anywhere else in the world
 
 ##### Steinwurm
 
-In the rugged terrain of Nors, where deep ravines and treacherous cracks scar the landscape, one can often hear tales of the elusive Steinwurm. These legendary creatures are believed to be responsible for many of the region's geological features, as they burrow through the earth in their relentless search for prey.
+In the rugged terrain of Nors, where deep ravines and treacherous cracks scar the landscape, one can often hear tales of the elusive Steinwurm.
+These legendary creatures are believed to be responsible for many of the region's geological features, as they burrow through the earth in their relentless search for prey.
 
-With their powerful burrowing abilities, they create intricate networks of tunnels beneath the surface, which can cause the ground to become unstable. Norsians have learned to navigate these hazards with caution, understanding that encountering a Steinwurm is a rare but dangerous possibility. Many local legends and cautionary tales warn travelers of the Steinwurms' potential presence, emphasizing the importance of staying on established paths and avoiding the treacherous depths of the earth.
+With their powerful burrowing abilities, they create intricate networks of tunnels beneath the surface, which can cause the ground to become unstable.
+Norsians have learned to navigate these hazards with caution, understanding that encountering a Steinwurm is a rare but dangerous possibility.
+Many local legends and cautionary tales warn travelers of the Steinwurms' potential presence, emphasizing the importance of staying on established paths and avoiding the treacherous depths of the earth.
 
 ## Gerüchte der Region
 
-###The Zephyton Civilization 
+### The Zephyton Civilization
 
-Whispers and rumours about a long-forgotten civilization in Nors, predating the empire's arrival has circulated the region for most of its history. The tales speak of a small, enigmatic people who once thrived amidst these harsh sands, their existence marked by faint, elusive traces and small ruins scattered throughout the Nors. It is said that these ancient inhabitants, as ingenious as they were, met a tragic fate. Legends tell of colossal monster worms that slumbered beneath the earth, creatures of such immense size and power that they could plunge entire settlements into the depths below.
+Whispers and rumours about a long-forgotten civilization in Nors, predating the empire's arrival has circulated the region for most of its history.
+The tales speak of a small, enigmatic people who once thrived amidst these harsh sands, their existence marked by faint, elusive traces and small ruins scattered throughout the Nors.
+It is said that these ancient inhabitants, as ingenious as they were, met a tragic fate.
+Legends tell of colossal monster worms that slumbered beneath the earth, creatures of such immense size and power that they could plunge entire settlements into the depths below.
 
-A sinister divine reason is whispered for the ancient civilization's plunge into the earth. It is said that these people, in their fervent devotion, worshiped a deity that dwelled in the darkest depths beneath the earth's surface.As their devotion deepened, the inhabitants came to view the monstrous worms that roamed beneath their feet as the heralds and agents of their subterranean deity. Some scholars believed that a twisted faith had taken root in the civilization and that they people believed that they could transcend the mortal realm and join their god in the ground. Some scriptures left behind by the civilization indicates that a horrifying ritual took place were the people beckoned fourth the worm creatures of their god to plung their entire land into the earth so that they would he granted passage into the world of their sinister god.
+A sinister divine reason is whispered for the ancient civilization's plunge into the earth.
+It is said that these people, in their fervent devotion, worshiped a deity that dwelled in the darkest depths beneath the earth's surface.As their devotion deepened, the inhabitants came to view the monstrous worms that roamed beneath their feet as the heralds and agents of their subterranean deity.
+Some scholars believed that a twisted faith had taken root in the civilization and that they people believed that they could transcend the mortal realm and join their god in the ground.
+Some scriptures left behind by the civilization indicates that a horrifying ritual took place were the people beckoned fourth the worm creatures of their god to plung their entire land into the earth so that they would he granted passage into the world of their sinister god.
 
-Adventurers, drawn by tales of the lost civilization in Nors, have ventured into its perilous caves and subterranean realms. Equipped with torches and ambition, they seek to unravel the mysteries hidden beneath the earth. Yet, this journey is treacherous, with many explorers vanishing without a trace, as if the earth itself swallows them whole. 
+Adventurers, drawn by tales of the lost civilization in Nors, have ventured into its perilous caves and subterranean realms.
+Equipped with torches and ambition, they seek to unravel the mysteries hidden beneath the earth.
+Yet, this journey is treacherous, with many explorers vanishing without a trace, as if the earth itself swallows them whole.
+
+### Das Lied des Seefahrers
+
+Seit Monaten berichten Seefahrer entlang der Küsten von Nors von einem unerklärlichen Klang, der ihre Ohren verfolgt.
+Jeder Seemann hört etwas anderes, aber es gibt immer zwei Dinge, die sie gemeinsam haben.
+Zum einen ist es die Stimme, die sie nur als die eines Engels beschreiben können, und zum anderen die Anweisung, sich vollständig der Stimme hinzugeben, um sie sicher durch einen möglichen Sturm zu führen.
+Die Legende des Liedes des Seefahrers hat die Menschen in Nors gespalten.
+Diejenigen, die die Geschichten hören, betrachten sie oft als das Werk von Trunkenbolden, die nur Aufmerksamkeit erregen wollen, wenn sie in der örtlichen Kneipe ihre Geschichten erzählen.
+Diese Skeptiker sind der Meinung, dass es keine himmlische Führung gibt und dass das Lied lediglich eine Illusion ist.
+Aber es gibt auch jene Seeleute, die fest an das Lied glauben und bereit sind, auf die Stimme zu hören, wenn der nächste Sturm droht.
+Sie sehen das Lied als eine Verbindung zur Natur und als einen Weg, sich den Geheimnissen des Ozeans zu nähern.
+Diese tapferen Seefahrer sind davon überzeugt, dass die Engel von Nors die wahren Beschützer der Küsten sind und dass sie auserwählt sind, ihre Führung zu empfangen.
+Ob das Lied des Seefahrers tatsächlich eine himmlische Gabe oder nur ein Produkt der Vorstellungskraft ist, bleibt ein Mysterium.
+Doch für diejenigen, die sich auf hohe See wagen, ist es ein Zeichen der Hoffnung und der Möglichkeit, dass etwas Größeres sie auf ihren Reisen begleitet.
+
+### Der Fluch des Kaiserreichs
+
+In den abgelegenen Dörfern von Nors kursieren mysteriöse Geschichten über unerklärliche Erscheinungen.
+An verschiedenen Orten in der Region behaupten einige Erwachte gesehen zu haben, Geister gefallener Krieger, die aus einer längst vergangenen Schlacht stammen.
+Die Gerüchte besagen, dass vor langer Zeit eine verheerende Schlacht nahe einer Salzmine in der Nähe der Himmelspitzen-Gebirge tobte.
+Hier trafen die Soldaten des Kaiserreichs auf die Truppen von Rah Kari während des großen Krieges zwischen den beiden Fraktionen.
+Was diese Geister jedoch so unheimlich macht, ist die Tatsache, dass sie scheinbar keine Ruhe finden können.
+Augenzeugen berichten, dass die Erwachten weiterkämpfen, als ob ein düsterer Fluch auf ihnen laste.
+Sie sollen einander attackieren und bekriegen, als seien sie in einem endlosen Albtraum gefangen.
+Obwohl die Einwohner von Nors diese Gerüchte mit Vorsicht genießen, meiden sie dennoch die Orte, an denen diese geisterhaften Erscheinungen aufgetreten sind.
+Man erzählt sich diese Geschichten lieber im Schein des Lagerfeuers und hofft, dass der Fluch des Kaiserreichs ihre Dörfer nie erreichen wird.
 
 ## Sehenswürdigkeiten
+
+### Ebbe und Flut Fest:
+
+Im Herzen der Küstenstadt Sturmkap findet jeden Monat eine tiefgehende Tradition statt, eine Feier, die Freude und Erinnerung miteinander verknüpft.
+Dies monatliche Treffen, bekannt als das "Ebbe und Flut Fest", ist ein Zeugnis für den anhaltenden Geist dieser maritimen Gemeinschaft.
+Hoch oben am Rand von Nors, hat seit langem auf die Gaben des Ozeans für ihre Existenzgrundlage und ihren Lebensunterhalt vertraut.
+Es ist ein Ort, an dem die tapferen Seelen der Stadt in die unberechenbaren Tiefen des Meeres vorstoßen, sei es zum Fischen nach reichlichem maritimen Leben oder zur Erkundung unerforschter Gewässer.
+Doch mit großer Tapferkeit kommt auch große Opferbereitschaft, und Sturmkap hat seinen Anteil an geliebten Menschen gesehen, die den launischen Launen des Ozeans zum Opfer gefallen sind.
+Um jene zu ehren, die sich auf ihre letzte Reise begeben haben, kommt die Gemeinschaft jeden Monat zusammen, um ihre Erinnerungen zu feiern und Dankbarkeit für die Schätze auszudrücken, die das Meer bereitstellt.
+Das "Ebbe und Flut Fest" ist ein imposantes Spektakel, das die Straßen der Stadt mit lebendigen Farben, melodischen Liedern und dem verlockenden Duft frisch gefangener Meeresfrüchte erfüllt.
+Tische ächzen unter der Last opulenter Gerichte, und das Lachen vermengt sich mit dem Klang der Seemannslieder.
+Die Augen der Kinder leuchten vor Staunen, wenn sie faszinierenden Feuertänzen zusehen, ein Symbol für die wilde, aber tröstliche Umarmung des Meeres.
+Doch inmitten der Festlichkeiten liegt eine tiefe Ernsthaftigkeit.
+Im Herzen des Festes liegt ein Glaube, der von Generation zu Generation weitergegeben wurde: Das Glück und die Wärme, die dieses Treffen erzeugt, dienen als Leitlichter für die Seelen der Verstorbenen.
+Man glaubt, dass die freudige Energie der Lebenden den Weg für jene erleuchtet, die auf See verloren gegangen sind, und ihre Geister von der Gemeinschaft, die sie einst ihr Zuhause nannten, willkommen geheißen werden.
+Wenn die Sonne unter den Horizont sinkt und die Sterne über uns funkeln, versammeln sich die Menschen von Sturmkap am Ufer.
+Jeder hält eine Laterne mit dem Namen eines verstorbenen Geliebten.
+Diese Laternen werden auf den sanften Wellen treiben gelassen und schaffen ein atemberaubendes Meer flackernder Lichter, das sich bis zum Horizont erstreckt.
+
+### Taverne Dunkelstein
+
+In den rauen Landen von Nors, nahe der imposanten Festung Kollag, liegt eine besondere Einrichtung, die weit über die Grenzen der Region hinaus bekannt ist - die Taverne Dunkelstein.
+Doch diese Taverne ist mehr als nur ein Ort, an dem durstige Reisende verweilen.
+Sie ist ein Schmelztiegel aus Geschäft, Geselligkeit und Abenteuer.
+
+Was die Taverne Dunkelstein so besonders macht, ist ihre Lage direkt neben einer Metallmine.
+Diese Mine versorgt nicht nur die nahegelegene Festung Kollag mit wertvollen Rohstoffen für Waffen und Rüstungen, sondern auch die Taverne selbst.
+In einem einzigartigen Arrangement wurde die Taverne buchstäblich in das gleiche Gebäude integriert, in dem die Schmiede und Handwerker ihre Künste ausüben.
+Das bedeutet, dass die in der Mine gewonnenen Metalle und Erze direkt in der Taverne verwendet werden, um Waren herzustellen, die dann im angrenzenden Handelsbereich verkauft werden.
+
+Die Vorteile dieser Anordnung sind vielfältig.
+Zum einen müssen die wertvollen Rohstoffe nicht über weite Strecken transportiert werden, was die Preise für Waffen und Rüstungen in der Taverne Dunkelstein erheblich senkt.
+Dies macht die Taverne zu einem beliebten Anlaufpunkt für Abenteurer, Söldner und Händler, die auf der Suche nach qualitativ hochwertiger Ausrüstung zu erschwinglichen Preisen sind.
+
+### Wasserschlüssel Gilde:
+
+In der Stadt Sturmkap gibt es eine einflussreiche Gilde von Fischern, die sich Anfang von der Geschichte von Nors der Bewirtschaftung der Gewässer von Orbis widmet.
+Diese Gilde, bekannt als die "Wasserschlüssel-Gilde", spielt eine zentrale Rolle im Leben der Stadt und der umliegenden Regionen.
+Ihr Hauptziel ist es, Abkommen und Übereinkünfte zwischen den verschiedenen Fraktionen zu vermitteln, die Einfluss auf die Gewässer von Orbis ausüben.
+Dies ist keine einfache Aufgabe, da diese Fraktionen oft konkurrierende Interessen und Ansprüche auf die reichen Wasserressourcen haben.
+Die Wasserschlüssel-Gilde verfolgt eine Vision von Zusammenarbeit und nachhaltiger Ressourcennutzung, sie versucht, Einigkeit und Kooperation zwischen den unterschiedlichen Gruppen herbeizuführen, die die Gewässer von Orbis nutzen.
+Dies schließt nicht nur die ortsansässigen Fischer ein, sondern auch Händler, Transportunternehmen und sogar militärische Kräfte.
+Das Ziel ist es, die reichen maritimen Ressourcen von Orbis nachhaltig und friedlich zu nutzen, um den Wohlstand der Stadt und der gesamten Region zu fördern.
+Allerdings gestaltet sich die Sicherung von Abkommen außerhalb des Kaiserreichs äußerst schwierig.
+Die Spannungen zwischen Sturmkap und Rah Kari sind besonders ausgeprägt, da der Krieg zwischen Rah Kari und dem Kaiserreich fast jeglichen Fortschritt zunichte gemacht hat, den die Gilde bisher erzielt hat, um eine bedeutungsvolle Beziehung aufzubauen.
+Die Kämpfe und Konflikte haben das Vertrauen zwischen den beiden Fraktionen erheblich erschüttert, und die Aussichten auf eine Zusammenarbeit in absehbarer Zeit sind düster
 
 ## Feiertage der Region
 
