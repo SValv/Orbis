@@ -6,6 +6,16 @@ version = 3.75
 dropboxpfad="E:/Dropbox/OrbisAsteaDropbox/"
 projektepfad = str_remove(getwd(),"###Orbis")
 
+library(leaflet)
+library(leafem)
+library(readxl)
+library(sp)
+library(leaflet.extras)
+library(htmltools)
+library(tidyverse)
+library(reactable)
+library(lubridate)
+library(timevis)
 
 # Copy and get files ------------------------------------------------------
 
