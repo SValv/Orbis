@@ -129,11 +129,11 @@ KaisArmee
 waffengattungen-der-imperialen-armee
 die-wirtschaft-des-kaiserreichs
 EldriaFaction
-die-geschichte-von-eldria-die-geschichte-von-eldria
+DieGeschichtevonEldria
 das-königreich-eldrias
-die-aufsplitterung-die-aufsplitterung
+DieAufsplitterung
 die-wirkung-des-felssturzes
-die-kaiserliche-besatzung-die-kaiserliche-besatzung
+DiekaiserlicheBesatzungEldrias
 eldrias-gesellschaft
 die-fürsten
 die-ritterschaft

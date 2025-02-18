@@ -11,7 +11,7 @@ Die größten und mächtigsten Fürstentümer sind <font color="green">[Aerlham]
 Einschätzungen zufolge besteht Eldria aus über 300 Fürstentümern, wobei nur die größten 6-10 relevant sind. Manche der Fürstentümer sind nur Unterfürstentümer wichtigerer Fürstentümer, denen sie Treue und Loyalität schulden. Andere sind eigenständige Kleinfürstentümer, die sich - um nicht von den anderen, größeren Fürstentümern übernommen zu werden - in Allianzen zusammenschließen.
 
 
-## Die Geschichte von Eldria {#Die Geschichte von Eldria} 
+## Die Geschichte von Eldria {#DieGeschichtevonEldria} 
 
 ### Das Königreich Eldrias
 
@@ -27,7 +27,7 @@ Das Königreich Eldria war wenig expansiv und hatte abgesehen vom Handel mit den
 
 Der Fall des Königreichs kam mit dem Fall von Wandia, als im Jahre 1150 vor Riga ein mächtiger wahrer Drache über Wandia herfiel und die Stadt in einen Trümmerhaufen verwandelte. Auch die Tiefstadt wurde vernichtet, wobei viele Donnerwächter und das gesamte Königshaus Eldrias ihr Leben verloren.
 
-### Die Aufsplitterung {#Die Aufsplitterung}
+### Die Aufsplitterung {#DieAufsplitterung}
 
 Ohne die Macht Wandias und die Führung des Königshauses brachen die Fürstentümer Eldrias außeinander und der erste eldrische Bürgerkrieg um Macht, Territorium und Ressourcen begann. Die Unruhen wurden weiter verstärkt durch den wahren Drachen, der alles einäscherte, was sich Wandia zu sehr näherte, und durch die Elfen des Silva Nacia, die den Eldriern den Verlust des Baumsätzlings nicht verzeihen konnten und mit ihren eigenen Truppen nun regelmäßig in Eldria einfielen.
 
@@ -52,7 +52,7 @@ Dadurch übernahm Aerlham die Führungsrolle unter den Fürstentümern - wobei m
 
 Allerdings besetzte Aerlham kurzzeitig die Heimat der Halblinge, Yondalla, im Jahre 190 nach Riga.
 
-### Die kaiserliche Besatzung {#Die kaiserliche Besatzung}
+### Die kaiserliche Besatzung {#DiekaiserlicheBesatzungEldrias}
 
 Seit nunmehr 8 Jahren ist Eldria von den Kaiserlichen besetzt. In der Schlacht um Aerlham ging die eldrische Großarmee verloren, eine Art zusammengerufene Armee sämtlicher Fürstentümer. 
 Obwohl sich Eldria nicht allzu bald von diesem Schlag erholen können wird, ist der Widerstand gegen das Kaiserreich allgegenwärtig spürbar. Während manche Teile Eldrias in offener Rebellion stehen, sind in den meisten Guerilliaorganisationen unterwegs, welche versuchen die Kaiserlichen aufzuhalten oder zu behindern. Wieder andere Fürsten stellen sich aktiv auf die Seite des Kaiserreichs in der Hoffnung die eigene Position und Macht zu erweitern.
