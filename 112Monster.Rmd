@@ -41,8 +41,7 @@ Auch für Holzfäller ist dieses Wissens unentbehrlich, da Sie häufig in Gebiet
 Explizit sei erwähnt, dass das Himmelsgebirge und die Graue Ödnis sehr schlecht erforscht sind.
 Das Wisssen über die dort lebenden Abscheulichkeiten beläuft sich primär auf Aussagen von einzelnen überlebenden Zwergen so wie auf Orkstämme welche regelmäßig in Gebirgen aus religiösen Gründen jagen.
 
-Grob einteilen lassen sich Monster schwer.
-Zu unterschiedlichst sind die Bestrafungen des Allgotts in ihren Fähigkeiten, Stärken und Schwächen.
+Grob einteilen lassen sich Monster schwer, zu unterschiedlich sind die Bestrafungen des Allgotts in ihren Fähigkeiten, Stärken und Schwächen.
 
 Die Welt der Monster und Abscheulichkeiten lässt sich dennoch in grobe Kategorien einteilen, wobei diese nicht immer Trennscharf sind.
 
@@ -97,7 +96,7 @@ Speziell erwähnt werden sollten Legenden.
 Diese Monster sind lediglich aus alten Überlieferungen von Orks, Zwerge oder Elfen belegt.
 Seit der Erstauflage dieses Werkes vor über dreizehn Jahrzehnten konnte von diesen Legenden kein Nachweis erbracht werden.
 
--  Anomalien  - Anomalien sind Monster, die keiner der anderen Kategorien zugeordnet werden k?nnen. Sie sind alle einzigartig und verhalten sich anders als andere Monsterkategorien, in denen sich die Monster alle auf ?hnliche Weise verhalten.
+-  Anomalien  - Anomalien sind Monster, die keiner der anderen Kategorien zugeordnet werden k?nnen. Sie sind alle einzigartig und verhalten sich anders als andere Monsterkategorien, in denen sich die Monster alle auf ähnliche Weise verhalten.
 
 ## Höllenbrut
 
@@ -114,7 +113,7 @@ Dieser Gruppe gelang es auch einen verbrannten Bermatalteufel zu skizzieren und 
 
 Abseits dieser Berichte blieb lediglich der eines Wanderers südlich von Austen der eine solche Kreatur mit "*hämischen Lachenn und hoher Beweglichkeit, größer als jeder bekannte Mensch"* beschrieb.
 
-![Darstellung eines "Bermatalteufel" von Mangold von Straffeld](Pictures/Flavor/Platzhalter/Bermatalteufel.jpg)
+![Darstellung eines "Bermatalteufel" von Mangold von Straffeld](Pictures/Flavor/Platzhalter/Bermatalteufel.JPG)
 
 ### Großer Aufspießer
 

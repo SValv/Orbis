@@ -82,7 +82,7 @@ Somit hat der DM zu jedem Zeitpunkt Zugriff auf die aktuellste Version der Excel
 Um die DM App ausführen zu können, muss die Anwendung im "Orbis Launcher" Ordner gesucht werden.
 Es handelt sich hierbei in der Spalte Typ um die einzige Anwendung im Ordner:
 
-![Aussehen der Anwendung im OrbisDMApp Ordner](Pictures%5CRules%5COrbisAppAnwendung.jpg)
+![Aussehen der Anwendung im OrbisDMApp Ordner](Pictures%5CRules%5COrbisAppAnwendung.JPG)
 
 Diese Anwendung wird mittels Doppelklick gestartet.
 Hier öffnet sich nun ein Fenster, welches auffordert, einen Ordner auszuwählen.
