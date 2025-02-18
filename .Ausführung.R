@@ -59,6 +59,15 @@ file.copy(list.files(from, full.names = TRUE),
 
 ## Kopieren der Bilder
 
+files <- list.files(path = paste0(dropboxpfad,"Orbis Pictures/Pictures"),
+                    pattern = "\\.JPG$", recursive = TRUE, full.names = TRUE)
+
+# Rename each file
+for (file in files) {
+  new_name <- sub("\\.JPG$", ".jpg", file)
+  file.rename(file, new_name)
+}
+
 file.copy(paste0(dropboxpfad,"Orbis Pictures/Pictures/Maps/OrbisAstea.jpg"),
           "docs",
           recursive = TRUE,overwrite =T)
@@ -66,7 +75,7 @@ file.copy(paste0(dropboxpfad,"Orbis Pictures/Pictures/Maps/OrbisAstea.jpg"),
 file.copy(list.files(paste0(dropboxpfad,"Orbis Pictures/Pictures"),
                      full.names = T),
           "./Pictures",
-          recursive = TRUE)
+          recursive = TRUE, overwrite =T)
 
 # Render Bookdown ---------------------------------------------------------
 
