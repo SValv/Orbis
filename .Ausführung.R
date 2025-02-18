@@ -75,7 +75,7 @@ file.copy(paste0(dropboxpfad,"Orbis Pictures/Pictures/Maps/OrbisAstea.jpg"),
 file.copy(list.files(paste0(dropboxpfad,"Orbis Pictures/Pictures"),
                      full.names = T),
           "./Pictures",
-          recursive = TRUE, overwrite =T)
+          recursive = TRUE, overwrite =F)
 
 # Render Bookdown ---------------------------------------------------------
 

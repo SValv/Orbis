@@ -18,9 +18,9 @@ Die Highlights der Geschichte von Orbis Astea sind hier aufgeführt:
  
 ### Simon Valverde {-}
 
-<div style= "float:left;position: relative; right: 30px; top: -7px;">
+<div style="float:left; position:relative; right:30px; top:-7px;  overflow:hidden;">
 
-![](Pictures/Team/Simon.jpg)
+![](Pictures/Team/Simon.jpg){width=250px height=300px}
 
 </div>
 
@@ -41,9 +41,9 @@ Es sind seine Kreativität, sein Herzblut und seine Disziplin, die das Projekt a
 
 ### Lena Pfeiffer {-}
 
-<div style= "float:left;position: relative; right: 30px; top: -7px;">
+<div style="float:left; position:relative; right:30px; top:-7px;  overflow:hidden;">
 
-![](Pictures/Team/Lena3.jpg)
+![](Pictures/Team/Lena3.jpg){width=250px height=300px}
 
 </div>
 
@@ -60,9 +60,9 @@ Lena sorgt dafür, dass Organisation, Deadlines und wichtige Ideen im Projekt ni
 
 ### Emil Mortensen {-}
 
-<div style= "float:left;position: relative; right: 30px; top: -7px;">
+<div style="float:left; position:relative; right:30px; top:-7px;  overflow:hidden;">
 
-![](Pictures/Team/Emil.jpg)
+![](Pictures/Team/Emil.jpg){width=250px height=300px}
 
 </div>
 
@@ -78,9 +78,9 @@ Seine treue Seele ist Teil einer jeden Lore-Session, die abgehalten wird. Er ste
 
 ### Kasper Mortensen {-}
 
-<div style= "float:left;position: relative; right: 30px; top: -7px;">
+<div style="float:left; position:relative; right:30px; top:-7px;  overflow:hidden;">
 
-![](Pictures/Team/Kasper.jpg)
+![](Pictures/Team/Kasper.jpg){width=250px height=300px}
 
 </div>
 
@@ -95,12 +95,11 @@ Kasper ist ein starker Befürworter und Unterstützer des Projekts von Anfang an
 
 ### Florian Berger {-}
 
-<div style= "float:left;position: relative; right: 30px; top: -7px;">
+<div style="float:left; position:relative; right:30px; top:-7px;  overflow:hidden;">
 
-![](Pictures/Team/Florian.jpeg)
+![](Pictures/Team/Florian.jpg){width=250px height=300px}
 
 </div>
-
 * studiert Recht und Wirtschaft in Salzburg
 * ursprünglich aus Deutschland
 * 25 Jahre alt
@@ -116,9 +115,9 @@ Die Vergangenheit der Zwerge sind dabei ebenfalls ein großer Punkt, die seine Z
 
 ### Andreas Fellner {-}
 
-<div style= "float:left;position: relative; right: 30px; top: -7px;">
+<div style="float:left; position:relative; right:30px; top:-7px;  overflow:hidden;">
 
-![](Pictures/Team/Andi.jpg)
+![](Pictures/Team/Andi.jpg){width=250px height=300px}
 
 </div>
 

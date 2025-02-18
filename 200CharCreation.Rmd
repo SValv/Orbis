@@ -180,19 +180,31 @@ Mit diesen Base-Stats fängt man an:
 
 <small> <small>
 
-|         Wert         | Mensch |    Elf     |  Zwerg   |     Ork     | Animalus |    Goblin    |   Halbling   |
-|:--------------------:|:------:|:----------:|:--------:|:-----------:|:--------:|:------------:|:------------:|
-|        Stärke        |   10   |     8      |    10    |     13      |    12    |      7       |      7       |
-|       Agilität       |   10   |     13     |    8     |     10      |    12    |      12      |      12      |
-|       Charisma       |   10   |     11     |    8     |      6      |    8     |      9       |      13      |
-|        Physis        |   10   |     9      |    10    |     12      |    11    |      8       |      9       |
-|     Intelligenz      |   10   |     10     |    14    |      9      |    10    |      10      |      10      |
-|       Instinkt       |   10   |     11     |    10    |     10      |    10    |      10      |      10      |
-|        Glück         |   4    |     4      |    4     |      4      |    4     |      4       |      4       |
-|        Glaube        |   4    |     4      |    4     |      4      |    4     |      4       |      4       |
-|      Startgeld       | 30000  |   27000    |  66000   |    21000    |  24000   |    30000     |    36000     |
-|  Rassenfähigkeiten   |        | Nachtsicht | Geldgeil | Kurzsichtig | Mutation | Thermo-sicht | Harter Magen |
-| Start-Attributpunkte |   10   |     7      |    5     |      9      |    8     |      7       |      7       |
++----------------------+--------+------------+----------+-------------+----------+--------------+--------------+
+| Wert                 | Mensch | Elf        | Zwerg    | Ork         | Animalus | Goblin       | Halbling     |
++:====================:+:======:+:==========:+:========:+:===========:+:========:+:============:+:============:+
+| Stärke               | 10     | 8          | 10       | 13          | 12       | 7            | 7            |
++----------------------+--------+------------+----------+-------------+----------+--------------+--------------+
+| Agilität             | 10     | 13         | 8        | 10          | 12       | 12           | 12           |
++----------------------+--------+------------+----------+-------------+----------+--------------+--------------+
+| Charisma             | 10     | 11         | 8        | 6           | 8        | 9            | 13           |
++----------------------+--------+------------+----------+-------------+----------+--------------+--------------+
+| Physis               | 10     | 9          | 10       | 12          | 11       | 8            | 9            |
++----------------------+--------+------------+----------+-------------+----------+--------------+--------------+
+| Intelligenz          | 10     | 10         | 14       | 9           | 10       | 10           | 10           |
++----------------------+--------+------------+----------+-------------+----------+--------------+--------------+
+| Instinkt             | 10     | 11         | 10       | 10          | 10       | 10           | 10           |
++----------------------+--------+------------+----------+-------------+----------+--------------+--------------+
+| Glück                | 4      | 4          | 4        | 4           | 4        | 4            | 4            |
++----------------------+--------+------------+----------+-------------+----------+--------------+--------------+
+| Glaube               | 4      | 4          | 4        | 4           | 4        | 4            | 4            |
++----------------------+--------+------------+----------+-------------+----------+--------------+--------------+
+| Startgeld            | 30000  | 27000      | 66000    | 21000       | 24000    | 30000        | 36000        |
++----------------------+--------+------------+----------+-------------+----------+--------------+--------------+
+| Rassenfähigkeiten    |        | Nachtsicht | Geldgeil | Kurzsichtig | Mutation | Thermo-sicht | Harter Magen |
++----------------------+--------+------------+----------+-------------+----------+--------------+--------------+
+| Start-Attributpunkte | 10     | 7          | 5        | 9           | 8        | 7            | 7            |
++----------------------+--------+------------+----------+-------------+----------+--------------+--------------+
 
 </small> </small>
 
@@ -219,7 +231,7 @@ Um eine Fähigkeit oder ein Attribut zu verbessern, muss ein Attribut- bzw ein F
 Bei einem Level-up bekommt man:
 
 -   einen Attributspunkt
--   Fähigkeitspunkte abhängig von der Intelligenz des Charakters mal 10.
+-   Fähigkeitspunkte abhängig von der Intelligenz des Charakters mal 5.
 
 ```{r, echo=FALSE}
 
@@ -338,12 +350,17 @@ Folglich hat der Ersteller dieses Charakters 25 Punkte zur Verfügung.
 
 Diese können nun für Wissens- und/oder Sprachenstufen vergeben werden.
 
-| Niveau/Stufe der Sprache oder des Wissens: | Kosten Punkte: |          Wissensniveau           |                Sprachniveau                |
-|:------------------------------------------:|:--------------:|:--------------------------------:|:------------------------------------------:|
-|                  Stufe 0                   |       0        |      Kein Wissen im Bereich      |           Keine Sprachfähigkeit            |
-|                  Stufe 1                   |       5        |           Grundwissen            |      sehr einfache Gespräche möglich       |
-|                  Stufe 2                   |       15       | Belesen & Erfahren im Fachgebiet | Verständigung umständlich aber vollständig |
-|                  Stufe 3                   |       25       |     Ausgewiesener Fachmensch     |   Gesetzestext- und Muttersprachenniveau   |
++--------------------------------------------+----------------+----------------------------------+--------------------------------------------+
+| Niveau/Stufe der Sprache oder des Wissens: | Kosten Punkte: | Wissensniveau                    | Sprachniveau                               |
++:==========================================:+:==============:+:================================:+:==========================================:+
+| Stufe 0                                    | 0              | Kein Wissen im Bereich           | Keine Sprachfähigkeit                      |
++--------------------------------------------+----------------+----------------------------------+--------------------------------------------+
+| Stufe 1                                    | 5              | Grundwissen                      | sehr einfache Gespräche möglich            |
++--------------------------------------------+----------------+----------------------------------+--------------------------------------------+
+| Stufe 2                                    | 15             | Belesen & Erfahren im Fachgebiet | Verständigung umständlich aber vollständig |
++--------------------------------------------+----------------+----------------------------------+--------------------------------------------+
+| Stufe 3                                    | 25             | Ausgewiesener Fachmensch         | Gesetzestext- und Muttersprachenniveau     |
++--------------------------------------------+----------------+----------------------------------+--------------------------------------------+
 
 Diese Werte sind absolute - keine kummulativen Kosten.\
 
@@ -412,18 +429,29 @@ Die Kosten beschreiben, wie viele Punkte ein Spieler ausgeben muss, um sich eine
 
 Beide Parameter können auf einer Skala von jeweils 1 - 10 vergeben werden. Die inhaltliche Bedeutung der jeweiligen Skalen-Stufe zeigt die nachfolgende Tabelle:
 
-| Stufe |                      Einfluss                       |       Affection        | Kosten |
-|:-----:|:---------------------------------------------------:|:----------------------:|:------:|
-|   1   |                    Unterschicht                     |     Bekanntschaft      |   2    |
-|   2   |                   Normale Person                    |   Gute Bekanntschaft   |   4    |
-|   3   |             Sozial gut vernetzte Person             |        Kollegen        |   7    |
-|   4   |                     Stadtwache                      | Gleicher Freundeskreis |   10   |
-|   5   |                   Hohes Bürgertum                   |        Freunde         |   15   |
-|   6   |                    Niederer Adel                    |    Familienmitglied    |   20   |
-|   7   | Adel/Militärkommandant/Unterweltboss/Hoher Beamter  |      Enge Freunde      |   25   |
-|   8   |                      Hochadel                       |    Liebesbeziehung     |   30   |
-|   9   |         Höchste Beamte/Minister/Heerführer          |     Beste Freunde      |   40   |
-|  10   | Kaiser/Hohepriester/Fürst eines Staatenschiffs/etc. |  Wie das eigene Kind   |   45   |
++----------+-----------------------------------------------------+------------------------+----------+
+| Stufe    | Einfluss                                            | Affection              | Kosten   |
++:========:+:===================================================:+:======================:+:========:+
+| 1        | Unterschicht                                        | Bekanntschaft          | 2        |
++----------+-----------------------------------------------------+------------------------+----------+
+| 2        | Normale Person                                      | Gute Bekanntschaft     | 4        |
++----------+-----------------------------------------------------+------------------------+----------+
+| 3        | Sozial gut vernetzte Person                         | Kollegen               | 7        |
++----------+-----------------------------------------------------+------------------------+----------+
+| 4        | Stadtwache                                          | Gleicher Freundeskreis | 10       |
++----------+-----------------------------------------------------+------------------------+----------+
+| 5        | Hohes Bürgertum                                     | Freunde                | 15       |
++----------+-----------------------------------------------------+------------------------+----------+
+| 6        | Niederer Adel                                       | Familienmitglied       | 20       |
++----------+-----------------------------------------------------+------------------------+----------+
+| 7        | Adel/Militärkommandant/Unterweltboss/Hoher Beamter  | Enge Freunde           | 25       |
++----------+-----------------------------------------------------+------------------------+----------+
+| 8        | Hochadel                                            | Liebesbeziehung        | 30       |
++----------+-----------------------------------------------------+------------------------+----------+
+| 9        | Höchste Beamte/Minister/Heerführer                  | Beste Freunde          | 40       |
++----------+-----------------------------------------------------+------------------------+----------+
+| 10       | Kaiser/Hohepriester/Fürst eines Staatenschiffs/etc. | Wie das eigene Kind    | 45       |
++----------+-----------------------------------------------------+------------------------+----------+
 
 : Kontakte und was sie ausmacht.
 
@@ -468,11 +496,15 @@ Die Summe des Gewichts dieser Items ist das Aktive Gewicht. Es wird durch 5 gete
 
 ##### Die Belastungsstufen und ihre Debuffs {#Belastungsstufe}
 
-| Belastung | Aktives Gewicht | Acrobatics <br>Rennen \<br\>und Schleichen |    Aufstehen    |
-|-----------|:---------------:|:------------------------------------------:|:---------------:|
-| leicht    |  Gewicht \< 18  |                                            | Bewegungsaktion |
-| mittel    |  Gewicht \< 30  |                 -1 Würfel                  |  single Action  |
-| schwer    |  Gewicht \> 30  |                 -2 Würfel                  |   main Action   |
++------------+-----------------+--------------------------------------------+-----------------+
+| Belastung  | Aktives Gewicht | Acrobatics <br>Rennen \<br\>und Schleichen | Aufstehen       |
++============+:===============:+:==========================================:+:===============:+
+| leicht     | Gewicht \< 18   |                                            | Bewegungsaktion |
++------------+-----------------+--------------------------------------------+-----------------+
+| mittel     | Gewicht \< 30   | -1 Würfel                                  | single Action   |
++------------+-----------------+--------------------------------------------+-----------------+
+| schwer     | Gewicht \> 30   | -2 Würfel                                  | main Action     |
++------------+-----------------+--------------------------------------------+-----------------+
 
 #### Das passive Gewicht
 
