@@ -85,7 +85,7 @@ Der Kampf ist wie in jedem Pen- and Paper-System einer der komplizierteren Vorg�
 
 ### Die Initiative {#Initiative}
 
-Am Anfang des Kampfes findet die Initiative statt, d.h. jeder wirft Initiative (Instinct + Physis)/2. Die Werte werden nach größe geordnet und der mit dem höchsten Wert darf angreifen, dann der mit dem zweithöchsten und so weiter. Manchmal legt der DM diese Reihenfolge sinngemäß fest (bspw. bei Schleichangriffen oder Distanz und Fernkämpfern). Im Allgemeinen bekommen Fernkämpfer +1 Würfel auf die Initiative-Probe. Bei Gleichstand in den Werten werden Armbrüste und Musketen vorgezogen, da sie einfach nur abdrücken müssen. Diese Vorteile fallen weg, falls die Distanz sehr gering ist.
+Am Anfang des Kampfes findet die Initiative statt, d.h. jeder wirft Initiative (Instinct + Physis)/2. Die Werte werden nach größe geordnet und der mit dem höchsten Wert darf angreifen, dann der mit dem zweithöchsten und so weiter. Manchmal legt der DM diese Reihenfolge sinngemäß fest (bspw. bei Schleichangriffen). Am Ende jeder Runde wird eine neue Initiativreihenfolge festgelgt.
 
 ### Die Kampfrunde und die Kampfaktionen
 
