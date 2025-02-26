@@ -85,7 +85,7 @@ Der Kampf ist wie in jedem Pen- and Paper-System einer der komplizierteren Vorg�
 
 ### Die Initiative {#Initiative}
 
-Am Anfang des Kampfes findet die Initiative statt, d.h. jeder wirft Initiative (Instinct + Physis)/2. Die Werte werden nach größe geordnet und der mit dem höchsten Wert darf angreifen, dann der mit dem zweithöchsten und so weiter. Manchmal legt der DM diese Reihenfolge sinngemäß fest (bspw. bei Schleichangriffen). Am Ende jeder Runde wird eine neue Initiativreihenfolge festgelgt.
+Am Anfang des Kampfes wirft jeder seine - diese Berechnet sich mit $(Instinct + Agility)/2$. Die Werte werden nach größe geordnet und der mit dem höchsten Wert darf angreifen, dann der mit dem zweithöchsten und so weiter. Manchmal legt der DM diese Reihenfolge sinngemäß fest (bspw. bei Schleichangriffen). Am Ende jeder Runde wird eine neue Initiativreihenfolge festgelgt.
 
 ### Die Kampfrunde und die Kampfaktionen
 
