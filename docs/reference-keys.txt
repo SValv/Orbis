@@ -830,7 +830,6 @@ RassenStartwerte
 Fähigkeitsverbesserungen
 Eigenheiten
 Wissensfähigkeiten
-Kontakte
 Rucksack
 holster
 ausrüstung
@@ -850,7 +849,7 @@ grundlagen-des-spiels
 checks-und-proben
 die-einfache-probe
 die-differenzprobe
-der-save-der-save
+DerSave
 advantagedisadvantage
 momentane-modifikatoren
 Critical
@@ -884,7 +883,6 @@ Studieren
 Tiers
 Währung
 einordnung-der-größenverhältnisse-von-geldbeträgen
-Handelssystem
 Lebenserhaltungskosten
 besondere-regeln
 AlchemieSystem

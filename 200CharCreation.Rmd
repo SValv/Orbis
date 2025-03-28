@@ -26,9 +26,9 @@ Ebenfalls findet man in Spalte A und B in Zeile 13, 15 und 16 den Namen des Char
 
 Die Felder E1:26 bis I1:26 umfassen die [Fähigkeiten](#Fähigkeiten) eines jeden Charakters. Spalte E listet alle Fähigkeiten auf, die ein Spieler erlernen und verbessern kann. Spalten E und F geben an, welche Attribute in welcher Form für die Wertberechnung herangezogen werden und Spalte I zeigt an, auf welchem Level die jeweilige Fähigkeit ausgeprägt ist.
 
-In Spalte K gibt es die Möglichkeit die [Wissensfähigkeiten sowie die Sprachen](#Wissensfähigkeiten) einzutragen, die ein Charakter beherrscht. Spalte L bis O dient der Eintragung der [Kontaktpersonen](#Kontakte) eines Charakters. Diese können während einer Kampagne als Informationsquelle oder Verbündeter in schweren Zeiten dienen.
+In Spalte K gibt es die Möglichkeit die [Wissensfähigkeiten sowie die Sprachen](#Wissensfähigkeiten) einzutragen, die ein Charakter beherrscht. Diese können während einer Kampagne als Informationsquelle oder Verbündeter in schweren Zeiten dienen.
 
-Die Tabelle unter O11 erleichtert bei der Charaktererstellung die Punktevergabe für die [Kontakte](#Kontakte) und die [Wissensfähigkeiten sowie die Sprachen](#Wissensfähigkeiten). Das Wissen und die Vernetzung eines Charakters hängt nämlich mit der anfänglichen Attributsausprägung eines Charakters zusammen.
+Die Tabelle unter O11 erleichtert bei der Charaktererstellung die Punktevergabe für die [Wissensfähigkeiten sowie die Sprachen](#Wissensfähigkeiten). Das Wissen und die Vernetzung eines Charakters hängt nämlich mit der anfänglichen Attributsausprägung eines Charakters zusammen.
 
 ### Der Status {#Status}
 
@@ -337,33 +337,21 @@ Die Welt von Orbis Astea ist gekennzeichnet von Komplexität. Hierbei haben, so 
 
 Um bei der Erstellung eines Charakters auch die Fähigkeiten im Bereich "Wissen der Welt" und Sprachen zu berücksichtigen wird diese durch die Startattribute Intelligenz und Instinkt errechnet.
 
-Die Anzahl verfügbarer Punkte errechnet sich folgendermaßen:
+Die Anzahl verfügbarer Punkte errechnet sich durch die $\frac{Intelligenz}{2}$ Das Ergebnis wird aufgerundet. Diese Berechnung muss man nicht selbst machen, sie wird vom Excelsheet übernommen.
 
-$$\frac{Intelligenz \cdot 4 + Instinkt}{2}$$ Das Ergebnis wird aufgerundet. Diese Berechnung muss man nicht selbst machen, sie wird vom Excelsheet übernommen.
+Wissensskills - ebenso wie Sprachen sind in 3 Stufen aufgeteilt, jede Stufe Wissen in einem Feld kostet einen Punkt, einen Skill vollständig - also auf Stufe 3 - zu beherrschen kostet damit 3 Skillpunkte
 
-**Beispiel: Berechnung der Wissens- und Sprachpunkte**
-
-Standardmensch: 10 Intelligenz & 10 Instinkt
-
-Berechnung der Verfügbaren Punkte: $(10 \cdot 4 + 10)/2 = 25$
-
-Folglich hat der Ersteller dieses Charakters 25 Punkte zur Verfügung.
-
-Diese können nun für Wissens- und/oder Sprachenstufen vergeben werden.
-
-+--------------------------------------------+----------------+----------------------------------+--------------------------------------------+
-| Niveau/Stufe der Sprache oder des Wissens: | Kosten Punkte: | Wissensniveau                    | Sprachniveau                               |
-+:==========================================:+:==============:+:================================:+:==========================================:+
-| Stufe 0                                    | 0              | Kein Wissen im Bereich           | Keine Sprachfähigkeit                      |
-+--------------------------------------------+----------------+----------------------------------+--------------------------------------------+
-| Stufe 1                                    | 5              | Grundwissen                      | sehr einfache Gespräche möglich            |
-+--------------------------------------------+----------------+----------------------------------+--------------------------------------------+
-| Stufe 2                                    | 15             | Belesen & Erfahren im Fachgebiet | Verständigung umständlich aber vollständig |
-+--------------------------------------------+----------------+----------------------------------+--------------------------------------------+
-| Stufe 3                                    | 25             | Ausgewiesener Fachmensch         | Gesetzestext- und Muttersprachenniveau     |
-+--------------------------------------------+----------------+----------------------------------+--------------------------------------------+
-
-Diese Werte sind absolute - keine kummulativen Kosten.\
++--------------------------------------------+----------------------------------+--------------------------------------------+
+| Niveau/Stufe der Sprache oder des Wissens: | Wissensniveau                    | Sprachniveau                               |
++:==========================================:+:================================:+:==========================================:+
+| Stufe 0                                    | Kein Wissen im Bereich           | Keine Sprachfähigkeit                      |
++--------------------------------------------+----------------------------------+--------------------------------------------+
+| Stufe 1                                    | Grundwissen                      | sehr einfache Gespräche möglich            |
++--------------------------------------------+----------------------------------+--------------------------------------------+
+| Stufe 2                                    | Belesen & Erfahren im Fachgebiet | Verständigung umständlich aber vollständig |
++--------------------------------------------+----------------------------------+--------------------------------------------+
+| Stufe 3                                    | Ausgewiesener Fachmensch         | Gesetzestext- und Muttersprachenniveau     |
++--------------------------------------------+----------------------------------+--------------------------------------------+
 
 +----------------------------------+----------------------------------------------------------------------------------------------------------+
 | Auswahloptionen an Wissenskills: | Beschreibung                                                                                             |
@@ -410,51 +398,9 @@ Diese Werte sind absolute - keine kummulativen Kosten.\
 | Zwergisch                                     |
 | Elfisch                                       |
 
-**Beispiel mit einem normalen Charakter mit 50 Punkten:**
+Wichtig ist es für DMs und Spieler die Skills mit eigenem Gefühl einzubringen, was realistisch sein könnte.
 
--   15 Punkte für die Sprache Rahkari auf Stufe 2
--   5 Punkte für Kartographie Stufe 1 der Gebiete der Rahkari Fraktion
--   5 Punkte für Religionskenntnisse Stufe 1 der Gebiete der Rahkari Fraktion
-
-Wichtig ist es für DMs die Skills mit eigenem Gefühl einzubringen, was realistisch sein könnte.
-
-Auch nach der Charaktererstellung kann man seine Wissensskills verbessern. Dies geht über das [sogenannte Studieren](#Studieren).
-
-### Kontakte {#Kontakte}
-
-Kontakte sind ein weiteres Stück der Welt - sozusagen das soziale Kapital des Spielers. Sie helfen an Aufträge, Informationen und andere Dinge zu kommen, für die Vitamin B nun mal nützlich ist oder sein könnte. Die Punkte, die man für Kontakte vergeben kann berechnen sich aus der Summe: $$(4 \cdot Charisma) + Instinct.$$
-
-Diese Punkte können dann auf die Beziehung (Einfluss im [Charakter-Tabellenblatt](#CharacterSheet)), die ein Kontakt gegenüber eines Charakter empfindet, und den Einfluss (Power im [Charakter-Tabellenblatt](#CharacterSheet)), also den sozialen Stand und die Macht eines Kontaktes, verteilt werden.
-
-Die Kosten beschreiben, wie viele Punkte ein Spieler ausgeben muss, um sich einen Kontakt eintragen zu können. Diese stellen die Summe der jeweiligen Stufen dar. Möchte man eine Liebesbeziehung zu einer Person aus dem Hochadel führen, so sind insgesamt 60 Punkte zu entrichten. 30 für die Stufe 7 Einfluss und nochmal 30 Punkte für die Stufe 7 Affection.
-
-Beide Parameter können auf einer Skala von jeweils 1 - 10 vergeben werden. Die inhaltliche Bedeutung der jeweiligen Skalen-Stufe zeigt die nachfolgende Tabelle:
-
-+-----------+-----------------------------------------------------+------------------------+-----------+
-| Stufe     | Einfluss                                            | Affection              | Kosten    |
-+:=========:+:===================================================:+:======================:+:=========:+
-| 1         | Unterschicht                                        | Bekanntschaft          | 2         |
-+-----------+-----------------------------------------------------+------------------------+-----------+
-| 2         | Normale Person                                      | Gute Bekanntschaft     | 4         |
-+-----------+-----------------------------------------------------+------------------------+-----------+
-| 3         | Sozial gut vernetzte Person                         | Kollegen               | 7         |
-+-----------+-----------------------------------------------------+------------------------+-----------+
-| 4         | Stadtwache                                          | Gleicher Freundeskreis | 10        |
-+-----------+-----------------------------------------------------+------------------------+-----------+
-| 5         | Hohes Bürgertum                                     | Freunde                | 15        |
-+-----------+-----------------------------------------------------+------------------------+-----------+
-| 6         | Niederer Adel                                       | Familienmitglied       | 20        |
-+-----------+-----------------------------------------------------+------------------------+-----------+
-| 7         | Adel/Militärkommandant/Unterweltboss/Hoher Beamter  | Enge Freunde           | 25        |
-+-----------+-----------------------------------------------------+------------------------+-----------+
-| 8         | Hochadel                                            | Liebesbeziehung        | 30        |
-+-----------+-----------------------------------------------------+------------------------+-----------+
-| 9         | Höchste Beamte/Minister/Heerführer                  | Beste Freunde          | 40        |
-+-----------+-----------------------------------------------------+------------------------+-----------+
-| 10        | Kaiser/Hohepriester/Fürst eines Staatenschiffs/etc. | Wie das eigene Kind    | 45        |
-+-----------+-----------------------------------------------------+------------------------+-----------+
-
-: Kontakte und was sie ausmacht.
+Auch nach der Charaktererstellung kann man seine Wissens-skills verbessern. Dies geht über das [sogenannte Studieren](#Studieren).
 
 ### Rucksack {#Rucksack}
 

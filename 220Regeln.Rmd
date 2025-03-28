@@ -16,9 +16,9 @@ Wie man sieht, passiert es manchmal, dass einer Fähigkeit mehrere Attribute zug
 
 ### Die einfache Probe
 
-Die einfache Probe ist zu Würfeln, wenn es keinen direkten Gegenspieler gibt. Sie ist meistens mit einem Threshold in Value[^1] oder Damage verknüpft, den der DM beliebig festlegt. Sollte man bspw. versuchen ein Schloss zu knacken, wird der DM festlegen, dass der Value über 3 sein soll, um das zu erreichen. Bei härteren/leichteren schlössern ist der Value natürlich anzupassen.
+Die einfache Probe ist zu Würfeln, wenn es keinen direkten Gegenspieler gibt. Sie ist meistens mit einem Threshold in Value[^220regeln-1] oder Damage verknüpft, den der DM beliebig festlegt. Sollte man bspw. versuchen ein Schloss zu knacken, wird der DM festlegen, dass der Value über 3 sein soll, um das zu erreichen. Bei härteren/leichteren schlössern ist der Value natürlich anzupassen.
 
-[^1]: Value ist eine Form von Gütekriterium eines Wurfes - je höher der Value, desto besser der Wurf.
+[^220regeln-1]: Value ist eine Form von Gütekriterium eines Wurfes - je höher der Value, desto besser der Wurf.
 
 Welche Werte hierbei welcher Größenordnung entsprechen findet sich [hier](#Abstufungen).
 
@@ -39,7 +39,7 @@ Normalerweise werden bei Proben normal Fähigkeit und Attribut gegen dieselbe F�
 -   Taschendiebstahl: Taschendiebstahl gegen Wahrnehmung
 -   Bühnenkunst: Bühnenkunst gegen Wahrnehmung
 
-### Der Save {\#Der Save}
+### Der Save {#DerSave}
 
 Ein Save ist nochmal etwas anderes als eine Probe, auch er wird üblicherweise gegen einen Threshold geworfen und ist ein Weg sich vor etwas Schlimmen zu bewahren. Allerdings wird der Save nur mit den Attributen geworfen, Fähigkeiten haben hierbei keinen Einfluss. Der Threshold ist üblicherweise 3, kann aber vom DM je nach Situation angepasst werden.
 
@@ -309,7 +309,7 @@ Stats und Arten der Artillerie:
 <small>
 
 | Artillerie | Schaden | Reichweite | In Kästen | Gewicht | Threshold |  Preis   | Preis/Schuss |
-|:----------:|:-------:|:----------:|:---------:|:-------:|:---------:|:--------:|:------------:|
+|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
 |  Skorpion  |   300   |    150m    |     3     |  30 kg  |    2,3    |  90000   |     100      |
 |  Balliste  |  1000   |    300m    |     6     | 250 kg  |    3,3    | verboten |     300      |
 | Handkanone |   400   |    50m     |     1     |  50 kg  |     3     | verboten |     200      |
@@ -319,21 +319,14 @@ Stats und Arten der Artillerie:
 
 </small>
 
-+------------+--------------------+--------------------+-----------------+-----------+--------------------------------------------------------------------------------+
-| Artillerie | Minimale Besatzung | Maximale Besatzung | Negiert Deckung | Größe     | Zusatz                                                                         |
-+:==========:+:==================:+:==================:+:===============:+:=========:+:==============================================================================:+
-| Skorpion   | 1                  | 2                  | --              | Klein     | Aufbau im Kampf: 3 Runden wenn nur 1 Mann Besatzung: Nachladen als Main Action |
-+------------+--------------------+--------------------+-----------------+-----------+--------------------------------------------------------------------------------+
-| Balliste   | 2                  | 3                  | Tier 1          | Mittel    | Nachladen 1 Runde minimum, 2 Runden, wenn Besatzung \<2                        |
-+------------+--------------------+--------------------+-----------------+-----------+--------------------------------------------------------------------------------+
-| Handkanone | 1                  | 1                  | Tier 1          | Klein     | Nachladen 1 Runde                                                              |
-+------------+--------------------+--------------------+-----------------+-----------+--------------------------------------------------------------------------------+
-| Großkanone | 2                  | 3                  | Tier 2          | Groß      | Nachladen 1 Runde minimum, 2 Runden, wenn Besatzung \<3                        |
-+------------+--------------------+--------------------+-----------------+-----------+--------------------------------------------------------------------------------+
-| Katapult   | 2                  | 3                  | Tier 1          | Mittel    | Nachladen 1 Runde minimum, 2 Runden, wenn Besatzung \<3, Area Damage 2m        |
-+------------+--------------------+--------------------+-----------------+-----------+--------------------------------------------------------------------------------+
-| Trebouchet | 4                  | 8                  | Tier 2          | Groß      | Nachladen 1 Runde minimum, 2 Runden, wenn Besatzung \<6 , Area Damage 8m       |
-+------------+--------------------+--------------------+-----------------+-----------+--------------------------------------------------------------------------------+
+| Artillerie | Minimale Besatzung | Maximale Besatzung | Negiert Deckung | Größe  |                                     Zusatz                                     |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:----------------------:|
+|  Skorpion  |         1          |         2          |       --        | Klein  | Aufbau im Kampf: 3 Runden wenn nur 1 Mann Besatzung: Nachladen als Main Action |
+|  Balliste  |         2          |         3          |     Tier 1      | Mittel |            Nachladen 1 Runde minimum, 2 Runden, wenn Besatzung \<2             |
+| Handkanone |         1          |         1          |     Tier 1      | Klein  |                               Nachladen 1 Runde                                |
+| Großkanone |         2          |         3          |     Tier 2      |  Groß  |            Nachladen 1 Runde minimum, 2 Runden, wenn Besatzung \<3             |
+|  Katapult  |         2          |         3          |     Tier 1      | Mittel |    Nachladen 1 Runde minimum, 2 Runden, wenn Besatzung \<3, Area Damage 2m     |
+| Trebouchet |         4          |         8          |     Tier 2      |  Groß  |    Nachladen 1 Runde minimum, 2 Runden, wenn Besatzung \<6 , Area Damage 8m    |
 
 ### Die Schadensverrechnung
 
@@ -430,19 +423,13 @@ Andere Statuseffekte mit
 
 Der reisenden Spielergruppe in der Downtime stehen meist zwei Entscheidungsmöglichkeiten für ihre Reise offen. Zum einen die Landroute, die durch kleine Dörfer, die Natur und manchmal in eine kleine Stadt führt und die Stadtroute, die entlang Hauptstraßen, durch ummauerte Städte mit Märkten und Großstädte führt. Beide Optionen haben Vor- und Nachteile, also sollte sich die Gruppe überlegen welche Option sie vorzieht.
 
-+---------------------------------------------+-------------------------------------------------------------------+---------------------------------------------------------------------------------------------------+
-|                                             | Landroute                                                         | Stadtroute                                                                                        |
-+:===========================================:+:=================================================================:+:=================================================================================================:+
-| Versorgung / Unterbringung                  | Camping, gegessen wird was gejagt und gesammelt wird              | Neben Zöllen fallen auch kosten für Herbergen und Essen an in Höhe von 350 Reiks                  |
-+---------------------------------------------+-------------------------------------------------------------------+---------------------------------------------------------------------------------------------------+
-| Händler                                     | eher Pflanzensammler und kleine Händler mit wenig Spezialisierung | verschiedene Händler mit großen Inventaren und hoher Spezialisierung, aber wenige Pflanzensammler |
-+---------------------------------------------+-------------------------------------------------------------------+---------------------------------------------------------------------------------------------------+
-| Voreinstellung in der App                   | Dorf oder Kleinstadt                                              | Kleinstadt oder Stadt - sogar Großstadt, wenn es in die Geschichte passt                          |
-+---------------------------------------------+-------------------------------------------------------------------+---------------------------------------------------------------------------------------------------+
-| Jobmöglichkeiten                            | abhängig vom DM                                                   | vollständig möglich                                                                               |
-+---------------------------------------------+-------------------------------------------------------------------+---------------------------------------------------------------------------------------------------+
-| Gefahren, wenn Downtimeaktionen schiefgehen | Banditen und Wegelagerer                                          | die Stadtwache                                                                                    |
-+---------------------------------------------+-------------------------------------------------------------------+---------------------------------------------------------------------------------------------------+
+|                                             |                             Landroute                             |                                            Stadtroute                                             |
+|:----------------:|:--------------------:|:------------------------------:|
+|         Versorgung / Unterbringung          |       Camping, gegessen wird was gejagt und gesammelt wird        |         Neben Zöllen fallen auch kosten für Herbergen und Essen an in Höhe von 350 Reiks          |
+|                   Händler                   | eher Pflanzensammler und kleine Händler mit wenig Spezialisierung | verschiedene Händler mit großen Inventaren und hoher Spezialisierung, aber wenige Pflanzensammler |
+|          Voreinstellung in der App          |                       Dorf oder Kleinstadt                        |             Kleinstadt oder Stadt - sogar Großstadt, wenn es in die Geschichte passt              |
+|              Jobmöglichkeiten               |                          abhängig vom DM                          |                                        vollständig möglich                                        |
+| Gefahren, wenn Downtimeaktionen schiefgehen |                     Banditen und Wegelagerer                      |                                          die Stadtwache                                           |
 
 Beim Reisen gibt es auch eine Chance von einem Drittel, dass die Spieler einen bestimmten Händler finden, bei dem besondere Gegenstände gekauft oder hergestellt werden können. Mögliche Händler hierbei sind:
 
@@ -457,7 +444,7 @@ Mit einem passenden [Wissens-Skill](#Wissensfähigkeiten) können Spieler geziel
 Wenn ein Charakter in einem Kampf oder durch andere Aktivitäten entweder Gesundheit oder Ausdauer verliert, ist es möglich, diese Werte bis zu einem bestimmten Punkt zu regenerieren. Dieses System umfasst 3 verschiedene Pausen, die verfügbar sind, nämlich:
 
 |    Länge    |                           Dauer                           | Preise               |
-|:-----------:|:---------------------------------------------------------:|----------------------|
+|:--------------:|:---------------------------------------:|----------------|
 | Kurze Pause |                        3-4 Stunden                        | 1 Vorrat pro Person  |
 | Lange Pause |                        7-8 Stunden                        | 2 Vorräte pro Person |
 |  Downtime   | Zeit zwischen 2 Sessions <br>(üblicherweise mehrere Tage) | 3 Vorräte pro Person |
@@ -563,35 +550,20 @@ knitr::kable(ll,align = "cc")
 
 ### Studieren {#Studieren}
 
-Wie man Skills Trainieren kann, so kann man auch Wissen oder Sprachen lernen. Hierfür braucht man zuerst einmal ein Buch oder einen Lehrer - da man sich solche Inhalte nicht selbst erarbeiten kann. Natürlich sind Sachbücher oder Unterricht bei Gelehrten nicht billig. Des weiteren Braucht man den Wissensskill Schriftlehre auf Stufe 1 um aus Büchern lernen zu können.
+Wie man Skills Trainieren kann, so kann man auch Wissen oder Sprachen lernen. Hierfür braucht man zuerst einmal ein Buch oder einen Lehrer - da man sich solche Inhalte nicht selbst erarbeiten kann. Natürlich sind Sachbücher oder Unterricht bei Gelehrten nicht billig. Des weiteren braucht man den Wissensskill Schriftlehre auf Stufe 1 um aus Büchern lernen zu können.
 
-Wie beim Training muss man zuerst spezifizieren was man studieren will - also in welchem Bereich man sich weiterbilden will. Das studieren hängt eng mit dem Wissensskillsystem zusammen, welches man sich anschauen sollte.
+Wie beim Training muss man zuerst spezifizieren was man studieren will - also in welchem Bereich man sich weiterbilden will. Studieren ist ein langwieriger Prozess. Man verbraucht beim studieren jedes Mal eine volle Downtime.
 
-Studieren ist ein langwieriger Prozess. Man verbraucht beim studieren jedes Mal eine volle Downtime. Studieren ist eng verbunden mit dem [Wissenssystem](#Wissensskills), welches man verstanden haben sollte.
+Beim Studieren wird eine Intelligenz-Probe gegen einen Threshold geworfen. Ist diese erfolgreich, ist der Wissensskill auf der jeweiligen Stufe gelernt. Der Threshold ist abhängig von der Hohe der Wissensstufe, die erlernt werden soll.
 
-Jede spezifizierte Downtime wird ein D20 geworfen. Ist der erreichte Wert über dem Intelligenzwert zählt das lernen als gescheitert. Ist er unter dem Intelligenzwert wird die Differenz zwischen Wurf und Intelligenz als Wert aufgerechnet und mit den bereits vorhandenen Punkten in diesem Bereich addiert.
+| Niveau/Stufe der Sprache oder des Wissens: | Threshold Probe: |          Wissensniveau           |                Sprachniveau                |
+|:------------------:|:--------------:|:--------------:|:------------------:|
+|                  Stufe 0                   |        0         |      Kein Wissen im Bereich      |           Keine Sprachfähigkeit            |
+|                  Stufe 1                   |        2         |           Grundwissen            |      sehr einfache Gespräche möglich       |
+|                  Stufe 2                   |        3         | Belesen & Erfahren im Fachgebiet | Verständigung umständlich aber vollständig |
+|                  Stufe 3                   |        5         |     Ausgewiesener Fachmensch     |   Gesetzestext- und Muttersprachenniveau   |
 
-> Ein Charakter mit Intelligenz 14 will elfisch lernen. Er wirft den D20 und bekommt eine 2. Die Differenz +1 beträgt 13. Also hat er seinen Wert in Elfisch von 0 auf 13 verbessert. Dies entspricht Elfisch 2. Würde er eine 15 werfen statt eine 2 hätte er bei dieser Sitzung nichts gelernt.
->
-> --- Beispiel
-
-Wenn man genug addierte Punkte hat kann man seinen Wissensskill nach diesem kummulativen Schlüssel aufwerten:
-
-+--------------------------------------------+-----------------+----------------------------------+--------------------------------------------+
-| Niveau/Stufe der Sprache oder des Wissens: | Kosten Punkte:  | Wissensniveau                    | Sprachniveau                               |
-+:==========================================:+:===============:+:================================:+:==========================================:+
-| Stufe 0                                    | 0               | Kein Wissen im Bereich           | Keine Sprachfähigkeit                      |
-+--------------------------------------------+-----------------+----------------------------------+--------------------------------------------+
-| Stufe 1                                    | 5               | Grundwissen                      | sehr einfache Gespräche möglich            |
-+--------------------------------------------+-----------------+----------------------------------+--------------------------------------------+
-| Stufe 2                                    | 10              | Belesen & Erfahren im Fachgebiet | Verständigung umständlich aber vollständig |
-+--------------------------------------------+-----------------+----------------------------------+--------------------------------------------+
-| Stufe 3                                    | 10              | Ausgewiesener Fachmensch         | Gesetzestext- und Muttersprachenniveau     |
-+--------------------------------------------+-----------------+----------------------------------+--------------------------------------------+
-
-Ein Upgrade von Stufe eins auf Stufe 2 würde also 10 solcher Punkte kosten, während ein Upgrade auf Stufe 1 nur 5 kosten würde.
-
-Des weiteren kann man auch mithilfe von "Mittelchen" lernen, die Einnahme von Intelligenztränken für einen Lernvorgang ist also vollkommen in Ordnung. Man braucht allerdings 2 Tränke statt einen, da eine Downtime zeitlich etwas länger ist. Der Wert der Intelligenztränke wird gemittelt.
+Des weiteren kann man auch mithilfe von "Mittelchen" lernen, die Einnahme von Intelligenztränken für einen Lernvorgang ist also vollkommen in Ordnung.
 
 ## Die Stufen {#Tiers}
 
@@ -600,7 +572,7 @@ Sämtliche Ausrüstung, Tränke, Waffen, Instrumente, etc. kommen in Orbis Astea
 Welche Materialien gehören zu welchen Tiers?
 
 | Tier 1 | Tier 2 |      Tier 3      |          Tier 4          |       Tier 5       |
-|:------:|:------:|:----------------:|:------------------------:|:------------------:|
+|:------------:|:------------:|:------------:|:-----------------:|:------------:|
 | Eisen  | Stahl  | Gehärteter Stahl |     Zwergenmaterial      | Vorreiter-Material |
 | Buche  | Lärche |      Esche       | Silva-Nacia-Spinnenseide |                    |
 | Stoff  | Leder  |  Kettenbeschlag  |                          |                    |
@@ -641,7 +613,7 @@ dfe %>% arrange(Jahreseinkommen) %>%
             striped=T, resizable = T)
 ```
 
-## Handelssystem (to be implemented) {#Handelssystem}
+
 
 ## Lebenshaltungskosten {#Lebenserhaltungskosten}
 
