@@ -1,7 +1,7 @@
 library(tidyverse)
 library(zip)
 
-version = 3.7512
+version = 3.76
 
 dropboxpfad="E:/Dropbox/OrbisAsteaDropbox/"
 projektepfad = str_remove(getwd(),"###Orbis")
