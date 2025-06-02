@@ -860,6 +860,7 @@ Lucksave
 der-kampf
 Initiative
 die-kampfrunde-und-die-kampfaktionen
+der-aoe-angriff
 interrupt
 schwerer-angriff
 dual-wielding
@@ -959,6 +960,7 @@ maximale-tieranzahl
 tierschaden
 Items
 Zustand
+werte-berechnung
 Waffen
 Fernwaffen
 Ammo

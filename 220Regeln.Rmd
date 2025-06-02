@@ -85,7 +85,9 @@ Der Kampf ist wie in jedem Pen- and Paper-System einer der komplizierteren Vorg�
 
 ### Die Initiative {#Initiative}
 
-Am Anfang des Kampfes wirft jeder seine - diese Berechnet sich mit $(Instinct + Agility)/2$. Die Werte werden nach größe geordnet und der mit dem höchsten Wert darf angreifen, dann der mit dem zweithöchsten und so weiter. Manchmal legt der DM diese Reihenfolge sinngemäß fest (bspw. bei Schleichangriffen). Am Ende jeder Runde wird eine neue Initiativreihenfolge festgelgt.
+Am Anfang des Kampfes wirft jeder seine - diese Berechnet sich mit $(Instinct + Agility)/2$. Die Werte werden nach größe geordnet und der mit dem höchsten Wert darf angreifen, dann der mit dem zweithöchsten und so weiter. Außerdem ist di eGeschwindigkeit von Waffen ein Faktor, der stark auf die Initiative einwirkt. Manchmal legt der DM die Initiavit-Reihenfolge auch sinngemäß fest (bspw. bei Schleichangriffen). 
+
+Am Ende jeder Runde wird eine neue Initiativreihenfolge festgelgt.
 
 ### Die Kampfrunde und die Kampfaktionen
 
@@ -178,6 +180,13 @@ Werte können im Spezialfall auch abweichen
 Sollte der Schadenswert einer Deckung überschritten sein, gilt die Deckung als zerstört und ist damit nicht mehr wirkungsvoll. Angriffe "schlagen" durch.
 
 Deckung kann auch negiert werden. Dies findet entweder durch Artillerie statt, oder durch hinter die Deckung geworfene Explosivstoffe (Hierbei ist der Threshold an die Größe der Deckung und die Umstände anzupassen). Eine weitere Strategie gegen Deckung ist das "ansitzen". Hierbei deklariert ein Angreifer als Main Action eine Deckung und achtet genau auf sie. Dies führt dazu, dass er auf ein beliebiges Ziel, dass hinter der Deckung hervorkommt oder hervorschaut einen Angriff in der gegnerischen Runde ausführen kann, die Verteidigung wird at Disatvantage geworfen. Sollte ein Wesen während dem ansitzen allerdings einen anderen Check werfen müssen wirft es diesen ad Disatvantage und verliert den Fokus auf die Deckung (damit ist das ansitzen beendet). Während man ansitzt kann man nicht mithilfe einer single action eine Abwehraktion (Block,Dodge,Parieren) starten, sondern der Würfel entscheidet.
+
+### Der AoE-Angriff
+
+So gut wie jede Waffe hat einen Bereichsangriff - also einen Angriff, der AoE-Schaden machen kann. Bei Fernwaffen müssen Ziele dafür hintereinander stehen, bei Nahkamfangriffen realistisch in der Nähe. Ein AoE-Angriff macht den normalen Angriffswert mal dem Durchschlagungswert. Ein AoE-Angriff kann mit einer guten Parade oder einem gutem Block abgewehrt und abgebrochen werden.
+
+Am geeignetsten für AoE-Angriffe sind zweihändige Großwaffen.
+
 
 ### Unterbrechen {#interrupt}
 
