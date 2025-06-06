@@ -60,6 +60,57 @@ dfwaffengegenstande = dfag %>% select("WaffengattungBookdown","Gegenstand","Prei
   mutate(Gegenstand = str_trim(Gegenstand),
          Tier = as.numeric(str_trim(str_remove(Tier,"T"))))
 
+
+
+summaries <- list(
+  "Schwert" = "Eine klassische Nahkampfwaffe – ausgewogen zwischen Schaden, Reichweite und Führbarkeit.",
+  "Rapier" = "Eine schnelle und präzise Waffe – ideal für Duelle. Schwach gegen gepanzerte Gegner.",
+  "Säbel" = "Eine gebogene, schnittlastige Waffe – schnell und effektiv gegen ungerüstete Ziele.",
+  "Kurzschwert" = "Kompakt und leicht – für schnelle Angriffe und enge Räume. Gute Zweitwaffe.",
+  "Axt" = "Hoher Schaden gegen Rüstung, aber langsamer – roh und brutal.",
+  "Knüppel" = "Eine improvisierte, stumpfe Waffe – billig, robust, kaum tödlich.",
+  "Streitkolben" = "Stumpfe Gewalt gegen Panzerung – langsam aber stark.",
+  "Rabenschnabel" = "Eine brutale Antirüstungswaffe – langsam, aber gefährlich gegen Plattenrüstung.",
+  "Dolch" = "Schnell und leicht – perfekt für Angriffe aus dem Hinterhalt oder Zweitwaffe.",
+  "Parierdolch" = "Wird zur Abwehr und im Nahkampf eingesetzt – gut in Kombination mit Haupthandwaffe.",
+  "Wurfdolch" = "Ein kleiner, leiser Wurfgegenstand – gut für Attentate und Störungen.",
+  "Kurzbogen" = "Eine schnelle und leichte Waffe für flexible Krieger – kann Spezialpfeile verwenden",
+  "Langbogen" = "Eine starke Waffe für gute Schützen. Schnell aber groß – kann Spezialpfeile verwenden",
+  "Armbrust" = "Eine schwere und starke Waffe, kann im Liegen geschossen werden und ist daher zum Attentat geeignet. Hat Spezialbolzen.",
+  "Einhandarmbrust" = "Eine kleine und leichte Armbrust. Ideal für Attentäter oder in Verbindung mit anderen Waffen. Hat Spezialbolzen.",
+  "Muskete" = "Eine kugelgeladene Fernwaffe – laut und tödlich. Allerdings auch groß und mit langer Ladezeit.",
+  "Pistole" = "Eine neue kleinere kugelgeladene Waffe, laut aber stark und klein. Sehr teuer. Lädt wie die große.",
+  "Großschwert" = "Eine zweihändige Klinge mit enormem Schaden – langsam, aber einschüchternd.",
+  "Großaxt" = "Brutale Zweihandwaffe mit hohem Schadenspotential – ideal gegen Gruppen und Rüstung.",
+  "Schaufel des Allgotts" = "Ein ritueller, heiliger Gegenstand – als Waffe ungewöhnlich, aber mächtig im richtigen Glauben.",
+  "Kriegshammer" = "Zweihändige Wuchtwaffe – exzellent gegen Rüstung, dafür schwerfällig.",
+  "Speer" = "Mittlere Reichweite, gut gegen Reiter – kann auch geworfen werden.",
+  "Kampfstab" = "Flexible Defensiv- und Kontrollwaffe – geringerer Schaden, dafür vielseitig.",
+  "Pike" = "Extrem lange Stangenwaffe – ideal gegen Kavallerie oder zur Verteidigung von Formationen.",
+  "Hellebarde" = "Kombiniert Schlag, Stich und Haken – sehr vielseitig, aber sperrig.",
+  "Schlagring" = "Versteckte, harte Faustverstärkung – effektiv in engen Gassen.",
+  "Faustmesser" = "Zwischen Dolch und Axt – kurzer, brutaler Nahkampfstil.",
+  "Metallkrallen" = "Exotische Nahkampfwaffe – schnell, wild und schwer zu blockieren.",
+  "Faust" = "Unbewaffneter Kampf – schwach, aber manchmal die letzte Option.",
+  "Tritt" = "Unbewaffneter Angriff – zur Überraschung oder zum Entwaffnen.",
+  "Leichter Schild" = "Bietet Schutz und Mobilität – kann aktiv zur Parade eingesetzt werden.",
+  "Schild" = "Ein guter Schutz in der Schlacht – ausgeglichen zwischen Gewicht und Verteidigung.",
+  "Turmschild" = "Massiver Schild – exzellenter Schutz, aber extrem sperrig.",
+  "Schleuder" = "Alte Fernkampfwaffe – schwer zu meistern, aber leise und günstig.",
+  "Wurfaxt" = "Wuchtiges Wurfgeschoss – hoher Schaden, aber limitiert nutzbar.",
+  "Wurfmesser" = "Schnelle, präzise Distanzwaffe – für Ablenkung oder stille Kills.",
+  "Giftwurfmesser" = "Wenig Schaden, aber vergiftend – ideal zur Schwächung oder Ablenkung.",
+  "Bola" = "Zum Fesseln oder Stolpern von Gegnern – wenig Schaden, aber kontrollierend.",
+  "Schwere Bola" = "Wie Bola, aber mit mehr Gewicht – kann auch Schaden verursachen.",
+  "Pilum" = "Ein schwerer römischer Wurfspeer – durchschlägt Schilde und bleibt stecken."
+)
+
+# Convert to JavaScript object format
+js_summary_map <- paste(
+  sprintf("'%s': '%s'", names(summaries), summaries),
+  collapse = ", "
+)
+
 ```
 
 
@@ -88,7 +139,18 @@ dfwaffengegenstande %>% filter(WaffengattungBookdown == "Fernwaffen") %>%
                           }"), align="left", minWidth= 150
                 
               ),
-              Beschreibung = colDef(align = "left")
+              Beschreibung = colDef(
+                align = "left",
+                minWidth = 260,
+                style = list(whiteSpace = "normal"),
+                aggregate = JS(sprintf("
+                  function(values, rows) {
+                    const gegenstand = rows[0]?.Gegenstand;
+                    const summaries = { %s };
+                    return summaries[gegenstand] || '';
+                  }
+                ", js_summary_map)),
+                grouped = JS("function(cellInfo) { return cellInfo.value; }"))
             ), bordered = F,
             highlight = T, filterable = T,
             defaultPageSize = 20,  paginationType = "jump",
@@ -162,7 +224,18 @@ dfwaffengegenstande %>% filter(WaffengattungBookdown == "Kurzwaffen") %>%
                           }"), align="left", minWidth= 150
                 
               ),
-              Beschreibung = colDef(align = "left")
+              Beschreibung = colDef(
+                align = "left",
+                minWidth = 260,
+                style = list(whiteSpace = "normal"),
+                aggregate = JS(sprintf("
+                  function(values, rows) {
+                    const gegenstand = rows[0]?.Gegenstand;
+                    const summaries = { %s };
+                    return summaries[gegenstand] || '';
+                  }
+                ", js_summary_map)),
+                grouped = JS("function(cellInfo) { return cellInfo.value; }"))
             ), bordered = F,
             highlight = T, filterable = T,
             defaultPageSize = 20,  paginationType = "jump",
@@ -202,7 +275,18 @@ dfwaffengegenstande %>% filter(WaffengattungBookdown == "Großwaffen") %>%
                           }"), align="left", minWidth= 150
                 
               ),
-              Beschreibung = colDef(align = "left")
+              Beschreibung = colDef(
+                align = "left",
+                minWidth = 260,
+                style = list(whiteSpace = "normal"),
+                aggregate = JS(sprintf("
+                  function(values, rows) {
+                    const gegenstand = rows[0]?.Gegenstand;
+                    const summaries = { %s };
+                    return summaries[gegenstand] || '';
+                  }
+                ", js_summary_map)),
+                grouped = JS("function(cellInfo) { return cellInfo.value; }"))
             ), bordered = F,
             highlight = T, filterable = T,
             defaultPageSize = 20,  paginationType = "jump",
@@ -238,7 +322,18 @@ dfwaffengegenstande %>% filter(WaffengattungBookdown == "Stangenwaffen") %>%
                           }"), align="left", minWidth= 150
                 
               ),
-              Beschreibung = colDef(align = "left")
+              Beschreibung = colDef(
+                align = "left",
+                minWidth = 260,
+                style = list(whiteSpace = "normal"),
+                aggregate = JS(sprintf("
+                  function(values, rows) {
+                    const gegenstand = rows[0]?.Gegenstand;
+                    const summaries = { %s };
+                    return summaries[gegenstand] || '';
+                  }
+                ", js_summary_map)),
+                grouped = JS("function(cellInfo) { return cellInfo.value; }"))
             ), bordered = F,
             highlight = T, filterable = T,
             defaultPageSize = 20,  paginationType = "jump",
@@ -281,7 +376,18 @@ dfwaffengegenstande %>% filter(WaffengattungBookdown == "Wurfwaffen") %>%
                           }"), align="left", minWidth= 150
                 
               ),
-              Beschreibung = colDef(align = "left")
+              Beschreibung = colDef(
+                align = "left",
+                minWidth = 260,
+                style = list(whiteSpace = "normal"),
+                aggregate = JS(sprintf("
+                  function(values, rows) {
+                    const gegenstand = rows[0]?.Gegenstand;
+                    const summaries = { %s };
+                    return summaries[gegenstand] || '';
+                  }
+                ", js_summary_map)),
+                grouped = JS("function(cellInfo) { return cellInfo.value; }"))
             ), bordered = F,
             highlight = T, filterable = T,
             defaultPageSize = 20,  paginationType = "jump",
@@ -319,7 +425,18 @@ dfwaffengegenstande %>% filter(WaffengattungBookdown == "Faustwaffen") %>%
                           }"), align="left", minWidth= 150
                 
               ),
-              Beschreibung = colDef(align = "left")
+              Beschreibung = colDef(
+                align = "left",
+                minWidth = 260,
+                style = list(whiteSpace = "normal"),
+                aggregate = JS(sprintf("
+                  function(values, rows) {
+                    const gegenstand = rows[0]?.Gegenstand;
+                    const summaries = { %s };
+                    return summaries[gegenstand] || '';
+                  }
+                ", js_summary_map)),
+                grouped = JS("function(cellInfo) { return cellInfo.value; }"))
             ), bordered = F,
             highlight = T, filterable = T,
             defaultPageSize = 20,  paginationType = "jump",
@@ -379,7 +496,18 @@ dfwaffengegenstande %>% filter(WaffengattungBookdown == "Rüstung") %>%
                           }"), align="left", minWidth= 150
                 
               ),
-              Beschreibung = colDef(align = "left")
+              Beschreibung = colDef(
+                align = "left",
+                minWidth = 260,
+                style = list(whiteSpace = "normal"),
+                aggregate = JS(sprintf("
+                  function(values, rows) {
+                    const gegenstand = rows[0]?.Gegenstand;
+                    const summaries = { %s };
+                    return summaries[gegenstand] || '';
+                  }
+                ", js_summary_map)),
+                grouped = JS("function(cellInfo) { return cellInfo.value; }"))
             ), bordered = F,
             highlight = T, filterable = T,
             defaultPageSize = 20,  paginationType = "jump",
@@ -415,7 +543,18 @@ dfwaffengegenstande %>% filter(WaffengattungBookdown == "Schild") %>%
                           }"), align="left", minWidth= 150
                 
               ),
-              Beschreibung = colDef(align = "left")
+              Beschreibung = colDef(
+                align = "left",
+                minWidth = 260,
+                style = list(whiteSpace = "normal"),
+                aggregate = JS(sprintf("
+                  function(values, rows) {
+                    const gegenstand = rows[0]?.Gegenstand;
+                    const summaries = { %s };
+                    return summaries[gegenstand] || '';
+                  }
+                ", js_summary_map)),
+                grouped = JS("function(cellInfo) { return cellInfo.value; }"))
             ), bordered = F,
             highlight = T, filterable = T,
             defaultPageSize = 20,  paginationType = "jump",
