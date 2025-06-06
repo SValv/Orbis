@@ -962,13 +962,13 @@ Items
 Zustand
 werte-berechnung
 Waffen
-Fernwaffen
-Ammo
 Kurzwaffen
 Großwaffen
 Stangenwaffen
-Wurfwaffen
 Faustwaffen
+Fernwaffen
+Ammo
+Wurfwaffen
 Rüstung
 Schilde
 Tranktaschen

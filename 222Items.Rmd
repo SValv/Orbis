@@ -63,46 +63,48 @@ dfwaffengegenstande = dfag %>% select("WaffengattungBookdown","Gegenstand","Prei
 
 
 summaries <- list(
-  "Schwert" = "Eine klassische Nahkampfwaffe – ausgewogen zwischen Schaden, Reichweite und Führbarkeit.",
-  "Rapier" = "Eine schnelle und präzise Waffe – ideal für Duelle. Schwach gegen gepanzerte Gegner.",
-  "Säbel" = "Eine gebogene, schnittlastige Waffe – schnell und effektiv gegen ungerüstete Ziele.",
-  "Kurzschwert" = "Kompakt und leicht – für schnelle Angriffe und enge Räume. Gute Zweitwaffe.",
-  "Axt" = "Hoher Schaden gegen Rüstung, aber langsamer – roh und brutal.",
-  "Knüppel" = "Eine improvisierte, stumpfe Waffe – billig, robust, kaum tödlich.",
-  "Streitkolben" = "Stumpfe Gewalt gegen Panzerung – langsam aber stark.",
-  "Rabenschnabel" = "Eine brutale Antirüstungswaffe – langsam, aber gefährlich gegen Plattenrüstung.",
-  "Dolch" = "Schnell und leicht – perfekt für Angriffe aus dem Hinterhalt oder Zweitwaffe.",
-  "Parierdolch" = "Wird zur Abwehr und im Nahkampf eingesetzt – gut in Kombination mit Haupthandwaffe.",
-  "Wurfdolch" = "Ein kleiner, leiser Wurfgegenstand – gut für Attentate und Störungen.",
-  "Kurzbogen" = "Eine schnelle und leichte Waffe für flexible Krieger – kann Spezialpfeile verwenden",
-  "Langbogen" = "Eine starke Waffe für gute Schützen. Schnell aber groß – kann Spezialpfeile verwenden",
-  "Armbrust" = "Eine schwere und starke Waffe, kann im Liegen geschossen werden und ist daher zum Attentat geeignet. Hat Spezialbolzen.",
-  "Einhandarmbrust" = "Eine kleine und leichte Armbrust. Ideal für Attentäter oder in Verbindung mit anderen Waffen. Hat Spezialbolzen.",
+  "Schwert" = "Der Klassiker – Ausgewogene Eigenschaften. Geeignet zum angreifen und parieren - oder gegen mehrere Gegner. Nicht ideal gegen Rüstung.",
+  "Rapier" = "Oft Wahl von Edelmännern – schnell und ideal für Duelle und ungepanzerte Gegner. Schwach gegen gepanzerte Gegner.",
+  "Säbel" = "Eine gebogene, schnittlastige Waffe – effektiv gegen ungerüstete Ziele und Gruppen.",
+  "Kurzschwert" = "Kompakt und leicht – für schnelle Angriffe und enge Räume. Gute Zweitwaffe die auch versteckt werden kann.",
+  "Axt" = "Roh und brutal. Hoher Schaden, aber schlecht zum parieren und verteidigen – kann gut geworfen werden.",
+  "Knüppel" = "Eine stumpfe Waffe – billig, robust, und gut geeignet Ziele zu betäuben.",
+  "Streitkolben" = "Eine Stumpfe Schlagwaffe – langsam aber stark. Effektiv gegen Panzerung. Kann Gegner betäuben - falls er sie davor nicht tötet.",
+  "Rabenschnabel" = "Eine brutale Antirüstungswaffe – langsam, aber enorm gefährlich gegen schwere Rüstung.",
+  "Dolch" = "Schnell und leicht – perfekt für Angriffe aus dem Hinterhalt oder Zweitwaffe. Außerdem gut versteckbar und ermöglicht einfache Attentate",
+  "Parierdolch" = "Ein Dolch der spezialisiert zur Abwehr und im Nahkampf eingesetzt wird – gut in Kombination mit einer Haupthandwaffe.",
+  "Wurfdolch" = "Ein kleiner, leiser Dolch, optimiert zum werfen – gut für Attentate und Störungen.",
+  "Kurzbogen" = "Eine schnelle und leichte Waffe für flexible Krieger.",
+  "Langbogen" = "Eine starke Waffe für gute Schützen. Schnell aber groß.",
+  "Armbrust" = "Eine schwere und starke Waffe, kann im Liegen geschossen werden und ist daher für Attentäter geeignet. Muss nachgeladen werden.",
+  "Einhandarmbrust" = "Eine kleine und leichte Armbrust. Ideal für Attentäter oder in Verbindung mit anderen Waffen. Muss nachgeladen werden.",
   "Muskete" = "Eine kugelgeladene Fernwaffe – laut und tödlich. Allerdings auch groß und mit langer Ladezeit.",
-  "Pistole" = "Eine neue kleinere kugelgeladene Waffe, laut aber stark und klein. Sehr teuer. Lädt wie die große.",
-  "Großschwert" = "Eine zweihändige Klinge mit enormem Schaden – langsam, aber einschüchternd.",
-  "Großaxt" = "Brutale Zweihandwaffe mit hohem Schadenspotential – ideal gegen Gruppen und Rüstung.",
-  "Schaufel des Allgotts" = "Ein ritueller, heiliger Gegenstand – als Waffe ungewöhnlich, aber mächtig im richtigen Glauben.",
+  "Pistole" = "Eine neue kleinere kugelgeladene Waffe, laut aber stark und klein. Sehr teuer. Lädt so lange wie die große.",
+  "Großschwert" = "Eine schwere Zweihandklinge – ideal gegen Gruppen, pariert gut, ist aber langsamer als einhändige Waffen.",
+  "Großaxt" = "Brutale Zweihandwaffe mit hohem Schadenspotential – ideal gegen eingzelne Gegner und gut gegen Gruppen und Rüstung.",
+  "Schaufel des Allgotts" = "Ein ritueller, heiliger Gegenstand – nur die würdigen können ihn Schwingen.",
   "Kriegshammer" = "Zweihändige Wuchtwaffe – exzellent gegen Rüstung, dafür schwerfällig.",
   "Speer" = "Mittlere Reichweite, gut gegen Reiter – kann auch geworfen werden.",
   "Kampfstab" = "Flexible Defensiv- und Kontrollwaffe – geringerer Schaden, dafür vielseitig.",
-  "Pike" = "Extrem lange Stangenwaffe – ideal gegen Kavallerie oder zur Verteidigung von Formationen.",
+  "Pike/Großspeer" = "Extrem lange Stangenwaffe – ideal gegen Kavallerie oder zur Verteidigung von Formationen.",
   "Hellebarde" = "Kombiniert Schlag, Stich und Haken – sehr vielseitig, aber sperrig.",
-  "Schlagring" = "Versteckte, harte Faustverstärkung – effektiv in engen Gassen.",
-  "Faustmesser" = "Zwischen Dolch und Axt – kurzer, brutaler Nahkampfstil.",
-  "Metallkrallen" = "Exotische Nahkampfwaffe – schnell, wild und schwer zu blockieren.",
-  "Faust" = "Unbewaffneter Kampf – schwach, aber manchmal die letzte Option.",
-  "Tritt" = "Unbewaffneter Angriff – zur Überraschung oder zum Entwaffnen.",
-  "Leichter Schild" = "Bietet Schutz und Mobilität – kann aktiv zur Parade eingesetzt werden.",
-  "Schild" = "Ein guter Schutz in der Schlacht – ausgeglichen zwischen Gewicht und Verteidigung.",
-  "Turmschild" = "Massiver Schild – exzellenter Schutz, aber extrem sperrig.",
-  "Schleuder" = "Alte Fernkampfwaffe – schwer zu meistern, aber leise und günstig.",
-  "Wurfaxt" = "Wuchtiges Wurfgeschoss – hoher Schaden, aber limitiert nutzbar.",
-  "Wurfmesser" = "Schnelle, präzise Distanzwaffe – für Ablenkung oder stille Kills.",
-  "Giftwurfmesser" = "Wenig Schaden, aber vergiftend – ideal zur Schwächung oder Ablenkung.",
+  "Schlagring" = "Versteckte, harte Faustverstärkung – kann man sehr gut verstecken.",
+  "Faustmesser" = "Zwischen Dolch und Faust – kurzer, brutaler Nahkampfstil. Versteckbar.",
+  "Metallkrallen" = "Exotische Nahkampfwaffe – schnell und wild. Gut gegen Rüstung.",
+  "Faust" = "Unbewaffneter Angriff – schwach, aber manchmal die letzte Option. Immer verfügbar.",
+  "Tritt" = "Unbewaffneter Angriff – zur Überraschung oder zum Umwerfen",
+  "Handsand" = "Die schnelle option eines Schurken um einen Gegner zu unterbrechen",
+  "Leichter Schild" = "Bietet Schutz und Mobilität – kann gegner gut entwaffnen. Schwacher Schildstoß.",
+  "Schild" = "Ein guter Schutz in der Schlacht – ausgeglichen zwischen Gewicht und Verteidigung. Mittlere Entwaffnung, mittlerer Schildstoß.",
+  "Turmschild" = "Massiver Schild – exzellenter Schutz, aber extrem sperrig. Niedriege Entwaffnungschance, starker Schildstoß.",
+  "Schleuder" = "Einfache Wurfwaffe ohne Munitionsbegrenzung solange man Steine hat – schwer zu meistern, aber leise und günstig.",
+  "Wurfaxt" = "Wuchtiges Wurfgeschoss – hoher Schaden, aber limitiert nutzbar. Sehr stabil.",
+  "Wurfmesser" = "Schnelle, präzise Distanzwaffe – für Ablenkung oder Unterbrechung. Viele mitführbar.",
+  "Giftwurfmesser" = "Variante des Wurfmessers - vergiftend – ideal zur Schwächung oder Ablenkung.",
   "Bola" = "Zum Fesseln oder Stolpern von Gegnern – wenig Schaden, aber kontrollierend.",
-  "Schwere Bola" = "Wie Bola, aber mit mehr Gewicht – kann auch Schaden verursachen.",
-  "Pilum" = "Ein schwerer römischer Wurfspeer – durchschlägt Schilde und bleibt stecken."
+  "Schwere Bola" = "Wie Bola, aber für größere Ziele wie Monster.",
+  "Pilum" = "Ein schwerer kaiserlicher Wurfspeer – durchschlägt Ziele und bleibt stecken. Geht oft bei Nutzung kaputt.",
+  "Stein" = "Eine improvisierte Wurfwaffe die sich fast immer finden lässt."
 )
 
 # Convert to JavaScript object format
@@ -114,92 +116,6 @@ js_summary_map <- paste(
 ```
 
 
-### Fernwaffen {#Fernwaffen}
-
-Fernwaffen sind ein notwendiges Asset für jede bewaffnete Gruppe. Sie erlauben schnelle und gute Hinterhalte und geben einem die Möglichkeit Feinde aus sicherer Entfernung anzugreifen. Des weiteren erlauben Fernwaffen die Benutzung von Spezialmunition - sogenannten <font color="green">[Munitionstypen](#Ammo)</font>.
-
-Fernkampfwaffen die man im liegen oder in der Hocke abfeuern kann bekommen zudem einen höheren Sneak-Modifikator, obwohl man wenn man einen Schleichangriff mit eine Muskete macht ohnehin direkt entdeckt wird. Fernkampfwaffen haben außerdem Vorteile bei der Initiative, was man <font color="green">[hier nachlesen kann](#Initiative)</font>. Sämtliche Fernwaffen haben einen Pariermodifikator von 0.2.
-
-Dies sind die Fernkampfwaffen, die einem als Abenteurer zur Auswahl stehen:
-
-```{r}
-dfwaffengegenstande %>% filter(WaffengattungBookdown == "Fernwaffen") %>% 
-  select(-WaffengattungBookdown) %>% 
-  reactable(groupBy = "Gegenstand",
-            columns = list(
-              
-              Preis = colDef(format=colFormat(suffix = " Reiks"),
-                             filterable = FALSE,minWidth= 75),
-              Gewicht = colDef(aggregate = "mean",format=colFormat(suffix = " Kg"),
-                               filterable = FALSE,minWidth= 75),
-              #Tier = colDef(aggregate = "unique"),
-              Gegenstand = colDef(
-                grouped = JS("function(cellInfo) {
-                            return cellInfo.value
-                          }"), align="left", minWidth= 150
-                
-              ),
-              Beschreibung = colDef(
-                align = "left",
-                minWidth = 260,
-                style = list(whiteSpace = "normal"),
-                aggregate = JS(sprintf("
-                  function(values, rows) {
-                    const gegenstand = rows[0]?.Gegenstand;
-                    const summaries = { %s };
-                    return summaries[gegenstand] || '';
-                  }
-                ", js_summary_map)),
-                grouped = JS("function(cellInfo) { return cellInfo.value; }"))
-            ), bordered = F,
-            highlight = T, filterable = T,
-            defaultPageSize = 20,  paginationType = "jump",
-            theme= overallThemeReactable, 
-            defaultColDef = colDef(
-              align = "center"
-            ), outlined = T,
-            striped=T, resizable = T)
-
-```
-
-
-Besonderheiten:
-
--   Mit der Muskete verbraucht das Nachladen eine Single und eine Main Action. Ausweichen ist während diesem Prozess nicht möglich, außer man hat eine Aktion übrig.
--   Alle Fernwaffen haben einen Wurfwert von 0.05
--   Während eines Kampfes hat der Spieler nur 10 Pfeile Spezialmunition in seinem Köcher zur Verfügung. Wenn es vollständig aufgebraucht ist, ist eine Main action erforderlich, um es wieder aufzufüllen.
--   Die Einhändige Armbrust hat eine 50% Versteckchance.
-
-
-#### Munitionstypen {#Ammo}
-
-Spezialmunition kann man Kaufen ebenso wie Herstellen. Die untere Tabelle zeigt eine Übersicht über deren Preise als auch über deren Herstellung. In einem Köcher kann man 10 Spezialpfeile tragen - ein Köcher benötigt einen Slot.
-
-Damit ein Giftpfeil seine Wirkung entfalten kann, muss er zuerst die Panzerung des Ziels durchdringen.
-
-<small>
-
-+------------------+------------------------+----------------------------+----------------------------------+----------------------------------+------------------------------------------------------------+
-| Name             | Kosten<br>bei Kauf     | Value für <br> Herstellung | Materialien                      | Anzahl Pfeile<br>bei Herstellung | Wirkung                                                    |
-+:================:+:======================:+:==========================:+:================================:+:================================:+:==========================================================:+
-| Botkinpfeil      | 225 Reiks<br>pro Pfeil | 2,3 Handwerk               | Material<br>Tier 1               | 10 Pfeile                        | 40% Armor <br> Penetration                                 |
-+------------------+------------------------+----------------------------+----------------------------------+----------------------------------+------------------------------------------------------------+
-| Stumpfer Pfeil   | 100 Reiks<br>pro Pfeil | 1,5 Handwerk               | Material<br>Tier 1               | 22 Pfeile                        | 80% Betäubungschance <br> Verringert Schaden               |
-+------------------+------------------------+----------------------------+----------------------------------+----------------------------------+------------------------------------------------------------+
-| Scharfer Pfeil   | 150 Reiks<br>pro Pfeil | 2 Handwerk                 | Material<br>Tier 1               | 15 Pfeile                        | 50% Chance <br> auf Bluten                                 |
-+------------------+------------------------+----------------------------+----------------------------------+----------------------------------+------------------------------------------------------------+
-| Brandkapselpfeil | 40 Reiks<br>pro Pfeil  | 1 Alchemie                 | Pflanze mit<br>Molotovikawirkung | 13 Pfeile                        | 30% Chance <br> auf Brennen                                |
-+------------------+------------------------+----------------------------+----------------------------------+----------------------------------+------------------------------------------------------------+
-| Giftpfeil Tier 1 | 30 Reiks<br>pro Pfeil  | 1 Alchemie                 | Gift <br>Tier 1                  | 9 Pfeile                         | 50% Chance auf<br>Gifteffekt Tier 1<br>höchste Ladungszahl |
-+------------------+------------------------+----------------------------+----------------------------------+----------------------------------+------------------------------------------------------------+
-| Giftpfeil Tier 2 | 70 Reiks<br>pro Pfeil  | 1,5 Alchemie               | Gift <br>Tier 2                  | 9 Pfeile                         | 50% Chance auf<br>Gifteffekt Tier 2<br>höchste Ladungszahl |
-+------------------+------------------------+----------------------------+----------------------------------+----------------------------------+------------------------------------------------------------+
-| Giftpfeil Tier 3 | 150 Reiks<br>pro Pfeil | 2 Alchemie                 | Gift <br>Tier 3                  | 9 Pfeile                         | 50% Chance auf<br>Gifteffekt Tier 3<br>höchste Ladungszahl |
-+------------------+------------------------+----------------------------+----------------------------------+----------------------------------+------------------------------------------------------------+
-| Giftpfeil Tier 4 | 220 Reiks<br>pro Pfeil | 2,3 Alchemie               | Gift <br>Tier 4                  | 9 Pfeile                         | 50% Chance auf<br>Gifteffekt Tier 4<br>höchste Ladungszahl |
-+------------------+------------------------+----------------------------+----------------------------------+----------------------------------+------------------------------------------------------------+
-
-</small>
 
 ### Kurzwaffen {#Kurzwaffen}
 
@@ -351,6 +267,143 @@ Besonderheiten:
 -   die Pike kann mit einem leichten Schild geführt werden
 -   der kleine Speer ist eine Einhandwaffe und kann somit mit allen Schilden geführt werden
 
+
+### Faustwaffen {#Faustwaffen}
+
+Faustwaffen sind dahingehend besonders, dass sie über den Skill "unbewaffnet" laufen. Sie lassen sich einfach verstecken oder in einen Kampfstil mit einer Kurzwaffe einbinden. Mit Faustwaffen ist das Parieren allerdings nicht möglich. Anbei sieht man eine Übersicht über die Faustwaffen:
+
+```{r}
+dfwaffengegenstande %>% filter(WaffengattungBookdown == "Faustwaffen") %>% 
+  select(-WaffengattungBookdown) %>% 
+  reactable(groupBy = "Gegenstand",
+            columns = list(
+              
+              Preis = colDef(format=colFormat(suffix = " Reiks"),
+                             filterable = FALSE,minWidth= 75),
+              Gewicht = colDef(aggregate = "mean",format=colFormat(suffix = " Kg"),
+                               filterable = FALSE,minWidth= 75),
+              #Tier = colDef(aggregate = "unique"),
+              Gegenstand = colDef(
+                grouped = JS("function(cellInfo) {
+                            return cellInfo.value
+                          }"), align="left", minWidth= 150
+                
+              ),
+              Beschreibung = colDef(
+                align = "left",
+                minWidth = 260,
+                style = list(whiteSpace = "normal"),
+                aggregate = JS(sprintf("
+                  function(values, rows) {
+                    const gegenstand = rows[0]?.Gegenstand;
+                    const summaries = { %s };
+                    return summaries[gegenstand] || '';
+                  }
+                ", js_summary_map)),
+                grouped = JS("function(cellInfo) { return cellInfo.value; }"))
+            ), bordered = F,
+            highlight = T, filterable = T,
+            defaultPageSize = 20,  paginationType = "jump",
+            theme= overallThemeReactable, 
+            defaultColDef = colDef(
+              align = "center"
+            ), outlined = T,
+            striped=T, resizable = T)
+
+```
+
+
+-   Alle Faustwaffen haben einen Wurfwert von 0.1
+
+
+### Fernwaffen {#Fernwaffen}
+
+Fernwaffen sind ein notwendiges Asset für jede bewaffnete Gruppe. Sie erlauben schnelle und gute Hinterhalte und geben einem die Möglichkeit Feinde aus sicherer Entfernung anzugreifen. Des weiteren erlauben Fernwaffen die Benutzung von Spezialmunition - sogenannten <font color="green">[Munitionstypen](#Ammo)</font>.
+
+Fernkampfwaffen die man im liegen oder in der Hocke abfeuern kann bekommen zudem einen höheren Sneak-Modifikator, obwohl man wenn man einen Schleichangriff mit eine Muskete macht ohnehin direkt entdeckt wird. Fernkampfwaffen haben außerdem Vorteile bei der Initiative, was man <font color="green">[hier nachlesen kann](#Initiative)</font>. Sämtliche Fernwaffen haben einen Pariermodifikator von 0.2.
+
+Dies sind die Fernkampfwaffen, die einem als Abenteurer zur Auswahl stehen:
+
+```{r}
+dfwaffengegenstande %>% filter(WaffengattungBookdown == "Fernwaffen") %>% 
+  select(-WaffengattungBookdown) %>% 
+  reactable(groupBy = "Gegenstand",
+            columns = list(
+              
+              Preis = colDef(format=colFormat(suffix = " Reiks"),
+                             filterable = FALSE,minWidth= 75),
+              Gewicht = colDef(aggregate = "mean",format=colFormat(suffix = " Kg"),
+                               filterable = FALSE,minWidth= 75),
+              #Tier = colDef(aggregate = "unique"),
+              Gegenstand = colDef(
+                grouped = JS("function(cellInfo) {
+                            return cellInfo.value
+                          }"), align="left", minWidth= 150
+                
+              ),
+              Beschreibung = colDef(
+                align = "left",
+                minWidth = 260,
+                style = list(whiteSpace = "normal"),
+                aggregate = JS(sprintf("
+                  function(values, rows) {
+                    const gegenstand = rows[0]?.Gegenstand;
+                    const summaries = { %s };
+                    return summaries[gegenstand] || '';
+                  }
+                ", js_summary_map)),
+                grouped = JS("function(cellInfo) { return cellInfo.value; }"))
+            ), bordered = F,
+            highlight = T, filterable = T,
+            defaultPageSize = 20,  paginationType = "jump",
+            theme= overallThemeReactable, 
+            defaultColDef = colDef(
+              align = "center"
+            ), outlined = T,
+            striped=T, resizable = T)
+
+```
+
+
+Besonderheiten:
+
+-   Mit der Muskete verbraucht das Nachladen eine Single und eine Main Action. Ausweichen ist während diesem Prozess nicht möglich, außer man hat eine Aktion übrig.
+-   Alle Fernwaffen haben einen Wurfwert von 0.05
+-   Während eines Kampfes hat der Spieler nur 10 Pfeile Spezialmunition in seinem Köcher zur Verfügung. Wenn es vollständig aufgebraucht ist, ist eine Main action erforderlich, um es wieder aufzufüllen.
+-   Die Einhändige Armbrust hat eine 50% Versteckchance.
+
+
+#### Munitionstypen {#Ammo}
+
+Spezialmunition kann man Kaufen ebenso wie Herstellen. Die untere Tabelle zeigt eine Übersicht über deren Preise als auch über deren Herstellung. In einem Köcher kann man 10 Spezialpfeile tragen - ein Köcher benötigt einen Slot.
+
+Damit ein Giftpfeil seine Wirkung entfalten kann, muss er zuerst die Panzerung des Ziels durchdringen.
+
+<small>
+
++------------------+------------------------+----------------------------+----------------------------------+----------------------------------+------------------------------------------------------------+
+| Name             | Kosten<br>bei Kauf     | Value für <br> Herstellung | Materialien                      | Anzahl Pfeile<br>bei Herstellung | Wirkung                                                    |
++:================:+:======================:+:==========================:+:================================:+:================================:+:==========================================================:+
+| Botkinpfeil      | 225 Reiks<br>pro Pfeil | 2,3 Handwerk               | Material<br>Tier 1               | 10 Pfeile                        | 40% Armor <br> Penetration                                 |
++------------------+------------------------+----------------------------+----------------------------------+----------------------------------+------------------------------------------------------------+
+| Stumpfer Pfeil   | 100 Reiks<br>pro Pfeil | 1,5 Handwerk               | Material<br>Tier 1               | 22 Pfeile                        | 80% Betäubungschance <br> Verringert Schaden               |
++------------------+------------------------+----------------------------+----------------------------------+----------------------------------+------------------------------------------------------------+
+| Scharfer Pfeil   | 150 Reiks<br>pro Pfeil | 2 Handwerk                 | Material<br>Tier 1               | 15 Pfeile                        | 50% Chance <br> auf Bluten                                 |
++------------------+------------------------+----------------------------+----------------------------------+----------------------------------+------------------------------------------------------------+
+| Brandkapselpfeil | 40 Reiks<br>pro Pfeil  | 1 Alchemie                 | Pflanze mit<br>Molotovikawirkung | 13 Pfeile                        | 30% Chance <br> auf Brennen                                |
++------------------+------------------------+----------------------------+----------------------------------+----------------------------------+------------------------------------------------------------+
+| Giftpfeil Tier 1 | 30 Reiks<br>pro Pfeil  | 1 Alchemie                 | Gift <br>Tier 1                  | 9 Pfeile                         | 50% Chance auf<br>Gifteffekt Tier 1<br>höchste Ladungszahl |
++------------------+------------------------+----------------------------+----------------------------------+----------------------------------+------------------------------------------------------------+
+| Giftpfeil Tier 2 | 70 Reiks<br>pro Pfeil  | 1,5 Alchemie               | Gift <br>Tier 2                  | 9 Pfeile                         | 50% Chance auf<br>Gifteffekt Tier 2<br>höchste Ladungszahl |
++------------------+------------------------+----------------------------+----------------------------------+----------------------------------+------------------------------------------------------------+
+| Giftpfeil Tier 3 | 150 Reiks<br>pro Pfeil | 2 Alchemie                 | Gift <br>Tier 3                  | 9 Pfeile                         | 50% Chance auf<br>Gifteffekt Tier 3<br>höchste Ladungszahl |
++------------------+------------------------+----------------------------+----------------------------------+----------------------------------+------------------------------------------------------------+
+| Giftpfeil Tier 4 | 220 Reiks<br>pro Pfeil | 2,3 Alchemie               | Gift <br>Tier 4                  | 9 Pfeile                         | 50% Chance auf<br>Gifteffekt Tier 4<br>höchste Ladungszahl |
++------------------+------------------------+----------------------------+----------------------------------+----------------------------------+------------------------------------------------------------+
+
+</small>
+
+
 ### Wurfwaffen {#Wurfwaffen}
 
 Viele professionelle Soldaten benutzen Wurfwaffen als Ergänzung und Unterstützung für ihre Gruppe. Oftmals hat dies strategische Gründe. Besonders wichtig ist die interrupt-option, die jede Aktion außer Blocken/Ausweichen sofort unterbricht.
@@ -404,52 +457,6 @@ Wurfwaffen können auch - wie normale Waffen - im Nahkampf verwendet werden. All
 
 -   Besonderheiten Wurfmesser: 50% Chance auf einen Folgeangriff in derselben Runde. Auf einen Folgeangriff kann ein weiterer Folgeangriff erfolgen.
 
-### Faustwaffen {#Faustwaffen}
-
-Faustwaffen sind dahingehend besonders, dass sie über den Skill "unbewaffnet" laufen. Sie lassen sich einfach verstecken oder in einen Kampfstil mit einer Kurzwaffe einbinden. Mit Faustwaffen ist das Parieren allerdings nicht möglich. Anbei sieht man eine Übersicht über die Faustwaffen:
-
-```{r}
-dfwaffengegenstande %>% filter(WaffengattungBookdown == "Faustwaffen") %>% 
-  select(-WaffengattungBookdown) %>% 
-  reactable(groupBy = "Gegenstand",
-            columns = list(
-              
-              Preis = colDef(format=colFormat(suffix = " Reiks"),
-                             filterable = FALSE,minWidth= 75),
-              Gewicht = colDef(aggregate = "mean",format=colFormat(suffix = " Kg"),
-                               filterable = FALSE,minWidth= 75),
-              #Tier = colDef(aggregate = "unique"),
-              Gegenstand = colDef(
-                grouped = JS("function(cellInfo) {
-                            return cellInfo.value
-                          }"), align="left", minWidth= 150
-                
-              ),
-              Beschreibung = colDef(
-                align = "left",
-                minWidth = 260,
-                style = list(whiteSpace = "normal"),
-                aggregate = JS(sprintf("
-                  function(values, rows) {
-                    const gegenstand = rows[0]?.Gegenstand;
-                    const summaries = { %s };
-                    return summaries[gegenstand] || '';
-                  }
-                ", js_summary_map)),
-                grouped = JS("function(cellInfo) { return cellInfo.value; }"))
-            ), bordered = F,
-            highlight = T, filterable = T,
-            defaultPageSize = 20,  paginationType = "jump",
-            theme= overallThemeReactable, 
-            defaultColDef = colDef(
-              align = "center"
-            ), outlined = T,
-            striped=T, resizable = T)
-
-```
-
-
--   Alle Faustwaffen haben einen Wurfwert von 0.1
 
 ## Rüstung {#Rüstung}
 
